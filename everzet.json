@@ -4,16 +4,16 @@
     "username": "everzet",
     "ctime": 1424882323,
     "mtime": 1424882323,
-    "id_version": 11,
-    "track_version": 0,
-    "last_id_change": 1451434656,
+    "id_version": 13,
+    "track_version": 1,
+    "last_id_change": 1454670605,
     "username_cased": "everzet"
   },
   "profile": {
-    "mtime": 1424882720,
+    "mtime": 1454670820,
     "full_name": "Konstantin Kudryashov",
     "location": "London, UK",
-    "bio": "Konstantin Kudryashov is the creator of Behat and heads the BDD Practice at Inviqa, a leading PHP consultancy business in Europe. As a BDD coach, he's coached many teams in many organisations to bridge the gap between business and tech."
+    "bio": "Konstantin Kudryashov is a public speaker, an Agile blogger, organiser of BDD London meetups, the creator of Behat, Mink, co-creator of PhpSpec and leads the Behaviour-Driven Development (BDD) practice at Inviqa UK."
   },
   "public_keys": {
     "primary": {
@@ -84,6 +84,18 @@
       "dns": [
         {
           "proof_type": "dns",
+          "nametag": "stakeholderwhisperer.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/everzet/sigchain#46435ceb16b159c560ff0883daa23f1ee32efdb5a39175f05a9a829f1cde09800f",
+          "sig_id": "46435ceb16b159c560ff0883daa23f1ee32efdb5a39175f05a9a829f1cde09800f",
+          "proof_id": "3f24705dda5155c323477010",
+          "human_url": "dns://stakeholderwhisperer.com",
+          "service_url": "http://stakeholderwhisperer.com",
+          "presentation_group": "stakeholderwhisperer.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "everzet.com",
           "state": 1,
           "proof_url": "https://keybase.io/everzet/sigchain#f4a2babb173dc09942b454bfad119440df8fc5197f1033037f050922f018194b0f",
@@ -123,6 +135,20 @@
           "service_url": "https://github.com/everzet",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "stakeholderwhisperer.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "stakeholderwhisperer.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/everzet/sigchain#46435ceb16b159c560ff0883daa23f1ee32efdb5a39175f05a9a829f1cde09800f",
+          "sig_id": "46435ceb16b159c560ff0883daa23f1ee32efdb5a39175f05a9a829f1cde09800f",
+          "proof_id": "3f24705dda5155c323477010",
+          "human_url": "dns://stakeholderwhisperer.com",
+          "service_url": "http://stakeholderwhisperer.com",
+          "presentation_group": "stakeholderwhisperer.com",
+          "presentation_tag": "dns"
         }
       ],
       "everzet.com": [
@@ -167,6 +193,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "stakeholderwhisperer.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/everzet/sigchain#46435ceb16b159c560ff0883daa23f1ee32efdb5a39175f05a9a829f1cde09800f",
+        "sig_id": "46435ceb16b159c560ff0883daa23f1ee32efdb5a39175f05a9a829f1cde09800f",
+        "proof_id": "3f24705dda5155c323477010",
+        "human_url": "dns://stakeholderwhisperer.com",
+        "service_url": "http://stakeholderwhisperer.com",
+        "presentation_group": "stakeholderwhisperer.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "everzet.com",
         "state": 1,
         "proof_url": "https://keybase.io/everzet/sigchain#f4a2babb173dc09942b454bfad119440df8fc5197f1033037f050922f018194b0f",
@@ -190,9 +228,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f4a2babb173dc09942b454bfad119440df8fc5197f1033037f050922f018194b0f",
-      "seqno": 3,
-      "payload_hash": "d76d37bd6eb325ea5eda656fb8b60ed26e3511c3232abc1fedecfea793366aa9"
+      "sig_id": "5a10bea29f6dba90db913890e657387406a4dd79ef11fc8c47d2e9d1118354080f",
+      "seqno": 5,
+      "payload_hash": "67124f64fe4b5b6d86fcdcf803e46c28fc3b6abb657157f39d4e618583c74475"
     }
   },
   "devices": {}
