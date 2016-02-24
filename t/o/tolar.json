@@ -4,9 +4,9 @@
     "username": "tolar",
     "ctime": 1412047797,
     "mtime": 1412047797,
-    "id_version": 12,
-    "track_version": 14,
-    "last_id_change": 1431064318,
+    "id_version": 14,
+    "track_version": 16,
+    "last_id_change": 1455849305,
     "username_cased": "tolar"
   },
   "profile": {
@@ -80,6 +80,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/tolar",
+          "state": 1,
+          "proof_url": "https://coinbase.com/tolar/public-key",
+          "sig_id": "1fb08aa0ad00c2b42402bfb9c55985879b83b6732e23c237409c11a4f06fb5fa0f",
+          "proof_id": "0346d1724fd51b3d3c022310",
+          "human_url": "https://coinbase.com/tolar/public-key",
+          "service_url": "https://coinbase.com/tolar",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
       ]
     },
     "by_presentation_group": {
@@ -110,6 +124,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/tolar",
+          "state": 1,
+          "proof_url": "https://coinbase.com/tolar/public-key",
+          "sig_id": "1fb08aa0ad00c2b42402bfb9c55985879b83b6732e23c237409c11a4f06fb5fa0f",
+          "proof_id": "0346d1724fd51b3d3c022310",
+          "human_url": "https://coinbase.com/tolar/public-key",
+          "service_url": "https://coinbase.com/tolar",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
       ]
     },
     "all": [
@@ -136,13 +164,32 @@
         "service_url": "https://github.com/rhaining",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/tolar",
+        "state": 1,
+        "proof_url": "https://coinbase.com/tolar/public-key",
+        "sig_id": "1fb08aa0ad00c2b42402bfb9c55985879b83b6732e23c237409c11a4f06fb5fa0f",
+        "proof_id": "0346d1724fd51b3d3c022310",
+        "human_url": "https://coinbase.com/tolar/public-key",
+        "service_url": "https://coinbase.com/tolar",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1DCZJcYah9nChxyqiE3vQQYMeXAbXAq49S",
+        "sig_id": "49ea8cafe3e2684c576f7af0e68d1d23f49d68256c3cc96bd5d1f2765d28b0400f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/60b5318394e1e03a79411c9a504fd305_200_200_square_200.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/025e505f651e080bb911e90ddd4c7f05_200_200_square_200.jpeg",
       "width": 200,
       "height": 200,
       "source": "twitter"
@@ -150,9 +197,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "da7e39d51f2ba049956cfd48d49b6a8fd6678e46acd4b43d46b3d010b60292980f",
-      "seqno": 34,
-      "payload_hash": "3557f634eb01f08be6568eacffdda7c0cdddbfa08243e333042ca76d2da94c4f"
+      "sig_id": "49ea8cafe3e2684c576f7af0e68d1d23f49d68256c3cc96bd5d1f2765d28b0400f",
+      "seqno": 38,
+      "payload_hash": "d519261015dc42008fd944919d386648b2bbb459d0cf097feb995e440418305e"
     }
   },
   "devices": {}
