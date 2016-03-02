@@ -4,9 +4,9 @@
     "username": "windley",
     "ctime": 1395701751,
     "mtime": 1395701751,
-    "id_version": 38,
+    "id_version": 39,
     "track_version": 45,
-    "last_id_change": 1456622195,
+    "last_id_change": 1456951965,
     "username_cased": "windley"
   },
   "profile": {
@@ -47,7 +47,9 @@
       "01214811ea4e679da6d7d198c46b87048097ab78ff330036f5c19dc627afe71abe250a",
       "01209b2699d108422c9be9f8dcd8ac0789788086bddf62cdb62057b7cb85a4cd2ceb0a",
       "01202e8b321cd3df155d37f64ca0e1881e66349be30b5201b66fa62f127c4f7cdcd30a",
-      "012147336ec59d7024785c273e1aa13c58159e79fa3b97217cc5e5b9f4f54351c95d0a"
+      "012147336ec59d7024785c273e1aa13c58159e79fa3b97217cc5e5b9f4f54351c95d0a",
+      "012050f1e2781807927c96e85b9938dc33ddc2c4e824591ba6f141c31cf3dcdee1330a",
+      "0121d39cb99f2ebd9db86157e34979b27e8bd964fa594466c96a6a32a1f9e0e422630a"
     ],
     "subkeys": [
       "0121fcecb9363807b941aac50f9c18275d7f1bdd09b9d1c004d8db2f61a8968a412d0a",
@@ -55,7 +57,8 @@
       "012157b95c94b428883fe56d396fc8befd8857405a0e0c381644ca0f99d63b59e5080a",
       "0121223a79802bf9019ef282c056cb1ebf8e4e79a79481a491b29e559e2e403b0c010a",
       "01214811ea4e679da6d7d198c46b87048097ab78ff330036f5c19dc627afe71abe250a",
-      "012147336ec59d7024785c273e1aa13c58159e79fa3b97217cc5e5b9f4f54351c95d0a"
+      "012147336ec59d7024785c273e1aa13c58159e79fa3b97217cc5e5b9f4f54351c95d0a",
+      "0121d39cb99f2ebd9db86157e34979b27e8bd964fa594466c96a6a32a1f9e0e422630a"
     ],
     "sibkeys": [
       "01019e586af8a41a6d3c1f5ac105a89d3021d72af26e5c509732ed7e8b0fce096e450a",
@@ -64,7 +67,8 @@
       "0120e5b6e0d0aa5dcefe3ea16b963164d57c2422feef6263ca6394c82f3834e403e50a",
       "0120fc162cdbae61484567a636b5f2127706e18e1d13c1fa7de677ac3ee75af6ea7e0a",
       "01209b2699d108422c9be9f8dcd8ac0789788086bddf62cdb62057b7cb85a4cd2ceb0a",
-      "01202e8b321cd3df155d37f64ca0e1881e66349be30b5201b66fa62f127c4f7cdcd30a"
+      "01202e8b321cd3df155d37f64ca0e1881e66349be30b5201b66fa62f127c4f7cdcd30a",
+      "012050f1e2781807927c96e85b9938dc33ddc2c4e824591ba6f141c31cf3dcdee1330a"
     ],
     "families": {
       "01014c741cf5b3a5e24b6f19bb3a7c9f8fe3bd000cee65afb659c9e11c8aa84cbd110a": [
@@ -83,7 +87,9 @@
         "01214811ea4e679da6d7d198c46b87048097ab78ff330036f5c19dc627afe71abe250a",
         "01209b2699d108422c9be9f8dcd8ac0789788086bddf62cdb62057b7cb85a4cd2ceb0a",
         "01202e8b321cd3df155d37f64ca0e1881e66349be30b5201b66fa62f127c4f7cdcd30a",
-        "012147336ec59d7024785c273e1aa13c58159e79fa3b97217cc5e5b9f4f54351c95d0a"
+        "012147336ec59d7024785c273e1aa13c58159e79fa3b97217cc5e5b9f4f54351c95d0a",
+        "012050f1e2781807927c96e85b9938dc33ddc2c4e824591ba6f141c31cf3dcdee1330a",
+        "0121d39cb99f2ebd9db86157e34979b27e8bd964fa594466c96a6a32a1f9e0e422630a"
       ]
     },
     "eldest_kid": "01019e586af8a41a6d3c1f5ac105a89d3021d72af26e5c509732ed7e8b0fce096e450a",
@@ -345,12 +351,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c353dde6abd99e79ab10c2218df6d5935ed7d753ca6ed75b1a6aa372ad9989680f",
-      "seqno": 79,
-      "payload_hash": "1e121ea62c5892432c84904eb15835ed75b667ac5c2577d89697630b34c6bcc6"
+      "sig_id": "587f486696f31f90aae74207209daa0a448e67ef8033dcc7247515e5dab5f2040f",
+      "seqno": 81,
+      "payload_hash": "7dce81447104ee436635eb856effe66cdee9cb86eba5131f70b946089acc4871"
     }
   },
   "devices": {
+    "5e0a02e81d2bb8bee18a7df403de3c18": {
+      "type": "desktop",
+      "ctime": 1456951965,
+      "mtime": 1456951965,
+      "name": "Office Mac",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012050f1e2781807927c96e85b9938dc33ddc2c4e824591ba6f141c31cf3dcdee1330a",
+          "key_role": 1,
+          "sig_id": "aa6bffe470ec0ef9c69458a76e0eac0d6256a70bf15058af3d6b45fa2c33674e0f"
+        },
+        {
+          "kid": "0121d39cb99f2ebd9db86157e34979b27e8bd964fa594466c96a6a32a1f9e0e422630a",
+          "key_role": 2,
+          "sig_id": "587f486696f31f90aae74207209daa0a448e67ef8033dcc7247515e5dab5f2040f"
+        }
+      ]
+    },
     "75dd6dbb97f96cb9c77aa1d2f3943b18": {
       "type": "backup",
       "ctime": 1454293145,
