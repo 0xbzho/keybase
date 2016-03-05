@@ -4,9 +4,9 @@
     "username": "gregburd",
     "ctime": 1398723546,
     "mtime": 1398723546,
-    "id_version": 120,
-    "track_version": 11,
-    "last_id_change": 1456412358,
+    "id_version": 121,
+    "track_version": 12,
+    "last_id_change": 1457030205,
     "username_cased": "gregburd"
   },
   "profile": {
@@ -42,18 +42,22 @@
       "0121f4b6736c2955458ce4d17cd6d14c44540278f568170f7f4c96e4bf7f7796933d0a",
       "012011cbaf29bb7854f00af9ff9d419a2739392c0372ca253ae2c5ea21712203393e0a",
       "0120cd8e143aaef577800d4041936f10b0965f82597384fc912f1a8429a44b84bfca0a",
-      "012188cb5000ab1eeff5b09ed2a9818c730006f097c839037fca837d3bfe8ed89c2a0a"
+      "012188cb5000ab1eeff5b09ed2a9818c730006f097c839037fca837d3bfe8ed89c2a0a",
+      "0121f561bc0dad353e8f82cd68ba02b6414dccd8852c88f3745879523630e0a52e0f0a",
+      "012040f4cfa8d45ee3c4531f5053b60b4a078bf2c1dbaccdd27814a35f3f54b8db690a"
     ],
     "subkeys": [
       "012198fa94e16bf4758006692902344eb394a4b0117ebc99736f285bfcc538e8ba110a",
       "0121d9d0a23c72e8141eb02c21010f215f051b77172337fab236b05284f5957af9440a",
-      "012188cb5000ab1eeff5b09ed2a9818c730006f097c839037fca837d3bfe8ed89c2a0a"
+      "012188cb5000ab1eeff5b09ed2a9818c730006f097c839037fca837d3bfe8ed89c2a0a",
+      "0121f561bc0dad353e8f82cd68ba02b6414dccd8852c88f3745879523630e0a52e0f0a"
     ],
     "sibkeys": [
       "0101bb533780820ff7e17428a15595bd25930f8ed8731d2c7e7962d74aeb86e8b4be0a",
       "0120a33e2d6ddcaa989f6fb55b98b3d3b8e69a894a73131a6dd2647dc0fe161358f20a",
       "012083161b28665d6cc67495ee8c3464759a3757c6bb93ca8f5b4a9f170b95f68e900a",
-      "0120cd8e143aaef577800d4041936f10b0965f82597384fc912f1a8429a44b84bfca0a"
+      "0120cd8e143aaef577800d4041936f10b0965f82597384fc912f1a8429a44b84bfca0a",
+      "012040f4cfa8d45ee3c4531f5053b60b4a078bf2c1dbaccdd27814a35f3f54b8db690a"
     ],
     "families": {
       "0101bb533780820ff7e17428a15595bd25930f8ed8731d2c7e7962d74aeb86e8b4be0a": [
@@ -65,7 +69,9 @@
         "0121f4b6736c2955458ce4d17cd6d14c44540278f568170f7f4c96e4bf7f7796933d0a",
         "012011cbaf29bb7854f00af9ff9d419a2739392c0372ca253ae2c5ea21712203393e0a",
         "0120cd8e143aaef577800d4041936f10b0965f82597384fc912f1a8429a44b84bfca0a",
-        "012188cb5000ab1eeff5b09ed2a9818c730006f097c839037fca837d3bfe8ed89c2a0a"
+        "012188cb5000ab1eeff5b09ed2a9818c730006f097c839037fca837d3bfe8ed89c2a0a",
+        "0121f561bc0dad353e8f82cd68ba02b6414dccd8852c88f3745879523630e0a52e0f0a",
+        "012040f4cfa8d45ee3c4531f5053b60b4a078bf2c1dbaccdd27814a35f3f54b8db690a"
       ]
     },
     "eldest_kid": "0101bb533780820ff7e17428a15595bd25930f8ed8731d2c7e7962d74aeb86e8b4be0a",
@@ -416,12 +422,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "4f58e9fafbe915a2c6bdc78a7246faa001dcb075b8abf75fa0a35e62a194cb740f",
-      "seqno": 55,
-      "payload_hash": "6c57a1b3b5232b198ec576abaf46838323609970e386804a2dd99ca189e59a8e"
+      "sig_id": "50ff2e222c3beea9df19e93a94625d2ddf78ff731273052e4788e3662d51e1370f",
+      "seqno": 58,
+      "payload_hash": "b292eff4567d159bd1e1acbe5a7d0e2f1689704318105dbdef2193fce5cf4c45"
     }
   },
   "devices": {
+    "8b5c3c75123625fcce36483c0813fb18": {
+      "type": "desktop",
+      "ctime": 1457030205,
+      "mtime": 1457030205,
+      "name": "MacBook Pro-elementaryOS-corfu",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012040f4cfa8d45ee3c4531f5053b60b4a078bf2c1dbaccdd27814a35f3f54b8db690a",
+          "key_role": 1,
+          "sig_id": "5402ee926f4b6ef2dbf7144383c0d6c3fb6c598fc838055789383049032d42320f"
+        },
+        {
+          "kid": "0121f561bc0dad353e8f82cd68ba02b6414dccd8852c88f3745879523630e0a52e0f0a",
+          "key_role": 2,
+          "sig_id": "50ff2e222c3beea9df19e93a94625d2ddf78ff731273052e4788e3662d51e1370f"
+        }
+      ]
+    },
     "d5cc01522b53431c0f65e3b3c7f55918": {
       "type": "backup",
       "ctime": 1456195941,
