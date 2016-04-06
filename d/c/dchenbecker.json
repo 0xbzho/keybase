@@ -4,9 +4,9 @@
     "username": "dchenbecker",
     "ctime": 1421870588,
     "mtime": 1421870588,
-    "id_version": 45,
-    "track_version": 9,
-    "last_id_change": 1457714565,
+    "id_version": 54,
+    "track_version": 11,
+    "last_id_change": 1458660057,
     "username_cased": "dchenbecker"
   },
   "profile": {
@@ -89,6 +89,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "chen-becker.org",
+          "state": 1,
+          "proof_url": "http://chen-becker.org/.well-known/keybase.txt",
+          "sig_id": "6d4bad0be3755b0acff8075d4f452cc9ef6d75098413076e8622dac8029016b10f",
+          "proof_id": "11b1d4720e5d2945258b5310",
+          "human_url": "http://chen-becker.org/.well-known/keybase.txt",
+          "service_url": "http://chen-becker.org",
+          "presentation_group": "chen-becker.org",
+          "presentation_tag": "http"
+        }
+      ],
       "dns": [
         {
           "proof_type": "dns",
@@ -134,6 +148,18 @@
         }
       ],
       "chen-becker.org": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "chen-becker.org",
+          "state": 1,
+          "proof_url": "http://chen-becker.org/.well-known/keybase.txt",
+          "sig_id": "6d4bad0be3755b0acff8075d4f452cc9ef6d75098413076e8622dac8029016b10f",
+          "proof_id": "11b1d4720e5d2945258b5310",
+          "human_url": "http://chen-becker.org/.well-known/keybase.txt",
+          "service_url": "http://chen-becker.org",
+          "presentation_group": "chen-becker.org",
+          "presentation_tag": "http"
+        },
         {
           "proof_type": "dns",
           "nametag": "chen-becker.org",
@@ -184,23 +210,42 @@
         "service_url": "http://chen-becker.org",
         "presentation_group": "chen-becker.org",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "chen-becker.org",
+        "state": 1,
+        "proof_url": "http://chen-becker.org/.well-known/keybase.txt",
+        "sig_id": "6d4bad0be3755b0acff8075d4f452cc9ef6d75098413076e8622dac8029016b10f",
+        "proof_id": "11b1d4720e5d2945258b5310",
+        "human_url": "http://chen-becker.org/.well-known/keybase.txt",
+        "service_url": "http://chen-becker.org",
+        "presentation_group": "chen-becker.org",
+        "presentation_tag": "http"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1ExhXGsiEpJfCELr6x8fFjkauwPUSUNDHj",
+        "sig_id": "77d53133b79756613c34b4a8c2aa2d9cfa1a559e23b47285aadd1535412757e60f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/8c61f2979be2a9a26d0fb378a889bb05_200_200_square_200.jpeg",
-      "width": 200,
-      "height": 200,
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/8c61f2979be2a9a26d0fb378a889bb05_360_360_square_360.jpeg",
+      "width": 360,
+      "height": 360,
       "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "298de39036cca0219b20c112dd27f88db544d5b27cd4d0e3e1514c9afbd0b8360f",
-      "seqno": 26,
-      "payload_hash": "2176f446e7d19c2cf64e15aae1989ccd5bf1c553ceb460a73e65dd204ee669d0"
+      "sig_id": "228d926b9ad3ed67248204d5ed22acb28331c9b1855749d037443423e3f901d80f",
+      "seqno": 30,
+      "payload_hash": "46cdca494c8ef9ed76b0088284d96ff630382eccc6bb720bcac349526691342c"
     }
   },
   "devices": {}
