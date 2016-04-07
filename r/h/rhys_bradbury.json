@@ -1,0 +1,98 @@
+{
+  "id": "b1d40793b654a3b0805cf67c45361e19",
+  "basics": {
+    "username": "rhys_bradbury",
+    "ctime": 1455113177,
+    "mtime": 1455113177,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1455117115,
+    "username_cased": "rhys_bradbury"
+  },
+  "profile": {
+    "mtime": 1455117243,
+    "full_name": "Rhys",
+    "location": "London",
+    "bio": "It's me"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "01200e5056cd993b8440c0bf5cd007f3a5cc69b8e1ce84585e837590facdd59b91050a",
+      "01211a39544dd98179978883276ae3c040e7a017046a1e7882a70c1838b21e68bd500a",
+      "0120b281524a742dc4b3caa7f537ad92c61c2c84971657a8a3ac22e972071d64928b0a",
+      "012180f9919d0a9bf38f5ba0cd2c895edab71a754abdc8ae0d51c4bcf9745fa1e4500a"
+    ],
+    "subkeys": [
+      "01211a39544dd98179978883276ae3c040e7a017046a1e7882a70c1838b21e68bd500a",
+      "012180f9919d0a9bf38f5ba0cd2c895edab71a754abdc8ae0d51c4bcf9745fa1e4500a"
+    ],
+    "sibkeys": [
+      "01200e5056cd993b8440c0bf5cd007f3a5cc69b8e1ce84585e837590facdd59b91050a",
+      "0120b281524a742dc4b3caa7f537ad92c61c2c84971657a8a3ac22e972071d64928b0a"
+    ],
+    "families": {
+      "0120b281524a742dc4b3caa7f537ad92c61c2c84971657a8a3ac22e972071d64928b0a": [
+        "01200e5056cd993b8440c0bf5cd007f3a5cc69b8e1ce84585e837590facdd59b91050a",
+        "01211a39544dd98179978883276ae3c040e7a017046a1e7882a70c1838b21e68bd500a",
+        "0120b281524a742dc4b3caa7f537ad92c61c2c84971657a8a3ac22e972071d64928b0a",
+        "012180f9919d0a9bf38f5ba0cd2c895edab71a754abdc8ae0d51c4bcf9745fa1e4500a"
+      ]
+    },
+    "eldest_kid": "0120b281524a742dc4b3caa7f537ad92c61c2c84971657a8a3ac22e972071d64928b0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "e236c6cd45262249c80bd4f128a0d03c39f1e41c0bcba5e7a4d3dfff40f46f200f",
+      "seqno": 4,
+      "payload_hash": "028628f59ed4f878adb70d51c8f46ab430c135493e72132e06a5fb2cd8c9277b"
+    }
+  },
+  "devices": {
+    "2fa3a9d4933fcee094d9ac5d306a5918": {
+      "type": "backup",
+      "ctime": 1455117115,
+      "mtime": 1455117115,
+      "name": "across patient",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01200e5056cd993b8440c0bf5cd007f3a5cc69b8e1ce84585e837590facdd59b91050a",
+          "key_role": 1,
+          "sig_id": "c6784b0d508de610850cde328bc920b250116b36af30906f92b6dda98d7518ce0f"
+        },
+        {
+          "kid": "012180f9919d0a9bf38f5ba0cd2c895edab71a754abdc8ae0d51c4bcf9745fa1e4500a",
+          "key_role": 2,
+          "sig_id": "e236c6cd45262249c80bd4f128a0d03c39f1e41c0bcba5e7a4d3dfff40f46f200f"
+        }
+      ]
+    },
+    "e1b6d67c0e50fb8d4e3518d4a65a8018": {
+      "type": "desktop",
+      "ctime": 1455117115,
+      "mtime": 1455117115,
+      "name": "rhys_mac_1",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b281524a742dc4b3caa7f537ad92c61c2c84971657a8a3ac22e972071d64928b0a",
+          "key_role": 1,
+          "sig_id": "dbe2692d1a113ffd10949a303515dae9bbd63a1efa26a489cb408ce0b3c9f25b0f"
+        },
+        {
+          "kid": "01211a39544dd98179978883276ae3c040e7a017046a1e7882a70c1838b21e68bd500a",
+          "key_role": 2,
+          "sig_id": "6a883a5730ead246b930d2b7b85ca39f6bce719d717cf681891ca652b8e8b3cf0f"
+        }
+      ]
+    }
+  }
+}
