@@ -4,9 +4,9 @@
     "username": "plttn",
     "ctime": 1396636525,
     "mtime": 1396636525,
-    "id_version": 191,
+    "id_version": 198,
     "track_version": 6,
-    "last_id_change": 1459956220,
+    "last_id_change": 1460155435,
     "username_cased": "plttn"
   },
   "profile": {
@@ -164,30 +164,30 @@
           "presentation_tag": "post"
         }
       ],
-      "dns": [
+      "generic_web_site": [
         {
-          "proof_type": "dns",
-          "nametag": "plttn.me",
-          "state": 1,
-          "proof_url": "https://keybase.io/plttn/sigchain#31f22783f5c13c343f6421608cd97e95430abc89fbef638c53426fd2a2fd13bb0f",
-          "sig_id": "31f22783f5c13c343f6421608cd97e95430abc89fbef638c53426fd2a2fd13bb0f",
-          "proof_id": "28fe735da0154ee15e557d10",
-          "human_url": "dns://plttn.me",
-          "service_url": "http://plttn.me",
-          "presentation_group": "plttn.me",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
+          "proof_type": "generic_web_site",
           "nametag": "jack.gg",
           "state": 1,
-          "proof_url": "https://keybase.io/plttn/sigchain#f33c9d6e5e1ef6987d7bc11f56d5668930d234689db4f51a528bf9eeca0371fc0f",
-          "sig_id": "f33c9d6e5e1ef6987d7bc11f56d5668930d234689db4f51a528bf9eeca0371fc0f",
-          "proof_id": "9baf75d1d11cedde4bf28810",
-          "human_url": "dns://jack.gg",
-          "service_url": "http://jack.gg",
+          "proof_url": "https://jack.gg/.well-known/keybase.txt",
+          "sig_id": "8a3f4c3312618ed6560a8db882e904d02ced9750c5e6847ea88a40c3a079834b0f",
+          "proof_id": "7e975150f0f0302b2d3fd010",
+          "human_url": "https://jack.gg/.well-known/keybase.txt",
+          "service_url": "https://jack.gg",
           "presentation_group": "jack.gg",
-          "presentation_tag": "dns"
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "plttn.me",
+          "state": 1,
+          "proof_url": "https://plttn.me/.well-known/keybase.txt",
+          "sig_id": "695359fd0aeb037f85681c1a5963d1352103bce0a163db0ae69894d88115b8500f",
+          "proof_id": "c148215b5938daa227e00610",
+          "human_url": "https://plttn.me/.well-known/keybase.txt",
+          "service_url": "https://plttn.me",
+          "presentation_group": "plttn.me",
+          "presentation_tag": "https"
         }
       ]
     },
@@ -248,32 +248,32 @@
           "presentation_tag": "post"
         }
       ],
-      "plttn.me": [
-        {
-          "proof_type": "dns",
-          "nametag": "plttn.me",
-          "state": 1,
-          "proof_url": "https://keybase.io/plttn/sigchain#31f22783f5c13c343f6421608cd97e95430abc89fbef638c53426fd2a2fd13bb0f",
-          "sig_id": "31f22783f5c13c343f6421608cd97e95430abc89fbef638c53426fd2a2fd13bb0f",
-          "proof_id": "28fe735da0154ee15e557d10",
-          "human_url": "dns://plttn.me",
-          "service_url": "http://plttn.me",
-          "presentation_group": "plttn.me",
-          "presentation_tag": "dns"
-        }
-      ],
       "jack.gg": [
         {
-          "proof_type": "dns",
+          "proof_type": "generic_web_site",
           "nametag": "jack.gg",
           "state": 1,
-          "proof_url": "https://keybase.io/plttn/sigchain#f33c9d6e5e1ef6987d7bc11f56d5668930d234689db4f51a528bf9eeca0371fc0f",
-          "sig_id": "f33c9d6e5e1ef6987d7bc11f56d5668930d234689db4f51a528bf9eeca0371fc0f",
-          "proof_id": "9baf75d1d11cedde4bf28810",
-          "human_url": "dns://jack.gg",
-          "service_url": "http://jack.gg",
+          "proof_url": "https://jack.gg/.well-known/keybase.txt",
+          "sig_id": "8a3f4c3312618ed6560a8db882e904d02ced9750c5e6847ea88a40c3a079834b0f",
+          "proof_id": "7e975150f0f0302b2d3fd010",
+          "human_url": "https://jack.gg/.well-known/keybase.txt",
+          "service_url": "https://jack.gg",
           "presentation_group": "jack.gg",
-          "presentation_tag": "dns"
+          "presentation_tag": "https"
+        }
+      ],
+      "plttn.me": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "plttn.me",
+          "state": 1,
+          "proof_url": "https://plttn.me/.well-known/keybase.txt",
+          "sig_id": "695359fd0aeb037f85681c1a5963d1352103bce0a163db0ae69894d88115b8500f",
+          "proof_id": "c148215b5938daa227e00610",
+          "human_url": "https://plttn.me/.well-known/keybase.txt",
+          "service_url": "https://plttn.me",
+          "presentation_group": "plttn.me",
+          "presentation_tag": "https"
         }
       ]
     },
@@ -327,28 +327,28 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "dns",
-        "nametag": "plttn.me",
-        "state": 1,
-        "proof_url": "https://keybase.io/plttn/sigchain#31f22783f5c13c343f6421608cd97e95430abc89fbef638c53426fd2a2fd13bb0f",
-        "sig_id": "31f22783f5c13c343f6421608cd97e95430abc89fbef638c53426fd2a2fd13bb0f",
-        "proof_id": "28fe735da0154ee15e557d10",
-        "human_url": "dns://plttn.me",
-        "service_url": "http://plttn.me",
-        "presentation_group": "plttn.me",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
+        "proof_type": "generic_web_site",
         "nametag": "jack.gg",
         "state": 1,
-        "proof_url": "https://keybase.io/plttn/sigchain#f33c9d6e5e1ef6987d7bc11f56d5668930d234689db4f51a528bf9eeca0371fc0f",
-        "sig_id": "f33c9d6e5e1ef6987d7bc11f56d5668930d234689db4f51a528bf9eeca0371fc0f",
-        "proof_id": "9baf75d1d11cedde4bf28810",
-        "human_url": "dns://jack.gg",
-        "service_url": "http://jack.gg",
+        "proof_url": "https://jack.gg/.well-known/keybase.txt",
+        "sig_id": "8a3f4c3312618ed6560a8db882e904d02ced9750c5e6847ea88a40c3a079834b0f",
+        "proof_id": "7e975150f0f0302b2d3fd010",
+        "human_url": "https://jack.gg/.well-known/keybase.txt",
+        "service_url": "https://jack.gg",
         "presentation_group": "jack.gg",
-        "presentation_tag": "dns"
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "plttn.me",
+        "state": 1,
+        "proof_url": "https://plttn.me/.well-known/keybase.txt",
+        "sig_id": "695359fd0aeb037f85681c1a5963d1352103bce0a163db0ae69894d88115b8500f",
+        "proof_id": "c148215b5938daa227e00610",
+        "human_url": "https://plttn.me/.well-known/keybase.txt",
+        "service_url": "https://plttn.me",
+        "presentation_group": "plttn.me",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -363,9 +363,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2e24cb2588c7438748339e7fa59792a881cc3a440c210647f766cbdd267e87590f",
-      "seqno": 71,
-      "payload_hash": "e5f762bd80ec1cc14298e8d7e45fadaa21b6b3f2d5b16c9c691e9ab780eb0c78"
+      "sig_id": "8a3f4c3312618ed6560a8db882e904d02ced9750c5e6847ea88a40c3a079834b0f",
+      "seqno": 75,
+      "payload_hash": "84ef241f44dd50825291724046bc0adf1fff0c2aa912d34f79d3c2d24fb3bedd"
     }
   },
   "devices": {
