@@ -4,9 +4,9 @@
     "username": "gabriel_rinaldi",
     "ctime": 1412056124,
     "mtime": 1412056124,
-    "id_version": 61,
+    "id_version": 62,
     "track_version": 8,
-    "last_id_change": 1458840432,
+    "last_id_change": 1460249604,
     "username_cased": "gabriel_rinaldi"
   },
   "profile": {
@@ -39,16 +39,18 @@
       "0121100e7a06de86a353f4960da61d8e5d07c30f1e2c845b0e255e1485697dd4750b0a",
       "0120c85ca7987d64d1f6f6df5c9f7191693a56c6144d0013e8c43e14860abc919fcd0a",
       "01203e0c963bf015f7239f635dd5168cc77c27782a3ebc8aa8d89c698fdebd6cdddc0a",
-      "01217602058824c08f046721a2032f2e5fbe31ebbe62d1d606c75fa24c91da5e122a0a"
+      "01217602058824c08f046721a2032f2e5fbe31ebbe62d1d606c75fa24c91da5e122a0a",
+      "0120a8cf71f706b76264c37e40de8315e147a42992cc43e5af6c330cb9373df074060a",
+      "0121ad1bf10648f9b04c798e5242fbc18247c7ab7693d83fe1e498623ca3f00089450a"
     ],
     "subkeys": [
-      "0121100e7a06de86a353f4960da61d8e5d07c30f1e2c845b0e255e1485697dd4750b0a",
-      "01217602058824c08f046721a2032f2e5fbe31ebbe62d1d606c75fa24c91da5e122a0a"
+      "01217602058824c08f046721a2032f2e5fbe31ebbe62d1d606c75fa24c91da5e122a0a",
+      "0121ad1bf10648f9b04c798e5242fbc18247c7ab7693d83fe1e498623ca3f00089450a"
     ],
     "sibkeys": [
       "0101c54fe6f78a47527bbd2743b3979a6c194d3de63dc1599e7c66d5afb1d70915250a",
-      "0120c85ca7987d64d1f6f6df5c9f7191693a56c6144d0013e8c43e14860abc919fcd0a",
-      "01203e0c963bf015f7239f635dd5168cc77c27782a3ebc8aa8d89c698fdebd6cdddc0a"
+      "01203e0c963bf015f7239f635dd5168cc77c27782a3ebc8aa8d89c698fdebd6cdddc0a",
+      "0120a8cf71f706b76264c37e40de8315e147a42992cc43e5af6c330cb9373df074060a"
     ],
     "families": {
       "0101c54fe6f78a47527bbd2743b3979a6c194d3de63dc1599e7c66d5afb1d70915250a": [
@@ -57,7 +59,9 @@
         "0121100e7a06de86a353f4960da61d8e5d07c30f1e2c845b0e255e1485697dd4750b0a",
         "0120c85ca7987d64d1f6f6df5c9f7191693a56c6144d0013e8c43e14860abc919fcd0a",
         "01203e0c963bf015f7239f635dd5168cc77c27782a3ebc8aa8d89c698fdebd6cdddc0a",
-        "01217602058824c08f046721a2032f2e5fbe31ebbe62d1d606c75fa24c91da5e122a0a"
+        "01217602058824c08f046721a2032f2e5fbe31ebbe62d1d606c75fa24c91da5e122a0a",
+        "0120a8cf71f706b76264c37e40de8315e147a42992cc43e5af6c330cb9373df074060a",
+        "0121ad1bf10648f9b04c798e5242fbc18247c7ab7693d83fe1e498623ca3f00089450a"
       ]
     },
     "eldest_kid": "0101c54fe6f78a47527bbd2743b3979a6c194d3de63dc1599e7c66d5afb1d70915250a",
@@ -292,31 +296,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "75d3f29c675bf4b575c00d8e4668f682bc60feab556024071368db527fffc9a90f",
-      "seqno": 24,
-      "payload_hash": "d4da6f36c736ed88ddb558cf0ec5bf297681c16efb0b39c9e4fdea51adc16f91"
+      "sig_id": "aec47f4a62d6488e918d517fa9febd0237f4677a7be845c17a9bb9f7f9a85e480f",
+      "seqno": 27,
+      "payload_hash": "d3f38190fc4ab191c6440ffd15bb968757a5dbdb8420cfcbfd9b6ca2e6774def"
     }
   },
   "devices": {
-    "156fca2e4133a07818999fff82685318": {
-      "type": "desktop",
-      "ctime": 1449428965,
-      "mtime": 1449428965,
-      "name": "Gabriel's MacBook Pro",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120c85ca7987d64d1f6f6df5c9f7191693a56c6144d0013e8c43e14860abc919fcd0a",
-          "key_role": 1,
-          "sig_id": "b98d15833979330a324bc6560681eec9706b85e5c59a6329cb33fda23e92bf190f"
-        },
-        {
-          "kid": "0121100e7a06de86a353f4960da61d8e5d07c30f1e2c845b0e255e1485697dd4750b0a",
-          "key_role": 2,
-          "sig_id": "b7130c06a1017180c112af75a429721ec1f359fac2fea1d0bc10327d8dcf291e0f"
-        }
-      ]
-    },
     "7d73a4a5dae9b0ac7aa585c504550718": {
       "type": "backup",
       "ctime": 1449428967,
@@ -333,6 +318,25 @@
           "kid": "01217602058824c08f046721a2032f2e5fbe31ebbe62d1d606c75fa24c91da5e122a0a",
           "key_role": 2,
           "sig_id": "ba4f69f9fe51728f9494bf3d81df6aa7b0ddfd5623d48434b701f443fffbb42d0f"
+        }
+      ]
+    },
+    "8a95bb17ba0c313c098e1db4a2d26a18": {
+      "type": "desktop",
+      "ctime": 1460249604,
+      "mtime": 1460249604,
+      "name": "Gabriel Rinaldi's MacBook Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a8cf71f706b76264c37e40de8315e147a42992cc43e5af6c330cb9373df074060a",
+          "key_role": 1,
+          "sig_id": "0a709186771496b9977337f5975284faa56eaa91103db9bb5e7917e4c38c8dc70f"
+        },
+        {
+          "kid": "0121ad1bf10648f9b04c798e5242fbc18247c7ab7693d83fe1e498623ca3f00089450a",
+          "key_role": 2,
+          "sig_id": "2324ac522c1c9cc30ccecc847b0a2caee55cd77201f56a30dbf7a868cb8941ab0f"
         }
       ]
     }
