@@ -4,15 +4,15 @@
     "username": "north",
     "ctime": 1439502981,
     "mtime": 1439502981,
-    "id_version": 2,
+    "id_version": 6,
     "track_version": 0,
-    "last_id_change": 1439503847,
+    "last_id_change": 1460217227,
     "username_cased": "north"
   },
   "profile": {
-    "mtime": 1439503543,
+    "mtime": 1460217360,
     "full_name": "Tom Boice",
-    "location": "Pensacola",
+    "location": "San Francisco",
     "bio": null
   },
   "public_keys": {
@@ -52,16 +52,107 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "cheftnb",
+          "state": 1,
+          "proof_url": "https://twitter.com/cheftnb/status/718828381689769985",
+          "sig_id": "8d041a28cda35b83f4b0aa3ab2bc80539526dd1e32d1f79483d7cd8696c71c230f",
+          "proof_id": "5522d6f646481d340a2e5110",
+          "human_url": "https://twitter.com/cheftnb/status/718828381689769985",
+          "service_url": "https://twitter.com/cheftnb",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/boice",
+          "state": 1,
+          "proof_url": "https://coinbase.com/boice/public-key",
+          "sig_id": "dc3db6f7dff857d7e1ceff226ac729ecd4b61dd84392c397391241233058c0e90f",
+          "proof_id": "131d2f6267b19c457a696310",
+          "human_url": "https://coinbase.com/boice/public-key",
+          "service_url": "https://coinbase.com/boice",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "cheftnb",
+          "state": 1,
+          "proof_url": "https://twitter.com/cheftnb/status/718828381689769985",
+          "sig_id": "8d041a28cda35b83f4b0aa3ab2bc80539526dd1e32d1f79483d7cd8696c71c230f",
+          "proof_id": "5522d6f646481d340a2e5110",
+          "human_url": "https://twitter.com/cheftnb/status/718828381689769985",
+          "service_url": "https://twitter.com/cheftnb",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/boice",
+          "state": 1,
+          "proof_url": "https://coinbase.com/boice/public-key",
+          "sig_id": "dc3db6f7dff857d7e1ceff226ac729ecd4b61dd84392c397391241233058c0e90f",
+          "proof_id": "131d2f6267b19c457a696310",
+          "human_url": "https://coinbase.com/boice/public-key",
+          "service_url": "https://coinbase.com/boice",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "cheftnb",
+        "state": 1,
+        "proof_url": "https://twitter.com/cheftnb/status/718828381689769985",
+        "sig_id": "8d041a28cda35b83f4b0aa3ab2bc80539526dd1e32d1f79483d7cd8696c71c230f",
+        "proof_id": "5522d6f646481d340a2e5110",
+        "human_url": "https://twitter.com/cheftnb/status/718828381689769985",
+        "service_url": "https://twitter.com/cheftnb",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/boice",
+        "state": 1,
+        "proof_url": "https://coinbase.com/boice/public-key",
+        "sig_id": "dc3db6f7dff857d7e1ceff226ac729ecd4b61dd84392c397391241233058c0e90f",
+        "proof_id": "131d2f6267b19c457a696310",
+        "human_url": "https://coinbase.com/boice/public-key",
+        "service_url": "https://coinbase.com/boice",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      }
+    ]
   },
   "cryptocurrency_addresses": {},
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/a5a0b94bd13925c963980bd36d767105_360_360_square_360.jpeg",
+      "width": 360,
+      "height": 360,
+      "source": "twitter"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "a739e976b6c34b4b3867488e6e40e7c9c4cb71050afdc2c06343d278395ef68c0f",
-      "seqno": 1,
-      "payload_hash": "b0dacfde2fd0ee3d3e608c5165c2cf0001c86f6bc84e6f19c4bbeae7e29f4da9"
+      "sig_id": "dc3db6f7dff857d7e1ceff226ac729ecd4b61dd84392c397391241233058c0e90f",
+      "seqno": 3,
+      "payload_hash": "f28f65f9ba52e12eb566113e18098312bc7e0c782188ac803cf5c3f4fefa780b"
     }
   },
   "devices": {}
