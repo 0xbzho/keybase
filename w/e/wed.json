@@ -4,9 +4,9 @@
     "username": "wed",
     "ctime": 1458028449,
     "mtime": 1458028449,
-    "id_version": 30,
+    "id_version": 36,
     "track_version": 5,
-    "last_id_change": 1459964717,
+    "last_id_change": 1460444861,
     "username_cased": "Wed"
   },
   "profile": {
@@ -149,6 +149,30 @@
       "dns": [
         {
           "proof_type": "dns",
+          "nametag": "wedsrepo.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/wed/sigchain#d55431b00f4186bf35b5ea9b678d164b53551dcec29f0b46751973884a17d4610f",
+          "sig_id": "d55431b00f4186bf35b5ea9b678d164b53551dcec29f0b46751973884a17d4610f",
+          "proof_id": "32cf2fb6fbfa72e732877510",
+          "human_url": "dns://wedsrepo.de",
+          "service_url": "http://wedsrepo.de",
+          "presentation_group": "wedsrepo.de",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "turcan.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/wed/sigchain#d7499ef73c258733da6b0857837710af37d1ec300435cdec624d54a1148e95590f",
+          "sig_id": "d7499ef73c258733da6b0857837710af37d1ec300435cdec624d54a1148e95590f",
+          "proof_id": "6411a4d1d763129b68373310",
+          "human_url": "dns://turcan.de",
+          "service_url": "http://turcan.de",
+          "presentation_group": "turcan.de",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "wedsblog.net",
           "state": 1,
           "proof_url": "https://keybase.io/wed/sigchain#2c62da73a2bbb288771d8e795231d7b5ee4110a7554cbb88dc7242191957098e0f",
@@ -218,6 +242,34 @@
           "presentation_tag": "https"
         }
       ],
+      "wedsrepo.de": [
+        {
+          "proof_type": "dns",
+          "nametag": "wedsrepo.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/wed/sigchain#d55431b00f4186bf35b5ea9b678d164b53551dcec29f0b46751973884a17d4610f",
+          "sig_id": "d55431b00f4186bf35b5ea9b678d164b53551dcec29f0b46751973884a17d4610f",
+          "proof_id": "32cf2fb6fbfa72e732877510",
+          "human_url": "dns://wedsrepo.de",
+          "service_url": "http://wedsrepo.de",
+          "presentation_group": "wedsrepo.de",
+          "presentation_tag": "dns"
+        }
+      ],
+      "turcan.de": [
+        {
+          "proof_type": "dns",
+          "nametag": "turcan.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/wed/sigchain#d7499ef73c258733da6b0857837710af37d1ec300435cdec624d54a1148e95590f",
+          "sig_id": "d7499ef73c258733da6b0857837710af37d1ec300435cdec624d54a1148e95590f",
+          "proof_id": "6411a4d1d763129b68373310",
+          "human_url": "dns://turcan.de",
+          "service_url": "http://turcan.de",
+          "presentation_group": "turcan.de",
+          "presentation_tag": "dns"
+        }
+      ],
       "wedsblog.net": [
         {
           "proof_type": "dns",
@@ -272,6 +324,30 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "wedsrepo.de",
+        "state": 1,
+        "proof_url": "https://keybase.io/wed/sigchain#d55431b00f4186bf35b5ea9b678d164b53551dcec29f0b46751973884a17d4610f",
+        "sig_id": "d55431b00f4186bf35b5ea9b678d164b53551dcec29f0b46751973884a17d4610f",
+        "proof_id": "32cf2fb6fbfa72e732877510",
+        "human_url": "dns://wedsrepo.de",
+        "service_url": "http://wedsrepo.de",
+        "presentation_group": "wedsrepo.de",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "turcan.de",
+        "state": 1,
+        "proof_url": "https://keybase.io/wed/sigchain#d7499ef73c258733da6b0857837710af37d1ec300435cdec624d54a1148e95590f",
+        "sig_id": "d7499ef73c258733da6b0857837710af37d1ec300435cdec624d54a1148e95590f",
+        "proof_id": "6411a4d1d763129b68373310",
+        "human_url": "dns://turcan.de",
+        "service_url": "http://turcan.de",
+        "presentation_group": "turcan.de",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "wedsblog.net",
         "state": 1,
         "proof_url": "https://keybase.io/wed/sigchain#2c62da73a2bbb288771d8e795231d7b5ee4110a7554cbb88dc7242191957098e0f",
@@ -314,9 +390,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2c62da73a2bbb288771d8e795231d7b5ee4110a7554cbb88dc7242191957098e0f",
-      "seqno": 33,
-      "payload_hash": "ed33c7863d5551920ff5e2b208cab4beeb7885a03aea2f121706a36d17175e54"
+      "sig_id": "d55431b00f4186bf35b5ea9b678d164b53551dcec29f0b46751973884a17d4610f",
+      "seqno": 35,
+      "payload_hash": "598d722bc5dd820fe0e17a0d6193d31457900434ddbb2b4528887c4ed8268075"
     }
   },
   "devices": {
