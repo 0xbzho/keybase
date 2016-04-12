@@ -4,9 +4,9 @@
     "username": "jmcknight",
     "ctime": 1447880506,
     "mtime": 1447880506,
-    "id_version": 24,
+    "id_version": 28,
     "track_version": 7,
-    "last_id_change": 1459253701,
+    "last_id_change": 1460483580,
     "username_cased": "jmcknight"
   },
   "profile": {
@@ -38,16 +38,18 @@
       "0120013f75c75c4039925550b17d44431643073bf96f5d804a8b28d75cb2a7a2c0b60a",
       "0121da50767ee5e21539e6a155acc7586818d2e6ee6cbea6b27dc4ca6bf264739d0d0a",
       "0121655cba09b3147801ab57fe6eb8b63e27a55d391fd9ceb07a3d6188591c689f5f0a",
-      "0120026761557db7d86b6624eac5b9f4662874d1f0d293bea71f27e8b3517b9f43420a"
+      "0120026761557db7d86b6624eac5b9f4662874d1f0d293bea71f27e8b3517b9f43420a",
+      "01207c33084948067182f8df8615f5578c56ca63cde29e9befb19e8620f7101bd0110a",
+      "0121c0737f5ca493abe3dbd46c9daed3168f4f33876f2299de6fa184a91b59133d440a"
     ],
     "subkeys": [
-      "0121da50767ee5e21539e6a155acc7586818d2e6ee6cbea6b27dc4ca6bf264739d0d0a",
-      "0121655cba09b3147801ab57fe6eb8b63e27a55d391fd9ceb07a3d6188591c689f5f0a"
+      "0121655cba09b3147801ab57fe6eb8b63e27a55d391fd9ceb07a3d6188591c689f5f0a",
+      "0121c0737f5ca493abe3dbd46c9daed3168f4f33876f2299de6fa184a91b59133d440a"
     ],
     "sibkeys": [
       "0101958569aff4c7c35beb17757f542da9c2be6aa9b6dd6685310dbef25ba3e2630b0a",
-      "0120013f75c75c4039925550b17d44431643073bf96f5d804a8b28d75cb2a7a2c0b60a",
-      "0120026761557db7d86b6624eac5b9f4662874d1f0d293bea71f27e8b3517b9f43420a"
+      "0120026761557db7d86b6624eac5b9f4662874d1f0d293bea71f27e8b3517b9f43420a",
+      "01207c33084948067182f8df8615f5578c56ca63cde29e9befb19e8620f7101bd0110a"
     ],
     "families": {
       "0101958569aff4c7c35beb17757f542da9c2be6aa9b6dd6685310dbef25ba3e2630b0a": [
@@ -55,7 +57,9 @@
         "0120013f75c75c4039925550b17d44431643073bf96f5d804a8b28d75cb2a7a2c0b60a",
         "0121da50767ee5e21539e6a155acc7586818d2e6ee6cbea6b27dc4ca6bf264739d0d0a",
         "0121655cba09b3147801ab57fe6eb8b63e27a55d391fd9ceb07a3d6188591c689f5f0a",
-        "0120026761557db7d86b6624eac5b9f4662874d1f0d293bea71f27e8b3517b9f43420a"
+        "0120026761557db7d86b6624eac5b9f4662874d1f0d293bea71f27e8b3517b9f43420a",
+        "01207c33084948067182f8df8615f5578c56ca63cde29e9befb19e8620f7101bd0110a",
+        "0121c0737f5ca493abe3dbd46c9daed3168f4f33876f2299de6fa184a91b59133d440a"
       ]
     },
     "eldest_kid": "0101958569aff4c7c35beb17757f542da9c2be6aa9b6dd6685310dbef25ba3e2630b0a",
@@ -107,6 +111,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "jakemcknight.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jmcknight/sigchain#20f3757171d69835f68e7d5c3f67d3d85e1e0a7299efae4c5c189093086470710f",
+          "sig_id": "20f3757171d69835f68e7d5c3f67d3d85e1e0a7299efae4c5c189093086470710f",
+          "proof_id": "2cd3726ae1d3d3de5aeed210",
+          "human_url": "dns://jakemcknight.com",
+          "service_url": "http://jakemcknight.com",
+          "presentation_group": "jakemcknight.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -151,6 +169,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "jakemcknight.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "jakemcknight.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jmcknight/sigchain#20f3757171d69835f68e7d5c3f67d3d85e1e0a7299efae4c5c189093086470710f",
+          "sig_id": "20f3757171d69835f68e7d5c3f67d3d85e1e0a7299efae4c5c189093086470710f",
+          "proof_id": "2cd3726ae1d3d3de5aeed210",
+          "human_url": "dns://jakemcknight.com",
+          "service_url": "http://jakemcknight.com",
+          "presentation_group": "jakemcknight.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -189,13 +221,25 @@
         "service_url": "https://reddit.com/user/kudakeru",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "jakemcknight.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/jmcknight/sigchain#20f3757171d69835f68e7d5c3f67d3d85e1e0a7299efae4c5c189093086470710f",
+        "sig_id": "20f3757171d69835f68e7d5c3f67d3d85e1e0a7299efae4c5c189093086470710f",
+        "proof_id": "2cd3726ae1d3d3de5aeed210",
+        "human_url": "dns://jakemcknight.com",
+        "service_url": "http://jakemcknight.com",
+        "presentation_group": "jakemcknight.com",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2c8a2250e7dcd66314e1cef2be5e8e05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/9f4f6bd05b4b58459d8a9095694b8305_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -203,28 +247,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2b48a91ffe0bd99b14681210b22a62fc9581ccbd638b5a11c46ab30794c584630f",
-      "seqno": 16,
-      "payload_hash": "05704f4b03cc6cedae2d985a1d1f18e45915a5ea96766f9c4d0a4624afd9a8d2"
+      "sig_id": "2731764f7e71fa46b94a15e9b8c20638322f2dfba11df4b7abcf91647d52d42e0f",
+      "seqno": 20,
+      "payload_hash": "6c0c2a8afda9614e0fd4b4bf5f0ad51a4973294c0628bfdc3c4521e78f8bae5c"
     }
   },
   "devices": {
-    "6e7f2725a38049a5903aa4c76a21e618": {
+    "07c5b71bf0191e608e23a05d56bfb718": {
       "type": "desktop",
-      "ctime": 1447880869,
-      "mtime": 1447880869,
-      "name": "WorkMBP",
+      "ctime": 1460482479,
+      "mtime": 1460482479,
+      "name": "worktop",
       "status": 1,
       "keys": [
         {
-          "kid": "0120013f75c75c4039925550b17d44431643073bf96f5d804a8b28d75cb2a7a2c0b60a",
+          "kid": "01207c33084948067182f8df8615f5578c56ca63cde29e9befb19e8620f7101bd0110a",
           "key_role": 1,
-          "sig_id": "1a2c2d5360f3bd6f36f18ec6bbe65c7565f5acd4bcb9947e32afff28f74c98f40f"
+          "sig_id": "691b7e0a0d803ac3ee123fc5da433caedba804e99ae1e2c4bd477bb18e3c06ad0f"
         },
         {
-          "kid": "0121da50767ee5e21539e6a155acc7586818d2e6ee6cbea6b27dc4ca6bf264739d0d0a",
+          "kid": "0121c0737f5ca493abe3dbd46c9daed3168f4f33876f2299de6fa184a91b59133d440a",
           "key_role": 2,
-          "sig_id": "ed4898fb7a422d3c4eae6c75f8570034b41e58de3210316d2a6de5a8bd3950150f"
+          "sig_id": "1c91ca59b214b627a10a9d7d27e0ff2f0537c84a573f275c6793891cf87dce290f"
         }
       ]
     },
