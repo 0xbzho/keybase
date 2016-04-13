@@ -4,9 +4,9 @@
     "username": "richteer",
     "ctime": 1424970725,
     "mtime": 1424970725,
-    "id_version": 47,
+    "id_version": 48,
     "track_version": 1,
-    "last_id_change": 1458463441,
+    "last_id_change": 1460511067,
     "username_cased": "richteer"
   },
   "profile": {
@@ -39,16 +39,20 @@
       "0121ee2c3f4699756949bb9d295a40d9c90a5ab8b15c71b9ae7125c378cc6af443160a",
       "0120f75f0dbc77158d9c153f4fc42487aa1b50a698c8a53346ca2c6fb9c87c4d5d350a",
       "0121658c8eafde3eda528f171b629e2c13b2d1ec519d6e2251a3c33d23b07020bf520a",
-      "012007c6bfbdae18c612f3d1abd675be7d652eedab28bd86ec06ca817f221684991d0a"
+      "012007c6bfbdae18c612f3d1abd675be7d652eedab28bd86ec06ca817f221684991d0a",
+      "012164ea4bb0247de63fa2934eacd9390af4ab59a6d4b4c155d1cd8b5e589f644c6e0a",
+      "0120cd5ff2b077cbd7fd5d5a0a239f2946f76f223798369a235170f76e418ccb6e730a"
     ],
     "subkeys": [
       "0121ee2c3f4699756949bb9d295a40d9c90a5ab8b15c71b9ae7125c378cc6af443160a",
-      "0121658c8eafde3eda528f171b629e2c13b2d1ec519d6e2251a3c33d23b07020bf520a"
+      "0121658c8eafde3eda528f171b629e2c13b2d1ec519d6e2251a3c33d23b07020bf520a",
+      "012164ea4bb0247de63fa2934eacd9390af4ab59a6d4b4c155d1cd8b5e589f644c6e0a"
     ],
     "sibkeys": [
       "0111af25764274d95bc68677352aec7d0dfb8157c3d249bdf42598dbf1ebc2c7e5990a",
       "0120f75f0dbc77158d9c153f4fc42487aa1b50a698c8a53346ca2c6fb9c87c4d5d350a",
-      "012007c6bfbdae18c612f3d1abd675be7d652eedab28bd86ec06ca817f221684991d0a"
+      "012007c6bfbdae18c612f3d1abd675be7d652eedab28bd86ec06ca817f221684991d0a",
+      "0120cd5ff2b077cbd7fd5d5a0a239f2946f76f223798369a235170f76e418ccb6e730a"
     ],
     "families": {
       "0101a0a57aa29a3cf7238c235e7b1756413a9f27bf01880f15303592c1add87ad17a0a": [
@@ -59,7 +63,9 @@
         "0121ee2c3f4699756949bb9d295a40d9c90a5ab8b15c71b9ae7125c378cc6af443160a",
         "0120f75f0dbc77158d9c153f4fc42487aa1b50a698c8a53346ca2c6fb9c87c4d5d350a",
         "0121658c8eafde3eda528f171b629e2c13b2d1ec519d6e2251a3c33d23b07020bf520a",
-        "012007c6bfbdae18c612f3d1abd675be7d652eedab28bd86ec06ca817f221684991d0a"
+        "012007c6bfbdae18c612f3d1abd675be7d652eedab28bd86ec06ca817f221684991d0a",
+        "012164ea4bb0247de63fa2934eacd9390af4ab59a6d4b4c155d1cd8b5e589f644c6e0a",
+        "0120cd5ff2b077cbd7fd5d5a0a239f2946f76f223798369a235170f76e418ccb6e730a"
       ]
     },
     "eldest_kid": "0111af25764274d95bc68677352aec7d0dfb8157c3d249bdf42598dbf1ebc2c7e5990a",
@@ -207,12 +213,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "309d2b000a00787cd2c1998db47f2431d1b4f267878dfe2db794fc3a489c00580f",
-      "seqno": 13,
-      "payload_hash": "23798deda0fa317442dfc5b8ae6b7137ba73dee9ba9d33c085034a4fba1a9b6d"
+      "sig_id": "2c4b03242bc16afa176bcb0de164432acd8f74c96747bc1df88f9c7e51a370b30f",
+      "seqno": 15,
+      "payload_hash": "e02c1eb0b17c89c9bddbfc95ba1d9d2b021266c4c0c708cd8e8da9e9f83dc0de"
     }
   },
   "devices": {
+    "117fc9a11bc0cff9dbb48bff4b87fe18": {
+      "type": "desktop",
+      "ctime": 1460511067,
+      "mtime": 1460511067,
+      "name": "desktop-terra",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120cd5ff2b077cbd7fd5d5a0a239f2946f76f223798369a235170f76e418ccb6e730a",
+          "key_role": 1,
+          "sig_id": "cefecb08ac1a2d15191d6be437418690f15e8c907390050b3f64b7f3f15f5ad40f"
+        },
+        {
+          "kid": "012164ea4bb0247de63fa2934eacd9390af4ab59a6d4b4c155d1cd8b5e589f644c6e0a",
+          "key_role": 2,
+          "sig_id": "2c4b03242bc16afa176bcb0de164432acd8f74c96747bc1df88f9c7e51a370b30f"
+        }
+      ]
+    },
     "68a01efcc856643de34a82f4e13c8818": {
       "type": "desktop",
       "ctime": 1458463440,
