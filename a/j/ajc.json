@@ -4,9 +4,9 @@
     "username": "ajc",
     "ctime": 1405460568,
     "mtime": 1405460568,
-    "id_version": 24,
+    "id_version": 25,
     "track_version": 8,
-    "last_id_change": 1454660820,
+    "last_id_change": 1460510306,
     "username_cased": "ajc"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "01214be217a214c8edd2517003eff47c7201b15f11a4632e40ef8746d9f6621fd2310a",
       "0120df8926d19503bcd2a83fdab375692bb7ce9dd13182bda6bd3967a6d094eea42e0a",
       "01213cb7c1477cb45ece5dc7e1d9c75df1ecfe0c89be9f0d9cb0b0ac277410cad4400a",
-      "0120c13b28f99f2812a37ff50234a17dd7cf602a6a8571fba947382627294d73c7aa0a"
+      "0120c13b28f99f2812a37ff50234a17dd7cf602a6a8571fba947382627294d73c7aa0a",
+      "012096a99bf162cf1e2fbef54663f308f254b2aace96002b358f84b3a3e9e0e01c3b0a",
+      "0121600566e909a4e630baab4215d3f9088e77e55a2c7e8100f6649e76183249441e0a"
     ],
     "subkeys": [
       "01214be217a214c8edd2517003eff47c7201b15f11a4632e40ef8746d9f6621fd2310a",
-      "01213cb7c1477cb45ece5dc7e1d9c75df1ecfe0c89be9f0d9cb0b0ac277410cad4400a"
+      "01213cb7c1477cb45ece5dc7e1d9c75df1ecfe0c89be9f0d9cb0b0ac277410cad4400a",
+      "0121600566e909a4e630baab4215d3f9088e77e55a2c7e8100f6649e76183249441e0a"
     ],
     "sibkeys": [
       "0101a1f0e5085150ff203166d77357c2ea1fdf12bab78084689648ef0e41ec8331060a",
       "0120df8926d19503bcd2a83fdab375692bb7ce9dd13182bda6bd3967a6d094eea42e0a",
-      "0120c13b28f99f2812a37ff50234a17dd7cf602a6a8571fba947382627294d73c7aa0a"
+      "0120c13b28f99f2812a37ff50234a17dd7cf602a6a8571fba947382627294d73c7aa0a",
+      "012096a99bf162cf1e2fbef54663f308f254b2aace96002b358f84b3a3e9e0e01c3b0a"
     ],
     "families": {
       "0101a1f0e5085150ff203166d77357c2ea1fdf12bab78084689648ef0e41ec8331060a": [
@@ -55,7 +59,9 @@
         "01214be217a214c8edd2517003eff47c7201b15f11a4632e40ef8746d9f6621fd2310a",
         "0120df8926d19503bcd2a83fdab375692bb7ce9dd13182bda6bd3967a6d094eea42e0a",
         "01213cb7c1477cb45ece5dc7e1d9c75df1ecfe0c89be9f0d9cb0b0ac277410cad4400a",
-        "0120c13b28f99f2812a37ff50234a17dd7cf602a6a8571fba947382627294d73c7aa0a"
+        "0120c13b28f99f2812a37ff50234a17dd7cf602a6a8571fba947382627294d73c7aa0a",
+        "012096a99bf162cf1e2fbef54663f308f254b2aace96002b358f84b3a3e9e0e01c3b0a",
+        "0121600566e909a4e630baab4215d3f9088e77e55a2c7e8100f6649e76183249441e0a"
       ]
     },
     "eldest_kid": "0101a1f0e5085150ff203166d77357c2ea1fdf12bab78084689648ef0e41ec8331060a",
@@ -203,12 +209,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "e5a9ee1f7d930b5805fba13e8d6e5e69850c7270d1143c45d468521b8fd3515e0f",
-      "seqno": 21,
-      "payload_hash": "5c07dad4a399fa8cd861d2d88e02df1d768ab839f9fe41732acdca4bded3e478"
+      "sig_id": "c0399ae574ff62bfcf4ac2e801ef1ccc9de0dade6f93d55690fea3230ab4bbae0f",
+      "seqno": 23,
+      "payload_hash": "fd83be5155a4aeef12e84134715600571dfeebdd8116099ead40ca969c196417"
     }
   },
   "devices": {
+    "1b58c6816280d1d9037def657216b818": {
+      "type": "desktop",
+      "ctime": 1460510306,
+      "mtime": 1460510306,
+      "name": "Dronetown",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012096a99bf162cf1e2fbef54663f308f254b2aace96002b358f84b3a3e9e0e01c3b0a",
+          "key_role": 1,
+          "sig_id": "97c2ea4ecd9ed27d1f5888d5d0e68a14c168873c42e8aded1375ae6643a299490f"
+        },
+        {
+          "kid": "0121600566e909a4e630baab4215d3f9088e77e55a2c7e8100f6649e76183249441e0a",
+          "key_role": 2,
+          "sig_id": "c0399ae574ff62bfcf4ac2e801ef1ccc9de0dade6f93d55690fea3230ab4bbae0f"
+        }
+      ]
+    },
     "675af51558a22435c8c9b71f5e3dd918": {
       "type": "backup",
       "ctime": 1454660820,
