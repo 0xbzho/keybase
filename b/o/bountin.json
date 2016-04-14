@@ -4,9 +4,9 @@
     "username": "bountin",
     "ctime": 1421057445,
     "mtime": 1421057445,
-    "id_version": 9,
-    "track_version": 8,
-    "last_id_change": 1458289131,
+    "id_version": 14,
+    "track_version": 11,
+    "last_id_change": 1460637532,
     "username_cased": "bountin"
   },
   "profile": {
@@ -95,6 +95,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/bountin",
+          "state": 1,
+          "proof_url": "https://coinbase.com/bountin/public-key",
+          "sig_id": "685bf98c48b0c18af0dbeb1cb0c4d17c207ca1f8c3e1ca8a5882353d40a8e3ad0f",
+          "proof_id": "975df28eb776cc5f1ed33110",
+          "human_url": "https://coinbase.com/bountin/public-key",
+          "service_url": "https://coinbase.com/bountin",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "bountin.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/bountin/sigchain#08ad8ba4263a743191b13ff635badf623cb262fcb2d2b5b36e701896a0caa3840f",
+          "sig_id": "08ad8ba4263a743191b13ff635badf623cb262fcb2d2b5b36e701896a0caa3840f",
+          "proof_id": "f13c7de3e991f99775a38410",
+          "human_url": "dns://bountin.net",
+          "service_url": "http://bountin.net",
+          "presentation_group": "bountin.net",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -125,6 +153,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/bountin",
+          "state": 1,
+          "proof_url": "https://coinbase.com/bountin/public-key",
+          "sig_id": "685bf98c48b0c18af0dbeb1cb0c4d17c207ca1f8c3e1ca8a5882353d40a8e3ad0f",
+          "proof_id": "975df28eb776cc5f1ed33110",
+          "human_url": "https://coinbase.com/bountin/public-key",
+          "service_url": "https://coinbase.com/bountin",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "bountin.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "bountin.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/bountin/sigchain#08ad8ba4263a743191b13ff635badf623cb262fcb2d2b5b36e701896a0caa3840f",
+          "sig_id": "08ad8ba4263a743191b13ff635badf623cb262fcb2d2b5b36e701896a0caa3840f",
+          "proof_id": "f13c7de3e991f99775a38410",
+          "human_url": "dns://bountin.net",
+          "service_url": "http://bountin.net",
+          "presentation_group": "bountin.net",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -151,10 +207,41 @@
         "service_url": "https://github.com/bountin",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/bountin",
+        "state": 1,
+        "proof_url": "https://coinbase.com/bountin/public-key",
+        "sig_id": "685bf98c48b0c18af0dbeb1cb0c4d17c207ca1f8c3e1ca8a5882353d40a8e3ad0f",
+        "proof_id": "975df28eb776cc5f1ed33110",
+        "human_url": "https://coinbase.com/bountin/public-key",
+        "service_url": "https://coinbase.com/bountin",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "bountin.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/bountin/sigchain#08ad8ba4263a743191b13ff635badf623cb262fcb2d2b5b36e701896a0caa3840f",
+        "sig_id": "08ad8ba4263a743191b13ff635badf623cb262fcb2d2b5b36e701896a0caa3840f",
+        "proof_id": "f13c7de3e991f99775a38410",
+        "human_url": "dns://bountin.net",
+        "service_url": "http://bountin.net",
+        "presentation_group": "bountin.net",
+        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1ATXk39ZPiLogFn2rCTa3xSRaS17rbAEMP",
+        "sig_id": "c5aeb71f153a9267aa32184bb528a343a65692577ae94f6e93f3153e7becf72a0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/646e53efe55bc522868f0cfccf991b05_360_360_square_360.jpeg",
@@ -165,9 +252,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c1b338b178d3b1823e1167d44783e538c0f7d35a79f5367da5ed71966d6e6e830f",
-      "seqno": 16,
-      "payload_hash": "daa6d8192708895f27d26610fdf471e640666370873a1332b2f0231d11b6e75e"
+      "sig_id": "b3c89282b638b12d780643392c2faba0deb77b49ca7988eee72fa99fe4076ff30f",
+      "seqno": 22,
+      "payload_hash": "ba5ba5dd2d30c4f7b9d59b430e54e5261cbc1b7e3a55533fd23c75adf8ecdeb6"
     }
   },
   "devices": {
