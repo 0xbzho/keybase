@@ -4,9 +4,9 @@
     "username": "acstubbins",
     "ctime": 1433805197,
     "mtime": 1433805197,
-    "id_version": 46,
-    "track_version": 17,
-    "last_id_change": 1455727637,
+    "id_version": 58,
+    "track_version": 23,
+    "last_id_change": 1460675160,
     "username_cased": "acstubbins"
   },
   "profile": {
@@ -40,14 +40,18 @@
       "0121f31a5749d89ed4f4dd8227a63215d805cf471a15bd0c59e23e9cfae047c3ae0e0a",
       "01200b035608dd67ba70e7d6195c8702c4842bf12cc02d5e9b68d0293ec57e17016b0a",
       "012017420517fe3385f01c657a6efdefbb36b46f0f230d99d5c36b00350ede5ff80d0a",
-      "01215c51264d559bb9544680eec383b060d578530c95164945c1a6b43f3b5510c65e0a"
+      "01215c51264d559bb9544680eec383b060d578530c95164945c1a6b43f3b5510c65e0a",
+      "0120f72e4d8555edaf0f35a263a9b964e2a8b8e753dd760c7ad5e9bbcf72b07f9f380a",
+      "01213b75d0de794ef25e2ece6f8c3b51a30b7c27b13879087547ece1954062e33b7a0a"
     ],
     "subkeys": [
-      "01215c51264d559bb9544680eec383b060d578530c95164945c1a6b43f3b5510c65e0a"
+      "01215c51264d559bb9544680eec383b060d578530c95164945c1a6b43f3b5510c65e0a",
+      "01213b75d0de794ef25e2ece6f8c3b51a30b7c27b13879087547ece1954062e33b7a0a"
     ],
     "sibkeys": [
       "0101a2a88014b0355231acddf6d99dd694b79c86b0e2788467b2b4102d27d9bf03ca0a",
-      "012017420517fe3385f01c657a6efdefbb36b46f0f230d99d5c36b00350ede5ff80d0a"
+      "012017420517fe3385f01c657a6efdefbb36b46f0f230d99d5c36b00350ede5ff80d0a",
+      "0120f72e4d8555edaf0f35a263a9b964e2a8b8e753dd760c7ad5e9bbcf72b07f9f380a"
     ],
     "families": {
       "01014367a4be9b3e4214d3b4cca2f09040239fb5ffbf832775897195c1090ded8e310a": [
@@ -59,7 +63,9 @@
         "0121f31a5749d89ed4f4dd8227a63215d805cf471a15bd0c59e23e9cfae047c3ae0e0a",
         "01200b035608dd67ba70e7d6195c8702c4842bf12cc02d5e9b68d0293ec57e17016b0a",
         "012017420517fe3385f01c657a6efdefbb36b46f0f230d99d5c36b00350ede5ff80d0a",
-        "01215c51264d559bb9544680eec383b060d578530c95164945c1a6b43f3b5510c65e0a"
+        "01215c51264d559bb9544680eec383b060d578530c95164945c1a6b43f3b5510c65e0a",
+        "0120f72e4d8555edaf0f35a263a9b964e2a8b8e753dd760c7ad5e9bbcf72b07f9f380a",
+        "01213b75d0de794ef25e2ece6f8c3b51a30b7c27b13879087547ece1954062e33b7a0a"
       ]
     },
     "eldest_kid": "0101a2a88014b0355231acddf6d99dd694b79c86b0e2788467b2b4102d27d9bf03ca0a",
@@ -69,23 +75,74 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "darklinkxxxx",
+          "state": 1,
+          "proof_url": "https://gist.github.com/bb8d79eb874b850ae71fd099d03e7687",
+          "sig_id": "6fa63e347db1de7a7be46fcc8a80452b0f19ce56286400ff5591dffb79b418d20f",
+          "proof_id": "e5419c0ce1d1c5642dfc8710",
+          "human_url": "https://gist.github.com/bb8d79eb874b850ae71fd099d03e7687",
+          "service_url": "https://github.com/darklinkxxxx",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "darklinkxxxx",
+          "state": 1,
+          "proof_url": "https://gist.github.com/bb8d79eb874b850ae71fd099d03e7687",
+          "sig_id": "6fa63e347db1de7a7be46fcc8a80452b0f19ce56286400ff5591dffb79b418d20f",
+          "proof_id": "e5419c0ce1d1c5642dfc8710",
+          "human_url": "https://gist.github.com/bb8d79eb874b850ae71fd099d03e7687",
+          "service_url": "https://github.com/darklinkxxxx",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "github",
+        "nametag": "darklinkxxxx",
+        "state": 1,
+        "proof_url": "https://gist.github.com/bb8d79eb874b850ae71fd099d03e7687",
+        "sig_id": "6fa63e347db1de7a7be46fcc8a80452b0f19ce56286400ff5591dffb79b418d20f",
+        "proof_id": "e5419c0ce1d1c5642dfc8710",
+        "human_url": "https://gist.github.com/bb8d79eb874b850ae71fd099d03e7687",
+        "service_url": "https://github.com/darklinkxxxx",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      }
+    ]
   },
   "cryptocurrency_addresses": {
     "bitcoin": [
       {
-        "address": "3DzbVTqKoF31gXAQMjAKgoQhffhZpRhmmW",
-        "sig_id": "87e6aa9a89b6a7df272bce8e843e598ea9a424dc2c113cf3b72b4187e563c6760f"
+        "address": "1Myc7UfFiBRypTWt5dDvfzLqfnZzG9jVrH",
+        "sig_id": "1143f0f62c4e3079f462b1cd46484ca8febcfe2640d52e7748bbce25498fc4cf0f"
       }
     ]
   },
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/13e8580c5556b66921070267ef0e5405_360_360_square_360.png",
+      "width": 360,
+      "height": 360,
+      "source": "github"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "78b4043a7f6e86869efa70d253c565c96965e5bc943665ccf67e08aa6a8cbe290f",
-      "seqno": 30,
-      "payload_hash": "50e8042b4821d86dbedb7f53d8559226a087b761898a7279fa97ff82d8614610"
+      "sig_id": "5e12b4b50810a114823591742d988acaf75bbc8d9d1fa91f5796720575f184a30f",
+      "seqno": 42,
+      "payload_hash": "ed67c8bbcf9320121d1523c0c7be46e6f30d767e0a0d23f31cc1da4c97642706"
     }
   },
   "devices": {
@@ -105,6 +162,25 @@
           "kid": "01215c51264d559bb9544680eec383b060d578530c95164945c1a6b43f3b5510c65e0a",
           "key_role": 2,
           "sig_id": "017a743d9691b87e16f3a31df2f8e84fe7dca7f3a4c5a473f73f96b4d6e8aa3b0f"
+        }
+      ]
+    },
+    "91398d1c07f1dff3bfb896754de9c218": {
+      "type": "desktop",
+      "ctime": 1460675160,
+      "mtime": 1460675160,
+      "name": "laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120f72e4d8555edaf0f35a263a9b964e2a8b8e753dd760c7ad5e9bbcf72b07f9f380a",
+          "key_role": 1,
+          "sig_id": "988d690dd4a668eca04761e2e923e5dd6c3e7c22c9e896756aed4dbd9e4bb9170f"
+        },
+        {
+          "kid": "01213b75d0de794ef25e2ece6f8c3b51a30b7c27b13879087547ece1954062e33b7a0a",
+          "key_role": 2,
+          "sig_id": "5e12b4b50810a114823591742d988acaf75bbc8d9d1fa91f5796720575f184a30f"
         }
       ]
     }
