@@ -4,9 +4,9 @@
     "username": "smrqdt",
     "ctime": 1396992691,
     "mtime": 1396992691,
-    "id_version": 78,
-    "track_version": 2,
-    "last_id_change": 1460329568,
+    "id_version": 80,
+    "track_version": 3,
+    "last_id_change": 1461512391,
     "username_cased": "smrqdt"
   },
   "profile": {
@@ -47,15 +47,11 @@
       "01211fb47abfe6bba558e4763864bd21e002b52f703be34371543e6c4fd20ff6e86e0a"
     ],
     "subkeys": [
-      "01212e7022ddfe8877eae0c4913c66d100a279d607a83852111a67899ac3839338770a",
-      "012199936483eef2d6c7edf0b86df78362ab94591ad03244372a40fb14218e557d330a",
-      "01211fb47abfe6bba558e4763864bd21e002b52f703be34371543e6c4fd20ff6e86e0a"
+      "01212e7022ddfe8877eae0c4913c66d100a279d607a83852111a67899ac3839338770a"
     ],
     "sibkeys": [
       "01012fdc63bd9b53ace88fd715c151953624711c4b4fb3ada268d85e88cb918f9b490a",
-      "0120ca15ee7e3a06d86537826c37e9a3bd6f8db5dc05fe09f72e9d03d90f56c965ec0a",
-      "012001b54e43555af6c7d1cc8e60e57af6489022e38be08dcb2fb953f757eead45400a",
-      "012017e3a2c653df9cdf17f3e8950700842f267350d27a416ac167c5a26fec238b470a"
+      "0120ca15ee7e3a06d86537826c37e9a3bd6f8db5dc05fe09f72e9d03d90f56c965ec0a"
     ],
     "families": {
       "01113e57f17aae3aac969a36ad0a51e2b3865a85363c0a42594d46b4ded0883904ab0a": [
@@ -297,31 +293,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "35d68853ce905b66578afc078f42518c2e5989ec45cb283558c3b36a6091c9150f",
-      "seqno": 34,
-      "payload_hash": "e194c3da64731c52d2e69f4e0b43b5122134d3d85c7e9b9e1c4c63de98e44c6c"
+      "sig_id": "20af5e4abec9b0ea3ba9863bf51a91f2e6932f67bb39c75b5d7fecd49d7d6d330f",
+      "seqno": 37,
+      "payload_hash": "bd60daa165d90bffae65af8715ac17456e513f4e77e18ae36370e816d667fbce"
     }
   },
   "devices": {
-    "0b3dd404cf9b1367ceaf1b32d6b03a18": {
-      "type": "backup",
-      "ctime": 1448839719,
-      "mtime": 1448839719,
-      "name": "eager prefer",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012017e3a2c653df9cdf17f3e8950700842f267350d27a416ac167c5a26fec238b470a",
-          "key_role": 1,
-          "sig_id": "5c3710498c4646691553f64b79a07ee06494c55ef4a1b27f17b2874fb481f5080f"
-        },
-        {
-          "kid": "01211fb47abfe6bba558e4763864bd21e002b52f703be34371543e6c4fd20ff6e86e0a",
-          "key_role": 2,
-          "sig_id": "35d68853ce905b66578afc078f42518c2e5989ec45cb283558c3b36a6091c9150f"
-        }
-      ]
-    },
     "8c9fe95afd7d1cd964d08f81356a4218": {
       "type": "desktop",
       "ctime": 1448839608,
@@ -338,25 +315,6 @@
           "kid": "01212e7022ddfe8877eae0c4913c66d100a279d607a83852111a67899ac3839338770a",
           "key_role": 2,
           "sig_id": "dbec9ed8cfc06d57a34fb42fd4088f727e84fc79ed495b9f3ad077b106a39a7c0f"
-        }
-      ]
-    },
-    "f9d472f40eaed6c03c74a542655b2218": {
-      "type": "backup",
-      "ctime": 1448839609,
-      "mtime": 1448839609,
-      "name": "earn gospel",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012001b54e43555af6c7d1cc8e60e57af6489022e38be08dcb2fb953f757eead45400a",
-          "key_role": 1,
-          "sig_id": "d4ebfea97783b412b862417c9b3dc0991f440dece09a6cafcdcd293f1208f0560f"
-        },
-        {
-          "kid": "012199936483eef2d6c7edf0b86df78362ab94591ad03244372a40fb14218e557d330a",
-          "key_role": 2,
-          "sig_id": "2f3862bd238dc224804b378f4577c1eb84659e9def4bc17c1192275694b1a3610f"
         }
       ]
     }
