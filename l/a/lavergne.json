@@ -4,9 +4,9 @@
     "username": "lavergne",
     "ctime": 1395020183,
     "mtime": 1395020183,
-    "id_version": 36,
-    "track_version": 5,
-    "last_id_change": 1456198942,
+    "id_version": 41,
+    "track_version": 7,
+    "last_id_change": 1462671875,
     "username_cased": "lavergne"
   },
   "profile": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "nerdling",
+          "state": 1,
+          "proof_url": "https://gist.github.com/7521a60d4afecf337adeb405bf164cbe",
+          "sig_id": "366e5c1ee378490f65039b3199a6cd61a1cbe3e7fa162ac6c16279a3d7e58e130f",
+          "proof_id": "b7e0ea37c7845f9e1c683310",
+          "human_url": "https://gist.github.com/7521a60d4afecf337adeb405bf164cbe",
+          "service_url": "https://github.com/nerdling",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
@@ -66,9 +80,37 @@
           "presentation_group": "lavergne.me",
           "presentation_tag": "https"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "lavergne.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/lavergne/sigchain#f9092de03460fb212d64621b244c4abd22feb109a7ccd2ebbf7035ede1c18dc60f",
+          "sig_id": "f9092de03460fb212d64621b244c4abd22feb109a7ccd2ebbf7035ede1c18dc60f",
+          "proof_id": "62003ad1abe0372225db3d10",
+          "human_url": "dns://lavergne.me",
+          "service_url": "http://lavergne.me",
+          "presentation_group": "lavergne.me",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "nerdling",
+          "state": 1,
+          "proof_url": "https://gist.github.com/7521a60d4afecf337adeb405bf164cbe",
+          "sig_id": "366e5c1ee378490f65039b3199a6cd61a1cbe3e7fa162ac6c16279a3d7e58e130f",
+          "proof_id": "b7e0ea37c7845f9e1c683310",
+          "human_url": "https://gist.github.com/7521a60d4afecf337adeb405bf164cbe",
+          "service_url": "https://github.com/nerdling",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
       "lavergne.me": [
         {
           "proof_type": "generic_web_site",
@@ -81,10 +123,46 @@
           "service_url": "https://lavergne.me",
           "presentation_group": "lavergne.me",
           "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "lavergne.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/lavergne/sigchain#f9092de03460fb212d64621b244c4abd22feb109a7ccd2ebbf7035ede1c18dc60f",
+          "sig_id": "f9092de03460fb212d64621b244c4abd22feb109a7ccd2ebbf7035ede1c18dc60f",
+          "proof_id": "62003ad1abe0372225db3d10",
+          "human_url": "dns://lavergne.me",
+          "service_url": "http://lavergne.me",
+          "presentation_group": "lavergne.me",
+          "presentation_tag": "dns"
         }
       ]
     },
     "all": [
+      {
+        "proof_type": "github",
+        "nametag": "nerdling",
+        "state": 1,
+        "proof_url": "https://gist.github.com/7521a60d4afecf337adeb405bf164cbe",
+        "sig_id": "366e5c1ee378490f65039b3199a6cd61a1cbe3e7fa162ac6c16279a3d7e58e130f",
+        "proof_id": "b7e0ea37c7845f9e1c683310",
+        "human_url": "https://gist.github.com/7521a60d4afecf337adeb405bf164cbe",
+        "service_url": "https://github.com/nerdling",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "lavergne.me",
+        "state": 1,
+        "proof_url": "https://keybase.io/lavergne/sigchain#f9092de03460fb212d64621b244c4abd22feb109a7ccd2ebbf7035ede1c18dc60f",
+        "sig_id": "f9092de03460fb212d64621b244c4abd22feb109a7ccd2ebbf7035ede1c18dc60f",
+        "proof_id": "62003ad1abe0372225db3d10",
+        "human_url": "dns://lavergne.me",
+        "service_url": "http://lavergne.me",
+        "presentation_group": "lavergne.me",
+        "presentation_tag": "dns"
+      },
       {
         "proof_type": "generic_web_site",
         "nametag": "lavergne.me",
@@ -100,11 +178,19 @@
     ]
   },
   "cryptocurrency_addresses": {},
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/7cde1e21394ec195dcf0cabddbbd1e05_360_360_square_360.png",
+      "width": 360,
+      "height": 360,
+      "source": "github"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "f54036806ad7d837c19d8b490a4c3cc517e5de62618e7156f3c09631a8a0997c0f",
-      "seqno": 15,
-      "payload_hash": "49e6e286dc7bfe8fcb5a25ced96d42aa83d55042197567e95bb7fc5c71463e5a"
+      "sig_id": "366e5c1ee378490f65039b3199a6cd61a1cbe3e7fa162ac6c16279a3d7e58e130f",
+      "seqno": 19,
+      "payload_hash": "d51370509dd1a98fffad56ad945dfbe29e64cc5cbbe794026fcd5ab0ce76c8b0"
     }
   },
   "devices": {}
