@@ -4,16 +4,16 @@
     "username": "smirkingninja",
     "ctime": 1439545512,
     "mtime": 1439545512,
-    "id_version": 71,
-    "track_version": 19,
-    "last_id_change": 1459899663,
+    "id_version": 79,
+    "track_version": 21,
+    "last_id_change": 1462862193,
     "username_cased": "SmirkingNinja"
   },
   "profile": {
-    "mtime": 1439549205,
+    "mtime": 1461317961,
     "full_name": "Connor Spencer Harries",
     "location": "United Kingdom",
-    "bio": "Snowboarder and drinker of unholy amounts of coffee."
+    "bio": "Sucker for coffee and code."
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,18 @@
       "0120738d31c6a834c556050b373956ffd718a12d43aed49fdd360b1e8b0c6dd3c19f0a",
       "01213a23c8ab01eea03dc1907654aa01395afc4131cc16db0275644d58f7f85c73220a",
       "0121165270a87cc13a2e3526be064c81d2bcc899347053869652d9ce8e7dbad4cf630a",
-      "01206531e0267ff1b463e055b515a9397469fabe38268b8e5c81a6edbb42f50203800a"
+      "01206531e0267ff1b463e055b515a9397469fabe38268b8e5c81a6edbb42f50203800a",
+      "0120e837fccf9e7101f7525ad7cba7be5b7f546e41bfab3c96e3eeac92534c18b5970a",
+      "0121b7bf3860c72699a9b9542a094860597c2cfe004fbe7915745d208841af0fe2780a"
     ],
     "subkeys": [
-      "01213a23c8ab01eea03dc1907654aa01395afc4131cc16db0275644d58f7f85c73220a",
-      "0121165270a87cc13a2e3526be064c81d2bcc899347053869652d9ce8e7dbad4cf630a"
+      "0121165270a87cc13a2e3526be064c81d2bcc899347053869652d9ce8e7dbad4cf630a",
+      "0121b7bf3860c72699a9b9542a094860597c2cfe004fbe7915745d208841af0fe2780a"
     ],
     "sibkeys": [
       "01011fb94a11c3b540b74c627ed51ffe6cd644f886a033c74236283e1c2ff97188e80a",
-      "0120738d31c6a834c556050b373956ffd718a12d43aed49fdd360b1e8b0c6dd3c19f0a",
-      "01206531e0267ff1b463e055b515a9397469fabe38268b8e5c81a6edbb42f50203800a"
+      "01206531e0267ff1b463e055b515a9397469fabe38268b8e5c81a6edbb42f50203800a",
+      "0120e837fccf9e7101f7525ad7cba7be5b7f546e41bfab3c96e3eeac92534c18b5970a"
     ],
     "families": {
       "01011fb94a11c3b540b74c627ed51ffe6cd644f886a033c74236283e1c2ff97188e80a": [
@@ -55,7 +57,9 @@
         "0120738d31c6a834c556050b373956ffd718a12d43aed49fdd360b1e8b0c6dd3c19f0a",
         "01213a23c8ab01eea03dc1907654aa01395afc4131cc16db0275644d58f7f85c73220a",
         "0121165270a87cc13a2e3526be064c81d2bcc899347053869652d9ce8e7dbad4cf630a",
-        "01206531e0267ff1b463e055b515a9397469fabe38268b8e5c81a6edbb42f50203800a"
+        "01206531e0267ff1b463e055b515a9397469fabe38268b8e5c81a6edbb42f50203800a",
+        "0120e837fccf9e7101f7525ad7cba7be5b7f546e41bfab3c96e3eeac92534c18b5970a",
+        "0121b7bf3860c72699a9b9542a094860597c2cfe004fbe7915745d208841af0fe2780a"
       ]
     },
     "eldest_kid": "01011fb94a11c3b540b74c627ed51ffe6cd644f886a033c74236283e1c2ff97188e80a",
@@ -111,30 +115,18 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/smirkingninja",
+          "nametag": "coinbase/charries96",
           "state": 1,
-          "proof_url": "https://coinbase.com/smirkingninja/public-key",
-          "sig_id": "1e6c9d769c182af70d4f949e4fae27acce5f380204e4ba2c297aeaee02b7ba820f",
-          "proof_id": "e97f51b9fc1c46a5b53e5e10",
-          "human_url": "https://coinbase.com/smirkingninja/public-key",
-          "service_url": "https://coinbase.com/smirkingninja",
+          "proof_url": "https://coinbase.com/charries96/public-key",
+          "sig_id": "ca21303863d551dcaf9a55b16a0f386907b30fe2dd1217701b69b39f1f241b8a0f",
+          "proof_id": "db3f0d6a23687a005a741110",
+          "human_url": "https://coinbase.com/charries96/public-key",
+          "service_url": "https://coinbase.com/charries96",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
       ],
       "dns": [
-        {
-          "proof_type": "dns",
-          "nametag": "soot.io",
-          "state": 1,
-          "proof_url": "https://keybase.io/smirkingninja/sigchain#c99665fc3b38a71402456584d93d07c21d4791233f2faf25a0253ac02bff60f10f",
-          "sig_id": "c99665fc3b38a71402456584d93d07c21d4791233f2faf25a0253ac02bff60f10f",
-          "proof_id": "0dc49f1ba017a7ff883a9610",
-          "human_url": "dns://soot.io",
-          "service_url": "http://soot.io",
-          "presentation_group": "soot.io",
-          "presentation_tag": "dns"
-        },
         {
           "proof_type": "dns",
           "nametag": "smirking.ninja",
@@ -207,29 +199,15 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/smirkingninja",
+          "nametag": "coinbase/charries96",
           "state": 1,
-          "proof_url": "https://coinbase.com/smirkingninja/public-key",
-          "sig_id": "1e6c9d769c182af70d4f949e4fae27acce5f380204e4ba2c297aeaee02b7ba820f",
-          "proof_id": "e97f51b9fc1c46a5b53e5e10",
-          "human_url": "https://coinbase.com/smirkingninja/public-key",
-          "service_url": "https://coinbase.com/smirkingninja",
+          "proof_url": "https://coinbase.com/charries96/public-key",
+          "sig_id": "ca21303863d551dcaf9a55b16a0f386907b30fe2dd1217701b69b39f1f241b8a0f",
+          "proof_id": "db3f0d6a23687a005a741110",
+          "human_url": "https://coinbase.com/charries96/public-key",
+          "service_url": "https://coinbase.com/charries96",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
-        }
-      ],
-      "soot.io": [
-        {
-          "proof_type": "dns",
-          "nametag": "soot.io",
-          "state": 1,
-          "proof_url": "https://keybase.io/smirkingninja/sigchain#c99665fc3b38a71402456584d93d07c21d4791233f2faf25a0253ac02bff60f10f",
-          "sig_id": "c99665fc3b38a71402456584d93d07c21d4791233f2faf25a0253ac02bff60f10f",
-          "proof_id": "0dc49f1ba017a7ff883a9610",
-          "human_url": "dns://soot.io",
-          "service_url": "http://soot.io",
-          "presentation_group": "soot.io",
-          "presentation_tag": "dns"
         }
       ],
       "smirking.ninja": [
@@ -300,27 +278,15 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/smirkingninja",
+        "nametag": "coinbase/charries96",
         "state": 1,
-        "proof_url": "https://coinbase.com/smirkingninja/public-key",
-        "sig_id": "1e6c9d769c182af70d4f949e4fae27acce5f380204e4ba2c297aeaee02b7ba820f",
-        "proof_id": "e97f51b9fc1c46a5b53e5e10",
-        "human_url": "https://coinbase.com/smirkingninja/public-key",
-        "service_url": "https://coinbase.com/smirkingninja",
+        "proof_url": "https://coinbase.com/charries96/public-key",
+        "sig_id": "ca21303863d551dcaf9a55b16a0f386907b30fe2dd1217701b69b39f1f241b8a0f",
+        "proof_id": "db3f0d6a23687a005a741110",
+        "human_url": "https://coinbase.com/charries96/public-key",
+        "service_url": "https://coinbase.com/charries96",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "soot.io",
-        "state": 1,
-        "proof_url": "https://keybase.io/smirkingninja/sigchain#c99665fc3b38a71402456584d93d07c21d4791233f2faf25a0253ac02bff60f10f",
-        "sig_id": "c99665fc3b38a71402456584d93d07c21d4791233f2faf25a0253ac02bff60f10f",
-        "proof_id": "0dc49f1ba017a7ff883a9610",
-        "human_url": "dns://soot.io",
-        "service_url": "http://soot.io",
-        "presentation_group": "soot.io",
-        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -351,8 +317,8 @@
   "cryptocurrency_addresses": {
     "bitcoin": [
       {
-        "address": "1Fire11fWSGgxNVmErYZP1GFEFqXn27Mqv",
-        "sig_id": "c3523466eae111fdada70d91bd2b91f7512d75104f01486bbc42f54012fe1d520f"
+        "address": "1JraPiGsKhmwp2eTmw2vcW9ct8FcRGvipN",
+        "sig_id": "32671474a05d562e59d5c9d912575cbcc36b363c600d70dd9dca2f99c7c107ab0f"
       }
     ]
   },
@@ -366,31 +332,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "ab3f387ada90f08272a7b4dda0fc87dc39959928855e2e6af598af1af37221590f",
-      "seqno": 43,
-      "payload_hash": "c7c6e6e66abc21cfd0aeafd5c60a5da672a95728552efabbf401978845f05782"
+      "sig_id": "ca21303863d551dcaf9a55b16a0f386907b30fe2dd1217701b69b39f1f241b8a0f",
+      "seqno": 52,
+      "payload_hash": "242c5bfdae27919a2e5ec4a1b2ba99494844a09f93415984f5c78280cd8f8fb4"
     }
   },
   "devices": {
-    "09a4e9007a4592424a14767c5c324718": {
-      "type": "desktop",
-      "ctime": 1451244496,
-      "mtime": 1451244496,
-      "name": "Vagrant - Ubuntu LEMP + PocketServer",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120738d31c6a834c556050b373956ffd718a12d43aed49fdd360b1e8b0c6dd3c19f0a",
-          "key_role": 1,
-          "sig_id": "1331051dbce25657f09eb0497810b38d6bc3c4964aad8cccc97a19c99fb1692b0f"
-        },
-        {
-          "kid": "01213a23c8ab01eea03dc1907654aa01395afc4131cc16db0275644d58f7f85c73220a",
-          "key_role": 2,
-          "sig_id": "d7adb7f651b0d9b90055e3d823816ce231cc7420785a5ee1a763b7bcf39cc6e20f"
-        }
-      ]
-    },
     "44f0fb0aa8eb97ab80e9ebb9a6581018": {
       "type": "backup",
       "ctime": 1451244497,
@@ -407,6 +354,25 @@
           "kid": "0121165270a87cc13a2e3526be064c81d2bcc899347053869652d9ce8e7dbad4cf630a",
           "key_role": 2,
           "sig_id": "af6643c1559c7ede199a2085cf65cde35163e3e08172574c4b1b1365d925ea540f"
+        }
+      ]
+    },
+    "b7028b734c9a23a09233d242058dac18": {
+      "type": "desktop",
+      "ctime": 1461317745,
+      "mtime": 1461317745,
+      "name": "Desktop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120e837fccf9e7101f7525ad7cba7be5b7f546e41bfab3c96e3eeac92534c18b5970a",
+          "key_role": 1,
+          "sig_id": "cc55e9a3c4c9db94b22d3871fd4f8ad817b92bbd1f2a51a3f306ddf3bd72e7160f"
+        },
+        {
+          "kid": "0121b7bf3860c72699a9b9542a094860597c2cfe004fbe7915745d208841af0fe2780a",
+          "key_role": 2,
+          "sig_id": "a1ca475590306d239b30b1c8e20d2bf6d8d677d0194e456f2551d0d2d2f4266d0f"
         }
       ]
     }
