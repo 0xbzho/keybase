@@ -4,16 +4,16 @@
     "username": "bgentry",
     "ctime": 1394658017,
     "mtime": 1394658017,
-    "id_version": 27,
-    "track_version": 41,
-    "last_id_change": 1459548081,
+    "id_version": 28,
+    "track_version": 43,
+    "last_id_change": 1463430709,
     "username_cased": "bgentry"
   },
   "profile": {
-    "mtime": 1444621560,
+    "mtime": 1463430790,
     "full_name": "Blake Gentry",
     "location": null,
-    "bio": "I build stuff at Opendoor. Formerly at Heroku."
+    "bio": "Software Engineer. Formerly at Heroku and Opendoor."
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,18 @@
       "012009959d8d40b70fa41874a78133fb14afb5f25f843137a4f97c62c436fc21b0900a",
       "012139f19eabade0ff9ef6d52050d9d79404665eef2e27f10789447c196b236647780a",
       "012012a963c04dd5098176735fabfb6fee117c9294886047989e9e56dd5edc5af0d60a",
-      "01216cd6248977b50bad8cc3b230c2578458eb62b09c3f4e29840a2d6995e3d1a07c0a"
+      "01216cd6248977b50bad8cc3b230c2578458eb62b09c3f4e29840a2d6995e3d1a07c0a",
+      "012011d7786e960940d0c951df48e87b25c21a4f10b3cffe054defc1538532f70aa60a",
+      "012170a5f20fbacb07708ff90f1d4d4aed5ddf17bdd298dec48787e27ce8500e55680a"
     ],
     "subkeys": [
-      "012139f19eabade0ff9ef6d52050d9d79404665eef2e27f10789447c196b236647780a",
-      "01216cd6248977b50bad8cc3b230c2578458eb62b09c3f4e29840a2d6995e3d1a07c0a"
+      "01216cd6248977b50bad8cc3b230c2578458eb62b09c3f4e29840a2d6995e3d1a07c0a",
+      "012170a5f20fbacb07708ff90f1d4d4aed5ddf17bdd298dec48787e27ce8500e55680a"
     ],
     "sibkeys": [
       "010140b1af551e31b8e9051bd29ebd1e90804c4ea4d636692fe648f6d3c1cca686100a",
-      "012009959d8d40b70fa41874a78133fb14afb5f25f843137a4f97c62c436fc21b0900a",
-      "012012a963c04dd5098176735fabfb6fee117c9294886047989e9e56dd5edc5af0d60a"
+      "012012a963c04dd5098176735fabfb6fee117c9294886047989e9e56dd5edc5af0d60a",
+      "012011d7786e960940d0c951df48e87b25c21a4f10b3cffe054defc1538532f70aa60a"
     ],
     "families": {
       "010140b1af551e31b8e9051bd29ebd1e90804c4ea4d636692fe648f6d3c1cca686100a": [
@@ -55,7 +57,9 @@
         "012009959d8d40b70fa41874a78133fb14afb5f25f843137a4f97c62c436fc21b0900a",
         "012139f19eabade0ff9ef6d52050d9d79404665eef2e27f10789447c196b236647780a",
         "012012a963c04dd5098176735fabfb6fee117c9294886047989e9e56dd5edc5af0d60a",
-        "01216cd6248977b50bad8cc3b230c2578458eb62b09c3f4e29840a2d6995e3d1a07c0a"
+        "01216cd6248977b50bad8cc3b230c2578458eb62b09c3f4e29840a2d6995e3d1a07c0a",
+        "012011d7786e960940d0c951df48e87b25c21a4f10b3cffe054defc1538532f70aa60a",
+        "012170a5f20fbacb07708ff90f1d4d4aed5ddf17bdd298dec48787e27ce8500e55680a"
       ]
     },
     "eldest_kid": "010140b1af551e31b8e9051bd29ebd1e90804c4ea4d636692fe648f6d3c1cca686100a",
@@ -203,9 +207,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "1ffaf8e64d6097901db4d1597c0dbae7f44a5c814da7a8693ceab4bebd596f450f",
-      "seqno": 55,
-      "payload_hash": "0ca91314293db86201f0dd6b3959361bdb2dbab2d3cbe2b18d400e840ae918a4"
+      "sig_id": "676fc185159ed65b26dabf4bd6753f306b7662ec3b558ff09cca69fa34f195a40f",
+      "seqno": 60,
+      "payload_hash": "221e4a5205782e87efff662cda48f5fff5db8fac82c1541d811a46dbb061878c"
     }
   },
   "devices": {
@@ -228,22 +232,22 @@
         }
       ]
     },
-    "9684dea6f68367199adb3fd0d6191018": {
+    "f024b6fd526f758bba11ae612967db18": {
       "type": "desktop",
-      "ctime": 1459548080,
-      "mtime": 1459548080,
-      "name": "bg-mbp-opendoor",
+      "ctime": 1463430709,
+      "mtime": 1463430709,
+      "name": "bg-mbp",
       "status": 1,
       "keys": [
         {
-          "kid": "012009959d8d40b70fa41874a78133fb14afb5f25f843137a4f97c62c436fc21b0900a",
+          "kid": "012011d7786e960940d0c951df48e87b25c21a4f10b3cffe054defc1538532f70aa60a",
           "key_role": 1,
-          "sig_id": "491194114b2a8bf3b537cb0f84fefde710dda1cfe3627b5141b23941bbec442d0f"
+          "sig_id": "d48a5e1e8f2f84434d8df75ecb4d4dd3967e4ec512e6c77d0c886971132f2f490f"
         },
         {
-          "kid": "012139f19eabade0ff9ef6d52050d9d79404665eef2e27f10789447c196b236647780a",
+          "kid": "012170a5f20fbacb07708ff90f1d4d4aed5ddf17bdd298dec48787e27ce8500e55680a",
           "key_role": 2,
-          "sig_id": "75a4fa16fe9f8a03a44f746eaf41576d9d61d253f5861d48ffc1e106a8841f300f"
+          "sig_id": "c2310ab49c0b0eb0b76cc882a9bf61f97c8b40d7551f2104059ac99806f78c550f"
         }
       ]
     }
