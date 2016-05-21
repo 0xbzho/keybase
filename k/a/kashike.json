@@ -4,9 +4,9 @@
     "username": "kashike",
     "ctime": 1408489591,
     "mtime": 1408489591,
-    "id_version": 220,
+    "id_version": 222,
     "track_version": 5,
-    "last_id_change": 1460118116,
+    "last_id_change": 1460943256,
     "username_cased": "kashike"
   },
   "profile": {
@@ -114,18 +114,6 @@
           "human_url": "https://korobi.io/.well-known/keybase.txt",
           "service_url": "https://korobi.io",
           "presentation_group": "korobi.io",
-          "presentation_tag": "https"
-        },
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "aquifermc.org",
-          "state": 1,
-          "proof_url": "https://aquifermc.org/.well-known/keybase.txt",
-          "sig_id": "c9b85304aa4849e4c3863172ea76a776a0066ce7464d5edd36125d985ea72ef50f",
-          "proof_id": "545844d3e804899c479f2510",
-          "human_url": "https://aquifermc.org/.well-known/keybase.txt",
-          "service_url": "https://aquifermc.org",
-          "presentation_group": "aquifermc.org",
           "presentation_tag": "https"
         },
         {
@@ -273,32 +261,6 @@
           "presentation_tag": "dns"
         }
       ],
-      "aquifermc.org": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "aquifermc.org",
-          "state": 1,
-          "proof_url": "https://aquifermc.org/.well-known/keybase.txt",
-          "sig_id": "c9b85304aa4849e4c3863172ea76a776a0066ce7464d5edd36125d985ea72ef50f",
-          "proof_id": "545844d3e804899c479f2510",
-          "human_url": "https://aquifermc.org/.well-known/keybase.txt",
-          "service_url": "https://aquifermc.org",
-          "presentation_group": "aquifermc.org",
-          "presentation_tag": "https"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "aquifermc.org",
-          "state": 1,
-          "proof_url": "https://keybase.io/kashike/sigchain#0b824c7af54b0435e5d051b93fbbde47adcfa0b554336c46808cf3d92ff1617f0f",
-          "sig_id": "0b824c7af54b0435e5d051b93fbbde47adcfa0b554336c46808cf3d92ff1617f0f",
-          "proof_id": "27135ef7ff47c27b5cf22910",
-          "human_url": "dns://aquifermc.org",
-          "service_url": "http://aquifermc.org",
-          "presentation_group": "aquifermc.org",
-          "presentation_tag": "dns"
-        }
-      ],
       "miserable.ninja": [
         {
           "proof_type": "generic_web_site",
@@ -339,6 +301,20 @@
           "presentation_tag": "dns"
         }
       ],
+      "aquifermc.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "aquifermc.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/kashike/sigchain#0b824c7af54b0435e5d051b93fbbde47adcfa0b554336c46808cf3d92ff1617f0f",
+          "sig_id": "0b824c7af54b0435e5d051b93fbbde47adcfa0b554336c46808cf3d92ff1617f0f",
+          "proof_id": "27135ef7ff47c27b5cf22910",
+          "human_url": "dns://aquifermc.org",
+          "service_url": "http://aquifermc.org",
+          "presentation_group": "aquifermc.org",
+          "presentation_tag": "dns"
+        }
+      ],
       "vq.lc": [
         {
           "proof_type": "dns",
@@ -368,16 +344,16 @@
         "presentation_tag": "tweet"
       },
       {
-        "proof_type": "dns",
-        "nametag": "miserable.ninja",
+        "proof_type": "github",
+        "nametag": "kashike",
         "state": 1,
-        "proof_url": "https://keybase.io/kashike/sigchain#a047b875b3476de23955d1769861e96a2ddadcfa5257d70c4d7156eb12b720e60f",
-        "sig_id": "a047b875b3476de23955d1769861e96a2ddadcfa5257d70c4d7156eb12b720e60f",
-        "proof_id": "e9eeeae69b8f40292cf20b10",
-        "human_url": "dns://miserable.ninja",
-        "service_url": "http://miserable.ninja",
-        "presentation_group": "miserable.ninja",
-        "presentation_tag": "dns"
+        "proof_url": "https://gist.github.com/5e598bdf70dbb921e728",
+        "sig_id": "fc822d8ff4736ff7770fad049cb21bd1709f0302c6641ee820ec1e33319ce4a80f",
+        "proof_id": "9dec7d31881a6182ac92c210",
+        "human_url": "https://gist.github.com/5e598bdf70dbb921e728",
+        "service_url": "https://github.com/kashike",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
       },
       {
         "proof_type": "reddit",
@@ -390,42 +366,6 @@
         "service_url": "https://reddit.com/user/kashike",
         "presentation_group": "reddit",
         "presentation_tag": "post"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "vq.lc",
-        "state": 1,
-        "proof_url": "https://keybase.io/kashike/sigchain#e778f717cc4a87798db102ed472cb6afaa53e981a318811b82c555f7b204829b0f",
-        "sig_id": "e778f717cc4a87798db102ed472cb6afaa53e981a318811b82c555f7b204829b0f",
-        "proof_id": "9ab0711223d109eca481ee10",
-        "human_url": "dns://vq.lc",
-        "service_url": "http://vq.lc",
-        "presentation_group": "vq.lc",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "korobi.io",
-        "state": 1,
-        "proof_url": "https://keybase.io/kashike/sigchain#678ff7e1857140ae1904ad2a3feb6905d957e8f333887a8b08c6e1a2dc05b5180f",
-        "sig_id": "678ff7e1857140ae1904ad2a3feb6905d957e8f333887a8b08c6e1a2dc05b5180f",
-        "proof_id": "58653bfb366afff0a58c6d10",
-        "human_url": "dns://korobi.io",
-        "service_url": "http://korobi.io",
-        "presentation_group": "korobi.io",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "github",
-        "nametag": "kashike",
-        "state": 1,
-        "proof_url": "https://gist.github.com/5e598bdf70dbb921e728",
-        "sig_id": "fc822d8ff4736ff7770fad049cb21bd1709f0302c6641ee820ec1e33319ce4a80f",
-        "proof_id": "9dec7d31881a6182ac92c210",
-        "human_url": "https://gist.github.com/5e598bdf70dbb921e728",
-        "service_url": "https://github.com/kashike",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
       },
       {
         "proof_type": "dns",
@@ -452,16 +392,40 @@
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "generic_web_site",
-        "nametag": "aquifermc.org",
+        "proof_type": "dns",
+        "nametag": "korobi.io",
         "state": 1,
-        "proof_url": "https://aquifermc.org/.well-known/keybase.txt",
-        "sig_id": "c9b85304aa4849e4c3863172ea76a776a0066ce7464d5edd36125d985ea72ef50f",
-        "proof_id": "545844d3e804899c479f2510",
-        "human_url": "https://aquifermc.org/.well-known/keybase.txt",
-        "service_url": "https://aquifermc.org",
-        "presentation_group": "aquifermc.org",
-        "presentation_tag": "https"
+        "proof_url": "https://keybase.io/kashike/sigchain#678ff7e1857140ae1904ad2a3feb6905d957e8f333887a8b08c6e1a2dc05b5180f",
+        "sig_id": "678ff7e1857140ae1904ad2a3feb6905d957e8f333887a8b08c6e1a2dc05b5180f",
+        "proof_id": "58653bfb366afff0a58c6d10",
+        "human_url": "dns://korobi.io",
+        "service_url": "http://korobi.io",
+        "presentation_group": "korobi.io",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "vq.lc",
+        "state": 1,
+        "proof_url": "https://keybase.io/kashike/sigchain#e778f717cc4a87798db102ed472cb6afaa53e981a318811b82c555f7b204829b0f",
+        "sig_id": "e778f717cc4a87798db102ed472cb6afaa53e981a318811b82c555f7b204829b0f",
+        "proof_id": "9ab0711223d109eca481ee10",
+        "human_url": "dns://vq.lc",
+        "service_url": "http://vq.lc",
+        "presentation_group": "vq.lc",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "miserable.ninja",
+        "state": 1,
+        "proof_url": "https://keybase.io/kashike/sigchain#a047b875b3476de23955d1769861e96a2ddadcfa5257d70c4d7156eb12b720e60f",
+        "sig_id": "a047b875b3476de23955d1769861e96a2ddadcfa5257d70c4d7156eb12b720e60f",
+        "proof_id": "e9eeeae69b8f40292cf20b10",
+        "human_url": "dns://miserable.ninja",
+        "service_url": "http://miserable.ninja",
+        "presentation_group": "miserable.ninja",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "generic_web_site",
