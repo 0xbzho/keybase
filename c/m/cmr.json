@@ -5,7 +5,7 @@
     "ctime": 1443552526,
     "mtime": 1443552526,
     "id_version": 53,
-    "track_version": 55,
+    "track_version": 56,
     "last_id_change": 1460617552,
     "username_cased": "cmr"
   },
@@ -50,13 +50,11 @@
     "subkeys": [
       "012125f2b62a58d44fac42f2677e2cca5200ad32e87f1a2a1063fcfa9be6ab6026140a",
       "0121be4ef57d4af3f05a1e04c3ccef01fc2e75df627896327c300ea93f4d89e48e0e0a",
-      "01219aa8f192025347ba9f93209879a37119b59a058ef8ded5ca3a846ac6d5c3e95c0a",
       "01213aeff71eaa83cd5c0390a36cd5ac1f717f9738e4ad7f1116cd53bde80216d1350a"
     ],
     "sibkeys": [
       "0120108c6badfccaf2a44502c2e010c2e1f4357cef887b3eeb29be2ce09ff40e612a0a",
       "0120221f4455f5f34f3795190166a4b3a280b3a6905d0d72436310b321afc2dcb4840a",
-      "0120c98a129d5e80d6a0529e296887f42fcc3e3da1499722b882d122ecb619dbea220a",
       "0101310f61e2936524ee046e35cbcacfe61aa6b6a3aa8b008877fa3fa12aa80ea7ca0a",
       "0120d601572f73f9d6f0e2a3e14f32cc6ac35407cfab48fb4197effeb1c80ceb5f430a"
     ],
@@ -350,9 +348,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b4fa43dd304845594df6e05624ecfe5434daa2b1a26640fcdb047df2a83619370f",
-      "seqno": 73,
-      "payload_hash": "9da444b2c0b8eaeec73cbcaf70eb453786f510dfd4f5bf9331c19a40936fbb5f"
+      "sig_id": "2b585f870089301e81913e21ec4de5239436f2e4448be1df21aedb8218b01f240f",
+      "seqno": 75,
+      "payload_hash": "75fa8a6a905ef42d9fc8f2faee932eb5efbeb78b782cdea78d8618ed7f2b9706"
     }
   },
   "devices": {
@@ -391,25 +389,6 @@
           "kid": "012125f2b62a58d44fac42f2677e2cca5200ad32e87f1a2a1063fcfa9be6ab6026140a",
           "key_role": 2,
           "sig_id": "510ed93cdaeff9070f6da1fc69015352763fb2885a8b4c54f7ece9883e04ba770f"
-        }
-      ]
-    },
-    "cda4baa8d3324f17c0cdf20d283fe518": {
-      "type": "desktop",
-      "ctime": 1456020446,
-      "mtime": 1456020446,
-      "name": "nicta desktop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120c98a129d5e80d6a0529e296887f42fcc3e3da1499722b882d122ecb619dbea220a",
-          "key_role": 1,
-          "sig_id": "6fb5694474c804ffef32d859c6561c2df33f3a1a8d0b0822833887b6502028e20f"
-        },
-        {
-          "kid": "01219aa8f192025347ba9f93209879a37119b59a058ef8ded5ca3a846ac6d5c3e95c0a",
-          "key_role": 2,
-          "sig_id": "6ea1d1dda2fd1609945d452aea947944e0e0ae1b7c6a7da2cb2c1928092b32c80f"
         }
       ]
     },
