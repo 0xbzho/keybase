@@ -4,9 +4,9 @@
     "username": "edsu",
     "ctime": 1405360824,
     "mtime": 1405360824,
-    "id_version": 51,
-    "track_version": 25,
-    "last_id_change": 1459077972,
+    "id_version": 54,
+    "track_version": 27,
+    "last_id_change": 1461601516,
     "username_cased": "edsu"
   },
   "profile": {
@@ -40,16 +40,20 @@
       "01210a4f42341684278194bf60ee4bb1e79ed95928bab15e8b38b9ea2b6f1252f73a0a",
       "0120e52893a31f2400fe3fa9760480274ea20392ef2f201b5fc728e8632deff1f1fc0a",
       "01203faffebc128f137270d1a96f65a80b116c35715d1d6bc63cf0fbbd58a767f2840a",
-      "0121cfbcfa1be72e4337dbff90e019350c28952d72eab1fe2f761201ccc7db01435a0a"
+      "0121cfbcfa1be72e4337dbff90e019350c28952d72eab1fe2f761201ccc7db01435a0a",
+      "01212dbb2b776d3fdbab6d68d647e352dc6e2aff63a7f07c664dd4c445173c527e6e0a",
+      "01202e12186345b89f81065f5d46da1c965ea362969115679d1337688555621616800a"
     ],
     "subkeys": [
       "01210a4f42341684278194bf60ee4bb1e79ed95928bab15e8b38b9ea2b6f1252f73a0a",
-      "0121cfbcfa1be72e4337dbff90e019350c28952d72eab1fe2f761201ccc7db01435a0a"
+      "0121cfbcfa1be72e4337dbff90e019350c28952d72eab1fe2f761201ccc7db01435a0a",
+      "01212dbb2b776d3fdbab6d68d647e352dc6e2aff63a7f07c664dd4c445173c527e6e0a"
     ],
     "sibkeys": [
       "010191af4d6b13322e878817df4328467654a061cc1a42be8eb7c87bd43e9e99bb050a",
       "0120e52893a31f2400fe3fa9760480274ea20392ef2f201b5fc728e8632deff1f1fc0a",
-      "01203faffebc128f137270d1a96f65a80b116c35715d1d6bc63cf0fbbd58a767f2840a"
+      "01203faffebc128f137270d1a96f65a80b116c35715d1d6bc63cf0fbbd58a767f2840a",
+      "01202e12186345b89f81065f5d46da1c965ea362969115679d1337688555621616800a"
     ],
     "families": {
       "010191af4d6b13322e878817df4328467654a061cc1a42be8eb7c87bd43e9e99bb050a": [
@@ -59,7 +63,9 @@
         "01210a4f42341684278194bf60ee4bb1e79ed95928bab15e8b38b9ea2b6f1252f73a0a",
         "0120e52893a31f2400fe3fa9760480274ea20392ef2f201b5fc728e8632deff1f1fc0a",
         "01203faffebc128f137270d1a96f65a80b116c35715d1d6bc63cf0fbbd58a767f2840a",
-        "0121cfbcfa1be72e4337dbff90e019350c28952d72eab1fe2f761201ccc7db01435a0a"
+        "0121cfbcfa1be72e4337dbff90e019350c28952d72eab1fe2f761201ccc7db01435a0a",
+        "01212dbb2b776d3fdbab6d68d647e352dc6e2aff63a7f07c664dd4c445173c527e6e0a",
+        "01202e12186345b89f81065f5d46da1c965ea362969115679d1337688555621616800a"
       ]
     },
     "eldest_kid": "010191af4d6b13322e878817df4328467654a061cc1a42be8eb7c87bd43e9e99bb050a",
@@ -214,12 +220,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d16463bfad0e5babcc055c44fb79203d5dbc739ab429c4aa8adcb87e4b9dca350f",
-      "seqno": 57,
-      "payload_hash": "beea022c8ff1b0997da817513f9af53536e39ccae679c245b7ca13be83c51092"
+      "sig_id": "1baa1e6fbc93790623f4e809efbebf25fd599da4018077912b5c2dfb71a1d0a80f",
+      "seqno": 61,
+      "payload_hash": "dc5065a96a3fe4e58c71538854f687a4d82db459643380a4a5096af181f58efa"
     }
   },
   "devices": {
+    "693534c00511344c1eee2612a205f118": {
+      "type": "desktop",
+      "ctime": 1461601516,
+      "mtime": 1461601516,
+      "name": "zen",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01202e12186345b89f81065f5d46da1c965ea362969115679d1337688555621616800a",
+          "key_role": 1,
+          "sig_id": "557164211f5cf5aedca4d5bfe52b811ac10089a04d4c88adca6a73d5c54037b20f"
+        },
+        {
+          "kid": "01212dbb2b776d3fdbab6d68d647e352dc6e2aff63a7f07c664dd4c445173c527e6e0a",
+          "key_role": 2,
+          "sig_id": "7388b1cf8a752b4646db57942bca5a0a292f29ea4953e331fa02ee8f7a7981320f"
+        }
+      ]
+    },
     "bafdd96604207caef5c39a22335e7a18": {
       "type": "desktop",
       "ctime": 1455587117,
