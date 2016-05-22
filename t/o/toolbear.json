@@ -4,9 +4,9 @@
     "username": "toolbear",
     "ctime": 1402638380,
     "mtime": 1402638380,
-    "id_version": 129,
-    "track_version": 9,
-    "last_id_change": 1460237407,
+    "id_version": 147,
+    "track_version": 10,
+    "last_id_change": 1463401380,
     "username_cased": "toolbear"
   },
   "profile": {
@@ -41,16 +41,20 @@
       "01219d1458fab877ab52d8406dfa627ab6b34351c05290702e57fc1ab060714c85320a",
       "0120f82be708a3559e72ed7ece5b344cb2c5411bef8d9ff671a9fa975c77cce6c3550a",
       "0121026180a63facde696fdf186e38f715c5cf908c3f4095f87b80872b717f9bb37f0a",
-      "0120ff35075bdf4ffc6349879fac1756de4422c152e1fed607ef29c3a69f99f830740a"
+      "0120ff35075bdf4ffc6349879fac1756de4422c152e1fed607ef29c3a69f99f830740a",
+      "0120adbc7028674a383cd3298bccc828730ac5ebaecebef57569ecfb00803ef760930a",
+      "01217bd1c12c1d2df09842f587874f8720ff42bfa14407163170e86634f924f4ab770a"
     ],
     "subkeys": [
       "01219d1458fab877ab52d8406dfa627ab6b34351c05290702e57fc1ab060714c85320a",
-      "0121026180a63facde696fdf186e38f715c5cf908c3f4095f87b80872b717f9bb37f0a"
+      "0121026180a63facde696fdf186e38f715c5cf908c3f4095f87b80872b717f9bb37f0a",
+      "01217bd1c12c1d2df09842f587874f8720ff42bfa14407163170e86634f924f4ab770a"
     ],
     "sibkeys": [
       "01017ecb47393cd41249fb6690cde9619a81279a93188a4dd24e8b672ce5c3b7c92c0a",
       "0120f82be708a3559e72ed7ece5b344cb2c5411bef8d9ff671a9fa975c77cce6c3550a",
-      "0120ff35075bdf4ffc6349879fac1756de4422c152e1fed607ef29c3a69f99f830740a"
+      "0120ff35075bdf4ffc6349879fac1756de4422c152e1fed607ef29c3a69f99f830740a",
+      "0120adbc7028674a383cd3298bccc828730ac5ebaecebef57569ecfb00803ef760930a"
     ],
     "families": {
       "010151ead582f4bb8990b309f56140857ed881d99d36a37c8fa235f6609cb267d9120a": [
@@ -65,7 +69,9 @@
         "01219d1458fab877ab52d8406dfa627ab6b34351c05290702e57fc1ab060714c85320a",
         "0120f82be708a3559e72ed7ece5b344cb2c5411bef8d9ff671a9fa975c77cce6c3550a",
         "0121026180a63facde696fdf186e38f715c5cf908c3f4095f87b80872b717f9bb37f0a",
-        "0120ff35075bdf4ffc6349879fac1756de4422c152e1fed607ef29c3a69f99f830740a"
+        "0120ff35075bdf4ffc6349879fac1756de4422c152e1fed607ef29c3a69f99f830740a",
+        "0120adbc7028674a383cd3298bccc828730ac5ebaecebef57569ecfb00803ef760930a",
+        "01217bd1c12c1d2df09842f587874f8720ff42bfa14407163170e86634f924f4ab770a"
       ]
     },
     "eldest_kid": "01017ecb47393cd41249fb6690cde9619a81279a93188a4dd24e8b672ce5c3b7c92c0a",
@@ -137,13 +143,25 @@
           "proof_type": "generic_web_site",
           "nametag": "tool-man.org",
           "state": 1,
-          "proof_url": "http://tool-man.org/.well-known/keybase.txt",
-          "sig_id": "74efcfb10b3a5a72b516b537a66355a55334b9e2c3e09774c23435444ef202f70f",
-          "proof_id": "22ec3dddc1417dddab407010",
-          "human_url": "http://tool-man.org/.well-known/keybase.txt",
-          "service_url": "http://tool-man.org",
+          "proof_url": "https://tool-man.org/keybase.txt",
+          "sig_id": "2e29600917518e25c1e452556b5b1c6366e4da87ba7cb10b320722a592033c020f",
+          "proof_id": "70aa841085e55f7ab2bfa510",
+          "human_url": "https://tool-man.org/keybase.txt",
+          "service_url": "https://tool-man.org",
           "presentation_group": "tool-man.org",
-          "presentation_tag": "http"
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "toolbear.io",
+          "state": 1,
+          "proof_url": "https://toolbear.io/keybase.txt",
+          "sig_id": "b131553ff724caf59c9cb16f0109713968205e6ade278e7d32bc49b63acd3e640f",
+          "proof_id": "8dad3328939ae6082feff310",
+          "human_url": "https://toolbear.io/keybase.txt",
+          "service_url": "https://toolbear.io",
+          "presentation_group": "toolbear.io",
+          "presentation_tag": "https"
         }
       ],
       "dns": [
@@ -157,6 +175,30 @@
           "human_url": "dns://tool-man.org",
           "service_url": "http://tool-man.org",
           "presentation_group": "tool-man.org",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "toolbear.consulting",
+          "state": 1,
+          "proof_url": "https://keybase.io/toolbear/sigchain#a3af509c6f7073d1d12e505067605632b3549e0dd386a5cd394427ce5820ad9e0f",
+          "sig_id": "a3af509c6f7073d1d12e505067605632b3549e0dd386a5cd394427ce5820ad9e0f",
+          "proof_id": "2457bb1ba53d0cb7f6090410",
+          "human_url": "dns://toolbear.consulting",
+          "service_url": "http://toolbear.consulting",
+          "presentation_group": "toolbear.consulting",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "toolbear.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/toolbear/sigchain#7a52df2dad5a4c2e7826729f8301f196e38b3bf73818190a16204065c9bd06560f",
+          "sig_id": "7a52df2dad5a4c2e7826729f8301f196e38b3bf73818190a16204065c9bd06560f",
+          "proof_id": "93bdb108201a14ab30c45110",
+          "human_url": "dns://toolbear.io",
+          "service_url": "http://toolbear.io",
+          "presentation_group": "toolbear.io",
           "presentation_tag": "dns"
         }
       ]
@@ -223,13 +265,13 @@
           "proof_type": "generic_web_site",
           "nametag": "tool-man.org",
           "state": 1,
-          "proof_url": "http://tool-man.org/.well-known/keybase.txt",
-          "sig_id": "74efcfb10b3a5a72b516b537a66355a55334b9e2c3e09774c23435444ef202f70f",
-          "proof_id": "22ec3dddc1417dddab407010",
-          "human_url": "http://tool-man.org/.well-known/keybase.txt",
-          "service_url": "http://tool-man.org",
+          "proof_url": "https://tool-man.org/keybase.txt",
+          "sig_id": "2e29600917518e25c1e452556b5b1c6366e4da87ba7cb10b320722a592033c020f",
+          "proof_id": "70aa841085e55f7ab2bfa510",
+          "human_url": "https://tool-man.org/keybase.txt",
+          "service_url": "https://tool-man.org",
           "presentation_group": "tool-man.org",
-          "presentation_tag": "http"
+          "presentation_tag": "https"
         },
         {
           "proof_type": "dns",
@@ -241,6 +283,46 @@
           "human_url": "dns://tool-man.org",
           "service_url": "http://tool-man.org",
           "presentation_group": "tool-man.org",
+          "presentation_tag": "dns"
+        }
+      ],
+      "toolbear.io": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "toolbear.io",
+          "state": 1,
+          "proof_url": "https://toolbear.io/keybase.txt",
+          "sig_id": "b131553ff724caf59c9cb16f0109713968205e6ade278e7d32bc49b63acd3e640f",
+          "proof_id": "8dad3328939ae6082feff310",
+          "human_url": "https://toolbear.io/keybase.txt",
+          "service_url": "https://toolbear.io",
+          "presentation_group": "toolbear.io",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "toolbear.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/toolbear/sigchain#7a52df2dad5a4c2e7826729f8301f196e38b3bf73818190a16204065c9bd06560f",
+          "sig_id": "7a52df2dad5a4c2e7826729f8301f196e38b3bf73818190a16204065c9bd06560f",
+          "proof_id": "93bdb108201a14ab30c45110",
+          "human_url": "dns://toolbear.io",
+          "service_url": "http://toolbear.io",
+          "presentation_group": "toolbear.io",
+          "presentation_tag": "dns"
+        }
+      ],
+      "toolbear.consulting": [
+        {
+          "proof_type": "dns",
+          "nametag": "toolbear.consulting",
+          "state": 1,
+          "proof_url": "https://keybase.io/toolbear/sigchain#a3af509c6f7073d1d12e505067605632b3549e0dd386a5cd394427ce5820ad9e0f",
+          "sig_id": "a3af509c6f7073d1d12e505067605632b3549e0dd386a5cd394427ce5820ad9e0f",
+          "proof_id": "2457bb1ba53d0cb7f6090410",
+          "human_url": "dns://toolbear.consulting",
+          "service_url": "http://toolbear.consulting",
+          "presentation_group": "toolbear.consulting",
           "presentation_tag": "dns"
         }
       ]
@@ -307,16 +389,52 @@
         "presentation_tag": "dns"
       },
       {
+        "proof_type": "dns",
+        "nametag": "toolbear.consulting",
+        "state": 1,
+        "proof_url": "https://keybase.io/toolbear/sigchain#a3af509c6f7073d1d12e505067605632b3549e0dd386a5cd394427ce5820ad9e0f",
+        "sig_id": "a3af509c6f7073d1d12e505067605632b3549e0dd386a5cd394427ce5820ad9e0f",
+        "proof_id": "2457bb1ba53d0cb7f6090410",
+        "human_url": "dns://toolbear.consulting",
+        "service_url": "http://toolbear.consulting",
+        "presentation_group": "toolbear.consulting",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "toolbear.io",
+        "state": 1,
+        "proof_url": "https://keybase.io/toolbear/sigchain#7a52df2dad5a4c2e7826729f8301f196e38b3bf73818190a16204065c9bd06560f",
+        "sig_id": "7a52df2dad5a4c2e7826729f8301f196e38b3bf73818190a16204065c9bd06560f",
+        "proof_id": "93bdb108201a14ab30c45110",
+        "human_url": "dns://toolbear.io",
+        "service_url": "http://toolbear.io",
+        "presentation_group": "toolbear.io",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "tool-man.org",
         "state": 1,
-        "proof_url": "http://tool-man.org/.well-known/keybase.txt",
-        "sig_id": "74efcfb10b3a5a72b516b537a66355a55334b9e2c3e09774c23435444ef202f70f",
-        "proof_id": "22ec3dddc1417dddab407010",
-        "human_url": "http://tool-man.org/.well-known/keybase.txt",
-        "service_url": "http://tool-man.org",
+        "proof_url": "https://tool-man.org/keybase.txt",
+        "sig_id": "2e29600917518e25c1e452556b5b1c6366e4da87ba7cb10b320722a592033c020f",
+        "proof_id": "70aa841085e55f7ab2bfa510",
+        "human_url": "https://tool-man.org/keybase.txt",
+        "service_url": "https://tool-man.org",
         "presentation_group": "tool-man.org",
-        "presentation_tag": "http"
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "toolbear.io",
+        "state": 1,
+        "proof_url": "https://toolbear.io/keybase.txt",
+        "sig_id": "b131553ff724caf59c9cb16f0109713968205e6ade278e7d32bc49b63acd3e640f",
+        "proof_id": "8dad3328939ae6082feff310",
+        "human_url": "https://toolbear.io/keybase.txt",
+        "service_url": "https://toolbear.io",
+        "presentation_group": "toolbear.io",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -331,9 +449,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f3f31629fed8f2d7944a3c740041d7cc8efcedfee820bce3cdc19e177395728d0f",
-      "seqno": 38,
-      "payload_hash": "d3815ce20c6fc12eb0a12f9d8927e37035bd9a5845706c7bca96093076274426"
+      "sig_id": "a3af509c6f7073d1d12e505067605632b3549e0dd386a5cd394427ce5820ad9e0f",
+      "seqno": 48,
+      "payload_hash": "20124079c56ceac7805db5895174a12d478c0c6eccc335f00856e203255babc9"
     }
   },
   "devices": {
@@ -353,6 +471,25 @@
           "kid": "0121026180a63facde696fdf186e38f715c5cf908c3f4095f87b80872b717f9bb37f0a",
           "key_role": 2,
           "sig_id": "f3f31629fed8f2d7944a3c740041d7cc8efcedfee820bce3cdc19e177395728d0f"
+        }
+      ]
+    },
+    "26f22e0c3955eb5e088ee84082daa618": {
+      "type": "desktop",
+      "ctime": 1463397089,
+      "mtime": 1463397089,
+      "name": "animated-square-4877",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120adbc7028674a383cd3298bccc828730ac5ebaecebef57569ecfb00803ef760930a",
+          "key_role": 1,
+          "sig_id": "8e4407b568a5b4659fb48839e769ab92417497dfcd5dacce1c47647996b324740f"
+        },
+        {
+          "kid": "01217bd1c12c1d2df09842f587874f8720ff42bfa14407163170e86634f924f4ab770a",
+          "key_role": 2,
+          "sig_id": "bc30a662014d1c5f7b7b15edcc776498452558ed914aca249c21c031df18e71e0f"
         }
       ]
     },
