@@ -4,9 +4,9 @@
     "username": "hydrog3n",
     "ctime": 1430850784,
     "mtime": 1430850784,
-    "id_version": 42,
-    "track_version": 4,
-    "last_id_change": 1457089684,
+    "id_version": 59,
+    "track_version": 7,
+    "last_id_change": 1461089705,
     "username_cased": "hydrog3n"
   },
   "profile": {
@@ -43,16 +43,20 @@
       "0121c9db6735dabc0cb68d1afeff64877934df1ecc9b863b4f1f01604015633117580a",
       "01205a3af86e4d72225e772b5c44ebdd708a9de7297b1b776d39d3cd81dfcef2c6240a",
       "01203204b97cece421c41438e482150a6d6fa9261a3572e4cff4c197d06012b8b8860a",
-      "01218008032e05d715a88d8efeecc04af8044f237d5186affdff38a29c8edf83d01a0a"
+      "01218008032e05d715a88d8efeecc04af8044f237d5186affdff38a29c8edf83d01a0a",
+      "0120be9005020238c8e4cfcde2d033a0f17ad2236b99919e4f91cd09ad082f9e34e70a",
+      "012129301e8896d5ce3abd452eba2adce04a6c01039714de44ada51f446f473990110a"
     ],
     "subkeys": [
       "0121c9db6735dabc0cb68d1afeff64877934df1ecc9b863b4f1f01604015633117580a",
-      "01218008032e05d715a88d8efeecc04af8044f237d5186affdff38a29c8edf83d01a0a"
+      "01218008032e05d715a88d8efeecc04af8044f237d5186affdff38a29c8edf83d01a0a",
+      "012129301e8896d5ce3abd452eba2adce04a6c01039714de44ada51f446f473990110a"
     ],
     "sibkeys": [
       "0101550403386e61de068c5a19cc860b3f7ef61713751ade0cdd1b3d2e1803abd4a10a",
       "01205a3af86e4d72225e772b5c44ebdd708a9de7297b1b776d39d3cd81dfcef2c6240a",
-      "01203204b97cece421c41438e482150a6d6fa9261a3572e4cff4c197d06012b8b8860a"
+      "01203204b97cece421c41438e482150a6d6fa9261a3572e4cff4c197d06012b8b8860a",
+      "0120be9005020238c8e4cfcde2d033a0f17ad2236b99919e4f91cd09ad082f9e34e70a"
     ],
     "families": {
       "01017025672304859b465e1609601ea174962e6fddc954755d62de8fc858a855088c0a": [
@@ -67,7 +71,9 @@
         "0121c9db6735dabc0cb68d1afeff64877934df1ecc9b863b4f1f01604015633117580a",
         "01205a3af86e4d72225e772b5c44ebdd708a9de7297b1b776d39d3cd81dfcef2c6240a",
         "01203204b97cece421c41438e482150a6d6fa9261a3572e4cff4c197d06012b8b8860a",
-        "01218008032e05d715a88d8efeecc04af8044f237d5186affdff38a29c8edf83d01a0a"
+        "01218008032e05d715a88d8efeecc04af8044f237d5186affdff38a29c8edf83d01a0a",
+        "0120be9005020238c8e4cfcde2d033a0f17ad2236b99919e4f91cd09ad082f9e34e70a",
+        "012129301e8896d5ce3abd452eba2adce04a6c01039714de44ada51f446f473990110a"
       ]
     },
     "eldest_kid": "0101550403386e61de068c5a19cc860b3f7ef61713751ade0cdd1b3d2e1803abd4a10a",
@@ -91,6 +97,60 @@
           "presentation_group": "twitter",
           "presentation_tag": "tweet"
         }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "hydrog3n",
+          "state": 1,
+          "proof_url": "https://gist.github.com/e65bd99b262b5c5c5833",
+          "sig_id": "78442e2ddc77007350bb046da7526de41ae446234d400f060cef6772979bbdb80f",
+          "proof_id": "40fe1d97a99a90e30873d510",
+          "human_url": "https://gist.github.com/e65bd99b262b5c5c5833",
+          "service_url": "https://github.com/hydrog3n",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/hydrog3n",
+          "state": 1,
+          "proof_url": "https://coinbase.com/hydrog3n/public-key",
+          "sig_id": "440fb9523168fa90cb62728abd1c88b9c3fae8c9ab3fa349de3eabd9727d3ddf0f",
+          "proof_id": "6173b0f5a7e4d2c240591f10",
+          "human_url": "https://coinbase.com/hydrog3n/public-key",
+          "service_url": "https://coinbase.com/hydrog3n",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "hydrog3n.fr",
+          "state": 1,
+          "proof_url": "https://keybase.io/hydrog3n/sigchain#706e095b9c3a1613d4ce7de5904111f72f7197f2f5a5b504b28b515fb79cc7870f",
+          "sig_id": "706e095b9c3a1613d4ce7de5904111f72f7197f2f5a5b504b28b515fb79cc7870f",
+          "proof_id": "9ca91538f1247951f7b20110",
+          "human_url": "dns://hydrog3n.fr",
+          "service_url": "http://hydrog3n.fr",
+          "presentation_group": "hydrog3n.fr",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "loicvaille.ovh",
+          "state": 1,
+          "proof_url": "https://keybase.io/hydrog3n/sigchain#b4d644fd91b06b60b3158208f5c826b4d99d77f83f4cb729fd1cac290124daf50f",
+          "sig_id": "b4d644fd91b06b60b3158208f5c826b4d99d77f83f4cb729fd1cac290124daf50f",
+          "proof_id": "c53b23665076fb19739f8310",
+          "human_url": "dns://loicvaille.ovh",
+          "service_url": "http://loicvaille.ovh",
+          "presentation_group": "loicvaille.ovh",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -107,6 +167,62 @@
           "presentation_group": "twitter",
           "presentation_tag": "tweet"
         }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "hydrog3n",
+          "state": 1,
+          "proof_url": "https://gist.github.com/e65bd99b262b5c5c5833",
+          "sig_id": "78442e2ddc77007350bb046da7526de41ae446234d400f060cef6772979bbdb80f",
+          "proof_id": "40fe1d97a99a90e30873d510",
+          "human_url": "https://gist.github.com/e65bd99b262b5c5c5833",
+          "service_url": "https://github.com/hydrog3n",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/hydrog3n",
+          "state": 1,
+          "proof_url": "https://coinbase.com/hydrog3n/public-key",
+          "sig_id": "440fb9523168fa90cb62728abd1c88b9c3fae8c9ab3fa349de3eabd9727d3ddf0f",
+          "proof_id": "6173b0f5a7e4d2c240591f10",
+          "human_url": "https://coinbase.com/hydrog3n/public-key",
+          "service_url": "https://coinbase.com/hydrog3n",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "hydrog3n.fr": [
+        {
+          "proof_type": "dns",
+          "nametag": "hydrog3n.fr",
+          "state": 1,
+          "proof_url": "https://keybase.io/hydrog3n/sigchain#706e095b9c3a1613d4ce7de5904111f72f7197f2f5a5b504b28b515fb79cc7870f",
+          "sig_id": "706e095b9c3a1613d4ce7de5904111f72f7197f2f5a5b504b28b515fb79cc7870f",
+          "proof_id": "9ca91538f1247951f7b20110",
+          "human_url": "dns://hydrog3n.fr",
+          "service_url": "http://hydrog3n.fr",
+          "presentation_group": "hydrog3n.fr",
+          "presentation_tag": "dns"
+        }
+      ],
+      "loicvaille.ovh": [
+        {
+          "proof_type": "dns",
+          "nametag": "loicvaille.ovh",
+          "state": 1,
+          "proof_url": "https://keybase.io/hydrog3n/sigchain#b4d644fd91b06b60b3158208f5c826b4d99d77f83f4cb729fd1cac290124daf50f",
+          "sig_id": "b4d644fd91b06b60b3158208f5c826b4d99d77f83f4cb729fd1cac290124daf50f",
+          "proof_id": "c53b23665076fb19739f8310",
+          "human_url": "dns://loicvaille.ovh",
+          "service_url": "http://loicvaille.ovh",
+          "presentation_group": "loicvaille.ovh",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -121,10 +237,65 @@
         "service_url": "https://twitter.com/hydrog3n",
         "presentation_group": "twitter",
         "presentation_tag": "tweet"
+      },
+      {
+        "proof_type": "github",
+        "nametag": "hydrog3n",
+        "state": 1,
+        "proof_url": "https://gist.github.com/e65bd99b262b5c5c5833",
+        "sig_id": "78442e2ddc77007350bb046da7526de41ae446234d400f060cef6772979bbdb80f",
+        "proof_id": "40fe1d97a99a90e30873d510",
+        "human_url": "https://gist.github.com/e65bd99b262b5c5c5833",
+        "service_url": "https://github.com/hydrog3n",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/hydrog3n",
+        "state": 1,
+        "proof_url": "https://coinbase.com/hydrog3n/public-key",
+        "sig_id": "440fb9523168fa90cb62728abd1c88b9c3fae8c9ab3fa349de3eabd9727d3ddf0f",
+        "proof_id": "6173b0f5a7e4d2c240591f10",
+        "human_url": "https://coinbase.com/hydrog3n/public-key",
+        "service_url": "https://coinbase.com/hydrog3n",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "hydrog3n.fr",
+        "state": 1,
+        "proof_url": "https://keybase.io/hydrog3n/sigchain#706e095b9c3a1613d4ce7de5904111f72f7197f2f5a5b504b28b515fb79cc7870f",
+        "sig_id": "706e095b9c3a1613d4ce7de5904111f72f7197f2f5a5b504b28b515fb79cc7870f",
+        "proof_id": "9ca91538f1247951f7b20110",
+        "human_url": "dns://hydrog3n.fr",
+        "service_url": "http://hydrog3n.fr",
+        "presentation_group": "hydrog3n.fr",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "loicvaille.ovh",
+        "state": 1,
+        "proof_url": "https://keybase.io/hydrog3n/sigchain#b4d644fd91b06b60b3158208f5c826b4d99d77f83f4cb729fd1cac290124daf50f",
+        "sig_id": "b4d644fd91b06b60b3158208f5c826b4d99d77f83f4cb729fd1cac290124daf50f",
+        "proof_id": "c53b23665076fb19739f8310",
+        "human_url": "dns://loicvaille.ovh",
+        "service_url": "http://loicvaille.ovh",
+        "presentation_group": "loicvaille.ovh",
+        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1FtTUduHTWJwPsiyNEkaf5ts24YZ57qgxQ",
+        "sig_id": "ea24e6436bd2efdf9cf626695187ee2dbd0b32080d1e13e3c82a3ab9442631f60f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/8aa3f22bbe0bad16e6d34440f2160805_360_360_square_360.jpeg",
@@ -135,9 +306,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "e388822a2ed6379019ac145f530dd155fdca0b88549c8986e3c24d33e3682d5c0f",
-      "seqno": 15,
-      "payload_hash": "b15de53f4a51c53006824716ad1eab1519f28d391e3acbbf786e9066789581fb"
+      "sig_id": "e8351db7bfba1385ebe07416188d4980fb3664916875e83146be3653286c009d0f",
+      "seqno": 26,
+      "payload_hash": "a0d0a6e3bdef88fb9ccf6d527a84b667a3d36f3c62666c8b4a25edb847a10f07"
     }
   },
   "devices": {
@@ -176,6 +347,25 @@
           "kid": "01218008032e05d715a88d8efeecc04af8044f237d5186affdff38a29c8edf83d01a0a",
           "key_role": 2,
           "sig_id": "cf098a801244356800a53fe0a08276339388a066d365df60d2a91fd09727192e0f"
+        }
+      ]
+    },
+    "8f6ca2fee6f0ad444370c04b724fcd18": {
+      "type": "desktop",
+      "ctime": 1461002389,
+      "mtime": 1461002389,
+      "name": "Hydrobook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120be9005020238c8e4cfcde2d033a0f17ad2236b99919e4f91cd09ad082f9e34e70a",
+          "key_role": 1,
+          "sig_id": "e98aba78ddf4e0d317924178cc2e29ed4605d42ed49cd44698eb04deef72c2190f"
+        },
+        {
+          "kid": "012129301e8896d5ce3abd452eba2adce04a6c01039714de44ada51f446f473990110a",
+          "key_role": 2,
+          "sig_id": "af8ca225345e2e7cd87f2e27b30a6980087aae3c8d94e45784fa19ce8147676f0f"
         }
       ]
     }
