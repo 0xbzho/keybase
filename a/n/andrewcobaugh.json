@@ -4,16 +4,16 @@
     "username": "andrewcobaugh",
     "ctime": 1438113318,
     "mtime": 1438113318,
-    "id_version": 14,
+    "id_version": 15,
     "track_version": 8,
-    "last_id_change": 1459487987,
+    "last_id_change": 1460999493,
     "username_cased": "andrewcobaugh"
   },
   "profile": {
-    "mtime": 1439307026,
+    "mtime": 1461770604,
     "full_name": "Andrew Cobaugh",
-    "location": null,
-    "bio": null
+    "location": "Pennsylvania",
+    "bio": "System Design Specialist"
   },
   "public_keys": {
     "primary": {
@@ -39,16 +39,20 @@
       "01219b2815e5180e86310aed4038eb9f8de74dc9ca9063858dd83ca5130871df3e6a0a",
       "01206b974d2f5958c363e4cb1e3975286bd564c43d20abd8745b91f6cc5a5202136b0a",
       "0120a67f1125bc0dce8d0a2e2c7ca2a9edb7582c7575a666a5f18cd85630337e46610a",
-      "01211b159612fa26f9db2362173c55b141c47ce5b0f6d56bb5a5706244b6833ad5340a"
+      "01211b159612fa26f9db2362173c55b141c47ce5b0f6d56bb5a5706244b6833ad5340a",
+      "0120a8d62c9fb2deaeaba88d0991d98db340b6f819a80419f7f30a03d0ae2a84ccda0a",
+      "012101f4421ae23ffdbe706d1d831044b88a99d601b6d1fe8aaba3b7ee20fd4f0b650a"
     ],
     "subkeys": [
       "01219b2815e5180e86310aed4038eb9f8de74dc9ca9063858dd83ca5130871df3e6a0a",
-      "01211b159612fa26f9db2362173c55b141c47ce5b0f6d56bb5a5706244b6833ad5340a"
+      "01211b159612fa26f9db2362173c55b141c47ce5b0f6d56bb5a5706244b6833ad5340a",
+      "012101f4421ae23ffdbe706d1d831044b88a99d601b6d1fe8aaba3b7ee20fd4f0b650a"
     ],
     "sibkeys": [
       "0101befa2a572c37a1512a1fe75816c9ddb869621fc3d4c4602d822b1ec057a9596a0a",
       "01206b974d2f5958c363e4cb1e3975286bd564c43d20abd8745b91f6cc5a5202136b0a",
-      "0120a67f1125bc0dce8d0a2e2c7ca2a9edb7582c7575a666a5f18cd85630337e46610a"
+      "0120a67f1125bc0dce8d0a2e2c7ca2a9edb7582c7575a666a5f18cd85630337e46610a",
+      "0120a8d62c9fb2deaeaba88d0991d98db340b6f819a80419f7f30a03d0ae2a84ccda0a"
     ],
     "families": {
       "0101befa2a572c37a1512a1fe75816c9ddb869621fc3d4c4602d822b1ec057a9596a0a": [
@@ -57,7 +61,9 @@
         "01219b2815e5180e86310aed4038eb9f8de74dc9ca9063858dd83ca5130871df3e6a0a",
         "01206b974d2f5958c363e4cb1e3975286bd564c43d20abd8745b91f6cc5a5202136b0a",
         "0120a67f1125bc0dce8d0a2e2c7ca2a9edb7582c7575a666a5f18cd85630337e46610a",
-        "01211b159612fa26f9db2362173c55b141c47ce5b0f6d56bb5a5706244b6833ad5340a"
+        "01211b159612fa26f9db2362173c55b141c47ce5b0f6d56bb5a5706244b6833ad5340a",
+        "0120a8d62c9fb2deaeaba88d0991d98db340b6f819a80419f7f30a03d0ae2a84ccda0a",
+        "012101f4421ae23ffdbe706d1d831044b88a99d601b6d1fe8aaba3b7ee20fd4f0b650a"
       ]
     },
     "eldest_kid": "0101befa2a572c37a1512a1fe75816c9ddb869621fc3d4c4602d822b1ec057a9596a0a",
@@ -165,12 +171,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "9704e53b5a7bd1db1f32637a68ef985ba123b425da477f6d1d04d7b6c62ee8b80f",
-      "seqno": 15,
-      "payload_hash": "ec693af148c5fe40afdbf295e9a9e07920f6e6e4ba834369a7e55113f9d46c36"
+      "sig_id": "92938315a162cf72803a5c984e017a6e050ea79daf10c47e8da0c6bd6b0c1e7f0f",
+      "seqno": 17,
+      "payload_hash": "499ab697800e326c0fa444ece356d038140f3260b541751de43888f7be2a4b6b"
     }
   },
   "devices": {
+    "1c3e4be494a5dc9e64395e314ea61018": {
+      "type": "desktop",
+      "ctime": 1460999493,
+      "mtime": 1460999493,
+      "name": "dunvegan",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a8d62c9fb2deaeaba88d0991d98db340b6f819a80419f7f30a03d0ae2a84ccda0a",
+          "key_role": 1,
+          "sig_id": "16205f4f0d8cdedfde1edc1a1b2449c36cba85ae58ed22aadb258809a71196a60f"
+        },
+        {
+          "kid": "012101f4421ae23ffdbe706d1d831044b88a99d601b6d1fe8aaba3b7ee20fd4f0b650a",
+          "key_role": 2,
+          "sig_id": "92938315a162cf72803a5c984e017a6e050ea79daf10c47e8da0c6bd6b0c1e7f0f"
+        }
+      ]
+    },
     "445c3a0d3c235d280df613f3aca91618": {
       "type": "backup",
       "ctime": 1455030222,
