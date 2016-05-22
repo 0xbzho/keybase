@@ -4,16 +4,16 @@
     "username": "corysvensson",
     "ctime": 1407178376,
     "mtime": 1407178376,
-    "id_version": 61,
-    "track_version": 9,
-    "last_id_change": 1459484303,
+    "id_version": 70,
+    "track_version": 11,
+    "last_id_change": 1462493349,
     "username_cased": "CorySvensson"
   },
   "profile": {
-    "mtime": 1408521714,
+    "mtime": 1462574264,
     "full_name": "Cory Svensson",
     "location": "Kelowna, BC, Canada",
-    "bio": "Self-proclaimed geek, since before it was cool.\n\nBorn in Brampton, Ontario (ON), Canada - I went to highschool at North Park Secondary School and college at Sheridan - Brampton campus.\n\nI'm now living in ..."
+    "bio": "Self-proclaimed geek, since before it was cool. \n\nShopifolk."
   },
   "public_keys": {
     "primary": {
@@ -108,6 +108,20 @@
           "presentation_group": "corysvensson.com",
           "presentation_tag": "http"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "bitcoinify.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/corysvensson/sigchain#bde7e6acc026eee111025cb1ef206fe349173a5d4fb88473cc71e5be9f7e15450f",
+          "sig_id": "bde7e6acc026eee111025cb1ef206fe349173a5d4fb88473cc71e5be9f7e15450f",
+          "proof_id": "4cbb64481e10c7bad55b6510",
+          "human_url": "dns://bitcoinify.me",
+          "service_url": "http://bitcoinify.me",
+          "presentation_group": "bitcoinify.me",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -152,6 +166,20 @@
           "presentation_group": "corysvensson.com",
           "presentation_tag": "http"
         }
+      ],
+      "bitcoinify.me": [
+        {
+          "proof_type": "dns",
+          "nametag": "bitcoinify.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/corysvensson/sigchain#bde7e6acc026eee111025cb1ef206fe349173a5d4fb88473cc71e5be9f7e15450f",
+          "sig_id": "bde7e6acc026eee111025cb1ef206fe349173a5d4fb88473cc71e5be9f7e15450f",
+          "proof_id": "4cbb64481e10c7bad55b6510",
+          "human_url": "dns://bitcoinify.me",
+          "service_url": "http://bitcoinify.me",
+          "presentation_group": "bitcoinify.me",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -178,6 +206,18 @@
         "service_url": "https://github.com/CorySvensson",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "bitcoinify.me",
+        "state": 1,
+        "proof_url": "https://keybase.io/corysvensson/sigchain#bde7e6acc026eee111025cb1ef206fe349173a5d4fb88473cc71e5be9f7e15450f",
+        "sig_id": "bde7e6acc026eee111025cb1ef206fe349173a5d4fb88473cc71e5be9f7e15450f",
+        "proof_id": "4cbb64481e10c7bad55b6510",
+        "human_url": "dns://bitcoinify.me",
+        "service_url": "http://bitcoinify.me",
+        "presentation_group": "bitcoinify.me",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "generic_web_site",
@@ -211,9 +251,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f511a2be668e03d33ecb501edbb0fead2871eb6a92f3cfaca6e1243317d76e170f",
-      "seqno": 23,
-      "payload_hash": "0dca9db7bb81c0862fff58108359f7046c84ade056f8cf22a18d4d0ec0ee6af4"
+      "sig_id": "4423a6b08f6862f207f2df441e4ab7d9589cc1e1e56f65121b5ca5deb9246aca0f",
+      "seqno": 30,
+      "payload_hash": "b718b0b8b889f84ef9f495be69d770af2482e30993586dd349bab2cde9435729"
     }
   },
   "devices": {}
