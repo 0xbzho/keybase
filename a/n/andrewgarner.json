@@ -4,9 +4,9 @@
     "username": "andrewgarner",
     "ctime": 1437034392,
     "mtime": 1437034392,
-    "id_version": 38,
+    "id_version": 51,
     "track_version": 3,
-    "last_id_change": 1460390732,
+    "last_id_change": 1463670117,
     "username_cased": "andrewgarner"
   },
   "profile": {
@@ -39,16 +39,20 @@
       "0120e82095c013e1f21ba479e1815db7ec47e816e37b0466c8c8efd6879b59f8d4930a",
       "0121f642b6189431fc18167d75919b36cd9d8b2764fef9907a10a7da783ad39c803b0a",
       "01214bf147165a5af7749972362fdd71ac5cecc34edfc9c4c90bf584334f6b31a6380a",
-      "012049ef2e65f461bb0fc6b155351880315eaa4d1d88655d34e77ad7db4cdd759e230a"
+      "012049ef2e65f461bb0fc6b155351880315eaa4d1d88655d34e77ad7db4cdd759e230a",
+      "01204a4eb372865088880730313795308e8bf98ad59a14d04ef16672c68df571c23e0a",
+      "01219a56f29c7c22c7999cda12c2795db7a3a9ad1e29bf734f10fa968ff50adf02050a"
     ],
     "subkeys": [
       "0121f642b6189431fc18167d75919b36cd9d8b2764fef9907a10a7da783ad39c803b0a",
-      "01214bf147165a5af7749972362fdd71ac5cecc34edfc9c4c90bf584334f6b31a6380a"
+      "01214bf147165a5af7749972362fdd71ac5cecc34edfc9c4c90bf584334f6b31a6380a",
+      "01219a56f29c7c22c7999cda12c2795db7a3a9ad1e29bf734f10fa968ff50adf02050a"
     ],
     "sibkeys": [
       "010129efbbbd32b1bd48630e4979d47bd537d5833226259430273db1fa21c701a38e0a",
       "0120e82095c013e1f21ba479e1815db7ec47e816e37b0466c8c8efd6879b59f8d4930a",
-      "012049ef2e65f461bb0fc6b155351880315eaa4d1d88655d34e77ad7db4cdd759e230a"
+      "012049ef2e65f461bb0fc6b155351880315eaa4d1d88655d34e77ad7db4cdd759e230a",
+      "01204a4eb372865088880730313795308e8bf98ad59a14d04ef16672c68df571c23e0a"
     ],
     "families": {
       "010157d53a7710e63435d8679e7c2c523061d2e5b1d413ab56f31f1a325311c48f800a": [
@@ -59,7 +63,9 @@
         "0120e82095c013e1f21ba479e1815db7ec47e816e37b0466c8c8efd6879b59f8d4930a",
         "0121f642b6189431fc18167d75919b36cd9d8b2764fef9907a10a7da783ad39c803b0a",
         "01214bf147165a5af7749972362fdd71ac5cecc34edfc9c4c90bf584334f6b31a6380a",
-        "012049ef2e65f461bb0fc6b155351880315eaa4d1d88655d34e77ad7db4cdd759e230a"
+        "012049ef2e65f461bb0fc6b155351880315eaa4d1d88655d34e77ad7db4cdd759e230a",
+        "01204a4eb372865088880730313795308e8bf98ad59a14d04ef16672c68df571c23e0a",
+        "01219a56f29c7c22c7999cda12c2795db7a3a9ad1e29bf734f10fa968ff50adf02050a"
       ]
     },
     "eldest_kid": "010129efbbbd32b1bd48630e4979d47bd537d5833226259430273db1fa21c701a38e0a",
@@ -127,18 +133,6 @@
         },
         {
           "proof_type": "dns",
-          "nametag": "andrewgarner.co.uk",
-          "state": 1,
-          "proof_url": "https://keybase.io/andrewgarner/sigchain#b0339d82e3105f9d3b64b2715f959f0209f4c353aaf2023e8c78467f7f0d28860f",
-          "sig_id": "b0339d82e3105f9d3b64b2715f959f0209f4c353aaf2023e8c78467f7f0d28860f",
-          "proof_id": "2953171f574f9e06bd6ee310",
-          "human_url": "dns://andrewgarner.co.uk",
-          "service_url": "http://andrewgarner.co.uk",
-          "presentation_group": "andrewgarner.co.uk",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
           "nametag": "andrewgarner.uk",
           "state": 1,
           "proof_url": "https://keybase.io/andrewgarner/sigchain#15c197d4d3c29c2b0f56da43ec8c757cd6b0d819736366989fc3733d0ea55d160f",
@@ -147,6 +141,18 @@
           "human_url": "dns://andrewgarner.uk",
           "service_url": "http://andrewgarner.uk",
           "presentation_group": "andrewgarner.uk",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "andrewgarner.co.uk",
+          "state": 1,
+          "proof_url": "https://keybase.io/andrewgarner/sigchain#2ce5f53aba8e13aa2b328ab6b667aae49debdbe6b0cf43cafd81f37ef22f536f0f",
+          "sig_id": "2ce5f53aba8e13aa2b328ab6b667aae49debdbe6b0cf43cafd81f37ef22f536f0f",
+          "proof_id": "e555ef2a6cc35cb60c9a6b10",
+          "human_url": "dns://andrewgarner.co.uk",
+          "service_url": "http://andrewgarner.co.uk",
+          "presentation_group": "andrewgarner.co.uk",
           "presentation_tag": "dns"
         }
       ]
@@ -208,20 +214,6 @@
           "presentation_tag": "dns"
         }
       ],
-      "andrewgarner.co.uk": [
-        {
-          "proof_type": "dns",
-          "nametag": "andrewgarner.co.uk",
-          "state": 1,
-          "proof_url": "https://keybase.io/andrewgarner/sigchain#b0339d82e3105f9d3b64b2715f959f0209f4c353aaf2023e8c78467f7f0d28860f",
-          "sig_id": "b0339d82e3105f9d3b64b2715f959f0209f4c353aaf2023e8c78467f7f0d28860f",
-          "proof_id": "2953171f574f9e06bd6ee310",
-          "human_url": "dns://andrewgarner.co.uk",
-          "service_url": "http://andrewgarner.co.uk",
-          "presentation_group": "andrewgarner.co.uk",
-          "presentation_tag": "dns"
-        }
-      ],
       "andrewgarner.uk": [
         {
           "proof_type": "dns",
@@ -233,6 +225,20 @@
           "human_url": "dns://andrewgarner.uk",
           "service_url": "http://andrewgarner.uk",
           "presentation_group": "andrewgarner.uk",
+          "presentation_tag": "dns"
+        }
+      ],
+      "andrewgarner.co.uk": [
+        {
+          "proof_type": "dns",
+          "nametag": "andrewgarner.co.uk",
+          "state": 1,
+          "proof_url": "https://keybase.io/andrewgarner/sigchain#2ce5f53aba8e13aa2b328ab6b667aae49debdbe6b0cf43cafd81f37ef22f536f0f",
+          "sig_id": "2ce5f53aba8e13aa2b328ab6b667aae49debdbe6b0cf43cafd81f37ef22f536f0f",
+          "proof_id": "e555ef2a6cc35cb60c9a6b10",
+          "human_url": "dns://andrewgarner.co.uk",
+          "service_url": "http://andrewgarner.co.uk",
+          "presentation_group": "andrewgarner.co.uk",
           "presentation_tag": "dns"
         }
       ]
@@ -288,18 +294,6 @@
       },
       {
         "proof_type": "dns",
-        "nametag": "andrewgarner.co.uk",
-        "state": 1,
-        "proof_url": "https://keybase.io/andrewgarner/sigchain#b0339d82e3105f9d3b64b2715f959f0209f4c353aaf2023e8c78467f7f0d28860f",
-        "sig_id": "b0339d82e3105f9d3b64b2715f959f0209f4c353aaf2023e8c78467f7f0d28860f",
-        "proof_id": "2953171f574f9e06bd6ee310",
-        "human_url": "dns://andrewgarner.co.uk",
-        "service_url": "http://andrewgarner.co.uk",
-        "presentation_group": "andrewgarner.co.uk",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
         "nametag": "andrewgarner.uk",
         "state": 1,
         "proof_url": "https://keybase.io/andrewgarner/sigchain#15c197d4d3c29c2b0f56da43ec8c757cd6b0d819736366989fc3733d0ea55d160f",
@@ -308,6 +302,18 @@
         "human_url": "dns://andrewgarner.uk",
         "service_url": "http://andrewgarner.uk",
         "presentation_group": "andrewgarner.uk",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "andrewgarner.co.uk",
+        "state": 1,
+        "proof_url": "https://keybase.io/andrewgarner/sigchain#2ce5f53aba8e13aa2b328ab6b667aae49debdbe6b0cf43cafd81f37ef22f536f0f",
+        "sig_id": "2ce5f53aba8e13aa2b328ab6b667aae49debdbe6b0cf43cafd81f37ef22f536f0f",
+        "proof_id": "e555ef2a6cc35cb60c9a6b10",
+        "human_url": "dns://andrewgarner.co.uk",
+        "service_url": "http://andrewgarner.co.uk",
+        "presentation_group": "andrewgarner.co.uk",
         "presentation_tag": "dns"
       }
     ]
@@ -323,9 +329,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5228418bda1012af4531bfb284078892054118f7c2e7cc85223b945c70944ede0f",
-      "seqno": 20,
-      "payload_hash": "b452f8bd294e2a1470231a63d68f2526dbaf597ffb564dc8fa5304f573fba4be"
+      "sig_id": "2ce5f53aba8e13aa2b328ab6b667aae49debdbe6b0cf43cafd81f37ef22f536f0f",
+      "seqno": 23,
+      "payload_hash": "5986bd30a37bdbaea8b46b2970da0a246354e9486905375af85b2b5ce1bc9547"
     }
   },
   "devices": {
@@ -364,6 +370,25 @@
           "kid": "01214bf147165a5af7749972362fdd71ac5cecc34edfc9c4c90bf584334f6b31a6380a",
           "key_role": 2,
           "sig_id": "52ef42235e551843490409090df05783006ec6e467ca1c01fb756be85c40d6f80f"
+        }
+      ]
+    },
+    "c194c14dc1e7575cf3a3927e8d644d18": {
+      "type": "desktop",
+      "ctime": 1461927173,
+      "mtime": 1461927173,
+      "name": "SureFire's iMac",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204a4eb372865088880730313795308e8bf98ad59a14d04ef16672c68df571c23e0a",
+          "key_role": 1,
+          "sig_id": "7a59536b5904f8e3182abd916d45ddd1a3f535b5d757265911295eaa9d03865a0f"
+        },
+        {
+          "kid": "01219a56f29c7c22c7999cda12c2795db7a3a9ad1e29bf734f10fa968ff50adf02050a",
+          "key_role": 2,
+          "sig_id": "b836618e54737f9526246cd99cf0a1046ef127f9c40cb6c02030c7ff9e52ba880f"
         }
       ]
     }
