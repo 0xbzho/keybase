@@ -4,16 +4,16 @@
     "username": "lem",
     "ctime": 1443215101,
     "mtime": 1443215101,
-    "id_version": 10,
+    "id_version": 19,
     "track_version": 1,
-    "last_id_change": 1443276793,
+    "last_id_change": 1462304011,
     "username_cased": "lem"
   },
   "profile": {
-    "mtime": 1443215420,
+    "mtime": 1462292721,
     "full_name": "Lee Emmert",
     "location": "Bethesda MD",
-    "bio": "I am the co-founder and CEO of CampusBolt"
+    "bio": "I am the co-founder and CEO of Evaluāt"
   },
   "public_keys": {
     "primary": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "lee_emmert",
+          "state": 1,
+          "proof_url": "https://twitter.com/lee_emmert/status/727540094706540545",
+          "sig_id": "d87ab1a80bcd8d1c79440de06f1923cc82042d813dbdb36a716c1088dd3ff2430f",
+          "proof_id": "19a391c325833b6afc0e1110",
+          "human_url": "https://twitter.com/lee_emmert/status/727540094706540545",
+          "service_url": "https://twitter.com/lee_emmert",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -65,10 +79,52 @@
           "service_url": "https://github.com/lemworld",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "lee_emmert",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4ho9hm/my_keybase_proof_redditlee_emmert_keybaselem/",
+          "sig_id": "1ab24f3918f8868f6514096b54003589200af2223403bba3cccdd87ae4ce631b0f",
+          "proof_id": "8972fd440fa36bb5c278a010",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4ho9hm/my_keybase_proof_redditlee_emmert_keybaselem/",
+          "service_url": "https://reddit.com/user/lee_emmert",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "leeemmert.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/lem/sigchain#29869a24ed4ed94eb400dfd558b8e94a865f9ad87902a30b675177000b9332110f",
+          "sig_id": "29869a24ed4ed94eb400dfd558b8e94a865f9ad87902a30b675177000b9332110f",
+          "proof_id": "7354a6cc03e5c5bf3ad7d510",
+          "human_url": "dns://leeemmert.com",
+          "service_url": "http://leeemmert.com",
+          "presentation_group": "leeemmert.com",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "lee_emmert",
+          "state": 1,
+          "proof_url": "https://twitter.com/lee_emmert/status/727540094706540545",
+          "sig_id": "d87ab1a80bcd8d1c79440de06f1923cc82042d813dbdb36a716c1088dd3ff2430f",
+          "proof_id": "19a391c325833b6afc0e1110",
+          "human_url": "https://twitter.com/lee_emmert/status/727540094706540545",
+          "service_url": "https://twitter.com/lee_emmert",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -82,9 +138,49 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "lee_emmert",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4ho9hm/my_keybase_proof_redditlee_emmert_keybaselem/",
+          "sig_id": "1ab24f3918f8868f6514096b54003589200af2223403bba3cccdd87ae4ce631b0f",
+          "proof_id": "8972fd440fa36bb5c278a010",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4ho9hm/my_keybase_proof_redditlee_emmert_keybaselem/",
+          "service_url": "https://reddit.com/user/lee_emmert",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "leeemmert.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "leeemmert.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/lem/sigchain#29869a24ed4ed94eb400dfd558b8e94a865f9ad87902a30b675177000b9332110f",
+          "sig_id": "29869a24ed4ed94eb400dfd558b8e94a865f9ad87902a30b675177000b9332110f",
+          "proof_id": "7354a6cc03e5c5bf3ad7d510",
+          "human_url": "dns://leeemmert.com",
+          "service_url": "http://leeemmert.com",
+          "presentation_group": "leeemmert.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "lee_emmert",
+        "state": 1,
+        "proof_url": "https://twitter.com/lee_emmert/status/727540094706540545",
+        "sig_id": "d87ab1a80bcd8d1c79440de06f1923cc82042d813dbdb36a716c1088dd3ff2430f",
+        "proof_id": "19a391c325833b6afc0e1110",
+        "human_url": "https://twitter.com/lee_emmert/status/727540094706540545",
+        "service_url": "https://twitter.com/lee_emmert",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "lemworld",
@@ -96,23 +192,47 @@
         "service_url": "https://github.com/lemworld",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "reddit",
+        "nametag": "lee_emmert",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4ho9hm/my_keybase_proof_redditlee_emmert_keybaselem/",
+        "sig_id": "1ab24f3918f8868f6514096b54003589200af2223403bba3cccdd87ae4ce631b0f",
+        "proof_id": "8972fd440fa36bb5c278a010",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4ho9hm/my_keybase_proof_redditlee_emmert_keybaselem/",
+        "service_url": "https://reddit.com/user/lee_emmert",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "leeemmert.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/lem/sigchain#29869a24ed4ed94eb400dfd558b8e94a865f9ad87902a30b675177000b9332110f",
+        "sig_id": "29869a24ed4ed94eb400dfd558b8e94a865f9ad87902a30b675177000b9332110f",
+        "proof_id": "7354a6cc03e5c5bf3ad7d510",
+        "human_url": "dns://leeemmert.com",
+        "service_url": "http://leeemmert.com",
+        "presentation_group": "leeemmert.com",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/43e41173e39b8673fbeca7237f741205_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/0b948fef5386afe4c4d128fcb22d0605_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "1c650981972cee9505626127014544df2c7c43f775a700e08444468731fed1370f",
-      "seqno": 4,
-      "payload_hash": "1e33c39c8743545b1166b5e84a37f15c28713e392f0923b17fe43eabdc4b0b6b"
+      "sig_id": "29869a24ed4ed94eb400dfd558b8e94a865f9ad87902a30b675177000b9332110f",
+      "seqno": 7,
+      "payload_hash": "2d4b9c30ddffb3fe7b9d415df0d0bcd3e06aa8bf4ebe6e017599786ad38bae62"
     }
   },
   "devices": {}
