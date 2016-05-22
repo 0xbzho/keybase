@@ -4,9 +4,9 @@
     "username": "mz",
     "ctime": 1397254929,
     "mtime": 1397254929,
-    "id_version": 127,
+    "id_version": 128,
     "track_version": 13,
-    "last_id_change": 1458072286,
+    "last_id_change": 1461542409,
     "username_cased": "mz"
   },
   "profile": {
@@ -46,12 +46,10 @@
       "012188c9be46201c8936d1ca456231e9262952f8c7a97a3f771c1b6ac0851f9d157d0a"
     ],
     "subkeys": [
-      "012190446e5c289c18ee81364e626581ff63c22a928797b1989effaedb0be86974430a",
       "012188c9be46201c8936d1ca456231e9262952f8c7a97a3f771c1b6ac0851f9d157d0a"
     ],
     "sibkeys": [
       "0101ff70ba57d3c6d38d83053d451f424e8a40c26e9b6929d7631a2e24f01d7b4e3a0a",
-      "01202afe6c5d172c3a5512e7def7630cdf75804562fbcfd55b506dc17a23161085910a",
       "0120e9973caacdb260ff7d5c37fb8cf688824ebd91cda52006d3e3878a5e1db76d510a"
     ],
     "families": {
@@ -78,20 +76,6 @@
   },
   "proofs_summary": {
     "by_proof_type": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "markuszoppelt",
-          "state": 1,
-          "proof_url": "https://twitter.com/markuszoppelt/status/454761176032112640",
-          "sig_id": "6a09a5f54f1d58fbc7396743c5a814359413df53a4ef995fbe91ece7db0da1c40f",
-          "proof_id": "04e1e77ac4e38d2b3961fb10",
-          "human_url": "https://twitter.com/markuszoppelt/status/454761176032112640",
-          "service_url": "https://twitter.com/markuszoppelt",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -136,20 +120,6 @@
       ]
     },
     "by_presentation_group": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "markuszoppelt",
-          "state": 1,
-          "proof_url": "https://twitter.com/markuszoppelt/status/454761176032112640",
-          "sig_id": "6a09a5f54f1d58fbc7396743c5a814359413df53a4ef995fbe91ece7db0da1c40f",
-          "proof_id": "04e1e77ac4e38d2b3961fb10",
-          "human_url": "https://twitter.com/markuszoppelt/status/454761176032112640",
-          "service_url": "https://twitter.com/markuszoppelt",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -192,18 +162,6 @@
       ]
     },
     "all": [
-      {
-        "proof_type": "twitter",
-        "nametag": "markuszoppelt",
-        "state": 1,
-        "proof_url": "https://twitter.com/markuszoppelt/status/454761176032112640",
-        "sig_id": "6a09a5f54f1d58fbc7396743c5a814359413df53a4ef995fbe91ece7db0da1c40f",
-        "proof_id": "04e1e77ac4e38d2b3961fb10",
-        "human_url": "https://twitter.com/markuszoppelt/status/454761176032112640",
-        "service_url": "https://twitter.com/markuszoppelt",
-        "presentation_group": "twitter",
-        "presentation_tag": "tweet"
-      },
       {
         "proof_type": "github",
         "nametag": "markuszoppelt",
@@ -253,31 +211,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7cb6ca9d92eba17b2c7eca09f3282a059ad4be31359d5579b1e43ff3e08441c50f",
-      "seqno": 42,
-      "payload_hash": "f3cf8b06ed01611cb113d75c4779c1936e25569f6c5acc87b8c1752bbc14a116"
+      "sig_id": "c8c789324646930cd4ac0fbaef23960c675fc563c50f95c7d9005ede9ac27b2a0f",
+      "seqno": 44,
+      "payload_hash": "60f8c87bfda739d75a8d19ad0c5a35b045fa1723ecaa40a74e8ac6ade9498bf4"
     }
   },
   "devices": {
-    "309629b72c4887e853b9e535fc680f18": {
-      "type": "backup",
-      "ctime": 1449319669,
-      "mtime": 1449319669,
-      "name": "punch away",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01202afe6c5d172c3a5512e7def7630cdf75804562fbcfd55b506dc17a23161085910a",
-          "key_role": 1,
-          "sig_id": "91ea5bd697f89c849d43c3197652bde5586cb43127f8c33dde0ef83030d99c4b0f"
-        },
-        {
-          "kid": "012190446e5c289c18ee81364e626581ff63c22a928797b1989effaedb0be86974430a",
-          "key_role": 2,
-          "sig_id": "378ed9329ecf3c6bea22a11ec3a845c43a08f2fd4c2e5a45ae9335644ee201a50f"
-        }
-      ]
-    },
     "6758cf6c0caf11969be181dc56580618": {
       "type": "desktop",
       "ctime": 1457128613,
