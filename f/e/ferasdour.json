@@ -4,9 +4,9 @@
     "username": "ferasdour",
     "ctime": 1446496612,
     "mtime": 1446496612,
-    "id_version": 3,
-    "track_version": 1,
-    "last_id_change": 1446498350,
+    "id_version": 11,
+    "track_version": 9,
+    "last_id_change": 1463014254,
     "username_cased": "ferasdour"
   },
   "public_keys": {
@@ -50,16 +50,66 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/beautifulcat289",
+          "state": 1,
+          "proof_url": "https://coinbase.com/beautifulcat289/public-key",
+          "sig_id": "740f0da9a60f47242cfa28cf0bc43cac1255ecd77b94322bedbd22abefab0f610f",
+          "proof_id": "487cb86c5d71f972cbb76f10",
+          "human_url": "https://coinbase.com/beautifulcat289/public-key",
+          "service_url": "https://coinbase.com/beautifulcat289",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/beautifulcat289",
+          "state": 1,
+          "proof_url": "https://coinbase.com/beautifulcat289/public-key",
+          "sig_id": "740f0da9a60f47242cfa28cf0bc43cac1255ecd77b94322bedbd22abefab0f610f",
+          "proof_id": "487cb86c5d71f972cbb76f10",
+          "human_url": "https://coinbase.com/beautifulcat289/public-key",
+          "service_url": "https://coinbase.com/beautifulcat289",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/beautifulcat289",
+        "state": 1,
+        "proof_url": "https://coinbase.com/beautifulcat289/public-key",
+        "sig_id": "740f0da9a60f47242cfa28cf0bc43cac1255ecd77b94322bedbd22abefab0f610f",
+        "proof_id": "487cb86c5d71f972cbb76f10",
+        "human_url": "https://coinbase.com/beautifulcat289/public-key",
+        "service_url": "https://coinbase.com/beautifulcat289",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      }
+    ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1Jfq1ksPSHNoSA5jJRJLLhosY2QV6FtHsJ",
+        "sig_id": "c6e7c606fb452c23a764b7202e7de20da1fb6cce0802f4f5a386280a74eaba290f"
+      }
+    ]
+  },
   "sigs": {
     "last": {
-      "sig_id": "f3cab06cb70471f8cd5ab7ccec50b07dd9fc5165419f724acaab7c5f954d97ba0f",
-      "seqno": 3,
-      "payload_hash": "e2f6eb20e9d51ef2a1198973d973435d2453a407e78202650ab9039057ec7914"
+      "sig_id": "c44a46a84ec92bab9e170d13f581973d4f03d2b3155fd2be7eb331e55774c4df0f",
+      "seqno": 14,
+      "payload_hash": "53d271f43c751a1f7ad89e6cf8a57f6466829aca2d8346593ac880bd570f9639"
     }
   },
   "devices": {}
