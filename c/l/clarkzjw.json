@@ -4,9 +4,9 @@
     "username": "clarkzjw",
     "ctime": 1452421419,
     "mtime": 1452421419,
-    "id_version": 88,
+    "id_version": 115,
     "track_version": 4,
-    "last_id_change": 1460518972,
+    "last_id_change": 1462944529,
     "username_cased": "clarkzjw"
   },
   "profile": {
@@ -103,17 +103,43 @@
           "presentation_tag": "gist"
         }
       ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "jinwei.me",
+          "state": 1,
+          "proof_url": "https://jinwei.me/keybase.txt",
+          "sig_id": "d483da20d5eac4f93b9f85202f51bc34efd3d2b704e4c449cfbca263b9ee62440f",
+          "proof_id": "a19da0fa44ae4eedc5ff9a10",
+          "human_url": "https://jinwei.me/keybase.txt",
+          "service_url": "https://jinwei.me",
+          "presentation_group": "jinwei.me",
+          "presentation_tag": "https"
+        }
+      ],
       "dns": [
         {
           "proof_type": "dns",
-          "nametag": "jinwei.me",
+          "nametag": "blog.jinwei.me",
           "state": 1,
-          "proof_url": "https://keybase.io/clarkzjw/sigchain#e96a31a6e7ecf775154d2b071823368b5c7b5cc1571348a53da05ed1cb4c70650f",
-          "sig_id": "e96a31a6e7ecf775154d2b071823368b5c7b5cc1571348a53da05ed1cb4c70650f",
-          "proof_id": "8ec6b25e8b1a1fc38c463e10",
-          "human_url": "dns://jinwei.me",
-          "service_url": "http://jinwei.me",
-          "presentation_group": "jinwei.me",
+          "proof_url": "https://keybase.io/clarkzjw/sigchain#e68727dd63958f5ea535b0c222c200e9d3def972854a07378d069ad928bb2e590f",
+          "sig_id": "e68727dd63958f5ea535b0c222c200e9d3def972854a07378d069ad928bb2e590f",
+          "proof_id": "36c3fcd4d8b816434eb8b610",
+          "human_url": "dns://blog.jinwei.me",
+          "service_url": "http://blog.jinwei.me",
+          "presentation_group": "blog.jinwei.me",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "ring0.xyz",
+          "state": 1,
+          "proof_url": "https://keybase.io/clarkzjw/sigchain#adbd18355de310da8b41d7e4a17d39a56f99ad306021b4f3cbe5117c6f74619d0f",
+          "sig_id": "adbd18355de310da8b41d7e4a17d39a56f99ad306021b4f3cbe5117c6f74619d0f",
+          "proof_id": "acde62bb082d3a6e73a2ad10",
+          "human_url": "dns://ring0.xyz",
+          "service_url": "http://ring0.xyz",
+          "presentation_group": "ring0.xyz",
           "presentation_tag": "dns"
         }
       ]
@@ -149,15 +175,43 @@
       ],
       "jinwei.me": [
         {
-          "proof_type": "dns",
+          "proof_type": "generic_web_site",
           "nametag": "jinwei.me",
           "state": 1,
-          "proof_url": "https://keybase.io/clarkzjw/sigchain#e96a31a6e7ecf775154d2b071823368b5c7b5cc1571348a53da05ed1cb4c70650f",
-          "sig_id": "e96a31a6e7ecf775154d2b071823368b5c7b5cc1571348a53da05ed1cb4c70650f",
-          "proof_id": "8ec6b25e8b1a1fc38c463e10",
-          "human_url": "dns://jinwei.me",
-          "service_url": "http://jinwei.me",
+          "proof_url": "https://jinwei.me/keybase.txt",
+          "sig_id": "d483da20d5eac4f93b9f85202f51bc34efd3d2b704e4c449cfbca263b9ee62440f",
+          "proof_id": "a19da0fa44ae4eedc5ff9a10",
+          "human_url": "https://jinwei.me/keybase.txt",
+          "service_url": "https://jinwei.me",
           "presentation_group": "jinwei.me",
+          "presentation_tag": "https"
+        }
+      ],
+      "blog.jinwei.me": [
+        {
+          "proof_type": "dns",
+          "nametag": "blog.jinwei.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/clarkzjw/sigchain#e68727dd63958f5ea535b0c222c200e9d3def972854a07378d069ad928bb2e590f",
+          "sig_id": "e68727dd63958f5ea535b0c222c200e9d3def972854a07378d069ad928bb2e590f",
+          "proof_id": "36c3fcd4d8b816434eb8b610",
+          "human_url": "dns://blog.jinwei.me",
+          "service_url": "http://blog.jinwei.me",
+          "presentation_group": "blog.jinwei.me",
+          "presentation_tag": "dns"
+        }
+      ],
+      "ring0.xyz": [
+        {
+          "proof_type": "dns",
+          "nametag": "ring0.xyz",
+          "state": 1,
+          "proof_url": "https://keybase.io/clarkzjw/sigchain#adbd18355de310da8b41d7e4a17d39a56f99ad306021b4f3cbe5117c6f74619d0f",
+          "sig_id": "adbd18355de310da8b41d7e4a17d39a56f99ad306021b4f3cbe5117c6f74619d0f",
+          "proof_id": "acde62bb082d3a6e73a2ad10",
+          "human_url": "dns://ring0.xyz",
+          "service_url": "http://ring0.xyz",
+          "presentation_group": "ring0.xyz",
           "presentation_tag": "dns"
         }
       ]
@@ -189,19 +243,50 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "blog.jinwei.me",
+        "state": 1,
+        "proof_url": "https://keybase.io/clarkzjw/sigchain#e68727dd63958f5ea535b0c222c200e9d3def972854a07378d069ad928bb2e590f",
+        "sig_id": "e68727dd63958f5ea535b0c222c200e9d3def972854a07378d069ad928bb2e590f",
+        "proof_id": "36c3fcd4d8b816434eb8b610",
+        "human_url": "dns://blog.jinwei.me",
+        "service_url": "http://blog.jinwei.me",
+        "presentation_group": "blog.jinwei.me",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "ring0.xyz",
+        "state": 1,
+        "proof_url": "https://keybase.io/clarkzjw/sigchain#adbd18355de310da8b41d7e4a17d39a56f99ad306021b4f3cbe5117c6f74619d0f",
+        "sig_id": "adbd18355de310da8b41d7e4a17d39a56f99ad306021b4f3cbe5117c6f74619d0f",
+        "proof_id": "acde62bb082d3a6e73a2ad10",
+        "human_url": "dns://ring0.xyz",
+        "service_url": "http://ring0.xyz",
+        "presentation_group": "ring0.xyz",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
         "nametag": "jinwei.me",
         "state": 1,
-        "proof_url": "https://keybase.io/clarkzjw/sigchain#e96a31a6e7ecf775154d2b071823368b5c7b5cc1571348a53da05ed1cb4c70650f",
-        "sig_id": "e96a31a6e7ecf775154d2b071823368b5c7b5cc1571348a53da05ed1cb4c70650f",
-        "proof_id": "8ec6b25e8b1a1fc38c463e10",
-        "human_url": "dns://jinwei.me",
-        "service_url": "http://jinwei.me",
+        "proof_url": "https://jinwei.me/keybase.txt",
+        "sig_id": "d483da20d5eac4f93b9f85202f51bc34efd3d2b704e4c449cfbca263b9ee62440f",
+        "proof_id": "a19da0fa44ae4eedc5ff9a10",
+        "human_url": "https://jinwei.me/keybase.txt",
+        "service_url": "https://jinwei.me",
         "presentation_group": "jinwei.me",
-        "presentation_tag": "dns"
+        "presentation_tag": "https"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1AXLskKVg6LN1YvXFBwz62hcf2hQzFaPRk",
+        "sig_id": "905a1bc54bc97338384c0bd40ad1faa73eb9e796940d1441d49e33527b4bb42f0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/9fced24098aeba6fa97f0b5866d47605_360_360_square_360.jpeg",
@@ -212,9 +297,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "bffdfdc85a3c741b9875e54dd54a1a0077c47e22c2ed8f6db1b0b8b30864525d0f",
-      "seqno": 43,
-      "payload_hash": "f6bb71cc5ebbd502377ad71ef8341d67a1a39d6e95a71e09c76d7797b34a093c"
+      "sig_id": "905a1bc54bc97338384c0bd40ad1faa73eb9e796940d1441d49e33527b4bb42f0f",
+      "seqno": 59,
+      "payload_hash": "ecc100cda7e64e435564bdb57eda0071789dd94e7e9da31c7d39f939bbb9d83b"
     }
   },
   "devices": {}
