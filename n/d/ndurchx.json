@@ -4,9 +4,9 @@
     "username": "ndurchx",
     "ctime": 1453489911,
     "mtime": 1453489911,
-    "id_version": 20,
+    "id_version": 25,
     "track_version": 3,
-    "last_id_change": 1458572505,
+    "last_id_change": 1462972264,
     "username_cased": "ndurchx"
   },
   "profile": {
@@ -38,16 +38,18 @@
       "01206c5dff87054d80d812c2cf959238ef3c189c50d7c1f2fc3e13b9a07f237438e20a",
       "01212c1b34e384a50b35b6faae506bf4a8056362d85cf7b04b7ba057ea499e3ff20b0a",
       "0121b3e8174c0432c62b86222cc773d1a1a6906fde220656f0e2f5b4824745788a330a",
-      "0120d01ca3edf0efc403be86788ae6773abc8d75c902e9787c1d01f45fc1ac565e610a"
+      "0120d01ca3edf0efc403be86788ae6773abc8d75c902e9787c1d01f45fc1ac565e610a",
+      "0121d0844ddcc974c67d63f333f8e0d2ff5b641e2e79307dac3fef7fda81727aa1460a",
+      "0120a47a82310742a191b26d75ba08bff7ccc2360fd2cd2b14b4652b7eb36ded69d10a"
     ],
     "subkeys": [
-      "01212c1b34e384a50b35b6faae506bf4a8056362d85cf7b04b7ba057ea499e3ff20b0a",
-      "0121b3e8174c0432c62b86222cc773d1a1a6906fde220656f0e2f5b4824745788a330a"
+      "0121b3e8174c0432c62b86222cc773d1a1a6906fde220656f0e2f5b4824745788a330a",
+      "0121d0844ddcc974c67d63f333f8e0d2ff5b641e2e79307dac3fef7fda81727aa1460a"
     ],
     "sibkeys": [
       "0101b534ef162a10ec0bbfdb4c75a2d7e12e7b52cfc6382662d090fbcf1b0983ef8c0a",
-      "01206c5dff87054d80d812c2cf959238ef3c189c50d7c1f2fc3e13b9a07f237438e20a",
-      "0120d01ca3edf0efc403be86788ae6773abc8d75c902e9787c1d01f45fc1ac565e610a"
+      "0120d01ca3edf0efc403be86788ae6773abc8d75c902e9787c1d01f45fc1ac565e610a",
+      "0120a47a82310742a191b26d75ba08bff7ccc2360fd2cd2b14b4652b7eb36ded69d10a"
     ],
     "families": {
       "0101b534ef162a10ec0bbfdb4c75a2d7e12e7b52cfc6382662d090fbcf1b0983ef8c0a": [
@@ -55,7 +57,9 @@
         "01206c5dff87054d80d812c2cf959238ef3c189c50d7c1f2fc3e13b9a07f237438e20a",
         "01212c1b34e384a50b35b6faae506bf4a8056362d85cf7b04b7ba057ea499e3ff20b0a",
         "0121b3e8174c0432c62b86222cc773d1a1a6906fde220656f0e2f5b4824745788a330a",
-        "0120d01ca3edf0efc403be86788ae6773abc8d75c902e9787c1d01f45fc1ac565e610a"
+        "0120d01ca3edf0efc403be86788ae6773abc8d75c902e9787c1d01f45fc1ac565e610a",
+        "0121d0844ddcc974c67d63f333f8e0d2ff5b641e2e79307dac3fef7fda81727aa1460a",
+        "0120a47a82310742a191b26d75ba08bff7ccc2360fd2cd2b14b4652b7eb36ded69d10a"
       ]
     },
     "eldest_kid": "0101b534ef162a10ec0bbfdb4c75a2d7e12e7b52cfc6382662d090fbcf1b0983ef8c0a",
@@ -320,7 +324,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/bf1949230ed5dc886323446f9191e605_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/b06e514e1ab5e7bab2ae31caf1d9c205_360_360_square_360.png",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -328,12 +332,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2ea86acf55ebad2c198c896c3f6a1a4579474fdc6a05cb9bf1b98bc7fabf2ae90f",
-      "seqno": 16,
-      "payload_hash": "eb40eb6768fb9ae1ae3eac83d4d9fe7df241032379c50c72bba14f87bde3f48a"
+      "sig_id": "d9f2bfec2388d831b2b86b926960f3aa6a112e1d44f746693f58dd8ffd2f09260f",
+      "seqno": 19,
+      "payload_hash": "5c39229942ffa8fc1eba204b44af3b7e92d979a7cf21a830e9c9748e0a482ff6"
     }
   },
   "devices": {
+    "9d328187c99a74463dc25dfa236f0e18": {
+      "type": "desktop",
+      "ctime": 1461781677,
+      "mtime": 1461781677,
+      "name": "Home Laptop 1604",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a47a82310742a191b26d75ba08bff7ccc2360fd2cd2b14b4652b7eb36ded69d10a",
+          "key_role": 1,
+          "sig_id": "9cc95c4d13df64f8181ff2e385d846a3ab7980d896b3c34eba3696c02ca1b9360f"
+        },
+        {
+          "kid": "0121d0844ddcc974c67d63f333f8e0d2ff5b641e2e79307dac3fef7fda81727aa1460a",
+          "key_role": 2,
+          "sig_id": "8e9537f4128faa7fac77949c4f145b42ea8ff795d7e274803f7f9f8d8c36f1c60f"
+        }
+      ]
+    },
     "c864c6e4f762b96235c4d49d178ee718": {
       "type": "backup",
       "ctime": 1453490597,
@@ -350,25 +373,6 @@
           "kid": "0121b3e8174c0432c62b86222cc773d1a1a6906fde220656f0e2f5b4824745788a330a",
           "key_role": 2,
           "sig_id": "927b8b26309f2a991790ebbf829a4ff1e3f235e20e556513051fa806a815ca590f"
-        }
-      ]
-    },
-    "d66e789a79766aa32cfa26a0dc621a18": {
-      "type": "desktop",
-      "ctime": 1453490596,
-      "mtime": 1453490596,
-      "name": "Home Laptop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01206c5dff87054d80d812c2cf959238ef3c189c50d7c1f2fc3e13b9a07f237438e20a",
-          "key_role": 1,
-          "sig_id": "7e7cce4ea013bd0c54c5f552e03c07d39fe3821e73489dd355966440af62bc6b0f"
-        },
-        {
-          "kid": "01212c1b34e384a50b35b6faae506bf4a8056362d85cf7b04b7ba057ea499e3ff20b0a",
-          "key_role": 2,
-          "sig_id": "20f367af77e04cb92db351789e6e901566b9444348619e34bf07ce09651b13bd0f"
         }
       ]
     }
