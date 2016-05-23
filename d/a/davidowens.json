@@ -4,9 +4,9 @@
     "username": "davidowens",
     "ctime": 1459240291,
     "mtime": 1459240291,
-    "id_version": 22,
-    "track_version": 3,
-    "last_id_change": 1459251423,
+    "id_version": 26,
+    "track_version": 12,
+    "last_id_change": 1462893761,
     "username_cased": "davidowens"
   },
   "profile": {
@@ -125,6 +125,18 @@
       "dns": [
         {
           "proof_type": "dns",
+          "nametag": "fineartdavid.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/davidowens/sigchain#bdc02fc909cfdd1293b04c30043ad2eaf20b689555d0434f8e30232b20af20630f",
+          "sig_id": "bdc02fc909cfdd1293b04c30043ad2eaf20b689555d0434f8e30232b20af20630f",
+          "proof_id": "0d6fd7697677e14aa83b0f10",
+          "human_url": "dns://fineartdavid.com",
+          "service_url": "http://fineartdavid.com",
+          "presentation_group": "fineartdavid.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "davidowens.net",
           "state": 1,
           "proof_url": "https://keybase.io/davidowens/sigchain#b3832875bfa17ae995f84fa6db475f1d6777de72a7904bb6163c307f88f2b4970f",
@@ -194,6 +206,20 @@
           "presentation_tag": "post"
         }
       ],
+      "fineartdavid.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "fineartdavid.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/davidowens/sigchain#bdc02fc909cfdd1293b04c30043ad2eaf20b689555d0434f8e30232b20af20630f",
+          "sig_id": "bdc02fc909cfdd1293b04c30043ad2eaf20b689555d0434f8e30232b20af20630f",
+          "proof_id": "0d6fd7697677e14aa83b0f10",
+          "human_url": "dns://fineartdavid.com",
+          "service_url": "http://fineartdavid.com",
+          "presentation_group": "fineartdavid.com",
+          "presentation_tag": "dns"
+        }
+      ],
       "davidowens.net": [
         {
           "proof_type": "dns",
@@ -260,6 +286,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "fineartdavid.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/davidowens/sigchain#bdc02fc909cfdd1293b04c30043ad2eaf20b689555d0434f8e30232b20af20630f",
+        "sig_id": "bdc02fc909cfdd1293b04c30043ad2eaf20b689555d0434f8e30232b20af20630f",
+        "proof_id": "0d6fd7697677e14aa83b0f10",
+        "human_url": "dns://fineartdavid.com",
+        "service_url": "http://fineartdavid.com",
+        "presentation_group": "fineartdavid.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "davidowens.net",
         "state": 1,
         "proof_url": "https://keybase.io/davidowens/sigchain#b3832875bfa17ae995f84fa6db475f1d6777de72a7904bb6163c307f88f2b4970f",
@@ -272,7 +310,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1Dkc6oC7eiiLccYzgZ9Lu3kog7iqyZDSxo",
+        "sig_id": "4e2da0339aee991d5748fcabce56ec50152fe024ef7437b4bc4a24c0d1676f5a0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/99ab4fe8afaf18f38642c9f39e3faa05_360_360_square_360.jpeg",
@@ -283,9 +328,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "a60539badd58935c282fd34b014056eb548fbe4fe1d222a1a02947b136b894390f",
-      "seqno": 17,
-      "payload_hash": "b624418751138490aad736a45308fd50fde27d160bc62a4c7236be987a4634fc"
+      "sig_id": "e73698651a9815ad05a19003e237400cbfbd7d843b158244acbd7abaa32a2fd40f",
+      "seqno": 30,
+      "payload_hash": "dab49448f9c80dc01a235c1ddc46cf3008d561b3a5dd9d42fc4afa4312deabb7"
     }
   },
   "devices": {
