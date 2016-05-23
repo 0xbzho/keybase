@@ -4,16 +4,16 @@
     "username": "schindler",
     "ctime": 1432666051,
     "mtime": 1432666051,
-    "id_version": 66,
-    "track_version": 1,
-    "last_id_change": 1459484855,
+    "id_version": 79,
+    "track_version": 3,
+    "last_id_change": 1463707349,
     "username_cased": "schindler"
   },
   "profile": {
-    "mtime": 1442769682,
+    "mtime": 1462302042,
     "full_name": "Giuliano Schindler",
     "location": "Cologne",
-    "bio": "Ein 18 Jähriger Duude aus Köln. Systemadministrator und Geschäftsführer. "
+    "bio": "Ein 19 Jähriger Duude aus Köln. Systemadministrator und Geschäftsführer. "
   },
   "public_keys": {
     "primary": {
@@ -97,6 +97,58 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "netzfabrik.io",
+          "state": 1,
+          "proof_url": "https://netzfabrik.io/.well-known/keybase.txt",
+          "sig_id": "e768193fc2b3cf89186c79079a7c8a9dd38952a816603411d96722a0b31e844c0f",
+          "proof_id": "1e797847da8ba522a1f8e310",
+          "human_url": "https://netzfabrik.io/.well-known/keybase.txt",
+          "service_url": "https://netzfabrik.io",
+          "presentation_group": "netzfabrik.io",
+          "presentation_tag": "https"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "as203155.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/schindler/sigchain#359b5084ce7a341acf344b78e19d12acf29b58bdb24ad622658506b5a01d7c580f",
+          "sig_id": "359b5084ce7a341acf344b78e19d12acf29b58bdb24ad622658506b5a01d7c580f",
+          "proof_id": "131c03d9a5a8fbf774ff3710",
+          "human_url": "dns://as203155.net",
+          "service_url": "http://as203155.net",
+          "presentation_group": "as203155.net",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "netzfabrik.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/schindler/sigchain#4392017d944478c64a411a0c0bf4166345c9d1bda03515114f599220f0e040f60f",
+          "sig_id": "4392017d944478c64a411a0c0bf4166345c9d1bda03515114f599220f0e040f60f",
+          "proof_id": "de41d32c38f34cbf28a4a010",
+          "human_url": "dns://netzfabrik.io",
+          "service_url": "http://netzfabrik.io",
+          "presentation_group": "netzfabrik.io",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "netz.host",
+          "state": 1,
+          "proof_url": "https://keybase.io/schindler/sigchain#0cad991bb1f89b7356d98be7d416310d63f26e5db2eb67bfa7e06886dc164cb70f",
+          "sig_id": "0cad991bb1f89b7356d98be7d416310d63f26e5db2eb67bfa7e06886dc164cb70f",
+          "proof_id": "de9a91995d3c383dc03ef010",
+          "human_url": "dns://netz.host",
+          "service_url": "http://netz.host",
+          "presentation_group": "netz.host",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -127,6 +179,60 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "netzfabrik.io": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "netzfabrik.io",
+          "state": 1,
+          "proof_url": "https://netzfabrik.io/.well-known/keybase.txt",
+          "sig_id": "e768193fc2b3cf89186c79079a7c8a9dd38952a816603411d96722a0b31e844c0f",
+          "proof_id": "1e797847da8ba522a1f8e310",
+          "human_url": "https://netzfabrik.io/.well-known/keybase.txt",
+          "service_url": "https://netzfabrik.io",
+          "presentation_group": "netzfabrik.io",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "netzfabrik.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/schindler/sigchain#4392017d944478c64a411a0c0bf4166345c9d1bda03515114f599220f0e040f60f",
+          "sig_id": "4392017d944478c64a411a0c0bf4166345c9d1bda03515114f599220f0e040f60f",
+          "proof_id": "de41d32c38f34cbf28a4a010",
+          "human_url": "dns://netzfabrik.io",
+          "service_url": "http://netzfabrik.io",
+          "presentation_group": "netzfabrik.io",
+          "presentation_tag": "dns"
+        }
+      ],
+      "as203155.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "as203155.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/schindler/sigchain#359b5084ce7a341acf344b78e19d12acf29b58bdb24ad622658506b5a01d7c580f",
+          "sig_id": "359b5084ce7a341acf344b78e19d12acf29b58bdb24ad622658506b5a01d7c580f",
+          "proof_id": "131c03d9a5a8fbf774ff3710",
+          "human_url": "dns://as203155.net",
+          "service_url": "http://as203155.net",
+          "presentation_group": "as203155.net",
+          "presentation_tag": "dns"
+        }
+      ],
+      "netz.host": [
+        {
+          "proof_type": "dns",
+          "nametag": "netz.host",
+          "state": 1,
+          "proof_url": "https://keybase.io/schindler/sigchain#0cad991bb1f89b7356d98be7d416310d63f26e5db2eb67bfa7e06886dc164cb70f",
+          "sig_id": "0cad991bb1f89b7356d98be7d416310d63f26e5db2eb67bfa7e06886dc164cb70f",
+          "proof_id": "de9a91995d3c383dc03ef010",
+          "human_url": "dns://netz.host",
+          "service_url": "http://netz.host",
+          "presentation_group": "netz.host",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -153,6 +259,54 @@
         "service_url": "https://github.com/spcvlt",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "as203155.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/schindler/sigchain#359b5084ce7a341acf344b78e19d12acf29b58bdb24ad622658506b5a01d7c580f",
+        "sig_id": "359b5084ce7a341acf344b78e19d12acf29b58bdb24ad622658506b5a01d7c580f",
+        "proof_id": "131c03d9a5a8fbf774ff3710",
+        "human_url": "dns://as203155.net",
+        "service_url": "http://as203155.net",
+        "presentation_group": "as203155.net",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "netzfabrik.io",
+        "state": 1,
+        "proof_url": "https://keybase.io/schindler/sigchain#4392017d944478c64a411a0c0bf4166345c9d1bda03515114f599220f0e040f60f",
+        "sig_id": "4392017d944478c64a411a0c0bf4166345c9d1bda03515114f599220f0e040f60f",
+        "proof_id": "de41d32c38f34cbf28a4a010",
+        "human_url": "dns://netzfabrik.io",
+        "service_url": "http://netzfabrik.io",
+        "presentation_group": "netzfabrik.io",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "netz.host",
+        "state": 1,
+        "proof_url": "https://keybase.io/schindler/sigchain#0cad991bb1f89b7356d98be7d416310d63f26e5db2eb67bfa7e06886dc164cb70f",
+        "sig_id": "0cad991bb1f89b7356d98be7d416310d63f26e5db2eb67bfa7e06886dc164cb70f",
+        "proof_id": "de9a91995d3c383dc03ef010",
+        "human_url": "dns://netz.host",
+        "service_url": "http://netz.host",
+        "presentation_group": "netz.host",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "netzfabrik.io",
+        "state": 1,
+        "proof_url": "https://netzfabrik.io/.well-known/keybase.txt",
+        "sig_id": "e768193fc2b3cf89186c79079a7c8a9dd38952a816603411d96722a0b31e844c0f",
+        "proof_id": "1e797847da8ba522a1f8e310",
+        "human_url": "https://netzfabrik.io/.well-known/keybase.txt",
+        "service_url": "https://netzfabrik.io",
+        "presentation_group": "netzfabrik.io",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -167,9 +321,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5bab92a64f9a1951a92d96183ee230377bd843dca92f2969073bd85f8b14b5c70f",
-      "seqno": 18,
-      "payload_hash": "07a90dbce248bf83e0f478407180ad823f6b94359b546281ff6718d5033cacfa"
+      "sig_id": "fc0f4b687b1854b6463b1e9f60d34d8662092331c2ed71dda2eb6ee96c0379180f",
+      "seqno": 25,
+      "payload_hash": "82fb23eae4274f04c43ccf466adbc737dfdf3d758bf2a276f76881f7b9058a2e"
     }
   },
   "devices": {
