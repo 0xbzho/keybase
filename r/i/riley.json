@@ -4,9 +4,9 @@
     "username": "riley",
     "ctime": 1393626753,
     "mtime": 1393626753,
-    "id_version": 24,
+    "id_version": 25,
     "track_version": 14,
-    "last_id_change": 1460583035,
+    "last_id_change": 1462151359,
     "username_cased": "riley"
   },
   "profile": {
@@ -40,16 +40,20 @@
       "01207703cf6ad57ce11a6512e1e162ade19a6a01d72db8c175755fba17492a8b8e9b0a",
       "012004d09eff6c196668ea57c3b4b75f2dbf8d337b89726a42de30ddb848782673dd0a",
       "012060fd96119d0a79c4ca4a4596db47ac6e4e0a775f4b5fed0ec11de27962f2d7330a",
-      "012110de86a5c0630b709c29900101dd2eee88689f73a3bf619fd20f3d669c53e3490a"
+      "012110de86a5c0630b709c29900101dd2eee88689f73a3bf619fd20f3d669c53e3490a",
+      "01213d7a06c36ba092c73c2d079832eb9656a3723ff631198d0eb841d64e9bb49c620a",
+      "01203376389230fcb492a7b5f096b6a2b55db2f33f32734e2c534726130cbb3f77f10a"
     ],
     "subkeys": [
       "0121f26c38653a7a05900755bc08fdcc548f2704530a751b74ac64adea1756bf5a130a",
-      "012110de86a5c0630b709c29900101dd2eee88689f73a3bf619fd20f3d669c53e3490a"
+      "012110de86a5c0630b709c29900101dd2eee88689f73a3bf619fd20f3d669c53e3490a",
+      "01213d7a06c36ba092c73c2d079832eb9656a3723ff631198d0eb841d64e9bb49c620a"
     ],
     "sibkeys": [
       "01014d8597fb36f22196e48c92bd86251a03ecd776054b2ced8443495af43d6739820a",
       "01207703cf6ad57ce11a6512e1e162ade19a6a01d72db8c175755fba17492a8b8e9b0a",
-      "012060fd96119d0a79c4ca4a4596db47ac6e4e0a775f4b5fed0ec11de27962f2d7330a"
+      "012060fd96119d0a79c4ca4a4596db47ac6e4e0a775f4b5fed0ec11de27962f2d7330a",
+      "01203376389230fcb492a7b5f096b6a2b55db2f33f32734e2c534726130cbb3f77f10a"
     ],
     "families": {
       "01014d8597fb36f22196e48c92bd86251a03ecd776054b2ced8443495af43d6739820a": [
@@ -59,7 +63,9 @@
         "01207703cf6ad57ce11a6512e1e162ade19a6a01d72db8c175755fba17492a8b8e9b0a",
         "012004d09eff6c196668ea57c3b4b75f2dbf8d337b89726a42de30ddb848782673dd0a",
         "012060fd96119d0a79c4ca4a4596db47ac6e4e0a775f4b5fed0ec11de27962f2d7330a",
-        "012110de86a5c0630b709c29900101dd2eee88689f73a3bf619fd20f3d669c53e3490a"
+        "012110de86a5c0630b709c29900101dd2eee88689f73a3bf619fd20f3d669c53e3490a",
+        "01213d7a06c36ba092c73c2d079832eb9656a3723ff631198d0eb841d64e9bb49c620a",
+        "01203376389230fcb492a7b5f096b6a2b55db2f33f32734e2c534726130cbb3f77f10a"
       ]
     },
     "eldest_kid": "01014d8597fb36f22196e48c92bd86251a03ecd776054b2ced8443495af43d6739820a",
@@ -247,9 +253,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b0cc8ec09ca241ef868f6bf4a09fba94cd02b75916ef29ede4ec8a248407b2a60f",
-      "seqno": 32,
-      "payload_hash": "d15479125c91296995f361972e12706e978d8d3d4cb0a79e564aa9dcb23c3ea0"
+      "sig_id": "a3304dc1aa605b646a23618affc5d6141818d92970b91e5345f0d67d31c1733e0f",
+      "seqno": 34,
+      "payload_hash": "4e23445a7362cd4a4b0546b9afa20095d379b45cd0a73da8deb3a60148578f03"
     }
   },
   "devices": {
@@ -269,6 +275,25 @@
           "kid": "012110de86a5c0630b709c29900101dd2eee88689f73a3bf619fd20f3d669c53e3490a",
           "key_role": 2,
           "sig_id": "aafdb0bab73f8b47f615a6d006629329c7e920ad00f624ca09aad6e24800e2b50f"
+        }
+      ]
+    },
+    "dc74c7bcd88ed3a5c572585025207718": {
+      "type": "desktop",
+      "ctime": 1462151359,
+      "mtime": 1462151359,
+      "name": "circonus laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01203376389230fcb492a7b5f096b6a2b55db2f33f32734e2c534726130cbb3f77f10a",
+          "key_role": 1,
+          "sig_id": "bfb5be0503217c6c76067bd9272660da7c2d3c93fe3c6b142ef77013ced550020f"
+        },
+        {
+          "kid": "01213d7a06c36ba092c73c2d079832eb9656a3723ff631198d0eb841d64e9bb49c620a",
+          "key_role": 2,
+          "sig_id": "a3304dc1aa605b646a23618affc5d6141818d92970b91e5345f0d67d31c1733e0f"
         }
       ]
     },
