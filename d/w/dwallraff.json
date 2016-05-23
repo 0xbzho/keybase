@@ -4,9 +4,9 @@
     "username": "dwallraff",
     "ctime": 1411603562,
     "mtime": 1411603562,
-    "id_version": 20,
-    "track_version": 13,
-    "last_id_change": 1455939546,
+    "id_version": 45,
+    "track_version": 15,
+    "last_id_change": 1463500870,
     "username_cased": "dwallraff"
   },
   "profile": {
@@ -39,16 +39,24 @@
       "012131fd5f22193720bb7bef0726b78946ae38cd3ac1de1cb058777286688142a0220a",
       "0120bc31486a6f7ece213b03b798bba29f01b409b748873624b136874eb253a6d6f40a",
       "01200a59e7affb3c55cef318dc8670edf9383b91c842f15156c682f0661a0689c23c0a",
-      "01211a105d7533bd652bd25007d5f04bcb1bac642bcf1fc816ef6e613d44b1a4dd140a"
+      "01211a105d7533bd652bd25007d5f04bcb1bac642bcf1fc816ef6e613d44b1a4dd140a",
+      "012152c34b379848e2a6bb160c17845e5bfda8b7120b83e4264e63e82764f4f50d4f0a",
+      "01201787ae656eb18a327875312709f0aca2f822e5371a0b070c9d00340d602510900a",
+      "0121e76448cd9a5141ec3d9c109c91f06c80277a08ec5a6f53e5f9655456fe07d17b0a",
+      "0120880e2ea6a913c67a6bb6f3d851572d4ee8ba94b4408fc1b7a6de2a241e28a47a0a"
     ],
     "subkeys": [
       "012131fd5f22193720bb7bef0726b78946ae38cd3ac1de1cb058777286688142a0220a",
-      "01211a105d7533bd652bd25007d5f04bcb1bac642bcf1fc816ef6e613d44b1a4dd140a"
+      "01211a105d7533bd652bd25007d5f04bcb1bac642bcf1fc816ef6e613d44b1a4dd140a",
+      "012152c34b379848e2a6bb160c17845e5bfda8b7120b83e4264e63e82764f4f50d4f0a",
+      "0121e76448cd9a5141ec3d9c109c91f06c80277a08ec5a6f53e5f9655456fe07d17b0a"
     ],
     "sibkeys": [
       "0101eb5ea0c56e1e4dca9c05b9a8aff23d358b92cf9f79d91f2203fe26d4e760c2960a",
       "0120bc31486a6f7ece213b03b798bba29f01b409b748873624b136874eb253a6d6f40a",
-      "01200a59e7affb3c55cef318dc8670edf9383b91c842f15156c682f0661a0689c23c0a"
+      "01200a59e7affb3c55cef318dc8670edf9383b91c842f15156c682f0661a0689c23c0a",
+      "01201787ae656eb18a327875312709f0aca2f822e5371a0b070c9d00340d602510900a",
+      "0120880e2ea6a913c67a6bb6f3d851572d4ee8ba94b4408fc1b7a6de2a241e28a47a0a"
     ],
     "families": {
       "0101eb5ea0c56e1e4dca9c05b9a8aff23d358b92cf9f79d91f2203fe26d4e760c2960a": [
@@ -57,7 +65,11 @@
         "012131fd5f22193720bb7bef0726b78946ae38cd3ac1de1cb058777286688142a0220a",
         "0120bc31486a6f7ece213b03b798bba29f01b409b748873624b136874eb253a6d6f40a",
         "01200a59e7affb3c55cef318dc8670edf9383b91c842f15156c682f0661a0689c23c0a",
-        "01211a105d7533bd652bd25007d5f04bcb1bac642bcf1fc816ef6e613d44b1a4dd140a"
+        "01211a105d7533bd652bd25007d5f04bcb1bac642bcf1fc816ef6e613d44b1a4dd140a",
+        "012152c34b379848e2a6bb160c17845e5bfda8b7120b83e4264e63e82764f4f50d4f0a",
+        "01201787ae656eb18a327875312709f0aca2f822e5371a0b070c9d00340d602510900a",
+        "0121e76448cd9a5141ec3d9c109c91f06c80277a08ec5a6f53e5f9655456fe07d17b0a",
+        "0120880e2ea6a913c67a6bb6f3d851572d4ee8ba94b4408fc1b7a6de2a241e28a47a0a"
       ]
     },
     "eldest_kid": "0101eb5ea0c56e1e4dca9c05b9a8aff23d358b92cf9f79d91f2203fe26d4e760c2960a",
@@ -123,6 +135,44 @@
           "presentation_group": "www.davewallraff.com",
           "presentation_tag": "http"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "davidwallraff.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/dwallraff/sigchain#93bdf1dbc9f98da10a9a9d7d3597c0e204fc4f111dcc664e27127dc4834628e80f",
+          "sig_id": "93bdf1dbc9f98da10a9a9d7d3597c0e204fc4f111dcc664e27127dc4834628e80f",
+          "proof_id": "4f7a22cce40c71979f1fa910",
+          "human_url": "dns://davidwallraff.com",
+          "service_url": "http://davidwallraff.com",
+          "presentation_group": "davidwallraff.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "dwallraff.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/dwallraff/sigchain#6882a0f127275ec837f854dcbdcc9605ad54276dda9f53172fc19cb5c91e618c0f",
+          "sig_id": "6882a0f127275ec837f854dcbdcc9605ad54276dda9f53172fc19cb5c91e618c0f",
+          "proof_id": "89275cd3fabe675bc39b8710",
+          "human_url": "dns://dwallraff.com",
+          "service_url": "http://dwallraff.com",
+          "presentation_group": "dwallraff.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "davewallraff.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/dwallraff/sigchain#16143031a1959068813c4d9c82c25aef7bf42ef8d4a715cda2b367e6595ea92a0f",
+          "sig_id": "16143031a1959068813c4d9c82c25aef7bf42ef8d4a715cda2b367e6595ea92a0f",
+          "proof_id": "e2a5586dd0b49adcf7d98910",
+          "human_url": "dns://davewallraff.com",
+          "service_url": "http://davewallraff.com",
+          "presentation_group": "davewallraff.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -181,6 +231,48 @@
           "presentation_group": "www.davewallraff.com",
           "presentation_tag": "http"
         }
+      ],
+      "davidwallraff.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "davidwallraff.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/dwallraff/sigchain#93bdf1dbc9f98da10a9a9d7d3597c0e204fc4f111dcc664e27127dc4834628e80f",
+          "sig_id": "93bdf1dbc9f98da10a9a9d7d3597c0e204fc4f111dcc664e27127dc4834628e80f",
+          "proof_id": "4f7a22cce40c71979f1fa910",
+          "human_url": "dns://davidwallraff.com",
+          "service_url": "http://davidwallraff.com",
+          "presentation_group": "davidwallraff.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "dwallraff.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "dwallraff.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/dwallraff/sigchain#6882a0f127275ec837f854dcbdcc9605ad54276dda9f53172fc19cb5c91e618c0f",
+          "sig_id": "6882a0f127275ec837f854dcbdcc9605ad54276dda9f53172fc19cb5c91e618c0f",
+          "proof_id": "89275cd3fabe675bc39b8710",
+          "human_url": "dns://dwallraff.com",
+          "service_url": "http://dwallraff.com",
+          "presentation_group": "dwallraff.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "davewallraff.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "davewallraff.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/dwallraff/sigchain#16143031a1959068813c4d9c82c25aef7bf42ef8d4a715cda2b367e6595ea92a0f",
+          "sig_id": "16143031a1959068813c4d9c82c25aef7bf42ef8d4a715cda2b367e6595ea92a0f",
+          "proof_id": "e2a5586dd0b49adcf7d98910",
+          "human_url": "dns://davewallraff.com",
+          "service_url": "http://davewallraff.com",
+          "presentation_group": "davewallraff.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -221,6 +313,42 @@
         "presentation_tag": "post"
       },
       {
+        "proof_type": "dns",
+        "nametag": "davidwallraff.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/dwallraff/sigchain#93bdf1dbc9f98da10a9a9d7d3597c0e204fc4f111dcc664e27127dc4834628e80f",
+        "sig_id": "93bdf1dbc9f98da10a9a9d7d3597c0e204fc4f111dcc664e27127dc4834628e80f",
+        "proof_id": "4f7a22cce40c71979f1fa910",
+        "human_url": "dns://davidwallraff.com",
+        "service_url": "http://davidwallraff.com",
+        "presentation_group": "davidwallraff.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "dwallraff.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/dwallraff/sigchain#6882a0f127275ec837f854dcbdcc9605ad54276dda9f53172fc19cb5c91e618c0f",
+        "sig_id": "6882a0f127275ec837f854dcbdcc9605ad54276dda9f53172fc19cb5c91e618c0f",
+        "proof_id": "89275cd3fabe675bc39b8710",
+        "human_url": "dns://dwallraff.com",
+        "service_url": "http://dwallraff.com",
+        "presentation_group": "dwallraff.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "davewallraff.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/dwallraff/sigchain#16143031a1959068813c4d9c82c25aef7bf42ef8d4a715cda2b367e6595ea92a0f",
+        "sig_id": "16143031a1959068813c4d9c82c25aef7bf42ef8d4a715cda2b367e6595ea92a0f",
+        "proof_id": "e2a5586dd0b49adcf7d98910",
+        "human_url": "dns://davewallraff.com",
+        "service_url": "http://davewallraff.com",
+        "presentation_group": "davewallraff.com",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "www.davewallraff.com",
         "state": 1,
@@ -252,9 +380,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "455753295290d3b0f6164b6ff9be07d7b90138728a65f93ae9fe2433ad74c5530f",
-      "seqno": 24,
-      "payload_hash": "1142ae33aec5fa2b6992805bd297defce21b6cb5a35ef59886b6d3732cdf82cf"
+      "sig_id": "93bdf1dbc9f98da10a9a9d7d3597c0e204fc4f111dcc664e27127dc4834628e80f",
+      "seqno": 39,
+      "payload_hash": "c20508434c37433839362a21dc50a7a0c07d46570d9403d7c2ecfaaf1f7406a3"
     }
   },
   "devices": {
@@ -277,6 +405,25 @@
         }
       ]
     },
+    "42b908b87c787d6f7911c950cd3b1d18": {
+      "type": "desktop",
+      "ctime": 1462498176,
+      "mtime": 1462498176,
+      "name": "semblance",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201787ae656eb18a327875312709f0aca2f822e5371a0b070c9d00340d602510900a",
+          "key_role": 1,
+          "sig_id": "6bb3251e2c4828873e15946250de75c207e46d9446ec1fca5eea86bf3f0511720f"
+        },
+        {
+          "kid": "012152c34b379848e2a6bb160c17845e5bfda8b7120b83e4264e63e82764f4f50d4f0a",
+          "key_role": 2,
+          "sig_id": "f3d6ede06db60ce414f57883eff4f8f3b9a44948b4a47fc47223c0bf8d776ae00f"
+        }
+      ]
+    },
     "97cb9bf22700c54db22de32d22cb3a18": {
       "type": "desktop",
       "ctime": 1455048964,
@@ -293,6 +440,25 @@
           "kid": "01211a105d7533bd652bd25007d5f04bcb1bac642bcf1fc816ef6e613d44b1a4dd140a",
           "key_role": 2,
           "sig_id": "d9de39cc3e2343d6dff7589b3e10729603560bdeed42ee12f117311e7c4e27b20f"
+        }
+      ]
+    },
+    "b7149c068ff19c4f0ed50d50a2a0c618": {
+      "type": "backup",
+      "ctime": 1462657303,
+      "mtime": 1462657303,
+      "name": "reflect west",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120880e2ea6a913c67a6bb6f3d851572d4ee8ba94b4408fc1b7a6de2a241e28a47a0a",
+          "key_role": 1,
+          "sig_id": "09b728b8f962dddeede23063e7fd313c714d8fffa4d6520b18967cb47ca1d9080f"
+        },
+        {
+          "kid": "0121e76448cd9a5141ec3d9c109c91f06c80277a08ec5a6f53e5f9655456fe07d17b0a",
+          "key_role": 2,
+          "sig_id": "44be148ffee93ce58ecab74776fe7f0fdfcc676657e089e9b300472eff7e62120f"
         }
       ]
     }
