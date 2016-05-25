@@ -1,0 +1,92 @@
+{
+  "id": "665ddfc8f8320d28aaaa69f358ad6419",
+  "basics": {
+    "username": "pollux",
+    "ctime": 1463326065,
+    "mtime": 1463326065,
+    "id_version": 2,
+    "track_version": 1,
+    "last_id_change": 1463327003,
+    "username_cased": "pollux"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "012001e7faf2b1a980b154733a74a0b1d4479e213d522b62618fbc4376ed08399a2d0a",
+      "012161970f57afae04c79c11e0641f651abd6439970383e8c967ca49aa7f52828a590a",
+      "0121de6a07fc5d840f9104b9a7ff696e653f6161885e1167c2d745e0ebd908beee5c0a",
+      "01209dcb8a2bb257219118a2055269b6522003674533f647a01ae02a3b83a553ff570a"
+    ],
+    "subkeys": [
+      "012161970f57afae04c79c11e0641f651abd6439970383e8c967ca49aa7f52828a590a",
+      "0121de6a07fc5d840f9104b9a7ff696e653f6161885e1167c2d745e0ebd908beee5c0a"
+    ],
+    "sibkeys": [
+      "012001e7faf2b1a980b154733a74a0b1d4479e213d522b62618fbc4376ed08399a2d0a",
+      "01209dcb8a2bb257219118a2055269b6522003674533f647a01ae02a3b83a553ff570a"
+    ],
+    "families": {
+      "012001e7faf2b1a980b154733a74a0b1d4479e213d522b62618fbc4376ed08399a2d0a": [
+        "012001e7faf2b1a980b154733a74a0b1d4479e213d522b62618fbc4376ed08399a2d0a",
+        "012161970f57afae04c79c11e0641f651abd6439970383e8c967ca49aa7f52828a590a",
+        "0121de6a07fc5d840f9104b9a7ff696e653f6161885e1167c2d745e0ebd908beee5c0a",
+        "01209dcb8a2bb257219118a2055269b6522003674533f647a01ae02a3b83a553ff570a"
+      ]
+    },
+    "eldest_kid": "012001e7faf2b1a980b154733a74a0b1d4479e213d522b62618fbc4376ed08399a2d0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "995c604a0e70b330a6242fcf285c5deffeaeb551e944b18d7c39cd935638b5600f",
+      "seqno": 5,
+      "payload_hash": "d934f496431862548c3d1185b2acb97ba5e980c3301e5032e25016cb847795c6"
+    }
+  },
+  "devices": {
+    "9d242da464785e42768e774a30708118": {
+      "type": "backup",
+      "ctime": 1463327003,
+      "mtime": 1463327003,
+      "name": "retire layer",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209dcb8a2bb257219118a2055269b6522003674533f647a01ae02a3b83a553ff570a",
+          "key_role": 1,
+          "sig_id": "bc0c237ce8e41845fdcf6d476cd0af16b164bdc71febef8a3792c53bc2132cf30f"
+        },
+        {
+          "kid": "0121de6a07fc5d840f9104b9a7ff696e653f6161885e1167c2d745e0ebd908beee5c0a",
+          "key_role": 2,
+          "sig_id": "fbc158b81dc8d46b8bbf4a7f44633aaa7b021ba0f7d34fab46c81015836a59750f"
+        }
+      ]
+    },
+    "b6f9a19eb909bbb621a954fcfef43418": {
+      "type": "desktop",
+      "ctime": 1463327001,
+      "mtime": 1463327001,
+      "name": "Notebook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012001e7faf2b1a980b154733a74a0b1d4479e213d522b62618fbc4376ed08399a2d0a",
+          "key_role": 1,
+          "sig_id": "3fc1aa80d3c74cb1e919cd380b1175081c45f49dcb709862fe05ac5f583da00c0f"
+        },
+        {
+          "kid": "012161970f57afae04c79c11e0641f651abd6439970383e8c967ca49aa7f52828a590a",
+          "key_role": 2,
+          "sig_id": "ee880f56ce8d2abd505b1446352a089b930792e4f4acd95cfe9e1128ce363ba30f"
+        }
+      ]
+    }
+  }
+}
