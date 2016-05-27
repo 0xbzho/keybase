@@ -4,9 +4,9 @@
     "username": "cognitivereflex",
     "ctime": 1445027912,
     "mtime": 1445027912,
-    "id_version": 7,
+    "id_version": 8,
     "track_version": 11,
-    "last_id_change": 1452285180,
+    "last_id_change": 1464307059,
     "username_cased": "cognitivereflex"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "01201c1b6ac64e616d0ee02da07e897686432ae030224979410c2a3b2a71a9c2377d0a",
       "012171b7596b8e83f41644fb998b9f39eb2bdfc87591416816e972de36aebb38b35b0a",
       "0120c51665d13693bb349adfe2a06b5eecf9b8c276b0389e613be73494fc18db7ac60a",
-      "0121937a7bcafc54c8c09e5d08639c66a01737d839a6fcfa2ba2b2fede3541d3f24c0a"
+      "0121937a7bcafc54c8c09e5d08639c66a01737d839a6fcfa2ba2b2fede3541d3f24c0a",
+      "01218b783b989b504ddc94b3f5ad3952e3ccf83db7824c314ce6e0af0e8225aa27480a",
+      "0120afcd31db27d5f55dbf721c8790b5635a254105521fe0d14447c1ccca3eed568c0a"
     ],
     "subkeys": [
       "012171b7596b8e83f41644fb998b9f39eb2bdfc87591416816e972de36aebb38b35b0a",
-      "0121937a7bcafc54c8c09e5d08639c66a01737d839a6fcfa2ba2b2fede3541d3f24c0a"
+      "0121937a7bcafc54c8c09e5d08639c66a01737d839a6fcfa2ba2b2fede3541d3f24c0a",
+      "01218b783b989b504ddc94b3f5ad3952e3ccf83db7824c314ce6e0af0e8225aa27480a"
     ],
     "sibkeys": [
       "0101aae133283c4723f5cd9a84b08afbc606c1f55faad1eccfbfd17c0aa747eb7ec80a",
       "01201c1b6ac64e616d0ee02da07e897686432ae030224979410c2a3b2a71a9c2377d0a",
-      "0120c51665d13693bb349adfe2a06b5eecf9b8c276b0389e613be73494fc18db7ac60a"
+      "0120c51665d13693bb349adfe2a06b5eecf9b8c276b0389e613be73494fc18db7ac60a",
+      "0120afcd31db27d5f55dbf721c8790b5635a254105521fe0d14447c1ccca3eed568c0a"
     ],
     "families": {
       "0101aae133283c4723f5cd9a84b08afbc606c1f55faad1eccfbfd17c0aa747eb7ec80a": [
@@ -55,7 +59,9 @@
         "01201c1b6ac64e616d0ee02da07e897686432ae030224979410c2a3b2a71a9c2377d0a",
         "012171b7596b8e83f41644fb998b9f39eb2bdfc87591416816e972de36aebb38b35b0a",
         "0120c51665d13693bb349adfe2a06b5eecf9b8c276b0389e613be73494fc18db7ac60a",
-        "0121937a7bcafc54c8c09e5d08639c66a01737d839a6fcfa2ba2b2fede3541d3f24c0a"
+        "0121937a7bcafc54c8c09e5d08639c66a01737d839a6fcfa2ba2b2fede3541d3f24c0a",
+        "01218b783b989b504ddc94b3f5ad3952e3ccf83db7824c314ce6e0af0e8225aa27480a",
+        "0120afcd31db27d5f55dbf721c8790b5635a254105521fe0d14447c1ccca3eed568c0a"
       ]
     },
     "eldest_kid": "0101aae133283c4723f5cd9a84b08afbc606c1f55faad1eccfbfd17c0aa747eb7ec80a",
@@ -163,12 +169,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "1df387ff170ac9c6d1ef68196cfcc331145a27238d79b6d8a044c19172d45dfe0f",
-      "seqno": 18,
-      "payload_hash": "3899f471648cf7ff9a504ac6e04e49c68e0447cb75a8024805761b0f019dacaa"
+      "sig_id": "cb180318bea025bd5a5ae2d02adc6d837ce2f4147f6fb200c01f56982c45ae0e0f",
+      "seqno": 20,
+      "payload_hash": "78dd725079d5de5556c58335f17836ac49cce6b09510857ba2c72c93ca51bf2d"
     }
   },
   "devices": {
+    "84e29f6122f428e16b68888794828518": {
+      "type": "desktop",
+      "ctime": 1464307059,
+      "mtime": 1464307059,
+      "name": "cerebro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120afcd31db27d5f55dbf721c8790b5635a254105521fe0d14447c1ccca3eed568c0a",
+          "key_role": 1,
+          "sig_id": "86a85e2ef1910337adaae2695f41d3fb4587e950d7060f65ebe0594a2271c6830f"
+        },
+        {
+          "kid": "01218b783b989b504ddc94b3f5ad3952e3ccf83db7824c314ce6e0af0e8225aa27480a",
+          "key_role": 2,
+          "sig_id": "cb180318bea025bd5a5ae2d02adc6d837ce2f4147f6fb200c01f56982c45ae0e0f"
+        }
+      ]
+    },
     "dc18854abbfd5e108ed39ce216662c18": {
       "type": "desktop",
       "ctime": 1452285179,
