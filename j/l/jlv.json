@@ -4,9 +4,9 @@
     "username": "jlv",
     "ctime": 1395888814,
     "mtime": 1395888814,
-    "id_version": 53,
+    "id_version": 54,
     "track_version": 24,
-    "last_id_change": 1463360611,
+    "last_id_change": 1464659973,
     "username_cased": "jlv"
   },
   "profile": {
@@ -43,18 +43,20 @@
       "0121adc942806bf476afd4723a96dec7eed52a33e78561b4f38a8887f6d8f98fbb3c0a",
       "01204fa46a1cd087d21ab33275b5af06c3ff575ae5a5954659d0a4e74684db8b34170a",
       "01214b7cbfa1300644877c99a394490942fefd7713bfdfbe40c87fa3a76d5299916a0a",
-      "0120c0396d5bb42f65db01273b633d69f575d5499b31cf56f59a2465ab99bc2778de0a"
+      "0120c0396d5bb42f65db01273b633d69f575d5499b31cf56f59a2465ab99bc2778de0a",
+      "01215ac8c8d10a0bca0b416014c1caba83ec4c30966d96b15e4bf2e6bcc58f95e1270a",
+      "0120fbbc6f5a24dadb7a990929795ea5210b0718eeaa44573a9a96d0a05ab3c302040a"
     ],
     "subkeys": [
       "01211d15b977cee30c7b150d00ba6ca5efcf3933ed8617457d1e964f01ec3f2332120a",
       "0121adc942806bf476afd4723a96dec7eed52a33e78561b4f38a8887f6d8f98fbb3c0a",
-      "01214b7cbfa1300644877c99a394490942fefd7713bfdfbe40c87fa3a76d5299916a0a"
+      "01215ac8c8d10a0bca0b416014c1caba83ec4c30966d96b15e4bf2e6bcc58f95e1270a"
     ],
     "sibkeys": [
       "0101923206159c335bc079ccf2941de33831eef81a5faa9f03a5c93e5a4b2d4f27010a",
       "01206677e15c85a5f3f302a4a2b6010d6fd17094b2c01fff2945f9c89845a26947740a",
       "01204fa46a1cd087d21ab33275b5af06c3ff575ae5a5954659d0a4e74684db8b34170a",
-      "0120c0396d5bb42f65db01273b633d69f575d5499b31cf56f59a2465ab99bc2778de0a"
+      "0120fbbc6f5a24dadb7a990929795ea5210b0718eeaa44573a9a96d0a05ab3c302040a"
     ],
     "families": {
       "01018d9a2843b42dbca6f4a70b8301ec3ccffb4976fd09885f4d80dbedab21cb344b0a": [
@@ -69,7 +71,9 @@
         "0121adc942806bf476afd4723a96dec7eed52a33e78561b4f38a8887f6d8f98fbb3c0a",
         "01204fa46a1cd087d21ab33275b5af06c3ff575ae5a5954659d0a4e74684db8b34170a",
         "01214b7cbfa1300644877c99a394490942fefd7713bfdfbe40c87fa3a76d5299916a0a",
-        "0120c0396d5bb42f65db01273b633d69f575d5499b31cf56f59a2465ab99bc2778de0a"
+        "0120c0396d5bb42f65db01273b633d69f575d5499b31cf56f59a2465ab99bc2778de0a",
+        "01215ac8c8d10a0bca0b416014c1caba83ec4c30966d96b15e4bf2e6bcc58f95e1270a",
+        "0120fbbc6f5a24dadb7a990929795ea5210b0718eeaa44573a9a96d0a05ab3c302040a"
       ]
     },
     "eldest_kid": "0101923206159c335bc079ccf2941de33831eef81a5faa9f03a5c93e5a4b2d4f27010a",
@@ -255,31 +259,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7596f16b953b895bdfc871fcd62eb5a59d41806442df9c9cadac7161199454370f",
-      "seqno": 44,
-      "payload_hash": "878c21f8628e201c2fef824e96ffcb73e7eebafb59b9d6b76a0b64ccbe86ab0e"
+      "sig_id": "5ced6ba83e3a9db56340ee97cc3dac8b8bbd6dd8560deb0367ce41e46ac26fd10f",
+      "seqno": 47,
+      "payload_hash": "50d3c48f4d3f60453c7f287225c1e15930a8e1720b42aebf8d14b77d549c04d5"
     }
   },
   "devices": {
-    "23f5aabd2f3db66de21a26d801e5ba18": {
-      "type": "desktop",
-      "ctime": 1463360611,
-      "mtime": 1463360611,
-      "name": "riemann2",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120c0396d5bb42f65db01273b633d69f575d5499b31cf56f59a2465ab99bc2778de0a",
-          "key_role": 1,
-          "sig_id": "da93a6df1965cc3904a35b067afc49fae154e21026c46b21eff0cadb4dc890d30f"
-        },
-        {
-          "kid": "01214b7cbfa1300644877c99a394490942fefd7713bfdfbe40c87fa3a76d5299916a0a",
-          "key_role": 2,
-          "sig_id": "7596f16b953b895bdfc871fcd62eb5a59d41806442df9c9cadac7161199454370f"
-        }
-      ]
-    },
     "5ee9d46514b52e1219e1123ef7debb18": {
       "type": "backup",
       "ctime": 1458356405,
@@ -315,6 +300,25 @@
           "kid": "0121adc942806bf476afd4723a96dec7eed52a33e78561b4f38a8887f6d8f98fbb3c0a",
           "key_role": 2,
           "sig_id": "1d99bfbf284f1c6705d1f280ac7b878d9a00cd17baa9958a6d790059ac3fca4b0f"
+        }
+      ]
+    },
+    "e7f06a52c78f540805530ae55c4eed18": {
+      "type": "desktop",
+      "ctime": 1464659973,
+      "mtime": 1464659973,
+      "name": "riemann3",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120fbbc6f5a24dadb7a990929795ea5210b0718eeaa44573a9a96d0a05ab3c302040a",
+          "key_role": 1,
+          "sig_id": "40359a945c93d0449ae501167892a996ba516ddff311541060d926b53b1d73240f"
+        },
+        {
+          "kid": "01215ac8c8d10a0bca0b416014c1caba83ec4c30966d96b15e4bf2e6bcc58f95e1270a",
+          "key_role": 2,
+          "sig_id": "5e0e9c9f51ade5da606eec78f57be60bcb1b6f32bb51fc675666a1ef21a162f60f"
         }
       ]
     }
