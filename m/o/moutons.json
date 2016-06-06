@@ -4,16 +4,16 @@
     "username": "moutons",
     "ctime": 1429821542,
     "mtime": 1429821542,
-    "id_version": 38,
+    "id_version": 41,
     "track_version": 12,
-    "last_id_change": 1458842324,
+    "last_id_change": 1465000449,
     "username_cased": "moutons"
   },
   "profile": {
-    "mtime": 1429822857,
+    "mtime": 1465000111,
     "full_name": "Shaun Mouton",
     "location": "Austin, TX y'all.",
-    "bio": "I'm the guy who gave a talk about govops. I mostly do linuxy sysadminny things on the internet."
+    "bio": "Beard licensed friendgineer. Probably not a lizard person."
   },
   "public_keys": {
     "primary": {
@@ -45,18 +45,20 @@
       "01215b1875787be68a78a30f19327b97cbb4b636e3564818b98c22206e59827d47700a",
       "012069577531fb106b4fa23a7caf4494deb905e87def4b0ac6db714fa0b617a561690a",
       "01210eedca8930e25e9bc7386a2915ad73d86b109d2ebea0300a7fa20106ee44e2350a",
-      "0120ebed5f6ba31b8973578851c4c7b9a26ca73eaad91042902c567f0e64c2b0245f0a"
+      "0120ebed5f6ba31b8973578851c4c7b9a26ca73eaad91042902c567f0e64c2b0245f0a",
+      "0121084b5034cc7bc3203f4b2137bc270f0e749944c334dc1e3166905e56501baf130a",
+      "0120dcd711bf5f15e77911b0f9ee2cfe1a2a7dd431b147d856d422c7fc502724716b0a"
     ],
     "subkeys": [
       "01214ed248defc84daa986299b6556e64ab30c8ae6bf28b3150aeb4b2db3bbebf5220a",
       "0121d0cdfb6f15ada9eebc98f5715cca54d1ab27652807b310132728c02c1e68af4f0a",
-      "01210eedca8930e25e9bc7386a2915ad73d86b109d2ebea0300a7fa20106ee44e2350a"
+      "0121084b5034cc7bc3203f4b2137bc270f0e749944c334dc1e3166905e56501baf130a"
     ],
     "sibkeys": [
       "01203bf88f5c891868c3fedb5be14498bcac93a239574e81e775bea6166ee55f258b0a",
       "01208b161d7f8064dcbec86dd833892406e22d9552352948534b4cb381ab595816ba0a",
       "0101d3390a2fa9ce0faff800abaf8e2925154d7cbce6b3cefb1ff65f280156fdb2980a",
-      "0120ebed5f6ba31b8973578851c4c7b9a26ca73eaad91042902c567f0e64c2b0245f0a"
+      "0120dcd711bf5f15e77911b0f9ee2cfe1a2a7dd431b147d856d422c7fc502724716b0a"
     ],
     "families": {
       "0101d3390a2fa9ce0faff800abaf8e2925154d7cbce6b3cefb1ff65f280156fdb2980a": [
@@ -71,7 +73,9 @@
         "01215b1875787be68a78a30f19327b97cbb4b636e3564818b98c22206e59827d47700a",
         "012069577531fb106b4fa23a7caf4494deb905e87def4b0ac6db714fa0b617a561690a",
         "01210eedca8930e25e9bc7386a2915ad73d86b109d2ebea0300a7fa20106ee44e2350a",
-        "0120ebed5f6ba31b8973578851c4c7b9a26ca73eaad91042902c567f0e64c2b0245f0a"
+        "0120ebed5f6ba31b8973578851c4c7b9a26ca73eaad91042902c567f0e64c2b0245f0a",
+        "0121084b5034cc7bc3203f4b2137bc270f0e749944c334dc1e3166905e56501baf130a",
+        "0120dcd711bf5f15e77911b0f9ee2cfe1a2a7dd431b147d856d422c7fc502724716b0a"
       ]
     },
     "eldest_kid": "0101d3390a2fa9ce0faff800abaf8e2925154d7cbce6b3cefb1ff65f280156fdb2980a",
@@ -111,6 +115,18 @@
         }
       ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "tirefi.re",
+          "state": 1,
+          "proof_url": "https://keybase.io/moutons/sigchain#be2cac6729a2d93c3f1ea315574138719788481d64e72daf2f28c431e27820f40f",
+          "sig_id": "be2cac6729a2d93c3f1ea315574138719788481d64e72daf2f28c431e27820f40f",
+          "proof_id": "3963775ada2a9d5ee31e9310",
+          "human_url": "dns://tirefi.re",
+          "service_url": "http://tirefi.re",
+          "presentation_group": "tirefi.re",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "exit808.com",
@@ -164,6 +180,20 @@
           "service_url": "https://github.com/moutons",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "tirefi.re": [
+        {
+          "proof_type": "dns",
+          "nametag": "tirefi.re",
+          "state": 1,
+          "proof_url": "https://keybase.io/moutons/sigchain#be2cac6729a2d93c3f1ea315574138719788481d64e72daf2f28c431e27820f40f",
+          "sig_id": "be2cac6729a2d93c3f1ea315574138719788481d64e72daf2f28c431e27820f40f",
+          "proof_id": "3963775ada2a9d5ee31e9310",
+          "human_url": "dns://tirefi.re",
+          "service_url": "http://tirefi.re",
+          "presentation_group": "tirefi.re",
+          "presentation_tag": "dns"
         }
       ],
       "exit808.com": [
@@ -222,6 +252,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "tirefi.re",
+        "state": 1,
+        "proof_url": "https://keybase.io/moutons/sigchain#be2cac6729a2d93c3f1ea315574138719788481d64e72daf2f28c431e27820f40f",
+        "sig_id": "be2cac6729a2d93c3f1ea315574138719788481d64e72daf2f28c431e27820f40f",
+        "proof_id": "3963775ada2a9d5ee31e9310",
+        "human_url": "dns://tirefi.re",
+        "service_url": "http://tirefi.re",
+        "presentation_group": "tirefi.re",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "exit808.com",
         "state": 1,
         "proof_url": "https://keybase.io/moutons/sigchain#95fb0088c720b06d818578b0bdc65f4b643a08fa577cd4f99186f6e6f4e7e1ee0f",
@@ -257,9 +299,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "a8333f69467207207a4de799d9141b1a8324444275603d5ca7842b4684da6dfb0f",
-      "seqno": 34,
-      "payload_hash": "c3aa31a29f357b06bec3c133370abd1835b0a51ebd18af099676f92b3f658945"
+      "sig_id": "870d6d7b4bdc9827aa243d645b0814299a001d8a1403a4b03b22810226c374040f",
+      "seqno": 38,
+      "payload_hash": "6e3d158acd8b17a4825df350efd6495f8626669d7a4d5b8bef64d4e897db5bbe"
     }
   },
   "devices": {
@@ -301,22 +343,22 @@
         }
       ]
     },
-    "d193e4b0f7637ade3c2e756f41d44e18": {
+    "fa0ccd110f86340ecdbbbed421e6e818": {
       "type": "desktop",
-      "ctime": 1458235356,
-      "mtime": 1458235356,
-      "name": "kasasa-nemac",
+      "ctime": 1465000449,
+      "mtime": 1465000449,
+      "name": "kasasa-mbp",
       "status": 1,
       "keys": [
         {
-          "kid": "0120ebed5f6ba31b8973578851c4c7b9a26ca73eaad91042902c567f0e64c2b0245f0a",
+          "kid": "0120dcd711bf5f15e77911b0f9ee2cfe1a2a7dd431b147d856d422c7fc502724716b0a",
           "key_role": 1,
-          "sig_id": "458b9da51db4e2d977785272d3227dbde43da770b146e211dbbe6867f20248bd0f"
+          "sig_id": "6cfc5d27b785028d39d2dc6b14c849c8a4bfb8940c7ea5fd94c7a1855c05241a0f"
         },
         {
-          "kid": "01210eedca8930e25e9bc7386a2915ad73d86b109d2ebea0300a7fa20106ee44e2350a",
+          "kid": "0121084b5034cc7bc3203f4b2137bc270f0e749944c334dc1e3166905e56501baf130a",
           "key_role": 2,
-          "sig_id": "0f6538c3e231e79c90d0b38b8e5686645fc1ac4a5229e410b17ec7320d80bcea0f"
+          "sig_id": "f487787286aca75ae0fea4bf9d5fdd9adb8197e4540dd1dab80b535e2094cdeb0f"
         }
       ]
     }
