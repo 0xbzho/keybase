@@ -4,16 +4,16 @@
     "username": "decicus",
     "ctime": 1408008811,
     "mtime": 1408008811,
-    "id_version": 186,
+    "id_version": 197,
     "track_version": 15,
-    "last_id_change": 1463355752,
+    "last_id_change": 1464960246,
     "username_cased": "Decicus"
   },
   "profile": {
-    "mtime": 1463979360,
+    "mtime": 1464960517,
     "full_name": "Alex Thomassen",
-    "location": "Brumunddal, Norway",
-    "bio": null
+    "location": "Norway",
+    "bio": "19-year-old Norwegian dude."
   },
   "public_keys": {
     "primary": {
@@ -160,9 +160,33 @@
           "service_url": "https://decapi.me",
           "presentation_group": "decapi.me",
           "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "decicus.com",
+          "state": 1,
+          "proof_url": "http://decicus.com/.well-known/keybase.txt",
+          "sig_id": "32762cb2355234bf77f0570ebea5f1e7e004ed3fbdfa541e866e6b8ae1b43e470f",
+          "proof_id": "fe8d2fe58c7615cd7eabc710",
+          "human_url": "http://decicus.com/.well-known/keybase.txt",
+          "service_url": "http://decicus.com",
+          "presentation_group": "decicus.com",
+          "presentation_tag": "http"
         }
       ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "logs.decic.us",
+          "state": 1,
+          "proof_url": "https://keybase.io/decicus/sigchain#35db5f30d1f127d5adc554fca67d28c4216c9368c7960d4e1e3679d7af645bf00f",
+          "sig_id": "35db5f30d1f127d5adc554fca67d28c4216c9368c7960d4e1e3679d7af645bf00f",
+          "proof_id": "1522b9bc8512efbecc2cad10",
+          "human_url": "dns://logs.decic.us",
+          "service_url": "http://logs.decic.us",
+          "presentation_group": "logs.decic.us",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "www.iwinuloselol.com",
@@ -185,6 +209,18 @@
           "human_url": "dns://www.thomassen.xyz",
           "service_url": "http://www.thomassen.xyz",
           "presentation_group": "www.thomassen.xyz",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "decic.us",
+          "state": 1,
+          "proof_url": "https://keybase.io/decicus/sigchain#7f4add70f643dcda0203ab06ceb2e4b8feb78a0940884e99a2e7bc09e0460c780f",
+          "sig_id": "7f4add70f643dcda0203ab06ceb2e4b8feb78a0940884e99a2e7bc09e0460c780f",
+          "proof_id": "e83996dd5835cc3e196a3210",
+          "human_url": "dns://decic.us",
+          "service_url": "http://decic.us",
+          "presentation_group": "decic.us",
           "presentation_tag": "dns"
         }
       ]
@@ -311,6 +347,48 @@
           "presentation_group": "decapi.me",
           "presentation_tag": "https"
         }
+      ],
+      "decicus.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "decicus.com",
+          "state": 1,
+          "proof_url": "http://decicus.com/.well-known/keybase.txt",
+          "sig_id": "32762cb2355234bf77f0570ebea5f1e7e004ed3fbdfa541e866e6b8ae1b43e470f",
+          "proof_id": "fe8d2fe58c7615cd7eabc710",
+          "human_url": "http://decicus.com/.well-known/keybase.txt",
+          "service_url": "http://decicus.com",
+          "presentation_group": "decicus.com",
+          "presentation_tag": "http"
+        }
+      ],
+      "logs.decic.us": [
+        {
+          "proof_type": "dns",
+          "nametag": "logs.decic.us",
+          "state": 1,
+          "proof_url": "https://keybase.io/decicus/sigchain#35db5f30d1f127d5adc554fca67d28c4216c9368c7960d4e1e3679d7af645bf00f",
+          "sig_id": "35db5f30d1f127d5adc554fca67d28c4216c9368c7960d4e1e3679d7af645bf00f",
+          "proof_id": "1522b9bc8512efbecc2cad10",
+          "human_url": "dns://logs.decic.us",
+          "service_url": "http://logs.decic.us",
+          "presentation_group": "logs.decic.us",
+          "presentation_tag": "dns"
+        }
+      ],
+      "decic.us": [
+        {
+          "proof_type": "dns",
+          "nametag": "decic.us",
+          "state": 1,
+          "proof_url": "https://keybase.io/decicus/sigchain#7f4add70f643dcda0203ab06ceb2e4b8feb78a0940884e99a2e7bc09e0460c780f",
+          "sig_id": "7f4add70f643dcda0203ab06ceb2e4b8feb78a0940884e99a2e7bc09e0460c780f",
+          "proof_id": "e83996dd5835cc3e196a3210",
+          "human_url": "dns://decic.us",
+          "service_url": "http://decic.us",
+          "presentation_group": "decic.us",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -327,16 +405,16 @@
         "presentation_tag": "tweet"
       },
       {
-        "proof_type": "github",
-        "nametag": "decicus",
+        "proof_type": "dns",
+        "nametag": "decic.us",
         "state": 1,
-        "proof_url": "https://gist.github.com/488731997743e5221093",
-        "sig_id": "79dfe0cc083b9457ca9444d5026b4a674fbd4e54ca4e77685a47b3739fa1ec610f",
-        "proof_id": "71ad6465d67ab634d1512b10",
-        "human_url": "https://gist.github.com/488731997743e5221093",
-        "service_url": "https://github.com/Decicus",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
+        "proof_url": "https://keybase.io/decicus/sigchain#7f4add70f643dcda0203ab06ceb2e4b8feb78a0940884e99a2e7bc09e0460c780f",
+        "sig_id": "7f4add70f643dcda0203ab06ceb2e4b8feb78a0940884e99a2e7bc09e0460c780f",
+        "proof_id": "e83996dd5835cc3e196a3210",
+        "human_url": "dns://decic.us",
+        "service_url": "http://decic.us",
+        "presentation_group": "decic.us",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "reddit",
@@ -352,6 +430,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "www.thomassen.xyz",
+        "state": 1,
+        "proof_url": "https://keybase.io/decicus/sigchain#3c8ad0d6bbf56b243abf829ca1e0840da9cad17884d0ab6483451c421aa543cf0f",
+        "sig_id": "3c8ad0d6bbf56b243abf829ca1e0840da9cad17884d0ab6483451c421aa543cf0f",
+        "proof_id": "8e974cf8fe518b17e6ff6010",
+        "human_url": "dns://www.thomassen.xyz",
+        "service_url": "http://www.thomassen.xyz",
+        "presentation_group": "www.thomassen.xyz",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "www.iwinuloselol.com",
         "state": 1,
         "proof_url": "https://keybase.io/decicus/sigchain#6bb6f60c1c7775c3977d546553ea26e696a732bf448e5abe0c6a6dd6197df7c60f",
@@ -364,26 +454,50 @@
       },
       {
         "proof_type": "dns",
-        "nametag": "www.thomassen.xyz",
+        "nametag": "logs.decic.us",
         "state": 1,
-        "proof_url": "https://keybase.io/decicus/sigchain#3c8ad0d6bbf56b243abf829ca1e0840da9cad17884d0ab6483451c421aa543cf0f",
-        "sig_id": "3c8ad0d6bbf56b243abf829ca1e0840da9cad17884d0ab6483451c421aa543cf0f",
-        "proof_id": "8e974cf8fe518b17e6ff6010",
-        "human_url": "dns://www.thomassen.xyz",
-        "service_url": "http://www.thomassen.xyz",
-        "presentation_group": "www.thomassen.xyz",
+        "proof_url": "https://keybase.io/decicus/sigchain#35db5f30d1f127d5adc554fca67d28c4216c9368c7960d4e1e3679d7af645bf00f",
+        "sig_id": "35db5f30d1f127d5adc554fca67d28c4216c9368c7960d4e1e3679d7af645bf00f",
+        "proof_id": "1522b9bc8512efbecc2cad10",
+        "human_url": "dns://logs.decic.us",
+        "service_url": "http://logs.decic.us",
+        "presentation_group": "logs.decic.us",
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "generic_web_site",
-        "nametag": "www.iwinuloselol.com",
+        "proof_type": "github",
+        "nametag": "decicus",
         "state": 1,
-        "proof_url": "https://www.iwinuloselol.com/.well-known/keybase.txt",
-        "sig_id": "163443bffafa932788b68dddf6f5a981156c4f6ce527f1ee0cdb88e810058c600f",
-        "proof_id": "1453a3c57b17c0c9104f0710",
-        "human_url": "https://www.iwinuloselol.com/.well-known/keybase.txt",
-        "service_url": "https://www.iwinuloselol.com",
-        "presentation_group": "www.iwinuloselol.com",
+        "proof_url": "https://gist.github.com/488731997743e5221093",
+        "sig_id": "79dfe0cc083b9457ca9444d5026b4a674fbd4e54ca4e77685a47b3739fa1ec610f",
+        "proof_id": "71ad6465d67ab634d1512b10",
+        "human_url": "https://gist.github.com/488731997743e5221093",
+        "service_url": "https://github.com/Decicus",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "decicus.com",
+        "state": 1,
+        "proof_url": "http://decicus.com/.well-known/keybase.txt",
+        "sig_id": "32762cb2355234bf77f0570ebea5f1e7e004ed3fbdfa541e866e6b8ae1b43e470f",
+        "proof_id": "fe8d2fe58c7615cd7eabc710",
+        "human_url": "http://decicus.com/.well-known/keybase.txt",
+        "service_url": "http://decicus.com",
+        "presentation_group": "decicus.com",
+        "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "blacklist.rocks",
+        "state": 1,
+        "proof_url": "https://blacklist.rocks/.well-known/keybase.txt",
+        "sig_id": "d029683b75b0f633492ad9b3ba554deaf58f586a2539ca8f18db5e9537b9c30e0f",
+        "proof_id": "a3acd1e60fda4d808dd6d610",
+        "human_url": "https://blacklist.rocks/.well-known/keybase.txt",
+        "service_url": "https://blacklist.rocks",
+        "presentation_group": "blacklist.rocks",
         "presentation_tag": "https"
       },
       {
@@ -400,14 +514,14 @@
       },
       {
         "proof_type": "generic_web_site",
-        "nametag": "blacklist.rocks",
+        "nametag": "www.iwinuloselol.com",
         "state": 1,
-        "proof_url": "https://blacklist.rocks/.well-known/keybase.txt",
-        "sig_id": "d029683b75b0f633492ad9b3ba554deaf58f586a2539ca8f18db5e9537b9c30e0f",
-        "proof_id": "a3acd1e60fda4d808dd6d610",
-        "human_url": "https://blacklist.rocks/.well-known/keybase.txt",
-        "service_url": "https://blacklist.rocks",
-        "presentation_group": "blacklist.rocks",
+        "proof_url": "https://www.iwinuloselol.com/.well-known/keybase.txt",
+        "sig_id": "163443bffafa932788b68dddf6f5a981156c4f6ce527f1ee0cdb88e810058c600f",
+        "proof_id": "1453a3c57b17c0c9104f0710",
+        "human_url": "https://www.iwinuloselol.com/.well-known/keybase.txt",
+        "service_url": "https://www.iwinuloselol.com",
+        "presentation_group": "www.iwinuloselol.com",
         "presentation_tag": "https"
       },
       {
@@ -442,9 +556,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7806752c71f96da1acb0af876be5cb0205a9535ae00f8d44ac9ef8f5c4d1c14a0f",
-      "seqno": 54,
-      "payload_hash": "0a0326c81f55c085d22f6d3828afa5d4733108f0f9e928081ed0d64796d8ccb9"
+      "sig_id": "32762cb2355234bf77f0570ebea5f1e7e004ed3fbdfa541e866e6b8ae1b43e470f",
+      "seqno": 59,
+      "payload_hash": "05b9471f8dd97e28459cbc7c2dbb52af144ab751f2c3d9e7ec31168870e03553"
     }
   },
   "devices": {
