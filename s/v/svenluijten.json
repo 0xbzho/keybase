@@ -4,9 +4,9 @@
     "username": "svenluijten",
     "ctime": 1451938098,
     "mtime": 1451938098,
-    "id_version": 17,
-    "track_version": 10,
-    "last_id_change": 1454878544,
+    "id_version": 24,
+    "track_version": 17,
+    "last_id_change": 1465240447,
     "username_cased": "svenluijten"
   },
   "profile": {
@@ -40,16 +40,20 @@
       "01215c9bbb5012fe0add7a49a4f58f539b5b27ab78b0d5d5c8dddb30b967be01183e0a",
       "012054e7b39910585369fabcd2392566a2a583f533cdd9c792a0f339b1f12f63640a0a",
       "012017dd5095b6259f47ada06200dd12444f6ce9fd1d70f6abf9ad1da7b58da80c9e0a",
-      "0121615f0fdec682f3c2d47a98ed56a753f6a1c87d8dead9f0338a69b52b4c4f99450a"
+      "0121615f0fdec682f3c2d47a98ed56a753f6a1c87d8dead9f0338a69b52b4c4f99450a",
+      "0120145b1fa018e0428dad3b805ace513880da6b3625efdfe44d55199c2012eeb7250a",
+      "012119c036aa92de41966c91f4fcb79ba48dc2e3e199afddbaaff98fdc6ae6e1eb290a"
     ],
     "subkeys": [
       "01215c9bbb5012fe0add7a49a4f58f539b5b27ab78b0d5d5c8dddb30b967be01183e0a",
-      "0121615f0fdec682f3c2d47a98ed56a753f6a1c87d8dead9f0338a69b52b4c4f99450a"
+      "0121615f0fdec682f3c2d47a98ed56a753f6a1c87d8dead9f0338a69b52b4c4f99450a",
+      "012119c036aa92de41966c91f4fcb79ba48dc2e3e199afddbaaff98fdc6ae6e1eb290a"
     ],
     "sibkeys": [
       "0101fa0f48339a2519b100eee056b80823ba727a0438a293f50e3aa9acccb9da58e40a",
       "012054e7b39910585369fabcd2392566a2a583f533cdd9c792a0f339b1f12f63640a0a",
-      "012017dd5095b6259f47ada06200dd12444f6ce9fd1d70f6abf9ad1da7b58da80c9e0a"
+      "012017dd5095b6259f47ada06200dd12444f6ce9fd1d70f6abf9ad1da7b58da80c9e0a",
+      "0120145b1fa018e0428dad3b805ace513880da6b3625efdfe44d55199c2012eeb7250a"
     ],
     "families": {
       "0101fa0f48339a2519b100eee056b80823ba727a0438a293f50e3aa9acccb9da58e40a": [
@@ -59,7 +63,9 @@
         "01215c9bbb5012fe0add7a49a4f58f539b5b27ab78b0d5d5c8dddb30b967be01183e0a",
         "012054e7b39910585369fabcd2392566a2a583f533cdd9c792a0f339b1f12f63640a0a",
         "012017dd5095b6259f47ada06200dd12444f6ce9fd1d70f6abf9ad1da7b58da80c9e0a",
-        "0121615f0fdec682f3c2d47a98ed56a753f6a1c87d8dead9f0338a69b52b4c4f99450a"
+        "0121615f0fdec682f3c2d47a98ed56a753f6a1c87d8dead9f0338a69b52b4c4f99450a",
+        "0120145b1fa018e0428dad3b805ace513880da6b3625efdfe44d55199c2012eeb7250a",
+        "012119c036aa92de41966c91f4fcb79ba48dc2e3e199afddbaaff98fdc6ae6e1eb290a"
       ]
     },
     "eldest_kid": "0101fa0f48339a2519b100eee056b80823ba727a0438a293f50e3aa9acccb9da58e40a",
@@ -98,7 +104,33 @@
           "presentation_tag": "gist"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/svenluijten",
+          "state": 1,
+          "proof_url": "https://coinbase.com/svenluijten/public-key",
+          "sig_id": "c936d66650639a27141bd76d4879c4ba8fb0f44b27b7a17ba4c5f1f82f6d23250f",
+          "proof_id": "d3e27f554505972dc58d8e10",
+          "human_url": "https://coinbase.com/svenluijten/public-key",
+          "service_url": "https://coinbase.com/svenluijten",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "svn.lu",
+          "state": 1,
+          "proof_url": "https://keybase.io/svenluijten/sigchain#c3c090cc238ae4a7cb905a2f385cb32bf19c353277e263736313e8778f5fbcf20f",
+          "sig_id": "c3c090cc238ae4a7cb905a2f385cb32bf19c353277e263736313e8778f5fbcf20f",
+          "proof_id": "bf77a3258ff74b5b718b5c10",
+          "human_url": "dns://svn.lu",
+          "service_url": "http://svn.lu",
+          "presentation_group": "svn.lu",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "svenluijten.com",
@@ -142,6 +174,34 @@
           "presentation_tag": "gist"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/svenluijten",
+          "state": 1,
+          "proof_url": "https://coinbase.com/svenluijten/public-key",
+          "sig_id": "c936d66650639a27141bd76d4879c4ba8fb0f44b27b7a17ba4c5f1f82f6d23250f",
+          "proof_id": "d3e27f554505972dc58d8e10",
+          "human_url": "https://coinbase.com/svenluijten/public-key",
+          "service_url": "https://coinbase.com/svenluijten",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "svn.lu": [
+        {
+          "proof_type": "dns",
+          "nametag": "svn.lu",
+          "state": 1,
+          "proof_url": "https://keybase.io/svenluijten/sigchain#c3c090cc238ae4a7cb905a2f385cb32bf19c353277e263736313e8778f5fbcf20f",
+          "sig_id": "c3c090cc238ae4a7cb905a2f385cb32bf19c353277e263736313e8778f5fbcf20f",
+          "proof_id": "bf77a3258ff74b5b718b5c10",
+          "human_url": "dns://svn.lu",
+          "service_url": "http://svn.lu",
+          "presentation_group": "svn.lu",
+          "presentation_tag": "dns"
+        }
+      ],
       "svenluijten.com": [
         {
           "proof_type": "dns",
@@ -183,6 +243,30 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/svenluijten",
+        "state": 1,
+        "proof_url": "https://coinbase.com/svenluijten/public-key",
+        "sig_id": "c936d66650639a27141bd76d4879c4ba8fb0f44b27b7a17ba4c5f1f82f6d23250f",
+        "proof_id": "d3e27f554505972dc58d8e10",
+        "human_url": "https://coinbase.com/svenluijten/public-key",
+        "service_url": "https://coinbase.com/svenluijten",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "svn.lu",
+        "state": 1,
+        "proof_url": "https://keybase.io/svenluijten/sigchain#c3c090cc238ae4a7cb905a2f385cb32bf19c353277e263736313e8778f5fbcf20f",
+        "sig_id": "c3c090cc238ae4a7cb905a2f385cb32bf19c353277e263736313e8778f5fbcf20f",
+        "proof_id": "bf77a3258ff74b5b718b5c10",
+        "human_url": "dns://svn.lu",
+        "service_url": "http://svn.lu",
+        "presentation_group": "svn.lu",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "dns",
         "nametag": "svenluijten.com",
         "state": 1,
@@ -214,9 +298,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d2b857feb4e6a6298fdd0f2c198722a084f0efa93b6fc8f237de82bca734c79f0f",
-      "seqno": 27,
-      "payload_hash": "1bfc7181e1495af8cfa3089ffe567cb24f66c58d15a55e207ccf4b32790ec2b0"
+      "sig_id": "c3c090cc238ae4a7cb905a2f385cb32bf19c353277e263736313e8778f5fbcf20f",
+      "seqno": 38,
+      "payload_hash": "9352e84e9544ea5c75896187dcafadf58fc45ef4df8cc0a90725f062328e3254"
     }
   },
   "devices": {
@@ -236,6 +320,25 @@
           "kid": "0121615f0fdec682f3c2d47a98ed56a753f6a1c87d8dead9f0338a69b52b4c4f99450a",
           "key_role": 2,
           "sig_id": "48e57d3a83f8c63d35d29fc1f548055de7b5cffdf06d0f114719e64652742eb40f"
+        }
+      ]
+    },
+    "2c698df22240d609cf7399626b09bf18": {
+      "type": "desktop",
+      "ctime": 1464855138,
+      "mtime": 1464855138,
+      "name": "SchoolPC",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120145b1fa018e0428dad3b805ace513880da6b3625efdfe44d55199c2012eeb7250a",
+          "key_role": 1,
+          "sig_id": "01f52e435a376b3802ab527d178343526623c1239998272242ed455bff3e25240f"
+        },
+        {
+          "kid": "012119c036aa92de41966c91f4fcb79ba48dc2e3e199afddbaaff98fdc6ae6e1eb290a",
+          "key_role": 2,
+          "sig_id": "1db8cc38eee91546ac76db0ec3caa12bc0b8a4cc0dbe14a08b21c98d23b397c60f"
         }
       ]
     },
