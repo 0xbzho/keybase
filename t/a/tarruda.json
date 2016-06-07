@@ -4,9 +4,9 @@
     "username": "tarruda",
     "ctime": 1410858620,
     "mtime": 1410858620,
-    "id_version": 64,
-    "track_version": 15,
-    "last_id_change": 1459256780,
+    "id_version": 65,
+    "track_version": 16,
+    "last_id_change": 1465220552,
     "username_cased": "tarruda"
   },
   "profile": {
@@ -38,16 +38,18 @@
       "0120c3b09910973d8fccac6d874ee86db3a845681087111cc53d29d34693d4c9deaa0a",
       "01215d2694eab014dc1f3df91aabe03205c668645241e0f1db1b838e28c82431832c0a",
       "012161a6545f5fa6cb6575227e869fcfcfd1b3e882215867d1dbe907d754b6d86b6e0a",
-      "0120f00e2827da1a9f6b1141c142fc37b286b2d7eab13022edbc4cf638d38a1f4d280a"
+      "0120f00e2827da1a9f6b1141c142fc37b286b2d7eab13022edbc4cf638d38a1f4d280a",
+      "01208b88d501c008eb150376dc97908ea52d91104e54775886fb74c515eadb7608010a",
+      "0121d9e8c4a4424992e1806e0a46f34e6b39c54d73cf1f2e204ad0ec401c11c899080a"
     ],
     "subkeys": [
-      "01215d2694eab014dc1f3df91aabe03205c668645241e0f1db1b838e28c82431832c0a",
-      "012161a6545f5fa6cb6575227e869fcfcfd1b3e882215867d1dbe907d754b6d86b6e0a"
+      "012161a6545f5fa6cb6575227e869fcfcfd1b3e882215867d1dbe907d754b6d86b6e0a",
+      "0121d9e8c4a4424992e1806e0a46f34e6b39c54d73cf1f2e204ad0ec401c11c899080a"
     ],
     "sibkeys": [
       "0111aac6b603350be68a55394ecac13f82592a1ba194c32b0485bb87cfd0ec3515f50a",
-      "0120c3b09910973d8fccac6d874ee86db3a845681087111cc53d29d34693d4c9deaa0a",
-      "0120f00e2827da1a9f6b1141c142fc37b286b2d7eab13022edbc4cf638d38a1f4d280a"
+      "0120f00e2827da1a9f6b1141c142fc37b286b2d7eab13022edbc4cf638d38a1f4d280a",
+      "01208b88d501c008eb150376dc97908ea52d91104e54775886fb74c515eadb7608010a"
     ],
     "families": {
       "0111aac6b603350be68a55394ecac13f82592a1ba194c32b0485bb87cfd0ec3515f50a": [
@@ -55,7 +57,9 @@
         "0120c3b09910973d8fccac6d874ee86db3a845681087111cc53d29d34693d4c9deaa0a",
         "01215d2694eab014dc1f3df91aabe03205c668645241e0f1db1b838e28c82431832c0a",
         "012161a6545f5fa6cb6575227e869fcfcfd1b3e882215867d1dbe907d754b6d86b6e0a",
-        "0120f00e2827da1a9f6b1141c142fc37b286b2d7eab13022edbc4cf638d38a1f4d280a"
+        "0120f00e2827da1a9f6b1141c142fc37b286b2d7eab13022edbc4cf638d38a1f4d280a",
+        "01208b88d501c008eb150376dc97908ea52d91104e54775886fb74c515eadb7608010a",
+        "0121d9e8c4a4424992e1806e0a46f34e6b39c54d73cf1f2e204ad0ec401c11c899080a"
       ]
     },
     "eldest_kid": "0111aac6b603350be68a55394ecac13f82592a1ba194c32b0485bb87cfd0ec3515f50a",
@@ -243,12 +247,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5e98478045be1cf0b165ea57ac897c08482aad99ad5b608b6ee522bdd424edd40f",
-      "seqno": 28,
-      "payload_hash": "6892673fc2558fb94ca3ba1ffc8f26f01db024b4398565bbfc03e05e3ed7fa5e"
+      "sig_id": "f248dad21115c6bb8f0f234a280ad8f9d069f4c017806e9b365d3b34d0428ecc0f",
+      "seqno": 32,
+      "payload_hash": "951b8fcfeb9725def5f16d7f1bc3047cb58daf20c659cb60ada2460a54ff86b5"
     }
   },
   "devices": {
+    "4444b47338e2aee8378cb25e6c386518": {
+      "type": "desktop",
+      "ctime": 1465220552,
+      "mtime": 1465220552,
+      "name": "i7348-tarruda-2",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01208b88d501c008eb150376dc97908ea52d91104e54775886fb74c515eadb7608010a",
+          "key_role": 1,
+          "sig_id": "c147905f53ddf3fd949f97b9d9f9d6322509878db0c2fa96f1c16f776614a46a0f"
+        },
+        {
+          "kid": "0121d9e8c4a4424992e1806e0a46f34e6b39c54d73cf1f2e204ad0ec401c11c899080a",
+          "key_role": 2,
+          "sig_id": "faf6482923e0c528e61227833dd22c5892cc4cfb453c7d86ed3f0c33f828e7f80f"
+        }
+      ]
+    },
     "77a7337404b6f142a7f106bbe0476f18": {
       "type": "backup",
       "ctime": 1456429715,
@@ -265,25 +288,6 @@
           "kid": "012161a6545f5fa6cb6575227e869fcfcfd1b3e882215867d1dbe907d754b6d86b6e0a",
           "key_role": 2,
           "sig_id": "5e98478045be1cf0b165ea57ac897c08482aad99ad5b608b6ee522bdd424edd40f"
-        }
-      ]
-    },
-    "f3a95d57168c0645c1ce3e8d4f34e918": {
-      "type": "desktop",
-      "ctime": 1456429714,
-      "mtime": 1456429714,
-      "name": "i7348-tarruda",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120c3b09910973d8fccac6d874ee86db3a845681087111cc53d29d34693d4c9deaa0a",
-          "key_role": 1,
-          "sig_id": "b113c82e6048d9fb6fb4b1029ab307726f87fbfc083e7b97d5e0f7a4ef0ebcc80f"
-        },
-        {
-          "kid": "01215d2694eab014dc1f3df91aabe03205c668645241e0f1db1b838e28c82431832c0a",
-          "key_role": 2,
-          "sig_id": "05fc41575b61daba6cbb7a182be52be1d330be9b0fed12c68db6583f492edd8e0f"
         }
       ]
     }
