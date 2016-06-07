@@ -4,9 +4,9 @@
     "username": "mmarcant",
     "ctime": 1433289435,
     "mtime": 1433289435,
-    "id_version": 25,
+    "id_version": 27,
     "track_version": 4,
-    "last_id_change": 1463269836,
+    "last_id_change": 1464451909,
     "username_cased": "mmarcant"
   },
   "public_keys": {
@@ -61,20 +61,6 @@
           "presentation_tag": "tweet"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "coinbase/mmarcant",
-          "state": 1,
-          "proof_url": "https://coinbase.com/mmarcant/public-key",
-          "sig_id": "54a70f7f39d72babcaba0608fe7e198252f8676ac574ddebd0fb8fd296c31c2e0f",
-          "proof_id": "7758456741e0209fbbfe6910",
-          "human_url": "https://coinbase.com/mmarcant/public-key",
-          "service_url": "https://coinbase.com/mmarcant",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -117,20 +103,6 @@
           "service_url": "https://twitter.com/markthom_as",
           "presentation_group": "twitter",
           "presentation_tag": "tweet"
-        }
-      ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "coinbase/mmarcant",
-          "state": 1,
-          "proof_url": "https://coinbase.com/mmarcant/public-key",
-          "sig_id": "54a70f7f39d72babcaba0608fe7e198252f8676ac574ddebd0fb8fd296c31c2e0f",
-          "proof_id": "7758456741e0209fbbfe6910",
-          "human_url": "https://coinbase.com/mmarcant/public-key",
-          "service_url": "https://coinbase.com/mmarcant",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
         }
       ],
       "hackernews": [
@@ -176,18 +148,6 @@
         "presentation_tag": "tweet"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "coinbase/mmarcant",
-        "state": 1,
-        "proof_url": "https://coinbase.com/mmarcant/public-key",
-        "sig_id": "54a70f7f39d72babcaba0608fe7e198252f8676ac574ddebd0fb8fd296c31c2e0f",
-        "proof_id": "7758456741e0209fbbfe6910",
-        "human_url": "https://coinbase.com/mmarcant/public-key",
-        "service_url": "https://coinbase.com/mmarcant",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "mmarcant",
         "state": 1,
@@ -213,7 +173,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1KoXEUKWTfSDM6hRn7zrmHwScCDunraocL",
+        "sig_id": "407d50d11dfc74c546dda8e3ed452908227436630c655c90df4738a34a0f29810f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/06cc31bdc5a9a6a42d3d003a49cf3905_360_360_square_360.jpeg",
@@ -224,9 +191,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "95dd8581ba609eb2e999ec69235114a0e2da9d7e31f0e3b660fb20f3d101f5d70f",
-      "seqno": 9,
-      "payload_hash": "a6619078f95f47bef24d6d1d7eb94845e6aab5980efad974f392c6fc47f8656c"
+      "sig_id": "407d50d11dfc74c546dda8e3ed452908227436630c655c90df4738a34a0f29810f",
+      "seqno": 10,
+      "payload_hash": "da2ce7af939c6ea397d208200e7716b79fe6a878892143dedc0b07d349b591be"
     }
   },
   "devices": {}
