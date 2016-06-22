@@ -4,9 +4,9 @@
     "username": "lgv",
     "ctime": 1417734402,
     "mtime": 1417734402,
-    "id_version": 22,
-    "track_version": 41,
-    "last_id_change": 1460050783,
+    "id_version": 23,
+    "track_version": 50,
+    "last_id_change": 1466478433,
     "username_cased": "LGV"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "01208e1b804bdd2ba5ec4f3a99aac453253322115623c98e59b08c77a6f58e8f3cb00a",
       "012148834886514beaac26dcb8a1799fa8f2fb39fff9d1e65d20e27e6f41e70254060a",
       "0121a34d4bfa63adf0c3c4e1a98ff7ba549d0647a476f07571fff913db703fe7d3540a",
-      "0120ec1d3119efb1108da54dc6ae8d90dca245890ce64ba4c4117d4b5ea1cf1783c10a"
+      "0120ec1d3119efb1108da54dc6ae8d90dca245890ce64ba4c4117d4b5ea1cf1783c10a",
+      "012051164f977fdf3d810536d9d55a67f51c79222155dfa75b9c5f7acd38e6717cd70a",
+      "012189b963dbc30ee449f1fc4489160f5b762f241e23259b7f18d689864babf214400a"
     ],
     "subkeys": [
       "012148834886514beaac26dcb8a1799fa8f2fb39fff9d1e65d20e27e6f41e70254060a",
-      "0121a34d4bfa63adf0c3c4e1a98ff7ba549d0647a476f07571fff913db703fe7d3540a"
+      "0121a34d4bfa63adf0c3c4e1a98ff7ba549d0647a476f07571fff913db703fe7d3540a",
+      "012189b963dbc30ee449f1fc4489160f5b762f241e23259b7f18d689864babf214400a"
     ],
     "sibkeys": [
       "0101ce183b734d028d807e9f45b52d34568a4a4f4a93cac8d35f5d0e5345802793f20a",
       "01208e1b804bdd2ba5ec4f3a99aac453253322115623c98e59b08c77a6f58e8f3cb00a",
-      "0120ec1d3119efb1108da54dc6ae8d90dca245890ce64ba4c4117d4b5ea1cf1783c10a"
+      "0120ec1d3119efb1108da54dc6ae8d90dca245890ce64ba4c4117d4b5ea1cf1783c10a",
+      "012051164f977fdf3d810536d9d55a67f51c79222155dfa75b9c5f7acd38e6717cd70a"
     ],
     "families": {
       "0101ce183b734d028d807e9f45b52d34568a4a4f4a93cac8d35f5d0e5345802793f20a": [
@@ -55,7 +59,9 @@
         "01208e1b804bdd2ba5ec4f3a99aac453253322115623c98e59b08c77a6f58e8f3cb00a",
         "012148834886514beaac26dcb8a1799fa8f2fb39fff9d1e65d20e27e6f41e70254060a",
         "0121a34d4bfa63adf0c3c4e1a98ff7ba549d0647a476f07571fff913db703fe7d3540a",
-        "0120ec1d3119efb1108da54dc6ae8d90dca245890ce64ba4c4117d4b5ea1cf1783c10a"
+        "0120ec1d3119efb1108da54dc6ae8d90dca245890ce64ba4c4117d4b5ea1cf1783c10a",
+        "012051164f977fdf3d810536d9d55a67f51c79222155dfa75b9c5f7acd38e6717cd70a",
+        "012189b963dbc30ee449f1fc4489160f5b762f241e23259b7f18d689864babf214400a"
       ]
     },
     "eldest_kid": "0101ce183b734d028d807e9f45b52d34568a4a4f4a93cac8d35f5d0e5345802793f20a",
@@ -210,12 +216,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "46f1502f0cb0d1e7f0214a552d86254d1d18c0f1fb3aafb5317acf2e454d543a0f",
-      "seqno": 53,
-      "payload_hash": "309e3dfb3fe0a9e494c3a7e256b1373f8aee294d76c125da71a987b793b7119a"
+      "sig_id": "1cbe9c125cc9a5a1bcf4474ffdb4f54cc14e80454c42da50788f4c834091356b0f",
+      "seqno": 64,
+      "payload_hash": "0f325bff9a95addcab617cc3dd023bdb6a6a9ecb2d3f6959d544438185d2fd6f"
     }
   },
   "devices": {
+    "6c729a42344ba3960955747875296318": {
+      "type": "desktop",
+      "ctime": 1466478433,
+      "mtime": 1466478433,
+      "name": "lg-vm-ubuntu",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012051164f977fdf3d810536d9d55a67f51c79222155dfa75b9c5f7acd38e6717cd70a",
+          "key_role": 1,
+          "sig_id": "6d6301f5dc15c5616aef5bd74084982f94c8f5f3b9c7a9110b8ccf307d484e650f"
+        },
+        {
+          "kid": "012189b963dbc30ee449f1fc4489160f5b762f241e23259b7f18d689864babf214400a",
+          "key_role": 2,
+          "sig_id": "a11a613f1aad53e2aa5212efcfee62651609ccddb474c67a55b908bded9d78a40f"
+        }
+      ]
+    },
     "82753cf410f41c5e9cf443c041d90618": {
       "type": "desktop",
       "ctime": 1459576993,
