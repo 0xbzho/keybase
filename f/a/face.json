@@ -4,9 +4,9 @@
     "username": "face",
     "ctime": 1412100098,
     "mtime": 1412100098,
-    "id_version": 44,
+    "id_version": 45,
     "track_version": 7,
-    "last_id_change": 1464762895,
+    "last_id_change": 1465934567,
     "username_cased": "face"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "012090c133a6048f63d3e29ebad69d9b60d3927b8838786c25edafd9bf72e0ab769f0a",
       "0120358b911e61e2e9442a9ca10b23a982b453e3fe1c1accd69a33f3e7cad95a44390a",
       "0121b477f70e49d5c2b943096961b814543128428b8d821efc3860cf82dcada92b5e0a",
-      "01210c0000bf363093aa6d7fba0c1d62decde5150d2e1a0a095c74591eb58281e20b0a"
+      "01210c0000bf363093aa6d7fba0c1d62decde5150d2e1a0a095c74591eb58281e20b0a",
+      "01207ddf1d2678096cf96e223b885abe823a0ae95bff5cb3baae0d3ddc136e14e8580a",
+      "0121a032724c8c000fa150d4d4311878f0035777936f75c082f094e5396322ba20790a"
     ],
     "subkeys": [
       "0121b477f70e49d5c2b943096961b814543128428b8d821efc3860cf82dcada92b5e0a",
-      "01210c0000bf363093aa6d7fba0c1d62decde5150d2e1a0a095c74591eb58281e20b0a"
+      "01210c0000bf363093aa6d7fba0c1d62decde5150d2e1a0a095c74591eb58281e20b0a",
+      "0121a032724c8c000fa150d4d4311878f0035777936f75c082f094e5396322ba20790a"
     ],
     "sibkeys": [
       "0101e9db4d1cbf38be8e79988ae94aada33e86413bfb3545b4e75c6b5d0fed55ea8c0a",
       "012090c133a6048f63d3e29ebad69d9b60d3927b8838786c25edafd9bf72e0ab769f0a",
-      "0120358b911e61e2e9442a9ca10b23a982b453e3fe1c1accd69a33f3e7cad95a44390a"
+      "0120358b911e61e2e9442a9ca10b23a982b453e3fe1c1accd69a33f3e7cad95a44390a",
+      "01207ddf1d2678096cf96e223b885abe823a0ae95bff5cb3baae0d3ddc136e14e8580a"
     ],
     "families": {
       "0101e9db4d1cbf38be8e79988ae94aada33e86413bfb3545b4e75c6b5d0fed55ea8c0a": [
@@ -55,7 +59,9 @@
         "012090c133a6048f63d3e29ebad69d9b60d3927b8838786c25edafd9bf72e0ab769f0a",
         "0120358b911e61e2e9442a9ca10b23a982b453e3fe1c1accd69a33f3e7cad95a44390a",
         "0121b477f70e49d5c2b943096961b814543128428b8d821efc3860cf82dcada92b5e0a",
-        "01210c0000bf363093aa6d7fba0c1d62decde5150d2e1a0a095c74591eb58281e20b0a"
+        "01210c0000bf363093aa6d7fba0c1d62decde5150d2e1a0a095c74591eb58281e20b0a",
+        "01207ddf1d2678096cf96e223b885abe823a0ae95bff5cb3baae0d3ddc136e14e8580a",
+        "0121a032724c8c000fa150d4d4311878f0035777936f75c082f094e5396322ba20790a"
       ]
     },
     "eldest_kid": "0101e9db4d1cbf38be8e79988ae94aada33e86413bfb3545b4e75c6b5d0fed55ea8c0a",
@@ -250,12 +256,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "0e41a0a834f088065ee761ff892f1a50e5490ea8760b457013e96f66df5c6f170f",
-      "seqno": 19,
-      "payload_hash": "04c4acb327e36454ef7c9d7d15edfecd3d2ef51cffc98bf631b3d405eb3a8fb9"
+      "sig_id": "a3f8a0c937c036382ae0c647b169eb4e60f0e74e81255c0fe657e7da1f8616600f",
+      "seqno": 21,
+      "payload_hash": "bc780a641864dff90f8425be91c43344e68fea8577e27a68aca96a539370aa87"
     }
   },
   "devices": {
+    "564055685c700a848e0e5850a516ff18": {
+      "type": "desktop",
+      "ctime": 1465934567,
+      "mtime": 1465934567,
+      "name": "HG XPS",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207ddf1d2678096cf96e223b885abe823a0ae95bff5cb3baae0d3ddc136e14e8580a",
+          "key_role": 1,
+          "sig_id": "12242fa5d60ba1cdcfa5cb64a82f038c76052349c172fd6127fcfd9ebb9023b10f"
+        },
+        {
+          "kid": "0121a032724c8c000fa150d4d4311878f0035777936f75c082f094e5396322ba20790a",
+          "key_role": 2,
+          "sig_id": "a3f8a0c937c036382ae0c647b169eb4e60f0e74e81255c0fe657e7da1f8616600f"
+        }
+      ]
+    },
     "6fa26364de5a1c1d95f3792702dfd118": {
       "type": "backup",
       "ctime": 1454638603,
