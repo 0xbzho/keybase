@@ -4,16 +4,16 @@
     "username": "fr33tux",
     "ctime": 1429529357,
     "mtime": 1429529357,
-    "id_version": 42,
+    "id_version": 45,
     "track_version": 4,
-    "last_id_change": 1455060610,
+    "last_id_change": 1466098329,
     "username_cased": "fr33tux"
   },
   "profile": {
-    "mtime": 1429540236,
+    "mtime": 1466097936,
     "full_name": "Fr33tux",
     "location": "fr33tux.org",
-    "bio": "Sysadmin (for toolslib.net), <3 free software."
+    "bio": "Sysadmin for https://toolslib.net, TorProject relays operator, and AdwCleaner contributor. "
   },
   "public_keys": {
     "primary": {
@@ -66,6 +66,20 @@
           "presentation_group": "twitter",
           "presentation_tag": "tweet"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "fr33tux.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/fr33tux/sigchain#b4f75146a2b20ee91d2679224a356dc5ef5d060c86732d32ee5804ff3b24fc220f",
+          "sig_id": "b4f75146a2b20ee91d2679224a356dc5ef5d060c86732d32ee5804ff3b24fc220f",
+          "proof_id": "bceb37c3aa8ef6566b93b310",
+          "human_url": "dns://fr33tux.org",
+          "service_url": "http://fr33tux.org",
+          "presentation_group": "fr33tux.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -82,6 +96,20 @@
           "presentation_group": "twitter",
           "presentation_tag": "tweet"
         }
+      ],
+      "fr33tux.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "fr33tux.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/fr33tux/sigchain#b4f75146a2b20ee91d2679224a356dc5ef5d060c86732d32ee5804ff3b24fc220f",
+          "sig_id": "b4f75146a2b20ee91d2679224a356dc5ef5d060c86732d32ee5804ff3b24fc220f",
+          "proof_id": "bceb37c3aa8ef6566b93b310",
+          "human_url": "dns://fr33tux.org",
+          "service_url": "http://fr33tux.org",
+          "presentation_group": "fr33tux.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -96,6 +124,18 @@
         "service_url": "https://twitter.com/fr33tux",
         "presentation_group": "twitter",
         "presentation_tag": "tweet"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "fr33tux.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/fr33tux/sigchain#b4f75146a2b20ee91d2679224a356dc5ef5d060c86732d32ee5804ff3b24fc220f",
+        "sig_id": "b4f75146a2b20ee91d2679224a356dc5ef5d060c86732d32ee5804ff3b24fc220f",
+        "proof_id": "bceb37c3aa8ef6566b93b310",
+        "human_url": "dns://fr33tux.org",
+        "service_url": "http://fr33tux.org",
+        "presentation_group": "fr33tux.org",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -117,9 +157,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c5d2aac59ec90e766d740d995b7fd31e88aaa9a627c56ccc354f9cce73482acd0f",
-      "seqno": 11,
-      "payload_hash": "b46b9267e604fb434ce0cdb4961712445c29b9de62ee5d652459c45bdd3954cf"
+      "sig_id": "b4f75146a2b20ee91d2679224a356dc5ef5d060c86732d32ee5804ff3b24fc220f",
+      "seqno": 12,
+      "payload_hash": "a2009604bcbf0061bfb21f7d0161bc4dc07507bd902240b727241ca906a59373"
     }
   },
   "devices": {}
