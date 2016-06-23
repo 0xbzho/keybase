@@ -4,16 +4,16 @@
     "username": "lucazz",
     "ctime": 1405617897,
     "mtime": 1405617897,
-    "id_version": 73,
+    "id_version": 77,
     "track_version": 33,
-    "last_id_change": 1463851423,
+    "last_id_change": 1466282650,
     "username_cased": "lucazz"
   },
   "profile": {
-    "mtime": 1434409815,
+    "mtime": 1466283173,
     "full_name": "Lucas do Amaral Saboya",
     "location": "Brazil",
-    "bio": "Infrastructure & Support Engineer"
+    "bio": "Site Reliability Engineer @ HE:labs"
   },
   "public_keys": {
     "primary": {
@@ -145,6 +145,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/lucazz",
+          "state": 1,
+          "proof_url": "https://coinbase.com/lucazz/public-key",
+          "sig_id": "964d15ead098151e3c3d6c7a2634108c2f885dfc4020452d16529de5a20a7d830f",
+          "proof_id": "77e530c8ead2c6a3a2762810",
+          "human_url": "https://coinbase.com/lucazz/public-key",
+          "service_url": "https://coinbase.com/lucazz",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "lucazz.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/lucazz/sigchain#97293d84997d0cb5ee9a251757e999081b511ceae9b1cf69f0cad0c78cdd1b890f",
+          "sig_id": "97293d84997d0cb5ee9a251757e999081b511ceae9b1cf69f0cad0c78cdd1b890f",
+          "proof_id": "f1ec8c29689861d8001cff10",
+          "human_url": "dns://lucazz.me",
+          "service_url": "http://lucazz.me",
+          "presentation_group": "lucazz.me",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -175,6 +203,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/lucazz",
+          "state": 1,
+          "proof_url": "https://coinbase.com/lucazz/public-key",
+          "sig_id": "964d15ead098151e3c3d6c7a2634108c2f885dfc4020452d16529de5a20a7d830f",
+          "proof_id": "77e530c8ead2c6a3a2762810",
+          "human_url": "https://coinbase.com/lucazz/public-key",
+          "service_url": "https://coinbase.com/lucazz",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "lucazz.me": [
+        {
+          "proof_type": "dns",
+          "nametag": "lucazz.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/lucazz/sigchain#97293d84997d0cb5ee9a251757e999081b511ceae9b1cf69f0cad0c78cdd1b890f",
+          "sig_id": "97293d84997d0cb5ee9a251757e999081b511ceae9b1cf69f0cad0c78cdd1b890f",
+          "proof_id": "f1ec8c29689861d8001cff10",
+          "human_url": "dns://lucazz.me",
+          "service_url": "http://lucazz.me",
+          "presentation_group": "lucazz.me",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -201,10 +257,41 @@
         "service_url": "https://github.com/lucazz",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/lucazz",
+        "state": 1,
+        "proof_url": "https://coinbase.com/lucazz/public-key",
+        "sig_id": "964d15ead098151e3c3d6c7a2634108c2f885dfc4020452d16529de5a20a7d830f",
+        "proof_id": "77e530c8ead2c6a3a2762810",
+        "human_url": "https://coinbase.com/lucazz/public-key",
+        "service_url": "https://coinbase.com/lucazz",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "lucazz.me",
+        "state": 1,
+        "proof_url": "https://keybase.io/lucazz/sigchain#97293d84997d0cb5ee9a251757e999081b511ceae9b1cf69f0cad0c78cdd1b890f",
+        "sig_id": "97293d84997d0cb5ee9a251757e999081b511ceae9b1cf69f0cad0c78cdd1b890f",
+        "proof_id": "f1ec8c29689861d8001cff10",
+        "human_url": "dns://lucazz.me",
+        "service_url": "http://lucazz.me",
+        "presentation_group": "lucazz.me",
+        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "125uXMf5fn5pNK49dMNc5pD3D2MQLrqYtF",
+        "sig_id": "8b20fdcc22ecf1db2e1854948427c2c7ba3d88dddeeae9b4c04df24ad49e84e50f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/4398584846b01bd53039f1fdc50bbc05_360_360_square_360.jpeg",
@@ -215,9 +302,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "e4f62be1de1dea88df0a85962635c8af30e57edf910bc1f457b57fab3b86a9250f",
-      "seqno": 75,
-      "payload_hash": "cd868124a4b5b1061278bc9dc112ee88c0dae8171c25ccff3c5a0d186b4b8afa"
+      "sig_id": "8b20fdcc22ecf1db2e1854948427c2c7ba3d88dddeeae9b4c04df24ad49e84e50f",
+      "seqno": 78,
+      "payload_hash": "1b448ca548ba9f757e7f874871734b003d4685de5b879bf860676a6bfaa13648"
     }
   },
   "devices": {
