@@ -4,9 +4,9 @@
     "username": "bi",
     "ctime": 1424824096,
     "mtime": 1424824096,
-    "id_version": 186,
+    "id_version": 189,
     "track_version": 12,
-    "last_id_change": 1466818240,
+    "last_id_change": 1466822657,
     "username_cased": "bi"
   },
   "profile": {
@@ -63,14 +63,12 @@
     "subkeys": [
       "01211600b8c29539600d0a6f08151f60f54238df2ee62d6ae74fe6cd1b453f607b360a",
       "01211d18c75e41e0e12f3d0bf1758a5a5acca75f30204233d3088831a2f71a20590b0a",
-      "0121462e86072873c48f2a0dc8f58af4917da3a57ba943e12791b2bb4062281c0b5d0a",
       "0121e3fda29cbf4074c7ff743a117a8832a0827b67f764e7f0fc89b30f94ced89d700a"
     ],
     "sibkeys": [
       "01204c52ef4bdccfef61a5f70a1e6da59b612f7fd75452841670efb3d4415fd4b1fc0a",
       "0120481c04e852d10be9673b90ce5b833dd4f78d0d8e5e134925d056ecbba92c35900a",
       "010198b5bd0cfab777c22ad341d8b305c09c754c0bb755fc979ed14432b2cd1e126e0a",
-      "0120bbcfcd9be52b65e21771063edf403e3fd23ee0eabf0f9b8a889603e92d5034280a",
       "0120960937f5d6935b77aee81afb23a5117073ddd2a0630a9be4235192f15401f5910a"
     ],
     "families": {
@@ -191,6 +189,18 @@
           "human_url": "dns://iec.pe",
           "service_url": "http://iec.pe",
           "presentation_group": "iec.pe",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "ingalls.tech",
+          "state": 1,
+          "proof_url": "https://keybase.io/bi/sigchain#6d05e3b5a2ea428d8d995d157e635ea33d593c2302900000256dc144157a246e0f",
+          "sig_id": "6d05e3b5a2ea428d8d995d157e635ea33d593c2302900000256dc144157a246e0f",
+          "proof_id": "2a804eb1cad82b0e89732610",
+          "human_url": "dns://ingalls.tech",
+          "service_url": "http://ingalls.tech",
+          "presentation_group": "ingalls.tech",
           "presentation_tag": "dns"
         },
         {
@@ -409,6 +419,20 @@
           "human_url": "dns://ingalls.io",
           "service_url": "http://ingalls.io",
           "presentation_group": "ingalls.io",
+          "presentation_tag": "dns"
+        }
+      ],
+      "ingalls.tech": [
+        {
+          "proof_type": "dns",
+          "nametag": "ingalls.tech",
+          "state": 1,
+          "proof_url": "https://keybase.io/bi/sigchain#6d05e3b5a2ea428d8d995d157e635ea33d593c2302900000256dc144157a246e0f",
+          "sig_id": "6d05e3b5a2ea428d8d995d157e635ea33d593c2302900000256dc144157a246e0f",
+          "proof_id": "2a804eb1cad82b0e89732610",
+          "human_url": "dns://ingalls.tech",
+          "service_url": "http://ingalls.tech",
+          "presentation_group": "ingalls.tech",
           "presentation_tag": "dns"
         }
       ],
@@ -642,6 +666,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "ingalls.tech",
+        "state": 1,
+        "proof_url": "https://keybase.io/bi/sigchain#6d05e3b5a2ea428d8d995d157e635ea33d593c2302900000256dc144157a246e0f",
+        "sig_id": "6d05e3b5a2ea428d8d995d157e635ea33d593c2302900000256dc144157a246e0f",
+        "proof_id": "2a804eb1cad82b0e89732610",
+        "human_url": "dns://ingalls.tech",
+        "service_url": "http://ingalls.tech",
+        "presentation_group": "ingalls.tech",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "ingalls.run",
         "state": 1,
         "proof_url": "https://keybase.io/bi/sigchain#9d57ef4ea1088c3809d9a2e5290e6aa7836c80ae10f5fd5c7bf03d4ac74d28500f",
@@ -792,9 +828,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "86a046af6ce0bd5cf5fb76924b11ea4f39c6db5239f8a8aba327e9038888ec160f",
-      "seqno": 121,
-      "payload_hash": "6bb99e1967968795d16a6f012059155b3d77f04d87b381c2686852563f16bcf0"
+      "sig_id": "6d05e3b5a2ea428d8d995d157e635ea33d593c2302900000256dc144157a246e0f",
+      "seqno": 123,
+      "payload_hash": "964c899554741234e67e5807b55ee50922155dad40cb57f77107260da3566e25"
     }
   },
   "devices": {
@@ -833,25 +869,6 @@
           "kid": "0121e3fda29cbf4074c7ff743a117a8832a0827b67f764e7f0fc89b30f94ced89d700a",
           "key_role": 2,
           "sig_id": "86a046af6ce0bd5cf5fb76924b11ea4f39c6db5239f8a8aba327e9038888ec160f"
-        }
-      ]
-    },
-    "96859c13cc295e3385ab9fcead21b718": {
-      "type": "desktop",
-      "ctime": 1452664146,
-      "mtime": 1452664146,
-      "name": "ProdFoxV3",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120bbcfcd9be52b65e21771063edf403e3fd23ee0eabf0f9b8a889603e92d5034280a",
-          "key_role": 1,
-          "sig_id": "43371a699d4a3777272c915591e6c4a9dc66d917556169f60652b749a25a6e380f"
-        },
-        {
-          "kid": "0121462e86072873c48f2a0dc8f58af4917da3a57ba943e12791b2bb4062281c0b5d0a",
-          "key_role": 2,
-          "sig_id": "a3f6bd1a2e961435f00e46ca2f5256f6c2eca8863189b23595f4e0a5df1c20e60f"
         }
       ]
     },
