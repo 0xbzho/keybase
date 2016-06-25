@@ -4,9 +4,9 @@
     "username": "coffee",
     "ctime": 1462044491,
     "mtime": 1462044491,
-    "id_version": 23,
+    "id_version": 24,
     "track_version": 6,
-    "last_id_change": 1465027923,
+    "last_id_change": 1465650827,
     "username_cased": "coffee"
   },
   "profile": {
@@ -40,18 +40,22 @@
       "0121f1e97b6f57df450c30071680cfe8819cbfec284d2fe3f5aa4ee0f1cbfb2931670a",
       "0120f61e3d6d8ed891d28b665ce1da4bee5d042fa34a26ae07ebd4eaf8b2bb1191180a",
       "01203bc4648f85e5049f25b1ad84d1b97cc404560f4fdc1ca8913768a469545bcbda0a",
-      "01218f66ab429e94e07d7103416fe650cda30f7cee33848021de3c241ee43ba4d8590a"
+      "01218f66ab429e94e07d7103416fe650cda30f7cee33848021de3c241ee43ba4d8590a",
+      "012051e6860dc8376885135c67eab8a3ba8e45fd51e9ba3a0493ac84bc3ca37da3ba0a",
+      "01213b76f4e009249ac5a33998ab6b6711c3c4203f62fb0047a5dd9ddaf080fe7f250a"
     ],
     "subkeys": [
       "012189f43cabf40963e59beebe21fe6c86ea85198564c578ab12df834ccd1867e6780a",
       "0121f1e97b6f57df450c30071680cfe8819cbfec284d2fe3f5aa4ee0f1cbfb2931670a",
-      "01218f66ab429e94e07d7103416fe650cda30f7cee33848021de3c241ee43ba4d8590a"
+      "01218f66ab429e94e07d7103416fe650cda30f7cee33848021de3c241ee43ba4d8590a",
+      "01213b76f4e009249ac5a33998ab6b6711c3c4203f62fb0047a5dd9ddaf080fe7f250a"
     ],
     "sibkeys": [
       "0101bea9ae64fb73a8708305257e5091abc4151b0bd1caf219547bc2bb9544831f790a",
       "0120385449742dd8040e93ef83fbed0f17c1216992f712d453fe4f2bdfbae4a095140a",
       "0120f61e3d6d8ed891d28b665ce1da4bee5d042fa34a26ae07ebd4eaf8b2bb1191180a",
-      "01203bc4648f85e5049f25b1ad84d1b97cc404560f4fdc1ca8913768a469545bcbda0a"
+      "01203bc4648f85e5049f25b1ad84d1b97cc404560f4fdc1ca8913768a469545bcbda0a",
+      "012051e6860dc8376885135c67eab8a3ba8e45fd51e9ba3a0493ac84bc3ca37da3ba0a"
     ],
     "families": {
       "0101bea9ae64fb73a8708305257e5091abc4151b0bd1caf219547bc2bb9544831f790a": [
@@ -61,7 +65,9 @@
         "0121f1e97b6f57df450c30071680cfe8819cbfec284d2fe3f5aa4ee0f1cbfb2931670a",
         "0120f61e3d6d8ed891d28b665ce1da4bee5d042fa34a26ae07ebd4eaf8b2bb1191180a",
         "01203bc4648f85e5049f25b1ad84d1b97cc404560f4fdc1ca8913768a469545bcbda0a",
-        "01218f66ab429e94e07d7103416fe650cda30f7cee33848021de3c241ee43ba4d8590a"
+        "01218f66ab429e94e07d7103416fe650cda30f7cee33848021de3c241ee43ba4d8590a",
+        "012051e6860dc8376885135c67eab8a3ba8e45fd51e9ba3a0493ac84bc3ca37da3ba0a",
+        "01213b76f4e009249ac5a33998ab6b6711c3c4203f62fb0047a5dd9ddaf080fe7f250a"
       ]
     },
     "eldest_kid": "0101bea9ae64fb73a8708305257e5091abc4151b0bd1caf219547bc2bb9544831f790a",
@@ -129,12 +135,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "4595935a8efedc7e21bf8b504ea2d7896207b9ebc5a61456508005b3d19659fd0f",
-      "seqno": 19,
-      "payload_hash": "f0fd08d39562da8d6474590c2182319331642d42001e7eb40961c199c537e7f5"
+      "sig_id": "d390a4f057eacef11d8551ff075bd705783288155517e69c2d98d853f609f0c90f",
+      "seqno": 21,
+      "payload_hash": "44910fca59accf92e5b6e28970f45fdff3d51d4b6f57e71358798bbc2e5a615a"
     }
   },
   "devices": {
+    "1d767dfb05d59a808eddf16849c4b118": {
+      "type": "desktop",
+      "ctime": 1465650827,
+      "mtime": 1465650827,
+      "name": "monteverde",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012051e6860dc8376885135c67eab8a3ba8e45fd51e9ba3a0493ac84bc3ca37da3ba0a",
+          "key_role": 1,
+          "sig_id": "f3d847e2d7b867c2323aebafdf743595c2759eb350df13d15022d8775daa68f00f"
+        },
+        {
+          "kid": "01213b76f4e009249ac5a33998ab6b6711c3c4203f62fb0047a5dd9ddaf080fe7f250a",
+          "key_role": 2,
+          "sig_id": "d390a4f057eacef11d8551ff075bd705783288155517e69c2d98d853f609f0c90f"
+        }
+      ]
+    },
     "710cb1e88595688f85193426815f7c18": {
       "type": "backup",
       "ctime": 1462044987,
