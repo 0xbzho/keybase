@@ -4,15 +4,15 @@
     "username": "t0bz",
     "ctime": 1429043705,
     "mtime": 1429043705,
-    "id_version": 17,
+    "id_version": 19,
     "track_version": 2,
-    "last_id_change": 1442256648,
+    "last_id_change": 1466409302,
     "username_cased": "t0bz"
   },
   "profile": {
-    "mtime": 1429131486,
+    "mtime": 1466410570,
     "full_name": "Toby Evans",
-    "location": "Auckland, nz",
+    "location": "Mangawhai, nz",
     "bio": "Full Stack Developer living in Auckland, New Zealand."
   },
   "public_keys": {
@@ -84,6 +84,18 @@
       "dns": [
         {
           "proof_type": "dns",
+          "nametag": "tobz.nz",
+          "state": 1,
+          "proof_url": "https://keybase.io/t0bz/sigchain#4ff2bb64a951dac2d55349d049c41d218c357315ff9268361c92439dec3c72ab0f",
+          "sig_id": "4ff2bb64a951dac2d55349d049c41d218c357315ff9268361c92439dec3c72ab0f",
+          "proof_id": "8c742e3f7891a15672dfe410",
+          "human_url": "dns://tobz.nz",
+          "service_url": "http://tobz.nz",
+          "presentation_group": "tobz.nz",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "tobz.net.nz",
           "state": 1,
           "proof_url": "https://keybase.io/t0bz/sigchain#11bfe732b2d80b547a004d617eff600fcbedab15bca49cbdf62a45cbf9b329160f",
@@ -123,6 +135,20 @@
           "service_url": "https://github.com/tobz-nz",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "tobz.nz": [
+        {
+          "proof_type": "dns",
+          "nametag": "tobz.nz",
+          "state": 1,
+          "proof_url": "https://keybase.io/t0bz/sigchain#4ff2bb64a951dac2d55349d049c41d218c357315ff9268361c92439dec3c72ab0f",
+          "sig_id": "4ff2bb64a951dac2d55349d049c41d218c357315ff9268361c92439dec3c72ab0f",
+          "proof_id": "8c742e3f7891a15672dfe410",
+          "human_url": "dns://tobz.nz",
+          "service_url": "http://tobz.nz",
+          "presentation_group": "tobz.nz",
+          "presentation_tag": "dns"
         }
       ],
       "tobz.net.nz": [
@@ -167,6 +193,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "tobz.nz",
+        "state": 1,
+        "proof_url": "https://keybase.io/t0bz/sigchain#4ff2bb64a951dac2d55349d049c41d218c357315ff9268361c92439dec3c72ab0f",
+        "sig_id": "4ff2bb64a951dac2d55349d049c41d218c357315ff9268361c92439dec3c72ab0f",
+        "proof_id": "8c742e3f7891a15672dfe410",
+        "human_url": "dns://tobz.nz",
+        "service_url": "http://tobz.nz",
+        "presentation_group": "tobz.nz",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "tobz.net.nz",
         "state": 1,
         "proof_url": "https://keybase.io/t0bz/sigchain#11bfe732b2d80b547a004d617eff600fcbedab15bca49cbdf62a45cbf9b329160f",
@@ -197,9 +235,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "a46caf0f5b4dea1f3b76e5c0cada7e0446fc929c0673b7af58efd615d8c02ae50f",
-      "seqno": 7,
-      "payload_hash": "fbb0ed3173b5cc93c677fbcc1be1994c1434ca421e4bd24b04e01735a184072f"
+      "sig_id": "4ff2bb64a951dac2d55349d049c41d218c357315ff9268361c92439dec3c72ab0f",
+      "seqno": 8,
+      "payload_hash": "8e59f9e7f3e844fa5edee90a253bafa86867618768502ba9e43bc2f13a05312b"
     }
   },
   "devices": {}
