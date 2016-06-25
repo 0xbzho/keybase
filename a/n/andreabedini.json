@@ -4,16 +4,16 @@
     "username": "andreabedini",
     "ctime": 1424904369,
     "mtime": 1424904369,
-    "id_version": 35,
+    "id_version": 36,
     "track_version": 4,
-    "last_id_change": 1459229996,
+    "last_id_change": 1465434772,
     "username_cased": "andreabedini"
   },
   "profile": {
-    "mtime": 1424904394,
+    "mtime": 1465434919,
     "full_name": "Andrea Bedini",
-    "location": "Melbourne, Australia",
-    "bio": "Theoretical physicist, experimental mathematician, lecturer, science idealist, impulsive learner, co-creator of @TheLaborastory."
+    "location": "Perth, Australia",
+    "bio": "Data Scientist @CurtinIC, theoretical physicist, experimental mathematician, science idealist, impulsive learner, co-creator @TheLaborastory."
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,20 @@
       "0121acd744269a9a0bbc4b847d3ee8678d1b15d270e5d8a95102b3f71063339213670a",
       "012014fe07793063d06fb7376bffa4e5536442e2ef4d9a705e1487178161250904b30a",
       "012052854835c6761ec9fd4774e97d4dfab3236f9137f686be8e529497ed99df61020a",
-      "01213bcafeb5d0bd16ba99d49bba7a82b86abb12cb6d90d9840ea6b30bfa27b182060a"
+      "01213bcafeb5d0bd16ba99d49bba7a82b86abb12cb6d90d9840ea6b30bfa27b182060a",
+      "0120966842218fb978b3972eedae625e8b39cd936c8ae36dadd29469390daa7eadb60a",
+      "0121b7f2721240c9850f60ef74fa5b385025111b5aeeee38c03a351362f9659cde4a0a"
     ],
     "subkeys": [
       "0121acd744269a9a0bbc4b847d3ee8678d1b15d270e5d8a95102b3f71063339213670a",
-      "01213bcafeb5d0bd16ba99d49bba7a82b86abb12cb6d90d9840ea6b30bfa27b182060a"
+      "01213bcafeb5d0bd16ba99d49bba7a82b86abb12cb6d90d9840ea6b30bfa27b182060a",
+      "0121b7f2721240c9850f60ef74fa5b385025111b5aeeee38c03a351362f9659cde4a0a"
     ],
     "sibkeys": [
       "01018942f99d0c3a0b723b4bdab9f7e078ed3bae4c08c8df4594d2641dbb7421b6ab0a",
       "012014fe07793063d06fb7376bffa4e5536442e2ef4d9a705e1487178161250904b30a",
-      "012052854835c6761ec9fd4774e97d4dfab3236f9137f686be8e529497ed99df61020a"
+      "012052854835c6761ec9fd4774e97d4dfab3236f9137f686be8e529497ed99df61020a",
+      "0120966842218fb978b3972eedae625e8b39cd936c8ae36dadd29469390daa7eadb60a"
     ],
     "families": {
       "01018942f99d0c3a0b723b4bdab9f7e078ed3bae4c08c8df4594d2641dbb7421b6ab0a": [
@@ -55,7 +59,9 @@
         "0121acd744269a9a0bbc4b847d3ee8678d1b15d270e5d8a95102b3f71063339213670a",
         "012014fe07793063d06fb7376bffa4e5536442e2ef4d9a705e1487178161250904b30a",
         "012052854835c6761ec9fd4774e97d4dfab3236f9137f686be8e529497ed99df61020a",
-        "01213bcafeb5d0bd16ba99d49bba7a82b86abb12cb6d90d9840ea6b30bfa27b182060a"
+        "01213bcafeb5d0bd16ba99d49bba7a82b86abb12cb6d90d9840ea6b30bfa27b182060a",
+        "0120966842218fb978b3972eedae625e8b39cd936c8ae36dadd29469390daa7eadb60a",
+        "0121b7f2721240c9850f60ef74fa5b385025111b5aeeee38c03a351362f9659cde4a0a"
       ]
     },
     "eldest_kid": "01018942f99d0c3a0b723b4bdab9f7e078ed3bae4c08c8df4594d2641dbb7421b6ab0a",
@@ -243,12 +249,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "fed54784addbc5e0de03ef5e70168f365ac3bbbe8f281b45dfe5c3c3359841590f",
-      "seqno": 12,
-      "payload_hash": "79de9feb754cd68afcfe0e0f6d6213c9ab756dcd67ef29d3cfa3c2a3d905ca3b"
+      "sig_id": "7822d1b93362acb118428ff8f8316538d197d6b05b4b1554ed668af943f87e4f0f",
+      "seqno": 14,
+      "payload_hash": "6bb65eee25295055a341c8f84c3916e24bdfd1dc523a8096bf171a3335eeb3a1"
     }
   },
   "devices": {
+    "06c9edcb2e023236226d07741992ed18": {
+      "type": "desktop",
+      "ctime": 1465434772,
+      "mtime": 1465434772,
+      "name": "laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120966842218fb978b3972eedae625e8b39cd936c8ae36dadd29469390daa7eadb60a",
+          "key_role": 1,
+          "sig_id": "0d98c81ca0c3716ec44153f2d05905830e3e6be287cba7c35bb0759e949439fc0f"
+        },
+        {
+          "kid": "0121b7f2721240c9850f60ef74fa5b385025111b5aeeee38c03a351362f9659cde4a0a",
+          "key_role": 2,
+          "sig_id": "7822d1b93362acb118428ff8f8316538d197d6b05b4b1554ed668af943f87e4f0f"
+        }
+      ]
+    },
     "08e3040deeb3864ab2a97723efacf218": {
       "type": "desktop",
       "ctime": 1453808049,
