@@ -4,9 +4,9 @@
     "username": "goern",
     "ctime": 1433311162,
     "mtime": 1433311162,
-    "id_version": 31,
+    "id_version": 35,
     "track_version": 10,
-    "last_id_change": 1457280023,
+    "last_id_change": 1466059557,
     "username_cased": "goern"
   },
   "profile": {
@@ -94,6 +94,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/goern",
+          "state": 1,
+          "proof_url": "https://coinbase.com/goern/public-key",
+          "sig_id": "26822e2827d5f842afba7161568175dd07a9d504f7c38b13cc3b6516f1b8bb2b0f",
+          "proof_id": "520c71fdf5c6f86a8b15e810",
+          "human_url": "https://coinbase.com/goern/public-key",
+          "service_url": "https://coinbase.com/goern",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
@@ -176,6 +190,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/goern",
+          "state": 1,
+          "proof_url": "https://coinbase.com/goern/public-key",
+          "sig_id": "26822e2827d5f842afba7161568175dd07a9d504f7c38b13cc3b6516f1b8bb2b0f",
+          "proof_id": "520c71fdf5c6f86a8b15e810",
+          "human_url": "https://coinbase.com/goern/public-key",
+          "service_url": "https://coinbase.com/goern",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "b4mad.net": [
         {
           "proof_type": "generic_web_site",
@@ -255,6 +283,18 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/goern",
+        "state": 1,
+        "proof_url": "https://coinbase.com/goern/public-key",
+        "sig_id": "26822e2827d5f842afba7161568175dd07a9d504f7c38b13cc3b6516f1b8bb2b0f",
+        "proof_id": "520c71fdf5c6f86a8b15e810",
+        "human_url": "https://coinbase.com/goern/public-key",
+        "service_url": "https://coinbase.com/goern",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "dns",
         "nametag": "b4mad.net",
         "state": 1,
@@ -304,7 +344,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "153r7FLxFGcALrHFGLfRfCARXdfSPKsgJ9",
+        "sig_id": "ec1deacfdc54c2f85ee4b6012db47bb6337403f30654dd2420d8af0f40ec44560f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/ede0ab6cd7bc2c017228319e19607405_360_360_square_360.jpeg",
@@ -315,9 +362,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "0b7da7fc975d6dc4d35848565d28ed35fb988304ec4ae3c80e568501336c0c3d0f",
-      "seqno": 22,
-      "payload_hash": "6073de8300f358122e422e546c6d5497259ab0773b476ea609a8a45de4ed7757"
+      "sig_id": "ec1deacfdc54c2f85ee4b6012db47bb6337403f30654dd2420d8af0f40ec44560f",
+      "seqno": 24,
+      "payload_hash": "0c0acbaf5d7fe415807774059965ea385d6f27b705308960e54b9eadd1facc3b"
     }
   },
   "devices": {
