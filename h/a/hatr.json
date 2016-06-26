@@ -4,16 +4,16 @@
     "username": "hatr",
     "ctime": 1408308841,
     "mtime": 1408308841,
-    "id_version": 18,
-    "track_version": 4,
-    "last_id_change": 1461593891,
+    "id_version": 19,
+    "track_version": 5,
+    "last_id_change": 1466342774,
     "username_cased": "hatr"
   },
   "profile": {
-    "mtime": 1408308884,
+    "mtime": 1466341983,
     "full_name": "Hakan Tanriverdi",
-    "location": "Munich",
-    "bio": "journalist, working at Süddeutsche.de."
+    "location": "Brooklyn",
+    "bio": "tech-reporter @sz"
   },
   "public_keys": {
     "primary": {
@@ -39,16 +39,20 @@
       "01214faad4b794849295c2b22acb103be6804e02299fa02b129c7520515099b8a03d0a",
       "01201ad4f40c882b0fad8a94d891a1e093fb7d9c5d40e4afb8ffcea5a5aad96181790a",
       "012090136e4cc0a9456225a76aa922f69f9dbd3ef55459bd0fe52d3e5c11a82d04060a",
-      "01216fe4bd54c41284a5739f3c8f723413ac9aca51a4e9c4a5c6071f79263b51b15e0a"
+      "01216fe4bd54c41284a5739f3c8f723413ac9aca51a4e9c4a5c6071f79263b51b15e0a",
+      "0120d8a75f28fad738fb0135e744392a80c20d9c0f78bfc950e75303deb66a4f2af70a",
+      "01216bc0a99d8a56e3e9fcbe91932496389b68c14d6cc42242bf0aa5c9d9452b18280a"
     ],
     "subkeys": [
       "01214faad4b794849295c2b22acb103be6804e02299fa02b129c7520515099b8a03d0a",
-      "01216fe4bd54c41284a5739f3c8f723413ac9aca51a4e9c4a5c6071f79263b51b15e0a"
+      "01216fe4bd54c41284a5739f3c8f723413ac9aca51a4e9c4a5c6071f79263b51b15e0a",
+      "01216bc0a99d8a56e3e9fcbe91932496389b68c14d6cc42242bf0aa5c9d9452b18280a"
     ],
     "sibkeys": [
       "010153f8b5583944758b259dfb6b7711d8e3ec55f381fc7ed592cee549d6419143ba0a",
       "01201ad4f40c882b0fad8a94d891a1e093fb7d9c5d40e4afb8ffcea5a5aad96181790a",
-      "012090136e4cc0a9456225a76aa922f69f9dbd3ef55459bd0fe52d3e5c11a82d04060a"
+      "012090136e4cc0a9456225a76aa922f69f9dbd3ef55459bd0fe52d3e5c11a82d04060a",
+      "0120d8a75f28fad738fb0135e744392a80c20d9c0f78bfc950e75303deb66a4f2af70a"
     ],
     "families": {
       "0101de43678692af10db06d644feff3bac326419015be4fcaeadc492330dff383e790a": [
@@ -59,7 +63,9 @@
         "01214faad4b794849295c2b22acb103be6804e02299fa02b129c7520515099b8a03d0a",
         "01201ad4f40c882b0fad8a94d891a1e093fb7d9c5d40e4afb8ffcea5a5aad96181790a",
         "012090136e4cc0a9456225a76aa922f69f9dbd3ef55459bd0fe52d3e5c11a82d04060a",
-        "01216fe4bd54c41284a5739f3c8f723413ac9aca51a4e9c4a5c6071f79263b51b15e0a"
+        "01216fe4bd54c41284a5739f3c8f723413ac9aca51a4e9c4a5c6071f79263b51b15e0a",
+        "0120d8a75f28fad738fb0135e744392a80c20d9c0f78bfc950e75303deb66a4f2af70a",
+        "01216bc0a99d8a56e3e9fcbe91932496389b68c14d6cc42242bf0aa5c9d9452b18280a"
       ]
     },
     "eldest_kid": "010153f8b5583944758b259dfb6b7711d8e3ec55f381fc7ed592cee549d6419143ba0a",
@@ -127,12 +133,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "afbf31d1c92c19d32c4322a8048c76fc253661fd7071c47770bdc84b4987b5260f",
-      "seqno": 13,
-      "payload_hash": "fe18b77a2c1fa98c97fbe5914acedc2d90210b5cbefb6eb6ed8c70968090f430"
+      "sig_id": "79a6616f377b54637bfc09503fa521dbba0ff3d6815b442c9927a9539b3eaa870f",
+      "seqno": 16,
+      "payload_hash": "453e4c2cf4005e25fabf88dc71234222cb57b468200725914fd6c9693572ec59"
     }
   },
   "devices": {
+    "6dc2b2823e7d9431efc3417994305118": {
+      "type": "desktop",
+      "ctime": 1466342774,
+      "mtime": 1466342774,
+      "name": "hatr089",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d8a75f28fad738fb0135e744392a80c20d9c0f78bfc950e75303deb66a4f2af70a",
+          "key_role": 1,
+          "sig_id": "7bf8c61792b2730ffb00ef00325fc827c08270bf7a1e5b0defca80637758c9540f"
+        },
+        {
+          "kid": "01216bc0a99d8a56e3e9fcbe91932496389b68c14d6cc42242bf0aa5c9d9452b18280a",
+          "key_role": 2,
+          "sig_id": "cd1d6fb8091609179c1bd39c6cd25ec0d1b109c698032eaa15bae1dfcb0044150f"
+        }
+      ]
+    },
     "866e390e0b9b508584f529bed1053518": {
       "type": "desktop",
       "ctime": 1454472572,
