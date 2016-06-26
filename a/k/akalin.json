@@ -4,9 +4,9 @@
     "username": "akalin",
     "ctime": 1409474928,
     "mtime": 1426628584,
-    "id_version": 136,
+    "id_version": 137,
     "track_version": 58,
-    "last_id_change": 1464571875,
+    "last_id_change": 1466912266,
     "username_cased": "akalin"
   },
   "profile": {
@@ -45,14 +45,17 @@
       "012156df71eb9143214de9ee5f90e125ccb711c3caf3959b6e339077a93d1ba0e12c0a",
       "0121c50f78131f8729d53fec4a5f2deaae53ec4806b5789142ac01fa8a154cf421260a",
       "01210ac9d81901d4ddf954f0fb0818b66f8cfc873c3a1d89e2eae8bcbe6493b1f9080a",
-      "01203caf3a11cd520c8d13b9ff5d832bf48cd46c69d6f781255a4b6d18cfb92e00b30a"
+      "01203caf3a11cd520c8d13b9ff5d832bf48cd46c69d6f781255a4b6d18cfb92e00b30a",
+      "0120a592fcf9e56262895501c8a03e0a18ecf4a7da03d28602431a52a09ca136a1be0a",
+      "0121a475702c8ba1275c662b2de50a2756a7a538bc7087c4872604d67c2bfed6c0790a"
     ],
     "subkeys": [
       "012118781edeaae9c613d53026a4ef920c6c8382a1c4fd40c3992a9c7970a70158310a",
       "01214d73b7d5b4e2004db395fdf67b8818f3ff4324dff1bc301689f806157b8eda5a0a",
       "012156df71eb9143214de9ee5f90e125ccb711c3caf3959b6e339077a93d1ba0e12c0a",
       "0121c50f78131f8729d53fec4a5f2deaae53ec4806b5789142ac01fa8a154cf421260a",
-      "01210ac9d81901d4ddf954f0fb0818b66f8cfc873c3a1d89e2eae8bcbe6493b1f9080a"
+      "01210ac9d81901d4ddf954f0fb0818b66f8cfc873c3a1d89e2eae8bcbe6493b1f9080a",
+      "0121a475702c8ba1275c662b2de50a2756a7a538bc7087c4872604d67c2bfed6c0790a"
     ],
     "sibkeys": [
       "0120bad63d4a9b7852b1c092dea088bef3000efa1e14c8d72bf077025f7ad0550b050a",
@@ -60,7 +63,8 @@
       "0101d9d3cab2c3bda4b695eedae218f3f2958b57a7be639cd032a671603c7e9df80f0a",
       "0120e4e787c11b5be6bc331d3882c91a35ec18cbdafa725a2d2a1aa5389ea89df5050a",
       "0120a838a0b5f94d34c704622528291267ea39af1114bb821a1d632b5cece967e8ef0a",
-      "01203caf3a11cd520c8d13b9ff5d832bf48cd46c69d6f781255a4b6d18cfb92e00b30a"
+      "01203caf3a11cd520c8d13b9ff5d832bf48cd46c69d6f781255a4b6d18cfb92e00b30a",
+      "0120a592fcf9e56262895501c8a03e0a18ecf4a7da03d28602431a52a09ca136a1be0a"
     ],
     "families": {
       "0101d9d3cab2c3bda4b695eedae218f3f2958b57a7be639cd032a671603c7e9df80f0a": [
@@ -75,7 +79,9 @@
         "012156df71eb9143214de9ee5f90e125ccb711c3caf3959b6e339077a93d1ba0e12c0a",
         "0121c50f78131f8729d53fec4a5f2deaae53ec4806b5789142ac01fa8a154cf421260a",
         "01210ac9d81901d4ddf954f0fb0818b66f8cfc873c3a1d89e2eae8bcbe6493b1f9080a",
-        "01203caf3a11cd520c8d13b9ff5d832bf48cd46c69d6f781255a4b6d18cfb92e00b30a"
+        "01203caf3a11cd520c8d13b9ff5d832bf48cd46c69d6f781255a4b6d18cfb92e00b30a",
+        "0120a592fcf9e56262895501c8a03e0a18ecf4a7da03d28602431a52a09ca136a1be0a",
+        "0121a475702c8ba1275c662b2de50a2756a7a538bc7087c4872604d67c2bfed6c0790a"
       ]
     },
     "eldest_kid": "0101d9d3cab2c3bda4b695eedae218f3f2958b57a7be639cd032a671603c7e9df80f0a",
@@ -415,12 +421,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "632b154bd06864481b8177d4a1c85f86c6845bf328e76c00fbd8ad69598871de0f",
-      "seqno": 89,
-      "payload_hash": "a5ca24d50c6dd6e93a90f228013bd23f7c336ee3ce25a0b34bdae85b6ce4f954"
+      "sig_id": "c67857aedaa2d377c883d1fa8820dc7e82f1b692d7062971cbab79185e7dc3ff0f",
+      "seqno": 91,
+      "payload_hash": "de60a9ad829c0a294160493692a8bea57c31511d1794c8db52f83fb1b23f2885"
     }
   },
   "devices": {
+    "0119afdb409b956930d45c2c73f89318": {
+      "type": "desktop",
+      "ctime": 1466912266,
+      "mtime": 1466912266,
+      "name": "nuc",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a592fcf9e56262895501c8a03e0a18ecf4a7da03d28602431a52a09ca136a1be0a",
+          "key_role": 1,
+          "sig_id": "5532324c685a398a3208b4756d0ace7506b0b7173721b9a8aa485431e7421c4f0f"
+        },
+        {
+          "kid": "0121a475702c8ba1275c662b2de50a2756a7a538bc7087c4872604d67c2bfed6c0790a",
+          "key_role": 2,
+          "sig_id": "c67857aedaa2d377c883d1fa8820dc7e82f1b692d7062971cbab79185e7dc3ff0f"
+        }
+      ]
+    },
     "1058b41ceb94ae65e2c07864b773f118": {
       "type": "desktop",
       "ctime": 1445894110,
