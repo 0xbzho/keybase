@@ -4,9 +4,9 @@
     "username": "karganys",
     "ctime": 1405502272,
     "mtime": 1405502272,
-    "id_version": 98,
+    "id_version": 99,
     "track_version": 4,
-    "last_id_change": 1464102858,
+    "last_id_change": 1466867565,
     "username_cased": "karganys"
   },
   "profile": {
@@ -46,7 +46,9 @@
       "01216a68d54948d01cfa952765fe4a70ff5918b13a75b094379889cdb2d70855876a0a",
       "012085b10cea3e78ad0dc06fade0eeef41bfa394d76105bb906c42fb6c16ab8cbb7e0a",
       "012060ffd59d100d7251b545319e4758b1723145dbf6ff9e1c7ac8abe41a1880b3dd0a",
-      "0121d356e4e36e7d83fc58513411732d8050874c0754ec7c0f7fcdb52b316f2fde6f0a"
+      "0121d356e4e36e7d83fc58513411732d8050874c0754ec7c0f7fcdb52b316f2fde6f0a",
+      "012045b31b091716e4f874f3149d9cf9977c3ffbd5a6d9993927ab31ac3f994a01ca0a",
+      "0121e7b4e20ea3525f847e5c6a4432d4403e92760153249fbb27e52e4cc7b304d51a0a"
     ],
     "subkeys": [
       "012128d9e97fe9010d5803fb115e1031ad957fb28335f290613dfe8517a13bbdcb530a",
@@ -54,7 +56,8 @@
       "01217be8cc57ddcc3347c951d1abff5f0bb549c9057bc0ed24b8cb4b6faeacf46b7f0a",
       "0121afadf5722ed2bfa9b2b0f6fa04203e0c23fd12f171cbb959f7b43d9ae26b8c270a",
       "01216a68d54948d01cfa952765fe4a70ff5918b13a75b094379889cdb2d70855876a0a",
-      "0121d356e4e36e7d83fc58513411732d8050874c0754ec7c0f7fcdb52b316f2fde6f0a"
+      "0121d356e4e36e7d83fc58513411732d8050874c0754ec7c0f7fcdb52b316f2fde6f0a",
+      "0121e7b4e20ea3525f847e5c6a4432d4403e92760153249fbb27e52e4cc7b304d51a0a"
     ],
     "sibkeys": [
       "01017c2310d12a7c2a6de1d601e35b0bead69c6ebff5b6df4990b37ee901d322c5650a",
@@ -63,7 +66,8 @@
       "012067a628d490bcb0bffc76c387b30312da69c60896bed2816e43eb2a28a977c77f0a",
       "012058e70bd457a023f730b906f0acabb67188022a51a87894cdd3477a87a632385e0a",
       "012085b10cea3e78ad0dc06fade0eeef41bfa394d76105bb906c42fb6c16ab8cbb7e0a",
-      "012060ffd59d100d7251b545319e4758b1723145dbf6ff9e1c7ac8abe41a1880b3dd0a"
+      "012060ffd59d100d7251b545319e4758b1723145dbf6ff9e1c7ac8abe41a1880b3dd0a",
+      "012045b31b091716e4f874f3149d9cf9977c3ffbd5a6d9993927ab31ac3f994a01ca0a"
     ],
     "families": {
       "01017c2310d12a7c2a6de1d601e35b0bead69c6ebff5b6df4990b37ee901d322c5650a": [
@@ -79,7 +83,9 @@
         "01216a68d54948d01cfa952765fe4a70ff5918b13a75b094379889cdb2d70855876a0a",
         "012085b10cea3e78ad0dc06fade0eeef41bfa394d76105bb906c42fb6c16ab8cbb7e0a",
         "012060ffd59d100d7251b545319e4758b1723145dbf6ff9e1c7ac8abe41a1880b3dd0a",
-        "0121d356e4e36e7d83fc58513411732d8050874c0754ec7c0f7fcdb52b316f2fde6f0a"
+        "0121d356e4e36e7d83fc58513411732d8050874c0754ec7c0f7fcdb52b316f2fde6f0a",
+        "012045b31b091716e4f874f3149d9cf9977c3ffbd5a6d9993927ab31ac3f994a01ca0a",
+        "0121e7b4e20ea3525f847e5c6a4432d4403e92760153249fbb27e52e4cc7b304d51a0a"
       ]
     },
     "eldest_kid": "01017c2310d12a7c2a6de1d601e35b0bead69c6ebff5b6df4990b37ee901d322c5650a",
@@ -272,12 +278,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "68b45c01fd4dfd7734129d01c939c840fef2cac08c2db4d45e87a77aa1db60ad0f",
-      "seqno": 25,
-      "payload_hash": "b8cc0289566ccc8daf3c6a8e1c541003adaaddd018e0247d3521467953bef960"
+      "sig_id": "1315ff0e1f4898e03d28f29a7e105551b3a12cf2e516c4975f86eea72a34fd450f",
+      "seqno": 27,
+      "payload_hash": "a155f9847460e31b3a105254e9cd205ea4efee0075bbe1e43d742238a30bcb98"
     }
   },
   "devices": {
+    "2190df020f383fd98c7cc51f01fdb318": {
+      "type": "desktop",
+      "ctime": 1466867565,
+      "mtime": 1466867565,
+      "name": "Laptop KingArthur Linux",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012045b31b091716e4f874f3149d9cf9977c3ffbd5a6d9993927ab31ac3f994a01ca0a",
+          "key_role": 1,
+          "sig_id": "c76c91805760c52361227310197dd69321b7a34dadb55c55868c8125aa1d196c0f"
+        },
+        {
+          "kid": "0121e7b4e20ea3525f847e5c6a4432d4403e92760153249fbb27e52e4cc7b304d51a0a",
+          "key_role": 2,
+          "sig_id": "1315ff0e1f4898e03d28f29a7e105551b3a12cf2e516c4975f86eea72a34fd450f"
+        }
+      ]
+    },
     "6e63da146dc35447991a9befe7866418": {
       "type": "backup",
       "ctime": 1459949977,
