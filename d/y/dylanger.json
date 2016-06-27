@@ -4,16 +4,16 @@
     "username": "dylanger",
     "ctime": 1463493179,
     "mtime": 1463493179,
-    "id_version": 24,
-    "track_version": 3,
-    "last_id_change": 1464055193,
+    "id_version": 27,
+    "track_version": 6,
+    "last_id_change": 1466999498,
     "username_cased": "dylanger"
   },
   "profile": {
-    "mtime": 1463493561,
+    "mtime": 1465902280,
     "full_name": "Dylanger Daly",
     "location": "Sydney AU",
-    "bio": "If its Security, I'm there. I mainly work in the Security Research Field, most of my focus is Mobile Security, anything from the hardware to TrustZone to the Modem."
+    "bio": "If its Security, I'm there. I mainly work in the Security Research Field, most of my focus is Mobile Security, anything from the hardware to TrustZone to the Modem. Bypassing checks one NOP at a time."
   },
   "public_keys": {
     "primary": {
@@ -51,14 +51,12 @@
     "subkeys": [
       "012189c55509d7e7a39bf35361481afd84de050c5f41a560d15d692ed91637cb5f7d0a",
       "01218cb8a1b63438086da29113953341d81576e723350fc8644a43e6e2eaf454040e0a",
-      "0121d191e2736e969bfc7a132a60995fc937b261cec2840c46042bdba7081ea274040a",
       "0121e2e94f9eb459e560e164032e91961ebf69f480f1b55f1bc964f7b994ec0abe350a"
     ],
     "sibkeys": [
       "0101394b5c01561c122674ad1b62aaefbf62d12d06b4907a20ccde89c0d83de144af0a",
       "01209e7d4962e7ec03bb57e23206d13827f086be091c1e4c5d6cc654d35d4132cb570a",
       "012074e5c6f8c1873ce06ee72b6c7ce592f73b7119216d970c0301f42a76585c00ed0a",
-      "0120a6b15b05db332ccc48324da775626262e34daad82e8059b32e168b9f562c44690a",
       "0120977917672e232d6e35f267423cc7a8d7439b3ee56e362e47c035085bd3813a630a"
     ],
     "families": {
@@ -141,6 +139,20 @@
           "presentation_group": "onedefence.com",
           "presentation_tag": "https"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "dylanger.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/dylanger/sigchain#0a8cdea8ec946f81628d5c630b3c4fdb60a6f0967a937d529190116999772d400f",
+          "sig_id": "0a8cdea8ec946f81628d5c630b3c4fdb60a6f0967a937d529190116999772d400f",
+          "proof_id": "d74d7f4fbb3e74dece026710",
+          "human_url": "dns://dylanger.me",
+          "service_url": "http://dylanger.me",
+          "presentation_group": "dylanger.me",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -199,6 +211,20 @@
           "presentation_group": "onedefence.com",
           "presentation_tag": "https"
         }
+      ],
+      "dylanger.me": [
+        {
+          "proof_type": "dns",
+          "nametag": "dylanger.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/dylanger/sigchain#0a8cdea8ec946f81628d5c630b3c4fdb60a6f0967a937d529190116999772d400f",
+          "sig_id": "0a8cdea8ec946f81628d5c630b3c4fdb60a6f0967a937d529190116999772d400f",
+          "proof_id": "d74d7f4fbb3e74dece026710",
+          "human_url": "dns://dylanger.me",
+          "service_url": "http://dylanger.me",
+          "presentation_group": "dylanger.me",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -239,6 +265,18 @@
         "presentation_tag": "post"
       },
       {
+        "proof_type": "dns",
+        "nametag": "dylanger.me",
+        "state": 1,
+        "proof_url": "https://keybase.io/dylanger/sigchain#0a8cdea8ec946f81628d5c630b3c4fdb60a6f0967a937d529190116999772d400f",
+        "sig_id": "0a8cdea8ec946f81628d5c630b3c4fdb60a6f0967a937d529190116999772d400f",
+        "proof_id": "d74d7f4fbb3e74dece026710",
+        "human_url": "dns://dylanger.me",
+        "service_url": "http://dylanger.me",
+        "presentation_group": "dylanger.me",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "onedefence.com",
         "state": 1,
@@ -270,31 +308,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "994324ff34ba8e7af69a06fe8439ef9edf6480322b5af9a00ebcfbb730d60b900f",
-      "seqno": 26,
-      "payload_hash": "1da08be2248f0a1d87d401c55807328d520bcb49b5164b0199c7b009fb92a1e9"
+      "sig_id": "0a8cdea8ec946f81628d5c630b3c4fdb60a6f0967a937d529190116999772d400f",
+      "seqno": 31,
+      "payload_hash": "a86f63074d789de70323eb143fdbe27f59ef14268af93a179c54f169545c2020"
     }
   },
   "devices": {
-    "41d5543b8278207bcc640588d7d4d718": {
-      "type": "desktop",
-      "ctime": 1463629542,
-      "mtime": 1463629542,
-      "name": "Dylanger's Win10 VM",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120a6b15b05db332ccc48324da775626262e34daad82e8059b32e168b9f562c44690a",
-          "key_role": 1,
-          "sig_id": "b344b25deb243946ed2a73fd235885ece807a2082ba9539809daa22939363e700f"
-        },
-        {
-          "kid": "0121d191e2736e969bfc7a132a60995fc937b261cec2840c46042bdba7081ea274040a",
-          "key_role": 2,
-          "sig_id": "6578a848069e56f6c8465d2e0eadeff79dc6c07440b5eb14177545b07b4b692c0f"
-        }
-      ]
-    },
     "459ecd16bda664bfac72d4f8edc60918": {
       "type": "desktop",
       "ctime": 1464055193,
