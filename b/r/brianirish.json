@@ -4,16 +4,16 @@
     "username": "brianirish",
     "ctime": 1412884220,
     "mtime": 1412884220,
-    "id_version": 13,
+    "id_version": 14,
     "track_version": 14,
-    "last_id_change": 1454686043,
+    "last_id_change": 1467051907,
     "username_cased": "brianirish"
   },
   "profile": {
-    "mtime": 1437052602,
+    "mtime": 1467052183,
     "full_name": "Brian Irish",
     "location": "Toronto, ON",
-    "bio": "A person. To be more specific, a living person."
+    "bio": "I code things."
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,18 @@
       "01213a067b2b48fcfe7265a641b67467cb89c0afd7a73b958e9bbb6da4f6c5f6db700a",
       "01206c8d695522b2f00b2f8af469ade48781c30056d18aedd958bcea9fffd781598d0a",
       "01201d009379a4ce9049f4ebc77a1955ef54d7a888e4ece9c2175178916a2715549b0a",
-      "01218a598a9fab6a8cd11605a60d5eab139dacb026310fe99b600c529a829624af310a"
+      "01218a598a9fab6a8cd11605a60d5eab139dacb026310fe99b600c529a829624af310a",
+      "012075305042f289d506e87d0cc79981521cb16f33f44373d6b28625fb30ed43a16c0a",
+      "0121fa4ed7b2ce88a71cf34259d280809fa83a459d519e4b875a0eb733f97c1124270a"
     ],
     "subkeys": [
-      "01213a067b2b48fcfe7265a641b67467cb89c0afd7a73b958e9bbb6da4f6c5f6db700a",
-      "01218a598a9fab6a8cd11605a60d5eab139dacb026310fe99b600c529a829624af310a"
+      "01218a598a9fab6a8cd11605a60d5eab139dacb026310fe99b600c529a829624af310a",
+      "0121fa4ed7b2ce88a71cf34259d280809fa83a459d519e4b875a0eb733f97c1124270a"
     ],
     "sibkeys": [
       "01010fff6b2d18240ece67be94f3423a23899e94be902262da15da284a838d90dbf70a",
-      "01206c8d695522b2f00b2f8af469ade48781c30056d18aedd958bcea9fffd781598d0a",
-      "01201d009379a4ce9049f4ebc77a1955ef54d7a888e4ece9c2175178916a2715549b0a"
+      "01201d009379a4ce9049f4ebc77a1955ef54d7a888e4ece9c2175178916a2715549b0a",
+      "012075305042f289d506e87d0cc79981521cb16f33f44373d6b28625fb30ed43a16c0a"
     ],
     "families": {
       "01010fff6b2d18240ece67be94f3423a23899e94be902262da15da284a838d90dbf70a": [
@@ -55,7 +57,9 @@
         "01213a067b2b48fcfe7265a641b67467cb89c0afd7a73b958e9bbb6da4f6c5f6db700a",
         "01206c8d695522b2f00b2f8af469ade48781c30056d18aedd958bcea9fffd781598d0a",
         "01201d009379a4ce9049f4ebc77a1955ef54d7a888e4ece9c2175178916a2715549b0a",
-        "01218a598a9fab6a8cd11605a60d5eab139dacb026310fe99b600c529a829624af310a"
+        "01218a598a9fab6a8cd11605a60d5eab139dacb026310fe99b600c529a829624af310a",
+        "012075305042f289d506e87d0cc79981521cb16f33f44373d6b28625fb30ed43a16c0a",
+        "0121fa4ed7b2ce88a71cf34259d280809fa83a459d519e4b875a0eb733f97c1124270a"
       ]
     },
     "eldest_kid": "01010fff6b2d18240ece67be94f3423a23899e94be902262da15da284a838d90dbf70a",
@@ -163,12 +167,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d6e7458f27838e9626d2272b2152525d403a41fa7b3967b726751499a847c2fd0f",
-      "seqno": 27,
-      "payload_hash": "bdc6aeaeb57b38bc09bbd1cf5b8aa6cd536f608f7f8d4722ebd8b6dbea1df4a1"
+      "sig_id": "918378bdbc1eec2c056af06aa53655eba5efbb6a4bd7f680aa77bcc82684d77c0f",
+      "seqno": 30,
+      "payload_hash": "60d0bffddec45038d8b07ea4d0e1fd39789041a0fdbb44d01d68f8e1092532e6"
     }
   },
   "devices": {
+    "64b7137904b1b14509df1750048db518": {
+      "type": "desktop",
+      "ctime": 1467051907,
+      "mtime": 1467051907,
+      "name": "MacbookPro-Fanx",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012075305042f289d506e87d0cc79981521cb16f33f44373d6b28625fb30ed43a16c0a",
+          "key_role": 1,
+          "sig_id": "746ba0ac454a2c7996f089a0252c2b16f31e32980bdbb8894c0169b1eb746f380f"
+        },
+        {
+          "kid": "0121fa4ed7b2ce88a71cf34259d280809fa83a459d519e4b875a0eb733f97c1124270a",
+          "key_role": 2,
+          "sig_id": "f551252f352382fb60bb12cbe6abff8401b75b5eac4886b6bf2fb24aad877a590f"
+        }
+      ]
+    },
     "781d8ec023c41bb5d0fa9dbf75b91318": {
       "type": "backup",
       "ctime": 1454686043,
@@ -185,25 +208,6 @@
           "kid": "01218a598a9fab6a8cd11605a60d5eab139dacb026310fe99b600c529a829624af310a",
           "key_role": 2,
           "sig_id": "0a8c538e6871cefe1b80788602d3a867afcab9696c0b99aceb53610b4504d16a0f"
-        }
-      ]
-    },
-    "c1d129fd73fa68ed792377d82925aa18": {
-      "type": "desktop",
-      "ctime": 1454686042,
-      "mtime": 1454686042,
-      "name": "MacbookPro",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01206c8d695522b2f00b2f8af469ade48781c30056d18aedd958bcea9fffd781598d0a",
-          "key_role": 1,
-          "sig_id": "6d36cffa27857c45896dffc67f00c38133016a775d6453758ff6d3ee2cc2cae70f"
-        },
-        {
-          "kid": "01213a067b2b48fcfe7265a641b67467cb89c0afd7a73b958e9bbb6da4f6c5f6db700a",
-          "key_role": 2,
-          "sig_id": "e63616fee4e4b182de2a5c956642415323824a427665ad0413d6e083fcb37f9d0f"
         }
       ]
     }
