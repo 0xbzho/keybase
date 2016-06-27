@@ -4,9 +4,9 @@
     "username": "smeisburger",
     "ctime": 1463770742,
     "mtime": 1463770742,
-    "id_version": 1,
-    "track_version": 0,
-    "last_id_change": 1463770947,
+    "id_version": 9,
+    "track_version": 1,
+    "last_id_change": 1464207287,
     "username_cased": "smeisburger"
   },
   "public_keys": {
@@ -46,16 +46,107 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "protonpopsicle",
+          "state": 1,
+          "proof_url": "https://twitter.com/protonpopsicle/status/735564452519677953",
+          "sig_id": "9d9826e1463cdb0262301bf52aa3fdd1ce915f7ec4f3e46262a617956952dc830f",
+          "proof_id": "f6ba9edc9992c922fe728e10",
+          "human_url": "https://twitter.com/protonpopsicle/status/735564452519677953",
+          "service_url": "https://twitter.com/protonpopsicle",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "protonpopsicle",
+          "state": 1,
+          "proof_url": "https://gist.github.com/7ea8511363f50c0eecc206c4a6bdb7d1",
+          "sig_id": "47cfea298d32dfda1f77194f0fc9fbeb1771eff26d3378e5eb0778f1929f4acc0f",
+          "proof_id": "9f75501e06f6b08b10b2b710",
+          "human_url": "https://gist.github.com/7ea8511363f50c0eecc206c4a6bdb7d1",
+          "service_url": "https://github.com/protonpopsicle",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "protonpopsicle",
+          "state": 1,
+          "proof_url": "https://twitter.com/protonpopsicle/status/735564452519677953",
+          "sig_id": "9d9826e1463cdb0262301bf52aa3fdd1ce915f7ec4f3e46262a617956952dc830f",
+          "proof_id": "f6ba9edc9992c922fe728e10",
+          "human_url": "https://twitter.com/protonpopsicle/status/735564452519677953",
+          "service_url": "https://twitter.com/protonpopsicle",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "protonpopsicle",
+          "state": 1,
+          "proof_url": "https://gist.github.com/7ea8511363f50c0eecc206c4a6bdb7d1",
+          "sig_id": "47cfea298d32dfda1f77194f0fc9fbeb1771eff26d3378e5eb0778f1929f4acc0f",
+          "proof_id": "9f75501e06f6b08b10b2b710",
+          "human_url": "https://gist.github.com/7ea8511363f50c0eecc206c4a6bdb7d1",
+          "service_url": "https://github.com/protonpopsicle",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "protonpopsicle",
+        "state": 1,
+        "proof_url": "https://twitter.com/protonpopsicle/status/735564452519677953",
+        "sig_id": "9d9826e1463cdb0262301bf52aa3fdd1ce915f7ec4f3e46262a617956952dc830f",
+        "proof_id": "f6ba9edc9992c922fe728e10",
+        "human_url": "https://twitter.com/protonpopsicle/status/735564452519677953",
+        "service_url": "https://twitter.com/protonpopsicle",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
+      {
+        "proof_type": "github",
+        "nametag": "protonpopsicle",
+        "state": 1,
+        "proof_url": "https://gist.github.com/7ea8511363f50c0eecc206c4a6bdb7d1",
+        "sig_id": "47cfea298d32dfda1f77194f0fc9fbeb1771eff26d3378e5eb0778f1929f4acc0f",
+        "proof_id": "9f75501e06f6b08b10b2b710",
+        "human_url": "https://gist.github.com/7ea8511363f50c0eecc206c4a6bdb7d1",
+        "service_url": "https://github.com/protonpopsicle",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      }
+    ]
   },
   "cryptocurrency_addresses": {},
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/29073ea8c399523a903b72b469e18705_360_360_square_360.jpeg",
+      "width": 360,
+      "height": 360,
+      "source": "twitter"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "39101aa63df8410a036beda7cfe5098d906a4f89710c748f54ebc3fed5ac9b020f",
-      "seqno": 1,
-      "payload_hash": "3bf60faf6de110a9d38a2196f510423089128dd955dfc8c458e9065598c932b5"
+      "sig_id": "23ff7bacbe8c9e0e4ec95726c95d7ed42dccbc2eff219070c9a5dc12e37398fb0f",
+      "seqno": 6,
+      "payload_hash": "65b8b173c81f9e339de185e7d26baa2d98158e05efb5d99f4e762e74a2578f13"
     }
   },
   "devices": {}
