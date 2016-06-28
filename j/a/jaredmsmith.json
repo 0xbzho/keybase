@@ -4,16 +4,16 @@
     "username": "jaredmsmith",
     "ctime": 1459358635,
     "mtime": 1459358635,
-    "id_version": 24,
-    "track_version": 8,
-    "last_id_change": 1460480650,
+    "id_version": 40,
+    "track_version": 9,
+    "last_id_change": 1466130031,
     "username_cased": "jaredmsmith"
   },
   "profile": {
-    "mtime": 1459359549,
+    "mtime": 1465586843,
     "full_name": "Jared Michael Smith",
     "location": "Knoxville, TN",
-    "bio": "Security Researcher at Oak Ridge National Lab, Co-Founder and President of HackUTK, Machine Learning Enthusiast, Pythonista, Hiker"
+    "bio": "Security Researcher at Oak Ridge National Lab, Machine Learning Enthusiast, Pythonista, Hiker"
   },
   "public_keys": {
     "primary": {
@@ -97,14 +97,28 @@
       "reddit": [
         {
           "proof_type": "reddit",
-          "nametag": "scubasteve225",
+          "nametag": "jaredthecoder",
           "state": 1,
-          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4cm08u/my_keybase_proof_redditscubasteve225/",
-          "sig_id": "5a57f72a22022e98a557ed1505df2d23cbeb82734b2798492af021a455cac4590f",
-          "proof_id": "ead020caa6cbf77bd6921b10",
-          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4cm08u/my_keybase_proof_redditscubasteve225/",
-          "service_url": "https://reddit.com/user/scubasteve225",
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4nhzom/my_keybase_proof_redditjaredthecoder/",
+          "sig_id": "7cc16c304dfc41b1ce796f1d36adb98463f36b1f5072ba4a7da4aa80cafecd300f",
+          "proof_id": "11b9c974289a179a5c7be610",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4nhzom/my_keybase_proof_redditjaredthecoder/",
+          "service_url": "https://reddit.com/user/jaredthecoder",
           "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/jaredthecoder",
+          "state": 1,
+          "proof_url": "https://coinbase.com/jaredthecoder/public-key",
+          "sig_id": "3fab9fbdefb0ad8f3ded7629323d27c3587bce61326d8d4c7a6d51c9b12d73eb0f",
+          "proof_id": "fc8440be3caece3eb1639c10",
+          "human_url": "https://coinbase.com/jaredthecoder/public-key",
+          "service_url": "https://coinbase.com/jaredthecoder",
+          "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
       ],
@@ -119,6 +133,54 @@
           "human_url": "dns://hackutk.com",
           "service_url": "http://hackutk.com",
           "presentation_group": "hackutk.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "jaredmichaelsmith.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaredmsmith/sigchain#ab338d398bdc41498f0e14b03804e5860ad48381b8a613d9e08b4a963a5bc3200f",
+          "sig_id": "ab338d398bdc41498f0e14b03804e5860ad48381b8a613d9e08b4a963a5bc3200f",
+          "proof_id": "ecc6986517e852df18d64910",
+          "human_url": "dns://jaredmichaelsmith.com",
+          "service_url": "http://jaredmichaelsmith.com",
+          "presentation_group": "jaredmichaelsmith.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "jaredsmith.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaredmsmith/sigchain#abf25e8994fe72d23575617c3734b76ca90e32921256d9ab24b48de9266854ca0f",
+          "sig_id": "abf25e8994fe72d23575617c3734b76ca90e32921256d9ab24b48de9266854ca0f",
+          "proof_id": "e419c8fc1bdc2dd21b711610",
+          "human_url": "dns://jaredsmith.io",
+          "service_url": "http://jaredsmith.io",
+          "presentation_group": "jaredsmith.io",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "volhacks.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaredmsmith/sigchain#5d96eeaf6f0cdb90efe6477b724653a9f1da3f085a2f17e5ee3d40b54ce9a6510f",
+          "sig_id": "5d96eeaf6f0cdb90efe6477b724653a9f1da3f085a2f17e5ee3d40b54ce9a6510f",
+          "proof_id": "a9e2576f38d3abe98e75cc10",
+          "human_url": "dns://volhacks.com",
+          "service_url": "http://volhacks.com",
+          "presentation_group": "volhacks.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "volhacks.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaredmsmith/sigchain#80bfd7a8db983171e452f2a350e7b136c82996c8dfaaf7206508f8deafcc299d0f",
+          "sig_id": "80bfd7a8db983171e452f2a350e7b136c82996c8dfaaf7206508f8deafcc299d0f",
+          "proof_id": "c97abbd74c07c9985a0e7910",
+          "human_url": "dns://volhacks.org",
+          "service_url": "http://volhacks.org",
+          "presentation_group": "volhacks.org",
           "presentation_tag": "dns"
         }
       ]
@@ -155,14 +217,28 @@
       "reddit": [
         {
           "proof_type": "reddit",
-          "nametag": "scubasteve225",
+          "nametag": "jaredthecoder",
           "state": 1,
-          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4cm08u/my_keybase_proof_redditscubasteve225/",
-          "sig_id": "5a57f72a22022e98a557ed1505df2d23cbeb82734b2798492af021a455cac4590f",
-          "proof_id": "ead020caa6cbf77bd6921b10",
-          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4cm08u/my_keybase_proof_redditscubasteve225/",
-          "service_url": "https://reddit.com/user/scubasteve225",
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4nhzom/my_keybase_proof_redditjaredthecoder/",
+          "sig_id": "7cc16c304dfc41b1ce796f1d36adb98463f36b1f5072ba4a7da4aa80cafecd300f",
+          "proof_id": "11b9c974289a179a5c7be610",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4nhzom/my_keybase_proof_redditjaredthecoder/",
+          "service_url": "https://reddit.com/user/jaredthecoder",
           "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/jaredthecoder",
+          "state": 1,
+          "proof_url": "https://coinbase.com/jaredthecoder/public-key",
+          "sig_id": "3fab9fbdefb0ad8f3ded7629323d27c3587bce61326d8d4c7a6d51c9b12d73eb0f",
+          "proof_id": "fc8440be3caece3eb1639c10",
+          "human_url": "https://coinbase.com/jaredthecoder/public-key",
+          "service_url": "https://coinbase.com/jaredthecoder",
+          "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
       ],
@@ -177,6 +253,62 @@
           "human_url": "dns://hackutk.com",
           "service_url": "http://hackutk.com",
           "presentation_group": "hackutk.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "jaredmichaelsmith.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "jaredmichaelsmith.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaredmsmith/sigchain#ab338d398bdc41498f0e14b03804e5860ad48381b8a613d9e08b4a963a5bc3200f",
+          "sig_id": "ab338d398bdc41498f0e14b03804e5860ad48381b8a613d9e08b4a963a5bc3200f",
+          "proof_id": "ecc6986517e852df18d64910",
+          "human_url": "dns://jaredmichaelsmith.com",
+          "service_url": "http://jaredmichaelsmith.com",
+          "presentation_group": "jaredmichaelsmith.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "jaredsmith.io": [
+        {
+          "proof_type": "dns",
+          "nametag": "jaredsmith.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaredmsmith/sigchain#abf25e8994fe72d23575617c3734b76ca90e32921256d9ab24b48de9266854ca0f",
+          "sig_id": "abf25e8994fe72d23575617c3734b76ca90e32921256d9ab24b48de9266854ca0f",
+          "proof_id": "e419c8fc1bdc2dd21b711610",
+          "human_url": "dns://jaredsmith.io",
+          "service_url": "http://jaredsmith.io",
+          "presentation_group": "jaredsmith.io",
+          "presentation_tag": "dns"
+        }
+      ],
+      "volhacks.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "volhacks.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaredmsmith/sigchain#5d96eeaf6f0cdb90efe6477b724653a9f1da3f085a2f17e5ee3d40b54ce9a6510f",
+          "sig_id": "5d96eeaf6f0cdb90efe6477b724653a9f1da3f085a2f17e5ee3d40b54ce9a6510f",
+          "proof_id": "a9e2576f38d3abe98e75cc10",
+          "human_url": "dns://volhacks.com",
+          "service_url": "http://volhacks.com",
+          "presentation_group": "volhacks.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "volhacks.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "volhacks.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaredmsmith/sigchain#80bfd7a8db983171e452f2a350e7b136c82996c8dfaaf7206508f8deafcc299d0f",
+          "sig_id": "80bfd7a8db983171e452f2a350e7b136c82996c8dfaaf7206508f8deafcc299d0f",
+          "proof_id": "c97abbd74c07c9985a0e7910",
+          "human_url": "dns://volhacks.org",
+          "service_url": "http://volhacks.org",
+          "presentation_group": "volhacks.org",
           "presentation_tag": "dns"
         }
       ]
@@ -208,14 +340,26 @@
       },
       {
         "proof_type": "reddit",
-        "nametag": "scubasteve225",
+        "nametag": "jaredthecoder",
         "state": 1,
-        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4cm08u/my_keybase_proof_redditscubasteve225/",
-        "sig_id": "5a57f72a22022e98a557ed1505df2d23cbeb82734b2798492af021a455cac4590f",
-        "proof_id": "ead020caa6cbf77bd6921b10",
-        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4cm08u/my_keybase_proof_redditscubasteve225/",
-        "service_url": "https://reddit.com/user/scubasteve225",
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4nhzom/my_keybase_proof_redditjaredthecoder/",
+        "sig_id": "7cc16c304dfc41b1ce796f1d36adb98463f36b1f5072ba4a7da4aa80cafecd300f",
+        "proof_id": "11b9c974289a179a5c7be610",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4nhzom/my_keybase_proof_redditjaredthecoder/",
+        "service_url": "https://reddit.com/user/jaredthecoder",
         "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/jaredthecoder",
+        "state": 1,
+        "proof_url": "https://coinbase.com/jaredthecoder/public-key",
+        "sig_id": "3fab9fbdefb0ad8f3ded7629323d27c3587bce61326d8d4c7a6d51c9b12d73eb0f",
+        "proof_id": "fc8440be3caece3eb1639c10",
+        "human_url": "https://coinbase.com/jaredthecoder/public-key",
+        "service_url": "https://coinbase.com/jaredthecoder",
+        "presentation_group": "coinbase",
         "presentation_tag": "post"
       },
       {
@@ -229,23 +373,78 @@
         "service_url": "http://hackutk.com",
         "presentation_group": "hackutk.com",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "jaredmichaelsmith.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/jaredmsmith/sigchain#ab338d398bdc41498f0e14b03804e5860ad48381b8a613d9e08b4a963a5bc3200f",
+        "sig_id": "ab338d398bdc41498f0e14b03804e5860ad48381b8a613d9e08b4a963a5bc3200f",
+        "proof_id": "ecc6986517e852df18d64910",
+        "human_url": "dns://jaredmichaelsmith.com",
+        "service_url": "http://jaredmichaelsmith.com",
+        "presentation_group": "jaredmichaelsmith.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "jaredsmith.io",
+        "state": 1,
+        "proof_url": "https://keybase.io/jaredmsmith/sigchain#abf25e8994fe72d23575617c3734b76ca90e32921256d9ab24b48de9266854ca0f",
+        "sig_id": "abf25e8994fe72d23575617c3734b76ca90e32921256d9ab24b48de9266854ca0f",
+        "proof_id": "e419c8fc1bdc2dd21b711610",
+        "human_url": "dns://jaredsmith.io",
+        "service_url": "http://jaredsmith.io",
+        "presentation_group": "jaredsmith.io",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "volhacks.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/jaredmsmith/sigchain#5d96eeaf6f0cdb90efe6477b724653a9f1da3f085a2f17e5ee3d40b54ce9a6510f",
+        "sig_id": "5d96eeaf6f0cdb90efe6477b724653a9f1da3f085a2f17e5ee3d40b54ce9a6510f",
+        "proof_id": "a9e2576f38d3abe98e75cc10",
+        "human_url": "dns://volhacks.com",
+        "service_url": "http://volhacks.com",
+        "presentation_group": "volhacks.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "volhacks.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/jaredmsmith/sigchain#80bfd7a8db983171e452f2a350e7b136c82996c8dfaaf7206508f8deafcc299d0f",
+        "sig_id": "80bfd7a8db983171e452f2a350e7b136c82996c8dfaaf7206508f8deafcc299d0f",
+        "proof_id": "c97abbd74c07c9985a0e7910",
+        "human_url": "dns://volhacks.org",
+        "service_url": "http://volhacks.org",
+        "presentation_group": "volhacks.org",
+        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1B4CNEsSNFcEjzCXxo7gmJ85Zc8oXpmuwo",
+        "sig_id": "af7b3efc0566d1a09fa49c323a12e393bd1dc62bd7ad28324fa5538ae9217f5c0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/4e79bc4b065d3c887985cc9f9e116005_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/9344e32418962f9a96f79a7a4ddcf305_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "37a97a38b7c841eb9a064450f61830a62b0dffa41e98682a545a38303bbbc3900f",
-      "seqno": 20,
-      "payload_hash": "7a68be3f29effe4ed1ced4c7fdf91957eddbb9b335be0e69d6bb77fbfe263f8f"
+      "sig_id": "af7b3efc0566d1a09fa49c323a12e393bd1dc62bd7ad28324fa5538ae9217f5c0f",
+      "seqno": 29,
+      "payload_hash": "0d126ac816c90c9bee4d49099833c80e24e288e4dedbf3079b8e80aec63bae0a"
     }
   },
   "devices": {
