@@ -4,9 +4,9 @@
     "username": "edouard",
     "ctime": 1458367765,
     "mtime": 1458367765,
-    "id_version": 13,
+    "id_version": 15,
     "track_version": 0,
-    "last_id_change": 1460135929,
+    "last_id_change": 1465066251,
     "username_cased": "edouard"
   },
   "profile": {
@@ -95,6 +95,20 @@
           "presentation_tag": "post"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/edouard",
+          "state": 1,
+          "proof_url": "https://coinbase.com/edouard/public-key",
+          "sig_id": "d7cb130a22760f5fe0b12048cd9e2d001c464241c6fac9814bebcae3f69fa5db0f",
+          "proof_id": "0805a9790adf0d695518ce10",
+          "human_url": "https://coinbase.com/edouard/public-key",
+          "service_url": "https://coinbase.com/edouard",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "dns": [
         {
           "proof_type": "dns",
@@ -153,6 +167,20 @@
           "presentation_tag": "post"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/edouard",
+          "state": 1,
+          "proof_url": "https://coinbase.com/edouard/public-key",
+          "sig_id": "d7cb130a22760f5fe0b12048cd9e2d001c464241c6fac9814bebcae3f69fa5db0f",
+          "proof_id": "0805a9790adf0d695518ce10",
+          "human_url": "https://coinbase.com/edouard/public-key",
+          "service_url": "https://coinbase.com/edouard",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "edouard.us": [
         {
           "proof_type": "dns",
@@ -206,6 +234,18 @@
         "presentation_tag": "post"
       },
       {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/edouard",
+        "state": 1,
+        "proof_url": "https://coinbase.com/edouard/public-key",
+        "sig_id": "d7cb130a22760f5fe0b12048cd9e2d001c464241c6fac9814bebcae3f69fa5db0f",
+        "proof_id": "0805a9790adf0d695518ce10",
+        "human_url": "https://coinbase.com/edouard/public-key",
+        "service_url": "https://coinbase.com/edouard",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "dns",
         "nametag": "edouard.us",
         "state": 1,
@@ -219,7 +259,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1PyHXoXScGqQbTXQYFNXY5hgkx6NHtfFBj",
+        "sig_id": "f182b33dc847d1bc0addd745652a34d73075ba84a665ee1a296b9cd9d02b7d9f0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/f37635f65c97b6d7c436f44b94fd7105_360_360_square_360.jpeg",
@@ -230,9 +277,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "707721887d69c7944eeae7d0ce87095dd54c332326c9f82c750fa4addd1c7a110f",
-      "seqno": 5,
-      "payload_hash": "892a4d08586f543114ab5cbd24618c390cf3cc0ad86231fb3d31039c47370aa9"
+      "sig_id": "f182b33dc847d1bc0addd745652a34d73075ba84a665ee1a296b9cd9d02b7d9f0f",
+      "seqno": 7,
+      "payload_hash": "13ca8d07a5b19db39074ab2f085f0ff063dcac4e1b37a6e76791dee294ea94f8"
     }
   },
   "devices": {}
