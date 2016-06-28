@@ -4,16 +4,16 @@
     "username": "mmca",
     "ctime": 1463161767,
     "mtime": 1463161767,
-    "id_version": 8,
-    "track_version": 0,
-    "last_id_change": 1463235923,
+    "id_version": 17,
+    "track_version": 1,
+    "last_id_change": 1466681627,
     "username_cased": "mmca"
   },
   "profile": {
-    "mtime": 1463162085,
-    "full_name": "Michael Altrock",
+    "mtime": 1466678982,
+    "full_name": "Michael Friedemann",
     "location": "Berlin",
-    "bio": "@theCoffeePanda"
+    "bio": "@thecoffeepanda"
   },
   "public_keys": {
     "primary": {
@@ -65,16 +65,187 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "thecoffeepanda",
+          "state": 1,
+          "proof_url": "https://twitter.com/thecoffeepanda/status/745918999762984960",
+          "sig_id": "2ca44079cb3986d43324f33f027d27ba3301fb6ddb524ed9db1bcf65bdf386c60f",
+          "proof_id": "6a39ec0823263e0299b47e10",
+          "human_url": "https://twitter.com/thecoffeepanda/status/745918999762984960",
+          "service_url": "https://twitter.com/thecoffeepanda",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "coffeepanda",
+          "state": 1,
+          "proof_url": "https://gist.github.com/9a43e12f012f0f1929e33d9a3f036d76",
+          "sig_id": "199c55bea8738f3d2e7e1499424e6fbee95483f2a9d06fdcb42c45c5c508b5110f",
+          "proof_id": "64bbf0b73f7c4c2e1799d810",
+          "human_url": "https://gist.github.com/9a43e12f012f0f1929e33d9a3f036d76",
+          "service_url": "https://github.com/coffeepanda",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "thecoffeepanda",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4pg50x/my_keybase_proof_redditthecoffeepanda_keybasemmca/",
+          "sig_id": "73fa938c8500b0379e10cf85f12e55fa39155afef88de15f4cb0bca0bd67b1f20f",
+          "proof_id": "9bb7848b48a92ccdd44b3110",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4pg50x/my_keybase_proof_redditthecoffeepanda_keybasemmca/",
+          "service_url": "https://reddit.com/user/thecoffeepanda",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/mmca",
+          "state": 1,
+          "proof_url": "https://coinbase.com/mmca/public-key",
+          "sig_id": "ea8e505191b4025e6bca7436304be4231988912aca8cd4cca4d10f47a3ab37440f",
+          "proof_id": "cf0017d60ea345c5f4bc1810",
+          "human_url": "https://coinbase.com/mmca/public-key",
+          "service_url": "https://coinbase.com/mmca",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "thecoffeepanda",
+          "state": 1,
+          "proof_url": "https://twitter.com/thecoffeepanda/status/745918999762984960",
+          "sig_id": "2ca44079cb3986d43324f33f027d27ba3301fb6ddb524ed9db1bcf65bdf386c60f",
+          "proof_id": "6a39ec0823263e0299b47e10",
+          "human_url": "https://twitter.com/thecoffeepanda/status/745918999762984960",
+          "service_url": "https://twitter.com/thecoffeepanda",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "coffeepanda",
+          "state": 1,
+          "proof_url": "https://gist.github.com/9a43e12f012f0f1929e33d9a3f036d76",
+          "sig_id": "199c55bea8738f3d2e7e1499424e6fbee95483f2a9d06fdcb42c45c5c508b5110f",
+          "proof_id": "64bbf0b73f7c4c2e1799d810",
+          "human_url": "https://gist.github.com/9a43e12f012f0f1929e33d9a3f036d76",
+          "service_url": "https://github.com/coffeepanda",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "thecoffeepanda",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4pg50x/my_keybase_proof_redditthecoffeepanda_keybasemmca/",
+          "sig_id": "73fa938c8500b0379e10cf85f12e55fa39155afef88de15f4cb0bca0bd67b1f20f",
+          "proof_id": "9bb7848b48a92ccdd44b3110",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4pg50x/my_keybase_proof_redditthecoffeepanda_keybasemmca/",
+          "service_url": "https://reddit.com/user/thecoffeepanda",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/mmca",
+          "state": 1,
+          "proof_url": "https://coinbase.com/mmca/public-key",
+          "sig_id": "ea8e505191b4025e6bca7436304be4231988912aca8cd4cca4d10f47a3ab37440f",
+          "proof_id": "cf0017d60ea345c5f4bc1810",
+          "human_url": "https://coinbase.com/mmca/public-key",
+          "service_url": "https://coinbase.com/mmca",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "thecoffeepanda",
+        "state": 1,
+        "proof_url": "https://twitter.com/thecoffeepanda/status/745918999762984960",
+        "sig_id": "2ca44079cb3986d43324f33f027d27ba3301fb6ddb524ed9db1bcf65bdf386c60f",
+        "proof_id": "6a39ec0823263e0299b47e10",
+        "human_url": "https://twitter.com/thecoffeepanda/status/745918999762984960",
+        "service_url": "https://twitter.com/thecoffeepanda",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
+      {
+        "proof_type": "github",
+        "nametag": "coffeepanda",
+        "state": 1,
+        "proof_url": "https://gist.github.com/9a43e12f012f0f1929e33d9a3f036d76",
+        "sig_id": "199c55bea8738f3d2e7e1499424e6fbee95483f2a9d06fdcb42c45c5c508b5110f",
+        "proof_id": "64bbf0b73f7c4c2e1799d810",
+        "human_url": "https://gist.github.com/9a43e12f012f0f1929e33d9a3f036d76",
+        "service_url": "https://github.com/coffeepanda",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "reddit",
+        "nametag": "thecoffeepanda",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4pg50x/my_keybase_proof_redditthecoffeepanda_keybasemmca/",
+        "sig_id": "73fa938c8500b0379e10cf85f12e55fa39155afef88de15f4cb0bca0bd67b1f20f",
+        "proof_id": "9bb7848b48a92ccdd44b3110",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4pg50x/my_keybase_proof_redditthecoffeepanda_keybasemmca/",
+        "service_url": "https://reddit.com/user/thecoffeepanda",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/mmca",
+        "state": 1,
+        "proof_url": "https://coinbase.com/mmca/public-key",
+        "sig_id": "ea8e505191b4025e6bca7436304be4231988912aca8cd4cca4d10f47a3ab37440f",
+        "proof_id": "cf0017d60ea345c5f4bc1810",
+        "human_url": "https://coinbase.com/mmca/public-key",
+        "service_url": "https://coinbase.com/mmca",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      }
+    ]
   },
   "cryptocurrency_addresses": {},
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/cda0c1e86a1ac02c096a8b9c59da7005_360_360_square_360.jpeg",
+      "width": 360,
+      "height": 360,
+      "source": "github"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "d89ffe46a149aa97b86b257e390a08df7262d61f88af86f007255e7129c7713b0f",
-      "seqno": 6,
-      "payload_hash": "fc8f23415e3f214d0767b833f6b89cff5d67aa68e68033270d78202eb859f270"
+      "sig_id": "3294eb27192be7ac5548b858e1cbaa8e133897b8e98aff248437eae4db907dd90f",
+      "seqno": 11,
+      "payload_hash": "fbde4b780eed0bb6a7d65294880f1c7b85f32998ec3e9eb263c5dde2745ffa26"
     }
   },
   "devices": {
