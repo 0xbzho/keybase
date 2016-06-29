@@ -4,9 +4,9 @@
     "username": "trapped",
     "ctime": 1395872538,
     "mtime": 1395872538,
-    "id_version": 113,
+    "id_version": 118,
     "track_version": 3,
-    "last_id_change": 1460264814,
+    "last_id_change": 1466635587,
     "username_cased": "trapped"
   },
   "profile": {
@@ -70,20 +70,6 @@
   },
   "proofs_summary": {
     "by_proof_type": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "tokenizd",
-          "state": 1,
-          "proof_url": "https://twitter.com/tokenizd/status/684719515205242880",
-          "sig_id": "9f029976e7ddfd8561cc240d030935ba4f2bf29dbab623bdf98d2648f40eadf70f",
-          "proof_id": "530a8a9753b695d811c7bb10",
-          "human_url": "https://twitter.com/tokenizd/status/684719515205242880",
-          "service_url": "https://twitter.com/tokenizd",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -124,24 +110,24 @@
           "service_url": "https://coinbase.com/trapped",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "pellero.it",
+          "state": 1,
+          "proof_url": "https://pellero.it/.well-known/keybase.txt",
+          "sig_id": "27c5d6c248eae9200414b1e52ec9977998e2ec6caed09c5133319343544b342e0f",
+          "proof_id": "475641fca2a7681330db2b10",
+          "human_url": "https://pellero.it/.well-known/keybase.txt",
+          "service_url": "https://pellero.it",
+          "presentation_group": "pellero.it",
+          "presentation_tag": "https"
         }
       ]
     },
     "by_presentation_group": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "tokenizd",
-          "state": 1,
-          "proof_url": "https://twitter.com/tokenizd/status/684719515205242880",
-          "sig_id": "9f029976e7ddfd8561cc240d030935ba4f2bf29dbab623bdf98d2648f40eadf70f",
-          "proof_id": "530a8a9753b695d811c7bb10",
-          "human_url": "https://twitter.com/tokenizd/status/684719515205242880",
-          "service_url": "https://twitter.com/tokenizd",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -183,21 +169,23 @@
           "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
+      ],
+      "pellero.it": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "pellero.it",
+          "state": 1,
+          "proof_url": "https://pellero.it/.well-known/keybase.txt",
+          "sig_id": "27c5d6c248eae9200414b1e52ec9977998e2ec6caed09c5133319343544b342e0f",
+          "proof_id": "475641fca2a7681330db2b10",
+          "human_url": "https://pellero.it/.well-known/keybase.txt",
+          "service_url": "https://pellero.it",
+          "presentation_group": "pellero.it",
+          "presentation_tag": "https"
+        }
       ]
     },
     "all": [
-      {
-        "proof_type": "twitter",
-        "nametag": "tokenizd",
-        "state": 1,
-        "proof_url": "https://twitter.com/tokenizd/status/684719515205242880",
-        "sig_id": "9f029976e7ddfd8561cc240d030935ba4f2bf29dbab623bdf98d2648f40eadf70f",
-        "proof_id": "530a8a9753b695d811c7bb10",
-        "human_url": "https://twitter.com/tokenizd/status/684719515205242880",
-        "service_url": "https://twitter.com/tokenizd",
-        "presentation_group": "twitter",
-        "presentation_tag": "tweet"
-      },
       {
         "proof_type": "github",
         "nametag": "trapped",
@@ -233,6 +221,18 @@
         "service_url": "https://coinbase.com/trapped",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "pellero.it",
+        "state": 1,
+        "proof_url": "https://pellero.it/.well-known/keybase.txt",
+        "sig_id": "27c5d6c248eae9200414b1e52ec9977998e2ec6caed09c5133319343544b342e0f",
+        "proof_id": "475641fca2a7681330db2b10",
+        "human_url": "https://pellero.it/.well-known/keybase.txt",
+        "service_url": "https://pellero.it",
+        "presentation_group": "pellero.it",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -246,17 +246,17 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/286a75bb27b73a2cdaff3a77ab25f005_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e53d3abbd90f9c434b4341579e493a05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "ad4119fdef1dd374cf6ec52a9840a43322bbd1ffcb40cad4626f0cc0426878ee0f",
-      "seqno": 18,
-      "payload_hash": "88d0e722f4d5e5c6fe6ba46ba9610c5a1c1f5ac0d2567f2047c293589875f174"
+      "sig_id": "81d6ebaf75147a47bb6114c7a7e86b5c8d179ea6d89318aed0f35e274e652aa60f",
+      "seqno": 19,
+      "payload_hash": "fefc8ae7257414b8c0bcd8b42a4e6b46e0c24804ca72298ae1bdafd3c660ee7d"
     }
   },
   "devices": {
