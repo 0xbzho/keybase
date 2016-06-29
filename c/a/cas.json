@@ -4,9 +4,9 @@
     "username": "cas",
     "ctime": 1403604909,
     "mtime": 1403604909,
-    "id_version": 45,
-    "track_version": 5,
-    "last_id_change": 1466678866,
+    "id_version": 50,
+    "track_version": 7,
+    "last_id_change": 1467103048,
     "username_cased": "cas"
   },
   "profile": {
@@ -72,6 +72,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "casdereuver",
+          "state": 1,
+          "proof_url": "https://twitter.com/casdereuver/status/747710302515568640",
+          "sig_id": "25017a940ec88c84c75e67753ffc010ad782d61d1648896ddb54366aef5844480f",
+          "proof_id": "103be5babd0dac7f2f272410",
+          "human_url": "https://twitter.com/casdereuver/status/747710302515568640",
+          "service_url": "https://twitter.com/casdereuver",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -140,10 +154,36 @@
           "service_url": "http://casdr.me",
           "presentation_group": "casdr.me",
           "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "raaw.eu",
+          "state": 1,
+          "proof_url": "https://keybase.io/cas/sigchain#851604f93d04a98c8b8b0fee89156446101e37a0733de16769cafcd71cc3875b0f",
+          "sig_id": "851604f93d04a98c8b8b0fee89156446101e37a0733de16769cafcd71cc3875b0f",
+          "proof_id": "d837f40d7e3bd8715f6eb210",
+          "human_url": "dns://raaw.eu",
+          "service_url": "http://raaw.eu",
+          "presentation_group": "raaw.eu",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "casdereuver",
+          "state": 1,
+          "proof_url": "https://twitter.com/casdereuver/status/747710302515568640",
+          "sig_id": "25017a940ec88c84c75e67753ffc010ad782d61d1648896ddb54366aef5844480f",
+          "proof_id": "103be5babd0dac7f2f272410",
+          "human_url": "https://twitter.com/casdereuver/status/747710302515568640",
+          "service_url": "https://twitter.com/casdereuver",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -213,9 +253,35 @@
           "presentation_group": "casdr.me",
           "presentation_tag": "dns"
         }
+      ],
+      "raaw.eu": [
+        {
+          "proof_type": "dns",
+          "nametag": "raaw.eu",
+          "state": 1,
+          "proof_url": "https://keybase.io/cas/sigchain#851604f93d04a98c8b8b0fee89156446101e37a0733de16769cafcd71cc3875b0f",
+          "sig_id": "851604f93d04a98c8b8b0fee89156446101e37a0733de16769cafcd71cc3875b0f",
+          "proof_id": "d837f40d7e3bd8715f6eb210",
+          "human_url": "dns://raaw.eu",
+          "service_url": "http://raaw.eu",
+          "presentation_group": "raaw.eu",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "casdereuver",
+        "state": 1,
+        "proof_url": "https://twitter.com/casdereuver/status/747710302515568640",
+        "sig_id": "25017a940ec88c84c75e67753ffc010ad782d61d1648896ddb54366aef5844480f",
+        "proof_id": "103be5babd0dac7f2f272410",
+        "human_url": "https://twitter.com/casdereuver/status/747710302515568640",
+        "service_url": "https://twitter.com/casdereuver",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "casdr",
@@ -275,6 +341,18 @@
         "service_url": "http://casdr.me",
         "presentation_group": "casdr.me",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "raaw.eu",
+        "state": 1,
+        "proof_url": "https://keybase.io/cas/sigchain#851604f93d04a98c8b8b0fee89156446101e37a0733de16769cafcd71cc3875b0f",
+        "sig_id": "851604f93d04a98c8b8b0fee89156446101e37a0733de16769cafcd71cc3875b0f",
+        "proof_id": "d837f40d7e3bd8715f6eb210",
+        "human_url": "dns://raaw.eu",
+        "service_url": "http://raaw.eu",
+        "presentation_group": "raaw.eu",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -288,17 +366,17 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/4da2c7662b75cfa2cc504791a7aa7405_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f5acc03cc7106c8add3a178800982605_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "a2e9b285f080bcd8871cebcc63edf3f3034b0dcefd5399deea5eccd25fe124350f",
-      "seqno": 23,
-      "payload_hash": "7ffc4fb46e574733fd175c92c5a1272a416562ac1bafd0b1354f4196f551996f"
+      "sig_id": "26cbfe08e722a699e52f4b7fd577cd979f70162b67101efc9a1cafadb919cf220f",
+      "seqno": 27,
+      "payload_hash": "3125660924eddb5624fb704ec2e82019e525a9d3452d97ca852f78753486c36a"
     }
   },
   "devices": {
