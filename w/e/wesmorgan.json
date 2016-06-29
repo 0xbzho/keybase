@@ -4,9 +4,9 @@
     "username": "wesmorgan",
     "ctime": 1411518690,
     "mtime": 1411518690,
-    "id_version": 59,
-    "track_version": 0,
-    "last_id_change": 1464200829,
+    "id_version": 60,
+    "track_version": 5,
+    "last_id_change": 1467072386,
     "username_cased": "wesmorgan"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "012033455e36670587b3b8b2a3f0abfacf4bd82b1f98af3f905c07d2ed497fff3a610a",
       "01215a7e9e656012a50a0eec943542b2ca44bbb9cbc7fcf805d79b62faf77356626d0a",
       "012017a21329ba89be86e2c00851680641e75a079c389d44c9be2de7cd5758db9cce0a",
-      "012140c218246127203ce7f7a04091e812a48367c94a08aabc4c9bde35006fc7de500a"
+      "012140c218246127203ce7f7a04091e812a48367c94a08aabc4c9bde35006fc7de500a",
+      "0121cc2a2764f732ea5fa4fc641090baa9635a4b4624fed0ef4f208a165591cae8510a",
+      "01207a2a976b4c5cc21a61216ad7566638fc64ceea45e3f890d53a7651a39ed4d48e0a"
     ],
     "subkeys": [
       "01215a7e9e656012a50a0eec943542b2ca44bbb9cbc7fcf805d79b62faf77356626d0a",
-      "012140c218246127203ce7f7a04091e812a48367c94a08aabc4c9bde35006fc7de500a"
+      "012140c218246127203ce7f7a04091e812a48367c94a08aabc4c9bde35006fc7de500a",
+      "0121cc2a2764f732ea5fa4fc641090baa9635a4b4624fed0ef4f208a165591cae8510a"
     ],
     "sibkeys": [
       "0101acb105a704ba6ff8e0c93197c123976229c597b0b3fb7bc032142323e05779ee0a",
       "012033455e36670587b3b8b2a3f0abfacf4bd82b1f98af3f905c07d2ed497fff3a610a",
-      "012017a21329ba89be86e2c00851680641e75a079c389d44c9be2de7cd5758db9cce0a"
+      "012017a21329ba89be86e2c00851680641e75a079c389d44c9be2de7cd5758db9cce0a",
+      "01207a2a976b4c5cc21a61216ad7566638fc64ceea45e3f890d53a7651a39ed4d48e0a"
     ],
     "families": {
       "0101acb105a704ba6ff8e0c93197c123976229c597b0b3fb7bc032142323e05779ee0a": [
@@ -55,7 +59,9 @@
         "012033455e36670587b3b8b2a3f0abfacf4bd82b1f98af3f905c07d2ed497fff3a610a",
         "01215a7e9e656012a50a0eec943542b2ca44bbb9cbc7fcf805d79b62faf77356626d0a",
         "012017a21329ba89be86e2c00851680641e75a079c389d44c9be2de7cd5758db9cce0a",
-        "012140c218246127203ce7f7a04091e812a48367c94a08aabc4c9bde35006fc7de500a"
+        "012140c218246127203ce7f7a04091e812a48367c94a08aabc4c9bde35006fc7de500a",
+        "0121cc2a2764f732ea5fa4fc641090baa9635a4b4624fed0ef4f208a165591cae8510a",
+        "01207a2a976b4c5cc21a61216ad7566638fc64ceea45e3f890d53a7651a39ed4d48e0a"
       ]
     },
     "eldest_kid": "0101acb105a704ba6ff8e0c93197c123976229c597b0b3fb7bc032142323e05779ee0a",
@@ -243,12 +249,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "cfb046faecbce47efc117a7a5379f45802d77a0c8b4131f237fd70c0963696220f",
-      "seqno": 13,
-      "payload_hash": "0eb9a55310e6c43bc83d8cae56ea3f75546648e150739350b54b2df3c7b6101d"
+      "sig_id": "2ae7f941b863f47f050f7bd02ce1f941e00e535ef6fb44528f0ecc6d77123ee30f",
+      "seqno": 20,
+      "payload_hash": "7f4def8c7466cfec120f7c39940a51f6cb70d36b733bfbd32e70d1ca701c9c2f"
     }
   },
   "devices": {
+    "0e07d18415dd7afe97aa72e62db5d518": {
+      "type": "desktop",
+      "ctime": 1467072386,
+      "mtime": 1467072386,
+      "name": "Wes' MacBook Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207a2a976b4c5cc21a61216ad7566638fc64ceea45e3f890d53a7651a39ed4d48e0a",
+          "key_role": 1,
+          "sig_id": "c120e4a3831b385e91f662ce280142f79d08378b196aec0b059787add34bed140f"
+        },
+        {
+          "kid": "0121cc2a2764f732ea5fa4fc641090baa9635a4b4624fed0ef4f208a165591cae8510a",
+          "key_role": 2,
+          "sig_id": "aa17e36e861ca9a4783710e062ad18c34a0d2cdc94b6816f7241c053e0daf0300f"
+        }
+      ]
+    },
     "2e2b2b7b3210b5bdbb2eb3c8eaea9f18": {
       "type": "desktop",
       "ctime": 1464200828,
