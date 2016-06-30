@@ -1,0 +1,98 @@
+{
+  "id": "503a80431fc8007fed48d2746d341119",
+  "basics": {
+    "username": "willhardy",
+    "ctime": 1465991588,
+    "mtime": 1465991588,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1465991590,
+    "username_cased": "willhardy"
+  },
+  "profile": {
+    "mtime": 1465991708,
+    "full_name": "Will Hardy",
+    "location": "Berlin",
+    "bio": null
+  },
+  "public_keys": {
+    "all_bundles": [
+      "012083b333f7cf08dca56aeb2278d8aa9bbf8f79912af05ef72f95aefa1594c180ad0a",
+      "0120576a3611738fc24475968983958ab6deb9abaef4fc75f2c1959e46af1906e31a0a",
+      "0121bb99755bceb3dc1bbffe2ddcbd67b4a1ecb8446bea042191dd030cc66fd41a1a0a",
+      "01218da1295e7356b349f2f315c861b22926ad93c7c10dd8833f41de663eabd9b0330a"
+    ],
+    "subkeys": [
+      "0121bb99755bceb3dc1bbffe2ddcbd67b4a1ecb8446bea042191dd030cc66fd41a1a0a",
+      "01218da1295e7356b349f2f315c861b22926ad93c7c10dd8833f41de663eabd9b0330a"
+    ],
+    "sibkeys": [
+      "012083b333f7cf08dca56aeb2278d8aa9bbf8f79912af05ef72f95aefa1594c180ad0a",
+      "0120576a3611738fc24475968983958ab6deb9abaef4fc75f2c1959e46af1906e31a0a"
+    ],
+    "families": {
+      "012083b333f7cf08dca56aeb2278d8aa9bbf8f79912af05ef72f95aefa1594c180ad0a": [
+        "012083b333f7cf08dca56aeb2278d8aa9bbf8f79912af05ef72f95aefa1594c180ad0a",
+        "0120576a3611738fc24475968983958ab6deb9abaef4fc75f2c1959e46af1906e31a0a",
+        "0121bb99755bceb3dc1bbffe2ddcbd67b4a1ecb8446bea042191dd030cc66fd41a1a0a",
+        "01218da1295e7356b349f2f315c861b22926ad93c7c10dd8833f41de663eabd9b0330a"
+      ]
+    },
+    "eldest_kid": "012083b333f7cf08dca56aeb2278d8aa9bbf8f79912af05ef72f95aefa1594c180ad0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "991f2723a712c70861843f9042bcd6c5007eb1a036b39575f6db649748d7684e0f",
+      "seqno": 4,
+      "payload_hash": "13bdc8f8452b8267fb4bebf38cf2fe31c67cfddff13112ebef455d2a868ff20b"
+    }
+  },
+  "devices": {
+    "26db4c6aa9afa4924ab935329b3cf418": {
+      "type": "backup",
+      "ctime": 1465991590,
+      "mtime": 1465991590,
+      "name": "derive similar",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120576a3611738fc24475968983958ab6deb9abaef4fc75f2c1959e46af1906e31a0a",
+          "key_role": 1,
+          "sig_id": "210c7f2f8a420aa6666d369e7ef4c9322d3dd22e060bf66ba59b8d2400383af40f"
+        },
+        {
+          "kid": "0121bb99755bceb3dc1bbffe2ddcbd67b4a1ecb8446bea042191dd030cc66fd41a1a0a",
+          "key_role": 2,
+          "sig_id": "991f2723a712c70861843f9042bcd6c5007eb1a036b39575f6db649748d7684e0f"
+        }
+      ]
+    },
+    "cd909866c179a9a89da848363601e718": {
+      "type": "desktop",
+      "ctime": 1465991590,
+      "mtime": 1465991590,
+      "name": "laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012083b333f7cf08dca56aeb2278d8aa9bbf8f79912af05ef72f95aefa1594c180ad0a",
+          "key_role": 1,
+          "sig_id": "c75648e1ff73cb57005969b0642d09b3c845e3445867bb43f9f9e7421f4dc6520f"
+        },
+        {
+          "kid": "01218da1295e7356b349f2f315c861b22926ad93c7c10dd8833f41de663eabd9b0330a",
+          "key_role": 2,
+          "sig_id": "aaaedd33d22a713fd42d6b6da7aa2515f78b91af92a2406a9da7e6a2b4793a070f"
+        }
+      ]
+    }
+  }
+}
