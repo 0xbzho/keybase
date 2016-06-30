@@ -5,7 +5,7 @@
     "ctime": 1448573736,
     "mtime": 1448573736,
     "id_version": 13,
-    "track_version": 6,
+    "track_version": 7,
     "last_id_change": 1462992007,
     "username_cased": "Ward9250"
   },
@@ -49,16 +49,12 @@
     "subkeys": [
       "012151e9258751f96cdb3c95d089729b6811a04b67c7ee05fb520549d672af0dd36b0a",
       "01211c0256332457e5c1ad0033a32d45fcb46bd0d9be221c87a4de21dbbd91172e790a",
-      "0121d7eaceb7a87a3d7d8aee9636079068dd8d93613fdf9383e2223c03ed1b5cf7300a",
-      "0121e4fac0dc45e3e134294a5f6e414158b70954ec79d0f82d7832270e73a092275f0a",
       "0121495b164b12a03f32e412bf13396aafdc3f6992e5611a8eaf2fc7c6589ad9fe500a"
     ],
     "sibkeys": [
       "01011244e88b8b1f7c72a6a9919867ebfd7fdfd87e882ca4907c65e0fa9d074414b40a",
       "0120d1f7ac1ea88ff8ae0e9c2f5782ecfec231dd305294bc800fe8109f446dbbf5bb0a",
       "01203a8333f1fa468bceed3019e220f882e38f1a93644390a0abf523f0e814dc91e60a",
-      "0120482e56685cae18cea907db56e244e6ee84158068e0741230af18bab51b1ac51e0a",
-      "01205819f8d9ec7facc6ffff01a4a4aef35a5fdd41ea85a98d62107a807be11433050a",
       "0120a1ded795f300b9abb6e64264b99de7f61f6c2749f7a759f6f7d06cdadd8102700a"
     ],
     "families": {
@@ -221,9 +217,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d4d716887574b043c07ec692b84b2c07759eebd4885799530ed8781708e06ad80f",
-      "seqno": 20,
-      "payload_hash": "27838ba910aba1a3a80cee5bff2d39099a81f8ea0d5502e09c83249acba1bda5"
+      "sig_id": "6586db72fc404e79a8d0b23d2f4d5ac2426ef8724f94098d44027acdf082f1500f",
+      "seqno": 23,
+      "payload_hash": "b355b1a1ef1aaf954b6d3552ba3d4f9e486015363fe7b5ffc9643ed91201fd6f"
     }
   },
   "devices": {
@@ -243,25 +239,6 @@
           "kid": "012151e9258751f96cdb3c95d089729b6811a04b67c7ee05fb520549d672af0dd36b0a",
           "key_role": 2,
           "sig_id": "29d30d13adbe4dbd7f1249a844e5cfbb8b5b60dbdc8bf28c33721cdd8ede6ba00f"
-        }
-      ]
-    },
-    "9318b9c1369ef156ac18417fc4f37518": {
-      "type": "desktop",
-      "ctime": 1457107807,
-      "mtime": 1457107807,
-      "name": "TGAC Ubuntu Tower",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01205819f8d9ec7facc6ffff01a4a4aef35a5fdd41ea85a98d62107a807be11433050a",
-          "key_role": 1,
-          "sig_id": "2f89be4e1b8504a302af6cac05e682dbd8084d3e28a3b1e262ced36a567b07460f"
-        },
-        {
-          "kid": "0121e4fac0dc45e3e134294a5f6e414158b70954ec79d0f82d7832270e73a092275f0a",
-          "key_role": 2,
-          "sig_id": "809e6b9e3bfe2034860888863dfc40e4239e5e2fa0571951a174194e5cde3fca0f"
         }
       ]
     },
@@ -300,25 +277,6 @@
           "kid": "01211c0256332457e5c1ad0033a32d45fcb46bd0d9be221c87a4de21dbbd91172e790a",
           "key_role": 2,
           "sig_id": "3bf1813932370861fad048b8f994e5b4997553453140c7c7e4e746fb24b981c10f"
-        }
-      ]
-    },
-    "d958c1563cb276381a22388fbf27c718": {
-      "type": "desktop",
-      "ctime": 1448615992,
-      "mtime": 1448615992,
-      "name": "Ben's TGAC Desktop Ubuntu",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120482e56685cae18cea907db56e244e6ee84158068e0741230af18bab51b1ac51e0a",
-          "key_role": 1,
-          "sig_id": "a20eb397d4447fa7e358a973aaed4a4de4952dc7b8edd715e323fca3ab611b320f"
-        },
-        {
-          "kid": "0121d7eaceb7a87a3d7d8aee9636079068dd8d93613fdf9383e2223c03ed1b5cf7300a",
-          "key_role": 2,
-          "sig_id": "1bbf106bc874269dd562cb8a85659390a2723dd3133d71fc55d928fd34ec699a0f"
         }
       ]
     }
