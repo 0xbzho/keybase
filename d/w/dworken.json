@@ -4,9 +4,9 @@
     "username": "dworken",
     "ctime": 1428433602,
     "mtime": 1428433602,
-    "id_version": 138,
+    "id_version": 140,
     "track_version": 1,
-    "last_id_change": 1464429682,
+    "last_id_change": 1465473794,
     "username_cased": "dworken"
   },
   "profile": {
@@ -153,18 +153,6 @@
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
-          "nametag": "dworkensecurity.com",
-          "state": 1,
-          "proof_url": "http://dworkensecurity.com/keybase.txt",
-          "sig_id": "03c25e9add3d9cb2c90b75f7957e2e8d54aca622e8e7bc08a0aae2005de5317d0f",
-          "proof_id": "2874c5bab76c35ef21c7d010",
-          "human_url": "http://dworkensecurity.com/keybase.txt",
-          "service_url": "http://dworkensecurity.com",
-          "presentation_group": "dworkensecurity.com",
-          "presentation_tag": "http"
-        },
-        {
-          "proof_type": "generic_web_site",
           "nametag": "daviddworken.com",
           "state": 1,
           "proof_url": "http://daviddworken.com/keybase.txt",
@@ -298,32 +286,6 @@
           "presentation_tag": "profile"
         }
       ],
-      "dworkensecurity.com": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "dworkensecurity.com",
-          "state": 1,
-          "proof_url": "http://dworkensecurity.com/keybase.txt",
-          "sig_id": "03c25e9add3d9cb2c90b75f7957e2e8d54aca622e8e7bc08a0aae2005de5317d0f",
-          "proof_id": "2874c5bab76c35ef21c7d010",
-          "human_url": "http://dworkensecurity.com/keybase.txt",
-          "service_url": "http://dworkensecurity.com",
-          "presentation_group": "dworkensecurity.com",
-          "presentation_tag": "http"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "dworkensecurity.com",
-          "state": 1,
-          "proof_url": "https://keybase.io/dworken/sigchain#ca3d155bf7c91a3b49f3d6aa80d8c154c58b64d9ba7ab81c580a19a9889f962d0f",
-          "sig_id": "ca3d155bf7c91a3b49f3d6aa80d8c154c58b64d9ba7ab81c580a19a9889f962d0f",
-          "proof_id": "f452d239312bfa5dde941910",
-          "human_url": "dns://dworkensecurity.com",
-          "service_url": "http://dworkensecurity.com",
-          "presentation_group": "dworkensecurity.com",
-          "presentation_tag": "dns"
-        }
-      ],
       "daviddworken.com": [
         {
           "proof_type": "generic_web_site",
@@ -377,6 +339,20 @@
           "presentation_group": "tcp-dns.com",
           "presentation_tag": "dns"
         }
+      ],
+      "dworkensecurity.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "dworkensecurity.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/dworken/sigchain#ca3d155bf7c91a3b49f3d6aa80d8c154c58b64d9ba7ab81c580a19a9889f962d0f",
+          "sig_id": "ca3d155bf7c91a3b49f3d6aa80d8c154c58b64d9ba7ab81c580a19a9889f962d0f",
+          "proof_id": "f452d239312bfa5dde941910",
+          "human_url": "dns://dworkensecurity.com",
+          "service_url": "http://dworkensecurity.com",
+          "presentation_group": "dworkensecurity.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -393,16 +369,16 @@
         "presentation_tag": "tweet"
       },
       {
-        "proof_type": "dns",
-        "nametag": "dworkensecurity.com",
+        "proof_type": "github",
+        "nametag": "ddworken",
         "state": 1,
-        "proof_url": "https://keybase.io/dworken/sigchain#ca3d155bf7c91a3b49f3d6aa80d8c154c58b64d9ba7ab81c580a19a9889f962d0f",
-        "sig_id": "ca3d155bf7c91a3b49f3d6aa80d8c154c58b64d9ba7ab81c580a19a9889f962d0f",
-        "proof_id": "f452d239312bfa5dde941910",
-        "human_url": "dns://dworkensecurity.com",
-        "service_url": "http://dworkensecurity.com",
-        "presentation_group": "dworkensecurity.com",
-        "presentation_tag": "dns"
+        "proof_url": "https://gist.github.com/39d97d97ff45a710c80e",
+        "sig_id": "44c9c35ad201c9642019a918af922d29438efdf80cfb446ba63d16d1d0dca0500f",
+        "proof_id": "404ed4af05ae3729aafb4210",
+        "human_url": "https://gist.github.com/39d97d97ff45a710c80e",
+        "service_url": "https://github.com/ddworken",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
       },
       {
         "proof_type": "reddit",
@@ -441,16 +417,16 @@
         "presentation_tag": "profile"
       },
       {
-        "proof_type": "github",
-        "nametag": "ddworken",
+        "proof_type": "dns",
+        "nametag": "daviddworken.com",
         "state": 1,
-        "proof_url": "https://gist.github.com/39d97d97ff45a710c80e",
-        "sig_id": "44c9c35ad201c9642019a918af922d29438efdf80cfb446ba63d16d1d0dca0500f",
-        "proof_id": "404ed4af05ae3729aafb4210",
-        "human_url": "https://gist.github.com/39d97d97ff45a710c80e",
-        "service_url": "https://github.com/ddworken",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
+        "proof_url": "https://keybase.io/dworken/sigchain#f08a5233ff2b600568152ec43d77058157dd2f16118dd816d97ac525c31206200f",
+        "sig_id": "f08a5233ff2b600568152ec43d77058157dd2f16118dd816d97ac525c31206200f",
+        "proof_id": "2e7a9c4246e8ecfee5b59f10",
+        "human_url": "dns://daviddworken.com",
+        "service_url": "http://daviddworken.com",
+        "presentation_group": "daviddworken.com",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -466,27 +442,15 @@
       },
       {
         "proof_type": "dns",
-        "nametag": "daviddworken.com",
+        "nametag": "dworkensecurity.com",
         "state": 1,
-        "proof_url": "https://keybase.io/dworken/sigchain#f08a5233ff2b600568152ec43d77058157dd2f16118dd816d97ac525c31206200f",
-        "sig_id": "f08a5233ff2b600568152ec43d77058157dd2f16118dd816d97ac525c31206200f",
-        "proof_id": "2e7a9c4246e8ecfee5b59f10",
-        "human_url": "dns://daviddworken.com",
-        "service_url": "http://daviddworken.com",
-        "presentation_group": "daviddworken.com",
+        "proof_url": "https://keybase.io/dworken/sigchain#ca3d155bf7c91a3b49f3d6aa80d8c154c58b64d9ba7ab81c580a19a9889f962d0f",
+        "sig_id": "ca3d155bf7c91a3b49f3d6aa80d8c154c58b64d9ba7ab81c580a19a9889f962d0f",
+        "proof_id": "f452d239312bfa5dde941910",
+        "human_url": "dns://dworkensecurity.com",
+        "service_url": "http://dworkensecurity.com",
+        "presentation_group": "dworkensecurity.com",
         "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "generic_web_site",
-        "nametag": "blog.daviddworken.com",
-        "state": 1,
-        "proof_url": "http://blog.daviddworken.com/keybase.txt",
-        "sig_id": "a890d8b2625e9e4c729e884e1ce4169d594ce1b72d32007922fbee65a3da72090f",
-        "proof_id": "ab47d4bf940f09179efc6110",
-        "human_url": "http://blog.daviddworken.com/keybase.txt",
-        "service_url": "http://blog.daviddworken.com",
-        "presentation_group": "blog.daviddworken.com",
-        "presentation_tag": "http"
       },
       {
         "proof_type": "generic_web_site",
@@ -502,14 +466,14 @@
       },
       {
         "proof_type": "generic_web_site",
-        "nametag": "dworkensecurity.com",
+        "nametag": "blog.daviddworken.com",
         "state": 1,
-        "proof_url": "http://dworkensecurity.com/keybase.txt",
-        "sig_id": "03c25e9add3d9cb2c90b75f7957e2e8d54aca622e8e7bc08a0aae2005de5317d0f",
-        "proof_id": "2874c5bab76c35ef21c7d010",
-        "human_url": "http://dworkensecurity.com/keybase.txt",
-        "service_url": "http://dworkensecurity.com",
-        "presentation_group": "dworkensecurity.com",
+        "proof_url": "http://blog.daviddworken.com/keybase.txt",
+        "sig_id": "a890d8b2625e9e4c729e884e1ce4169d594ce1b72d32007922fbee65a3da72090f",
+        "proof_id": "ab47d4bf940f09179efc6110",
+        "human_url": "http://blog.daviddworken.com/keybase.txt",
+        "service_url": "http://blog.daviddworken.com",
+        "presentation_group": "blog.daviddworken.com",
         "presentation_tag": "http"
       }
     ]
@@ -524,7 +488,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/30ee1b34cf47c385bab60e36fad09805_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2348c56474707872d294d80b3fce2b05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
