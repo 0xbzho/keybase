@@ -1,0 +1,92 @@
+{
+  "id": "1234f4782e09ab9ca91ed6beeb637d19",
+  "basics": {
+    "username": "crudder",
+    "ctime": 1464892833,
+    "mtime": 1464892833,
+    "id_version": 2,
+    "track_version": 3,
+    "last_id_change": 1464892834,
+    "username_cased": "crudder"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121c11e9844787d2439abc81d226602e28dc5bede3873c41cf997deef29dcbddd6d0a",
+      "01202eef286a2be58797a771950194ea448957e50c08a2c3ab53dd3979c4910d43ad0a",
+      "012026890b68fabafa2b1ab5553b04c643c966ec90ebe7d96f7d915f358bcaa987570a",
+      "0121ad0bb96cedfb7ed12245832b5e0e9591c73c4164110ecf7fb44e39f0472f39760a"
+    ],
+    "subkeys": [
+      "0121c11e9844787d2439abc81d226602e28dc5bede3873c41cf997deef29dcbddd6d0a",
+      "0121ad0bb96cedfb7ed12245832b5e0e9591c73c4164110ecf7fb44e39f0472f39760a"
+    ],
+    "sibkeys": [
+      "01202eef286a2be58797a771950194ea448957e50c08a2c3ab53dd3979c4910d43ad0a",
+      "012026890b68fabafa2b1ab5553b04c643c966ec90ebe7d96f7d915f358bcaa987570a"
+    ],
+    "families": {
+      "01202eef286a2be58797a771950194ea448957e50c08a2c3ab53dd3979c4910d43ad0a": [
+        "0121c11e9844787d2439abc81d226602e28dc5bede3873c41cf997deef29dcbddd6d0a",
+        "01202eef286a2be58797a771950194ea448957e50c08a2c3ab53dd3979c4910d43ad0a",
+        "012026890b68fabafa2b1ab5553b04c643c966ec90ebe7d96f7d915f358bcaa987570a",
+        "0121ad0bb96cedfb7ed12245832b5e0e9591c73c4164110ecf7fb44e39f0472f39760a"
+      ]
+    },
+    "eldest_kid": "01202eef286a2be58797a771950194ea448957e50c08a2c3ab53dd3979c4910d43ad0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "8124deeec902ca99e1f47c6fd459035aab5a1e0f812a71c047c04fed28bb32300f",
+      "seqno": 7,
+      "payload_hash": "1e87245e2c31576395cb5e3aad288084c6e89e444f0f44ac3f2ba6cb8949ef53"
+    }
+  },
+  "devices": {
+    "303e179b7ab3d879a0828a5683c74118": {
+      "type": "backup",
+      "ctime": 1464892834,
+      "mtime": 1464892834,
+      "name": "vanish case",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012026890b68fabafa2b1ab5553b04c643c966ec90ebe7d96f7d915f358bcaa987570a",
+          "key_role": 1,
+          "sig_id": "da4fa35bd0dcd51ee4ff561b6773b7132d5a0ab6fa607c28fedb2774b08b64880f"
+        },
+        {
+          "kid": "0121ad0bb96cedfb7ed12245832b5e0e9591c73c4164110ecf7fb44e39f0472f39760a",
+          "key_role": 2,
+          "sig_id": "4005435ed97db94bc50403ff9e5602fa35dc077ce0f224721421b70e3ed46e780f"
+        }
+      ]
+    },
+    "eda9a04357ef2c92642c9856e6251a18": {
+      "type": "desktop",
+      "ctime": 1464892834,
+      "mtime": 1464892834,
+      "name": "my laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01202eef286a2be58797a771950194ea448957e50c08a2c3ab53dd3979c4910d43ad0a",
+          "key_role": 1,
+          "sig_id": "6fb3f3e472530cb442e18ec1d292bb396a95ae4acffe9f73886093efa4c6e75a0f"
+        },
+        {
+          "kid": "0121c11e9844787d2439abc81d226602e28dc5bede3873c41cf997deef29dcbddd6d0a",
+          "key_role": 2,
+          "sig_id": "3273a327f682d80c0ab1cf069ce6cb59f83d085b2fc9b3d2a760a4ba5d3161dc0f"
+        }
+      ]
+    }
+  }
+}
