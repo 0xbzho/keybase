@@ -1,0 +1,92 @@
+{
+  "id": "9606187d406046c0ebe2df5988b61e19",
+  "basics": {
+    "username": "bheneka",
+    "ctime": 1467349395,
+    "mtime": 1467349395,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1467351079,
+    "username_cased": "bheneka"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121b45d757d0c3176c592687c8995211f0e16bf017cd8fde08b12c4d217e264f72d0a",
+      "01206bf61f6f57a1b3d028fb1115d32e83572584817e385e92c11c9b09bdeb6151530a",
+      "0120d49a904898b888228e97d7d0fc837910134b4ed6a4e335af4625a4d677e8a1390a",
+      "01217553ca2e47bfe74f6b5ec96996945e1c1392671fc995537fc9548f3dfbad81740a"
+    ],
+    "subkeys": [
+      "0121b45d757d0c3176c592687c8995211f0e16bf017cd8fde08b12c4d217e264f72d0a",
+      "01217553ca2e47bfe74f6b5ec96996945e1c1392671fc995537fc9548f3dfbad81740a"
+    ],
+    "sibkeys": [
+      "01206bf61f6f57a1b3d028fb1115d32e83572584817e385e92c11c9b09bdeb6151530a",
+      "0120d49a904898b888228e97d7d0fc837910134b4ed6a4e335af4625a4d677e8a1390a"
+    ],
+    "families": {
+      "01206bf61f6f57a1b3d028fb1115d32e83572584817e385e92c11c9b09bdeb6151530a": [
+        "0121b45d757d0c3176c592687c8995211f0e16bf017cd8fde08b12c4d217e264f72d0a",
+        "01206bf61f6f57a1b3d028fb1115d32e83572584817e385e92c11c9b09bdeb6151530a",
+        "0120d49a904898b888228e97d7d0fc837910134b4ed6a4e335af4625a4d677e8a1390a",
+        "01217553ca2e47bfe74f6b5ec96996945e1c1392671fc995537fc9548f3dfbad81740a"
+      ]
+    },
+    "eldest_kid": "01206bf61f6f57a1b3d028fb1115d32e83572584817e385e92c11c9b09bdeb6151530a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "f1f5092ec9b5663289565272eec4eeca16e3c36606ae02f59b05250aad17838e0f",
+      "seqno": 4,
+      "payload_hash": "a196c3c0254c6e5d7722eb6e439143bf5f287d842704788850f8e9cd3bb860e3"
+    }
+  },
+  "devices": {
+    "03157990adad6910c9b80307dd462318": {
+      "type": "backup",
+      "ctime": 1467351078,
+      "mtime": 1467351079,
+      "name": "regular drop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d49a904898b888228e97d7d0fc837910134b4ed6a4e335af4625a4d677e8a1390a",
+          "key_role": 1,
+          "sig_id": "c83ad5f4c88861c207600e07aa14c885b9cb0cd836c0ea4dfd5235697af414790f"
+        },
+        {
+          "kid": "01217553ca2e47bfe74f6b5ec96996945e1c1392671fc995537fc9548f3dfbad81740a",
+          "key_role": 2,
+          "sig_id": "f1f5092ec9b5663289565272eec4eeca16e3c36606ae02f59b05250aad17838e0f"
+        }
+      ]
+    },
+    "cbffa5688953a1ad4ca3c48c41910718": {
+      "type": "desktop",
+      "ctime": 1467351078,
+      "mtime": 1467351078,
+      "name": "bh-office-desktop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01206bf61f6f57a1b3d028fb1115d32e83572584817e385e92c11c9b09bdeb6151530a",
+          "key_role": 1,
+          "sig_id": "a083346c857e7648cfbbffd2593f3364ff3160c5e299ad0a7cbbbde4823ad17d0f"
+        },
+        {
+          "kid": "0121b45d757d0c3176c592687c8995211f0e16bf017cd8fde08b12c4d217e264f72d0a",
+          "key_role": 2,
+          "sig_id": "2c641c6769404a0278007695fb19fcea3d4e3a20094a71efd0040629c102606a0f"
+        }
+      ]
+    }
+  }
+}
