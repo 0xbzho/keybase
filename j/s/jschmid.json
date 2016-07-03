@@ -4,9 +4,9 @@
     "username": "jschmid",
     "ctime": 1420643436,
     "mtime": 1420643436,
-    "id_version": 4,
-    "track_version": 0,
-    "last_id_change": 1420643874,
+    "id_version": 6,
+    "track_version": 1,
+    "last_id_change": 1467312713,
     "username_cased": "jschmid"
   },
   "profile": {
@@ -34,15 +34,28 @@
       "self_signed": true
     },
     "all_bundles": [
-      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - https://gpgtools.org\n\nmQENBFNyM2kBCACapm2HNJnQpkE/ChIJq6s+7BBS/0Zu/c2wzkyDKuo+RhIFuFnW\nN+RVhLjtytNkKViC1LWjyeFPJkIVguyovBc9/bZZJJMR1jk5kwoeaqpNC/077fsF\nf3kKmL7uvlINcI3HLXgPir6/ujBI5Ct1RE55AAua/4NNezQi8n8/DibLzFFUp2EW\nNerY9PvSg07ydEn/SDleUdr0BLZUjiuSkkdcws54Df9eEZ3lOjDmG6np6RWUJXKs\nYOmsv8M2pj9wQf4cZRGRYCAHO1hzoabyWdI2Xs5bm5KyDMCHotwsmCh0Xbl6fLsA\nHr2UcIaBV19/Wi6a6hp0SnLE1uZ+2OgyHAjDABEBAAG0G0pvZSBTY2htaWQgPGpv\nZUBzY2htaWQuY29tPokBPQQTAQoAJwUCU3IzaQIbAwUJB4YfgAULCQgHAwUVCgkI\nCwUWAgMBAAIeAQIXgAAKCRBCumIyVySj+CfZB/94KD6dqAMV2U4FwUMiGMcEFpO0\nAO9rCB2pRkyCUS0xZeVAiDk+CiWOVJJTryxXCyAXCnGFL956lnI9eSsOqyHxXxBO\n1c/dGHkuLExLbFhI95N/63g6nthkKZz7atYRV/Ds2qkxfbK9jA+x/k1zgDzz++G8\nddIBlCW3AnpyV3iA8AGoly+W3jxkJrJC0yFUTzlVYK+pmNEGT+t2RuzJxbyJkFlz\nSOXcEJ3HBICUrtlczqCH2+Off9rB45+kNfKIoJmDjQOJM0tteSfdkYRAH5nhcNJ0\nNrE/XNLUY6hc90SALTiYGZB5sBzCA6T8N8JfmEFvoaOaURD0ZzcD4gY63L0quQEN\nBFNyM2kBCAC6xuSM4vPkwjAm5+0/J0LpLCF+YE9q8tgwDpIZrANKGW7njbuGAsjb\nndgC0BGKa12UIrOvzdgb7Ob7w+IlnaO+D2lIBGdHC1yfCkIiVijri6O5AQQc45Q5\nkC7Jd/TusJREJ89NwB016R88gF3oqcW/GTsPD5Ezn9PNEjYcr390G0ULtho/4zTK\nBOWYv17Owop2+A9lxCFgtU7aou7GjZMvk9Tvd1gQn4eNEF/TF/sbSu/92YohNZ/l\nEdKDyboot0Q+4QXTn6ZjruSHK+IUi1SafQQSDio6Ieb/yklmIpaWQIRUkW5+aE0N\nQDlbn4dDOdBlll9RD5ngdaJC6/qA9s/rABEBAAGJASUEGAEKAA8FAlNyM2kCGwwF\nCQeGH4AACgkQQrpiMlcko/jt0Qf+Lh5ysKcREkLrFRDnJtUffYCyTCVJU6PHPomk\ns9VSpIilPBZVMeHxCz3vz3seOIXq9k8j0A9oQRhjMDXji7hQVH6G7Q8JYYeLDot3\nlGE252Lnc0yYQ+ZJX2JIkHu6GcD01zmzve8557RQjiJQkjQ4sa2UUzIZedNj9gnb\nxW6ax1w55bqOVF0YP++zCVgtrMZHzBEyWb1llkzht778CX82eedRV2gjaS4+A3TP\np2yFHJuBR2wImoXiAcQBK9fc0wpzR+tEcp3wfcBRGoA31k/ECknxZ7FMjZMZJ5Hm\n785vqLuhz1Hr+bhU2PgxRmjsWKmVgyzfLwsOhQt3VOUhxwXTog==\n=cLoX\n-----END PGP PUBLIC KEY BLOCK-----"
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - https://gpgtools.org\n\nmQENBFNyM2kBCACapm2HNJnQpkE/ChIJq6s+7BBS/0Zu/c2wzkyDKuo+RhIFuFnW\nN+RVhLjtytNkKViC1LWjyeFPJkIVguyovBc9/bZZJJMR1jk5kwoeaqpNC/077fsF\nf3kKmL7uvlINcI3HLXgPir6/ujBI5Ct1RE55AAua/4NNezQi8n8/DibLzFFUp2EW\nNerY9PvSg07ydEn/SDleUdr0BLZUjiuSkkdcws54Df9eEZ3lOjDmG6np6RWUJXKs\nYOmsv8M2pj9wQf4cZRGRYCAHO1hzoabyWdI2Xs5bm5KyDMCHotwsmCh0Xbl6fLsA\nHr2UcIaBV19/Wi6a6hp0SnLE1uZ+2OgyHAjDABEBAAG0G0pvZSBTY2htaWQgPGpv\nZUBzY2htaWQuY29tPokBPQQTAQoAJwUCU3IzaQIbAwUJB4YfgAULCQgHAwUVCgkI\nCwUWAgMBAAIeAQIXgAAKCRBCumIyVySj+CfZB/94KD6dqAMV2U4FwUMiGMcEFpO0\nAO9rCB2pRkyCUS0xZeVAiDk+CiWOVJJTryxXCyAXCnGFL956lnI9eSsOqyHxXxBO\n1c/dGHkuLExLbFhI95N/63g6nthkKZz7atYRV/Ds2qkxfbK9jA+x/k1zgDzz++G8\nddIBlCW3AnpyV3iA8AGoly+W3jxkJrJC0yFUTzlVYK+pmNEGT+t2RuzJxbyJkFlz\nSOXcEJ3HBICUrtlczqCH2+Off9rB45+kNfKIoJmDjQOJM0tteSfdkYRAH5nhcNJ0\nNrE/XNLUY6hc90SALTiYGZB5sBzCA6T8N8JfmEFvoaOaURD0ZzcD4gY63L0quQEN\nBFNyM2kBCAC6xuSM4vPkwjAm5+0/J0LpLCF+YE9q8tgwDpIZrANKGW7njbuGAsjb\nndgC0BGKa12UIrOvzdgb7Ob7w+IlnaO+D2lIBGdHC1yfCkIiVijri6O5AQQc45Q5\nkC7Jd/TusJREJ89NwB016R88gF3oqcW/GTsPD5Ezn9PNEjYcr390G0ULtho/4zTK\nBOWYv17Owop2+A9lxCFgtU7aou7GjZMvk9Tvd1gQn4eNEF/TF/sbSu/92YohNZ/l\nEdKDyboot0Q+4QXTn6ZjruSHK+IUi1SafQQSDio6Ieb/yklmIpaWQIRUkW5+aE0N\nQDlbn4dDOdBlll9RD5ngdaJC6/qA9s/rABEBAAGJASUEGAEKAA8FAlNyM2kCGwwF\nCQeGH4AACgkQQrpiMlcko/jt0Qf+Lh5ysKcREkLrFRDnJtUffYCyTCVJU6PHPomk\ns9VSpIilPBZVMeHxCz3vz3seOIXq9k8j0A9oQRhjMDXji7hQVH6G7Q8JYYeLDot3\nlGE252Lnc0yYQ+ZJX2JIkHu6GcD01zmzve8557RQjiJQkjQ4sa2UUzIZedNj9gnb\nxW6ax1w55bqOVF0YP++zCVgtrMZHzBEyWb1llkzht778CX82eedRV2gjaS4+A3TP\np2yFHJuBR2wImoXiAcQBK9fc0wpzR+tEcp3wfcBRGoA31k/ECknxZ7FMjZMZJ5Hm\n785vqLuhz1Hr+bhU2PgxRmjsWKmVgyzfLwsOhQt3VOUhxwXTog==\n=cLoX\n-----END PGP PUBLIC KEY BLOCK-----",
+      "0120561f46f681a4584160498d7459ea2bba7b941db27b6dcc884f37ad3ff7f964d90a",
+      "0121bded360663b1f599f2f55df48ad6f6d1fc7adea266f7e1ec6a87c39066d2cd090a",
+      "01211fca5396fe8ecd1a68229192d5615b84aa3f4ca5736da2102f2243ab6c448b160a",
+      "01204dbfc1ae68dc94c4a69d61ff887d0defb49f513bc838bd03d1344e0d494ea2760a"
     ],
-    "subkeys": [],
+    "subkeys": [
+      "0121bded360663b1f599f2f55df48ad6f6d1fc7adea266f7e1ec6a87c39066d2cd090a",
+      "01211fca5396fe8ecd1a68229192d5615b84aa3f4ca5736da2102f2243ab6c448b160a"
+    ],
     "sibkeys": [
-      "0101d156fcbdd1e8c0a9c3215b7a4e68182226bd883a053bce49c4956c02f3959ea70a"
+      "0101d156fcbdd1e8c0a9c3215b7a4e68182226bd883a053bce49c4956c02f3959ea70a",
+      "0120561f46f681a4584160498d7459ea2bba7b941db27b6dcc884f37ad3ff7f964d90a",
+      "01204dbfc1ae68dc94c4a69d61ff887d0defb49f513bc838bd03d1344e0d494ea2760a"
     ],
     "families": {
       "0101d156fcbdd1e8c0a9c3215b7a4e68182226bd883a053bce49c4956c02f3959ea70a": [
-        "0101d156fcbdd1e8c0a9c3215b7a4e68182226bd883a053bce49c4956c02f3959ea70a"
+        "0101d156fcbdd1e8c0a9c3215b7a4e68182226bd883a053bce49c4956c02f3959ea70a",
+        "0120561f46f681a4584160498d7459ea2bba7b941db27b6dcc884f37ad3ff7f964d90a",
+        "0121bded360663b1f599f2f55df48ad6f6d1fc7adea266f7e1ec6a87c39066d2cd090a",
+        "01211fca5396fe8ecd1a68229192d5615b84aa3f4ca5736da2102f2243ab6c448b160a",
+        "01204dbfc1ae68dc94c4a69d61ff887d0defb49f513bc838bd03d1344e0d494ea2760a"
       ]
     },
     "eldest_kid": "0101d156fcbdd1e8c0a9c3215b7a4e68182226bd883a053bce49c4956c02f3959ea70a",
@@ -117,10 +130,49 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "8fa32fbc523293c13846da269d1fca4347d5abdacc7b53965d0e6d103b7185350f",
-      "seqno": 4,
-      "payload_hash": "47c531e7b231c13c8af70dcb8f0e3bf00eb3b16c29aee3d67062674e253606c6"
+      "sig_id": "08f83546fee5837c22407d700c16d08bb1795210ed23f70e7d0079fa6f9745420f",
+      "seqno": 9,
+      "payload_hash": "7296159a7f3f3f85ca702c3a6fd9c67c2b2f8c6b580e9b849a9fac59b26a7a83"
     }
   },
-  "devices": {}
+  "devices": {
+    "d735b6d7f8e25e03125808794a7edb18": {
+      "type": "backup",
+      "ctime": 1467312713,
+      "mtime": 1467312713,
+      "name": "bunker credit",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204dbfc1ae68dc94c4a69d61ff887d0defb49f513bc838bd03d1344e0d494ea2760a",
+          "key_role": 1,
+          "sig_id": "cdcf624b1e495460a3a7bc592d26d72f91c4be4ecdb4daf946390f9ba659dad30f"
+        },
+        {
+          "kid": "01211fca5396fe8ecd1a68229192d5615b84aa3f4ca5736da2102f2243ab6c448b160a",
+          "key_role": 2,
+          "sig_id": "0baa2f05941ec7e4fe793a3c502efcaaf38966cffc77eedea77c8824369b2e060f"
+        }
+      ]
+    },
+    "f83539575fa627772304595907045018": {
+      "type": "desktop",
+      "ctime": 1467312713,
+      "mtime": 1467312713,
+      "name": "Joe's 2015 MacBook Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120561f46f681a4584160498d7459ea2bba7b941db27b6dcc884f37ad3ff7f964d90a",
+          "key_role": 1,
+          "sig_id": "226cb90d68a14a15ada3cec7fefd8de78499f8a10c183b16b9172a7de958a9ab0f"
+        },
+        {
+          "kid": "0121bded360663b1f599f2f55df48ad6f6d1fc7adea266f7e1ec6a87c39066d2cd090a",
+          "key_role": 2,
+          "sig_id": "f4c5cb2584969b465a2f535e1e741c33608bd141c9c23023c35c89447e68d6260f"
+        }
+      ]
+    }
+  }
 }
