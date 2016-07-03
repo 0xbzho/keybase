@@ -4,9 +4,9 @@
     "username": "termy",
     "ctime": 1466292239,
     "mtime": 1466292239,
-    "id_version": 28,
+    "id_version": 32,
     "track_version": 1,
-    "last_id_change": 1466949181,
+    "last_id_change": 1467234375,
     "username_cased": "Termy"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "0120ce40da14282224dd70e8069a59eac158f188e7908597cfb25a1945af9a6f0f430a",
       "0121daab09882420986d95375287cae1b4190720b58dad6a132be25e7c156d79a9690a",
       "012163bcf64c6956d4dd03a8836cbbfefa3a647802d9ed1a8f6d0aaa2f3d916fc05a0a",
-      "0120f262a5c2f1d9ffa82ed7890b8fc215b222ed595f143def12e7d6002bfe3ee2c00a"
+      "0120f262a5c2f1d9ffa82ed7890b8fc215b222ed595f143def12e7d6002bfe3ee2c00a",
+      "01212d6c956bea4cf067af461d7ab67fb10f4d4bbf0e78184006e0301cf13c25936a0a",
+      "01204813295d31c185a28bb505c2c6fafd7ae0b7ac6cb45fe1c07f42872e4cc5c9cb0a",
+      "01203d0f349ea6d4b9519c1aa3f7bfc26dbb06defcc45832434c66e7c94d162a56d50a",
+      "0121046cb7133a009a225daa4c7dea5976eedfcb5ddfc6b92656d9183d109161a9700a"
     ],
     "subkeys": [
-      "0121daab09882420986d95375287cae1b4190720b58dad6a132be25e7c156d79a9690a",
-      "012163bcf64c6956d4dd03a8836cbbfefa3a647802d9ed1a8f6d0aaa2f3d916fc05a0a"
+      "01212d6c956bea4cf067af461d7ab67fb10f4d4bbf0e78184006e0301cf13c25936a0a",
+      "0121046cb7133a009a225daa4c7dea5976eedfcb5ddfc6b92656d9183d109161a9700a"
     ],
     "sibkeys": [
       "0101cfb9d04e303b8625f63b37d9ef666751d5ff723dc1415353fe443a9bd9b05a0e0a",
-      "0120ce40da14282224dd70e8069a59eac158f188e7908597cfb25a1945af9a6f0f430a",
-      "0120f262a5c2f1d9ffa82ed7890b8fc215b222ed595f143def12e7d6002bfe3ee2c00a"
+      "01204813295d31c185a28bb505c2c6fafd7ae0b7ac6cb45fe1c07f42872e4cc5c9cb0a",
+      "01203d0f349ea6d4b9519c1aa3f7bfc26dbb06defcc45832434c66e7c94d162a56d50a"
     ],
     "families": {
       "0101cfb9d04e303b8625f63b37d9ef666751d5ff723dc1415353fe443a9bd9b05a0e0a": [
@@ -55,7 +59,11 @@
         "0120ce40da14282224dd70e8069a59eac158f188e7908597cfb25a1945af9a6f0f430a",
         "0121daab09882420986d95375287cae1b4190720b58dad6a132be25e7c156d79a9690a",
         "012163bcf64c6956d4dd03a8836cbbfefa3a647802d9ed1a8f6d0aaa2f3d916fc05a0a",
-        "0120f262a5c2f1d9ffa82ed7890b8fc215b222ed595f143def12e7d6002bfe3ee2c00a"
+        "0120f262a5c2f1d9ffa82ed7890b8fc215b222ed595f143def12e7d6002bfe3ee2c00a",
+        "01212d6c956bea4cf067af461d7ab67fb10f4d4bbf0e78184006e0301cf13c25936a0a",
+        "01204813295d31c185a28bb505c2c6fafd7ae0b7ac6cb45fe1c07f42872e4cc5c9cb0a",
+        "01203d0f349ea6d4b9519c1aa3f7bfc26dbb06defcc45832434c66e7c94d162a56d50a",
+        "0121046cb7133a009a225daa4c7dea5976eedfcb5ddfc6b92656d9183d109161a9700a"
       ]
     },
     "eldest_kid": "0101cfb9d04e303b8625f63b37d9ef666751d5ff723dc1415353fe443a9bd9b05a0e0a",
@@ -134,18 +142,6 @@
           "service_url": "http://termy.me",
           "presentation_group": "termy.me",
           "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "hkcowboys.co.uk",
-          "state": 1,
-          "proof_url": "https://keybase.io/termy/sigchain#e00baaf374ca54489e9a7843cf7688da0750dfb78f53245ab026cc050f6673270f",
-          "sig_id": "e00baaf374ca54489e9a7843cf7688da0750dfb78f53245ab026cc050f6673270f",
-          "proof_id": "38dc27d49a3d85111451e110",
-          "human_url": "dns://hkcowboys.co.uk",
-          "service_url": "http://hkcowboys.co.uk",
-          "presentation_group": "hkcowboys.co.uk",
-          "presentation_tag": "dns"
         }
       ]
     },
@@ -219,20 +215,6 @@
           "presentation_group": "termy.me",
           "presentation_tag": "dns"
         }
-      ],
-      "hkcowboys.co.uk": [
-        {
-          "proof_type": "dns",
-          "nametag": "hkcowboys.co.uk",
-          "state": 1,
-          "proof_url": "https://keybase.io/termy/sigchain#e00baaf374ca54489e9a7843cf7688da0750dfb78f53245ab026cc050f6673270f",
-          "sig_id": "e00baaf374ca54489e9a7843cf7688da0750dfb78f53245ab026cc050f6673270f",
-          "proof_id": "38dc27d49a3d85111451e110",
-          "human_url": "dns://hkcowboys.co.uk",
-          "service_url": "http://hkcowboys.co.uk",
-          "presentation_group": "hkcowboys.co.uk",
-          "presentation_tag": "dns"
-        }
       ]
     },
     "all": [
@@ -295,29 +277,10 @@
         "service_url": "http://termy.me",
         "presentation_group": "termy.me",
         "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "hkcowboys.co.uk",
-        "state": 1,
-        "proof_url": "https://keybase.io/termy/sigchain#e00baaf374ca54489e9a7843cf7688da0750dfb78f53245ab026cc050f6673270f",
-        "sig_id": "e00baaf374ca54489e9a7843cf7688da0750dfb78f53245ab026cc050f6673270f",
-        "proof_id": "38dc27d49a3d85111451e110",
-        "human_url": "dns://hkcowboys.co.uk",
-        "service_url": "http://hkcowboys.co.uk",
-        "presentation_group": "hkcowboys.co.uk",
-        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {
-    "bitcoin": [
-      {
-        "address": "1NYcYErWkHAewqRESj9CstY36HJfJccLm2",
-        "sig_id": "65bcf503ce8158aea0cda7e76c97b2af7d29862d4f789eb21d2c1a23e07aa8a90f"
-      }
-    ]
-  },
+  "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/415e4b4d82baabb52619145a5a3db205_360_360_square_360.jpeg",
@@ -328,47 +291,47 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "168b4d449a362a8878665496ded9f721694e77ca8fe9c0d97aca9a7ffc2f600e0f",
-      "seqno": 18,
-      "payload_hash": "3de836eb41b676f3cd9c3669077a97ad6f3e13b99b05c70877c1ad1232f89a52"
+      "sig_id": "20f267ffa0a3d4515151cb16797a34fd0b90b1a87209af858e9fb28a3a9f66110f",
+      "seqno": 24,
+      "payload_hash": "4e33eb894dbbc6b203b4140eb1e40a0bb1b25f42908b4a832e2501e907606fbf"
     }
   },
   "devices": {
-    "4a91fe8db281dff14cd13fc3f0b2bd18": {
+    "1d03d881a49f7a82c46b54a6f8fff518": {
       "type": "desktop",
-      "ctime": 1466880538,
-      "mtime": 1466880538,
-      "name": "Dalek Leenux",
+      "ctime": 1467234284,
+      "mtime": 1467234284,
+      "name": "Dalek Leenux on Arch Linux",
       "status": 1,
       "keys": [
         {
-          "kid": "0120ce40da14282224dd70e8069a59eac158f188e7908597cfb25a1945af9a6f0f430a",
+          "kid": "01204813295d31c185a28bb505c2c6fafd7ae0b7ac6cb45fe1c07f42872e4cc5c9cb0a",
           "key_role": 1,
-          "sig_id": "7595dbbaef81d3196e46d3230b24e6a98bb1f77f49c008831ddc65880008ba880f"
+          "sig_id": "6e700144458ac37a1a11fb7ca01d9fdaaab7f8d42dcabb03cc557f85c269a3ff0f"
         },
         {
-          "kid": "0121daab09882420986d95375287cae1b4190720b58dad6a132be25e7c156d79a9690a",
+          "kid": "01212d6c956bea4cf067af461d7ab67fb10f4d4bbf0e78184006e0301cf13c25936a0a",
           "key_role": 2,
-          "sig_id": "7393c2c289d4b0cd3844698cb1a999baa07ab4c04e4c1215f0fa11172da001a50f"
+          "sig_id": "75821d64d8a7ec8bafbdf603e7b5daf30be11f799f5096145ff049fb6e5e0d000f"
         }
       ]
     },
-    "83566a05b043ffc0ed1739671338d518": {
+    "e1523a4dc5b309a0a2fa6c6921437a18": {
       "type": "backup",
-      "ctime": 1466880539,
-      "mtime": 1466880539,
-      "name": "album pulp",
+      "ctime": 1467234375,
+      "mtime": 1467234375,
+      "name": "air faint",
       "status": 1,
       "keys": [
         {
-          "kid": "0120f262a5c2f1d9ffa82ed7890b8fc215b222ed595f143def12e7d6002bfe3ee2c00a",
+          "kid": "01203d0f349ea6d4b9519c1aa3f7bfc26dbb06defcc45832434c66e7c94d162a56d50a",
           "key_role": 1,
-          "sig_id": "c6e22fde41984d3705208403b8fdff16e8b49af8b9ef017791e5ef9424aeea380f"
+          "sig_id": "875b4f0b0269f485467e94b94487f3335af6faa9453fbc3ae3996741f7b459100f"
         },
         {
-          "kid": "012163bcf64c6956d4dd03a8836cbbfefa3a647802d9ed1a8f6d0aaa2f3d916fc05a0a",
+          "kid": "0121046cb7133a009a225daa4c7dea5976eedfcb5ddfc6b92656d9183d109161a9700a",
           "key_role": 2,
-          "sig_id": "cc2240114af76ecf5adb4122c09cd237980f6a10a005689b4b86339fd50c3b030f"
+          "sig_id": "20f267ffa0a3d4515151cb16797a34fd0b90b1a87209af858e9fb28a3a9f66110f"
         }
       ]
     }
