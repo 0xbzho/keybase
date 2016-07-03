@@ -4,9 +4,9 @@
     "username": "trozz",
     "ctime": 1405364125,
     "mtime": 1405364125,
-    "id_version": 90,
-    "track_version": 25,
-    "last_id_change": 1467207864,
+    "id_version": 94,
+    "track_version": 27,
+    "last_id_change": 1467553472,
     "username_cased": "trozz"
   },
   "profile": {
@@ -41,16 +41,20 @@
       "01210ecdd145f20e495842476ac477e670edd0e901227ef15b45c7b96d43b8456c6c0a",
       "01203ea889eb854aeae531589e043b53f71286e5ffa327d73f77e75ed04197afa2140a",
       "012136997e2fd5a22a022710fef8c148b7818ce415a38791158c98746c5b5c66953b0a",
-      "01206d7b1b24646b213e000228aaca2fdade8e510ee8bb1c828f07afc8cc587d8cb70a"
+      "01206d7b1b24646b213e000228aaca2fdade8e510ee8bb1c828f07afc8cc587d8cb70a",
+      "0121f853394253485bffb23b71742f76b14ade5a386a348c05223832c148a5ca7b560a",
+      "01207d13f4c199e2decc84a4b3552a45271aee9dc0926a2237065a87a2bc0ffa0bd90a"
     ],
     "subkeys": [
       "01210ecdd145f20e495842476ac477e670edd0e901227ef15b45c7b96d43b8456c6c0a",
-      "012136997e2fd5a22a022710fef8c148b7818ce415a38791158c98746c5b5c66953b0a"
+      "012136997e2fd5a22a022710fef8c148b7818ce415a38791158c98746c5b5c66953b0a",
+      "0121f853394253485bffb23b71742f76b14ade5a386a348c05223832c148a5ca7b560a"
     ],
     "sibkeys": [
       "01010fc5d07c33b1a5579b2e486f3f18c3b789fbac403c64db63da114d25c952cb610a",
       "01203ea889eb854aeae531589e043b53f71286e5ffa327d73f77e75ed04197afa2140a",
-      "01206d7b1b24646b213e000228aaca2fdade8e510ee8bb1c828f07afc8cc587d8cb70a"
+      "01206d7b1b24646b213e000228aaca2fdade8e510ee8bb1c828f07afc8cc587d8cb70a",
+      "01207d13f4c199e2decc84a4b3552a45271aee9dc0926a2237065a87a2bc0ffa0bd90a"
     ],
     "families": {
       "01010fc5d07c33b1a5579b2e486f3f18c3b789fbac403c64db63da114d25c952cb610a": [
@@ -61,7 +65,9 @@
         "01210ecdd145f20e495842476ac477e670edd0e901227ef15b45c7b96d43b8456c6c0a",
         "01203ea889eb854aeae531589e043b53f71286e5ffa327d73f77e75ed04197afa2140a",
         "012136997e2fd5a22a022710fef8c148b7818ce415a38791158c98746c5b5c66953b0a",
-        "01206d7b1b24646b213e000228aaca2fdade8e510ee8bb1c828f07afc8cc587d8cb70a"
+        "01206d7b1b24646b213e000228aaca2fdade8e510ee8bb1c828f07afc8cc587d8cb70a",
+        "0121f853394253485bffb23b71742f76b14ade5a386a348c05223832c148a5ca7b560a",
+        "01207d13f4c199e2decc84a4b3552a45271aee9dc0926a2237065a87a2bc0ffa0bd90a"
       ]
     },
     "eldest_kid": "01010fc5d07c33b1a5579b2e486f3f18c3b789fbac403c64db63da114d25c952cb610a",
@@ -287,12 +293,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "58581ff8a60b917695fa459d2c0f7cfe1b7ef05041c41fb213d4dffb95762b600f",
-      "seqno": 46,
-      "payload_hash": "9e7762438ff1d492b89a07d56399e17afbe73b0439818b80b3d5cc247c1e710c"
+      "sig_id": "f0b28749a3a829ebcbce226f782b32551f0bee5b0880c6c3c7b040db84dc24c20f",
+      "seqno": 53,
+      "payload_hash": "d77de62bfa023dec962931d91c104b92ef79ea6cc2803d7cf795c3f4ad1cc4d1"
     }
   },
   "devices": {
+    "2b066a9ba2233d8bce245cfd2203fa18": {
+      "type": "desktop",
+      "ctime": 1467552654,
+      "mtime": 1467552654,
+      "name": "Secura Laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207d13f4c199e2decc84a4b3552a45271aee9dc0926a2237065a87a2bc0ffa0bd90a",
+          "key_role": 1,
+          "sig_id": "4bc933751aa0b479e57c38ad68196c6786de74c30f9507465ea210f417ecf4b60f"
+        },
+        {
+          "kid": "0121f853394253485bffb23b71742f76b14ade5a386a348c05223832c148a5ca7b560a",
+          "key_role": 2,
+          "sig_id": "72e0c3efbf186dbf095edd13c95421d548ffd06cb7f175872ff6ae16060b96c50f"
+        }
+      ]
+    },
     "527feb968462e6ffa8b5af3af98f9518": {
       "type": "backup",
       "ctime": 1455113668,
