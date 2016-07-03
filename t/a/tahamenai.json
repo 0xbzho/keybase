@@ -4,9 +4,9 @@
     "username": "tahamenai",
     "ctime": 1458598811,
     "mtime": 1458598811,
-    "id_version": 18,
+    "id_version": 20,
     "track_version": 1,
-    "last_id_change": 1466566918,
+    "last_id_change": 1467506698,
     "username_cased": "tahamenai"
   },
   "public_keys": {
@@ -107,6 +107,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/tahamenai",
+          "state": 1,
+          "proof_url": "https://coinbase.com/tahamenai/public-key",
+          "sig_id": "4920a434605fb42394c234a611eaaef7f3882f4d6eed665da67e85e302bc86270f",
+          "proof_id": "562e2fd43ba04a784b729310",
+          "human_url": "https://coinbase.com/tahamenai/public-key",
+          "service_url": "https://coinbase.com/tahamenai",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
       ]
     },
     "by_presentation_group": {
@@ -151,6 +165,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/tahamenai",
+          "state": 1,
+          "proof_url": "https://coinbase.com/tahamenai/public-key",
+          "sig_id": "4920a434605fb42394c234a611eaaef7f3882f4d6eed665da67e85e302bc86270f",
+          "proof_id": "562e2fd43ba04a784b729310",
+          "human_url": "https://coinbase.com/tahamenai/public-key",
+          "service_url": "https://coinbase.com/tahamenai",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
       ]
     },
     "all": [
@@ -189,10 +217,29 @@
         "service_url": "https://reddit.com/user/tahamenai",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/tahamenai",
+        "state": 1,
+        "proof_url": "https://coinbase.com/tahamenai/public-key",
+        "sig_id": "4920a434605fb42394c234a611eaaef7f3882f4d6eed665da67e85e302bc86270f",
+        "proof_id": "562e2fd43ba04a784b729310",
+        "human_url": "https://coinbase.com/tahamenai/public-key",
+        "service_url": "https://coinbase.com/tahamenai",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "18bw6psrtj5vp6Bg2MRB2bMy6hNBMapnbX",
+        "sig_id": "a941e9724940afb6c6a5cd434009029373c6ab25c8e07fef59d1e7d1b527d2ec0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/c460619f93b3aa36f6935658e9b07005_360_360_square_360.png",
@@ -203,9 +250,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3fd7c903618913bc1ee44dbdc90beba00098b4ba9fbb861365f8e5e8f3fb9ad10f",
-      "seqno": 12,
-      "payload_hash": "fb79f80df4c532f73e2df459b75b73f73c2d54e818859cada13bca4aee78fb6a"
+      "sig_id": "a941e9724940afb6c6a5cd434009029373c6ab25c8e07fef59d1e7d1b527d2ec0f",
+      "seqno": 14,
+      "payload_hash": "0bc26a1dfd543896850ce39a2e7c967d64b0dc8e474a8148d4a678b2e259ac13"
     }
   },
   "devices": {
