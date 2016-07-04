@@ -4,9 +4,9 @@
     "username": "cberg",
     "ctime": 1408056527,
     "mtime": 1408056527,
-    "id_version": 14,
-    "track_version": 4,
-    "last_id_change": 1454703143,
+    "id_version": 18,
+    "track_version": 7,
+    "last_id_change": 1467633346,
     "username_cased": "cberg"
   },
   "profile": {
@@ -38,16 +38,18 @@
       "012167b49415aa626eaa4cb4e7b3eb0d8ed53a5e7d0ad7aed3193d97ce893cfe423a0a",
       "01209744110fce974c7561d32fcdf7225bcb300190eecb642c7445d4ff8e73f8c6640a",
       "01216bc84bc53556dfd21432a399a59fa8493b8a2ae2556a679380b1d9acc6e24c560a",
-      "01200182a0b17b1976ef9fefed0248e4e1dc121bf248511a368845e61a0eb44546130a"
+      "01200182a0b17b1976ef9fefed0248e4e1dc121bf248511a368845e61a0eb44546130a",
+      "0120eea9a6d463c899c4348b2773a603b66cbd17e4e9ec482b13d8cd785e4143dfa90a",
+      "012153a6f6c55d9feddfe7fd12486d723b0ce4488f23459885cba4b15175102f7c4c0a"
     ],
     "subkeys": [
-      "012167b49415aa626eaa4cb4e7b3eb0d8ed53a5e7d0ad7aed3193d97ce893cfe423a0a",
-      "01216bc84bc53556dfd21432a399a59fa8493b8a2ae2556a679380b1d9acc6e24c560a"
+      "01216bc84bc53556dfd21432a399a59fa8493b8a2ae2556a679380b1d9acc6e24c560a",
+      "012153a6f6c55d9feddfe7fd12486d723b0ce4488f23459885cba4b15175102f7c4c0a"
     ],
     "sibkeys": [
       "01010a9f2d214bc0f32a84ee7a8e5891c5929224994297c0415eb504e2feb2d34e1f0a",
-      "01209744110fce974c7561d32fcdf7225bcb300190eecb642c7445d4ff8e73f8c6640a",
-      "01200182a0b17b1976ef9fefed0248e4e1dc121bf248511a368845e61a0eb44546130a"
+      "01200182a0b17b1976ef9fefed0248e4e1dc121bf248511a368845e61a0eb44546130a",
+      "0120eea9a6d463c899c4348b2773a603b66cbd17e4e9ec482b13d8cd785e4143dfa90a"
     ],
     "families": {
       "01010a9f2d214bc0f32a84ee7a8e5891c5929224994297c0415eb504e2feb2d34e1f0a": [
@@ -55,7 +57,9 @@
         "012167b49415aa626eaa4cb4e7b3eb0d8ed53a5e7d0ad7aed3193d97ce893cfe423a0a",
         "01209744110fce974c7561d32fcdf7225bcb300190eecb642c7445d4ff8e73f8c6640a",
         "01216bc84bc53556dfd21432a399a59fa8493b8a2ae2556a679380b1d9acc6e24c560a",
-        "01200182a0b17b1976ef9fefed0248e4e1dc121bf248511a368845e61a0eb44546130a"
+        "01200182a0b17b1976ef9fefed0248e4e1dc121bf248511a368845e61a0eb44546130a",
+        "0120eea9a6d463c899c4348b2773a603b66cbd17e4e9ec482b13d8cd785e4143dfa90a",
+        "012153a6f6c55d9feddfe7fd12486d723b0ce4488f23459885cba4b15175102f7c4c0a"
       ]
     },
     "eldest_kid": "01010a9f2d214bc0f32a84ee7a8e5891c5929224994297c0415eb504e2feb2d34e1f0a",
@@ -93,6 +97,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "christianberg.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/cberg/sigchain#7e036cce7e86cc3432a1bcb2d57f046b1fb5bd1f97d88f10588bcc6dd09a60460f",
+          "sig_id": "7e036cce7e86cc3432a1bcb2d57f046b1fb5bd1f97d88f10588bcc6dd09a60460f",
+          "proof_id": "4d4ee2fa78658ac59ed45510",
+          "human_url": "dns://christianberg.org",
+          "service_url": "http://christianberg.org",
+          "presentation_group": "christianberg.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -123,6 +141,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "christianberg.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "christianberg.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/cberg/sigchain#7e036cce7e86cc3432a1bcb2d57f046b1fb5bd1f97d88f10588bcc6dd09a60460f",
+          "sig_id": "7e036cce7e86cc3432a1bcb2d57f046b1fb5bd1f97d88f10588bcc6dd09a60460f",
+          "proof_id": "4d4ee2fa78658ac59ed45510",
+          "human_url": "dns://christianberg.org",
+          "service_url": "http://christianberg.org",
+          "presentation_group": "christianberg.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -149,6 +181,18 @@
         "service_url": "https://github.com/christianberg",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "christianberg.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/cberg/sigchain#7e036cce7e86cc3432a1bcb2d57f046b1fb5bd1f97d88f10588bcc6dd09a60460f",
+        "sig_id": "7e036cce7e86cc3432a1bcb2d57f046b1fb5bd1f97d88f10588bcc6dd09a60460f",
+        "proof_id": "4d4ee2fa78658ac59ed45510",
+        "human_url": "dns://christianberg.org",
+        "service_url": "http://christianberg.org",
+        "presentation_group": "christianberg.org",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -163,9 +207,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "31bb3e9cb5feb5fe8236f401e397d33e62c1c9738effb24fc00bfd45508b43280f",
-      "seqno": 11,
-      "payload_hash": "70c97a08f0c48c29732d987b4b2ca8ad173512b7d54d320973a96a27b5d32e98"
+      "sig_id": "1f55b6553c0403c2d4825fa93e83fd0c844cfff32571e470d01a168a920fd5170f",
+      "seqno": 18,
+      "payload_hash": "d4fda521c889c75ac621afd728cfc8e2986c3e3568c08285dff0eca4b10f48cc"
     }
   },
   "devices": {
@@ -188,22 +232,22 @@
         }
       ]
     },
-    "35725f26608a764e382c88017b994918": {
+    "e3fed184fc5625ff2a2ae25adcb11d18": {
       "type": "desktop",
-      "ctime": 1454703141,
-      "mtime": 1454703141,
-      "name": "Work MacBook",
+      "ctime": 1467631720,
+      "mtime": 1467631720,
+      "name": "MacBook 20979",
       "status": 1,
       "keys": [
         {
-          "kid": "01209744110fce974c7561d32fcdf7225bcb300190eecb642c7445d4ff8e73f8c6640a",
+          "kid": "0120eea9a6d463c899c4348b2773a603b66cbd17e4e9ec482b13d8cd785e4143dfa90a",
           "key_role": 1,
-          "sig_id": "e3087e46fc0bc7c8db4810d5798d60b4a381a0d7472356d457112274f45d46240f"
+          "sig_id": "656663404d3250bb93a5ad55a3e301fb65c2f29ec6a6225b9eb4158d2de6e0f10f"
         },
         {
-          "kid": "012167b49415aa626eaa4cb4e7b3eb0d8ed53a5e7d0ad7aed3193d97ce893cfe423a0a",
+          "kid": "012153a6f6c55d9feddfe7fd12486d723b0ce4488f23459885cba4b15175102f7c4c0a",
           "key_role": 2,
-          "sig_id": "cf4da8bcb3481e3a18173415f8328ab61ccc8fb25e59c62387bc97cf9ec618170f"
+          "sig_id": "e8365b2419315ec2978610c2027c61c08ca9eb46e8e566d48e29680413a747e20f"
         }
       ]
     }
