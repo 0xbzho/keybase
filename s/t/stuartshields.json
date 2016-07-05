@@ -1,0 +1,92 @@
+{
+  "id": "c32cf76778b8254670e954756e704a19",
+  "basics": {
+    "username": "stuartshields",
+    "ctime": 1465252906,
+    "mtime": 1465252906,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1465254437,
+    "username_cased": "stuartshields"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "012116cbf1bf0c2fe36dd4f7c097b5a544e2df13c40a7b7ef58c72bae617896b020d0a",
+      "0120a6f8a2330e682e00e272d928fa47555fdf0f45f580f399d918ba6b6e9a44d2930a",
+      "012145c4665ea2b33448d4dc9d7df2636ad2c6be882f0156180e208ee71b20015b4e0a",
+      "01207d74507abf81cb15d7754e422d004330e5416e2fe0636dd07e78e7e3ec8504980a"
+    ],
+    "subkeys": [
+      "012116cbf1bf0c2fe36dd4f7c097b5a544e2df13c40a7b7ef58c72bae617896b020d0a",
+      "012145c4665ea2b33448d4dc9d7df2636ad2c6be882f0156180e208ee71b20015b4e0a"
+    ],
+    "sibkeys": [
+      "0120a6f8a2330e682e00e272d928fa47555fdf0f45f580f399d918ba6b6e9a44d2930a",
+      "01207d74507abf81cb15d7754e422d004330e5416e2fe0636dd07e78e7e3ec8504980a"
+    ],
+    "families": {
+      "0120a6f8a2330e682e00e272d928fa47555fdf0f45f580f399d918ba6b6e9a44d2930a": [
+        "012116cbf1bf0c2fe36dd4f7c097b5a544e2df13c40a7b7ef58c72bae617896b020d0a",
+        "0120a6f8a2330e682e00e272d928fa47555fdf0f45f580f399d918ba6b6e9a44d2930a",
+        "012145c4665ea2b33448d4dc9d7df2636ad2c6be882f0156180e208ee71b20015b4e0a",
+        "01207d74507abf81cb15d7754e422d004330e5416e2fe0636dd07e78e7e3ec8504980a"
+      ]
+    },
+    "eldest_kid": "0120a6f8a2330e682e00e272d928fa47555fdf0f45f580f399d918ba6b6e9a44d2930a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "c1c3d2b0e1b8833cc31c0ae685c5e3585d2ed281d5e1b5b028f966a07109c40d0f",
+      "seqno": 4,
+      "payload_hash": "cdb3f64a970b03eda2a3e5179fc936d585ce7346e8755148a098c7930ee66901"
+    }
+  },
+  "devices": {
+    "021ded2b65df76ba8ec9fc14f2d51c18": {
+      "type": "backup",
+      "ctime": 1465254437,
+      "mtime": 1465254437,
+      "name": "deposit gesture",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207d74507abf81cb15d7754e422d004330e5416e2fe0636dd07e78e7e3ec8504980a",
+          "key_role": 1,
+          "sig_id": "47cfc65f699ffc41fa9ef56aa43f76f5fc1cf48e7c345e6d9048da86811057510f"
+        },
+        {
+          "kid": "012145c4665ea2b33448d4dc9d7df2636ad2c6be882f0156180e208ee71b20015b4e0a",
+          "key_role": 2,
+          "sig_id": "c1c3d2b0e1b8833cc31c0ae685c5e3585d2ed281d5e1b5b028f966a07109c40d0f"
+        }
+      ]
+    },
+    "b2e08bf37e55e36cdd3852566a904c18": {
+      "type": "desktop",
+      "ctime": 1465254435,
+      "mtime": 1465254435,
+      "name": "Work Laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a6f8a2330e682e00e272d928fa47555fdf0f45f580f399d918ba6b6e9a44d2930a",
+          "key_role": 1,
+          "sig_id": "477dbc0d0d7d4503e06e6b9d2c88b8fd54de4de8cc5c96789edceebe88f0c64d0f"
+        },
+        {
+          "kid": "012116cbf1bf0c2fe36dd4f7c097b5a544e2df13c40a7b7ef58c72bae617896b020d0a",
+          "key_role": 2,
+          "sig_id": "96b49adb0705c8472e9105785b834e4b85aad641062128ef39592be64d507b3d0f"
+        }
+      ]
+    }
+  }
+}
