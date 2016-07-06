@@ -1,0 +1,92 @@
+{
+  "id": "c263e0c41012b290f31c739a11294f19",
+  "basics": {
+    "username": "viktorsteinwand",
+    "ctime": 1467555203,
+    "mtime": 1467555203,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1467555947,
+    "username_cased": "viktorsteinwand"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121f13fd04ef65eed50d2ea553200df6dc2b0d8b11843ea1ec073fe0d340f76dc350a",
+      "0120bc5ba7c0e48ab587e34327505ba8de5ca4fd432a1594a2343696a5699ff60b6f0a",
+      "0120af2ae549fb94ffb4dfc92dd6d6e641266dca21af705b68553ec383ba26fcca4a0a",
+      "01216b4d067c1c288e77d161b501bba9faf0c89d611c66176c4ea8ea32568c72ee600a"
+    ],
+    "subkeys": [
+      "0121f13fd04ef65eed50d2ea553200df6dc2b0d8b11843ea1ec073fe0d340f76dc350a",
+      "01216b4d067c1c288e77d161b501bba9faf0c89d611c66176c4ea8ea32568c72ee600a"
+    ],
+    "sibkeys": [
+      "0120bc5ba7c0e48ab587e34327505ba8de5ca4fd432a1594a2343696a5699ff60b6f0a",
+      "0120af2ae549fb94ffb4dfc92dd6d6e641266dca21af705b68553ec383ba26fcca4a0a"
+    ],
+    "families": {
+      "0120bc5ba7c0e48ab587e34327505ba8de5ca4fd432a1594a2343696a5699ff60b6f0a": [
+        "0121f13fd04ef65eed50d2ea553200df6dc2b0d8b11843ea1ec073fe0d340f76dc350a",
+        "0120bc5ba7c0e48ab587e34327505ba8de5ca4fd432a1594a2343696a5699ff60b6f0a",
+        "0120af2ae549fb94ffb4dfc92dd6d6e641266dca21af705b68553ec383ba26fcca4a0a",
+        "01216b4d067c1c288e77d161b501bba9faf0c89d611c66176c4ea8ea32568c72ee600a"
+      ]
+    },
+    "eldest_kid": "0120bc5ba7c0e48ab587e34327505ba8de5ca4fd432a1594a2343696a5699ff60b6f0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "0551774f77680039bec6c48216812cd52add3f4a1160d2e2acc0c3bfd043363f0f",
+      "seqno": 4,
+      "payload_hash": "485c300bac2c775f8e8c460cf8ba10c5578bf060e3d7532ea8718449e5387bcb"
+    }
+  },
+  "devices": {
+    "312622131080319557f31cf06ebcf118": {
+      "type": "backup",
+      "ctime": 1467555947,
+      "mtime": 1467555947,
+      "name": "first hurry",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120af2ae549fb94ffb4dfc92dd6d6e641266dca21af705b68553ec383ba26fcca4a0a",
+          "key_role": 1,
+          "sig_id": "ed3831192a93405787efd8ddfb023076d70cfad9a4993f39b667e2eef1d473870f"
+        },
+        {
+          "kid": "01216b4d067c1c288e77d161b501bba9faf0c89d611c66176c4ea8ea32568c72ee600a",
+          "key_role": 2,
+          "sig_id": "0551774f77680039bec6c48216812cd52add3f4a1160d2e2acc0c3bfd043363f0f"
+        }
+      ]
+    },
+    "a03e77b6a12cf3a5e76641db2d660018": {
+      "type": "desktop",
+      "ctime": 1467555946,
+      "mtime": 1467555946,
+      "name": "MPB15Home",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120bc5ba7c0e48ab587e34327505ba8de5ca4fd432a1594a2343696a5699ff60b6f0a",
+          "key_role": 1,
+          "sig_id": "7382b82483e5cb5b68175434dd07fbd1a066194732204c65932110756a14b6b50f"
+        },
+        {
+          "kid": "0121f13fd04ef65eed50d2ea553200df6dc2b0d8b11843ea1ec073fe0d340f76dc350a",
+          "key_role": 2,
+          "sig_id": "136effd6465284e5816d614ed8d5e90b843fddf99e3decf183d818c721894fe10f"
+        }
+      ]
+    }
+  }
+}
