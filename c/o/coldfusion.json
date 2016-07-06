@@ -4,9 +4,9 @@
     "username": "coldfusion",
     "ctime": 1450188499,
     "mtime": 1450188499,
-    "id_version": 10,
+    "id_version": 11,
     "track_version": 3,
-    "last_id_change": 1467735445,
+    "last_id_change": 1467784183,
     "username_cased": "coldfusion"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "012021d821be5a7ebaaeb32a3167ff6d79c59e5831b2925220a35d797880cde75eea0a",
       "012155b7bbaa25dc7f8d06ab7df4aa6ccb2a275d828204533f3f1316658e72bb584f0a",
       "0121a9687978a53c7c799d62bbdd52a98af7ea523890c285f3b5f5b068efb343106f0a",
-      "012001633bc0e516366f4f8aeb9e2881e19c2f446168be447372a14edf8a471fce590a"
+      "012001633bc0e516366f4f8aeb9e2881e19c2f446168be447372a14edf8a471fce590a",
+      "0120208badbd2f2c57e5ba246e5b2b67f282306f39d19f5f1c5593d6f244d671839f0a",
+      "012126a33bf2795e5f09d62bbe8382163a7467f00231294688ded3ba5fbf4b92704e0a"
     ],
     "subkeys": [
       "012155b7bbaa25dc7f8d06ab7df4aa6ccb2a275d828204533f3f1316658e72bb584f0a",
-      "0121a9687978a53c7c799d62bbdd52a98af7ea523890c285f3b5f5b068efb343106f0a"
+      "0121a9687978a53c7c799d62bbdd52a98af7ea523890c285f3b5f5b068efb343106f0a",
+      "012126a33bf2795e5f09d62bbe8382163a7467f00231294688ded3ba5fbf4b92704e0a"
     ],
     "sibkeys": [
       "0101cdf1396d7dbc751b5ec54b5e3d0f500444defd85d87d4e56c99f621dd358a9890a",
       "012021d821be5a7ebaaeb32a3167ff6d79c59e5831b2925220a35d797880cde75eea0a",
-      "012001633bc0e516366f4f8aeb9e2881e19c2f446168be447372a14edf8a471fce590a"
+      "012001633bc0e516366f4f8aeb9e2881e19c2f446168be447372a14edf8a471fce590a",
+      "0120208badbd2f2c57e5ba246e5b2b67f282306f39d19f5f1c5593d6f244d671839f0a"
     ],
     "families": {
       "0101cdf1396d7dbc751b5ec54b5e3d0f500444defd85d87d4e56c99f621dd358a9890a": [
@@ -55,7 +59,9 @@
         "012021d821be5a7ebaaeb32a3167ff6d79c59e5831b2925220a35d797880cde75eea0a",
         "012155b7bbaa25dc7f8d06ab7df4aa6ccb2a275d828204533f3f1316658e72bb584f0a",
         "0121a9687978a53c7c799d62bbdd52a98af7ea523890c285f3b5f5b068efb343106f0a",
-        "012001633bc0e516366f4f8aeb9e2881e19c2f446168be447372a14edf8a471fce590a"
+        "012001633bc0e516366f4f8aeb9e2881e19c2f446168be447372a14edf8a471fce590a",
+        "0120208badbd2f2c57e5ba246e5b2b67f282306f39d19f5f1c5593d6f244d671839f0a",
+        "012126a33bf2795e5f09d62bbe8382163a7467f00231294688ded3ba5fbf4b92704e0a"
       ]
     },
     "eldest_kid": "0101cdf1396d7dbc751b5ec54b5e3d0f500444defd85d87d4e56c99f621dd358a9890a",
@@ -170,12 +176,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "45ed250790362fb245dcd3283bca7645767157bcd9254850c5b46f97d643e78f0f",
-      "seqno": 12,
-      "payload_hash": "6f02f57bc23e49b3bba43bb2eb4f6d057b4f43c31b29f08e68c2e531d9d0b035"
+      "sig_id": "fb474fd6428a5894b9d86120266d68495fe5dc1bfb5e513ccf0e9e11e49b7a560f",
+      "seqno": 14,
+      "payload_hash": "be90ddbd3b5556b3496b49cf2f135d03679bff2d2bc05eafe2811cff5ce08c16"
     }
   },
   "devices": {
+    "a6da792748a515d9cccbc2e8c6a56b18": {
+      "type": "desktop",
+      "ctime": 1467784183,
+      "mtime": 1467784183,
+      "name": "Attack VM - Home",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120208badbd2f2c57e5ba246e5b2b67f282306f39d19f5f1c5593d6f244d671839f0a",
+          "key_role": 1,
+          "sig_id": "d43b26285b57ca22d21d5e8ea426eb9db2ae37d87a3c36c1d66b6567e6c8fe080f"
+        },
+        {
+          "kid": "012126a33bf2795e5f09d62bbe8382163a7467f00231294688ded3ba5fbf4b92704e0a",
+          "key_role": 2,
+          "sig_id": "fb474fd6428a5894b9d86120266d68495fe5dc1bfb5e513ccf0e9e11e49b7a560f"
+        }
+      ]
+    },
     "ad0cf8880ab8ccf5eb03f26c26b49c18": {
       "type": "desktop",
       "ctime": 1467735444,
