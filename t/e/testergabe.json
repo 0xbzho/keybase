@@ -4,9 +4,9 @@
     "username": "testergabe",
     "ctime": 1461606964,
     "mtime": 1461606964,
-    "id_version": 4,
+    "id_version": 5,
     "track_version": 1,
-    "last_id_change": 1461615511,
+    "last_id_change": 1467841531,
     "username_cased": "testergabe"
   },
   "public_keys": {
@@ -18,17 +18,21 @@
       "0120581d401d17acc10f19299c1e7271034bdaed00b61d507734aefb936e04cdb11e0a",
       "01211c72c2c2e61ecaf9874bd2ca274e37b742f5014e67852d01ac5b23dab5d9161b0a",
       "0120eaf6bdeede857daece849109fe47ecc159f3043247358623c565fdb5f7e2ca280a",
-      "0121a47ca2e5eb251bc8afe82dc9ce6696f2ee2f718e5366f56bc3b8478cb64822770a"
+      "0121a47ca2e5eb251bc8afe82dc9ce6696f2ee2f718e5366f56bc3b8478cb64822770a",
+      "012087d0d824fc762877a94561d1f7bb6e789b91580e0aac424b5435895616e63a050a",
+      "01218cce1740307572b2c1b3265189ca1cef0d1a729db7389595ab342c4b86bc5d300a"
     ],
     "subkeys": [
       "0121a76d90cd4ae18fe061eda47c4afc46847ab44773ef360d8fe184b6606d51e7410a",
       "01210ee93ffd1727d7c579c02e4d33c3965f5a7626374ce3e8ca1f5f06c88de20d090a",
-      "0121a47ca2e5eb251bc8afe82dc9ce6696f2ee2f718e5366f56bc3b8478cb64822770a"
+      "0121a47ca2e5eb251bc8afe82dc9ce6696f2ee2f718e5366f56bc3b8478cb64822770a",
+      "01218cce1740307572b2c1b3265189ca1cef0d1a729db7389595ab342c4b86bc5d300a"
     ],
     "sibkeys": [
       "0120f941d66cface9011b3082a52e6d8310c78a6ac63f16e10637df51afe56f11acb0a",
       "0120e0db069c69e0577e557f456aad53670aeb1b85343ab8fc43bfef133738b4ea310a",
-      "0120eaf6bdeede857daece849109fe47ecc159f3043247358623c565fdb5f7e2ca280a"
+      "0120eaf6bdeede857daece849109fe47ecc159f3043247358623c565fdb5f7e2ca280a",
+      "012087d0d824fc762877a94561d1f7bb6e789b91580e0aac424b5435895616e63a050a"
     ],
     "families": {
       "0120f941d66cface9011b3082a52e6d8310c78a6ac63f16e10637df51afe56f11acb0a": [
@@ -39,7 +43,9 @@
         "0120581d401d17acc10f19299c1e7271034bdaed00b61d507734aefb936e04cdb11e0a",
         "01211c72c2c2e61ecaf9874bd2ca274e37b742f5014e67852d01ac5b23dab5d9161b0a",
         "0120eaf6bdeede857daece849109fe47ecc159f3043247358623c565fdb5f7e2ca280a",
-        "0121a47ca2e5eb251bc8afe82dc9ce6696f2ee2f718e5366f56bc3b8478cb64822770a"
+        "0121a47ca2e5eb251bc8afe82dc9ce6696f2ee2f718e5366f56bc3b8478cb64822770a",
+        "012087d0d824fc762877a94561d1f7bb6e789b91580e0aac424b5435895616e63a050a",
+        "01218cce1740307572b2c1b3265189ca1cef0d1a729db7389595ab342c4b86bc5d300a"
       ]
     },
     "eldest_kid": "0120f941d66cface9011b3082a52e6d8310c78a6ac63f16e10637df51afe56f11acb0a",
@@ -54,12 +60,31 @@
   "cryptocurrency_addresses": {},
   "sigs": {
     "last": {
-      "sig_id": "c1a6e83551ee19b0d681c430c85262022185a8720e6f6e17443262bb6711c5660f",
-      "seqno": 10,
-      "payload_hash": "592e3eafc84a278244add4ec71f0c642f74094da44d18b2a5401c0be5d22f5e3"
+      "sig_id": "29aceb448a5e7e661d79abce651337d11dfa9c98cc73181a75451b6be185eaef0f",
+      "seqno": 12,
+      "payload_hash": "dd777b7b51aaab4357410b89cb18be8d038bef5e09c83a61451f505963624b1e"
     }
   },
   "devices": {
+    "3268bb53ec55572f8d840b36833aa518": {
+      "type": "desktop",
+      "ctime": 1467841531,
+      "mtime": 1467841531,
+      "name": "Windows VM",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012087d0d824fc762877a94561d1f7bb6e789b91580e0aac424b5435895616e63a050a",
+          "key_role": 1,
+          "sig_id": "cfd2940c930045d884f455f3cd5cba325e7b23a2a6a1b69b5f61982b6d7a5fc50f"
+        },
+        {
+          "kid": "01218cce1740307572b2c1b3265189ca1cef0d1a729db7389595ab342c4b86bc5d300a",
+          "key_role": 2,
+          "sig_id": "29aceb448a5e7e661d79abce651337d11dfa9c98cc73181a75451b6be185eaef0f"
+        }
+      ]
+    },
     "47bc171b57e0cf75402aceabab223518": {
       "type": "backup",
       "ctime": 1461606967,
