@@ -4,9 +4,9 @@
     "username": "jefffan24",
     "ctime": 1411492429,
     "mtime": 1411492429,
-    "id_version": 68,
-    "track_version": 16,
-    "last_id_change": 1463317327,
+    "id_version": 71,
+    "track_version": 20,
+    "last_id_change": 1467755358,
     "username_cased": "jefffan24"
   },
   "public_keys": {
@@ -38,13 +38,11 @@
       "01202a624ad5ce5d8e4f27d631bfbb33bddbf887c480a0c30cd48bb2fbc7edf9a4200a"
     ],
     "subkeys": [
-      "012125732fa7535b3711e9f98887d653c9befda7eefd9560ee8f010127fb61d91d560a",
       "0121b07befea21866163b8111d205dbe959e1e2f887611ab5f8a9724889679f7a9000a",
       "0121346efbf43b8d648c903dfb35ee38e530ad08e785b174146a36872e090bee1b780a"
     ],
     "sibkeys": [
       "010162311377f9c0384c2b40877dd18540b261cf52b149a8fe8241561ed0e0db38d40a",
-      "0120e771ad087212ed9a39408483f1bdeeff4ca847ab07fe0f27d705a17a772407e80a",
       "012054d53537145e086e9185e51619c9b0e1ff8871d9383316f434984a9fc617e6f50a",
       "01202a624ad5ce5d8e4f27d631bfbb33bddbf887c480a0c30cd48bb2fbc7edf9a4200a"
     ],
@@ -109,6 +107,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "adamheim.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/jefffan24/sigchain#de8e0b9200b8d39e68c37d8dec5e08ecdbecf123ebb613c533b8fc59b3b052970f",
+          "sig_id": "de8e0b9200b8d39e68c37d8dec5e08ecdbecf123ebb613c533b8fc59b3b052970f",
+          "proof_id": "f174a203c183c598b1ac7c10",
+          "human_url": "dns://adamheim.me",
+          "service_url": "http://adamheim.me",
+          "presentation_group": "adamheim.me",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -153,6 +165,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "adamheim.me": [
+        {
+          "proof_type": "dns",
+          "nametag": "adamheim.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/jefffan24/sigchain#de8e0b9200b8d39e68c37d8dec5e08ecdbecf123ebb613c533b8fc59b3b052970f",
+          "sig_id": "de8e0b9200b8d39e68c37d8dec5e08ecdbecf123ebb613c533b8fc59b3b052970f",
+          "proof_id": "f174a203c183c598b1ac7c10",
+          "human_url": "dns://adamheim.me",
+          "service_url": "http://adamheim.me",
+          "presentation_group": "adamheim.me",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -191,6 +217,18 @@
         "service_url": "https://reddit.com/user/jefffan24",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "adamheim.me",
+        "state": 1,
+        "proof_url": "https://keybase.io/jefffan24/sigchain#de8e0b9200b8d39e68c37d8dec5e08ecdbecf123ebb613c533b8fc59b3b052970f",
+        "sig_id": "de8e0b9200b8d39e68c37d8dec5e08ecdbecf123ebb613c533b8fc59b3b052970f",
+        "proof_id": "f174a203c183c598b1ac7c10",
+        "human_url": "dns://adamheim.me",
+        "service_url": "http://adamheim.me",
+        "presentation_group": "adamheim.me",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -205,9 +243,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b3d04a0af1372ae6830fc327513d9a03c33055f25b5a1ed42f2774d60fdfa74c0f",
-      "seqno": 33,
-      "payload_hash": "777a64dde2cccb572de0ac5d88d7152b2fa1e258c531257eb146107786c213ba"
+      "sig_id": "de8e0b9200b8d39e68c37d8dec5e08ecdbecf123ebb613c533b8fc59b3b052970f",
+      "seqno": 39,
+      "payload_hash": "68714864b5658c0cacd639a0114b491b733c37028e2d80c4a09268e257315a52"
     }
   },
   "devices": {
@@ -227,25 +265,6 @@
           "kid": "0121b07befea21866163b8111d205dbe959e1e2f887611ab5f8a9724889679f7a9000a",
           "key_role": 2,
           "sig_id": "4de74d8a0288713cff7b70970192b7a9530cc3b208643e0d4f6027bba04fcc6e0f"
-        }
-      ]
-    },
-    "3f9798fd96b11c3ecf5b9a68d3b6aa18": {
-      "type": "desktop",
-      "ctime": 1450373550,
-      "mtime": 1450373550,
-      "name": "AdamWorkUbuntu1404",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120e771ad087212ed9a39408483f1bdeeff4ca847ab07fe0f27d705a17a772407e80a",
-          "key_role": 1,
-          "sig_id": "a2cdfd53884169f2cef7656bcf846446a65efd7b2d785bb3ba571b58d68251bc0f"
-        },
-        {
-          "kid": "012125732fa7535b3711e9f98887d653c9befda7eefd9560ee8f010127fb61d91d560a",
-          "key_role": 2,
-          "sig_id": "eb07698587459bc3dc0553c0b8d2b07b892663ccdfb301c74600936df94eed700f"
         }
       ]
     },
