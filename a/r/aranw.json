@@ -4,16 +4,16 @@
     "username": "aranw",
     "ctime": 1408023504,
     "mtime": 1408023504,
-    "id_version": 120,
+    "id_version": 121,
     "track_version": 7,
-    "last_id_change": 1463787743,
+    "last_id_change": 1467847527,
     "username_cased": "aranw"
   },
   "profile": {
-    "mtime": 1408024348,
+    "mtime": 1467801612,
     "full_name": "Aran Wilkinson",
     "location": "Huddersfield, UK",
-    "bio": "I live in Huddersfield. I'm a Web Developer working for Elder Studios."
+    "bio": "I'm a Software Developer working for Elder Studios."
   },
   "public_keys": {
     "primary": {
@@ -40,18 +40,20 @@
       "012111156ce5289bc92a93ff082d84e4a53307eba1d678e9743aa13780f8a81f09470a",
       "0120b4514c47d823bd99ebd0c3c4ebbbd9f7ec0040964aee4951faf292bfcb912e180a",
       "01219b9de5be7c91f9535e7b4a350d777b9024c2167488d3874817834d90c69230190a",
-      "0120f0312e6b16e3cb3727d239e65e011709b3364e1663f5c974c489442b9f17297e0a"
+      "0120f0312e6b16e3cb3727d239e65e011709b3364e1663f5c974c489442b9f17297e0a",
+      "01204439683f6fe09a9787ccbcbd3ff6fa5d90885547aefd6563c4080c23f2da48fe0a",
+      "0121804daf04041082e63718ad2ce605177404645a6fbbc757505da0347e2f92db210a"
     ],
     "subkeys": [
       "0121730b001071ea28d35eb72811c45f1bea8469271d7e8753692cde9374a63f1f350a",
       "012111156ce5289bc92a93ff082d84e4a53307eba1d678e9743aa13780f8a81f09470a",
-      "01219b9de5be7c91f9535e7b4a350d777b9024c2167488d3874817834d90c69230190a"
+      "0121804daf04041082e63718ad2ce605177404645a6fbbc757505da0347e2f92db210a"
     ],
     "sibkeys": [
       "0101bc650eabf54b11d61148a2c4a0a1c95306034e9105844bef3db615b0e6d893220a",
       "012022b1ae9adec4524bf8ac2b147cfb0fec54700ad43e831c3e80ebd84de08415620a",
       "0120b4514c47d823bd99ebd0c3c4ebbbd9f7ec0040964aee4951faf292bfcb912e180a",
-      "0120f0312e6b16e3cb3727d239e65e011709b3364e1663f5c974c489442b9f17297e0a"
+      "01204439683f6fe09a9787ccbcbd3ff6fa5d90885547aefd6563c4080c23f2da48fe0a"
     ],
     "families": {
       "0101bc650eabf54b11d61148a2c4a0a1c95306034e9105844bef3db615b0e6d893220a": [
@@ -61,7 +63,9 @@
         "012111156ce5289bc92a93ff082d84e4a53307eba1d678e9743aa13780f8a81f09470a",
         "0120b4514c47d823bd99ebd0c3c4ebbbd9f7ec0040964aee4951faf292bfcb912e180a",
         "01219b9de5be7c91f9535e7b4a350d777b9024c2167488d3874817834d90c69230190a",
-        "0120f0312e6b16e3cb3727d239e65e011709b3364e1663f5c974c489442b9f17297e0a"
+        "0120f0312e6b16e3cb3727d239e65e011709b3364e1663f5c974c489442b9f17297e0a",
+        "01204439683f6fe09a9787ccbcbd3ff6fa5d90885547aefd6563c4080c23f2da48fe0a",
+        "0121804daf04041082e63718ad2ce605177404645a6fbbc757505da0347e2f92db210a"
       ]
     },
     "eldest_kid": "0101bc650eabf54b11d61148a2c4a0a1c95306034e9105844bef3db615b0e6d893220a",
@@ -336,31 +340,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "23a4a1d6ebd82add371997cce95560fd9f540cda794fd887ded44dce2103fde30f",
-      "seqno": 22,
-      "payload_hash": "c60fe05e51a06edc09bbfb45ca34f95af2ed41fbde4290d620e96624ecf9afca"
+      "sig_id": "6566e157563ef29d847673faa8301955ec24db29c8068d5546b4705315058f340f",
+      "seqno": 25,
+      "payload_hash": "0174f79a16a657d07f1c3b7a7ab216bcce128427b1be2d74142ebbd6b28b62ae"
     }
   },
   "devices": {
-    "08701466ceac4b85d71859d67f93c418": {
-      "type": "desktop",
-      "ctime": 1454692412,
-      "mtime": 1454692412,
-      "name": "Work Macbook Pro",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120f0312e6b16e3cb3727d239e65e011709b3364e1663f5c974c489442b9f17297e0a",
-          "key_role": 1,
-          "sig_id": "375ce0fddd969dd1ed476fb65fb426d19aa212f23be52b4a2330e7c623ff33160f"
-        },
-        {
-          "kid": "01219b9de5be7c91f9535e7b4a350d777b9024c2167488d3874817834d90c69230190a",
-          "key_role": 2,
-          "sig_id": "6c1aa2de3bb629d816923463128964d5ec7057686b4e7eafb814fd48a3fc50ce0f"
-        }
-      ]
-    },
     "29e7f0e279185957f08e3ba5d10c5918": {
       "type": "desktop",
       "ctime": 1454691785,
@@ -396,6 +381,25 @@
           "kid": "012111156ce5289bc92a93ff082d84e4a53307eba1d678e9743aa13780f8a81f09470a",
           "key_role": 2,
           "sig_id": "fdd460d774051fbb7ede00c09a2eb781208b2e25a618f399dd8d5af45ecb13170f"
+        }
+      ]
+    },
+    "f09778739f643822c17346a523863018": {
+      "type": "desktop",
+      "ctime": 1467847527,
+      "mtime": 1467847527,
+      "name": "Work Macbook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204439683f6fe09a9787ccbcbd3ff6fa5d90885547aefd6563c4080c23f2da48fe0a",
+          "key_role": 1,
+          "sig_id": "e535c05a6bd0a7568046a34513d9bea546bc03b82480063b77cc2daed7851c0b0f"
+        },
+        {
+          "kid": "0121804daf04041082e63718ad2ce605177404645a6fbbc757505da0347e2f92db210a",
+          "key_role": 2,
+          "sig_id": "6566e157563ef29d847673faa8301955ec24db29c8068d5546b4705315058f340f"
         }
       ]
     }
