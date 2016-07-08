@@ -4,16 +4,16 @@
     "username": "crasiak",
     "ctime": 1454188117,
     "mtime": 1454188117,
-    "id_version": 7,
+    "id_version": 8,
     "track_version": 5,
-    "last_id_change": 1454256994,
+    "last_id_change": 1467911065,
     "username_cased": "crasiak"
   },
   "profile": {
-    "mtime": 1454256385,
+    "mtime": 1467911672,
     "full_name": "Jonathan Stasiak",
     "location": "San Francisco, CA",
-    "bio": "Skier, cyclist, general tinkerer of things. Platform Engineer at CloudFlare"
+    "bio": "Skier, cyclist, SRE @ Uber"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,18 @@
       "0120cfe9fe19d4500ac14afad1f2e977ead1fd6d0c6c27ed1f6e80a6ef87cc9510390a",
       "0121c61909c7e7ed07fcdbdcbc7ac47c63b24abe3f19e559c4a81d447171f6a317270a",
       "0121adabc13838a3e4aa535b330ab420490122105d0f5cb724e8df23147060d57b510a",
-      "012022cae4653e9684188a6f3b91f5356c9c069d3bfbeda7ca35987defb76e931eea0a"
+      "012022cae4653e9684188a6f3b91f5356c9c069d3bfbeda7ca35987defb76e931eea0a",
+      "01211a260c2d03dc965216187b583eeb0592d847a0cb096e085d0226a01a9e8245260a",
+      "0120ba923455f81848764dfc56acb1c0f66deb80270cfca4853af5912430b9a135350a"
     ],
     "subkeys": [
-      "0121c61909c7e7ed07fcdbdcbc7ac47c63b24abe3f19e559c4a81d447171f6a317270a",
-      "0121adabc13838a3e4aa535b330ab420490122105d0f5cb724e8df23147060d57b510a"
+      "0121adabc13838a3e4aa535b330ab420490122105d0f5cb724e8df23147060d57b510a",
+      "01211a260c2d03dc965216187b583eeb0592d847a0cb096e085d0226a01a9e8245260a"
     ],
     "sibkeys": [
       "01012e93fdfe02aa8c0fa11642c445e57533b88858a30aeb3c696fa19e614e2566dc0a",
-      "0120cfe9fe19d4500ac14afad1f2e977ead1fd6d0c6c27ed1f6e80a6ef87cc9510390a",
-      "012022cae4653e9684188a6f3b91f5356c9c069d3bfbeda7ca35987defb76e931eea0a"
+      "012022cae4653e9684188a6f3b91f5356c9c069d3bfbeda7ca35987defb76e931eea0a",
+      "0120ba923455f81848764dfc56acb1c0f66deb80270cfca4853af5912430b9a135350a"
     ],
     "families": {
       "01012e93fdfe02aa8c0fa11642c445e57533b88858a30aeb3c696fa19e614e2566dc0a": [
@@ -55,7 +57,9 @@
         "0120cfe9fe19d4500ac14afad1f2e977ead1fd6d0c6c27ed1f6e80a6ef87cc9510390a",
         "0121c61909c7e7ed07fcdbdcbc7ac47c63b24abe3f19e559c4a81d447171f6a317270a",
         "0121adabc13838a3e4aa535b330ab420490122105d0f5cb724e8df23147060d57b510a",
-        "012022cae4653e9684188a6f3b91f5356c9c069d3bfbeda7ca35987defb76e931eea0a"
+        "012022cae4653e9684188a6f3b91f5356c9c069d3bfbeda7ca35987defb76e931eea0a",
+        "01211a260c2d03dc965216187b583eeb0592d847a0cb096e085d0226a01a9e8245260a",
+        "0120ba923455f81848764dfc56acb1c0f66deb80270cfca4853af5912430b9a135350a"
       ]
     },
     "eldest_kid": "01012e93fdfe02aa8c0fa11642c445e57533b88858a30aeb3c696fa19e614e2566dc0a",
@@ -163,28 +167,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "1f4cab815f66d21d7f9cf43c16a9f842f75321f9c7d8691de4fbaf4c42a63f6d0f",
-      "seqno": 12,
-      "payload_hash": "9b69446cc6843f2704f73654c77942e398bc206d67078508a42ed53b73bcc33d"
+      "sig_id": "108b7ed2023a07ca39ccb0989fcd745ec3c409e0205cb9fc7a2c17e5c92a68f00f",
+      "seqno": 15,
+      "payload_hash": "b21e75d2c7ee28b25816e6749c178682bdba3630fc7a18df7cfe9026a6ae1e7f"
     }
   },
   "devices": {
-    "bb98f8d237a05059398ce80b70049918": {
+    "16c33773dc475e8e2e08446f8411ed18": {
       "type": "desktop",
-      "ctime": 1454256993,
-      "mtime": 1454256993,
-      "name": "loptap",
+      "ctime": 1467911065,
+      "mtime": 1467911065,
+      "name": "mbp2012_personal",
       "status": 1,
       "keys": [
         {
-          "kid": "0120cfe9fe19d4500ac14afad1f2e977ead1fd6d0c6c27ed1f6e80a6ef87cc9510390a",
+          "kid": "0120ba923455f81848764dfc56acb1c0f66deb80270cfca4853af5912430b9a135350a",
           "key_role": 1,
-          "sig_id": "57c347fd124a6a793b36fb93c34fde9c49a0320f74ec616c929145fe0493150a0f"
+          "sig_id": "6c926e0d609fa51e2a50b8c9d97af83e841fed8f522bad1fa59af5e78b7ae2d20f"
         },
         {
-          "kid": "0121c61909c7e7ed07fcdbdcbc7ac47c63b24abe3f19e559c4a81d447171f6a317270a",
+          "kid": "01211a260c2d03dc965216187b583eeb0592d847a0cb096e085d0226a01a9e8245260a",
           "key_role": 2,
-          "sig_id": "02c22ba5089d83af9941f958eda9c4d273acff87c4dd0e9e60bdda866cc157680f"
+          "sig_id": "7766bf8de4490941c1f7cd80e52c3ee19ed164561c5efdbf22f095d5cdeee43d0f"
         }
       ]
     },
