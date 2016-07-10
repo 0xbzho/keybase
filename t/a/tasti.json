@@ -4,9 +4,9 @@
     "username": "tasti",
     "ctime": 1436213391,
     "mtime": 1436213391,
-    "id_version": 23,
+    "id_version": 27,
     "track_version": 0,
-    "last_id_change": 1467518390,
+    "last_id_change": 1467569536,
     "username_cased": "tasti"
   },
   "profile": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "tasti",
+          "state": 1,
+          "proof_url": "https://gist.github.com/46020d4488af7c179391",
+          "sig_id": "51908b01af14c410eef39bd36fa652a9c49331dc9c48a2b2e3eee04f72944da70f",
+          "proof_id": "ce7756000b69963a1ba09810",
+          "human_url": "https://gist.github.com/46020d4488af7c179391",
+          "service_url": "https://github.com/tasti",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
       "coinbase": [
         {
           "proof_type": "coinbase",
@@ -65,10 +79,38 @@
           "service_url": "https://coinbase.com/tasti",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "zakarie.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/tasti/sigchain#0220b6188bcb11087c14bf7c630dcabd1cb8b0e9ac70b6020c6ca23c34a135640f",
+          "sig_id": "0220b6188bcb11087c14bf7c630dcabd1cb8b0e9ac70b6020c6ca23c34a135640f",
+          "proof_id": "b8b65415acb524b7e02ba810",
+          "human_url": "dns://zakarie.com",
+          "service_url": "http://zakarie.com",
+          "presentation_group": "zakarie.com",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "tasti",
+          "state": 1,
+          "proof_url": "https://gist.github.com/46020d4488af7c179391",
+          "sig_id": "51908b01af14c410eef39bd36fa652a9c49331dc9c48a2b2e3eee04f72944da70f",
+          "proof_id": "ce7756000b69963a1ba09810",
+          "human_url": "https://gist.github.com/46020d4488af7c179391",
+          "service_url": "https://github.com/tasti",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
       "coinbase": [
         {
           "proof_type": "coinbase",
@@ -82,9 +124,35 @@
           "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
+      ],
+      "zakarie.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "zakarie.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/tasti/sigchain#0220b6188bcb11087c14bf7c630dcabd1cb8b0e9ac70b6020c6ca23c34a135640f",
+          "sig_id": "0220b6188bcb11087c14bf7c630dcabd1cb8b0e9ac70b6020c6ca23c34a135640f",
+          "proof_id": "b8b65415acb524b7e02ba810",
+          "human_url": "dns://zakarie.com",
+          "service_url": "http://zakarie.com",
+          "presentation_group": "zakarie.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "github",
+        "nametag": "tasti",
+        "state": 1,
+        "proof_url": "https://gist.github.com/46020d4488af7c179391",
+        "sig_id": "51908b01af14c410eef39bd36fa652a9c49331dc9c48a2b2e3eee04f72944da70f",
+        "proof_id": "ce7756000b69963a1ba09810",
+        "human_url": "https://gist.github.com/46020d4488af7c179391",
+        "service_url": "https://github.com/tasti",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      },
       {
         "proof_type": "coinbase",
         "nametag": "coinbase/tasti",
@@ -96,15 +164,35 @@
         "service_url": "https://coinbase.com/tasti",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "zakarie.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/tasti/sigchain#0220b6188bcb11087c14bf7c630dcabd1cb8b0e9ac70b6020c6ca23c34a135640f",
+        "sig_id": "0220b6188bcb11087c14bf7c630dcabd1cb8b0e9ac70b6020c6ca23c34a135640f",
+        "proof_id": "b8b65415acb524b7e02ba810",
+        "human_url": "dns://zakarie.com",
+        "service_url": "http://zakarie.com",
+        "presentation_group": "zakarie.com",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/5c11c6fa7341e245f4b0a577a6585d05_360_360_square_360.jpeg",
+      "width": 360,
+      "height": 360,
+      "source": "github"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "41c4a01fc628a42484d66126ee054f4ec9f76235e6ae2fb9ea151e3fe533f3ee0f",
-      "seqno": 7,
-      "payload_hash": "7347c5462f2d211211363f92649b5afc65e758b6d10cdfed32025ff25394f91d"
+      "sig_id": "0220b6188bcb11087c14bf7c630dcabd1cb8b0e9ac70b6020c6ca23c34a135640f",
+      "seqno": 8,
+      "payload_hash": "b0ae26ec8ffd4748491f3e40bfb9cd34374cfe53665ea5e04320ae7bdc85d06b"
     }
   },
   "devices": {}
