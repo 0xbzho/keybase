@@ -41,14 +41,9 @@
       "0120701b1a015285d7a7c22f8c8e06dbfa3cfae3396b052359c7ae2629551785850a0a",
       "01217efcc0a96ea8f99ed1f0014acacda21dfa833d0bf2895a524a3d40abdfbe5e740a"
     ],
-    "subkeys": [
-      "012132d74506b1f67dadda3a171c666b26552f41449cb04c086b5b39cb3a5316c96e0a",
-      "01217efcc0a96ea8f99ed1f0014acacda21dfa833d0bf2895a524a3d40abdfbe5e740a"
-    ],
+    "subkeys": [],
     "sibkeys": [
-      "01014ad97a106abef5282843c2830cf5ddddc4df58cf1b0165a994a0de56b68bd8f90a",
-      "0120ad97ffc5ff02f109310f2ff76c2883f39c629cf486a6e397c06a3556381472a50a",
-      "0120701b1a015285d7a7c22f8c8e06dbfa3cfae3396b052359c7ae2629551785850a0a"
+      "01014ad97a106abef5282843c2830cf5ddddc4df58cf1b0165a994a0de56b68bd8f90a"
     ],
     "families": {
       "01014ad97a106abef5282843c2830cf5ddddc4df58cf1b0165a994a0de56b68bd8f90a": [
@@ -165,49 +160,10 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "e6c24b8e999def5559ae3be38d19b8ab24839b2be491030fde65507e90d312980f",
-      "seqno": 14,
-      "payload_hash": "789a18f079b4f2ce4a30d1685b761e2c813ea7580d8b398430257dbe93b6cebf"
+      "sig_id": "807df46a1620b5bb18b15c12e97efcdac44ca24e0cd6d175fbc563e192d3d3d10f",
+      "seqno": 16,
+      "payload_hash": "c7c5197b1cc2102ca4d66909c4fe6f1f2498054fcd37b08a7a92fdbd06b34522"
     }
   },
-  "devices": {
-    "71db6c5ab059808defb07f0f1e55ac18": {
-      "type": "desktop",
-      "ctime": 1466861724,
-      "mtime": 1466861724,
-      "name": "captain-morgan",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120ad97ffc5ff02f109310f2ff76c2883f39c629cf486a6e397c06a3556381472a50a",
-          "key_role": 1,
-          "sig_id": "7083af8a2aec1134f806c08d0ebf956c0d547c2ac9e8d098a0e55735ae12fa690f"
-        },
-        {
-          "kid": "01217efcc0a96ea8f99ed1f0014acacda21dfa833d0bf2895a524a3d40abdfbe5e740a",
-          "key_role": 2,
-          "sig_id": "83f2f226811cec09e83790593616c2f787bdfb48b74b81cffbb6f817abd925680f"
-        }
-      ]
-    },
-    "b8df6e99cbd533b0cb78d199cba37b18": {
-      "type": "backup",
-      "ctime": 1466861724,
-      "mtime": 1466861724,
-      "name": "knife glove",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120701b1a015285d7a7c22f8c8e06dbfa3cfae3396b052359c7ae2629551785850a0a",
-          "key_role": 1,
-          "sig_id": "a8054b08c21f9c2db157860e057eb54f5606959f96eb3aecc91558abc89303740f"
-        },
-        {
-          "kid": "012132d74506b1f67dadda3a171c666b26552f41449cb04c086b5b39cb3a5316c96e0a",
-          "key_role": 2,
-          "sig_id": "e6c24b8e999def5559ae3be38d19b8ab24839b2be491030fde65507e90d312980f"
-        }
-      ]
-    }
-  }
+  "devices": {}
 }
