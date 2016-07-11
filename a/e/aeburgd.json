@@ -4,9 +4,9 @@
     "username": "aeburgd",
     "ctime": 1463185462,
     "mtime": 1463185462,
-    "id_version": 13,
+    "id_version": 16,
     "track_version": 1,
-    "last_id_change": 1467741192,
+    "last_id_change": 1467815660,
     "username_cased": "aeburgd"
   },
   "profile": {
@@ -44,20 +44,20 @@
       "0120a2dba1dea96015825158752a2d4d8f76933ac39eb4ac2cfb0272520e98043aa70a",
       "0121ce574827dbab9567aa4ca51fd3f9f6d722d2560cfdb0e58b07c5598452dc33590a",
       "01216c5bac5eac38e4aa30f5061e6a4cf963a3c433d0697494fd0935f387eccd78120a",
-      "012062fc7d372906f476546b5cd0463e87fbdb4ae9527c5db93926984a2194d9f65f0a"
+      "012062fc7d372906f476546b5cd0463e87fbdb4ae9527c5db93926984a2194d9f65f0a",
+      "01202f8ae0f45ec833d0568677e1db3ae72aa4502529c6f5b00f2df79317b5201b1b0a",
+      "01212453110dc0dd499d1d1536899e29a6ee49115553de5247db8e4a9d01ec78567d0a",
+      "012037bfb210f845784fb2ffe62fa052cd16eeaabd61f309de3adea87994f1efd72d0a",
+      "01210bb3f25485590969a531d19edb50cdb541a6d51428eb2d41ddc447bcb221aa5e0a"
     ],
     "subkeys": [
-      "01218bf5b5637d585d15a82ce16f8673a90e2e14906911dc3abff897c7e41257da470a",
       "0121d7c07a809dfd0962ee4232e5006525086080ba9dccefbe37dd8381d23c5308450a",
-      "0121154c537a5f632c945b44f7a9a5a9f40e750433efd19dd44281969478c769ee750a",
       "0121ce574827dbab9567aa4ca51fd3f9f6d722d2560cfdb0e58b07c5598452dc33590a",
       "01216c5bac5eac38e4aa30f5061e6a4cf963a3c433d0697494fd0935f387eccd78120a"
     ],
     "sibkeys": [
       "0101dd68c9075211ace2b7d4c490ecf03f95e44cb5c9e9543c2d6d7b281d1c49af4e0a",
-      "01200fdf6b0ad0148223cebf7a05adc5ec35f9da01e7530dd13a1cae56fc67f773050a",
       "0120084ce081fb26a868ff6cb7266c9f1d950c0364cb43728edb6dc3bbc41e87fbb60a",
-      "01204a16d4351aca166e8f0748a12f2b1858423149c07fa262e7b3edcc2f299985140a",
       "0120a2dba1dea96015825158752a2d4d8f76933ac39eb4ac2cfb0272520e98043aa70a",
       "012062fc7d372906f476546b5cd0463e87fbdb4ae9527c5db93926984a2194d9f65f0a"
     ],
@@ -73,7 +73,11 @@
         "0120a2dba1dea96015825158752a2d4d8f76933ac39eb4ac2cfb0272520e98043aa70a",
         "0121ce574827dbab9567aa4ca51fd3f9f6d722d2560cfdb0e58b07c5598452dc33590a",
         "01216c5bac5eac38e4aa30f5061e6a4cf963a3c433d0697494fd0935f387eccd78120a",
-        "012062fc7d372906f476546b5cd0463e87fbdb4ae9527c5db93926984a2194d9f65f0a"
+        "012062fc7d372906f476546b5cd0463e87fbdb4ae9527c5db93926984a2194d9f65f0a",
+        "01202f8ae0f45ec833d0568677e1db3ae72aa4502529c6f5b00f2df79317b5201b1b0a",
+        "01212453110dc0dd499d1d1536899e29a6ee49115553de5247db8e4a9d01ec78567d0a",
+        "012037bfb210f845784fb2ffe62fa052cd16eeaabd61f309de3adea87994f1efd72d0a",
+        "01210bb3f25485590969a531d19edb50cdb541a6d51428eb2d41ddc447bcb221aa5e0a"
       ]
     },
     "eldest_kid": "0101dd68c9075211ace2b7d4c490ecf03f95e44cb5c9e9543c2d6d7b281d1c49af4e0a",
@@ -221,50 +225,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "84947d1d4ce98440d226469d0c7903b246a86a8ab78668c6843ea40121f0376e0f",
-      "seqno": 15,
-      "payload_hash": "c1f7e0247beadd1a2f31f4c9b338beda55379b7617620164c465bb9fc9fc7899"
+      "sig_id": "30f5ac7028b536e322cab0d07296b4327fdc1e622a7ed27743ce13e57a0512930f",
+      "seqno": 23,
+      "payload_hash": "ccf2d50cd9adcc5e3046eb5bd596b8a368752f688b2a9d536dc230ab1792c0a8"
     }
   },
   "devices": {
-    "2bcdb2002be77dce17b7271498665e18": {
-      "type": "desktop",
-      "ctime": 1463343503,
-      "mtime": 1463343503,
-      "name": "trustyworkspace",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01204a16d4351aca166e8f0748a12f2b1858423149c07fa262e7b3edcc2f299985140a",
-          "key_role": 1,
-          "sig_id": "c1a6777362c5436cbb78c1de5bff3abf6d813f56b3bc0ab836eacf52b2a30ed80f"
-        },
-        {
-          "kid": "0121154c537a5f632c945b44f7a9a5a9f40e750433efd19dd44281969478c769ee750a",
-          "key_role": 2,
-          "sig_id": "450ed49478faa7e7f6cda17e02883b55bb9a2e67de198755dcc86e80abb11dc90f"
-        }
-      ]
-    },
-    "360a6e7c91f7ccfad5c43481186a0d18": {
-      "type": "desktop",
-      "ctime": 1463187232,
-      "mtime": 1463187232,
-      "name": "Earthshaker",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01200fdf6b0ad0148223cebf7a05adc5ec35f9da01e7530dd13a1cae56fc67f773050a",
-          "key_role": 1,
-          "sig_id": "2980afc5f5be2a15d6418c392caaf834a758532360384d4daef51b4b252898af0f"
-        },
-        {
-          "kid": "01218bf5b5637d585d15a82ce16f8673a90e2e14906911dc3abff897c7e41257da470a",
-          "key_role": 2,
-          "sig_id": "7f02bc87620cb58b342a2e8c15af92a016c2f84d91829b41d451dd64b7e101130f"
-        }
-      ]
-    },
     "7e63d1db5dd63fe765b6c750591bb318": {
       "type": "backup",
       "ctime": 1467741192,
