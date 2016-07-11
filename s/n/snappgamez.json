@@ -4,16 +4,16 @@
     "username": "snappgamez",
     "ctime": 1465847867,
     "mtime": 1465847867,
-    "id_version": 20,
+    "id_version": 21,
     "track_version": 2,
-    "last_id_change": 1466136824,
+    "last_id_change": 1468097578,
     "username_cased": "SnappGamez"
   },
   "profile": {
-    "mtime": 1466893879,
+    "mtime": 1468097882,
     "full_name": "Ashton Scott Snapp",
     "location": "Louisiana",
-    "bio": "Game Development N00B. Don't know much but I want to."
+    "bio": "Note To Self: don't use the ls command in the /keybase/private folder. Also I can only access the folder when logged in as root."
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,20 @@
       "012065ee9e88e7b08e750ef57ded4f80c56c11841155a15a69b36fe48709099940ee0a",
       "0121dce32a92fe467910023a7d14189251a982cc5326baa2c7fd3802d0d09b0bf7210a",
       "0121e7257cdf0f1b396bee8784c92ec3adbe68b0802b52675df800566a8d36f3da060a",
-      "01204f40470a6a59933a04aa5fcee4afb87a9067357fec0e03221a5833268223bfdf0a"
+      "01204f40470a6a59933a04aa5fcee4afb87a9067357fec0e03221a5833268223bfdf0a",
+      "01200d4e6dcaac43e61289a35aad044e3d7664f41b04df621b552b32d1718aa128d50a",
+      "0121efb809dbd44beb7d479aaa858e4bca848d9953fe682740a0c1394800f4fc17180a"
     ],
     "subkeys": [
       "0121dce32a92fe467910023a7d14189251a982cc5326baa2c7fd3802d0d09b0bf7210a",
-      "0121e7257cdf0f1b396bee8784c92ec3adbe68b0802b52675df800566a8d36f3da060a"
+      "0121e7257cdf0f1b396bee8784c92ec3adbe68b0802b52675df800566a8d36f3da060a",
+      "0121efb809dbd44beb7d479aaa858e4bca848d9953fe682740a0c1394800f4fc17180a"
     ],
     "sibkeys": [
       "0101612ccd20c8e23772d04c51a601f6d9004cc846c7d7cdb51cad3d72fa8d72ccc10a",
       "012065ee9e88e7b08e750ef57ded4f80c56c11841155a15a69b36fe48709099940ee0a",
-      "01204f40470a6a59933a04aa5fcee4afb87a9067357fec0e03221a5833268223bfdf0a"
+      "01204f40470a6a59933a04aa5fcee4afb87a9067357fec0e03221a5833268223bfdf0a",
+      "01200d4e6dcaac43e61289a35aad044e3d7664f41b04df621b552b32d1718aa128d50a"
     ],
     "families": {
       "0101612ccd20c8e23772d04c51a601f6d9004cc846c7d7cdb51cad3d72fa8d72ccc10a": [
@@ -55,7 +59,9 @@
         "012065ee9e88e7b08e750ef57ded4f80c56c11841155a15a69b36fe48709099940ee0a",
         "0121dce32a92fe467910023a7d14189251a982cc5326baa2c7fd3802d0d09b0bf7210a",
         "0121e7257cdf0f1b396bee8784c92ec3adbe68b0802b52675df800566a8d36f3da060a",
-        "01204f40470a6a59933a04aa5fcee4afb87a9067357fec0e03221a5833268223bfdf0a"
+        "01204f40470a6a59933a04aa5fcee4afb87a9067357fec0e03221a5833268223bfdf0a",
+        "01200d4e6dcaac43e61289a35aad044e3d7664f41b04df621b552b32d1718aa128d50a",
+        "0121efb809dbd44beb7d479aaa858e4bca848d9953fe682740a0c1394800f4fc17180a"
       ]
     },
     "eldest_kid": "0101612ccd20c8e23772d04c51a601f6d9004cc846c7d7cdb51cad3d72fa8d72ccc10a",
@@ -321,12 +327,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2522680cef173c9551be955ab13d59ff90104ac5ab21d072d2e1237cc9a538bc0f",
-      "seqno": 15,
-      "payload_hash": "8e83a462ce903a9fc4f79b10b7d6f207362b86b611ca81d94b4a87198d83c27a"
+      "sig_id": "a2ab708d86d9c180230c073a51154322aa20be301187e6402e0ed4df5e11b7000f",
+      "seqno": 17,
+      "payload_hash": "91e75d075a56c5f616519af62cd2d5d3ec0cacd4c418761f0f9e9fbfbd107f47"
     }
   },
   "devices": {
+    "1afd3b9859c96907682a7a87a2f78b18": {
+      "type": "desktop",
+      "ctime": 1468097578,
+      "mtime": 1468097578,
+      "name": "Snappix",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01200d4e6dcaac43e61289a35aad044e3d7664f41b04df621b552b32d1718aa128d50a",
+          "key_role": 1,
+          "sig_id": "659590505f6b1e76a48cd8e1d9b499557140cf197748f450d65c6af5a0d1f1640f"
+        },
+        {
+          "kid": "0121efb809dbd44beb7d479aaa858e4bca848d9953fe682740a0c1394800f4fc17180a",
+          "key_role": 2,
+          "sig_id": "a2ab708d86d9c180230c073a51154322aa20be301187e6402e0ed4df5e11b7000f"
+        }
+      ]
+    },
     "a144e40ca6592091bc5f5d765ff2f818": {
       "type": "backup",
       "ctime": 1465848654,
