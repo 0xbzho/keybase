@@ -4,16 +4,16 @@
     "username": "afa",
     "ctime": 1467717059,
     "mtime": 1467717059,
-    "id_version": 12,
+    "id_version": 16,
     "track_version": 1,
-    "last_id_change": 1467717648,
+    "last_id_change": 1467782777,
     "username_cased": "afa"
   },
   "profile": {
-    "mtime": 1467717141,
+    "mtime": 1467782832,
     "full_name": "Sakamoto Poteko",
     "location": "Mars",
-    "bio": null
+    "bio": "なに"
   },
   "public_keys": {
     "primary": {
@@ -80,6 +80,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "poteko.moe",
+          "state": 1,
+          "proof_url": "https://keybase.io/afa/sigchain#6f9df9db7ec7acae0883064836f4ccd62c0fe001d323507f91b023ae885fddda0f",
+          "sig_id": "6f9df9db7ec7acae0883064836f4ccd62c0fe001d323507f91b023ae885fddda0f",
+          "proof_id": "1e54e84bb30223d480aedb10",
+          "human_url": "dns://poteko.moe",
+          "service_url": "http://poteko.moe",
+          "presentation_group": "poteko.moe",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -110,6 +124,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "poteko.moe": [
+        {
+          "proof_type": "dns",
+          "nametag": "poteko.moe",
+          "state": 1,
+          "proof_url": "https://keybase.io/afa/sigchain#6f9df9db7ec7acae0883064836f4ccd62c0fe001d323507f91b023ae885fddda0f",
+          "sig_id": "6f9df9db7ec7acae0883064836f4ccd62c0fe001d323507f91b023ae885fddda0f",
+          "proof_id": "1e54e84bb30223d480aedb10",
+          "human_url": "dns://poteko.moe",
+          "service_url": "http://poteko.moe",
+          "presentation_group": "poteko.moe",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -136,6 +164,18 @@
         "service_url": "https://github.com/sakamoto-poteko",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "poteko.moe",
+        "state": 1,
+        "proof_url": "https://keybase.io/afa/sigchain#6f9df9db7ec7acae0883064836f4ccd62c0fe001d323507f91b023ae885fddda0f",
+        "sig_id": "6f9df9db7ec7acae0883064836f4ccd62c0fe001d323507f91b023ae885fddda0f",
+        "proof_id": "1e54e84bb30223d480aedb10",
+        "human_url": "dns://poteko.moe",
+        "service_url": "http://poteko.moe",
+        "presentation_group": "poteko.moe",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -150,9 +190,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "102f3bb44bc651a831d1d3847008ff5cd7e9f45e1cc05a37d6399950901228b00f",
-      "seqno": 7,
-      "payload_hash": "cd71db65a79961eb250389f4aef258e2575d7411d109cbddc5ee097f0ea359d1"
+      "sig_id": "6f9df9db7ec7acae0883064836f4ccd62c0fe001d323507f91b023ae885fddda0f",
+      "seqno": 8,
+      "payload_hash": "811511b16c564bdf98e90f836852e8d9608c38f9cbdc3e88a88aa6f2bb436add"
     }
   },
   "devices": {}
