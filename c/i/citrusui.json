@@ -4,16 +4,16 @@
     "username": "citrusui",
     "ctime": 1436061966,
     "mtime": 1436061966,
-    "id_version": 127,
-    "track_version": 41,
-    "last_id_change": 1466399964,
+    "id_version": 130,
+    "track_version": 45,
+    "last_id_change": 1468279383,
     "username_cased": "citrusui"
   },
   "profile": {
-    "mtime": 1459727010,
+    "mtime": 1468279507,
     "full_name": "Avery Magnotti",
     "location": "Newport News, VA",
-    "bio": "Just a programmer."
+    "bio": "I make websites."
   },
   "public_keys": {
     "primary": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "citrusui",
+          "state": 1,
+          "proof_url": "https://twitter.com/citrusui/status/617519397582843904",
+          "sig_id": "9d6f2abbefad490317b2bd60080a4ac4162364e3c0145a9ee9e078788b9ee9bf0f",
+          "proof_id": "03ac8437cd1f9422ae76e210",
+          "human_url": "https://twitter.com/citrusui/status/617519397582843904",
+          "service_url": "https://twitter.com/citrusui",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -93,38 +107,24 @@
           "service_url": "https://news.ycombinator.com/user?id=citrusui",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
-        }
-      ],
-      "generic_web_site": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "citrusui.me",
-          "state": 1,
-          "proof_url": "https://citrusui.me/keybase.txt",
-          "sig_id": "c4af444263df5f96d95cf636d93abc1d59b416048dc6434871f6e9af8173d9a60f",
-          "proof_id": "3947d4a83031cca385231d10",
-          "human_url": "https://citrusui.me/keybase.txt",
-          "service_url": "https://citrusui.me",
-          "presentation_group": "citrusui.me",
-          "presentation_tag": "https"
-        }
-      ],
-      "dns": [
-        {
-          "proof_type": "dns",
-          "nametag": "citrusui.me",
-          "state": 1,
-          "proof_url": "https://keybase.io/citrusui/sigchain#48bbce7c0b8fb21986bf901461eb93819496c372c9684f6c20290da134f398cd0f",
-          "sig_id": "48bbce7c0b8fb21986bf901461eb93819496c372c9684f6c20290da134f398cd0f",
-          "proof_id": "e044fcff8aa95b007a85b310",
-          "human_url": "dns://citrusui.me",
-          "service_url": "http://citrusui.me",
-          "presentation_group": "citrusui.me",
-          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "citrusui",
+          "state": 1,
+          "proof_url": "https://twitter.com/citrusui/status/617519397582843904",
+          "sig_id": "9d6f2abbefad490317b2bd60080a4ac4162364e3c0145a9ee9e078788b9ee9bf0f",
+          "proof_id": "03ac8437cd1f9422ae76e210",
+          "human_url": "https://twitter.com/citrusui/status/617519397582843904",
+          "service_url": "https://twitter.com/citrusui",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -166,35 +166,21 @@
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
         }
-      ],
-      "citrusui.me": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "citrusui.me",
-          "state": 1,
-          "proof_url": "https://citrusui.me/keybase.txt",
-          "sig_id": "c4af444263df5f96d95cf636d93abc1d59b416048dc6434871f6e9af8173d9a60f",
-          "proof_id": "3947d4a83031cca385231d10",
-          "human_url": "https://citrusui.me/keybase.txt",
-          "service_url": "https://citrusui.me",
-          "presentation_group": "citrusui.me",
-          "presentation_tag": "https"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "citrusui.me",
-          "state": 1,
-          "proof_url": "https://keybase.io/citrusui/sigchain#48bbce7c0b8fb21986bf901461eb93819496c372c9684f6c20290da134f398cd0f",
-          "sig_id": "48bbce7c0b8fb21986bf901461eb93819496c372c9684f6c20290da134f398cd0f",
-          "proof_id": "e044fcff8aa95b007a85b310",
-          "human_url": "dns://citrusui.me",
-          "service_url": "http://citrusui.me",
-          "presentation_group": "citrusui.me",
-          "presentation_tag": "dns"
-        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "citrusui",
+        "state": 1,
+        "proof_url": "https://twitter.com/citrusui/status/617519397582843904",
+        "sig_id": "9d6f2abbefad490317b2bd60080a4ac4162364e3c0145a9ee9e078788b9ee9bf0f",
+        "proof_id": "03ac8437cd1f9422ae76e210",
+        "human_url": "https://twitter.com/citrusui/status/617519397582843904",
+        "service_url": "https://twitter.com/citrusui",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "citrusui",
@@ -230,37 +216,13 @@
         "service_url": "https://news.ycombinator.com/user?id=citrusui",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "citrusui.me",
-        "state": 1,
-        "proof_url": "https://keybase.io/citrusui/sigchain#48bbce7c0b8fb21986bf901461eb93819496c372c9684f6c20290da134f398cd0f",
-        "sig_id": "48bbce7c0b8fb21986bf901461eb93819496c372c9684f6c20290da134f398cd0f",
-        "proof_id": "e044fcff8aa95b007a85b310",
-        "human_url": "dns://citrusui.me",
-        "service_url": "http://citrusui.me",
-        "presentation_group": "citrusui.me",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "generic_web_site",
-        "nametag": "citrusui.me",
-        "state": 1,
-        "proof_url": "https://citrusui.me/keybase.txt",
-        "sig_id": "c4af444263df5f96d95cf636d93abc1d59b416048dc6434871f6e9af8173d9a60f",
-        "proof_id": "3947d4a83031cca385231d10",
-        "human_url": "https://citrusui.me/keybase.txt",
-        "service_url": "https://citrusui.me",
-        "presentation_group": "citrusui.me",
-        "presentation_tag": "https"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/0b9b395708168d6cb138ea005f879d05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/96706cd8a6b344a12ffc455fc8bb0e05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -268,9 +230,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "df0ba4cac190f5f2a34ed5ba96deaecccdc2deee9801b1158a99f1b6dd19dc8b0f",
-      "seqno": 66,
-      "payload_hash": "79529891b3f410a7211fd71044cdf70f1155913bdf104a3a02acf42e484aef93"
+      "sig_id": "8029329394ecd732f853d3cd3a57eab4d875fcffc271f2885b3864843c899aec0f",
+      "seqno": 72,
+      "payload_hash": "ace8643353d1cb337e7ab9aaf950d3ea28507fdade3de8bb7070b1b2dfee5202"
     }
   },
   "devices": {}
