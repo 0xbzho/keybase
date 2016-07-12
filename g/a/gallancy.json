@@ -1,0 +1,92 @@
+{
+  "id": "b59deb127867fb44524b6f8c54c12919",
+  "basics": {
+    "username": "gallancy",
+    "ctime": 1466375593,
+    "mtime": 1466375593,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1466375749,
+    "username_cased": "gallancy"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "012086daeaff7c4d12c6b9e7a8cc962892fe858ec964f571a8501dcf70c148d7883f0a",
+      "0120f8ab75f0f1d92eac43718346c6ec2845271455170ff5bc7f17d90c4e74ed36fa0a",
+      "0121c4b8db97a921077b6797243590234f8502ec0410393aa852a227f1a24e93b8390a",
+      "0121d47b30abb65b49436cc961af33e3a8e7f7dd65a331b400526c54a20ddd1a30550a"
+    ],
+    "subkeys": [
+      "0121c4b8db97a921077b6797243590234f8502ec0410393aa852a227f1a24e93b8390a",
+      "0121d47b30abb65b49436cc961af33e3a8e7f7dd65a331b400526c54a20ddd1a30550a"
+    ],
+    "sibkeys": [
+      "012086daeaff7c4d12c6b9e7a8cc962892fe858ec964f571a8501dcf70c148d7883f0a",
+      "0120f8ab75f0f1d92eac43718346c6ec2845271455170ff5bc7f17d90c4e74ed36fa0a"
+    ],
+    "families": {
+      "0120f8ab75f0f1d92eac43718346c6ec2845271455170ff5bc7f17d90c4e74ed36fa0a": [
+        "012086daeaff7c4d12c6b9e7a8cc962892fe858ec964f571a8501dcf70c148d7883f0a",
+        "0120f8ab75f0f1d92eac43718346c6ec2845271455170ff5bc7f17d90c4e74ed36fa0a",
+        "0121c4b8db97a921077b6797243590234f8502ec0410393aa852a227f1a24e93b8390a",
+        "0121d47b30abb65b49436cc961af33e3a8e7f7dd65a331b400526c54a20ddd1a30550a"
+      ]
+    },
+    "eldest_kid": "0120f8ab75f0f1d92eac43718346c6ec2845271455170ff5bc7f17d90c4e74ed36fa0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "9f66e453aad0de045226a62137148aa3b94896956c1997d9b02446f1100af7d00f",
+      "seqno": 4,
+      "payload_hash": "26818dfbc564628c4343003acc3379c12778778a194f5c30d0c4b71010f1a07f"
+    }
+  },
+  "devices": {
+    "495470511acb1ba203f65b5b9cf46c18": {
+      "type": "desktop",
+      "ctime": 1466375749,
+      "mtime": 1466375749,
+      "name": "Work Workstation",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120f8ab75f0f1d92eac43718346c6ec2845271455170ff5bc7f17d90c4e74ed36fa0a",
+          "key_role": 1,
+          "sig_id": "159e382c708c7777e5b0f4a84b73f46bb78d3ff3667f01ed1e2de2b6f3b32a330f"
+        },
+        {
+          "kid": "0121d47b30abb65b49436cc961af33e3a8e7f7dd65a331b400526c54a20ddd1a30550a",
+          "key_role": 2,
+          "sig_id": "e8784182a467539a82883e0d21285f6aa3dc46c2cbec5c24f9cb707faeb71f4a0f"
+        }
+      ]
+    },
+    "b00fc7bf18222ee9d89de70032506218": {
+      "type": "backup",
+      "ctime": 1466375749,
+      "mtime": 1466375749,
+      "name": "round chicken",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012086daeaff7c4d12c6b9e7a8cc962892fe858ec964f571a8501dcf70c148d7883f0a",
+          "key_role": 1,
+          "sig_id": "8d4f43f2699306fb5231a25a1a4a2f9ea506ce8808ab24a957af2f4ec59ccf650f"
+        },
+        {
+          "kid": "0121c4b8db97a921077b6797243590234f8502ec0410393aa852a227f1a24e93b8390a",
+          "key_role": 2,
+          "sig_id": "9f66e453aad0de045226a62137148aa3b94896956c1997d9b02446f1100af7d00f"
+        }
+      ]
+    }
+  }
+}
