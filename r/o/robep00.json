@@ -4,15 +4,15 @@
     "username": "robep00",
     "ctime": 1427392708,
     "mtime": 1427392708,
-    "id_version": 45,
-    "track_version": 0,
-    "last_id_change": 1467992305,
+    "id_version": 46,
+    "track_version": 10,
+    "last_id_change": 1468230486,
     "username_cased": "robep00"
   },
   "profile": {
-    "mtime": 1427393506,
+    "mtime": 1468315066,
     "full_name": "Pierre Roberge",
-    "location": null,
+    "location": "Vilnius, LT",
     "bio": "CEO at Arc4dia to bring privacy to businesses and individuals."
   },
   "public_keys": {
@@ -44,13 +44,11 @@
       "01204fc24840537571ca131d0cd4e915d6587e1b2fef4daff84e9aeb17e272b7e5b00a"
     ],
     "subkeys": [
-      "01210598d9e68bce809e07d5d00d8c3d3d1e0fb5d761349eab5f176c1eaf7d0802070a",
-      "01210b316bf8e36805f87f57383ab4c45544da2b5185d40b7d9d92d716d46dae295d0a"
+      "01210598d9e68bce809e07d5d00d8c3d3d1e0fb5d761349eab5f176c1eaf7d0802070a"
     ],
     "sibkeys": [
       "0101cb18b087c6471f5ee724822213980fe8b31e486f4d5f5e0a5edbfe52b0eda0250a",
-      "01203c8733f3194af6661b2a190ea422893fb74960f7255b7f799dcf263fe1b880de0a",
-      "01204fc24840537571ca131d0cd4e915d6587e1b2fef4daff84e9aeb17e272b7e5b00a"
+      "01203c8733f3194af6661b2a190ea422893fb74960f7255b7f799dcf263fe1b880de0a"
     ],
     "families": {
       "0101bae5e261bbe86ecf62685160b149d92878db9b3cd89c827a837622a41f0ee12b0a": [
@@ -87,6 +85,20 @@
           "presentation_group": "twitter",
           "presentation_tag": "tweet"
         }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.arc4dia.com",
+          "state": 1,
+          "proof_url": "http://www.arc4dia.com/keybase.txt",
+          "sig_id": "c9e59278f3d8d7a87cf01587bc6f175c469fc58df63d18af7c6d9bf192912fac0f",
+          "proof_id": "697a2da18cbddbcaeb8de010",
+          "human_url": "http://www.arc4dia.com/keybase.txt",
+          "service_url": "http://www.arc4dia.com",
+          "presentation_group": "www.arc4dia.com",
+          "presentation_tag": "http"
+        }
       ]
     },
     "by_presentation_group": {
@@ -103,6 +115,20 @@
           "presentation_group": "twitter",
           "presentation_tag": "tweet"
         }
+      ],
+      "www.arc4dia.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.arc4dia.com",
+          "state": 1,
+          "proof_url": "http://www.arc4dia.com/keybase.txt",
+          "sig_id": "c9e59278f3d8d7a87cf01587bc6f175c469fc58df63d18af7c6d9bf192912fac0f",
+          "proof_id": "697a2da18cbddbcaeb8de010",
+          "human_url": "http://www.arc4dia.com/keybase.txt",
+          "service_url": "http://www.arc4dia.com",
+          "presentation_group": "www.arc4dia.com",
+          "presentation_tag": "http"
+        }
       ]
     },
     "all": [
@@ -117,6 +143,18 @@
         "service_url": "https://twitter.com/robep00",
         "presentation_group": "twitter",
         "presentation_tag": "tweet"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "www.arc4dia.com",
+        "state": 1,
+        "proof_url": "http://www.arc4dia.com/keybase.txt",
+        "sig_id": "c9e59278f3d8d7a87cf01587bc6f175c469fc58df63d18af7c6d9bf192912fac0f",
+        "proof_id": "697a2da18cbddbcaeb8de010",
+        "human_url": "http://www.arc4dia.com/keybase.txt",
+        "service_url": "http://www.arc4dia.com",
+        "presentation_group": "www.arc4dia.com",
+        "presentation_tag": "http"
       }
     ]
   },
@@ -131,31 +169,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "6084d7266e5fa2365e050d6aa7bdb20e3fa841126070b613fe21c2c85a38d3d20f",
-      "seqno": 11,
-      "payload_hash": "11a311dd3d1cf9c5311651a5e1ff1a065473991df4f9ef62bc7b1f1cf774f447"
+      "sig_id": "2a40a04d354f033787fab01b92baf6ed56500072854fdc420f69a03519f5e4aa0f",
+      "seqno": 22,
+      "payload_hash": "8666c2c3f9a01d59880e2a16d70fb640f55e4a61bf0a99ff5f409f6d696613ee"
     }
   },
   "devices": {
-    "7c001b99e4c1cec38e66d68501e72018": {
-      "type": "backup",
-      "ctime": 1462921474,
-      "mtime": 1462921474,
-      "name": "update stick",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01204fc24840537571ca131d0cd4e915d6587e1b2fef4daff84e9aeb17e272b7e5b00a",
-          "key_role": 1,
-          "sig_id": "974589bc80a4e21b2e2d6c397e1ee8dc6659943d047815ae4e9687f6200b317d0f"
-        },
-        {
-          "kid": "01210b316bf8e36805f87f57383ab4c45544da2b5185d40b7d9d92d716d46dae295d0a",
-          "key_role": 2,
-          "sig_id": "6084d7266e5fa2365e050d6aa7bdb20e3fa841126070b613fe21c2c85a38d3d20f"
-        }
-      ]
-    },
     "b24b9c1b022ed906d51c40ba907bcd18": {
       "type": "desktop",
       "ctime": 1462921474,
