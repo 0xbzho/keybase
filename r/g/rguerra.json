@@ -4,9 +4,9 @@
     "username": "rguerra",
     "ctime": 1415583546,
     "mtime": 1415583546,
-    "id_version": 98,
+    "id_version": 99,
     "track_version": 18,
-    "last_id_change": 1463993594,
+    "last_id_change": 1468353128,
     "username_cased": "rguerra"
   },
   "profile": {
@@ -39,16 +39,18 @@
       "012162f6c86eb72f6217396f998408179a4cf687a3ec49d96e58ef91ed439ec33b650a",
       "0120f648b4e1f2abce15bf11e238932ede4819e74498dd52ae9627bbb43da5bdb11a0a",
       "01206a780c9991806cbe426e7100d6aa73af9f4567a060c80890498de52532a666040a",
-      "0121c022f91212eb9f1b5e549ea9d8eaf98f8a3bccb85b7f43b1c55ad64dbfd04a6a0a"
+      "0121c022f91212eb9f1b5e549ea9d8eaf98f8a3bccb85b7f43b1c55ad64dbfd04a6a0a",
+      "0121abbf56c04df3e223cd4a9bb5c715a2753e62e9b1084e01df53b8cd62b65d03760a",
+      "0120cb35a088685b7fbeba74956c90aff13cb9f9c0951e9c94be58f466f5784c362e0a"
     ],
     "subkeys": [
-      "012162f6c86eb72f6217396f998408179a4cf687a3ec49d96e58ef91ed439ec33b650a",
-      "0121c022f91212eb9f1b5e549ea9d8eaf98f8a3bccb85b7f43b1c55ad64dbfd04a6a0a"
+      "0121c022f91212eb9f1b5e549ea9d8eaf98f8a3bccb85b7f43b1c55ad64dbfd04a6a0a",
+      "0121abbf56c04df3e223cd4a9bb5c715a2753e62e9b1084e01df53b8cd62b65d03760a"
     ],
     "sibkeys": [
       "0111ce7775a5670f1dea352ef4631dd79e336ae14c8870275d17b21719550b4cdc970a",
-      "0120f648b4e1f2abce15bf11e238932ede4819e74498dd52ae9627bbb43da5bdb11a0a",
-      "01206a780c9991806cbe426e7100d6aa73af9f4567a060c80890498de52532a666040a"
+      "01206a780c9991806cbe426e7100d6aa73af9f4567a060c80890498de52532a666040a",
+      "0120cb35a088685b7fbeba74956c90aff13cb9f9c0951e9c94be58f466f5784c362e0a"
     ],
     "families": {
       "0101894ffe7cc5c4f882f759477e300924959414026df7d1c1b6161af2438d407e460a": [
@@ -59,7 +61,9 @@
         "012162f6c86eb72f6217396f998408179a4cf687a3ec49d96e58ef91ed439ec33b650a",
         "0120f648b4e1f2abce15bf11e238932ede4819e74498dd52ae9627bbb43da5bdb11a0a",
         "01206a780c9991806cbe426e7100d6aa73af9f4567a060c80890498de52532a666040a",
-        "0121c022f91212eb9f1b5e549ea9d8eaf98f8a3bccb85b7f43b1c55ad64dbfd04a6a0a"
+        "0121c022f91212eb9f1b5e549ea9d8eaf98f8a3bccb85b7f43b1c55ad64dbfd04a6a0a",
+        "0121abbf56c04df3e223cd4a9bb5c715a2753e62e9b1084e01df53b8cd62b65d03760a",
+        "0120cb35a088685b7fbeba74956c90aff13cb9f9c0951e9c94be58f466f5784c362e0a"
       ]
     },
     "eldest_kid": "0111ce7775a5670f1dea352ef4631dd79e336ae14c8870275d17b21719550b4cdc970a",
@@ -294,12 +298,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f7579aeda23c1e9d61b6d2936b189daf6e228bba9d9748ce5eb906f1d011edb50f",
-      "seqno": 55,
-      "payload_hash": "bcb1e8d682edf27a1973f40926002e86e785ccb319fcb8ef6f8d14ec4dc48a13"
+      "sig_id": "f51d05448b07488655e4bb51607aedaa89b753761416a79d9ffbb9c42029b06f0f",
+      "seqno": 58,
+      "payload_hash": "fab820f10dc0840e1f804a33f073adf0d4b93dafc22840704abefc20593c007d"
     }
   },
   "devices": {
+    "13061c671f61055ec2841cab211bdd18": {
+      "type": "desktop",
+      "ctime": 1468353128,
+      "mtime": 1468353128,
+      "name": "Macbook Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120cb35a088685b7fbeba74956c90aff13cb9f9c0951e9c94be58f466f5784c362e0a",
+          "key_role": 1,
+          "sig_id": "743eb8696c106cf089272e341cb805a5f20ba6fbc23bde221973c71674fe29db0f"
+        },
+        {
+          "kid": "0121abbf56c04df3e223cd4a9bb5c715a2753e62e9b1084e01df53b8cd62b65d03760a",
+          "key_role": 2,
+          "sig_id": "d0c2794f4b1842fb5a1dd4cd1f69941c70ac27d2f343954b24c3e4c0ef24f86c0f"
+        }
+      ]
+    },
     "808dd3ee07661e4f36bd1bfaf159df18": {
       "type": "backup",
       "ctime": 1454939492,
@@ -316,25 +339,6 @@
           "kid": "0121c022f91212eb9f1b5e549ea9d8eaf98f8a3bccb85b7f43b1c55ad64dbfd04a6a0a",
           "key_role": 2,
           "sig_id": "45fa72d9eee9b45d771f834050cbd9602e26cb267c0642b11b2ebea1a8f1e01f0f"
-        }
-      ]
-    },
-    "d7399b0bb53cca6fd041486721f96618": {
-      "type": "desktop",
-      "ctime": 1454939491,
-      "mtime": 1454939491,
-      "name": "RG Laptop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120f648b4e1f2abce15bf11e238932ede4819e74498dd52ae9627bbb43da5bdb11a0a",
-          "key_role": 1,
-          "sig_id": "da9a7ba3ee8436ffc384f02673364e7d25d4fec9f495a74cf4ce1839c1180de70f"
-        },
-        {
-          "kid": "012162f6c86eb72f6217396f998408179a4cf687a3ec49d96e58ef91ed439ec33b650a",
-          "key_role": 2,
-          "sig_id": "5efc9a4616211ce5c96d19eb2aeba76910b249b89221f5aab64bb3b2d5c1228f0f"
         }
       ]
     }
