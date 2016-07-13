@@ -1,0 +1,92 @@
+{
+  "id": "c1fd1c87508fca98fcdbaed9159f2519",
+  "basics": {
+    "username": "cjbtest",
+    "ctime": 1453752455,
+    "mtime": 1453752455,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1453755291,
+    "username_cased": "cjbtest"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0120d21e8a77b08384ea90aea37030d973ded689b26869496c9b4a98bea44ffd23a60a",
+      "0121f6e37899e6ee0c05f47e8f94257d06b4de8150d45c4ee9b6f17da345f3c9a0130a",
+      "012156445cfc4dd2f7897c225f1b45efa49aa834b4528ea677a40bd0d755b86300190a",
+      "0120985efb5c727bbf6ca149de04080d2eacfd95a8af9ec2bbf0cfa02b3886fd9d100a"
+    ],
+    "subkeys": [
+      "0121f6e37899e6ee0c05f47e8f94257d06b4de8150d45c4ee9b6f17da345f3c9a0130a",
+      "012156445cfc4dd2f7897c225f1b45efa49aa834b4528ea677a40bd0d755b86300190a"
+    ],
+    "sibkeys": [
+      "0120d21e8a77b08384ea90aea37030d973ded689b26869496c9b4a98bea44ffd23a60a",
+      "0120985efb5c727bbf6ca149de04080d2eacfd95a8af9ec2bbf0cfa02b3886fd9d100a"
+    ],
+    "families": {
+      "0120985efb5c727bbf6ca149de04080d2eacfd95a8af9ec2bbf0cfa02b3886fd9d100a": [
+        "0120d21e8a77b08384ea90aea37030d973ded689b26869496c9b4a98bea44ffd23a60a",
+        "0121f6e37899e6ee0c05f47e8f94257d06b4de8150d45c4ee9b6f17da345f3c9a0130a",
+        "012156445cfc4dd2f7897c225f1b45efa49aa834b4528ea677a40bd0d755b86300190a",
+        "0120985efb5c727bbf6ca149de04080d2eacfd95a8af9ec2bbf0cfa02b3886fd9d100a"
+      ]
+    },
+    "eldest_kid": "0120985efb5c727bbf6ca149de04080d2eacfd95a8af9ec2bbf0cfa02b3886fd9d100a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "3df9ce1f1d3a86609cf91ea403f1aaf85ac66ce8d3cae328eb1b76611c116d710f",
+      "seqno": 4,
+      "payload_hash": "ac566c2b1a9e193a3ff7f6076a474ebbe8e7590389184cccf8aa19a9bf6a83e5"
+    }
+  },
+  "devices": {
+    "0d0b8b731e5afc1183b37635efa26918": {
+      "type": "backup",
+      "ctime": 1453755291,
+      "mtime": 1453755291,
+      "name": "section insect",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d21e8a77b08384ea90aea37030d973ded689b26869496c9b4a98bea44ffd23a60a",
+          "key_role": 1,
+          "sig_id": "90e341e35f6887def338878f3d179f175a4d8dea31f0d4ffe51d26b4d0cb8c520f"
+        },
+        {
+          "kid": "0121f6e37899e6ee0c05f47e8f94257d06b4de8150d45c4ee9b6f17da345f3c9a0130a",
+          "key_role": 2,
+          "sig_id": "3df9ce1f1d3a86609cf91ea403f1aaf85ac66ce8d3cae328eb1b76611c116d710f"
+        }
+      ]
+    },
+    "622cf63eb28b7f8798904eb7b6bce518": {
+      "type": "desktop",
+      "ctime": 1453755291,
+      "mtime": 1453755291,
+      "name": "cjbtest1",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120985efb5c727bbf6ca149de04080d2eacfd95a8af9ec2bbf0cfa02b3886fd9d100a",
+          "key_role": 1,
+          "sig_id": "e28356eda64eba511e18ea97380b4e95e161bebb31474a04e79dcb29db5ff6ef0f"
+        },
+        {
+          "kid": "012156445cfc4dd2f7897c225f1b45efa49aa834b4528ea677a40bd0d755b86300190a",
+          "key_role": 2,
+          "sig_id": "09614f1c3905e53f57f50e70ffd118a8bc8c06b4a3380992bf376ce014b25b130f"
+        }
+      ]
+    }
+  }
+}
