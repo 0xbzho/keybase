@@ -4,14 +4,14 @@
     "username": "markrobinsonuk",
     "ctime": 1446709261,
     "mtime": 1446709261,
-    "id_version": 27,
-    "track_version": 5,
-    "last_id_change": 1466629928,
+    "id_version": 30,
+    "track_version": 9,
+    "last_id_change": 1468353787,
     "username_cased": "markrobinsonuk"
   },
   "profile": {
-    "mtime": 1466339726,
-    "full_name": "Mark Robinson",
+    "mtime": 1468354019,
+    "full_name": "sneakymonkey",
     "location": "Birmingham, UK",
     "bio": "uber geek"
   },
@@ -100,6 +100,18 @@
       "dns": [
         {
           "proof_type": "dns",
+          "nametag": "www.sneakymonkey.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/markrobinsonuk/sigchain#6ddb6e776501a34ad79f269f150a790bb810af4f8bf410db20bfe9a65855a83b0f",
+          "sig_id": "6ddb6e776501a34ad79f269f150a790bb810af4f8bf410db20bfe9a65855a83b0f",
+          "proof_id": "64bd2bb627e4a58a8d400a10",
+          "human_url": "dns://www.sneakymonkey.net",
+          "service_url": "http://www.sneakymonkey.net",
+          "presentation_group": "www.sneakymonkey.net",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "markrobinson.me",
           "state": 1,
           "proof_url": "https://keybase.io/markrobinsonuk/sigchain#1a1cedbf029edbc97c783ff331fc7bcf01aefb980ecac8ea1966dba2e8aceca70f",
@@ -153,6 +165,20 @@
           "service_url": "https://reddit.com/user/sneakymonk3y",
           "presentation_group": "reddit",
           "presentation_tag": "post"
+        }
+      ],
+      "www.sneakymonkey.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "www.sneakymonkey.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/markrobinsonuk/sigchain#6ddb6e776501a34ad79f269f150a790bb810af4f8bf410db20bfe9a65855a83b0f",
+          "sig_id": "6ddb6e776501a34ad79f269f150a790bb810af4f8bf410db20bfe9a65855a83b0f",
+          "proof_id": "64bd2bb627e4a58a8d400a10",
+          "human_url": "dns://www.sneakymonkey.net",
+          "service_url": "http://www.sneakymonkey.net",
+          "presentation_group": "www.sneakymonkey.net",
+          "presentation_tag": "dns"
         }
       ],
       "markrobinson.me": [
@@ -209,6 +235,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "www.sneakymonkey.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/markrobinsonuk/sigchain#6ddb6e776501a34ad79f269f150a790bb810af4f8bf410db20bfe9a65855a83b0f",
+        "sig_id": "6ddb6e776501a34ad79f269f150a790bb810af4f8bf410db20bfe9a65855a83b0f",
+        "proof_id": "64bd2bb627e4a58a8d400a10",
+        "human_url": "dns://www.sneakymonkey.net",
+        "service_url": "http://www.sneakymonkey.net",
+        "presentation_group": "www.sneakymonkey.net",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "markrobinson.me",
         "state": 1,
         "proof_url": "https://keybase.io/markrobinsonuk/sigchain#1a1cedbf029edbc97c783ff331fc7bcf01aefb980ecac8ea1966dba2e8aceca70f",
@@ -221,7 +259,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1LWczUuHcMTk6CGygTxWwiBhhTWi7Z1Dq4",
+        "sig_id": "047975f56acfba2cc876d60aeaa9d62ed17d34245077b26cc340c6132fdef2710f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/9188668906e043a719fc5e0d8414f005_360_360_square_360.jpeg",
@@ -232,9 +277,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "a2fdd7aec5aa33aa7a0ea71b214eb5d1494ab19a3af6d9bc444b0485da39aaf80f",
-      "seqno": 12,
-      "payload_hash": "b85ecd5d0b3655730bb501bbe155a7f24b9ad50c2ff341cea0d379f0216a684b"
+      "sig_id": "82c0424a0fd67491ee4de33ee38f78894e9196d2ed51c5465930be12839e0d520f",
+      "seqno": 18,
+      "payload_hash": "4a92d797c97089de1aa7014a70e8a0c5d9837b255c9d583fd6afaeb4f7a3b5b5"
     }
   },
   "devices": {}
