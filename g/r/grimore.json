@@ -4,9 +4,9 @@
     "username": "grimore",
     "ctime": 1459808868,
     "mtime": 1459808868,
-    "id_version": 5,
+    "id_version": 6,
     "track_version": 4,
-    "last_id_change": 1459835438,
+    "last_id_change": 1468237187,
     "username_cased": "grimore"
   },
   "profile": {
@@ -38,16 +38,18 @@
       "0121edc9e39dc35619fcd70455b387c9af030f46e183f880bc5ae2e2d62e6e6060600a",
       "01213266f5850a412fa22b3972a177182c0c55de7512549bd4d16b93599249019f280a",
       "01207c4aa6a9fd7f55a5b837e68997631f3eded266a1ce85d9b562e7deec869421a70a",
-      "0120207243ce008ee03b21a2f1e73f543c09af1f4bd7e7407ce7de677fbff08c408b0a"
+      "0120207243ce008ee03b21a2f1e73f543c09af1f4bd7e7407ce7de677fbff08c408b0a",
+      "0120be39a2d5ea2b2519654a35d272464be01f0594af519f448c732dd674041bc4350a",
+      "012156e621d3e48b8ea36cf6f829b8e7f4807e310fc74bcb1ae0b6c2daefcbb364410a"
     ],
     "subkeys": [
-      "0121edc9e39dc35619fcd70455b387c9af030f46e183f880bc5ae2e2d62e6e6060600a",
-      "01213266f5850a412fa22b3972a177182c0c55de7512549bd4d16b93599249019f280a"
+      "01213266f5850a412fa22b3972a177182c0c55de7512549bd4d16b93599249019f280a",
+      "012156e621d3e48b8ea36cf6f829b8e7f4807e310fc74bcb1ae0b6c2daefcbb364410a"
     ],
     "sibkeys": [
       "0101f2a40c25169e9aa98b4bf9cf03da891519e0f1018b286c60137527ae9741ad3b0a",
       "01207c4aa6a9fd7f55a5b837e68997631f3eded266a1ce85d9b562e7deec869421a70a",
-      "0120207243ce008ee03b21a2f1e73f543c09af1f4bd7e7407ce7de677fbff08c408b0a"
+      "0120be39a2d5ea2b2519654a35d272464be01f0594af519f448c732dd674041bc4350a"
     ],
     "families": {
       "0101f2a40c25169e9aa98b4bf9cf03da891519e0f1018b286c60137527ae9741ad3b0a": [
@@ -55,7 +57,9 @@
         "0121edc9e39dc35619fcd70455b387c9af030f46e183f880bc5ae2e2d62e6e6060600a",
         "01213266f5850a412fa22b3972a177182c0c55de7512549bd4d16b93599249019f280a",
         "01207c4aa6a9fd7f55a5b837e68997631f3eded266a1ce85d9b562e7deec869421a70a",
-        "0120207243ce008ee03b21a2f1e73f543c09af1f4bd7e7407ce7de677fbff08c408b0a"
+        "0120207243ce008ee03b21a2f1e73f543c09af1f4bd7e7407ce7de677fbff08c408b0a",
+        "0120be39a2d5ea2b2519654a35d272464be01f0594af519f448c732dd674041bc4350a",
+        "012156e621d3e48b8ea36cf6f829b8e7f4807e310fc74bcb1ae0b6c2daefcbb364410a"
       ]
     },
     "eldest_kid": "0101f2a40c25169e9aa98b4bf9cf03da891519e0f1018b286c60137527ae9741ad3b0a",
@@ -123,31 +127,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "81fab0c8b2f212430bd1c474b5655d2fb8070399e77aacebeb6ce6c78f23bce90f",
-      "seqno": 10,
-      "payload_hash": "c319c7abcf590ec4f5f69a51b23dc4468b11b3dd2b7dff4ae1d7b9450d661247"
+      "sig_id": "7d29d307fc537534bc00436875cfebe1f7228bada10492b543cf283136ce1e1b0f",
+      "seqno": 13,
+      "payload_hash": "8e5c72af83dc4d0c2ba3a6005ad981a933052bd62564dee4988194238b324984"
     }
   },
   "devices": {
-    "501e3185b063a34843226175ef8fc518": {
-      "type": "desktop",
-      "ctime": 1459835438,
-      "mtime": 1459835438,
-      "name": "Ubuntu Laptop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120207243ce008ee03b21a2f1e73f543c09af1f4bd7e7407ce7de677fbff08c408b0a",
-          "key_role": 1,
-          "sig_id": "bf40198443e3202b8d9219c6e2eb6a63ec1a3e3ec2f8694ce2fc01e91b25f7680f"
-        },
-        {
-          "kid": "0121edc9e39dc35619fcd70455b387c9af030f46e183f880bc5ae2e2d62e6e6060600a",
-          "key_role": 2,
-          "sig_id": "ad1bbcd51b55d1434428e57684f454828651b03e9869c5169afb8ba4e4f235590f"
-        }
-      ]
-    },
     "8f72f58334095281a79673bcfcd42d18": {
       "type": "backup",
       "ctime": 1459835438,
@@ -164,6 +149,25 @@
           "kid": "01213266f5850a412fa22b3972a177182c0c55de7512549bd4d16b93599249019f280a",
           "key_role": 2,
           "sig_id": "81fab0c8b2f212430bd1c474b5655d2fb8070399e77aacebeb6ce6c78f23bce90f"
+        }
+      ]
+    },
+    "f7464689d2140f7d73c2535e754abc18": {
+      "type": "desktop",
+      "ctime": 1468237187,
+      "mtime": 1468237187,
+      "name": "macBook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120be39a2d5ea2b2519654a35d272464be01f0594af519f448c732dd674041bc4350a",
+          "key_role": 1,
+          "sig_id": "c3bda735bc6e1dda4b785815eeb61328edf1df7b026191369e22cac7881b564c0f"
+        },
+        {
+          "kid": "012156e621d3e48b8ea36cf6f829b8e7f4807e310fc74bcb1ae0b6c2daefcbb364410a",
+          "key_role": 2,
+          "sig_id": "e660e45737e2464fcc8dab9a9dc432f9b39a82d122c1cbc2df3f52d87db060420f"
         }
       ]
     }
