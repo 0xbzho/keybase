@@ -4,9 +4,9 @@
     "username": "davemetzger",
     "ctime": 1451889578,
     "mtime": 1451889578,
-    "id_version": 13,
-    "track_version": 2,
-    "last_id_change": 1466542327,
+    "id_version": 15,
+    "track_version": 5,
+    "last_id_change": 1468175648,
     "username_cased": "davemetzger"
   },
   "profile": {
@@ -81,6 +81,20 @@
           "presentation_tag": "post"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/davemetzger",
+          "state": 1,
+          "proof_url": "https://coinbase.com/davemetzger/public-key",
+          "sig_id": "ddd07808a181523802672f20b366b51e4caa86c3a4d0cdc9787957d13a721a7d0f",
+          "proof_id": "210249f28d0d06dc48153010",
+          "human_url": "https://coinbase.com/davemetzger/public-key",
+          "service_url": "https://coinbase.com/davemetzger",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
@@ -125,6 +139,20 @@
           "presentation_tag": "post"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/davemetzger",
+          "state": 1,
+          "proof_url": "https://coinbase.com/davemetzger/public-key",
+          "sig_id": "ddd07808a181523802672f20b366b51e4caa86c3a4d0cdc9787957d13a721a7d0f",
+          "proof_id": "210249f28d0d06dc48153010",
+          "human_url": "https://coinbase.com/davemetzger/public-key",
+          "service_url": "https://coinbase.com/davemetzger",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "davemetzger.tv": [
         {
           "proof_type": "generic_web_site",
@@ -166,6 +194,18 @@
         "presentation_tag": "post"
       },
       {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/davemetzger",
+        "state": 1,
+        "proof_url": "https://coinbase.com/davemetzger/public-key",
+        "sig_id": "ddd07808a181523802672f20b366b51e4caa86c3a4d0cdc9787957d13a721a7d0f",
+        "proof_id": "210249f28d0d06dc48153010",
+        "human_url": "https://coinbase.com/davemetzger/public-key",
+        "service_url": "https://coinbase.com/davemetzger",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "davemetzger.tv",
         "state": 1,
@@ -179,7 +219,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1GjLm4CeKz2NZMy83dY9CC9vKzjBa5Euvh",
+        "sig_id": "0729c02010407a36a77a7f68a8ef5aafe57c0ef991a6e170cb80ffe1627adbbe0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/d1126eea22d2191f804e1f0737ab6f05_360_360_square_360.jpeg",
@@ -190,9 +237,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "721056dc63c4ec638782f51b70c877c2911a243271626d95919558d1f1a534180f",
-      "seqno": 6,
-      "payload_hash": "038f1b1c30aeafa7e63417f03128f49b4bb93259f64a25fe6a975010392873f2"
+      "sig_id": "0729c02010407a36a77a7f68a8ef5aafe57c0ef991a6e170cb80ffe1627adbbe0f",
+      "seqno": 11,
+      "payload_hash": "0b0988dab24be30ac67b6e7e35b156b57dc3d6cb4173cb0ccc647f019df95093"
     }
   },
   "devices": {}
