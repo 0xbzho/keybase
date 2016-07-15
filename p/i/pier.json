@@ -4,9 +4,9 @@
     "username": "pier",
     "ctime": 1451938237,
     "mtime": 1451938237,
-    "id_version": 48,
+    "id_version": 55,
     "track_version": 2,
-    "last_id_change": 1465495220,
+    "last_id_change": 1468397748,
     "username_cased": "pier"
   },
   "profile": {
@@ -157,6 +157,18 @@
         },
         {
           "proof_type": "generic_web_site",
+          "nametag": "pernici.net",
+          "state": 1,
+          "proof_url": "https://pernici.net/keybase.txt",
+          "sig_id": "c3342a90f7f88c4d4e3cd3a958747eaebac33b3f65ddca106a26dea8b92b34830f",
+          "proof_id": "d2e495eadbadad2406cf0410",
+          "human_url": "https://pernici.net/keybase.txt",
+          "service_url": "https://pernici.net",
+          "presentation_group": "pernici.net",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
           "nametag": "www.mmorpgitalia.it",
           "state": 1,
           "proof_url": "http://www.mmorpgitalia.it/keybase.txt",
@@ -165,18 +177,6 @@
           "human_url": "http://www.mmorpgitalia.it/keybase.txt",
           "service_url": "http://www.mmorpgitalia.it",
           "presentation_group": "www.mmorpgitalia.it",
-          "presentation_tag": "http"
-        },
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "www.pernici.net",
-          "state": 1,
-          "proof_url": "http://www.pernici.net/keybase.txt",
-          "sig_id": "21e4e5fdb11be5799b94b48102d560ab00e8fd11d34c52c2d7dd8831bf3581660f",
-          "proof_id": "012e7cd4e4b4406f0e0a6010",
-          "human_url": "http://www.pernici.net/keybase.txt",
-          "service_url": "http://www.pernici.net",
-          "presentation_group": "www.pernici.net",
           "presentation_tag": "http"
         }
       ]
@@ -266,20 +266,6 @@
           "presentation_tag": "http"
         }
       ],
-      "www.pernici.net": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "www.pernici.net",
-          "state": 1,
-          "proof_url": "http://www.pernici.net/keybase.txt",
-          "sig_id": "21e4e5fdb11be5799b94b48102d560ab00e8fd11d34c52c2d7dd8831bf3581660f",
-          "proof_id": "012e7cd4e4b4406f0e0a6010",
-          "human_url": "http://www.pernici.net/keybase.txt",
-          "service_url": "http://www.pernici.net",
-          "presentation_group": "www.pernici.net",
-          "presentation_tag": "http"
-        }
-      ],
       "pcube.io": [
         {
           "proof_type": "generic_web_site",
@@ -291,6 +277,20 @@
           "human_url": "https://pcube.io/keybase.txt",
           "service_url": "https://pcube.io",
           "presentation_group": "pcube.io",
+          "presentation_tag": "https"
+        }
+      ],
+      "pernici.net": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "pernici.net",
+          "state": 1,
+          "proof_url": "https://pernici.net/keybase.txt",
+          "sig_id": "c3342a90f7f88c4d4e3cd3a958747eaebac33b3f65ddca106a26dea8b92b34830f",
+          "proof_id": "d2e495eadbadad2406cf0410",
+          "human_url": "https://pernici.net/keybase.txt",
+          "service_url": "https://pernici.net",
+          "presentation_group": "pernici.net",
           "presentation_tag": "https"
         }
       ]
@@ -370,18 +370,6 @@
       },
       {
         "proof_type": "generic_web_site",
-        "nametag": "www.pernici.net",
-        "state": 1,
-        "proof_url": "http://www.pernici.net/keybase.txt",
-        "sig_id": "21e4e5fdb11be5799b94b48102d560ab00e8fd11d34c52c2d7dd8831bf3581660f",
-        "proof_id": "012e7cd4e4b4406f0e0a6010",
-        "human_url": "http://www.pernici.net/keybase.txt",
-        "service_url": "http://www.pernici.net",
-        "presentation_group": "www.pernici.net",
-        "presentation_tag": "http"
-      },
-      {
-        "proof_type": "generic_web_site",
         "nametag": "pcube.io",
         "state": 1,
         "proof_url": "https://pcube.io/keybase.txt",
@@ -390,6 +378,18 @@
         "human_url": "https://pcube.io/keybase.txt",
         "service_url": "https://pcube.io",
         "presentation_group": "pcube.io",
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "pernici.net",
+        "state": 1,
+        "proof_url": "https://pernici.net/keybase.txt",
+        "sig_id": "c3342a90f7f88c4d4e3cd3a958747eaebac33b3f65ddca106a26dea8b92b34830f",
+        "proof_id": "d2e495eadbadad2406cf0410",
+        "human_url": "https://pernici.net/keybase.txt",
+        "service_url": "https://pernici.net",
+        "presentation_group": "pernici.net",
         "presentation_tag": "https"
       }
     ]
@@ -412,9 +412,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "abf6bf2dfbb1013cc201b5c3e0b09b7d5d945b00c248504ca2f3817525be796a0f",
-      "seqno": 22,
-      "payload_hash": "6b69fe0640dff7bbe98984f636b66e0223f3a9bab29f464dd6962ed8d3dd5db6"
+      "sig_id": "53a9b50c00762dda7da4a0760d7f9bca05e7799cd41bfc08babf96bffc0d16a10f",
+      "seqno": 24,
+      "payload_hash": "4a920236b5be3d0fa433eafcd217bf809a7f36b071ceee9a2b8c7dc9105ee3c5"
     }
   },
   "devices": {
