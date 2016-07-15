@@ -46,16 +46,12 @@
     ],
     "subkeys": [
       "0121443f845f481973fbf8993f8ede10587191bb1693a19aa15dec2261ef573700010a",
-      "0121ff2045a9be6f11c99eb45a67842a324e0b728910bc0764faa7b82e3baf6e70400a",
-      "01218ecab7bd96b122978787d12807382f1c3a54936b7f88edc66764851a8f99c5070a",
-      "01212531d398ecc0fa290e0db80e207fc5e388a6f10cb99e7fac6c1cdd1c8e52232b0a"
+      "0121ff2045a9be6f11c99eb45a67842a324e0b728910bc0764faa7b82e3baf6e70400a"
     ],
     "sibkeys": [
       "012019ade2d83c85e9b1057a82d80d57b69f89c25beea7cd3c86d2a07bce56bbd6a90a",
       "012051368c6e8ba92b2c5276fd32ee46075754c010b892d30e53656675e1d7ff53d30a",
-      "01015d6aed7718ffc3879c59992c2159af8069387feb51a64952e0392a9a60ba0c1b0a",
-      "01207a3a7844ca281616d8867d3df59a31c19505dc489b664c7757e7c1b06e534c040a",
-      "01202521b56a53679999859ef2451f670b4b67fe8ddffe728ef36ef03da5e824a99e0a"
+      "01015d6aed7718ffc3879c59992c2159af8069387feb51a64952e0392a9a60ba0c1b0a"
     ],
     "families": {
       "012019ade2d83c85e9b1057a82d80d57b69f89c25beea7cd3c86d2a07bce56bbd6a90a": [
@@ -222,31 +218,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "ba5370183803778d8faec3ced6b2b43f1442e6cc14ed04c40671af2318871f3c0f",
-      "seqno": 19,
-      "payload_hash": "882c089d7a91872a46d1c7e4b4a77b4be4f2e57b5663529dd84a654014188c60"
+      "sig_id": "de202f7c535713a522531393e1f6bbb2d9c44c778f1ffeeb5c6d1e58ed4669dd0f",
+      "seqno": 21,
+      "payload_hash": "4567c13b10a82fcab0a6c30e54e668ced6086bb2757e6d3bce86ab1212e92e2f"
     }
   },
   "devices": {
-    "37a7435d39ad4b1a232e4b93bf7fbe18": {
-      "type": "backup",
-      "ctime": 1468396941,
-      "mtime": 1468396941,
-      "name": "lunar position",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01207a3a7844ca281616d8867d3df59a31c19505dc489b664c7757e7c1b06e534c040a",
-          "key_role": 1,
-          "sig_id": "e90698e01c28a1d6c25104b7322515ac3149753098eb69f61cc0fbe3eebe74590f"
-        },
-        {
-          "kid": "01218ecab7bd96b122978787d12807382f1c3a54936b7f88edc66764851a8f99c5070a",
-          "key_role": 2,
-          "sig_id": "caba4727c83660bd45c316e102c777b398d65f5f69e884fa1c9c80e3b5d80d110f"
-        }
-      ]
-    },
     "63b8e0deb0ae7faf973febb1c3974618": {
       "type": "desktop",
       "ctime": 1467792372,
@@ -263,25 +240,6 @@
           "kid": "0121443f845f481973fbf8993f8ede10587191bb1693a19aa15dec2261ef573700010a",
           "key_role": 2,
           "sig_id": "fc4f7283ce768dc62b2393e039402acbaa56f1817f7c608c00159d21d28e68800f"
-        }
-      ]
-    },
-    "b144e99c608155c41e6716768759b318": {
-      "type": "backup",
-      "ctime": 1468396959,
-      "mtime": 1468396959,
-      "name": "short must",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01202521b56a53679999859ef2451f670b4b67fe8ddffe728ef36ef03da5e824a99e0a",
-          "key_role": 1,
-          "sig_id": "aa90cb8b5c8085ed20c62d3ea07831426e09bd186ed0c89aca9415cb893774b80f"
-        },
-        {
-          "kid": "01212531d398ecc0fa290e0db80e207fc5e388a6f10cb99e7fac6c1cdd1c8e52232b0a",
-          "key_role": 2,
-          "sig_id": "ba5370183803778d8faec3ced6b2b43f1442e6cc14ed04c40671af2318871f3c0f"
         }
       ]
     },
