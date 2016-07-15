@@ -4,9 +4,9 @@
     "username": "pazustep",
     "ctime": 1408049974,
     "mtime": 1408049974,
-    "id_version": 25,
+    "id_version": 27,
     "track_version": 2,
-    "last_id_change": 1461676608,
+    "last_id_change": 1468410631,
     "username_cased": "pazustep"
   },
   "profile": {
@@ -41,18 +41,20 @@
       "01213eafe5fcf84f54289d4d74fd7185d730216b468a4b478a7a1d0a56ab80ceb37a0a",
       "012027398d12d087414ee04785c3fe85a19c3208b790b4a7c9a8a5da9044b86c23c20a",
       "0120f8aa7da2672b0ce10bb7c26b8311ada3ad76fc23d642889467153e47ffe727840a",
-      "01216da7bb4e2640888f70272efc52f141dbdc12ec7c72a62724df18abebc706191a0a"
+      "01216da7bb4e2640888f70272efc52f141dbdc12ec7c72a62724df18abebc706191a0a",
+      "0120d1c571db949107b6150f44bb58924700668f61772fed43ac9e3519646e15976a0a",
+      "0121dda85c7b7d6484f099166c6c9e13bb54a522dbf618f2a96a8b1ab2b7cefa780e0a"
     ],
     "subkeys": [
       "0121510670f50c166e76d8f9ddacc05d53c426b0b03dd15526dd221f24d2acb3904d0a",
-      "01213eafe5fcf84f54289d4d74fd7185d730216b468a4b478a7a1d0a56ab80ceb37a0a",
-      "01216da7bb4e2640888f70272efc52f141dbdc12ec7c72a62724df18abebc706191a0a"
+      "01216da7bb4e2640888f70272efc52f141dbdc12ec7c72a62724df18abebc706191a0a",
+      "0121dda85c7b7d6484f099166c6c9e13bb54a522dbf618f2a96a8b1ab2b7cefa780e0a"
     ],
     "sibkeys": [
       "0101030ec58dd54d19cf98a475efc1c70d3474281583d35698ccab5d05194306844f0a",
       "01205840c3b77c495e8413a695aab032bb8d835c84bd09bdc3b54425ae1d252f78a60a",
-      "012027398d12d087414ee04785c3fe85a19c3208b790b4a7c9a8a5da9044b86c23c20a",
-      "0120f8aa7da2672b0ce10bb7c26b8311ada3ad76fc23d642889467153e47ffe727840a"
+      "0120f8aa7da2672b0ce10bb7c26b8311ada3ad76fc23d642889467153e47ffe727840a",
+      "0120d1c571db949107b6150f44bb58924700668f61772fed43ac9e3519646e15976a0a"
     ],
     "families": {
       "0101030ec58dd54d19cf98a475efc1c70d3474281583d35698ccab5d05194306844f0a": [
@@ -63,7 +65,9 @@
         "01213eafe5fcf84f54289d4d74fd7185d730216b468a4b478a7a1d0a56ab80ceb37a0a",
         "012027398d12d087414ee04785c3fe85a19c3208b790b4a7c9a8a5da9044b86c23c20a",
         "0120f8aa7da2672b0ce10bb7c26b8311ada3ad76fc23d642889467153e47ffe727840a",
-        "01216da7bb4e2640888f70272efc52f141dbdc12ec7c72a62724df18abebc706191a0a"
+        "01216da7bb4e2640888f70272efc52f141dbdc12ec7c72a62724df18abebc706191a0a",
+        "0120d1c571db949107b6150f44bb58924700668f61772fed43ac9e3519646e15976a0a",
+        "0121dda85c7b7d6484f099166c6c9e13bb54a522dbf618f2a96a8b1ab2b7cefa780e0a"
       ]
     },
     "eldest_kid": "0101030ec58dd54d19cf98a475efc1c70d3474281583d35698ccab5d05194306844f0a",
@@ -240,7 +244,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1NPnUkPLPBnjWzNMpk7NoebpFonHM3XZrE",
+        "sig_id": "c4a75b378887e63ec69f052b2254127488b8a4053f32cba09dcca8b76928d6a60f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/543813334f0552e4b841dc2c6c546205_360_360_square_360.jpeg",
@@ -251,31 +262,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "810566766233d63c005fdff54c68f8448057d375d2f53a4e771942322b955c200f",
-      "seqno": 15,
-      "payload_hash": "ad89da6d8b230f848e3435fb773c5588c395b4fddb232fee159dbda98a828b64"
+      "sig_id": "1f2f6baada42c9a005d333bdbcadd222cc96d4bdfe00353e1a55b01a46af71710f",
+      "seqno": 19,
+      "payload_hash": "641acbec3cd45bb3f922979797e4add6381c522438203462a8d04c0c46273da0"
     }
   },
   "devices": {
-    "67bd9bef5b3d6830d370205f54b6e918": {
-      "type": "backup",
-      "ctime": 1460114389,
-      "mtime": 1460114389,
-      "name": "chat dance",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012027398d12d087414ee04785c3fe85a19c3208b790b4a7c9a8a5da9044b86c23c20a",
-          "key_role": 1,
-          "sig_id": "b2b517056a24f8a2696cf229ef02aa8f54e0389082fbd627a2f7ce0d5d2831330f"
-        },
-        {
-          "kid": "01213eafe5fcf84f54289d4d74fd7185d730216b468a4b478a7a1d0a56ab80ceb37a0a",
-          "key_role": 2,
-          "sig_id": "d38aa68249c51a5b5b85b20d692df5b89cba23dea2a0673d59fc4b7399ba88850f"
-        }
-      ]
-    },
     "94f3ce5a819748240473dd9f7fb35a18": {
       "type": "desktop",
       "ctime": 1460114387,
@@ -292,6 +284,25 @@
           "kid": "0121510670f50c166e76d8f9ddacc05d53c426b0b03dd15526dd221f24d2acb3904d0a",
           "key_role": 2,
           "sig_id": "8081fb80b59bcda8affcc3d55902e25d682a42e0b6f5bbca0f9b10cb7fc2963f0f"
+        }
+      ]
+    },
+    "b08a850715fa6b3694ecef635d825818": {
+      "type": "backup",
+      "ctime": 1468410631,
+      "mtime": 1468410631,
+      "name": "spot flash",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d1c571db949107b6150f44bb58924700668f61772fed43ac9e3519646e15976a0a",
+          "key_role": 1,
+          "sig_id": "26644cf9e5e593c6807456fe7c646542aa4abb01b01f69f5d592ce042ecf654a0f"
+        },
+        {
+          "kid": "0121dda85c7b7d6484f099166c6c9e13bb54a522dbf618f2a96a8b1ab2b7cefa780e0a",
+          "key_role": 2,
+          "sig_id": "1f2f6baada42c9a005d333bdbcadd222cc96d4bdfe00353e1a55b01a46af71710f"
         }
       ]
     },
