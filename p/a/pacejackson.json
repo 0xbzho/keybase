@@ -4,15 +4,15 @@
     "username": "pacejackson",
     "ctime": 1446792849,
     "mtime": 1446792849,
-    "id_version": 26,
+    "id_version": 27,
     "track_version": 3,
-    "last_id_change": 1466324446,
+    "last_id_change": 1468518411,
     "username_cased": "pacejackson"
   },
   "profile": {
-    "mtime": 1446792876,
+    "mtime": 1468518280,
     "full_name": "Andrew Boyle",
-    "location": "Oakland, CA",
+    "location": null,
     "bio": null
   },
   "public_keys": {
@@ -40,18 +40,20 @@
       "0120b78ef5502e7f47373e317ddf28779e9e2bb25407f77c4cf2be658a98d9d9cd980a",
       "0121f5068f0a11f2ff4a380a63fff35a4ee00e220873c9b29b70372c8ff8c247f2750a",
       "012077d09389b8a57e9dc39b5b00f5b799e6c424b68749b41f1ff05142878cfa13900a",
-      "0121763d3def275fc4a30589efded0142a1e0449fd2c82b0c8c896053549fe1910180a"
+      "0121763d3def275fc4a30589efded0142a1e0449fd2c82b0c8c896053549fe1910180a",
+      "012131a27248ab82510be5f1578c5ac6dfb718e54d66b4b93f897d02308cf68c2b6a0a",
+      "0120b32a433c2d232cd52f150c8736618177f308fc19c0623162bb304a2e79bd2ff30a"
     ],
     "subkeys": [
       "01218b8c77bcbed3f8e956817130984947cfc58e46f48a2baafafd934033939f751e0a",
       "0121f5068f0a11f2ff4a380a63fff35a4ee00e220873c9b29b70372c8ff8c247f2750a",
-      "0121763d3def275fc4a30589efded0142a1e0449fd2c82b0c8c896053549fe1910180a"
+      "012131a27248ab82510be5f1578c5ac6dfb718e54d66b4b93f897d02308cf68c2b6a0a"
     ],
     "sibkeys": [
       "01017db6c457128ab5d137b5f20ad379a94423557047861425913bb01152986762ce0a",
       "01206c4f55fe5cdc8854d33c4420a2599d3143c4b4e718ab6b7bfa79c0adcb2243c10a",
       "0120b78ef5502e7f47373e317ddf28779e9e2bb25407f77c4cf2be658a98d9d9cd980a",
-      "012077d09389b8a57e9dc39b5b00f5b799e6c424b68749b41f1ff05142878cfa13900a"
+      "0120b32a433c2d232cd52f150c8736618177f308fc19c0623162bb304a2e79bd2ff30a"
     ],
     "families": {
       "01017db6c457128ab5d137b5f20ad379a94423557047861425913bb01152986762ce0a": [
@@ -61,7 +63,9 @@
         "0120b78ef5502e7f47373e317ddf28779e9e2bb25407f77c4cf2be658a98d9d9cd980a",
         "0121f5068f0a11f2ff4a380a63fff35a4ee00e220873c9b29b70372c8ff8c247f2750a",
         "012077d09389b8a57e9dc39b5b00f5b799e6c424b68749b41f1ff05142878cfa13900a",
-        "0121763d3def275fc4a30589efded0142a1e0449fd2c82b0c8c896053549fe1910180a"
+        "0121763d3def275fc4a30589efded0142a1e0449fd2c82b0c8c896053549fe1910180a",
+        "012131a27248ab82510be5f1578c5ac6dfb718e54d66b4b93f897d02308cf68c2b6a0a",
+        "0120b32a433c2d232cd52f150c8736618177f308fc19c0623162bb304a2e79bd2ff30a"
       ]
     },
     "eldest_kid": "01017db6c457128ab5d137b5f20ad379a94423557047861425913bb01152986762ce0a",
@@ -256,28 +260,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c6f4ce396cf899f134b1b118995df293369cfc0d3159f6c91198c392cf3b25080f",
-      "seqno": 15,
-      "payload_hash": "f18a60318ce6d302a79009f352177976bcab51966d983e9931ca0aaa61759a66"
+      "sig_id": "7318a231c8d6bbe6c11315c5973eabe68f6eefbeeb4f121e3420e94fda18c3f20f",
+      "seqno": 18,
+      "payload_hash": "77302bf1051576ce5dd6fb48ccc5d353c354f46b87e27df3bd47988bb8155653"
     }
   },
   "devices": {
-    "146ea00b9348bedc08b5db6e54125c18": {
+    "01d734e2efeac5be4dd69590ce255018": {
       "type": "desktop",
-      "ctime": 1459879966,
-      "mtime": 1459879966,
-      "name": "bender-hipmunk",
+      "ctime": 1468518411,
+      "mtime": 1468518411,
+      "name": "bender-reddit",
       "status": 1,
       "keys": [
         {
-          "kid": "012077d09389b8a57e9dc39b5b00f5b799e6c424b68749b41f1ff05142878cfa13900a",
+          "kid": "0120b32a433c2d232cd52f150c8736618177f308fc19c0623162bb304a2e79bd2ff30a",
           "key_role": 1,
-          "sig_id": "4dfdeb6fe77062a1fcb1e1b5075698d6c3025a06d27552f29e3d3b721bb243170f"
+          "sig_id": "3c4f9fbf78179c7301fdc32e77f285035efdde13815c3b1208c1b9e79105a8f30f"
         },
         {
-          "kid": "0121763d3def275fc4a30589efded0142a1e0449fd2c82b0c8c896053549fe1910180a",
+          "kid": "012131a27248ab82510be5f1578c5ac6dfb718e54d66b4b93f897d02308cf68c2b6a0a",
           "key_role": 2,
-          "sig_id": "c6f4ce396cf899f134b1b118995df293369cfc0d3159f6c91198c392cf3b25080f"
+          "sig_id": "4ab2ed5ed589b296fed7f77da29d6afe82d47de411127f0c2be3e988cf7a462d0f"
         }
       ]
     },
