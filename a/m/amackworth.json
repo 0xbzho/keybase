@@ -4,9 +4,9 @@
     "username": "amackworth",
     "ctime": 1407173141,
     "mtime": 1407173141,
-    "id_version": 75,
-    "track_version": 25,
-    "last_id_change": 1454624127,
+    "id_version": 76,
+    "track_version": 27,
+    "last_id_change": 1468692571,
     "username_cased": "amackworth"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "01205c98e0dcd22152bd95777cbd600fdc6af04f5cdc180b4dfa730712b8f2959fbc0a",
       "012128bf71ecba22c3b10a0d30ae0faf553cb906cc2f3a884b7054686ca6598e2c420a",
       "0120457d6f062da7daff154b9472a53397cc0ed39a2239787cdcb086ca01cd14a37e0a",
-      "0121388e041bd1b7cd9f284eceab5214906880ba8c1a8e70e335467330a9e9f880370a"
+      "0121388e041bd1b7cd9f284eceab5214906880ba8c1a8e70e335467330a9e9f880370a",
+      "012105a25ca49675fa36b05c759d34ffa22d2b0a9832dd99bdb8fc4b66da74a4081f0a",
+      "0120bbfcc7ea29375a2f3275875ed5426ec0c08a1405890607d815a5ae22a6cb0cfa0a"
     ],
     "subkeys": [
       "012128bf71ecba22c3b10a0d30ae0faf553cb906cc2f3a884b7054686ca6598e2c420a",
-      "0121388e041bd1b7cd9f284eceab5214906880ba8c1a8e70e335467330a9e9f880370a"
+      "0121388e041bd1b7cd9f284eceab5214906880ba8c1a8e70e335467330a9e9f880370a",
+      "012105a25ca49675fa36b05c759d34ffa22d2b0a9832dd99bdb8fc4b66da74a4081f0a"
     ],
     "sibkeys": [
       "0101b51ec8ee9769a0f877b4d2f8e926b3ea156ffb88e7948a9b3ca9aa0e89d37c6d0a",
       "01205c98e0dcd22152bd95777cbd600fdc6af04f5cdc180b4dfa730712b8f2959fbc0a",
-      "0120457d6f062da7daff154b9472a53397cc0ed39a2239787cdcb086ca01cd14a37e0a"
+      "0120457d6f062da7daff154b9472a53397cc0ed39a2239787cdcb086ca01cd14a37e0a",
+      "0120bbfcc7ea29375a2f3275875ed5426ec0c08a1405890607d815a5ae22a6cb0cfa0a"
     ],
     "families": {
       "0101b51ec8ee9769a0f877b4d2f8e926b3ea156ffb88e7948a9b3ca9aa0e89d37c6d0a": [
@@ -55,7 +59,9 @@
         "01205c98e0dcd22152bd95777cbd600fdc6af04f5cdc180b4dfa730712b8f2959fbc0a",
         "012128bf71ecba22c3b10a0d30ae0faf553cb906cc2f3a884b7054686ca6598e2c420a",
         "0120457d6f062da7daff154b9472a53397cc0ed39a2239787cdcb086ca01cd14a37e0a",
-        "0121388e041bd1b7cd9f284eceab5214906880ba8c1a8e70e335467330a9e9f880370a"
+        "0121388e041bd1b7cd9f284eceab5214906880ba8c1a8e70e335467330a9e9f880370a",
+        "012105a25ca49675fa36b05c759d34ffa22d2b0a9832dd99bdb8fc4b66da74a4081f0a",
+        "0120bbfcc7ea29375a2f3275875ed5426ec0c08a1405890607d815a5ae22a6cb0cfa0a"
       ]
     },
     "eldest_kid": "0101b51ec8ee9769a0f877b4d2f8e926b3ea156ffb88e7948a9b3ca9aa0e89d37c6d0a",
@@ -248,12 +254,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c0ee03e86c4a1ffea71c1e845f1677b105294ddf1439d1a5cc98e8cb30dac0890f",
-      "seqno": 39,
-      "payload_hash": "fef5d61cd6d04d1b0181281921d5b63f1d42eeab57125bdb5056308f63beec71"
+      "sig_id": "ed14bfdeac3ae57e1ffe18fb70e95eee1ccc997ddf95883e998d503ec6feec400f",
+      "seqno": 43,
+      "payload_hash": "51cfc2659ba97b81d675743145644c64ab5f48af656d7d87ff5460399d1a6a5f"
     }
   },
   "devices": {
+    "098b2abb6e1519d80372bf1015352018": {
+      "type": "desktop",
+      "ctime": 1468692571,
+      "mtime": 1468692571,
+      "name": "Alexander's Macbook Air",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120bbfcc7ea29375a2f3275875ed5426ec0c08a1405890607d815a5ae22a6cb0cfa0a",
+          "key_role": 1,
+          "sig_id": "9ce075663deb6e3c6600bddd2b701e72b3268c642df8c9ffc9cd128e1c2618730f"
+        },
+        {
+          "kid": "012105a25ca49675fa36b05c759d34ffa22d2b0a9832dd99bdb8fc4b66da74a4081f0a",
+          "key_role": 2,
+          "sig_id": "ed14bfdeac3ae57e1ffe18fb70e95eee1ccc997ddf95883e998d503ec6feec400f"
+        }
+      ]
+    },
     "5441068f36bde4ca8310f16ca5694f18": {
       "type": "desktop",
       "ctime": 1454624125,
