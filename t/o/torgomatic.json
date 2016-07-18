@@ -4,10 +4,16 @@
     "username": "torgomatic",
     "ctime": 1468001850,
     "mtime": 1468001850,
-    "id_version": 12,
+    "id_version": 15,
     "track_version": 0,
-    "last_id_change": 1468296366,
+    "last_id_change": 1468337808,
     "username_cased": "torgomatic"
+  },
+  "profile": {
+    "mtime": 1468346513,
+    "full_name": "Samuel Merritt",
+    "location": "California, USA",
+    "bio": null
   },
   "public_keys": {
     "primary": {
@@ -73,6 +79,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "torgomatic.us",
+          "state": 1,
+          "proof_url": "https://keybase.io/torgomatic/sigchain#61fc8660b00dbd14521b981d020ba9fd40f8a6164aca63d808ddd6d97092c99e0f",
+          "sig_id": "61fc8660b00dbd14521b981d020ba9fd40f8a6164aca63d808ddd6d97092c99e0f",
+          "proof_id": "e12bf286a4ca01e74dcda510",
+          "human_url": "dns://torgomatic.us",
+          "service_url": "http://torgomatic.us",
+          "presentation_group": "torgomatic.us",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -89,6 +109,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "torgomatic.us": [
+        {
+          "proof_type": "dns",
+          "nametag": "torgomatic.us",
+          "state": 1,
+          "proof_url": "https://keybase.io/torgomatic/sigchain#61fc8660b00dbd14521b981d020ba9fd40f8a6164aca63d808ddd6d97092c99e0f",
+          "sig_id": "61fc8660b00dbd14521b981d020ba9fd40f8a6164aca63d808ddd6d97092c99e0f",
+          "proof_id": "e12bf286a4ca01e74dcda510",
+          "human_url": "dns://torgomatic.us",
+          "service_url": "http://torgomatic.us",
+          "presentation_group": "torgomatic.us",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -103,6 +137,18 @@
         "service_url": "https://github.com/smerritt",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "torgomatic.us",
+        "state": 1,
+        "proof_url": "https://keybase.io/torgomatic/sigchain#61fc8660b00dbd14521b981d020ba9fd40f8a6164aca63d808ddd6d97092c99e0f",
+        "sig_id": "61fc8660b00dbd14521b981d020ba9fd40f8a6164aca63d808ddd6d97092c99e0f",
+        "proof_id": "e12bf286a4ca01e74dcda510",
+        "human_url": "dns://torgomatic.us",
+        "service_url": "http://torgomatic.us",
+        "presentation_group": "torgomatic.us",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -117,9 +163,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d96dd4c251ee7eeee8bc90134abd152f1d306247dfb073beb90bf8e819cbea990f",
-      "seqno": 9,
-      "payload_hash": "f3e675466ce7cdb120cb5982d6dec8f3945f38f22ded163d594eaef202897681"
+      "sig_id": "61fc8660b00dbd14521b981d020ba9fd40f8a6164aca63d808ddd6d97092c99e0f",
+      "seqno": 10,
+      "payload_hash": "e04f59ded259bdf464ca3994de66f754a2b1c402ed53c85a072e9b3e372a1d0f"
     }
   },
   "devices": {
