@@ -4,9 +4,9 @@
     "username": "jmaupetit",
     "ctime": 1433510247,
     "mtime": 1433510247,
-    "id_version": 13,
+    "id_version": 14,
     "track_version": 16,
-    "last_id_change": 1459841633,
+    "last_id_change": 1469043063,
     "username_cased": "jmaupetit"
   },
   "profile": {
@@ -39,16 +39,20 @@
       "0121879e3bb762b31012415d4c2b27dc2073e0edd38625f8a3fcc44f85af060732400a",
       "0120a0b2527712bcb300224f2d23268889121e1cf44dee5ea5c8e17613bc4a0c479b0a",
       "0120864aed4621a67b87fa382bf1b54328d90173c2bcbe82c2e080e5b381bcc9e7f40a",
-      "01219f6c94eabfca8da62eba68138d7fce80ef9cd811c5e9b7698e68fe04f60ba2150a"
+      "01219f6c94eabfca8da62eba68138d7fce80ef9cd811c5e9b7698e68fe04f60ba2150a",
+      "01219e396b86a4a818636eccf54533b409f97b94111958062d54401ace7f909c663d0a",
+      "0120119687159c032df585f696e0498742272c5babd3ea86050fa2a55698b1f8ac6e0a"
     ],
     "subkeys": [
       "0121879e3bb762b31012415d4c2b27dc2073e0edd38625f8a3fcc44f85af060732400a",
-      "01219f6c94eabfca8da62eba68138d7fce80ef9cd811c5e9b7698e68fe04f60ba2150a"
+      "01219f6c94eabfca8da62eba68138d7fce80ef9cd811c5e9b7698e68fe04f60ba2150a",
+      "01219e396b86a4a818636eccf54533b409f97b94111958062d54401ace7f909c663d0a"
     ],
     "sibkeys": [
       "0101904b8ab4730aa16976670ddc143855c3cc6d7aef4a92b2215a5f55bba105d4180a",
       "0120a0b2527712bcb300224f2d23268889121e1cf44dee5ea5c8e17613bc4a0c479b0a",
-      "0120864aed4621a67b87fa382bf1b54328d90173c2bcbe82c2e080e5b381bcc9e7f40a"
+      "0120864aed4621a67b87fa382bf1b54328d90173c2bcbe82c2e080e5b381bcc9e7f40a",
+      "0120119687159c032df585f696e0498742272c5babd3ea86050fa2a55698b1f8ac6e0a"
     ],
     "families": {
       "0101904b8ab4730aa16976670ddc143855c3cc6d7aef4a92b2215a5f55bba105d4180a": [
@@ -57,7 +61,9 @@
         "0121879e3bb762b31012415d4c2b27dc2073e0edd38625f8a3fcc44f85af060732400a",
         "0120a0b2527712bcb300224f2d23268889121e1cf44dee5ea5c8e17613bc4a0c479b0a",
         "0120864aed4621a67b87fa382bf1b54328d90173c2bcbe82c2e080e5b381bcc9e7f40a",
-        "01219f6c94eabfca8da62eba68138d7fce80ef9cd811c5e9b7698e68fe04f60ba2150a"
+        "01219f6c94eabfca8da62eba68138d7fce80ef9cd811c5e9b7698e68fe04f60ba2150a",
+        "01219e396b86a4a818636eccf54533b409f97b94111958062d54401ace7f909c663d0a",
+        "0120119687159c032df585f696e0498742272c5babd3ea86050fa2a55698b1f8ac6e0a"
       ]
     },
     "eldest_kid": "0101904b8ab4730aa16976670ddc143855c3cc6d7aef4a92b2215a5f55bba105d4180a",
@@ -165,12 +171,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "fec85c311217aa10bc6fb6c6ffa9a81ad3d9ad7da148f5af35f493b391f763800f",
-      "seqno": 24,
-      "payload_hash": "7ef8a442ba45ad6e7a87d0694e663c54845818e8c7eca84d179787ee1cda4729"
+      "sig_id": "c84fa857e48ef6b07f922787982b1e9620b770c5f936b029881e294dae6a36190f",
+      "seqno": 26,
+      "payload_hash": "5c6e18358a6801bbf79fb753da6ca00f1b63435df93b19e33f7d381264023240"
     }
   },
   "devices": {
+    "134807883da2309807b37e4ba1ef2618": {
+      "type": "desktop",
+      "ctime": 1469043063,
+      "mtime": 1469043063,
+      "name": "ramdal",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120119687159c032df585f696e0498742272c5babd3ea86050fa2a55698b1f8ac6e0a",
+          "key_role": 1,
+          "sig_id": "bcb595795e4f9a796640f777b2aff8023f1528c7e495e2de2b077a797c6653210f"
+        },
+        {
+          "kid": "01219e396b86a4a818636eccf54533b409f97b94111958062d54401ace7f909c663d0a",
+          "key_role": 2,
+          "sig_id": "c84fa857e48ef6b07f922787982b1e9620b770c5f936b029881e294dae6a36190f"
+        }
+      ]
+    },
     "836b5acf2f0c6928ea02df1358e46518": {
       "type": "backup",
       "ctime": 1459841632,
