@@ -4,16 +4,16 @@
     "username": "buraglio",
     "ctime": 1411857357,
     "mtime": 1411857357,
-    "id_version": 88,
-    "track_version": 7,
-    "last_id_change": 1464192775,
+    "id_version": 90,
+    "track_version": 10,
+    "last_id_change": 1468965001,
     "username_cased": "buraglio"
   },
   "profile": {
-    "mtime": 1411858620,
+    "mtime": 1468966575,
     "full_name": "Nick Buraglio",
     "location": "61874",
-    "bio": "http://www.forwardingplane.net/about\nNetwork Engineer, Sometimes Security guy, grappler, circuit trainer.  Probably other stuff. "
+    "bio": "http://www.forwardingplane.net/about\nOld guy skateboarder. Network Engineer, Sometimes Security guy, grappler, circuit trainer.  Probably other stuff. "
   },
   "public_keys": {
     "primary": {
@@ -39,16 +39,24 @@
       "01202c1f7333b17d9a50cf6ae8cf7c4f8a81a0e3d28b88940e0ef1943672ec17267f0a",
       "01210e777ada51bbd266654100e40f152359377f33d76da076abc82add107244cb450a",
       "0121f15966f3b290d107ab23b8dd44a58fbe1b1a2894c9cdea667a44d075c7e742240a",
-      "012009764e444ccde7a80f86a857920ddeebdd975fe3341f74a7a061a29c7ef6bb570a"
+      "012009764e444ccde7a80f86a857920ddeebdd975fe3341f74a7a061a29c7ef6bb570a",
+      "01209ebe9af0c022434f9f64924d7cc500a47b5e9d727b65ff9215c5568ea51b613a0a",
+      "01219b0f7b8e29ac26a6f65adefde9ec980bd160cd294638176cf85b5e44a33077060a",
+      "0120614a832c07e65bc1480c2acd1f012d1f2b499367bc04c5284e414e6ad508560d0a",
+      "0121642bc2dc0fe2ecd9077816c08182448ff9d7bb0cb54445164236cf46addeb5370a"
     ],
     "subkeys": [
       "01210e777ada51bbd266654100e40f152359377f33d76da076abc82add107244cb450a",
-      "0121f15966f3b290d107ab23b8dd44a58fbe1b1a2894c9cdea667a44d075c7e742240a"
+      "0121f15966f3b290d107ab23b8dd44a58fbe1b1a2894c9cdea667a44d075c7e742240a",
+      "01219b0f7b8e29ac26a6f65adefde9ec980bd160cd294638176cf85b5e44a33077060a",
+      "0121642bc2dc0fe2ecd9077816c08182448ff9d7bb0cb54445164236cf46addeb5370a"
     ],
     "sibkeys": [
       "01012b0e06392c18c1b2491d7f62a2ce72c21c84110988ecc62a39f3c425f4b003c40a",
       "01202c1f7333b17d9a50cf6ae8cf7c4f8a81a0e3d28b88940e0ef1943672ec17267f0a",
-      "012009764e444ccde7a80f86a857920ddeebdd975fe3341f74a7a061a29c7ef6bb570a"
+      "012009764e444ccde7a80f86a857920ddeebdd975fe3341f74a7a061a29c7ef6bb570a",
+      "01209ebe9af0c022434f9f64924d7cc500a47b5e9d727b65ff9215c5568ea51b613a0a",
+      "0120614a832c07e65bc1480c2acd1f012d1f2b499367bc04c5284e414e6ad508560d0a"
     ],
     "families": {
       "01012b0e06392c18c1b2491d7f62a2ce72c21c84110988ecc62a39f3c425f4b003c40a": [
@@ -57,7 +65,11 @@
         "01202c1f7333b17d9a50cf6ae8cf7c4f8a81a0e3d28b88940e0ef1943672ec17267f0a",
         "01210e777ada51bbd266654100e40f152359377f33d76da076abc82add107244cb450a",
         "0121f15966f3b290d107ab23b8dd44a58fbe1b1a2894c9cdea667a44d075c7e742240a",
-        "012009764e444ccde7a80f86a857920ddeebdd975fe3341f74a7a061a29c7ef6bb570a"
+        "012009764e444ccde7a80f86a857920ddeebdd975fe3341f74a7a061a29c7ef6bb570a",
+        "01209ebe9af0c022434f9f64924d7cc500a47b5e9d727b65ff9215c5568ea51b613a0a",
+        "01219b0f7b8e29ac26a6f65adefde9ec980bd160cd294638176cf85b5e44a33077060a",
+        "0120614a832c07e65bc1480c2acd1f012d1f2b499367bc04c5284e414e6ad508560d0a",
+        "0121642bc2dc0fe2ecd9077816c08182448ff9d7bb0cb54445164236cf46addeb5370a"
       ]
     },
     "eldest_kid": "01012b0e06392c18c1b2491d7f62a2ce72c21c84110988ecc62a39f3c425f4b003c40a",
@@ -549,9 +561,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "99f836d3a8edff0da98770b93f87ac9eeb53483454a3170e40e75626f33c5e500f",
-      "seqno": 40,
-      "payload_hash": "d1a59a1374a34463561bcc8b9d608a2f3f417bb6a2736a1af2c6e88eaad95214"
+      "sig_id": "c2935b4c2f81dbb9ab86d13bdd1a713384e3480c2965cad35ba72eebe08a1eda0f",
+      "seqno": 47,
+      "payload_hash": "cee47c16e47f57bdd27787203b0fb8f8af587622edb3f2ac2e84f489e7499d4a"
     }
   },
   "devices": {
@@ -571,6 +583,44 @@
           "kid": "01210e777ada51bbd266654100e40f152359377f33d76da076abc82add107244cb450a",
           "key_role": 2,
           "sig_id": "474eeff36a8c2a94a681f47c2e88c195684529d0ec598d851b32246540258ee70f"
+        }
+      ]
+    },
+    "76a4573bc0e848049cabb1452096d018": {
+      "type": "desktop",
+      "ctime": 1468961973,
+      "mtime": 1468961973,
+      "name": "Buraglio Mac Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209ebe9af0c022434f9f64924d7cc500a47b5e9d727b65ff9215c5568ea51b613a0a",
+          "key_role": 1,
+          "sig_id": "5aef09df33bbc7c619587c8836b42e67b8fcc48bdecd35117d528cd2795c84410f"
+        },
+        {
+          "kid": "01219b0f7b8e29ac26a6f65adefde9ec980bd160cd294638176cf85b5e44a33077060a",
+          "key_role": 2,
+          "sig_id": "7f56cf140df856f6b99c362f364ba0c552b88fe290d172a8db7e1696379110710f"
+        }
+      ]
+    },
+    "c9f1bd0d60d30b92012a032a2df4e318": {
+      "type": "desktop",
+      "ctime": 1468965001,
+      "mtime": 1468965001,
+      "name": "Buraglio Ubermini",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120614a832c07e65bc1480c2acd1f012d1f2b499367bc04c5284e414e6ad508560d0a",
+          "key_role": 1,
+          "sig_id": "ccb83b9b16a35129d04da5330b0d989dfb585659f4076be55e8a91c09a985fc00f"
+        },
+        {
+          "kid": "0121642bc2dc0fe2ecd9077816c08182448ff9d7bb0cb54445164236cf46addeb5370a",
+          "key_role": 2,
+          "sig_id": "cec7123f78940ee032c59a6b8c2393828fee34c301c0f311734f8c5aaddf54210f"
         }
       ]
     },
