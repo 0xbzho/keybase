@@ -4,16 +4,16 @@
     "username": "racer500",
     "ctime": 1457642344,
     "mtime": 1457642344,
-    "id_version": 44,
+    "id_version": 47,
     "track_version": 10,
-    "last_id_change": 1466576838,
+    "last_id_change": 1469203020,
     "username_cased": "Racer500"
   },
   "profile": {
-    "mtime": 1459818604,
+    "mtime": 1469202903,
     "full_name": "Racer500",
     "location": "USA",
-    "bio": "print(\"This is my bio\")"
+    "bio": "This is a bio."
   },
   "public_keys": {
     "primary": {
@@ -40,18 +40,22 @@
       "0121d587e4fe586c0d84136b59cb02de09a1b66f3b123d66d9de1941fdf07b7c9e480a",
       "01205fc57093d53c67cfed728a63a8cb43ee5530181d26f435907663117ae8e00d630a",
       "0120e83b6b9fead6fa61195eae08d4bdce145c297445fc98b26a2cc7df5d770e779b0a",
-      "01216066033e500a6c4881b99598bb3aa2edd21228145eeb062956c84e9dc397bb2e0a"
+      "01216066033e500a6c4881b99598bb3aa2edd21228145eeb062956c84e9dc397bb2e0a",
+      "012185b75e1bc63f4dd2c1906044b6b27e6c220b53d2d0932a5168a68f92fa325e3e0a",
+      "0120a1a1676f66ae484d6e413d13f2b00278ed3518394501a973a1f93f906f9c4f710a"
     ],
     "subkeys": [
       "0121b480288b53c79d60610ca51b99383c92a92ce9162b4ac7587eb2765fbb2d983b0a",
       "0121d587e4fe586c0d84136b59cb02de09a1b66f3b123d66d9de1941fdf07b7c9e480a",
-      "01216066033e500a6c4881b99598bb3aa2edd21228145eeb062956c84e9dc397bb2e0a"
+      "01216066033e500a6c4881b99598bb3aa2edd21228145eeb062956c84e9dc397bb2e0a",
+      "012185b75e1bc63f4dd2c1906044b6b27e6c220b53d2d0932a5168a68f92fa325e3e0a"
     ],
     "sibkeys": [
       "010186ccc7ef046927dadd4a469e56619d905bb2f275dc4eae16827aec1eebba46980a",
       "01208fc11290e8431f8f6807f32e3415ee8ed89b598601b205382d733aa622c91ed90a",
       "01205fc57093d53c67cfed728a63a8cb43ee5530181d26f435907663117ae8e00d630a",
-      "0120e83b6b9fead6fa61195eae08d4bdce145c297445fc98b26a2cc7df5d770e779b0a"
+      "0120e83b6b9fead6fa61195eae08d4bdce145c297445fc98b26a2cc7df5d770e779b0a",
+      "0120a1a1676f66ae484d6e413d13f2b00278ed3518394501a973a1f93f906f9c4f710a"
     ],
     "families": {
       "010186ccc7ef046927dadd4a469e56619d905bb2f275dc4eae16827aec1eebba46980a": [
@@ -61,7 +65,9 @@
         "0121d587e4fe586c0d84136b59cb02de09a1b66f3b123d66d9de1941fdf07b7c9e480a",
         "01205fc57093d53c67cfed728a63a8cb43ee5530181d26f435907663117ae8e00d630a",
         "0120e83b6b9fead6fa61195eae08d4bdce145c297445fc98b26a2cc7df5d770e779b0a",
-        "01216066033e500a6c4881b99598bb3aa2edd21228145eeb062956c84e9dc397bb2e0a"
+        "01216066033e500a6c4881b99598bb3aa2edd21228145eeb062956c84e9dc397bb2e0a",
+        "012185b75e1bc63f4dd2c1906044b6b27e6c220b53d2d0932a5168a68f92fa325e3e0a",
+        "0120a1a1676f66ae484d6e413d13f2b00278ed3518394501a973a1f93f906f9c4f710a"
       ]
     },
     "eldest_kid": "010186ccc7ef046927dadd4a469e56619d905bb2f275dc4eae16827aec1eebba46980a",
@@ -412,9 +418,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5b2f0a65740b802ac668a7df00096efea9c6157d8c530b15cb64a0ab5ff2b9340f",
-      "seqno": 27,
-      "payload_hash": "d82393ee4245f168e28fa8525d14ecd89d902e87c377271a22d9e2aa2295fe7e"
+      "sig_id": "f5c4e937a8fb8be7b8aabee80b9899a78c3c36cf9aaef6e2d5d0e08af86b86f00f",
+      "seqno": 29,
+      "payload_hash": "f0cf8d606259be16672c49aeab05a8bbd3321bd7e64a164c85d3a23bda9da197"
     }
   },
   "devices": {
@@ -472,6 +478,25 @@
           "kid": "01216066033e500a6c4881b99598bb3aa2edd21228145eeb062956c84e9dc397bb2e0a",
           "key_role": 2,
           "sig_id": "f8320fa9a6f41b510ec0342fb0718c0cf06f4566d0dfaf80c78c79a0694de4a40f"
+        }
+      ]
+    },
+    "ffc8c95e3d4c0c8098a635c9b92f4018": {
+      "type": "desktop",
+      "ctime": 1469203020,
+      "mtime": 1469203020,
+      "name": "RedFury",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a1a1676f66ae484d6e413d13f2b00278ed3518394501a973a1f93f906f9c4f710a",
+          "key_role": 1,
+          "sig_id": "eded049584c360b4712a3f4bc83c476c295c6968104fc212a10756875ca85e730f"
+        },
+        {
+          "kid": "012185b75e1bc63f4dd2c1906044b6b27e6c220b53d2d0932a5168a68f92fa325e3e0a",
+          "key_role": 2,
+          "sig_id": "f5c4e937a8fb8be7b8aabee80b9899a78c3c36cf9aaef6e2d5d0e08af86b86f00f"
         }
       ]
     }
