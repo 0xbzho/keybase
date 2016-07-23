@@ -4,9 +4,9 @@
     "username": "stricted",
     "ctime": 1468716258,
     "mtime": 1468716258,
-    "id_version": 19,
-    "track_version": 3,
-    "last_id_change": 1468825391,
+    "id_version": 31,
+    "track_version": 4,
+    "last_id_change": 1468985443,
     "username_cased": "Stricted"
   },
   "profile": {
@@ -114,7 +114,57 @@
           "presentation_tag": "post"
         }
       ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "stricted.net",
+          "state": 1,
+          "proof_url": "https://stricted.net/keybase.txt",
+          "sig_id": "85e4f568a30271a638038930bc7a2a642dcdb183688f317587e57cd42d1b41b00f",
+          "proof_id": "707fa50388ee0ad010c7fc10",
+          "human_url": "https://stricted.net/keybase.txt",
+          "service_url": "https://stricted.net",
+          "presentation_group": "stricted.net",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "dns-control.eu",
+          "state": 1,
+          "proof_url": "https://dns-control.eu/keybase.txt",
+          "sig_id": "de5acfeb01ac76350f65e8780776612656d523785e730a11a183e7c3440a38790f",
+          "proof_id": "9de1a6aefde2d3563c61c310",
+          "human_url": "https://dns-control.eu/keybase.txt",
+          "service_url": "https://dns-control.eu",
+          "presentation_group": "dns-control.eu",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "stricted.de",
+          "state": 1,
+          "proof_url": "https://stricted.de/keybase.txt",
+          "sig_id": "5dd97f80d6fa8f5938c7ba5fd42a7ac962ece85eb59e8f94af53fae5ee97d7fe0f",
+          "proof_id": "ddd5b17cfb7f1c7aab857f10",
+          "human_url": "https://stricted.de/keybase.txt",
+          "service_url": "https://stricted.de",
+          "presentation_group": "stricted.de",
+          "presentation_tag": "https"
+        }
+      ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "dns-control.eu",
+          "state": 1,
+          "proof_url": "https://keybase.io/stricted/sigchain#092a0b61458809347ae2a2ae68b44b9b269b384e4ba36d3881b26ebc959453f30f",
+          "sig_id": "092a0b61458809347ae2a2ae68b44b9b269b384e4ba36d3881b26ebc959453f30f",
+          "proof_id": "7ac584667aa0ac744c07f510",
+          "human_url": "dns://dns-control.eu",
+          "service_url": "http://dns-control.eu",
+          "presentation_group": "dns-control.eu",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "stricted.de",
@@ -184,21 +234,19 @@
           "presentation_tag": "post"
         }
       ],
-      "stricted.de": [
-        {
-          "proof_type": "dns",
-          "nametag": "stricted.de",
-          "state": 1,
-          "proof_url": "https://keybase.io/stricted/sigchain#def6789e833956090dd0123aaedaef0b4b71047befd1d176edfde4d24a017dac0f",
-          "sig_id": "def6789e833956090dd0123aaedaef0b4b71047befd1d176edfde4d24a017dac0f",
-          "proof_id": "83f5f19e51f0731e6ac86010",
-          "human_url": "dns://stricted.de",
-          "service_url": "http://stricted.de",
-          "presentation_group": "stricted.de",
-          "presentation_tag": "dns"
-        }
-      ],
       "stricted.net": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "stricted.net",
+          "state": 1,
+          "proof_url": "https://stricted.net/keybase.txt",
+          "sig_id": "85e4f568a30271a638038930bc7a2a642dcdb183688f317587e57cd42d1b41b00f",
+          "proof_id": "707fa50388ee0ad010c7fc10",
+          "human_url": "https://stricted.net/keybase.txt",
+          "service_url": "https://stricted.net",
+          "presentation_group": "stricted.net",
+          "presentation_tag": "https"
+        },
         {
           "proof_type": "dns",
           "nametag": "stricted.net",
@@ -209,6 +257,58 @@
           "human_url": "dns://stricted.net",
           "service_url": "http://stricted.net",
           "presentation_group": "stricted.net",
+          "presentation_tag": "dns"
+        }
+      ],
+      "dns-control.eu": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "dns-control.eu",
+          "state": 1,
+          "proof_url": "https://dns-control.eu/keybase.txt",
+          "sig_id": "de5acfeb01ac76350f65e8780776612656d523785e730a11a183e7c3440a38790f",
+          "proof_id": "9de1a6aefde2d3563c61c310",
+          "human_url": "https://dns-control.eu/keybase.txt",
+          "service_url": "https://dns-control.eu",
+          "presentation_group": "dns-control.eu",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "dns-control.eu",
+          "state": 1,
+          "proof_url": "https://keybase.io/stricted/sigchain#092a0b61458809347ae2a2ae68b44b9b269b384e4ba36d3881b26ebc959453f30f",
+          "sig_id": "092a0b61458809347ae2a2ae68b44b9b269b384e4ba36d3881b26ebc959453f30f",
+          "proof_id": "7ac584667aa0ac744c07f510",
+          "human_url": "dns://dns-control.eu",
+          "service_url": "http://dns-control.eu",
+          "presentation_group": "dns-control.eu",
+          "presentation_tag": "dns"
+        }
+      ],
+      "stricted.de": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "stricted.de",
+          "state": 1,
+          "proof_url": "https://stricted.de/keybase.txt",
+          "sig_id": "5dd97f80d6fa8f5938c7ba5fd42a7ac962ece85eb59e8f94af53fae5ee97d7fe0f",
+          "proof_id": "ddd5b17cfb7f1c7aab857f10",
+          "human_url": "https://stricted.de/keybase.txt",
+          "service_url": "https://stricted.de",
+          "presentation_group": "stricted.de",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "stricted.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/stricted/sigchain#def6789e833956090dd0123aaedaef0b4b71047befd1d176edfde4d24a017dac0f",
+          "sig_id": "def6789e833956090dd0123aaedaef0b4b71047befd1d176edfde4d24a017dac0f",
+          "proof_id": "83f5f19e51f0731e6ac86010",
+          "human_url": "dns://stricted.de",
+          "service_url": "http://stricted.de",
+          "presentation_group": "stricted.de",
           "presentation_tag": "dns"
         }
       ]
@@ -252,6 +352,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "dns-control.eu",
+        "state": 1,
+        "proof_url": "https://keybase.io/stricted/sigchain#092a0b61458809347ae2a2ae68b44b9b269b384e4ba36d3881b26ebc959453f30f",
+        "sig_id": "092a0b61458809347ae2a2ae68b44b9b269b384e4ba36d3881b26ebc959453f30f",
+        "proof_id": "7ac584667aa0ac744c07f510",
+        "human_url": "dns://dns-control.eu",
+        "service_url": "http://dns-control.eu",
+        "presentation_group": "dns-control.eu",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "stricted.de",
         "state": 1,
         "proof_url": "https://keybase.io/stricted/sigchain#def6789e833956090dd0123aaedaef0b4b71047befd1d176edfde4d24a017dac0f",
@@ -273,6 +385,42 @@
         "service_url": "http://stricted.net",
         "presentation_group": "stricted.net",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "stricted.net",
+        "state": 1,
+        "proof_url": "https://stricted.net/keybase.txt",
+        "sig_id": "85e4f568a30271a638038930bc7a2a642dcdb183688f317587e57cd42d1b41b00f",
+        "proof_id": "707fa50388ee0ad010c7fc10",
+        "human_url": "https://stricted.net/keybase.txt",
+        "service_url": "https://stricted.net",
+        "presentation_group": "stricted.net",
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "dns-control.eu",
+        "state": 1,
+        "proof_url": "https://dns-control.eu/keybase.txt",
+        "sig_id": "de5acfeb01ac76350f65e8780776612656d523785e730a11a183e7c3440a38790f",
+        "proof_id": "9de1a6aefde2d3563c61c310",
+        "human_url": "https://dns-control.eu/keybase.txt",
+        "service_url": "https://dns-control.eu",
+        "presentation_group": "dns-control.eu",
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "stricted.de",
+        "state": 1,
+        "proof_url": "https://stricted.de/keybase.txt",
+        "sig_id": "5dd97f80d6fa8f5938c7ba5fd42a7ac962ece85eb59e8f94af53fae5ee97d7fe0f",
+        "proof_id": "ddd5b17cfb7f1c7aab857f10",
+        "human_url": "https://stricted.de/keybase.txt",
+        "service_url": "https://stricted.de",
+        "presentation_group": "stricted.de",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -287,9 +435,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "78f22774ab7ad99aa5e7c42d7b7077e0b86eebbee60a327e0648f498510a1a990f",
-      "seqno": 19,
-      "payload_hash": "df7fce12718001cdb27432805de62aa7f4f04389bd17b46a8d989d8a7efcc576"
+      "sig_id": "46cd26ca885051527eff193cc5c89691369b712bcbee3c95e33d558a85eb65540f",
+      "seqno": 26,
+      "payload_hash": "426122a626183462771a957320ab64c2218fb755dc4b2ee252c83e473e31292c"
     }
   },
   "devices": {
