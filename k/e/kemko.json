@@ -4,9 +4,9 @@
     "username": "kemko",
     "ctime": 1463823355,
     "mtime": 1463823355,
-    "id_version": 18,
+    "id_version": 20,
     "track_version": 1,
-    "last_id_change": 1467291172,
+    "last_id_change": 1469031020,
     "username_cased": "kemko"
   },
   "profile": {
@@ -38,16 +38,16 @@
       "0121ffde575351bc73cf08b6aa11c5d392640806cd0f5d7f39b2795aa353b2ea31590a",
       "0120b33bf264260a54cd4bbbb8351bdb512f6f9cd33afd013a7b5f012ccf1037dd9c0a",
       "01218944e79aa3e534d02fa1c239a67ebb9f7680065a842fc594614b7d12f841846a0a",
-      "01206443c7823fc10150def44547727940e1e89103b837b27497583b9ebe35d365b80a"
+      "01206443c7823fc10150def44547727940e1e89103b837b27497583b9ebe35d365b80a",
+      "012071049dc154a87f34e3b0a04d1e68017747bed5fab8e989ee83a1a3a68fc42f5f0a",
+      "0121faacd52fba076e04a7b509e9cedff1ede5895363a9b56981b1173d9608c020720a"
     ],
     "subkeys": [
-      "0121ffde575351bc73cf08b6aa11c5d392640806cd0f5d7f39b2795aa353b2ea31590a",
-      "01218944e79aa3e534d02fa1c239a67ebb9f7680065a842fc594614b7d12f841846a0a"
+      "0121faacd52fba076e04a7b509e9cedff1ede5895363a9b56981b1173d9608c020720a"
     ],
     "sibkeys": [
       "0101297c9ce8e96ece5cb681f2754eea807a86af78d6a7ecfd217acc127697663ac60a",
-      "0120b33bf264260a54cd4bbbb8351bdb512f6f9cd33afd013a7b5f012ccf1037dd9c0a",
-      "01206443c7823fc10150def44547727940e1e89103b837b27497583b9ebe35d365b80a"
+      "012071049dc154a87f34e3b0a04d1e68017747bed5fab8e989ee83a1a3a68fc42f5f0a"
     ],
     "families": {
       "0101297c9ce8e96ece5cb681f2754eea807a86af78d6a7ecfd217acc127697663ac60a": [
@@ -55,7 +55,9 @@
         "0121ffde575351bc73cf08b6aa11c5d392640806cd0f5d7f39b2795aa353b2ea31590a",
         "0120b33bf264260a54cd4bbbb8351bdb512f6f9cd33afd013a7b5f012ccf1037dd9c0a",
         "01218944e79aa3e534d02fa1c239a67ebb9f7680065a842fc594614b7d12f841846a0a",
-        "01206443c7823fc10150def44547727940e1e89103b837b27497583b9ebe35d365b80a"
+        "01206443c7823fc10150def44547727940e1e89103b837b27497583b9ebe35d365b80a",
+        "012071049dc154a87f34e3b0a04d1e68017747bed5fab8e989ee83a1a3a68fc42f5f0a",
+        "0121faacd52fba076e04a7b509e9cedff1ede5895363a9b56981b1173d9608c020720a"
       ]
     },
     "eldest_kid": "0101297c9ce8e96ece5cb681f2754eea807a86af78d6a7ecfd217acc127697663ac60a",
@@ -106,6 +108,20 @@
           "service_url": "https://reddit.com/user/kemko",
           "presentation_group": "reddit",
           "presentation_tag": "post"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "kemko.ru",
+          "state": 1,
+          "proof_url": "https://kemko.ru/keybase.txt",
+          "sig_id": "b8a72d018568a25ddb05118203e436221034a861774f4cede9170e1e4fe6fd080f",
+          "proof_id": "0181553a762cd8ac2dbe1610",
+          "human_url": "https://kemko.ru/keybase.txt",
+          "service_url": "https://kemko.ru",
+          "presentation_group": "kemko.ru",
+          "presentation_tag": "https"
         }
       ],
       "dns": [
@@ -168,6 +184,18 @@
       ],
       "kemko.ru": [
         {
+          "proof_type": "generic_web_site",
+          "nametag": "kemko.ru",
+          "state": 1,
+          "proof_url": "https://kemko.ru/keybase.txt",
+          "sig_id": "b8a72d018568a25ddb05118203e436221034a861774f4cede9170e1e4fe6fd080f",
+          "proof_id": "0181553a762cd8ac2dbe1610",
+          "human_url": "https://kemko.ru/keybase.txt",
+          "service_url": "https://kemko.ru",
+          "presentation_group": "kemko.ru",
+          "presentation_tag": "https"
+        },
+        {
           "proof_type": "dns",
           "nametag": "kemko.ru",
           "state": 1,
@@ -229,6 +257,18 @@
         "service_url": "http://kemko.ru",
         "presentation_group": "kemko.ru",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "kemko.ru",
+        "state": 1,
+        "proof_url": "https://kemko.ru/keybase.txt",
+        "sig_id": "b8a72d018568a25ddb05118203e436221034a861774f4cede9170e1e4fe6fd080f",
+        "proof_id": "0181553a762cd8ac2dbe1610",
+        "human_url": "https://kemko.ru/keybase.txt",
+        "service_url": "https://kemko.ru",
+        "presentation_group": "kemko.ru",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -243,47 +283,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b8a72d018568a25ddb05118203e436221034a861774f4cede9170e1e4fe6fd080f",
-      "seqno": 12,
-      "payload_hash": "2c6697e8b7b4736265acfb77a651a66a05e44042c2cba3cffd12d7010578949b"
+      "sig_id": "b11aeb371c7f0a55dec77ec08e65ae7b0cb909695f5cd08ddeec6b5410f3b6540f",
+      "seqno": 16,
+      "payload_hash": "14b18b32376cf2f517bba9803c235661af7210edb888bc8e53b5d08e7d38404c"
     }
   },
   "devices": {
-    "2354db284f47039cd0fb8c1b2e775218": {
+    "953a4586e0b30d6f4029edffa06d2818": {
       "type": "desktop",
-      "ctime": 1463826006,
-      "mtime": 1463826006,
-      "name": "notebook",
+      "ctime": 1469031020,
+      "mtime": 1469031020,
+      "name": "work notebook",
       "status": 1,
       "keys": [
         {
-          "kid": "0120b33bf264260a54cd4bbbb8351bdb512f6f9cd33afd013a7b5f012ccf1037dd9c0a",
+          "kid": "012071049dc154a87f34e3b0a04d1e68017747bed5fab8e989ee83a1a3a68fc42f5f0a",
           "key_role": 1,
-          "sig_id": "210d777be1cf96d1688c8be276a01a0c15592282a0e3d1ff3073cfb1b2a186840f"
+          "sig_id": "6099b7a7b220d640b7c45dcec51d543cad7231ca5176157046350fbc8b830d300f"
         },
         {
-          "kid": "0121ffde575351bc73cf08b6aa11c5d392640806cd0f5d7f39b2795aa353b2ea31590a",
+          "kid": "0121faacd52fba076e04a7b509e9cedff1ede5895363a9b56981b1173d9608c020720a",
           "key_role": 2,
-          "sig_id": "8c3647c17ecfd41f9d9b0555abda941ce6225dd239a37bc0a8428512acffd71f0f"
-        }
-      ]
-    },
-    "7828c9e5df1fe92c3bc038d3bd943218": {
-      "type": "backup",
-      "ctime": 1463826007,
-      "mtime": 1463826007,
-      "name": "dentist aerobic",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01206443c7823fc10150def44547727940e1e89103b837b27497583b9ebe35d365b80a",
-          "key_role": 1,
-          "sig_id": "7787eb45722b253b271cd46d1257ec758467ffa84fff08e820d4ba0da30117970f"
-        },
-        {
-          "kid": "01218944e79aa3e534d02fa1c239a67ebb9f7680065a842fc594614b7d12f841846a0a",
-          "key_role": 2,
-          "sig_id": "2b47af0d18b0503c94334f4a9c85d72e77d2a5311251f021cef4e24574e79adb0f"
+          "sig_id": "0afcc1af494ba1f30536200e5c7cb1d96f33ebcba9d81f4f5875be54aee91b840f"
         }
       ]
     }
