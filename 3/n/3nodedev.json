@@ -1,0 +1,98 @@
+{
+  "id": "0b1bc119b9dec186594dcebcc452e119",
+  "basics": {
+    "username": "3nodedev",
+    "ctime": 1468429852,
+    "mtime": 1468429852,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1468449022,
+    "username_cased": "3nodedev"
+  },
+  "profile": {
+    "mtime": 1468429876,
+    "full_name": "3nodedev",
+    "location": "Vancouver",
+    "bio": null
+  },
+  "public_keys": {
+    "all_bundles": [
+      "01207f5310663dc531e414a3e6dace0d7b0b1cbc7d0ffd03ee5d77cc1c38a5616e970a",
+      "012167b2fb9ababc7c2aa6a0c6a2e30295a646232f7252b130d4618aa89493c199640a",
+      "01204e98c6d0a1d9b201cb77efd2c4b27276ca94ecd151568d067c095f6d9c9d1dc70a",
+      "0121aba454a4835b3baef9abea74a35f465c805a1235bf7be612ef74d979c39a285e0a"
+    ],
+    "subkeys": [
+      "012167b2fb9ababc7c2aa6a0c6a2e30295a646232f7252b130d4618aa89493c199640a",
+      "0121aba454a4835b3baef9abea74a35f465c805a1235bf7be612ef74d979c39a285e0a"
+    ],
+    "sibkeys": [
+      "01207f5310663dc531e414a3e6dace0d7b0b1cbc7d0ffd03ee5d77cc1c38a5616e970a",
+      "01204e98c6d0a1d9b201cb77efd2c4b27276ca94ecd151568d067c095f6d9c9d1dc70a"
+    ],
+    "families": {
+      "01204e98c6d0a1d9b201cb77efd2c4b27276ca94ecd151568d067c095f6d9c9d1dc70a": [
+        "01207f5310663dc531e414a3e6dace0d7b0b1cbc7d0ffd03ee5d77cc1c38a5616e970a",
+        "012167b2fb9ababc7c2aa6a0c6a2e30295a646232f7252b130d4618aa89493c199640a",
+        "01204e98c6d0a1d9b201cb77efd2c4b27276ca94ecd151568d067c095f6d9c9d1dc70a",
+        "0121aba454a4835b3baef9abea74a35f465c805a1235bf7be612ef74d979c39a285e0a"
+      ]
+    },
+    "eldest_kid": "01204e98c6d0a1d9b201cb77efd2c4b27276ca94ecd151568d067c095f6d9c9d1dc70a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "39befd7de5a827caa9adece754ace2382e878575a5715ce6e03684b53f706a750f",
+      "seqno": 4,
+      "payload_hash": "0f9fd2a902e88540dc21c6f42bc4d08d589a967d957ab63e851b2cf390c930d7"
+    }
+  },
+  "devices": {
+    "112a2b1f5bbd1c480b41e3326175af18": {
+      "type": "backup",
+      "ctime": 1468449022,
+      "mtime": 1468449022,
+      "name": "inherit vicious",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207f5310663dc531e414a3e6dace0d7b0b1cbc7d0ffd03ee5d77cc1c38a5616e970a",
+          "key_role": 1,
+          "sig_id": "0fe9e085e298c040adbb39f5de0b726b8362c1c74b0306009bd1b4497656fc080f"
+        },
+        {
+          "kid": "0121aba454a4835b3baef9abea74a35f465c805a1235bf7be612ef74d979c39a285e0a",
+          "key_role": 2,
+          "sig_id": "39befd7de5a827caa9adece754ace2382e878575a5715ce6e03684b53f706a750f"
+        }
+      ]
+    },
+    "76bcc8f0dfbfdd4af1577696b1889118": {
+      "type": "desktop",
+      "ctime": 1468449022,
+      "mtime": 1468449022,
+      "name": "linux-worky",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204e98c6d0a1d9b201cb77efd2c4b27276ca94ecd151568d067c095f6d9c9d1dc70a",
+          "key_role": 1,
+          "sig_id": "ad9c312cb908737d9c866645197ac20f5c483f2ada2e3c4487458e9b42e5cc8e0f"
+        },
+        {
+          "kid": "012167b2fb9ababc7c2aa6a0c6a2e30295a646232f7252b130d4618aa89493c199640a",
+          "key_role": 2,
+          "sig_id": "416d4815b0a6b0024c4fc0173ef3518a65ec05b1cd90fb062daec8815ed5c24d0f"
+        }
+      ]
+    }
+  }
+}
