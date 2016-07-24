@@ -4,9 +4,9 @@
     "username": "rummik",
     "ctime": 1396987819,
     "mtime": 1396987819,
-    "id_version": 285,
+    "id_version": 289,
     "track_version": 13,
-    "last_id_change": 1467081768,
+    "last_id_change": 1469379703,
     "username_cased": "rummik"
   },
   "profile": {
@@ -167,18 +167,6 @@
         },
         {
           "proof_type": "generic_web_site",
-          "nametag": "198.199.111.61",
-          "state": 1,
-          "proof_url": "http://198.199.111.61/.well-known/keybase.txt",
-          "sig_id": "1a0cea26c9b452a3d7e2f622310511375801e2c3bb0182061d18d8648427b3ab0f",
-          "proof_id": "25f9878d36c03426680a7810",
-          "human_url": "http://198.199.111.61/.well-known/keybase.txt",
-          "service_url": "http://198.199.111.61",
-          "presentation_group": "198.199.111.61",
-          "presentation_tag": "http"
-        },
-        {
-          "proof_type": "generic_web_site",
           "nametag": "www.chameleoid.com",
           "state": 1,
           "proof_url": "http://www.chameleoid.com/.well-known/keybase.txt",
@@ -199,18 +187,6 @@
           "human_url": "http://9k1.us/.well-known/keybase.txt",
           "service_url": "http://9k1.us",
           "presentation_group": "9k1.us",
-          "presentation_tag": "http"
-        },
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "www.rummik.com",
-          "state": 1,
-          "proof_url": "http://www.rummik.com/.well-known/keybase.txt",
-          "sig_id": "e7db8a4b14cdccbbd83db3958298ab464855e9b185a5bb30642e88f4cfb60a8f0f",
-          "proof_id": "b84258b827ba4ecf374a5110",
-          "human_url": "http://www.rummik.com/.well-known/keybase.txt",
-          "service_url": "http://www.rummik.com",
-          "presentation_group": "www.rummik.com",
           "presentation_tag": "http"
         }
       ],
@@ -406,20 +382,6 @@
           "presentation_tag": "post"
         }
       ],
-      "198.199.111.61": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "198.199.111.61",
-          "state": 1,
-          "proof_url": "http://198.199.111.61/.well-known/keybase.txt",
-          "sig_id": "1a0cea26c9b452a3d7e2f622310511375801e2c3bb0182061d18d8648427b3ab0f",
-          "proof_id": "25f9878d36c03426680a7810",
-          "human_url": "http://198.199.111.61/.well-known/keybase.txt",
-          "service_url": "http://198.199.111.61",
-          "presentation_group": "198.199.111.61",
-          "presentation_tag": "http"
-        }
-      ],
       "www.chameleoid.com": [
         {
           "proof_type": "generic_web_site",
@@ -522,32 +484,6 @@
           "presentation_tag": "dns"
         }
       ],
-      "www.rummik.com": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "www.rummik.com",
-          "state": 1,
-          "proof_url": "http://www.rummik.com/.well-known/keybase.txt",
-          "sig_id": "e7db8a4b14cdccbbd83db3958298ab464855e9b185a5bb30642e88f4cfb60a8f0f",
-          "proof_id": "b84258b827ba4ecf374a5110",
-          "human_url": "http://www.rummik.com/.well-known/keybase.txt",
-          "service_url": "http://www.rummik.com",
-          "presentation_group": "www.rummik.com",
-          "presentation_tag": "http"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "www.rummik.com",
-          "state": 1,
-          "proof_url": "https://keybase.io/rummik/sigchain#b50a9a8c4e7e3e9776a78b8fc640107e752a88c440e02e9e3373b6d1bf00c4350f",
-          "sig_id": "b50a9a8c4e7e3e9776a78b8fc640107e752a88c440e02e9e3373b6d1bf00c4350f",
-          "proof_id": "14c18a7c890e681902165110",
-          "human_url": "dns://www.rummik.com",
-          "service_url": "http://www.rummik.com",
-          "presentation_group": "www.rummik.com",
-          "presentation_tag": "dns"
-        }
-      ],
       "hub.kim": [
         {
           "proof_type": "dns",
@@ -559,6 +495,20 @@
           "human_url": "dns://hub.kim",
           "service_url": "http://hub.kim",
           "presentation_group": "hub.kim",
+          "presentation_tag": "dns"
+        }
+      ],
+      "www.rummik.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "www.rummik.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/rummik/sigchain#b50a9a8c4e7e3e9776a78b8fc640107e752a88c440e02e9e3373b6d1bf00c4350f",
+          "sig_id": "b50a9a8c4e7e3e9776a78b8fc640107e752a88c440e02e9e3373b6d1bf00c4350f",
+          "proof_id": "14c18a7c890e681902165110",
+          "human_url": "dns://www.rummik.com",
+          "service_url": "http://www.rummik.com",
+          "presentation_group": "www.rummik.com",
           "presentation_tag": "dns"
         }
       ],
@@ -650,14 +600,14 @@
     "all": [
       {
         "proof_type": "dns",
-        "nametag": "hub.kim",
+        "nametag": "www.rummik.com",
         "state": 1,
-        "proof_url": "https://keybase.io/rummik/sigchain#b248834f6623cc4d98fa6e98fd959e8fef1c59c4fe03ff3e6ce2fca2d24ae4bd0f",
-        "sig_id": "b248834f6623cc4d98fa6e98fd959e8fef1c59c4fe03ff3e6ce2fca2d24ae4bd0f",
-        "proof_id": "0bd1f7f3fa82bb5ac7bc5710",
-        "human_url": "dns://hub.kim",
-        "service_url": "http://hub.kim",
-        "presentation_group": "hub.kim",
+        "proof_url": "https://keybase.io/rummik/sigchain#b50a9a8c4e7e3e9776a78b8fc640107e752a88c440e02e9e3373b6d1bf00c4350f",
+        "sig_id": "b50a9a8c4e7e3e9776a78b8fc640107e752a88c440e02e9e3373b6d1bf00c4350f",
+        "proof_id": "14c18a7c890e681902165110",
+        "human_url": "dns://www.rummik.com",
+        "service_url": "http://www.rummik.com",
+        "presentation_group": "www.rummik.com",
         "presentation_tag": "dns"
       },
       {
@@ -758,26 +708,14 @@
       },
       {
         "proof_type": "dns",
-        "nametag": "telepathyjs.com",
+        "nametag": "hub.kim",
         "state": 1,
-        "proof_url": "https://keybase.io/rummik/sigchain#f30d7315575b900827900c333881e4aba778d211b4911d4f662c00e341c837af0f",
-        "sig_id": "f30d7315575b900827900c333881e4aba778d211b4911d4f662c00e341c837af0f",
-        "proof_id": "46c249991ee13d1aa31e8a10",
-        "human_url": "dns://telepathyjs.com",
-        "service_url": "http://telepathyjs.com",
-        "presentation_group": "telepathyjs.com",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "vira.so",
-        "state": 1,
-        "proof_url": "https://keybase.io/rummik/sigchain#1068480dd314d8d371dabbe7ca9b63d9ad2714462362448080930da5eff5e06a0f",
-        "sig_id": "1068480dd314d8d371dabbe7ca9b63d9ad2714462362448080930da5eff5e06a0f",
-        "proof_id": "2dadac6c2211cd23d31dda10",
-        "human_url": "dns://vira.so",
-        "service_url": "http://vira.so",
-        "presentation_group": "vira.so",
+        "proof_url": "https://keybase.io/rummik/sigchain#b248834f6623cc4d98fa6e98fd959e8fef1c59c4fe03ff3e6ce2fca2d24ae4bd0f",
+        "sig_id": "b248834f6623cc4d98fa6e98fd959e8fef1c59c4fe03ff3e6ce2fca2d24ae4bd0f",
+        "proof_id": "0bd1f7f3fa82bb5ac7bc5710",
+        "human_url": "dns://hub.kim",
+        "service_url": "http://hub.kim",
+        "presentation_group": "hub.kim",
         "presentation_tag": "dns"
       },
       {
@@ -794,18 +732,6 @@
       },
       {
         "proof_type": "dns",
-        "nametag": "www.rummik.com",
-        "state": 1,
-        "proof_url": "https://keybase.io/rummik/sigchain#b50a9a8c4e7e3e9776a78b8fc640107e752a88c440e02e9e3373b6d1bf00c4350f",
-        "sig_id": "b50a9a8c4e7e3e9776a78b8fc640107e752a88c440e02e9e3373b6d1bf00c4350f",
-        "proof_id": "14c18a7c890e681902165110",
-        "human_url": "dns://www.rummik.com",
-        "service_url": "http://www.rummik.com",
-        "presentation_group": "www.rummik.com",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
         "nametag": "www.chameleoid.com",
         "state": 1,
         "proof_url": "https://keybase.io/rummik/sigchain#4599ee61a03bf86f10079ccd4c8366e4ac51260174dbc6345cd853520a44c1ea0f",
@@ -814,6 +740,30 @@
         "human_url": "dns://www.chameleoid.com",
         "service_url": "http://www.chameleoid.com",
         "presentation_group": "www.chameleoid.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "vira.so",
+        "state": 1,
+        "proof_url": "https://keybase.io/rummik/sigchain#1068480dd314d8d371dabbe7ca9b63d9ad2714462362448080930da5eff5e06a0f",
+        "sig_id": "1068480dd314d8d371dabbe7ca9b63d9ad2714462362448080930da5eff5e06a0f",
+        "proof_id": "2dadac6c2211cd23d31dda10",
+        "human_url": "dns://vira.so",
+        "service_url": "http://vira.so",
+        "presentation_group": "vira.so",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "telepathyjs.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/rummik/sigchain#f30d7315575b900827900c333881e4aba778d211b4911d4f662c00e341c837af0f",
+        "sig_id": "f30d7315575b900827900c333881e4aba778d211b4911d4f662c00e341c837af0f",
+        "proof_id": "46c249991ee13d1aa31e8a10",
+        "human_url": "dns://telepathyjs.com",
+        "service_url": "http://telepathyjs.com",
+        "presentation_group": "telepathyjs.com",
         "presentation_tag": "dns"
       },
       {
@@ -827,18 +777,6 @@
         "service_url": "http://telepathy.pw",
         "presentation_group": "telepathy.pw",
         "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "generic_web_site",
-        "nametag": "www.rummik.com",
-        "state": 1,
-        "proof_url": "http://www.rummik.com/.well-known/keybase.txt",
-        "sig_id": "e7db8a4b14cdccbbd83db3958298ab464855e9b185a5bb30642e88f4cfb60a8f0f",
-        "proof_id": "b84258b827ba4ecf374a5110",
-        "human_url": "http://www.rummik.com/.well-known/keybase.txt",
-        "service_url": "http://www.rummik.com",
-        "presentation_group": "www.rummik.com",
-        "presentation_tag": "http"
       },
       {
         "proof_type": "generic_web_site",
@@ -862,18 +800,6 @@
         "human_url": "http://www.chameleoid.com/.well-known/keybase.txt",
         "service_url": "http://www.chameleoid.com",
         "presentation_group": "www.chameleoid.com",
-        "presentation_tag": "http"
-      },
-      {
-        "proof_type": "generic_web_site",
-        "nametag": "198.199.111.61",
-        "state": 1,
-        "proof_url": "http://198.199.111.61/.well-known/keybase.txt",
-        "sig_id": "1a0cea26c9b452a3d7e2f622310511375801e2c3bb0182061d18d8648427b3ab0f",
-        "proof_id": "25f9878d36c03426680a7810",
-        "human_url": "http://198.199.111.61/.well-known/keybase.txt",
-        "service_url": "http://198.199.111.61",
-        "presentation_group": "198.199.111.61",
         "presentation_tag": "http"
       },
       {
