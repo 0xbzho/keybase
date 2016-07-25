@@ -4,9 +4,9 @@
     "username": "rmayr",
     "ctime": 1468429117,
     "mtime": 1468429117,
-    "id_version": 13,
-    "track_version": 8,
-    "last_id_change": 1468486513,
+    "id_version": 17,
+    "track_version": 9,
+    "last_id_change": 1469446424,
     "username_cased": "rmayr"
   },
   "profile": {
@@ -109,6 +109,18 @@
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
+          "nametag": "mayrhofer.eu.org",
+          "state": 1,
+          "proof_url": "https://mayrhofer.eu.org/.well-known/keybase.txt",
+          "sig_id": "0926729fc5416e61e2f0d2f224877edc879f5220e59166c846d71713727f75fd0f",
+          "proof_id": "96dc68fdbb4ecbcf86dec110",
+          "human_url": "https://mayrhofer.eu.org/.well-known/keybase.txt",
+          "service_url": "https://mayrhofer.eu.org",
+          "presentation_group": "mayrhofer.eu.org",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
           "nametag": "www.mayrhofer.eu.org",
           "state": 1,
           "proof_url": "https://www.mayrhofer.eu.org/.well-known/keybase.txt",
@@ -118,6 +130,20 @@
           "service_url": "https://www.mayrhofer.eu.org",
           "presentation_group": "www.mayrhofer.eu.org",
           "presentation_tag": "https"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "mayrhofer.eu.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/rmayr/sigchain#9f7c257b6adc935262f55143b00a60d7fbd596dc433921b98d586f4e4a01852a0f",
+          "sig_id": "9f7c257b6adc935262f55143b00a60d7fbd596dc433921b98d586f4e4a01852a0f",
+          "proof_id": "4bd21dd0b15a672a860ac110",
+          "human_url": "dns://mayrhofer.eu.org",
+          "service_url": "http://mayrhofer.eu.org",
+          "presentation_group": "mayrhofer.eu.org",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -148,6 +174,32 @@
           "service_url": "https://github.com/rmayr",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "mayrhofer.eu.org": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "mayrhofer.eu.org",
+          "state": 1,
+          "proof_url": "https://mayrhofer.eu.org/.well-known/keybase.txt",
+          "sig_id": "0926729fc5416e61e2f0d2f224877edc879f5220e59166c846d71713727f75fd0f",
+          "proof_id": "96dc68fdbb4ecbcf86dec110",
+          "human_url": "https://mayrhofer.eu.org/.well-known/keybase.txt",
+          "service_url": "https://mayrhofer.eu.org",
+          "presentation_group": "mayrhofer.eu.org",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "mayrhofer.eu.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/rmayr/sigchain#9f7c257b6adc935262f55143b00a60d7fbd596dc433921b98d586f4e4a01852a0f",
+          "sig_id": "9f7c257b6adc935262f55143b00a60d7fbd596dc433921b98d586f4e4a01852a0f",
+          "proof_id": "4bd21dd0b15a672a860ac110",
+          "human_url": "dns://mayrhofer.eu.org",
+          "service_url": "http://mayrhofer.eu.org",
+          "presentation_group": "mayrhofer.eu.org",
+          "presentation_tag": "dns"
         }
       ],
       "www.mayrhofer.eu.org": [
@@ -191,6 +243,30 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "dns",
+        "nametag": "mayrhofer.eu.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/rmayr/sigchain#9f7c257b6adc935262f55143b00a60d7fbd596dc433921b98d586f4e4a01852a0f",
+        "sig_id": "9f7c257b6adc935262f55143b00a60d7fbd596dc433921b98d586f4e4a01852a0f",
+        "proof_id": "4bd21dd0b15a672a860ac110",
+        "human_url": "dns://mayrhofer.eu.org",
+        "service_url": "http://mayrhofer.eu.org",
+        "presentation_group": "mayrhofer.eu.org",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "mayrhofer.eu.org",
+        "state": 1,
+        "proof_url": "https://mayrhofer.eu.org/.well-known/keybase.txt",
+        "sig_id": "0926729fc5416e61e2f0d2f224877edc879f5220e59166c846d71713727f75fd0f",
+        "proof_id": "96dc68fdbb4ecbcf86dec110",
+        "human_url": "https://mayrhofer.eu.org/.well-known/keybase.txt",
+        "service_url": "https://mayrhofer.eu.org",
+        "presentation_group": "mayrhofer.eu.org",
+        "presentation_tag": "https"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "www.mayrhofer.eu.org",
         "state": 1,
@@ -215,9 +291,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "253fd1f6b54209fe19bd1d542fc41b0e0a14280346b775e19e6a27a89ebf6dee0f",
-      "seqno": 20,
-      "payload_hash": "5b25c65645b544a7267920ed65b12f455473dfe590f6422ed97d42ea5cc021e7"
+      "sig_id": "0926729fc5416e61e2f0d2f224877edc879f5220e59166c846d71713727f75fd0f",
+      "seqno": 23,
+      "payload_hash": "702497ef20429b1c31eb1bd4b79afc22c349381c7f7007f4321478ed114dd6e7"
     }
   },
   "devices": {
