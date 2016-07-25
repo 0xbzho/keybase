@@ -4,15 +4,15 @@
     "username": "echoz",
     "ctime": 1411423345,
     "mtime": 1411423345,
-    "id_version": 43,
-    "track_version": 0,
-    "last_id_change": 1459987774,
+    "id_version": 53,
+    "track_version": 2,
+    "last_id_change": 1468960520,
     "username_cased": "echoz"
   },
   "profile": {
-    "mtime": 1411423627,
+    "mtime": 1468959735,
     "full_name": "Jeremy Foo",
-    "location": "Long Island City, NY",
+    "location": "San Jose, CA",
     "bio": "Software Engineer mainly writing for 's platforms. Rugby fanatic."
   },
   "public_keys": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "echoz",
+          "state": 1,
+          "proof_url": "https://twitter.com/echoz/status/755497815552307200",
+          "sig_id": "33b1529aa42f036edd2c955c249b315a23377af23ca9b86b512a5f8d4dc7d9270f",
+          "proof_id": "8524c936f88754a30e545f10",
+          "human_url": "https://twitter.com/echoz/status/755497815552307200",
+          "service_url": "https://twitter.com/echoz",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -79,10 +93,64 @@
           "service_url": "https://reddit.com/user/echoz",
           "presentation_group": "reddit",
           "presentation_tag": "post"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/echoz",
+          "state": 1,
+          "proof_url": "https://coinbase.com/echoz/public-key",
+          "sig_id": "32e61522609270dd2b34551c42c9297f3e5668093f026373ddbc522e91f02cbd0f",
+          "proof_id": "edc1b48c861ad28d53d0f710",
+          "human_url": "https://coinbase.com/echoz/public-key",
+          "service_url": "https://coinbase.com/echoz",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "thirdly.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/echoz/sigchain#489c7d23842fe973bb92780e76c7c65a1e71f20a628415168b90f5e3ffa0b0e70f",
+          "sig_id": "489c7d23842fe973bb92780e76c7c65a1e71f20a628415168b90f5e3ffa0b0e70f",
+          "proof_id": "017b8b6ab4f28d6a6266c610",
+          "human_url": "dns://thirdly.org",
+          "service_url": "http://thirdly.org",
+          "presentation_group": "thirdly.org",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "ornyx.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/echoz/sigchain#8ac8cb9a0a7d0d020985392812931a55e6a6d80f95575717d7b93e14809d959f0f",
+          "sig_id": "8ac8cb9a0a7d0d020985392812931a55e6a6d80f95575717d7b93e14809d959f0f",
+          "proof_id": "08faf6216da666ae66c92910",
+          "human_url": "dns://ornyx.net",
+          "service_url": "http://ornyx.net",
+          "presentation_group": "ornyx.net",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "echoz",
+          "state": 1,
+          "proof_url": "https://twitter.com/echoz/status/755497815552307200",
+          "sig_id": "33b1529aa42f036edd2c955c249b315a23377af23ca9b86b512a5f8d4dc7d9270f",
+          "proof_id": "8524c936f88754a30e545f10",
+          "human_url": "https://twitter.com/echoz/status/755497815552307200",
+          "service_url": "https://twitter.com/echoz",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -110,9 +178,63 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/echoz",
+          "state": 1,
+          "proof_url": "https://coinbase.com/echoz/public-key",
+          "sig_id": "32e61522609270dd2b34551c42c9297f3e5668093f026373ddbc522e91f02cbd0f",
+          "proof_id": "edc1b48c861ad28d53d0f710",
+          "human_url": "https://coinbase.com/echoz/public-key",
+          "service_url": "https://coinbase.com/echoz",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "thirdly.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "thirdly.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/echoz/sigchain#489c7d23842fe973bb92780e76c7c65a1e71f20a628415168b90f5e3ffa0b0e70f",
+          "sig_id": "489c7d23842fe973bb92780e76c7c65a1e71f20a628415168b90f5e3ffa0b0e70f",
+          "proof_id": "017b8b6ab4f28d6a6266c610",
+          "human_url": "dns://thirdly.org",
+          "service_url": "http://thirdly.org",
+          "presentation_group": "thirdly.org",
+          "presentation_tag": "dns"
+        }
+      ],
+      "ornyx.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "ornyx.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/echoz/sigchain#8ac8cb9a0a7d0d020985392812931a55e6a6d80f95575717d7b93e14809d959f0f",
+          "sig_id": "8ac8cb9a0a7d0d020985392812931a55e6a6d80f95575717d7b93e14809d959f0f",
+          "proof_id": "08faf6216da666ae66c92910",
+          "human_url": "dns://ornyx.net",
+          "service_url": "http://ornyx.net",
+          "presentation_group": "ornyx.net",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "echoz",
+        "state": 1,
+        "proof_url": "https://twitter.com/echoz/status/755497815552307200",
+        "sig_id": "33b1529aa42f036edd2c955c249b315a23377af23ca9b86b512a5f8d4dc7d9270f",
+        "proof_id": "8524c936f88754a30e545f10",
+        "human_url": "https://twitter.com/echoz/status/755497815552307200",
+        "service_url": "https://twitter.com/echoz",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "echoz",
@@ -136,23 +258,59 @@
         "service_url": "https://reddit.com/user/echoz",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/echoz",
+        "state": 1,
+        "proof_url": "https://coinbase.com/echoz/public-key",
+        "sig_id": "32e61522609270dd2b34551c42c9297f3e5668093f026373ddbc522e91f02cbd0f",
+        "proof_id": "edc1b48c861ad28d53d0f710",
+        "human_url": "https://coinbase.com/echoz/public-key",
+        "service_url": "https://coinbase.com/echoz",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "thirdly.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/echoz/sigchain#489c7d23842fe973bb92780e76c7c65a1e71f20a628415168b90f5e3ffa0b0e70f",
+        "sig_id": "489c7d23842fe973bb92780e76c7c65a1e71f20a628415168b90f5e3ffa0b0e70f",
+        "proof_id": "017b8b6ab4f28d6a6266c610",
+        "human_url": "dns://thirdly.org",
+        "service_url": "http://thirdly.org",
+        "presentation_group": "thirdly.org",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "ornyx.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/echoz/sigchain#8ac8cb9a0a7d0d020985392812931a55e6a6d80f95575717d7b93e14809d959f0f",
+        "sig_id": "8ac8cb9a0a7d0d020985392812931a55e6a6d80f95575717d7b93e14809d959f0f",
+        "proof_id": "08faf6216da666ae66c92910",
+        "human_url": "dns://ornyx.net",
+        "service_url": "http://ornyx.net",
+        "presentation_group": "ornyx.net",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/6fdbf6188ab6f89645b73e277f498105_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/ca9beb7fb541d687d17d3faab67dc805_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "8182ad3b74b3f9fcf00fe6726852ed3fcab03429b73482bec7e4cfe07a2516a10f",
-      "seqno": 3,
-      "payload_hash": "160f48955174d0aa9e560d1aaadf83f4f49025c48a4737636586e725e70ad94c"
+      "sig_id": "8baa702e7ab23fcd7ad81211836af0624733b0bfc62efb303250009c5d6ccc260f",
+      "seqno": 9,
+      "payload_hash": "d95b91dcc0e97dc0b5f44e6d948ad7b39b8bf98c25ea6a7881461b75fc2d8530"
     }
   },
   "devices": {}
