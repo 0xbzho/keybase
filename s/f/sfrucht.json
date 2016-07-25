@@ -1,0 +1,92 @@
+{
+  "id": "04931ee9e8347d5f4abe4f8e8ce35a19",
+  "basics": {
+    "username": "sfrucht",
+    "ctime": 1469202947,
+    "mtime": 1469202947,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1469203327,
+    "username_cased": "sfrucht"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121fe9581e626a8fd52217a393c987380203a90b3aaf2b47227fd2bad849f03b57d0a",
+      "0120019715ccb550f5ff3ce736d87264f2968a8c23f5c384cceab77b0e6aa351716f0a",
+      "012107b3d1099ec37cea1495b545e875aaebad585d487c825471af27e26dd68a19030a",
+      "0120db5b264e049ba31dbeac97e5e6a2e64fcdd6b2c315aaf18392e5ccb9265fec070a"
+    ],
+    "subkeys": [
+      "0121fe9581e626a8fd52217a393c987380203a90b3aaf2b47227fd2bad849f03b57d0a",
+      "012107b3d1099ec37cea1495b545e875aaebad585d487c825471af27e26dd68a19030a"
+    ],
+    "sibkeys": [
+      "0120019715ccb550f5ff3ce736d87264f2968a8c23f5c384cceab77b0e6aa351716f0a",
+      "0120db5b264e049ba31dbeac97e5e6a2e64fcdd6b2c315aaf18392e5ccb9265fec070a"
+    ],
+    "families": {
+      "0120019715ccb550f5ff3ce736d87264f2968a8c23f5c384cceab77b0e6aa351716f0a": [
+        "0121fe9581e626a8fd52217a393c987380203a90b3aaf2b47227fd2bad849f03b57d0a",
+        "0120019715ccb550f5ff3ce736d87264f2968a8c23f5c384cceab77b0e6aa351716f0a",
+        "012107b3d1099ec37cea1495b545e875aaebad585d487c825471af27e26dd68a19030a",
+        "0120db5b264e049ba31dbeac97e5e6a2e64fcdd6b2c315aaf18392e5ccb9265fec070a"
+      ]
+    },
+    "eldest_kid": "0120019715ccb550f5ff3ce736d87264f2968a8c23f5c384cceab77b0e6aa351716f0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "0017bf966f4e4ab97d406bf38295155c0da5f647c358186c2f2611d3359970a10f",
+      "seqno": 4,
+      "payload_hash": "7662dc78756dbe6166dc3d1a8a651d76ad9660f1eac4af2204c6f901beff02e7"
+    }
+  },
+  "devices": {
+    "4cf64beb045403a9020d8b8ab44d6518": {
+      "type": "backup",
+      "ctime": 1469203327,
+      "mtime": 1469203327,
+      "name": "kit wheat",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120db5b264e049ba31dbeac97e5e6a2e64fcdd6b2c315aaf18392e5ccb9265fec070a",
+          "key_role": 1,
+          "sig_id": "24d40111f66f454dbd6ddafc958611e2865ac9d4970d0fb7e46b359e0c7f88ca0f"
+        },
+        {
+          "kid": "012107b3d1099ec37cea1495b545e875aaebad585d487c825471af27e26dd68a19030a",
+          "key_role": 2,
+          "sig_id": "0017bf966f4e4ab97d406bf38295155c0da5f647c358186c2f2611d3359970a10f"
+        }
+      ]
+    },
+    "f38fefb8480a828ea6c84200d0980e18": {
+      "type": "desktop",
+      "ctime": 1469203326,
+      "mtime": 1469203326,
+      "name": "laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120019715ccb550f5ff3ce736d87264f2968a8c23f5c384cceab77b0e6aa351716f0a",
+          "key_role": 1,
+          "sig_id": "2f6edd61686238495bae6238d24f73bbf232fe9786b201da327a5e7ebb278c060f"
+        },
+        {
+          "kid": "0121fe9581e626a8fd52217a393c987380203a90b3aaf2b47227fd2bad849f03b57d0a",
+          "key_role": 2,
+          "sig_id": "6bb79bcd0575c6f9dfb6734558ef5babc91fca1aac909863d90d447d3f5204b60f"
+        }
+      ]
+    }
+  }
+}
