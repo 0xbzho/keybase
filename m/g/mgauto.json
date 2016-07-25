@@ -4,16 +4,16 @@
     "username": "mgauto",
     "ctime": 1413400728,
     "mtime": 1413400728,
-    "id_version": 9,
+    "id_version": 10,
     "track_version": 2,
-    "last_id_change": 1455074366,
+    "last_id_change": 1469386364,
     "username_cased": "mgauto"
   },
   "profile": {
-    "mtime": 1413475652,
+    "mtime": 1469386683,
     "full_name": "Manuel Gauto",
     "location": "Falls Church, Virginia",
-    "bio": "Student at George Mason University(Computer Engineering and Spanish Language)\n;\nFounder and Owner of MG Enterprises Consulting LLC"
+    "bio": "Student at George Mason University(Telecommunications Engineering, Spanish Language, Latin American Studies)\n;\nFounder and Owner of MG Enterprises Consulting LLC"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,20 @@
       "0120ebe90667dc3f6b743577df45f0baf587ef4366d9052319cecf564ebb876fea0f0a",
       "0120f6248558d811f50c42d09c77bb165af9e356453d4a1a50c5cf224348e549d04e0a",
       "0121ea03ab2a2faf8b06a3f577371419ba3df9a80f91c9fa280d47ad41805cba394e0a",
-      "012110b41162e3f188c30fa614095ebfc9f202097886212be26de294aa4825e0b06e0a"
+      "012110b41162e3f188c30fa614095ebfc9f202097886212be26de294aa4825e0b06e0a",
+      "012138dcbeca14c5dd81bc8597e0e263852ef3c01d79a61425fe9771d6025db666160a",
+      "0120dbedbf8afbb1dee8514cb4c92356b9076f1f5d2cef52ad7aab418cb0d299c72b0a"
     ],
     "subkeys": [
       "0121ea03ab2a2faf8b06a3f577371419ba3df9a80f91c9fa280d47ad41805cba394e0a",
-      "012110b41162e3f188c30fa614095ebfc9f202097886212be26de294aa4825e0b06e0a"
+      "012110b41162e3f188c30fa614095ebfc9f202097886212be26de294aa4825e0b06e0a",
+      "012138dcbeca14c5dd81bc8597e0e263852ef3c01d79a61425fe9771d6025db666160a"
     ],
     "sibkeys": [
       "0101356e93322614fec8d0794d2a4d40019d5266517aec327d62e3229b1466681dcb0a",
       "0120ebe90667dc3f6b743577df45f0baf587ef4366d9052319cecf564ebb876fea0f0a",
-      "0120f6248558d811f50c42d09c77bb165af9e356453d4a1a50c5cf224348e549d04e0a"
+      "0120f6248558d811f50c42d09c77bb165af9e356453d4a1a50c5cf224348e549d04e0a",
+      "0120dbedbf8afbb1dee8514cb4c92356b9076f1f5d2cef52ad7aab418cb0d299c72b0a"
     ],
     "families": {
       "0101356e93322614fec8d0794d2a4d40019d5266517aec327d62e3229b1466681dcb0a": [
@@ -55,7 +59,9 @@
         "0120ebe90667dc3f6b743577df45f0baf587ef4366d9052319cecf564ebb876fea0f0a",
         "0120f6248558d811f50c42d09c77bb165af9e356453d4a1a50c5cf224348e549d04e0a",
         "0121ea03ab2a2faf8b06a3f577371419ba3df9a80f91c9fa280d47ad41805cba394e0a",
-        "012110b41162e3f188c30fa614095ebfc9f202097886212be26de294aa4825e0b06e0a"
+        "012110b41162e3f188c30fa614095ebfc9f202097886212be26de294aa4825e0b06e0a",
+        "012138dcbeca14c5dd81bc8597e0e263852ef3c01d79a61425fe9771d6025db666160a",
+        "0120dbedbf8afbb1dee8514cb4c92356b9076f1f5d2cef52ad7aab418cb0d299c72b0a"
       ]
     },
     "eldest_kid": "0101356e93322614fec8d0794d2a4d40019d5266517aec327d62e3229b1466681dcb0a",
@@ -123,9 +129,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3e47f89ee0c48d6b247b36e9a06fc79e8f75c622cfa6885e6a0ddf665494a7470f",
-      "seqno": 8,
-      "payload_hash": "5cd893adeb61664262ead64c8643b054fc772a6894ff1832d33284efaaa41651"
+      "sig_id": "52e1961f69c719244e8a3307d5aedf6f18f56d9435b5780673a9d6470128f5b60f",
+      "seqno": 10,
+      "payload_hash": "48db2b175b9aa1991679060eaa051043c509b36b2acb68ea4e79a63e96ad3c16"
     }
   },
   "devices": {
@@ -164,6 +170,25 @@
           "kid": "012110b41162e3f188c30fa614095ebfc9f202097886212be26de294aa4825e0b06e0a",
           "key_role": 2,
           "sig_id": "72ee1e261e91e122b284faa244f767080a17f4269dfd8d6dce88783225f40fcd0f"
+        }
+      ]
+    },
+    "dff651ce39ebb317ea8da93812bb9618": {
+      "type": "desktop",
+      "ctime": 1469386364,
+      "mtime": 1469386364,
+      "name": "Manuel-MBP",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120dbedbf8afbb1dee8514cb4c92356b9076f1f5d2cef52ad7aab418cb0d299c72b0a",
+          "key_role": 1,
+          "sig_id": "3ed54515db57a47818622a2ffe2464fa7a142d044160fe7ce3beeffc198383bd0f"
+        },
+        {
+          "kid": "012138dcbeca14c5dd81bc8597e0e263852ef3c01d79a61425fe9771d6025db666160a",
+          "key_role": 2,
+          "sig_id": "52e1961f69c719244e8a3307d5aedf6f18f56d9435b5780673a9d6470128f5b60f"
         }
       ]
     }
