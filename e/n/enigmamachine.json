@@ -4,10 +4,16 @@
     "username": "enigmamachine",
     "ctime": 1467301713,
     "mtime": 1467301713,
-    "id_version": 13,
+    "id_version": 18,
     "track_version": 1,
-    "last_id_change": 1467304008,
+    "last_id_change": 1469212838,
     "username_cased": "enigmamachine"
+  },
+  "profile": {
+    "mtime": 1469211842,
+    "full_name": "Jeff Stokes",
+    "location": "Georgia, US",
+    "bio": "brief bio"
   },
   "public_keys": {
     "primary": {
@@ -101,6 +107,34 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/enigmamachine",
+          "state": 1,
+          "proof_url": "https://coinbase.com/enigmamachine/public-key",
+          "sig_id": "13fc4e7b144045239e12fc839ec7d57fb8416fcae5d3d23e7fb4cd3b7a7cba100f",
+          "proof_id": "2fc078850eee26ff4e57b810",
+          "human_url": "https://coinbase.com/enigmamachine/public-key",
+          "service_url": "https://coinbase.com/enigmamachine",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "libromagica.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/enigmamachine/sigchain#915e79b7a8d039237da56d55c8a622a1ddf7dfecb3fb992e3204e9c356ed9b5f0f",
+          "sig_id": "915e79b7a8d039237da56d55c8a622a1ddf7dfecb3fb992e3204e9c356ed9b5f0f",
+          "proof_id": "b92a69c1f5ed2aae00c43410",
+          "human_url": "dns://libromagica.com",
+          "service_url": "http://libromagica.com",
+          "presentation_group": "libromagica.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -145,6 +179,34 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/enigmamachine",
+          "state": 1,
+          "proof_url": "https://coinbase.com/enigmamachine/public-key",
+          "sig_id": "13fc4e7b144045239e12fc839ec7d57fb8416fcae5d3d23e7fb4cd3b7a7cba100f",
+          "proof_id": "2fc078850eee26ff4e57b810",
+          "human_url": "https://coinbase.com/enigmamachine/public-key",
+          "service_url": "https://coinbase.com/enigmamachine",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "libromagica.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "libromagica.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/enigmamachine/sigchain#915e79b7a8d039237da56d55c8a622a1ddf7dfecb3fb992e3204e9c356ed9b5f0f",
+          "sig_id": "915e79b7a8d039237da56d55c8a622a1ddf7dfecb3fb992e3204e9c356ed9b5f0f",
+          "proof_id": "b92a69c1f5ed2aae00c43410",
+          "human_url": "dns://libromagica.com",
+          "service_url": "http://libromagica.com",
+          "presentation_group": "libromagica.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -183,10 +245,41 @@
         "service_url": "https://reddit.com/user/jeffstokes72",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/enigmamachine",
+        "state": 1,
+        "proof_url": "https://coinbase.com/enigmamachine/public-key",
+        "sig_id": "13fc4e7b144045239e12fc839ec7d57fb8416fcae5d3d23e7fb4cd3b7a7cba100f",
+        "proof_id": "2fc078850eee26ff4e57b810",
+        "human_url": "https://coinbase.com/enigmamachine/public-key",
+        "service_url": "https://coinbase.com/enigmamachine",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "libromagica.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/enigmamachine/sigchain#915e79b7a8d039237da56d55c8a622a1ddf7dfecb3fb992e3204e9c356ed9b5f0f",
+        "sig_id": "915e79b7a8d039237da56d55c8a622a1ddf7dfecb3fb992e3204e9c356ed9b5f0f",
+        "proof_id": "b92a69c1f5ed2aae00c43410",
+        "human_url": "dns://libromagica.com",
+        "service_url": "http://libromagica.com",
+        "presentation_group": "libromagica.com",
+        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1Gx2BAUNPkKD4K6CQD8Qxxj8CFjs6YzeWM",
+        "sig_id": "7cd6b39cf99236088fb1c03b4059eb24e92c9a2c871292c364906a70aaf2287f0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/4437a932411c5be310f89cda33884a05_360_360_square_360.jpeg",
@@ -197,9 +290,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "71319ca27a635591977bfae66b94e860644be85b6736a182ef91a162bec986420f",
-      "seqno": 10,
-      "payload_hash": "b716ea156741f7119d0de1e74b34572ec83df7cbbda7bc6e1c6b280d6da8160f"
+      "sig_id": "915e79b7a8d039237da56d55c8a622a1ddf7dfecb3fb992e3204e9c356ed9b5f0f",
+      "seqno": 14,
+      "payload_hash": "32da614ec42e4c53297097374eb3f1daf55d8e0ef8560abcf02193af80cba2d2"
     }
   },
   "devices": {
