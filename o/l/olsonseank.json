@@ -4,9 +4,9 @@
     "username": "olsonseank",
     "ctime": 1421455100,
     "mtime": 1421455100,
-    "id_version": 27,
+    "id_version": 28,
     "track_version": 0,
-    "last_id_change": 1464375628,
+    "last_id_change": 1469645783,
     "username_cased": "olsonseank"
   },
   "profile": {
@@ -39,16 +39,18 @@
       "0120d9ee4eac4ff9bee170bb39ae1bc1519133b98d1e3b330f3eb9623d6cf92b13880a",
       "0121947ac2aa090ec91400db0a8056ba25190c8ee5e32edae2f0c7270f9f5d32e86e0a",
       "0120f7511e77cfc6d599984f6fc136c6d50fdff9d0109ba2bb8d68ad24d20b7de5520a",
-      "01215f3f02b3ff70270010410f64d422eab370ac05ef2cf5931a24782517b1848e350a"
+      "01215f3f02b3ff70270010410f64d422eab370ac05ef2cf5931a24782517b1848e350a",
+      "0121fb08e58ded47beca7e4b3a2014394046a978afcdd8635d188885ddf0be11261a0a",
+      "0120b1d1ad6bd60035211f7dec6f4b4de3d3b09e924e70e48d8908b6255f67fb30580a"
     ],
     "subkeys": [
-      "0121947ac2aa090ec91400db0a8056ba25190c8ee5e32edae2f0c7270f9f5d32e86e0a",
-      "01215f3f02b3ff70270010410f64d422eab370ac05ef2cf5931a24782517b1848e350a"
+      "01215f3f02b3ff70270010410f64d422eab370ac05ef2cf5931a24782517b1848e350a",
+      "0121fb08e58ded47beca7e4b3a2014394046a978afcdd8635d188885ddf0be11261a0a"
     ],
     "sibkeys": [
       "01016093cb108d4392a64bec275fa4a340362eb316c38fedbb755436682aa84b88380a",
-      "0120d9ee4eac4ff9bee170bb39ae1bc1519133b98d1e3b330f3eb9623d6cf92b13880a",
-      "0120f7511e77cfc6d599984f6fc136c6d50fdff9d0109ba2bb8d68ad24d20b7de5520a"
+      "0120f7511e77cfc6d599984f6fc136c6d50fdff9d0109ba2bb8d68ad24d20b7de5520a",
+      "0120b1d1ad6bd60035211f7dec6f4b4de3d3b09e924e70e48d8908b6255f67fb30580a"
     ],
     "families": {
       "01016093cb108d4392a64bec275fa4a340362eb316c38fedbb755436682aa84b88380a": [
@@ -57,7 +59,9 @@
         "0120d9ee4eac4ff9bee170bb39ae1bc1519133b98d1e3b330f3eb9623d6cf92b13880a",
         "0121947ac2aa090ec91400db0a8056ba25190c8ee5e32edae2f0c7270f9f5d32e86e0a",
         "0120f7511e77cfc6d599984f6fc136c6d50fdff9d0109ba2bb8d68ad24d20b7de5520a",
-        "01215f3f02b3ff70270010410f64d422eab370ac05ef2cf5931a24782517b1848e350a"
+        "01215f3f02b3ff70270010410f64d422eab370ac05ef2cf5931a24782517b1848e350a",
+        "0121fb08e58ded47beca7e4b3a2014394046a978afcdd8635d188885ddf0be11261a0a",
+        "0120b1d1ad6bd60035211f7dec6f4b4de3d3b09e924e70e48d8908b6255f67fb30580a"
       ]
     },
     "eldest_kid": "01016093cb108d4392a64bec275fa4a340362eb316c38fedbb755436682aa84b88380a",
@@ -172,31 +176,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "66c49f888509cdc0f018c74e964f8c32effa7045da09a9818bf8d4bf276455bd0f",
-      "seqno": 13,
-      "payload_hash": "a82e6779efd4f6579b435d85aa247520daa7a0485a93af559784fed39bb03ddd"
+      "sig_id": "b84a96e4be24f088a3ccc6957bb4e988e89481e35f615dee19b761c1729930250f",
+      "seqno": 16,
+      "payload_hash": "d45f7b8c93aeb24cf270366a4eceb1159eb7cbfc290df9dba5ebc92a903bc39b"
     }
   },
   "devices": {
-    "453f253587747bbddd44aafd2ba3ee18": {
-      "type": "desktop",
-      "ctime": 1464375626,
-      "mtime": 1464375626,
-      "name": "leviathan",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120d9ee4eac4ff9bee170bb39ae1bc1519133b98d1e3b330f3eb9623d6cf92b13880a",
-          "key_role": 1,
-          "sig_id": "905722b9b764fbb8eadb0547683179b9dece571353f24c5c045fa56add3f515f0f"
-        },
-        {
-          "kid": "0121947ac2aa090ec91400db0a8056ba25190c8ee5e32edae2f0c7270f9f5d32e86e0a",
-          "key_role": 2,
-          "sig_id": "41048e03ac7c46c3225fddbf7c1b81900a10b7eece081604192f21175791b4890f"
-        }
-      ]
-    },
     "651bbef9dd8915ebc8268aa69958b818": {
       "type": "backup",
       "ctime": 1464375628,
@@ -213,6 +198,25 @@
           "kid": "01215f3f02b3ff70270010410f64d422eab370ac05ef2cf5931a24782517b1848e350a",
           "key_role": 2,
           "sig_id": "66c49f888509cdc0f018c74e964f8c32effa7045da09a9818bf8d4bf276455bd0f"
+        }
+      ]
+    },
+    "a8fbac70c3d1cd747d2fd268f7c59618": {
+      "type": "desktop",
+      "ctime": 1469645783,
+      "mtime": 1469645783,
+      "name": "leviathan-nuc-1",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b1d1ad6bd60035211f7dec6f4b4de3d3b09e924e70e48d8908b6255f67fb30580a",
+          "key_role": 1,
+          "sig_id": "c1601e42b3e488c451959ce3f0bf5be038ec6f79cb17a909ea3380c6ee5cffbb0f"
+        },
+        {
+          "kid": "0121fb08e58ded47beca7e4b3a2014394046a978afcdd8635d188885ddf0be11261a0a",
+          "key_role": 2,
+          "sig_id": "35e9a2183e00e18be329aa7faff18814eb552b0d81f0b2715c8d39a0e38696e30f"
         }
       ]
     }
