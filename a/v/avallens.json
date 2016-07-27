@@ -1,0 +1,92 @@
+{
+  "id": "00d1ac43254b4fab3c91392ed46e1019",
+  "basics": {
+    "username": "avallens",
+    "ctime": 1468357039,
+    "mtime": 1468357039,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1468357042,
+    "username_cased": "avallens"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0120a97d96d89c0373ddb6f04dc9f506ab751233ddd2a43cc17e3229848551f092080a",
+      "012126d86c49037247d409c4d528c6e396e58313ad0f24450a2ae7715e1ba828a67e0a",
+      "012173c43748116e5e6c0db29a998ab79d1fac31cb3ba70dc621820e70ae1fe1af010a",
+      "012093e17092ca1ab751458f9060455835d7dd91110cdbdcc04f24854c761fab74bd0a"
+    ],
+    "subkeys": [
+      "012126d86c49037247d409c4d528c6e396e58313ad0f24450a2ae7715e1ba828a67e0a",
+      "012173c43748116e5e6c0db29a998ab79d1fac31cb3ba70dc621820e70ae1fe1af010a"
+    ],
+    "sibkeys": [
+      "0120a97d96d89c0373ddb6f04dc9f506ab751233ddd2a43cc17e3229848551f092080a",
+      "012093e17092ca1ab751458f9060455835d7dd91110cdbdcc04f24854c761fab74bd0a"
+    ],
+    "families": {
+      "0120a97d96d89c0373ddb6f04dc9f506ab751233ddd2a43cc17e3229848551f092080a": [
+        "0120a97d96d89c0373ddb6f04dc9f506ab751233ddd2a43cc17e3229848551f092080a",
+        "012126d86c49037247d409c4d528c6e396e58313ad0f24450a2ae7715e1ba828a67e0a",
+        "012173c43748116e5e6c0db29a998ab79d1fac31cb3ba70dc621820e70ae1fe1af010a",
+        "012093e17092ca1ab751458f9060455835d7dd91110cdbdcc04f24854c761fab74bd0a"
+      ]
+    },
+    "eldest_kid": "0120a97d96d89c0373ddb6f04dc9f506ab751233ddd2a43cc17e3229848551f092080a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "f49427796df403cc769a46a5f441770b86c15399c9aaeced1cd38785dbbb913b0f",
+      "seqno": 4,
+      "payload_hash": "4ba88256dc7cc2ebe95a7dac8e90c1dcb1245d14e6a8a55ef87e54ad834f13a1"
+    }
+  },
+  "devices": {
+    "5c7bdf164f8b601e0dae85b9089a6418": {
+      "type": "backup",
+      "ctime": 1468357042,
+      "mtime": 1468357042,
+      "name": "scheme clever",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012093e17092ca1ab751458f9060455835d7dd91110cdbdcc04f24854c761fab74bd0a",
+          "key_role": 1,
+          "sig_id": "d6b862a143748d4ffb86814a4e020e8a56139120a1921a99a825570b3d1a0aa40f"
+        },
+        {
+          "kid": "012173c43748116e5e6c0db29a998ab79d1fac31cb3ba70dc621820e70ae1fe1af010a",
+          "key_role": 2,
+          "sig_id": "f49427796df403cc769a46a5f441770b86c15399c9aaeced1cd38785dbbb913b0f"
+        }
+      ]
+    },
+    "9e6aa8e1b9c083e42b73d35f433ec118": {
+      "type": "desktop",
+      "ctime": 1468357042,
+      "mtime": 1468357042,
+      "name": "boavallens",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a97d96d89c0373ddb6f04dc9f506ab751233ddd2a43cc17e3229848551f092080a",
+          "key_role": 1,
+          "sig_id": "4cf05b706635ce55021688b3f746b2510f6ed747bdfeb141d0ae3119496103e30f"
+        },
+        {
+          "kid": "012126d86c49037247d409c4d528c6e396e58313ad0f24450a2ae7715e1ba828a67e0a",
+          "key_role": 2,
+          "sig_id": "815a03d382f698274b4e5174914adc20546e10b44d6d64de41355f0b8fee9e750f"
+        }
+      ]
+    }
+  }
+}
