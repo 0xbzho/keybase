@@ -4,9 +4,9 @@
     "username": "coffee",
     "ctime": 1462044491,
     "mtime": 1462044491,
-    "id_version": 24,
+    "id_version": 29,
     "track_version": 6,
-    "last_id_change": 1465650827,
+    "last_id_change": 1469403548,
     "username_cased": "coffee"
   },
   "profile": {
@@ -45,16 +45,12 @@
       "01213b76f4e009249ac5a33998ab6b6711c3c4203f62fb0047a5dd9ddaf080fe7f250a"
     ],
     "subkeys": [
-      "012189f43cabf40963e59beebe21fe6c86ea85198564c578ab12df834ccd1867e6780a",
       "0121f1e97b6f57df450c30071680cfe8819cbfec284d2fe3f5aa4ee0f1cbfb2931670a",
-      "01218f66ab429e94e07d7103416fe650cda30f7cee33848021de3c241ee43ba4d8590a",
       "01213b76f4e009249ac5a33998ab6b6711c3c4203f62fb0047a5dd9ddaf080fe7f250a"
     ],
     "sibkeys": [
       "0101bea9ae64fb73a8708305257e5091abc4151b0bd1caf219547bc2bb9544831f790a",
-      "0120385449742dd8040e93ef83fbed0f17c1216992f712d453fe4f2bdfbae4a095140a",
       "0120f61e3d6d8ed891d28b665ce1da4bee5d042fa34a26ae07ebd4eaf8b2bb1191180a",
-      "01203bc4648f85e5049f25b1ad84d1b97cc404560f4fdc1ca8913768a469545bcbda0a",
       "012051e6860dc8376885135c67eab8a3ba8e45fd51e9ba3a0493ac84bc3ca37da3ba0a"
     ],
     "families": {
@@ -135,9 +131,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d390a4f057eacef11d8551ff075bd705783288155517e69c2d98d853f609f0c90f",
-      "seqno": 21,
-      "payload_hash": "44910fca59accf92e5b6e28970f45fdff3d51d4b6f57e71358798bbc2e5a615a"
+      "sig_id": "e6913697956203614e1a4276d4a6741beca4dde83b9d0e82395fcd19b88cc57c0f",
+      "seqno": 24,
+      "payload_hash": "e525500d6dca9e91fc0c6e130471c908b5af3eef65ded049ebece7ad19a981fe"
     }
   },
   "devices": {
@@ -176,44 +172,6 @@
           "kid": "0121f1e97b6f57df450c30071680cfe8819cbfec284d2fe3f5aa4ee0f1cbfb2931670a",
           "key_role": 2,
           "sig_id": "8fecd374586a3b9d4325759327bdc47b069b5a9ff3e8ad2b206d55ffa292c1e90f"
-        }
-      ]
-    },
-    "a4d2d6ac496827e3e58f71eb0c562d18": {
-      "type": "desktop",
-      "ctime": 1462203713,
-      "mtime": 1462203713,
-      "name": "contraband-arch",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01203bc4648f85e5049f25b1ad84d1b97cc404560f4fdc1ca8913768a469545bcbda0a",
-          "key_role": 1,
-          "sig_id": "ac47051476d7fe98115163fb3d61851e5eb8b830a10d79fc582e4c0bb984d8020f"
-        },
-        {
-          "kid": "01218f66ab429e94e07d7103416fe650cda30f7cee33848021de3c241ee43ba4d8590a",
-          "key_role": 2,
-          "sig_id": "65d55730489e195c7e3c57c52e2b6df17c59653717512162a0ea0f90ee48ae310f"
-        }
-      ]
-    },
-    "da14bb6fd2915a8dbc900df34060d418": {
-      "type": "desktop",
-      "ctime": 1462044985,
-      "mtime": 1462044985,
-      "name": "contraband",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120385449742dd8040e93ef83fbed0f17c1216992f712d453fe4f2bdfbae4a095140a",
-          "key_role": 1,
-          "sig_id": "08adeef0f20dcf3227b6eac50f3d03585b3ce207b1d4505f710461ae5bea79bc0f"
-        },
-        {
-          "kid": "012189f43cabf40963e59beebe21fe6c86ea85198564c578ab12df834ccd1867e6780a",
-          "key_role": 2,
-          "sig_id": "86f43c8c7b1da13f04f6c91db506de1388fdd25f439a0a87d041cf32c3deb1e00f"
         }
       ]
     }
