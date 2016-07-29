@@ -4,9 +4,9 @@
     "username": "neutrino",
     "ctime": 1462395334,
     "mtime": 1462395334,
-    "id_version": 11,
+    "id_version": 15,
     "track_version": 1,
-    "last_id_change": 1462398832,
+    "last_id_change": 1469010774,
     "username_cased": "neutrino"
   },
   "profile": {
@@ -80,6 +80,34 @@
           "presentation_tag": "tweet"
         }
       ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "rakmount",
+          "state": 1,
+          "proof_url": "https://gist.github.com/7dc5b5028455c816e986bab560e8d5fe",
+          "sig_id": "5dd8d9c657005aa3c08f0e7fa31d975ccc1d1ab653dfb58d0f072600369ed8700f",
+          "proof_id": "fe403c72a781e00ca1f43b10",
+          "human_url": "https://gist.github.com/7dc5b5028455c816e986bab560e8d5fe",
+          "service_url": "https://github.com/rakmount",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/rakmount",
+          "state": 1,
+          "proof_url": "https://coinbase.com/rakmount/public-key",
+          "sig_id": "790dd19c47e0bd496e6036b1cb6c3695dc1f3430a2378efd6898ddaa5052da850f",
+          "proof_id": "a815cbc6d300b0eadece1d10",
+          "human_url": "https://coinbase.com/rakmount/public-key",
+          "service_url": "https://coinbase.com/rakmount",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "dns": [
         {
           "proof_type": "dns",
@@ -108,6 +136,34 @@
           "service_url": "https://twitter.com/ElJesterino",
           "presentation_group": "twitter",
           "presentation_tag": "tweet"
+        }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "rakmount",
+          "state": 1,
+          "proof_url": "https://gist.github.com/7dc5b5028455c816e986bab560e8d5fe",
+          "sig_id": "5dd8d9c657005aa3c08f0e7fa31d975ccc1d1ab653dfb58d0f072600369ed8700f",
+          "proof_id": "fe403c72a781e00ca1f43b10",
+          "human_url": "https://gist.github.com/7dc5b5028455c816e986bab560e8d5fe",
+          "service_url": "https://github.com/rakmount",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/rakmount",
+          "state": 1,
+          "proof_url": "https://coinbase.com/rakmount/public-key",
+          "sig_id": "790dd19c47e0bd496e6036b1cb6c3695dc1f3430a2378efd6898ddaa5052da850f",
+          "proof_id": "a815cbc6d300b0eadece1d10",
+          "human_url": "https://coinbase.com/rakmount/public-key",
+          "service_url": "https://coinbase.com/rakmount",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
         }
       ],
       "deadb33f.org": [
@@ -139,6 +195,30 @@
         "presentation_tag": "tweet"
       },
       {
+        "proof_type": "github",
+        "nametag": "rakmount",
+        "state": 1,
+        "proof_url": "https://gist.github.com/7dc5b5028455c816e986bab560e8d5fe",
+        "sig_id": "5dd8d9c657005aa3c08f0e7fa31d975ccc1d1ab653dfb58d0f072600369ed8700f",
+        "proof_id": "fe403c72a781e00ca1f43b10",
+        "human_url": "https://gist.github.com/7dc5b5028455c816e986bab560e8d5fe",
+        "service_url": "https://github.com/rakmount",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/rakmount",
+        "state": 1,
+        "proof_url": "https://coinbase.com/rakmount/public-key",
+        "sig_id": "790dd19c47e0bd496e6036b1cb6c3695dc1f3430a2378efd6898ddaa5052da850f",
+        "proof_id": "a815cbc6d300b0eadece1d10",
+        "human_url": "https://coinbase.com/rakmount/public-key",
+        "service_url": "https://coinbase.com/rakmount",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "dns",
         "nametag": "deadb33f.org",
         "state": 1,
@@ -152,7 +232,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "19nmvcFrThCf7dBhbt49K9xCzNFy7LKaLT",
+        "sig_id": "2113dca302a489b6c343b7548bd05b122e7e4dbc69dfffc185b3587fa3f3528b0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/c78f462298b161cad180fcff9ecafb05_360_360_square_360.jpeg",
@@ -163,9 +250,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7a12c37fc7bab8053d13cab7dc6a46228fb90937cf9ca8dcbdc5fdb77cfc46bf0f",
-      "seqno": 10,
-      "payload_hash": "bfffdbee6d2d34505aa805de603fa35638f3ed77019d7792d31aad3aa7e4d816"
+      "sig_id": "790dd19c47e0bd496e6036b1cb6c3695dc1f3430a2378efd6898ddaa5052da850f",
+      "seqno": 13,
+      "payload_hash": "6345e58880a50fcf53416b5161846bd9fcad831914cba615d253687259854cac"
     }
   },
   "devices": {
