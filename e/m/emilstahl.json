@@ -4,15 +4,15 @@
     "username": "emilstahl",
     "ctime": 1400828036,
     "mtime": 1400828036,
-    "id_version": 130,
-    "track_version": 15,
-    "last_id_change": 1469159323,
+    "id_version": 148,
+    "track_version": 17,
+    "last_id_change": 1469724349,
     "username_cased": "emilstahl"
   },
   "profile": {
-    "mtime": 1400829847,
-    "full_name": "Emil Stahl Pedersen",
-    "location": "Haderslev, Denmark",
+    "mtime": 1469703042,
+    "full_name": "Emil Stahl",
+    "location": "Aarhus, Denmark",
     "bio": "Geek from Denmark who loves the internet."
   },
   "public_keys": {
@@ -111,6 +111,18 @@
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
+          "nametag": "emil.one",
+          "state": 1,
+          "proof_url": "https://emil.one/.well-known/keybase.txt",
+          "sig_id": "3b1c4ef893056cb45ebad66e65f955bf099411573970888a95844c81b2f4af2d0f",
+          "proof_id": "378b84ca20fc7766d111ea10",
+          "human_url": "https://emil.one/.well-known/keybase.txt",
+          "service_url": "https://emil.one",
+          "presentation_group": "emil.one",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
           "nametag": "ipv6-adresse.dk",
           "state": 1,
           "proof_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
@@ -170,6 +182,18 @@
           "service_url": "http://emil.click",
           "presentation_group": "emil.click",
           "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "emil.one",
+          "state": 1,
+          "proof_url": "https://keybase.io/emilstahl/sigchain#41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
+          "sig_id": "41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
+          "proof_id": "ece396b07a6c028578fb8a10",
+          "human_url": "dns://emil.one",
+          "service_url": "http://emil.one",
+          "presentation_group": "emil.one",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -214,6 +238,32 @@
           "service_url": "https://coinbase.com/emilstahl",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "emil.one": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "emil.one",
+          "state": 1,
+          "proof_url": "https://emil.one/.well-known/keybase.txt",
+          "sig_id": "3b1c4ef893056cb45ebad66e65f955bf099411573970888a95844c81b2f4af2d0f",
+          "proof_id": "378b84ca20fc7766d111ea10",
+          "human_url": "https://emil.one/.well-known/keybase.txt",
+          "service_url": "https://emil.one",
+          "presentation_group": "emil.one",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "emil.one",
+          "state": 1,
+          "proof_url": "https://keybase.io/emilstahl/sigchain#41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
+          "sig_id": "41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
+          "proof_id": "ece396b07a6c028578fb8a10",
+          "human_url": "dns://emil.one",
+          "service_url": "http://emil.one",
+          "presentation_group": "emil.one",
+          "presentation_tag": "dns"
         }
       ],
       "ipv6-adresse.dk": [
@@ -359,6 +409,30 @@
         "presentation_tag": "dns"
       },
       {
+        "proof_type": "dns",
+        "nametag": "emil.one",
+        "state": 1,
+        "proof_url": "https://keybase.io/emilstahl/sigchain#41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
+        "sig_id": "41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
+        "proof_id": "ece396b07a6c028578fb8a10",
+        "human_url": "dns://emil.one",
+        "service_url": "http://emil.one",
+        "presentation_group": "emil.one",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "emil.one",
+        "state": 1,
+        "proof_url": "https://emil.one/.well-known/keybase.txt",
+        "sig_id": "3b1c4ef893056cb45ebad66e65f955bf099411573970888a95844c81b2f4af2d0f",
+        "proof_id": "378b84ca20fc7766d111ea10",
+        "human_url": "https://emil.one/.well-known/keybase.txt",
+        "service_url": "https://emil.one",
+        "presentation_group": "emil.one",
+        "presentation_tag": "https"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "ipv6-adresse.dk",
         "state": 1,
@@ -402,9 +476,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "97ef7dc118279d15a7fcdea9a6bee0a1ae5e92a374980e62a2b9fee633b23cd80f",
-      "seqno": 47,
-      "payload_hash": "960eee6bcb5da57d5c1b25c42f89dcea99496511b2af1dc520e45ea1c3abf77c"
+      "sig_id": "41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
+      "seqno": 55,
+      "payload_hash": "a5a2821862325e07b66e16425187f302bbe5f1fbb903522e6d749cb9f8fb88d6"
     }
   },
   "devices": {
