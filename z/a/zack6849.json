@@ -4,9 +4,9 @@
     "username": "zack6849",
     "ctime": 1439398092,
     "mtime": 1439398092,
-    "id_version": 90,
-    "track_version": 10,
-    "last_id_change": 1469071750,
+    "id_version": 95,
+    "track_version": 11,
+    "last_id_change": 1469771115,
     "username_cased": "zack6849"
   },
   "profile": {
@@ -46,13 +46,11 @@
       "012169d85abf77efe55274c15ad9cbcf2b3a562e2b06d9fcd5b331ffa708e1c2c5140a"
     ],
     "subkeys": [
-      "012121fa1fff82e62f3b9bd78519736a3a71035891a896aa4fab5dc639ff1cbf8b5c0a",
       "012169d85abf77efe55274c15ad9cbcf2b3a562e2b06d9fcd5b331ffa708e1c2c5140a"
     ],
     "sibkeys": [
       "0101225b43d5d15a9cedd9d737d8196accdfa9650689981460c30623cbb11f4c74510a",
-      "01209963147d51bd5bfc5e3b1c08f6947eda44f6084c6e74c250b2ec5eea4797f6a30a",
-      "0120d2e46ef440b27adf3a61bb4217a55ae88a2d99feb2852d51a4e3e216744798ce0a"
+      "01209963147d51bd5bfc5e3b1c08f6947eda44f6084c6e74c250b2ec5eea4797f6a30a"
     ],
     "families": {
       "0101225b43d5d15a9cedd9d737d8196accdfa9650689981460c30623cbb11f4c74510a": [
@@ -117,6 +115,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "zack6849.com",
+          "state": 1,
+          "proof_url": "https://zack6849.com/keybase.txt",
+          "sig_id": "7522212ab38d504631ae87d74ad59235d06bda751be8cdfc1ec3cda7907a8f790f",
+          "proof_id": "6f813289d48c88b095783810",
+          "human_url": "https://zack6849.com/keybase.txt",
+          "service_url": "https://zack6849.com",
+          "presentation_group": "zack6849.com",
+          "presentation_tag": "https"
+        }
       ]
     },
     "by_presentation_group": {
@@ -161,6 +173,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "zack6849.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "zack6849.com",
+          "state": 1,
+          "proof_url": "https://zack6849.com/keybase.txt",
+          "sig_id": "7522212ab38d504631ae87d74ad59235d06bda751be8cdfc1ec3cda7907a8f790f",
+          "proof_id": "6f813289d48c88b095783810",
+          "human_url": "https://zack6849.com/keybase.txt",
+          "service_url": "https://zack6849.com",
+          "presentation_group": "zack6849.com",
+          "presentation_tag": "https"
+        }
       ]
     },
     "all": [
@@ -199,6 +225,18 @@
         "service_url": "https://reddit.com/user/zack6849",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "zack6849.com",
+        "state": 1,
+        "proof_url": "https://zack6849.com/keybase.txt",
+        "sig_id": "7522212ab38d504631ae87d74ad59235d06bda751be8cdfc1ec3cda7907a8f790f",
+        "proof_id": "6f813289d48c88b095783810",
+        "human_url": "https://zack6849.com/keybase.txt",
+        "service_url": "https://zack6849.com",
+        "presentation_group": "zack6849.com",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -213,31 +251,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5baa096953261fa33e2fc9b5f75a157bee9b5dde4ab36cb8b859063f11e31d770f",
-      "seqno": 36,
-      "payload_hash": "e68469f7d59bb20191ccd301d1cf7334473472ec1f6f65bc5dc254f1db0ecc49"
+      "sig_id": "7522212ab38d504631ae87d74ad59235d06bda751be8cdfc1ec3cda7907a8f790f",
+      "seqno": 39,
+      "payload_hash": "e4c2cc79878d68942a6fd028deebeed73d8f7294ddb1109a1fa40036a561328e"
     }
   },
   "devices": {
-    "2551382f0af96de669dec9cf6a07c918": {
-      "type": "backup",
-      "ctime": 1464652965,
-      "mtime": 1464652965,
-      "name": "brisk forum",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120d2e46ef440b27adf3a61bb4217a55ae88a2d99feb2852d51a4e3e216744798ce0a",
-          "key_role": 1,
-          "sig_id": "7ce9eea00631093f62c844f069bcce7b341fddf22a6958b5d537cea79af1e17e0f"
-        },
-        {
-          "kid": "012121fa1fff82e62f3b9bd78519736a3a71035891a896aa4fab5dc639ff1cbf8b5c0a",
-          "key_role": 2,
-          "sig_id": "5baa096953261fa33e2fc9b5f75a157bee9b5dde4ab36cb8b859063f11e31d770f"
-        }
-      ]
-    },
     "836475db5ca8b2d2baf90a7498fa0118": {
       "type": "desktop",
       "ctime": 1464652964,
