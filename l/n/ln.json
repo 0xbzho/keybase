@@ -4,9 +4,9 @@
     "username": "ln",
     "ctime": 1453025655,
     "mtime": 1453025655,
-    "id_version": 1,
+    "id_version": 3,
     "track_version": 1,
-    "last_id_change": 1453027107,
+    "last_id_change": 1469273302,
     "username_cased": "ln"
   },
   "profile": {
@@ -52,16 +52,59 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/lnnl",
+          "state": 1,
+          "proof_url": "https://coinbase.com/lnnl/public-key",
+          "sig_id": "b6da7c68f2597dceb7e2c69539454766a90d1129fa545f9ede953f4648d986bd0f",
+          "proof_id": "fbd8b68495b9961ed4803c10",
+          "human_url": "https://coinbase.com/lnnl/public-key",
+          "service_url": "https://coinbase.com/lnnl",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/lnnl",
+          "state": 1,
+          "proof_url": "https://coinbase.com/lnnl/public-key",
+          "sig_id": "b6da7c68f2597dceb7e2c69539454766a90d1129fa545f9ede953f4648d986bd0f",
+          "proof_id": "fbd8b68495b9961ed4803c10",
+          "human_url": "https://coinbase.com/lnnl/public-key",
+          "service_url": "https://coinbase.com/lnnl",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/lnnl",
+        "state": 1,
+        "proof_url": "https://coinbase.com/lnnl/public-key",
+        "sig_id": "b6da7c68f2597dceb7e2c69539454766a90d1129fa545f9ede953f4648d986bd0f",
+        "proof_id": "fbd8b68495b9961ed4803c10",
+        "human_url": "https://coinbase.com/lnnl/public-key",
+        "service_url": "https://coinbase.com/lnnl",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      }
+    ]
   },
   "cryptocurrency_addresses": {},
   "sigs": {
     "last": {
-      "sig_id": "b837eef56159c05e286147da595f9660061bae64a3e7e9189306c3227e9946a80f",
-      "seqno": 2,
-      "payload_hash": "7fa97f75c8d97bb5334a7b1e9aac5f8d197551b62aaf258c6af98e16f59ae18f"
+      "sig_id": "b6da7c68f2597dceb7e2c69539454766a90d1129fa545f9ede953f4648d986bd0f",
+      "seqno": 3,
+      "payload_hash": "b7a176c683450699c2504f75f96543d5ea4d21c08ecf2f55ca1809aed134fa00"
     }
   },
   "devices": {}
