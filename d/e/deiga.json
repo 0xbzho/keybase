@@ -4,16 +4,16 @@
     "username": "deiga",
     "ctime": 1468968740,
     "mtime": 1468968740,
-    "id_version": 19,
-    "track_version": 2,
-    "last_id_change": 1468989210,
+    "id_version": 20,
+    "track_version": 3,
+    "last_id_change": 1469360464,
     "username_cased": "deiga"
   },
   "profile": {
-    "mtime": 1468989345,
+    "mtime": 1469353724,
     "full_name": "Timo Joachim Sand",
     "location": "Helsinki, Finland",
-    "bio": "Senior Software Developer & Consultant @ Wunderdog.\nI'm a Full-stack Specialist with a heart for UX"
+    "bio": "Full-stack Specialist with a heart for UX \nworking as \nSenior Software Developer @ Wunderdog.\n"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,20 @@
       "01209b9320c79879877ce0bbe2e03306b03498c6dbab9588e275d871a0dfa7b29df20a",
       "01210ff2c4630b1420298d6ff08b6f5414de522c6e7bf70dd8d95ec609c82c1b2d500a",
       "012058f2c4dade9d732c25af43a00a0cf2df9b4baaffc21cb17fe76f86a2f6a296e50a",
-      "0121983b195198120db216e144a010cf2c4a52d1f7b36af78f45c0ab2e6918e172470a"
+      "0121983b195198120db216e144a010cf2c4a52d1f7b36af78f45c0ab2e6918e172470a",
+      "012188ec49973458ec29cd25bcb7339c701f5d89edb43c071d4b5f1e9bbff96d13170a",
+      "01205773cf38f3528c80aa256dd8456b274d48ade154528e942bf2140db6385a9cc70a"
     ],
     "subkeys": [
       "01210ff2c4630b1420298d6ff08b6f5414de522c6e7bf70dd8d95ec609c82c1b2d500a",
-      "0121983b195198120db216e144a010cf2c4a52d1f7b36af78f45c0ab2e6918e172470a"
+      "0121983b195198120db216e144a010cf2c4a52d1f7b36af78f45c0ab2e6918e172470a",
+      "012188ec49973458ec29cd25bcb7339c701f5d89edb43c071d4b5f1e9bbff96d13170a"
     ],
     "sibkeys": [
       "01010900d5c67e809b408215ff194937dbd9c13ecf1627298f765c517c4cf12d694e0a",
       "01209b9320c79879877ce0bbe2e03306b03498c6dbab9588e275d871a0dfa7b29df20a",
-      "012058f2c4dade9d732c25af43a00a0cf2df9b4baaffc21cb17fe76f86a2f6a296e50a"
+      "012058f2c4dade9d732c25af43a00a0cf2df9b4baaffc21cb17fe76f86a2f6a296e50a",
+      "01205773cf38f3528c80aa256dd8456b274d48ade154528e942bf2140db6385a9cc70a"
     ],
     "families": {
       "01010900d5c67e809b408215ff194937dbd9c13ecf1627298f765c517c4cf12d694e0a": [
@@ -55,7 +59,9 @@
         "01209b9320c79879877ce0bbe2e03306b03498c6dbab9588e275d871a0dfa7b29df20a",
         "01210ff2c4630b1420298d6ff08b6f5414de522c6e7bf70dd8d95ec609c82c1b2d500a",
         "012058f2c4dade9d732c25af43a00a0cf2df9b4baaffc21cb17fe76f86a2f6a296e50a",
-        "0121983b195198120db216e144a010cf2c4a52d1f7b36af78f45c0ab2e6918e172470a"
+        "0121983b195198120db216e144a010cf2c4a52d1f7b36af78f45c0ab2e6918e172470a",
+        "012188ec49973458ec29cd25bcb7339c701f5d89edb43c071d4b5f1e9bbff96d13170a",
+        "01205773cf38f3528c80aa256dd8456b274d48ade154528e942bf2140db6385a9cc70a"
       ]
     },
     "eldest_kid": "01010900d5c67e809b408215ff194937dbd9c13ecf1627298f765c517c4cf12d694e0a",
@@ -283,12 +289,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7ad611ab8879c5f9049b1d6e0f4e26c158f7c9cfc7f93e0081993fa9dd7bb3750f",
-      "seqno": 14,
-      "payload_hash": "ea47b28d2f55d45e11f38d841e9c0ac033f2fbf8ea8428e9e4f20e40b8889e1c"
+      "sig_id": "ece1c407f93b2b1a815dc8db3a85eadbcbf097ca8da1d86d2b5d089b23e470740f",
+      "seqno": 17,
+      "payload_hash": "e6eaca23e73564a5831dfa71524e74960588f79b5bcc072911b71acf52e7d021"
     }
   },
   "devices": {
+    "18efee70b7d3d373d54d6750a115f318": {
+      "type": "desktop",
+      "ctime": 1469360464,
+      "mtime": 1469360464,
+      "name": "Agravain",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01205773cf38f3528c80aa256dd8456b274d48ade154528e942bf2140db6385a9cc70a",
+          "key_role": 1,
+          "sig_id": "f96da762579e14f74e998f6f6836d8583dbe57f3d2f85ddfefa5e662b66be3f20f"
+        },
+        {
+          "kid": "012188ec49973458ec29cd25bcb7339c701f5d89edb43c071d4b5f1e9bbff96d13170a",
+          "key_role": 2,
+          "sig_id": "03ec38b4f8ab56c858bba6ee8d672736933682b24126107ba80235e14fb2fff20f"
+        }
+      ]
+    },
     "532d1c9b47c6ea68c1c9f905165d7c18": {
       "type": "desktop",
       "ctime": 1468969937,
