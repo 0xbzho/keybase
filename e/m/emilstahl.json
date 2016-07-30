@@ -4,9 +4,9 @@
     "username": "emilstahl",
     "ctime": 1400828036,
     "mtime": 1400828036,
-    "id_version": 148,
-    "track_version": 17,
-    "last_id_change": 1469724349,
+    "id_version": 156,
+    "track_version": 21,
+    "last_id_change": 1469822221,
     "username_cased": "emilstahl"
   },
   "profile": {
@@ -38,16 +38,26 @@
       "0121539b4566dbc43100108419f457a1cdd30fa03eb70182d2574fe3f2ed5c3a50030a",
       "0120edfe7ad1a51d248e87b0816bd79f417a7e6cc5977c71be4ac333282952c818130a",
       "012118c67d738b46ddfee07e62d6325bfc7c7f4358c818db12eaed0d4aa52d1b91480a",
-      "01203eeb0a3c4ccae9a5d56c547fac68f58a916a8446001f5791ae81a4dd8ec1d29d0a"
+      "01203eeb0a3c4ccae9a5d56c547fac68f58a916a8446001f5791ae81a4dd8ec1d29d0a",
+      "01203693c4bccd717441e3581ae8543b4840955d8e87ccfc7e47e7498adc414a56340a",
+      "01213f4ae5791b632c609187e509c6e2a3e30161970cf0e3dac9ffef35afa56433260a",
+      "0121532786fac9843a7009320d681059fe78c3223032d768e6178b549b197bdae6570a",
+      "0120ab866de64b2a0a30804e39254b3815a5a5029b828243c50ff4e18ec391f025e40a",
+      "012134c77410c78f9e13f6586493707edab55b6c4a9d590617ae9b8efb4bfe05711d0a",
+      "01208ffcbfc465ee02e5a3a8f92818ad97ff478dcb85aba7412a5d1799d3322f29280a"
     ],
     "subkeys": [
-      "0121539b4566dbc43100108419f457a1cdd30fa03eb70182d2574fe3f2ed5c3a50030a",
-      "012118c67d738b46ddfee07e62d6325bfc7c7f4358c818db12eaed0d4aa52d1b91480a"
+      "012118c67d738b46ddfee07e62d6325bfc7c7f4358c818db12eaed0d4aa52d1b91480a",
+      "01213f4ae5791b632c609187e509c6e2a3e30161970cf0e3dac9ffef35afa56433260a",
+      "0121532786fac9843a7009320d681059fe78c3223032d768e6178b549b197bdae6570a",
+      "012134c77410c78f9e13f6586493707edab55b6c4a9d590617ae9b8efb4bfe05711d0a"
     ],
     "sibkeys": [
       "0101e5f48d46a94da7e3b5f3c454f68997211f956e171f2923b771da81fea71da40f0a",
-      "0120edfe7ad1a51d248e87b0816bd79f417a7e6cc5977c71be4ac333282952c818130a",
-      "01203eeb0a3c4ccae9a5d56c547fac68f58a916a8446001f5791ae81a4dd8ec1d29d0a"
+      "01203eeb0a3c4ccae9a5d56c547fac68f58a916a8446001f5791ae81a4dd8ec1d29d0a",
+      "01203693c4bccd717441e3581ae8543b4840955d8e87ccfc7e47e7498adc414a56340a",
+      "0120ab866de64b2a0a30804e39254b3815a5a5029b828243c50ff4e18ec391f025e40a",
+      "01208ffcbfc465ee02e5a3a8f92818ad97ff478dcb85aba7412a5d1799d3322f29280a"
     ],
     "families": {
       "0101e5f48d46a94da7e3b5f3c454f68997211f956e171f2923b771da81fea71da40f0a": [
@@ -55,7 +65,13 @@
         "0121539b4566dbc43100108419f457a1cdd30fa03eb70182d2574fe3f2ed5c3a50030a",
         "0120edfe7ad1a51d248e87b0816bd79f417a7e6cc5977c71be4ac333282952c818130a",
         "012118c67d738b46ddfee07e62d6325bfc7c7f4358c818db12eaed0d4aa52d1b91480a",
-        "01203eeb0a3c4ccae9a5d56c547fac68f58a916a8446001f5791ae81a4dd8ec1d29d0a"
+        "01203eeb0a3c4ccae9a5d56c547fac68f58a916a8446001f5791ae81a4dd8ec1d29d0a",
+        "01203693c4bccd717441e3581ae8543b4840955d8e87ccfc7e47e7498adc414a56340a",
+        "01213f4ae5791b632c609187e509c6e2a3e30161970cf0e3dac9ffef35afa56433260a",
+        "0121532786fac9843a7009320d681059fe78c3223032d768e6178b549b197bdae6570a",
+        "0120ab866de64b2a0a30804e39254b3815a5a5029b828243c50ff4e18ec391f025e40a",
+        "012134c77410c78f9e13f6586493707edab55b6c4a9d590617ae9b8efb4bfe05711d0a",
+        "01208ffcbfc465ee02e5a3a8f92818ad97ff478dcb85aba7412a5d1799d3322f29280a"
       ]
     },
     "eldest_kid": "0101e5f48d46a94da7e3b5f3c454f68997211f956e171f2923b771da81fea71da40f0a",
@@ -123,18 +139,6 @@
         },
         {
           "proof_type": "generic_web_site",
-          "nametag": "ipv6-adresse.dk",
-          "state": 1,
-          "proof_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
-          "sig_id": "c5bf99eae33a1b87b647c652eb90c1ab129ae44acbe04f1ff1f174a0f65c48aa0f",
-          "proof_id": "725771a1ea6f21794cd6e910",
-          "human_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
-          "service_url": "https://ipv6-adresse.dk",
-          "presentation_group": "ipv6-adresse.dk",
-          "presentation_tag": "https"
-        },
-        {
-          "proof_type": "generic_web_site",
           "nametag": "emilstahl.dk",
           "state": 1,
           "proof_url": "https://emilstahl.dk/.well-known/keybase.txt",
@@ -157,6 +161,18 @@
           "human_url": "dns://ipv6-adresse.dk",
           "service_url": "http://ipv6-adresse.dk",
           "presentation_group": "ipv6-adresse.dk",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "emilstahl.dk",
+          "state": 1,
+          "proof_url": "https://keybase.io/emilstahl/sigchain#9722fa99a690388a3893b9a68d5ba91c2b9c1af8789fe9ab2d1dcc5f5c0687070f",
+          "sig_id": "9722fa99a690388a3893b9a68d5ba91c2b9c1af8789fe9ab2d1dcc5f5c0687070f",
+          "proof_id": "2f0c46721090ee5774615310",
+          "human_url": "dns://emilstahl.dk",
+          "service_url": "http://emilstahl.dk",
+          "presentation_group": "emilstahl.dk",
           "presentation_tag": "dns"
         },
         {
@@ -266,32 +282,6 @@
           "presentation_tag": "dns"
         }
       ],
-      "ipv6-adresse.dk": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "ipv6-adresse.dk",
-          "state": 1,
-          "proof_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
-          "sig_id": "c5bf99eae33a1b87b647c652eb90c1ab129ae44acbe04f1ff1f174a0f65c48aa0f",
-          "proof_id": "725771a1ea6f21794cd6e910",
-          "human_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
-          "service_url": "https://ipv6-adresse.dk",
-          "presentation_group": "ipv6-adresse.dk",
-          "presentation_tag": "https"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "ipv6-adresse.dk",
-          "state": 1,
-          "proof_url": "https://keybase.io/emilstahl/sigchain#118f173f0ebae9b4a91adab8939e6bba649c5a21e4b8cb1b0f2fb5dec03bfb280f",
-          "sig_id": "118f173f0ebae9b4a91adab8939e6bba649c5a21e4b8cb1b0f2fb5dec03bfb280f",
-          "proof_id": "194425a92e562212ecc51e10",
-          "human_url": "dns://ipv6-adresse.dk",
-          "service_url": "http://ipv6-adresse.dk",
-          "presentation_group": "ipv6-adresse.dk",
-          "presentation_tag": "dns"
-        }
-      ],
       "emilstahl.dk": [
         {
           "proof_type": "generic_web_site",
@@ -304,6 +294,32 @@
           "service_url": "https://emilstahl.dk",
           "presentation_group": "emilstahl.dk",
           "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "emilstahl.dk",
+          "state": 1,
+          "proof_url": "https://keybase.io/emilstahl/sigchain#9722fa99a690388a3893b9a68d5ba91c2b9c1af8789fe9ab2d1dcc5f5c0687070f",
+          "sig_id": "9722fa99a690388a3893b9a68d5ba91c2b9c1af8789fe9ab2d1dcc5f5c0687070f",
+          "proof_id": "2f0c46721090ee5774615310",
+          "human_url": "dns://emilstahl.dk",
+          "service_url": "http://emilstahl.dk",
+          "presentation_group": "emilstahl.dk",
+          "presentation_tag": "dns"
+        }
+      ],
+      "ipv6-adresse.dk": [
+        {
+          "proof_type": "dns",
+          "nametag": "ipv6-adresse.dk",
+          "state": 1,
+          "proof_url": "https://keybase.io/emilstahl/sigchain#118f173f0ebae9b4a91adab8939e6bba649c5a21e4b8cb1b0f2fb5dec03bfb280f",
+          "sig_id": "118f173f0ebae9b4a91adab8939e6bba649c5a21e4b8cb1b0f2fb5dec03bfb280f",
+          "proof_id": "194425a92e562212ecc51e10",
+          "human_url": "dns://ipv6-adresse.dk",
+          "service_url": "http://ipv6-adresse.dk",
+          "presentation_group": "ipv6-adresse.dk",
+          "presentation_tag": "dns"
         }
       ],
       "stahl.xyz": [
@@ -386,6 +402,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "emilstahl.dk",
+        "state": 1,
+        "proof_url": "https://keybase.io/emilstahl/sigchain#9722fa99a690388a3893b9a68d5ba91c2b9c1af8789fe9ab2d1dcc5f5c0687070f",
+        "sig_id": "9722fa99a690388a3893b9a68d5ba91c2b9c1af8789fe9ab2d1dcc5f5c0687070f",
+        "proof_id": "2f0c46721090ee5774615310",
+        "human_url": "dns://emilstahl.dk",
+        "service_url": "http://emilstahl.dk",
+        "presentation_group": "emilstahl.dk",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "stahl.xyz",
         "state": 1,
         "proof_url": "https://keybase.io/emilstahl/sigchain#569f151f06ef1dfcdd2bb4c5b89d7fc81b566f7e79b2ce35bcc70494fff83ffa0f",
@@ -434,18 +462,6 @@
       },
       {
         "proof_type": "generic_web_site",
-        "nametag": "ipv6-adresse.dk",
-        "state": 1,
-        "proof_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
-        "sig_id": "c5bf99eae33a1b87b647c652eb90c1ab129ae44acbe04f1ff1f174a0f65c48aa0f",
-        "proof_id": "725771a1ea6f21794cd6e910",
-        "human_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
-        "service_url": "https://ipv6-adresse.dk",
-        "presentation_group": "ipv6-adresse.dk",
-        "presentation_tag": "https"
-      },
-      {
-        "proof_type": "generic_web_site",
         "nametag": "emilstahl.dk",
         "state": 1,
         "proof_url": "https://emilstahl.dk/.well-known/keybase.txt",
@@ -476,28 +492,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
-      "seqno": 55,
-      "payload_hash": "a5a2821862325e07b66e16425187f302bbe5f1fbb903522e6d749cb9f8fb88d6"
+      "sig_id": "27c377be71b7758c1574531ed3fce7ac98f6087d70d91f4ad0f3c88f52338fc60f",
+      "seqno": 67,
+      "payload_hash": "b70db1451893720d3a514667f33c367ac8e185a4990886a6f5108ce13c8bc733"
     }
   },
   "devices": {
-    "8bd1797f6126efc2c63d9b6a1f33e818": {
+    "3a89c742473e759ce637f7139e63ef18": {
       "type": "desktop",
-      "ctime": 1452486392,
-      "mtime": 1452486392,
-      "name": "MacBook Pro",
+      "ctime": 1469775033,
+      "mtime": 1469775033,
+      "name": "Mac",
       "status": 1,
       "keys": [
         {
-          "kid": "0120edfe7ad1a51d248e87b0816bd79f417a7e6cc5977c71be4ac333282952c818130a",
+          "kid": "01203693c4bccd717441e3581ae8543b4840955d8e87ccfc7e47e7498adc414a56340a",
           "key_role": 1,
-          "sig_id": "527a065106f910a1df2c780e654aa888cc89f2cff6fc32ea841c27bac7f62af00f"
+          "sig_id": "4c00384a3fac66eb48e2bd7be4a4274d3fb6ce2aa705d15306693245b914d0c00f"
         },
         {
-          "kid": "0121539b4566dbc43100108419f457a1cdd30fa03eb70182d2574fe3f2ed5c3a50030a",
+          "kid": "01213f4ae5791b632c609187e509c6e2a3e30161970cf0e3dac9ffef35afa56433260a",
           "key_role": 2,
-          "sig_id": "18c8459ac1fdcc946d3a3ba99740ebd2714938b7587b6e1360553e6ea802dc750f"
+          "sig_id": "bcf52be5a409c35e3d0d2f8e5684504ea965b013bad10c54214a52aa1e90536b0f"
         }
       ]
     },
@@ -517,6 +533,44 @@
           "kid": "012118c67d738b46ddfee07e62d6325bfc7c7f4358c818db12eaed0d4aa52d1b91480a",
           "key_role": 2,
           "sig_id": "474698832005c45e8fc73ae60e4df454a94ead07a64972896fa0520f8200d9330f"
+        }
+      ]
+    },
+    "b0529942d8d15ec8a20a5a70bdbc0918": {
+      "type": "desktop",
+      "ctime": 1469803039,
+      "mtime": 1469803039,
+      "name": "Zitcom",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ab866de64b2a0a30804e39254b3815a5a5029b828243c50ff4e18ec391f025e40a",
+          "key_role": 1,
+          "sig_id": "b2323875f689cfdc74d5300c0d077e518766d4b9bf0f833be4fa311d78a9eb7e0f"
+        },
+        {
+          "kid": "0121532786fac9843a7009320d681059fe78c3223032d768e6178b549b197bdae6570a",
+          "key_role": 2,
+          "sig_id": "f830e178d286d1902c3e32184598294b2630a0507fdc1eae22d6ae823a5a89f50f"
+        }
+      ]
+    },
+    "b96c50c9e17af0f7ecfdcaacacb6d418": {
+      "type": "desktop",
+      "ctime": 1469804160,
+      "mtime": 1469804160,
+      "name": "Digitalocean",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01208ffcbfc465ee02e5a3a8f92818ad97ff478dcb85aba7412a5d1799d3322f29280a",
+          "key_role": 1,
+          "sig_id": "8cd0751be935be9065cb8aa70672c5dfdeb04aa4428a920433cd17a66a054c4e0f"
+        },
+        {
+          "kid": "012134c77410c78f9e13f6586493707edab55b6c4a9d590617ae9b8efb4bfe05711d0a",
+          "key_role": 2,
+          "sig_id": "f284621828990f6b6e05bfd3512f3e91aa717e531b6b613d61e6cd3a60b6747b0f"
         }
       ]
     }
