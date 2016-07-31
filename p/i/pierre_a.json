@@ -1,0 +1,98 @@
+{
+  "id": "bd2a763f42173a602f55a7cb497fd319",
+  "basics": {
+    "username": "pierre_a",
+    "ctime": 1468944289,
+    "mtime": 1468944289,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1468944403,
+    "username_cased": "pierre_a"
+  },
+  "profile": {
+    "mtime": 1468944573,
+    "full_name": "Pierre Ammeloot",
+    "location": "Lyon, France",
+    "bio": null
+  },
+  "public_keys": {
+    "all_bundles": [
+      "01212a80ec076da5cda9adc637b554a55c2253bace7f87f8dcb409db7ab36f1be4740a",
+      "01201ba5331e7d0a2b91435c2a95e1c2d29dd543cfe34d24a2f114af2278e41179da0a",
+      "01208dacf6f2402989428640851ae6c84a1face0a8f745467e469c58eef4bfacc24c0a",
+      "01214a024d22e3dc7533df18e32c49089b79317f090f35330242e480f94dd9deb80e0a"
+    ],
+    "subkeys": [
+      "01212a80ec076da5cda9adc637b554a55c2253bace7f87f8dcb409db7ab36f1be4740a",
+      "01214a024d22e3dc7533df18e32c49089b79317f090f35330242e480f94dd9deb80e0a"
+    ],
+    "sibkeys": [
+      "01201ba5331e7d0a2b91435c2a95e1c2d29dd543cfe34d24a2f114af2278e41179da0a",
+      "01208dacf6f2402989428640851ae6c84a1face0a8f745467e469c58eef4bfacc24c0a"
+    ],
+    "families": {
+      "01201ba5331e7d0a2b91435c2a95e1c2d29dd543cfe34d24a2f114af2278e41179da0a": [
+        "01212a80ec076da5cda9adc637b554a55c2253bace7f87f8dcb409db7ab36f1be4740a",
+        "01201ba5331e7d0a2b91435c2a95e1c2d29dd543cfe34d24a2f114af2278e41179da0a",
+        "01208dacf6f2402989428640851ae6c84a1face0a8f745467e469c58eef4bfacc24c0a",
+        "01214a024d22e3dc7533df18e32c49089b79317f090f35330242e480f94dd9deb80e0a"
+      ]
+    },
+    "eldest_kid": "01201ba5331e7d0a2b91435c2a95e1c2d29dd543cfe34d24a2f114af2278e41179da0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "3c28db38520d0399168cb44beb1944e90c3b0109544fca962fda8dc2118155550f",
+      "seqno": 4,
+      "payload_hash": "258420f979c042d4fac6c134df7af54d930bd14b164743a133e3ee6299a899a5"
+    }
+  },
+  "devices": {
+    "74b9d8517e0e6541f34f7998e3414118": {
+      "type": "desktop",
+      "ctime": 1468944402,
+      "mtime": 1468944402,
+      "name": "Mac Pierre",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201ba5331e7d0a2b91435c2a95e1c2d29dd543cfe34d24a2f114af2278e41179da0a",
+          "key_role": 1,
+          "sig_id": "3f7468a44e82b97f781f7065b36dc6f86695510b06ae154477432595d03622470f"
+        },
+        {
+          "kid": "01212a80ec076da5cda9adc637b554a55c2253bace7f87f8dcb409db7ab36f1be4740a",
+          "key_role": 2,
+          "sig_id": "cbad6bc294933afd37c63fdeb247bcc0d5068d5c55f049a779e53629eaca45160f"
+        }
+      ]
+    },
+    "f44131a47b788d4f00bfb3d7e2a6f218": {
+      "type": "backup",
+      "ctime": 1468944403,
+      "mtime": 1468944403,
+      "name": "mixture prize",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01208dacf6f2402989428640851ae6c84a1face0a8f745467e469c58eef4bfacc24c0a",
+          "key_role": 1,
+          "sig_id": "636ef421d3fb4fda90d3b8c75d2217094781d88f5641071283cac0a3e86b5e8c0f"
+        },
+        {
+          "kid": "01214a024d22e3dc7533df18e32c49089b79317f090f35330242e480f94dd9deb80e0a",
+          "key_role": 2,
+          "sig_id": "3c28db38520d0399168cb44beb1944e90c3b0109544fca962fda8dc2118155550f"
+        }
+      ]
+    }
+  }
+}
