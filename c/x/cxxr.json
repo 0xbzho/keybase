@@ -4,16 +4,16 @@
     "username": "cxxr",
     "ctime": 1407953791,
     "mtime": 1407953791,
-    "id_version": 19,
-    "track_version": 0,
-    "last_id_change": 1467298072,
+    "id_version": 21,
+    "track_version": 1,
+    "last_id_change": 1469894952,
     "username_cased": "cxxr"
   },
   "profile": {
-    "mtime": 1447105977,
+    "mtime": 1469894613,
     "full_name": "Sean Cassidy",
     "location": "Seattle, WA",
-    "bio": "CTO, Praesidio"
+    "bio": "CTO, DefenseStorm"
   },
   "public_keys": {
     "primary": {
@@ -40,18 +40,22 @@
       "0121c545b6222202ddcab6a6d291bdc4122875064965d28c4b39ed8c503251801c180a",
       "01204b58241a2e9ff3a60059fd08bfeb7440f7587e258ade1459a282cfa3b5a36e9b0a",
       "01211d88292ca4d2b14e5c14c9bd82320f04a38a9f8083d7b9f76be85bf7b2cba0390a",
-      "012006c3e18b6feba4d695043c34078c15794c1a5506c027dbb70014a0f7a303dce60a"
+      "012006c3e18b6feba4d695043c34078c15794c1a5506c027dbb70014a0f7a303dce60a",
+      "01208bada5d60e2e1c7396012e548f07da1df5e20c9df18511619d005b05ba2d6d390a",
+      "01211d1f358226d8616cd58fec079258d1ab0d91cb72f4d51335f2437f95318266340a"
     ],
     "subkeys": [
       "01216f31f959a1674088b20d61e7ce9eaaac05cc833401fb65527b384a8c8c97ea040a",
       "0121c545b6222202ddcab6a6d291bdc4122875064965d28c4b39ed8c503251801c180a",
-      "01211d88292ca4d2b14e5c14c9bd82320f04a38a9f8083d7b9f76be85bf7b2cba0390a"
+      "01211d88292ca4d2b14e5c14c9bd82320f04a38a9f8083d7b9f76be85bf7b2cba0390a",
+      "01211d1f358226d8616cd58fec079258d1ab0d91cb72f4d51335f2437f95318266340a"
     ],
     "sibkeys": [
       "01010c9f38aa69ae77bdd53ede57f74b0cd79d23f9317c0d94568319d38865934a4a0a",
       "01200b9d4017d6f186172cd5a8bfd931c8e61321bed5370541f6ed1a19943ecb9e8e0a",
       "01204b58241a2e9ff3a60059fd08bfeb7440f7587e258ade1459a282cfa3b5a36e9b0a",
-      "012006c3e18b6feba4d695043c34078c15794c1a5506c027dbb70014a0f7a303dce60a"
+      "012006c3e18b6feba4d695043c34078c15794c1a5506c027dbb70014a0f7a303dce60a",
+      "01208bada5d60e2e1c7396012e548f07da1df5e20c9df18511619d005b05ba2d6d390a"
     ],
     "families": {
       "01010c9f38aa69ae77bdd53ede57f74b0cd79d23f9317c0d94568319d38865934a4a0a": [
@@ -61,7 +65,9 @@
         "0121c545b6222202ddcab6a6d291bdc4122875064965d28c4b39ed8c503251801c180a",
         "01204b58241a2e9ff3a60059fd08bfeb7440f7587e258ade1459a282cfa3b5a36e9b0a",
         "01211d88292ca4d2b14e5c14c9bd82320f04a38a9f8083d7b9f76be85bf7b2cba0390a",
-        "012006c3e18b6feba4d695043c34078c15794c1a5506c027dbb70014a0f7a303dce60a"
+        "012006c3e18b6feba4d695043c34078c15794c1a5506c027dbb70014a0f7a303dce60a",
+        "01208bada5d60e2e1c7396012e548f07da1df5e20c9df18511619d005b05ba2d6d390a",
+        "01211d1f358226d8616cd58fec079258d1ab0d91cb72f4d51335f2437f95318266340a"
       ]
     },
     "eldest_kid": "01010c9f38aa69ae77bdd53ede57f74b0cd79d23f9317c0d94568319d38865934a4a0a",
@@ -249,12 +255,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "6c05a05da45d1ca6da4869370a9a77f5666c4381c1377c0c6e9bbefae8d5bcfe0f",
-      "seqno": 11,
-      "payload_hash": "ccadfa6afdb55d4df5a81fbdcbfc3bc0a122b3748918044fd870870ad7beb044"
+      "sig_id": "d4f270540a1702f3862d3b580c921f54477cdb4be3d75f2a4cd815d342ddfcc60f",
+      "seqno": 14,
+      "payload_hash": "5f7e1af8515525f2f4704a3f0707fdc790bd76d72c026b4807fb5915acc75be9"
     }
   },
   "devices": {
+    "65e134771c2d24aa40bd2c1ed1f91b18": {
+      "type": "desktop",
+      "ctime": 1469894952,
+      "mtime": 1469894952,
+      "name": "mylaptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01208bada5d60e2e1c7396012e548f07da1df5e20c9df18511619d005b05ba2d6d390a",
+          "key_role": 1,
+          "sig_id": "76be4e40d3c0456eaf74767310708c8df4ee020ad36db06acf639ae9a4592edb0f"
+        },
+        {
+          "kid": "01211d1f358226d8616cd58fec079258d1ab0d91cb72f4d51335f2437f95318266340a",
+          "key_role": 2,
+          "sig_id": "ee94200d6ea8a3c97876f6a5e8d309f78bb561269ac154a7abc8277a668535b50f"
+        }
+      ]
+    },
     "a087e5776de924795a122e000989b318": {
       "type": "desktop",
       "ctime": 1454783351,
