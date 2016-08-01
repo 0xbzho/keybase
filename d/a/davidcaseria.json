@@ -4,9 +4,9 @@
     "username": "davidcaseria",
     "ctime": 1439735349,
     "mtime": 1439735349,
-    "id_version": 49,
+    "id_version": 52,
     "track_version": 4,
-    "last_id_change": 1467451274,
+    "last_id_change": 1469922229,
     "username_cased": "davidcaseria"
   },
   "profile": {
@@ -40,16 +40,20 @@
       "0120f205cf9f214a996381768975698f1c3e3a819ff1775c006ab70335e50231413e0a",
       "0121faab1cbafac44122e3d7fbe5c218cdba7bd2458646134b797c8024c609ee542d0a",
       "01213014f093de2aa8719f805d149a618b8b62779e8bac478ac73a5371ea278f58590a",
-      "0120a053cc7b9d112e4dd76abcb7539b106396fa7495d1cec3b3c191970deb5fbe1f0a"
+      "0120a053cc7b9d112e4dd76abcb7539b106396fa7495d1cec3b3c191970deb5fbe1f0a",
+      "012086ef3893fa2f528e7168b849d8a47b7dc2032442b2e8eee72dbbdc2451d607f40a",
+      "01212d521379b960232959026b7f0adc3a781ffdf76990ef9560e8e318213d9004660a"
     ],
     "subkeys": [
       "0121faab1cbafac44122e3d7fbe5c218cdba7bd2458646134b797c8024c609ee542d0a",
-      "01213014f093de2aa8719f805d149a618b8b62779e8bac478ac73a5371ea278f58590a"
+      "01213014f093de2aa8719f805d149a618b8b62779e8bac478ac73a5371ea278f58590a",
+      "01212d521379b960232959026b7f0adc3a781ffdf76990ef9560e8e318213d9004660a"
     ],
     "sibkeys": [
       "0101224e8dbf4e9fa4e2a707689c800848bbbce759f157a148a2674407d3523a87ab0a",
       "0120f205cf9f214a996381768975698f1c3e3a819ff1775c006ab70335e50231413e0a",
-      "0120a053cc7b9d112e4dd76abcb7539b106396fa7495d1cec3b3c191970deb5fbe1f0a"
+      "0120a053cc7b9d112e4dd76abcb7539b106396fa7495d1cec3b3c191970deb5fbe1f0a",
+      "012086ef3893fa2f528e7168b849d8a47b7dc2032442b2e8eee72dbbdc2451d607f40a"
     ],
     "families": {
       "0101224e8dbf4e9fa4e2a707689c800848bbbce759f157a148a2674407d3523a87ab0a": [
@@ -59,7 +63,9 @@
         "0120f205cf9f214a996381768975698f1c3e3a819ff1775c006ab70335e50231413e0a",
         "0121faab1cbafac44122e3d7fbe5c218cdba7bd2458646134b797c8024c609ee542d0a",
         "01213014f093de2aa8719f805d149a618b8b62779e8bac478ac73a5371ea278f58590a",
-        "0120a053cc7b9d112e4dd76abcb7539b106396fa7495d1cec3b3c191970deb5fbe1f0a"
+        "0120a053cc7b9d112e4dd76abcb7539b106396fa7495d1cec3b3c191970deb5fbe1f0a",
+        "012086ef3893fa2f528e7168b849d8a47b7dc2032442b2e8eee72dbbdc2451d607f40a",
+        "01212d521379b960232959026b7f0adc3a781ffdf76990ef9560e8e318213d9004660a"
       ]
     },
     "eldest_kid": "0101224e8dbf4e9fa4e2a707689c800848bbbce759f157a148a2674407d3523a87ab0a",
@@ -286,7 +292,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/8047a8614bd35871d49874b2aed2f905_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/fd64a711036f901661410b3037550b05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -294,12 +300,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "6c3de1934df99fcca823005d8285862e9d9009e83468e8e6ab0c43c2f0e908e70f",
-      "seqno": 15,
-      "payload_hash": "9ae4c5d03bd21f7a4ba9488148b732793189cc79214694453d0c764acf353256"
+      "sig_id": "083e1f58526fc98fb95ed35b05b99d19ab210c4802d7b7f10560e8c0015523800f",
+      "seqno": 17,
+      "payload_hash": "dc79e7d7c931771b9402d278d5d67567f2ccf57d935a94a84ad98402d152058e"
     }
   },
   "devices": {
+    "0338a610bf3c628623cff0951d4a8718": {
+      "type": "desktop",
+      "ctime": 1469922229,
+      "mtime": 1469922229,
+      "name": "Work MacBook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012086ef3893fa2f528e7168b849d8a47b7dc2032442b2e8eee72dbbdc2451d607f40a",
+          "key_role": 1,
+          "sig_id": "381e5cb1771a52dc9be1799343971949dd340a54a076291a3b46f90789a73bdd0f"
+        },
+        {
+          "kid": "01212d521379b960232959026b7f0adc3a781ffdf76990ef9560e8e318213d9004660a",
+          "key_role": 2,
+          "sig_id": "083e1f58526fc98fb95ed35b05b99d19ab210c4802d7b7f10560e8c0015523800f"
+        }
+      ]
+    },
     "53fd7c4ec2a437807f66fa5daa1ffb18": {
       "type": "backup",
       "ctime": 1456628791,
