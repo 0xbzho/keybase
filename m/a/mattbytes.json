@@ -4,15 +4,15 @@
     "username": "mattbytes",
     "ctime": 1468004309,
     "mtime": 1468004309,
-    "id_version": 10,
+    "id_version": 17,
     "track_version": 4,
-    "last_id_change": 1468267310,
+    "last_id_change": 1469727921,
     "username_cased": "mattbytes"
   },
   "profile": {
-    "mtime": 1468004404,
+    "mtime": 1469640302,
     "full_name": "Matthew Singer",
-    "location": null,
+    "location": "San Francisco, CA, USA",
     "bio": null
   },
   "public_keys": {
@@ -93,6 +93,20 @@
           "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "mattsinger.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/mattbytes/sigchain#bebc9de89094bb85645763f7b6335043390daef4761ce5b233df0600a108fb420f",
+          "sig_id": "bebc9de89094bb85645763f7b6335043390daef4761ce5b233df0600a108fb420f",
+          "proof_id": "88375db072adb47f23ad2610",
+          "human_url": "dns://mattsinger.com",
+          "service_url": "http://mattsinger.com",
+          "presentation_group": "mattsinger.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -123,6 +137,20 @@
           "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
+      ],
+      "mattsinger.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "mattsinger.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/mattbytes/sigchain#bebc9de89094bb85645763f7b6335043390daef4761ce5b233df0600a108fb420f",
+          "sig_id": "bebc9de89094bb85645763f7b6335043390daef4761ce5b233df0600a108fb420f",
+          "proof_id": "88375db072adb47f23ad2610",
+          "human_url": "dns://mattsinger.com",
+          "service_url": "http://mattsinger.com",
+          "presentation_group": "mattsinger.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -149,10 +177,29 @@
         "service_url": "https://coinbase.com/mattbytes",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "mattsinger.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/mattbytes/sigchain#bebc9de89094bb85645763f7b6335043390daef4761ce5b233df0600a108fb420f",
+        "sig_id": "bebc9de89094bb85645763f7b6335043390daef4761ce5b233df0600a108fb420f",
+        "proof_id": "88375db072adb47f23ad2610",
+        "human_url": "dns://mattsinger.com",
+        "service_url": "http://mattsinger.com",
+        "presentation_group": "mattsinger.com",
+        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1NSNThNNaZb82ppEwzVnVQpT1g7b2zmVJf",
+        "sig_id": "019b5f97351d1f29358d7876b714f088dd670b6f57c7077f14cc100f9d3458470f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/0cfea282a1b953bc4ece5b089be75905_360_360_square_360.jpeg",
@@ -163,9 +210,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d77b27cfb78c056d2841f40b22dd648395d942800fb7b8858b72f56257baf1ce0f",
-      "seqno": 12,
-      "payload_hash": "78a0c151c8d5589297b9ebfb142779e670723874a76df37f10cfeb998eaf5da4"
+      "sig_id": "bebc9de89094bb85645763f7b6335043390daef4761ce5b233df0600a108fb420f",
+      "seqno": 15,
+      "payload_hash": "f52e14445f111dad867adcc01457d0f2f7873a91240e5375226d8fdd800df7ea"
     }
   },
   "devices": {
