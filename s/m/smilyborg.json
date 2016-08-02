@@ -4,9 +4,9 @@
     "username": "smilyborg",
     "ctime": 1412711634,
     "mtime": 1412711634,
-    "id_version": 32,
+    "id_version": 35,
     "track_version": 4,
-    "last_id_change": 1468568184,
+    "last_id_change": 1470115910,
     "username_cased": "SmilyBorg"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "012033916d8cb585adb014ee09007b6c7832e6c8d7b5c27195127a8890ccfa68ba0a0a",
       "0121839ac36e7fd7ce087ade1337176774251564d650b6b2f02899730bb2ec234e220a",
       "01208561e7a373a29efaf9a8aad3448d8a8704ca613369c64c55d4965aea66e9197f0a",
-      "01210db2297477a6c477b6f1b0764c4faf915ade94b58c9d815618918f143b5030490a"
+      "01210db2297477a6c477b6f1b0764c4faf915ade94b58c9d815618918f143b5030490a",
+      "01200183d8e96b0e5a3e4b9a656fe6de98f9cc476046b4381f323a726f9c465c095c0a",
+      "0121349113a713cc7cb214917d192b209c47c640590858a63af7ad4ebddece81ca420a"
     ],
     "subkeys": [
       "0121839ac36e7fd7ce087ade1337176774251564d650b6b2f02899730bb2ec234e220a",
-      "01210db2297477a6c477b6f1b0764c4faf915ade94b58c9d815618918f143b5030490a"
+      "01210db2297477a6c477b6f1b0764c4faf915ade94b58c9d815618918f143b5030490a",
+      "0121349113a713cc7cb214917d192b209c47c640590858a63af7ad4ebddece81ca420a"
     ],
     "sibkeys": [
       "0101e835ac2bedba5a22c4a727186ff3f9d909684969385790fe59c98303137560110a",
       "012033916d8cb585adb014ee09007b6c7832e6c8d7b5c27195127a8890ccfa68ba0a0a",
-      "01208561e7a373a29efaf9a8aad3448d8a8704ca613369c64c55d4965aea66e9197f0a"
+      "01208561e7a373a29efaf9a8aad3448d8a8704ca613369c64c55d4965aea66e9197f0a",
+      "01200183d8e96b0e5a3e4b9a656fe6de98f9cc476046b4381f323a726f9c465c095c0a"
     ],
     "families": {
       "0101e835ac2bedba5a22c4a727186ff3f9d909684969385790fe59c98303137560110a": [
@@ -55,7 +59,9 @@
         "012033916d8cb585adb014ee09007b6c7832e6c8d7b5c27195127a8890ccfa68ba0a0a",
         "0121839ac36e7fd7ce087ade1337176774251564d650b6b2f02899730bb2ec234e220a",
         "01208561e7a373a29efaf9a8aad3448d8a8704ca613369c64c55d4965aea66e9197f0a",
-        "01210db2297477a6c477b6f1b0764c4faf915ade94b58c9d815618918f143b5030490a"
+        "01210db2297477a6c477b6f1b0764c4faf915ade94b58c9d815618918f143b5030490a",
+        "01200183d8e96b0e5a3e4b9a656fe6de98f9cc476046b4381f323a726f9c465c095c0a",
+        "0121349113a713cc7cb214917d192b209c47c640590858a63af7ad4ebddece81ca420a"
       ]
     },
     "eldest_kid": "0101e835ac2bedba5a22c4a727186ff3f9d909684969385790fe59c98303137560110a",
@@ -92,6 +98,20 @@
           "service_url": "https://github.com/SmilyBorg",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/SmilyBorg",
+          "state": 1,
+          "proof_url": "https://coinbase.com/SmilyBorg/public-key",
+          "sig_id": "9f9588c8c57bf4ebe47a86a8b6f3efcda6c980346bde17d981f0914ddc78cca10f",
+          "proof_id": "4b2cad55fd51d91f95d6c210",
+          "human_url": "https://coinbase.com/SmilyBorg/public-key",
+          "service_url": "https://coinbase.com/SmilyBorg",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
         }
       ],
       "generic_web_site": [
@@ -152,6 +172,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/SmilyBorg",
+          "state": 1,
+          "proof_url": "https://coinbase.com/SmilyBorg/public-key",
+          "sig_id": "9f9588c8c57bf4ebe47a86a8b6f3efcda6c980346bde17d981f0914ddc78cca10f",
+          "proof_id": "4b2cad55fd51d91f95d6c210",
+          "human_url": "https://coinbase.com/SmilyBorg/public-key",
+          "service_url": "https://coinbase.com/SmilyBorg",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "strangeminds.org": [
         {
           "proof_type": "generic_web_site",
@@ -205,6 +239,18 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/SmilyBorg",
+        "state": 1,
+        "proof_url": "https://coinbase.com/SmilyBorg/public-key",
+        "sig_id": "9f9588c8c57bf4ebe47a86a8b6f3efcda6c980346bde17d981f0914ddc78cca10f",
+        "proof_id": "4b2cad55fd51d91f95d6c210",
+        "human_url": "https://coinbase.com/SmilyBorg/public-key",
+        "service_url": "https://coinbase.com/SmilyBorg",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "dns",
         "nametag": "strangeminds.org",
         "state": 1,
@@ -241,9 +287,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "027a14a967d54abe57430f6eec8731e200d6048da6f8ad3259acd27c488d0ea00f",
-      "seqno": 13,
-      "payload_hash": "e074718dfaa3a6c0189296cdd71f43b3953e046084852e97d302a400439f411f"
+      "sig_id": "9f9588c8c57bf4ebe47a86a8b6f3efcda6c980346bde17d981f0914ddc78cca10f",
+      "seqno": 16,
+      "payload_hash": "1fc0fdc8813b813dc6fd6067557ff7adae0504d400d5b2c2df9477f724cbf2ce"
     }
   },
   "devices": {
@@ -282,6 +328,25 @@
           "kid": "01210db2297477a6c477b6f1b0764c4faf915ade94b58c9d815618918f143b5030490a",
           "key_role": 2,
           "sig_id": "1594cc6cb82e75eb3cc2dd1739c1a11100127c55f0a41450e4d54bc5d2b4e6790f"
+        }
+      ]
+    },
+    "bf594d9731816540c5c85d9e40651118": {
+      "type": "desktop",
+      "ctime": 1470115321,
+      "mtime": 1470115321,
+      "name": "Work-Laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01200183d8e96b0e5a3e4b9a656fe6de98f9cc476046b4381f323a726f9c465c095c0a",
+          "key_role": 1,
+          "sig_id": "204f5e1016fbc6f3129b32fbfe98e907389a65fba2662ffbaafaab3c63a3cb4f0f"
+        },
+        {
+          "kid": "0121349113a713cc7cb214917d192b209c47c640590858a63af7ad4ebddece81ca420a",
+          "key_role": 2,
+          "sig_id": "0f47df8902fbed089b1b1bac189fc8583fb197134db12befd2e21d534815493b0f"
         }
       ]
     }
