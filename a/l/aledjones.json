@@ -5,14 +5,14 @@
     "ctime": 1460055101,
     "mtime": 1460055101,
     "id_version": 101,
-    "track_version": 8,
+    "track_version": 10,
     "last_id_change": 1469482769,
     "username_cased": "aledjones"
   },
   "profile": {
-    "mtime": 1460055546,
+    "mtime": 1470210084,
     "full_name": "Jonas Möller",
-    "location": "Ramstein-Miesenbach, Germany",
+    "location": "Würzburg, Germany",
     "bio": "Some random nerd // 19 // learning Welsh for no good reason"
   },
   "public_keys": {
@@ -49,7 +49,6 @@
     "subkeys": [
       "01212b0428011565caca5b6bc0fe0a1ddb8b8ce2a7fc8d6b097dd220d807e2ef953a0a",
       "012187b53dbe6ad2109e5c455b517d1155dce31a009589fb9596c6acc2cc6ed88f100a",
-      "012155d9bb14e3a14a034481b26f912597864c18550425b7133cdc1e4c5c40c2df0d0a",
       "0121e339721f6d3d23ec0107c02da10dc1196ed5ca7266c81f5a0e84d084d047f3310a",
       "0121ad158a190395b15590fc25b6d4d153a22a4c088cf56d79cf275cc2ecaa64d71e0a"
     ],
@@ -57,7 +56,6 @@
       "010106d5785e718c68c7c98f43e884b4026b0600891fc790b74ba88aaa075b0dca0f0a",
       "0120f462553f86338d826f09cca4e2b88557f6c0e1630ac77556b5f72e1d0cb5b1250a",
       "01202496c696c7b4fc4a093296c2a25a57ae6c1ddd0019bdd00d46764378243b9fb80a",
-      "0120f865181964f2cd17255de2cc351ceb43219ba5fdb5a8af60e1106786cba257870a",
       "0120de64a051962502e50c55d3999654bdd7d77d1e4cf5e76fa95765b00fcb9abfab0a",
       "01208660a83c20979ade72c38e7076701ff3a0e8d59c4b213a01bcec2bc2797e45f90a"
     ],
@@ -402,20 +400,27 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "14TjNFnYGPAXt3wpmgQCWz2z3g4q3LjZTn",
+        "sig_id": "c7177f55aa4892545e7447db6827db4391d6a4a5475aed9b561d9c785cfeba920f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/5cfde858bc74fbf843e882cde3d77305_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/3c1bb2c5af45e51cfd4927c1b496ac05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "ab9a8ebb0527e2750c44028e531aa2cb7395ecd39af1658326079862f8aa8b690f",
-      "seqno": 42,
-      "payload_hash": "25f2def37301886b1dbba66b3543bcd8def4df2d7729de18b3147f0ceaa4fcb5"
+      "sig_id": "c7177f55aa4892545e7447db6827db4391d6a4a5475aed9b561d9c785cfeba920f",
+      "seqno": 46,
+      "payload_hash": "df9c10f081c09e77b0360cf6b2c242da0ebdb36dcbf2792fcacaad745b962746"
     }
   },
   "devices": {
@@ -473,25 +478,6 @@
           "kid": "0121e339721f6d3d23ec0107c02da10dc1196ed5ca7266c81f5a0e84d084d047f3310a",
           "key_role": 2,
           "sig_id": "36d1a097bf9742a8c8f838a1a6db952f828cae9b55d9b5b47abce73bd77a841b0f"
-        }
-      ]
-    },
-    "8170149b5005ae2bcc5b9d790fb2f318": {
-      "type": "desktop",
-      "ctime": 1462697028,
-      "mtime": 1462697028,
-      "name": "VPS",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120f865181964f2cd17255de2cc351ceb43219ba5fdb5a8af60e1106786cba257870a",
-          "key_role": 1,
-          "sig_id": "65d36ea15d6207be630241ed4a252a07be51da97ada1ba0d9d5360d8aea55f650f"
-        },
-        {
-          "kid": "012155d9bb14e3a14a034481b26f912597864c18550425b7133cdc1e4c5c40c2df0d0a",
-          "key_role": 2,
-          "sig_id": "7c5337988aab84dad466eb9a2d95b00f58cc2640028dbbe279d0042c0d3355580f"
         }
       ]
     },
