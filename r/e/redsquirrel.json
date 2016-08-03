@@ -4,9 +4,9 @@
     "username": "redsquirrel",
     "ctime": 1452711652,
     "mtime": 1452711652,
-    "id_version": 26,
+    "id_version": 27,
     "track_version": 5,
-    "last_id_change": 1467914078,
+    "last_id_change": 1470220164,
     "username_cased": "redsquirrel"
   },
   "profile": {
@@ -38,14 +38,18 @@
       "01209c46a5c9296b4284c983959fb99c78ae9371add229bfb70581f0b12cad43e4e70a",
       "0121179da658bfcf82e5c1e5903b3af5fca2240c27fc712aae39c76bc09963a02e0d0a",
       "012171e8fed39a15c2ccbdeb0bf16896a3c288e7f1004646a9dcaf595d22f32ea0490a",
-      "0120ad1b1f7562b559f516ebdf0d8631c252bb92c220049d94950b81309f4a12a7fd0a"
+      "0120ad1b1f7562b559f516ebdf0d8631c252bb92c220049d94950b81309f4a12a7fd0a",
+      "01214576ee10f47682ea6b2c19b84e27649fb441112df2cd27c88bae93f47859b5390a",
+      "0120374806bc3bd471767edcbb8e655370200c1aa572d3e4a5c7d108b302445a6ca50a"
     ],
     "subkeys": [
-      "0121179da658bfcf82e5c1e5903b3af5fca2240c27fc712aae39c76bc09963a02e0d0a"
+      "0121179da658bfcf82e5c1e5903b3af5fca2240c27fc712aae39c76bc09963a02e0d0a",
+      "01214576ee10f47682ea6b2c19b84e27649fb441112df2cd27c88bae93f47859b5390a"
     ],
     "sibkeys": [
       "01019e8994836c01e5ef19938f334cfb18bcc91767500c4799e1f23ca0735f001ac60a",
-      "01209c46a5c9296b4284c983959fb99c78ae9371add229bfb70581f0b12cad43e4e70a"
+      "01209c46a5c9296b4284c983959fb99c78ae9371add229bfb70581f0b12cad43e4e70a",
+      "0120374806bc3bd471767edcbb8e655370200c1aa572d3e4a5c7d108b302445a6ca50a"
     ],
     "families": {
       "01019e8994836c01e5ef19938f334cfb18bcc91767500c4799e1f23ca0735f001ac60a": [
@@ -53,7 +57,9 @@
         "01209c46a5c9296b4284c983959fb99c78ae9371add229bfb70581f0b12cad43e4e70a",
         "0121179da658bfcf82e5c1e5903b3af5fca2240c27fc712aae39c76bc09963a02e0d0a",
         "012171e8fed39a15c2ccbdeb0bf16896a3c288e7f1004646a9dcaf595d22f32ea0490a",
-        "0120ad1b1f7562b559f516ebdf0d8631c252bb92c220049d94950b81309f4a12a7fd0a"
+        "0120ad1b1f7562b559f516ebdf0d8631c252bb92c220049d94950b81309f4a12a7fd0a",
+        "01214576ee10f47682ea6b2c19b84e27649fb441112df2cd27c88bae93f47859b5390a",
+        "0120374806bc3bd471767edcbb8e655370200c1aa572d3e4a5c7d108b302445a6ca50a"
       ]
     },
     "eldest_kid": "01019e8994836c01e5ef19938f334cfb18bcc91767500c4799e1f23ca0735f001ac60a",
@@ -288,12 +294,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7cf7b2aa65f7b9ac9f8ab04a62943fcef942f32098acbc49298d13379e3cff670f",
-      "seqno": 21,
-      "payload_hash": "78bfff2d896549ae96a1f7b4577dc755a63122c0f3e83ef9dcb2565d6775d190"
+      "sig_id": "ada3f66df69225be01a4f13d4bc064ccab1027943bb0f43d2ffb3a8929d8c61c0f",
+      "seqno": 23,
+      "payload_hash": "adb78339dd17c218459dbec3b14a139aa1db6779571fe7003b82fc6446eeaeb9"
     }
   },
   "devices": {
+    "e3f1ced33ac860f97194cda1796d7018": {
+      "type": "desktop",
+      "ctime": 1470220164,
+      "mtime": 1470220164,
+      "name": "redsquirrel-raise",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120374806bc3bd471767edcbb8e655370200c1aa572d3e4a5c7d108b302445a6ca50a",
+          "key_role": 1,
+          "sig_id": "3e06b49d63156b121cc499e1bba884bd46cbe28b78fa8566ec2da6d7251476580f"
+        },
+        {
+          "kid": "01214576ee10f47682ea6b2c19b84e27649fb441112df2cd27c88bae93f47859b5390a",
+          "key_role": 2,
+          "sig_id": "ada3f66df69225be01a4f13d4bc064ccab1027943bb0f43d2ffb3a8929d8c61c0f"
+        }
+      ]
+    },
     "f57c53c51104591d1d045e8dc6234e18": {
       "type": "desktop",
       "ctime": 1467030767,
