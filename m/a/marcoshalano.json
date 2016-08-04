@@ -4,9 +4,9 @@
     "username": "marcoshalano",
     "ctime": 1417204682,
     "mtime": 1417204682,
-    "id_version": 35,
+    "id_version": 36,
     "track_version": 2,
-    "last_id_change": 1468083215,
+    "last_id_change": 1470283678,
     "username_cased": "marcoshalano"
   },
   "public_keys": {
@@ -16,14 +16,14 @@
       "012156e290f98e3d057d44ec6bc2e58bb1500120f865a97bad38861c2aa368d16e580a",
       "012079bc81af1c8e6ce55809e9158099a8fe42a9e11eaaa47283812b6c5a40d571280a",
       "0121292a96e74e47ca0794cbcb537b2c534cb900c47958d13f70a2f24ddad7c7ec210a",
-      "01205e5a6d7712b133d0676bdac0bf831e0a6c640d6b95ddf80f0ff84a85a799f2060a"
+      "01205e5a6d7712b133d0676bdac0bf831e0a6c640d6b95ddf80f0ff84a85a799f2060a",
+      "01201ef75b1e6f2a05661f0ca80b516a1eb9848855a01b422b76d05891da8dd8c2ea0a",
+      "01210bec4d6f69820d95e113819ce8152536ebee627dabbcb8035350e6bb2a0b096d0a"
     ],
     "subkeys": [
-      "012156e290f98e3d057d44ec6bc2e58bb1500120f865a97bad38861c2aa368d16e580a",
       "0121292a96e74e47ca0794cbcb537b2c534cb900c47958d13f70a2f24ddad7c7ec210a"
     ],
     "sibkeys": [
-      "012079bc81af1c8e6ce55809e9158099a8fe42a9e11eaaa47283812b6c5a40d571280a",
       "01205e5a6d7712b133d0676bdac0bf831e0a6c640d6b95ddf80f0ff84a85a799f2060a"
     ],
     "families": {
@@ -33,7 +33,9 @@
         "012156e290f98e3d057d44ec6bc2e58bb1500120f865a97bad38861c2aa368d16e580a",
         "012079bc81af1c8e6ce55809e9158099a8fe42a9e11eaaa47283812b6c5a40d571280a",
         "0121292a96e74e47ca0794cbcb537b2c534cb900c47958d13f70a2f24ddad7c7ec210a",
-        "01205e5a6d7712b133d0676bdac0bf831e0a6c640d6b95ddf80f0ff84a85a799f2060a"
+        "01205e5a6d7712b133d0676bdac0bf831e0a6c640d6b95ddf80f0ff84a85a799f2060a",
+        "01201ef75b1e6f2a05661f0ca80b516a1eb9848855a01b422b76d05891da8dd8c2ea0a",
+        "01210bec4d6f69820d95e113819ce8152536ebee627dabbcb8035350e6bb2a0b096d0a"
       ]
     },
     "eldest_kid": "012079bc81af1c8e6ce55809e9158099a8fe42a9e11eaaa47283812b6c5a40d571280a",
@@ -297,9 +299,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "4b59c72ac4f9830c40b35388ddc35e9585d85000a3f7d619fca3f29270e546fb0f",
-      "seqno": 25,
-      "payload_hash": "e436607451155c94ed8b80cbb9703162999f71159cb106d55d0f102e5b4caafa"
+      "sig_id": "aaac2fed9c1cb4f33adf13c83c2eefc8e51644cbdf5bce20b364045bbe4fca8a0f",
+      "seqno": 29,
+      "payload_hash": "d7ef31f83f303c6ccae28c7952874463af7c463b8d62322795d4e06bffb6b7a6"
     }
   },
   "devices": {
@@ -319,25 +321,6 @@
           "kid": "0121292a96e74e47ca0794cbcb537b2c534cb900c47958d13f70a2f24ddad7c7ec210a",
           "key_role": 2,
           "sig_id": "e50ad6c86e9957d05e5298a944b9cfb8f577dbbb6f9cd02a22b53bcdd84005920f"
-        }
-      ]
-    },
-    "d86f780b1956347e7d0b71771e440f18": {
-      "type": "desktop",
-      "ctime": 1467862257,
-      "mtime": 1467862257,
-      "name": "marcos-laptop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012079bc81af1c8e6ce55809e9158099a8fe42a9e11eaaa47283812b6c5a40d571280a",
-          "key_role": 1,
-          "sig_id": "6ed866f997136a1eaa5e6a39b9dcaecbc31bf3827e13c668df5ff12817edef720f"
-        },
-        {
-          "kid": "012156e290f98e3d057d44ec6bc2e58bb1500120f865a97bad38861c2aa368d16e580a",
-          "key_role": 2,
-          "sig_id": "00fbef5b24254564e66bfcd2bb10ef548b212ffcab09a82b1ebc33cb9cb53f260f"
         }
       ]
     }
