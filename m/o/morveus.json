@@ -4,9 +4,9 @@
     "username": "morveus",
     "ctime": 1437730365,
     "mtime": 1437730365,
-    "id_version": 56,
+    "id_version": 57,
     "track_version": 4,
-    "last_id_change": 1470061496,
+    "last_id_change": 1470131074,
     "username_cased": "morveus"
   },
   "profile": {
@@ -40,18 +40,22 @@
       "012025e1663739ac38076b3f9953a766db721fa5b9afd122ff53695f96f582195cae0a",
       "0121975992fd118fc6f8d8108f40948df31855e7a04d56ae5a6d753c45f7ff30c1440a",
       "0120779a448b4bfdf8afbf189e3b4a9f3553ea8dc3645d654e7802877edb730626ae0a",
-      "0121c7d47fe59c575e97b7bbdddfb281fb2566b328d563d8b165b03fdca1bd5d46510a"
+      "0121c7d47fe59c575e97b7bbdddfb281fb2566b328d563d8b165b03fdca1bd5d46510a",
+      "01206985d7c3c0b44dec98b3980fde4aeeeb9de6d0b557cd585019a9418f2e87ca100a",
+      "0121c9b811114fda087972c68c9932c221412c62669332aa6f775af5c8475e8812350a"
     ],
     "subkeys": [
       "012157cd0b03fa877b6497387413370e2c8a072180e42661392067b2d14a5f9099490a",
       "0121975992fd118fc6f8d8108f40948df31855e7a04d56ae5a6d753c45f7ff30c1440a",
-      "0121c7d47fe59c575e97b7bbdddfb281fb2566b328d563d8b165b03fdca1bd5d46510a"
+      "0121c7d47fe59c575e97b7bbdddfb281fb2566b328d563d8b165b03fdca1bd5d46510a",
+      "0121c9b811114fda087972c68c9932c221412c62669332aa6f775af5c8475e8812350a"
     ],
     "sibkeys": [
       "01017717e23abb7dd481777ed993ef5c3a758a402dc48af29333790bd807276af62d0a",
       "01202743ebe9ed85d4c034575859da48a83f23ee029c5cd3568f9a4f4f2a073a17e50a",
       "012025e1663739ac38076b3f9953a766db721fa5b9afd122ff53695f96f582195cae0a",
-      "0120779a448b4bfdf8afbf189e3b4a9f3553ea8dc3645d654e7802877edb730626ae0a"
+      "0120779a448b4bfdf8afbf189e3b4a9f3553ea8dc3645d654e7802877edb730626ae0a",
+      "01206985d7c3c0b44dec98b3980fde4aeeeb9de6d0b557cd585019a9418f2e87ca100a"
     ],
     "families": {
       "01017717e23abb7dd481777ed993ef5c3a758a402dc48af29333790bd807276af62d0a": [
@@ -61,7 +65,9 @@
         "012025e1663739ac38076b3f9953a766db721fa5b9afd122ff53695f96f582195cae0a",
         "0121975992fd118fc6f8d8108f40948df31855e7a04d56ae5a6d753c45f7ff30c1440a",
         "0120779a448b4bfdf8afbf189e3b4a9f3553ea8dc3645d654e7802877edb730626ae0a",
-        "0121c7d47fe59c575e97b7bbdddfb281fb2566b328d563d8b165b03fdca1bd5d46510a"
+        "0121c7d47fe59c575e97b7bbdddfb281fb2566b328d563d8b165b03fdca1bd5d46510a",
+        "01206985d7c3c0b44dec98b3980fde4aeeeb9de6d0b557cd585019a9418f2e87ca100a",
+        "0121c9b811114fda087972c68c9932c221412c62669332aa6f775af5c8475e8812350a"
       ]
     },
     "eldest_kid": "01017717e23abb7dd481777ed993ef5c3a758a402dc48af29333790bd807276af62d0a",
@@ -216,12 +222,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "edd8e0a2f26e1a7d59c04cef5468549c1a878bf7f5458bb82c02f67fbb8b0ae20f",
-      "seqno": 15,
-      "payload_hash": "b863f78835815fe51cafeaf76e40d93192b7481829546ef50f1cb4c8b74da902"
+      "sig_id": "a15b20a25563b1913a9554bb588f7504dad82afda35ca821dd496b0355e7cd890f",
+      "seqno": 17,
+      "payload_hash": "f342ccbacb83a445f263bfd7bccf2a4f2d75b4c4db8018087532ac3cc2ca7b31"
     }
   },
   "devices": {
+    "99ffaa34064edfbfa1ab84efb036f918": {
+      "type": "desktop",
+      "ctime": 1470131074,
+      "mtime": 1470131074,
+      "name": "T Morve",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01206985d7c3c0b44dec98b3980fde4aeeeb9de6d0b557cd585019a9418f2e87ca100a",
+          "key_role": 1,
+          "sig_id": "758d29d2e11bbdf415ca1bb791d40f2e25fbb9099822f22bb51712a3df5091580f"
+        },
+        {
+          "kid": "0121c9b811114fda087972c68c9932c221412c62669332aa6f775af5c8475e8812350a",
+          "key_role": 2,
+          "sig_id": "a15b20a25563b1913a9554bb588f7504dad82afda35ca821dd496b0355e7cd890f"
+        }
+      ]
+    },
     "9dedb7c45a6d0bedeea021e7e8f39618": {
       "type": "desktop",
       "ctime": 1470059417,
