@@ -4,9 +4,9 @@
     "username": "bbabich",
     "ctime": 1451974390,
     "mtime": 1451974390,
-    "id_version": 15,
+    "id_version": 18,
     "track_version": 9,
-    "last_id_change": 1453988184,
+    "last_id_change": 1470407657,
     "username_cased": "bbabich"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "0120f4aa2cad2168e850d97c28fa567addee1755efc7c509195f9811ded2c5941ad10a",
       "012170cdca1221d50ab6320eedef2d9b414a9ec90f065e0c298237448ebf991ca2170a",
       "0121560b1065547215fc4ecdc04ea3ca40180871f03de22c478b9e07aef49ca2810f0a",
-      "01209cc4cb81d16dfb9aec29b607897dbc44c8d93371db67712f8be7d759ecf056b80a"
+      "01209cc4cb81d16dfb9aec29b607897dbc44c8d93371db67712f8be7d759ecf056b80a",
+      "01200e7bb0dd3ca53e98ec84baedc1b2ad21d8070f2158fbe1ebafe1dcd9d83472a10a",
+      "0121c289d90c3aacfa979e82087dfa9ec72803cc78fce35e6b5fa36a4a3278f46b320a"
     ],
     "subkeys": [
       "012170cdca1221d50ab6320eedef2d9b414a9ec90f065e0c298237448ebf991ca2170a",
-      "0121560b1065547215fc4ecdc04ea3ca40180871f03de22c478b9e07aef49ca2810f0a"
+      "0121560b1065547215fc4ecdc04ea3ca40180871f03de22c478b9e07aef49ca2810f0a",
+      "0121c289d90c3aacfa979e82087dfa9ec72803cc78fce35e6b5fa36a4a3278f46b320a"
     ],
     "sibkeys": [
       "010116b63b67bf63e4b310dfeaf04379a9280ac778a42a06367721495fbed66563eb0a",
       "0120f4aa2cad2168e850d97c28fa567addee1755efc7c509195f9811ded2c5941ad10a",
-      "01209cc4cb81d16dfb9aec29b607897dbc44c8d93371db67712f8be7d759ecf056b80a"
+      "01209cc4cb81d16dfb9aec29b607897dbc44c8d93371db67712f8be7d759ecf056b80a",
+      "01200e7bb0dd3ca53e98ec84baedc1b2ad21d8070f2158fbe1ebafe1dcd9d83472a10a"
     ],
     "families": {
       "010116b63b67bf63e4b310dfeaf04379a9280ac778a42a06367721495fbed66563eb0a": [
@@ -55,7 +59,9 @@
         "0120f4aa2cad2168e850d97c28fa567addee1755efc7c509195f9811ded2c5941ad10a",
         "012170cdca1221d50ab6320eedef2d9b414a9ec90f065e0c298237448ebf991ca2170a",
         "0121560b1065547215fc4ecdc04ea3ca40180871f03de22c478b9e07aef49ca2810f0a",
-        "01209cc4cb81d16dfb9aec29b607897dbc44c8d93371db67712f8be7d759ecf056b80a"
+        "01209cc4cb81d16dfb9aec29b607897dbc44c8d93371db67712f8be7d759ecf056b80a",
+        "01200e7bb0dd3ca53e98ec84baedc1b2ad21d8070f2158fbe1ebafe1dcd9d83472a10a",
+        "0121c289d90c3aacfa979e82087dfa9ec72803cc78fce35e6b5fa36a4a3278f46b320a"
       ]
     },
     "eldest_kid": "010116b63b67bf63e4b310dfeaf04379a9280ac778a42a06367721495fbed66563eb0a",
@@ -92,6 +98,20 @@
           "service_url": "https://github.com/bbabich",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/bbabich",
+          "state": 1,
+          "proof_url": "https://coinbase.com/bbabich/public-key",
+          "sig_id": "6a935e0e61c49ad57204d14f48453e45254558a6aa6228479dbdb0f4700de5ca0f",
+          "proof_id": "eaea5fd9eb8edc117fc4eb10",
+          "human_url": "https://coinbase.com/bbabich/public-key",
+          "service_url": "https://coinbase.com/bbabich",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
         }
       ],
       "dns": [
@@ -138,6 +158,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "coinbase/bbabich",
+          "state": 1,
+          "proof_url": "https://coinbase.com/bbabich/public-key",
+          "sig_id": "6a935e0e61c49ad57204d14f48453e45254558a6aa6228479dbdb0f4700de5ca0f",
+          "proof_id": "eaea5fd9eb8edc117fc4eb10",
+          "human_url": "https://coinbase.com/bbabich/public-key",
+          "service_url": "https://coinbase.com/bbabich",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "activeservices.net.au": [
         {
           "proof_type": "dns",
@@ -179,6 +213,18 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "coinbase",
+        "nametag": "coinbase/bbabich",
+        "state": 1,
+        "proof_url": "https://coinbase.com/bbabich/public-key",
+        "sig_id": "6a935e0e61c49ad57204d14f48453e45254558a6aa6228479dbdb0f4700de5ca0f",
+        "proof_id": "eaea5fd9eb8edc117fc4eb10",
+        "human_url": "https://coinbase.com/bbabich/public-key",
+        "service_url": "https://coinbase.com/bbabich",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "dns",
         "nametag": "activeservices.net.au",
         "state": 1,
@@ -210,9 +256,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "e5c3734ecc2fbafc9f37e8b8f020a368d5447938270547680587b97f2b8cc4890f",
-      "seqno": 19,
-      "payload_hash": "6ab6f4d1fb1e2d0f2f08bcf78547f4d8d1e4d3e3505f307c0c1befa3b98460ef"
+      "sig_id": "6a935e0e61c49ad57204d14f48453e45254558a6aa6228479dbdb0f4700de5ca0f",
+      "seqno": 22,
+      "payload_hash": "4bedafd981339ab7db43433a6ff2712f3f5df0d81a4012fd6c8d74f44d7cb53c"
     }
   },
   "devices": {
@@ -251,6 +297,25 @@
           "kid": "012170cdca1221d50ab6320eedef2d9b414a9ec90f065e0c298237448ebf991ca2170a",
           "key_role": 2,
           "sig_id": "846ee3e8d138fbc02601f4486d9d2b17d988c2907d77a1ae5ad601f6ef4070b00f"
+        }
+      ]
+    },
+    "9c47d1117714b4a1374b8c0801f60118": {
+      "type": "desktop",
+      "ctime": 1470407439,
+      "mtime": 1470407440,
+      "name": "MacBookAir",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01200e7bb0dd3ca53e98ec84baedc1b2ad21d8070f2158fbe1ebafe1dcd9d83472a10a",
+          "key_role": 1,
+          "sig_id": "1fc9ef0719282c3714ca88adab591fef3aa14b1ad4a0e53aba56f8961ed840b40f"
+        },
+        {
+          "kid": "0121c289d90c3aacfa979e82087dfa9ec72803cc78fce35e6b5fa36a4a3278f46b320a",
+          "key_role": 2,
+          "sig_id": "75ed40eccaf512cc2565af0ebb66136b0a137b3f02a178ede30dd8adbf7b9ea30f"
         }
       ]
     }
