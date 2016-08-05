@@ -4,16 +4,16 @@
     "username": "etcinit",
     "ctime": 1422774679,
     "mtime": 1422774679,
-    "id_version": 108,
+    "id_version": 111,
     "track_version": 2,
-    "last_id_change": 1469955921,
+    "last_id_change": 1470254710,
     "username_cased": "etcinit"
   },
   "profile": {
-    "mtime": 1422774930,
+    "mtime": 1470255198,
     "full_name": "Eduardo Trujillo",
-    "location": null,
-    "bio": "Web developer"
+    "location": "Seattle, WA",
+    "bio": "Software engineer"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,24 @@
       "012129cf60134cf4485ffe95669f00c32da64ac95a5ac4a93fc3bd2d2d44fc950c5e0a",
       "0120bbede152657b9c6bbee19748d79ab407111a5a6a48c27a36d6a49d136a0785090a",
       "01201b229105cdb2263d8c4eaaebe13fe19ab7094f5ebda9ce9a6c3f030006fed5550a",
-      "0121b0d18ccb60151d9ec33ae75ad8f0e9dd3b9fe7d125a8fb73300c91165698882d0a"
+      "0121b0d18ccb60151d9ec33ae75ad8f0e9dd3b9fe7d125a8fb73300c91165698882d0a",
+      "012143fdf064951ea28666315eb528a5cc6d22641ca87f45f9a3fdc042121eb883640a",
+      "0120182e204beea736d6abdd77aa34d96a5e2e482cf5c2b4ea6546be0cfcf6d7bc840a",
+      "0121215e614938a305dbb93de9af7914d57c8ad0ec82f0b0a67229a7b78225365a040a",
+      "012099cb8a7e9e6a724786e1975ff726ce17ff3292a1fe07930c55b6b4b5dd95f5640a",
+      "0120d3876ddfa126b1afea35cbffd919fe5b7de3eb186be325474a46e6567de8bccc0a",
+      "01219fb1921fc477202ff3945450cf8f281ec54fa54aa5f3a3d285b70ea5279f004c0a"
     ],
     "subkeys": [
-      "012129cf60134cf4485ffe95669f00c32da64ac95a5ac4a93fc3bd2d2d44fc950c5e0a",
-      "0121b0d18ccb60151d9ec33ae75ad8f0e9dd3b9fe7d125a8fb73300c91165698882d0a"
+      "0121b0d18ccb60151d9ec33ae75ad8f0e9dd3b9fe7d125a8fb73300c91165698882d0a",
+      "0121215e614938a305dbb93de9af7914d57c8ad0ec82f0b0a67229a7b78225365a040a",
+      "01219fb1921fc477202ff3945450cf8f281ec54fa54aa5f3a3d285b70ea5279f004c0a"
     ],
     "sibkeys": [
       "010119f89699ce112fe2208d8d035d4eeb746c57bb093ca2b406e94e79cd63a975850a",
-      "0120bbede152657b9c6bbee19748d79ab407111a5a6a48c27a36d6a49d136a0785090a",
-      "01201b229105cdb2263d8c4eaaebe13fe19ab7094f5ebda9ce9a6c3f030006fed5550a"
+      "01201b229105cdb2263d8c4eaaebe13fe19ab7094f5ebda9ce9a6c3f030006fed5550a",
+      "012099cb8a7e9e6a724786e1975ff726ce17ff3292a1fe07930c55b6b4b5dd95f5640a",
+      "0120d3876ddfa126b1afea35cbffd919fe5b7de3eb186be325474a46e6567de8bccc0a"
     ],
     "families": {
       "010119f89699ce112fe2208d8d035d4eeb746c57bb093ca2b406e94e79cd63a975850a": [
@@ -55,7 +63,13 @@
         "012129cf60134cf4485ffe95669f00c32da64ac95a5ac4a93fc3bd2d2d44fc950c5e0a",
         "0120bbede152657b9c6bbee19748d79ab407111a5a6a48c27a36d6a49d136a0785090a",
         "01201b229105cdb2263d8c4eaaebe13fe19ab7094f5ebda9ce9a6c3f030006fed5550a",
-        "0121b0d18ccb60151d9ec33ae75ad8f0e9dd3b9fe7d125a8fb73300c91165698882d0a"
+        "0121b0d18ccb60151d9ec33ae75ad8f0e9dd3b9fe7d125a8fb73300c91165698882d0a",
+        "012143fdf064951ea28666315eb528a5cc6d22641ca87f45f9a3fdc042121eb883640a",
+        "0120182e204beea736d6abdd77aa34d96a5e2e482cf5c2b4ea6546be0cfcf6d7bc840a",
+        "0121215e614938a305dbb93de9af7914d57c8ad0ec82f0b0a67229a7b78225365a040a",
+        "012099cb8a7e9e6a724786e1975ff726ce17ff3292a1fe07930c55b6b4b5dd95f5640a",
+        "0120d3876ddfa126b1afea35cbffd919fe5b7de3eb186be325474a46e6567de8bccc0a",
+        "01219fb1921fc477202ff3945450cf8f281ec54fa54aa5f3a3d285b70ea5279f004c0a"
       ]
     },
     "eldest_kid": "010119f89699ce112fe2208d8d035d4eeb746c57bb093ca2b406e94e79cd63a975850a",
@@ -368,28 +382,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "19d78a1f2623a6a42b89948cebc683b79002b51505f6731f8a9846e190e905020f",
-      "seqno": 25,
-      "payload_hash": "e15ac31ba4da933ca737e46d3b47161270394a597aa323e2d470aefcd82bdda5"
+      "sig_id": "8c428f74734e8cdb687245fb4e620ac99fa0f0cf328e3dd74767680048f0ebc30f",
+      "seqno": 33,
+      "payload_hash": "f72b4dc4c5557defdc58cc8a2a111e190b65d87d159e31bfcdc0a0963b328134"
     }
   },
   "devices": {
-    "4fe095f01c2bfef172addfea5603ff18": {
+    "74e4c7d170b5d71449a0a7db8cc16c18": {
       "type": "desktop",
-      "ctime": 1451258370,
-      "mtime": 1451258370,
-      "name": "phobos",
+      "ctime": 1470254620,
+      "mtime": 1470254620,
+      "name": "phobos-osx-2",
       "status": 1,
       "keys": [
         {
-          "kid": "0120bbede152657b9c6bbee19748d79ab407111a5a6a48c27a36d6a49d136a0785090a",
+          "kid": "012099cb8a7e9e6a724786e1975ff726ce17ff3292a1fe07930c55b6b4b5dd95f5640a",
           "key_role": 1,
-          "sig_id": "e95c4427dc3c73dca57ab613dabf19f47685c5d03b4e9da507eb9b640a8d607d0f"
+          "sig_id": "1cfbe4c26e5e948b291cb1d57ed61381a721bfa2c48150bbf04b83a9def40a000f"
         },
         {
-          "kid": "012129cf60134cf4485ffe95669f00c32da64ac95a5ac4a93fc3bd2d2d44fc950c5e0a",
+          "kid": "0121215e614938a305dbb93de9af7914d57c8ad0ec82f0b0a67229a7b78225365a040a",
           "key_role": 2,
-          "sig_id": "39e77b5122a9088bb4341dd90f4d96fce544b71a4de590b868789c38cea11f020f"
+          "sig_id": "db76085ad39f95754a611fb08ead7b87d6f2eaa7bd461600393d0fd0dfce0c620f"
         }
       ]
     },
@@ -409,6 +423,25 @@
           "kid": "0121b0d18ccb60151d9ec33ae75ad8f0e9dd3b9fe7d125a8fb73300c91165698882d0a",
           "key_role": 2,
           "sig_id": "298d73d6aa4e2085e77061807e097abcb4275e02fcb848f7398d17146a5f54510f"
+        }
+      ]
+    },
+    "d43c2c971052510a64f00a3f38604f18": {
+      "type": "backup",
+      "ctime": 1470254710,
+      "mtime": 1470254710,
+      "name": "lazy hub",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d3876ddfa126b1afea35cbffd919fe5b7de3eb186be325474a46e6567de8bccc0a",
+          "key_role": 1,
+          "sig_id": "70963458c70c8789e22d731351bdf94beb44b25fb9283a163dc0d06511de2ea40f"
+        },
+        {
+          "kid": "01219fb1921fc477202ff3945450cf8f281ec54fa54aa5f3a3d285b70ea5279f004c0a",
+          "key_role": 2,
+          "sig_id": "8c428f74734e8cdb687245fb4e620ac99fa0f0cf328e3dd74767680048f0ebc30f"
         }
       ]
     }
