@@ -4,9 +4,9 @@
     "username": "koalalorenzo",
     "ctime": 1419866314,
     "mtime": 1419866314,
-    "id_version": 73,
-    "track_version": 13,
-    "last_id_change": 1470173276,
+    "id_version": 74,
+    "track_version": 15,
+    "last_id_change": 1470402682,
     "username_cased": "koalalorenzo"
   },
   "profile": {
@@ -42,16 +42,20 @@
       "0120057ba58adb729d0e32bebfa429da518bc1405a88b3458bc1ce27751e5d7d98b10a",
       "01219bdce3391e39742f8026d3b412ba8786422df163e8c94c13f30e90c919212a510a",
       "0120115d482050d1044750c9e2bd812980c8bd52b03841cbdff6a20f3f23d4a1cbc40a",
-      "012117fe78b4a018c3d21e36914214518c6c8cdf4e55c46576c4955eecd6930ff0510a"
+      "012117fe78b4a018c3d21e36914214518c6c8cdf4e55c46576c4955eecd6930ff0510a",
+      "01204fb3a8b4273b7716df2e72b7fe8d1e5836c3fafca10c5cb0e55a6d66ce72cbe10a",
+      "0121f0f019a3b66d0d238c931522afcee97b68eba2c674e8752eb135968c7774f7390a"
     ],
     "subkeys": [
       "01212b1f7244596c851bc8c219d7e2e9d5a256b085daf28acce1ddb76d8814f6df180a",
-      "012117fe78b4a018c3d21e36914214518c6c8cdf4e55c46576c4955eecd6930ff0510a"
+      "012117fe78b4a018c3d21e36914214518c6c8cdf4e55c46576c4955eecd6930ff0510a",
+      "0121f0f019a3b66d0d238c931522afcee97b68eba2c674e8752eb135968c7774f7390a"
     ],
     "sibkeys": [
       "01015f3f2b66deae7bdb304a26d87970c35a814962d3d2f5205d647297e3c0a704650a",
       "0120fd6baf18b24f9eb517574915b7520d6c68fd8a0fc2dcfbe0ca0f4614a390fb9d0a",
-      "0120115d482050d1044750c9e2bd812980c8bd52b03841cbdff6a20f3f23d4a1cbc40a"
+      "0120115d482050d1044750c9e2bd812980c8bd52b03841cbdff6a20f3f23d4a1cbc40a",
+      "01204fb3a8b4273b7716df2e72b7fe8d1e5836c3fafca10c5cb0e55a6d66ce72cbe10a"
     ],
     "families": {
       "01015f3f2b66deae7bdb304a26d87970c35a814962d3d2f5205d647297e3c0a704650a": [
@@ -63,7 +67,9 @@
         "0120057ba58adb729d0e32bebfa429da518bc1405a88b3458bc1ce27751e5d7d98b10a",
         "01219bdce3391e39742f8026d3b412ba8786422df163e8c94c13f30e90c919212a510a",
         "0120115d482050d1044750c9e2bd812980c8bd52b03841cbdff6a20f3f23d4a1cbc40a",
-        "012117fe78b4a018c3d21e36914214518c6c8cdf4e55c46576c4955eecd6930ff0510a"
+        "012117fe78b4a018c3d21e36914214518c6c8cdf4e55c46576c4955eecd6930ff0510a",
+        "01204fb3a8b4273b7716df2e72b7fe8d1e5836c3fafca10c5cb0e55a6d66ce72cbe10a",
+        "0121f0f019a3b66d0d238c931522afcee97b68eba2c674e8752eb135968c7774f7390a"
       ]
     },
     "eldest_kid": "01015f3f2b66deae7bdb304a26d87970c35a814962d3d2f5205d647297e3c0a704650a",
@@ -280,7 +286,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1CBvivHRgbTJ2Rssf38gnyJYuUrA11tGRN",
+        "sig_id": "e1200cd6e3a9021fe019b23eee94d0b969c7754c2688fda423d0d0f892d2bab60f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/ad983185766e0f8c397c702cb7ea0505_360_360_square_360.jpeg",
@@ -291,12 +304,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "80ed7d3459bbcfe3d9801a581dd55f7c980e8a0a299defc6b1fa4119d69c1e5f0f",
-      "seqno": 42,
-      "payload_hash": "3b10170a598816e1d7df16e1b41d21c59a5aa33479a6bb43cf94a594fe0273bd"
+      "sig_id": "39558122e073eb782179613da5fcf8fe118567e78dc01c133c366cfd277f63f10f",
+      "seqno": 47,
+      "payload_hash": "e41e3e0353c015b93fdb2ec482f66121c34f99ef5dcdd4a8cb53ed53138d2bfc"
     }
   },
   "devices": {
+    "3055e5bcef37b56e5957f4d014e59f18": {
+      "type": "desktop",
+      "ctime": 1470402682,
+      "mtime": 1470402682,
+      "name": "MBP-Billy",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204fb3a8b4273b7716df2e72b7fe8d1e5836c3fafca10c5cb0e55a6d66ce72cbe10a",
+          "key_role": 1,
+          "sig_id": "873e6fa4c1323c13bdac9390406cf20addc28dd50d75158c28edb286307483350f"
+        },
+        {
+          "kid": "0121f0f019a3b66d0d238c931522afcee97b68eba2c674e8752eb135968c7774f7390a",
+          "key_role": 2,
+          "sig_id": "39558122e073eb782179613da5fcf8fe118567e78dc01c133c366cfd277f63f10f"
+        }
+      ]
+    },
     "da6cbe3ed870c65777582bb60354e918": {
       "type": "backup",
       "ctime": 1450852885,
