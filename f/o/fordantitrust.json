@@ -10,10 +10,10 @@
     "username_cased": "fordantitrust"
   },
   "profile": {
-    "mtime": 1469035915,
+    "mtime": 1470438976,
     "full_name": "Ford AntiTrust",
     "location": "Bangkok, Thailand",
-    "bio": "IT Blogger, Full Stack Infrastructure Engineer (DevOps) and Photographer "
+    "bio": "Full Stack Engineer, IT Blogger and Photographer"
   },
   "public_keys": {
     "primary": {
@@ -61,14 +61,9 @@
       "0120c597b586b52527d405255e8e32028d0f7a10709a586c69f1dacce2aabc3b9a390a",
       "01214c6ffa8a703c609e5b7e6dfc8d4344445f1d60abf48c5dcae68dbe9b4ba32e040a"
     ],
-    "subkeys": [
-      "0121547f4194dba889c64ab3693ca4982d87a10e196b12c7084136c3ec0aa5847b120a",
-      "01214c6ffa8a703c609e5b7e6dfc8d4344445f1d60abf48c5dcae68dbe9b4ba32e040a"
-    ],
+    "subkeys": [],
     "sibkeys": [
-      "01016040b304820867cff422ed752d3eb28dfb897e7fba471388030fb38ba46d8da70a",
-      "012020158d1cef835601db754b494d5e78b6c4f746f758a696c0dc186ead3be0fb6d0a",
-      "0120c597b586b52527d405255e8e32028d0f7a10709a586c69f1dacce2aabc3b9a390a"
+      "01016040b304820867cff422ed752d3eb28dfb897e7fba471388030fb38ba46d8da70a"
     ],
     "families": {
       "010109612decbadfb75f9e38883401dcc83b92a640aa351dff83872ad700d6b86ecd0a": [
@@ -376,49 +371,10 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "bb809cd95022a1cb5f6e3455d1cecb26f613c7c82c16a53722414737927da7ba0f",
-      "seqno": 73,
-      "payload_hash": "70c50306111f084084ad62c4764a472f5e865df72ddebb02e1edca19deb139ff"
+      "sig_id": "cbd1f46c72ca98841fa5c8e444ebf55f33929265f59507d133941585c8f8c69a0f",
+      "seqno": 75,
+      "payload_hash": "b26ae6f9d4f8d080177a076df5f615dbd38dff00a57eacbe32f0aa2626089555"
     }
   },
-  "devices": {
-    "8c99a57abe08da96356d4cfa2df0ee18": {
-      "type": "desktop",
-      "ctime": 1469127664,
-      "mtime": 1469127664,
-      "name": "HoffmanV3-201607AZ",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012020158d1cef835601db754b494d5e78b6c4f746f758a696c0dc186ead3be0fb6d0a",
-          "key_role": 1,
-          "sig_id": "cdf215d9daec926434b760737d639e88e99ae25296885b3860e8b943180c4ada0f"
-        },
-        {
-          "kid": "0121547f4194dba889c64ab3693ca4982d87a10e196b12c7084136c3ec0aa5847b120a",
-          "key_role": 2,
-          "sig_id": "77fd3abb2994f0af651e8fa55f83283d695931baac5386a2013a1bef7efd39c90f"
-        }
-      ]
-    },
-    "bc8c055958551dc8c020b5d10fd2da18": {
-      "type": "backup",
-      "ctime": 1469127667,
-      "mtime": 1469127667,
-      "name": "point sentence",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120c597b586b52527d405255e8e32028d0f7a10709a586c69f1dacce2aabc3b9a390a",
-          "key_role": 1,
-          "sig_id": "c3e2fa241dad533573a905ba24284667e61cdf494d0476ae62e8b0282525344f0f"
-        },
-        {
-          "kid": "01214c6ffa8a703c609e5b7e6dfc8d4344445f1d60abf48c5dcae68dbe9b4ba32e040a",
-          "key_role": 2,
-          "sig_id": "bb809cd95022a1cb5f6e3455d1cecb26f613c7c82c16a53722414737927da7ba0f"
-        }
-      ]
-    }
-  }
+  "devices": {}
 }
