@@ -4,9 +4,9 @@
     "username": "croc",
     "ctime": 1468017001,
     "mtime": 1468017001,
-    "id_version": 24,
+    "id_version": 38,
     "track_version": 5,
-    "last_id_change": 1468897958,
+    "last_id_change": 1475248947,
     "username_cased": "croc"
   },
   "profile": {
@@ -111,7 +111,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/croc",
+          "nametag": "croc",
           "state": 1,
           "proof_url": "https://coinbase.com/croc/public-key",
           "sig_id": "4c684b6b5d6fe339283017790864274f923399abf385005d0008b1da876ab4320f",
@@ -128,8 +128,8 @@
           "nametag": "crocbuzz.net",
           "state": 1,
           "proof_url": "https://crocbuzz.net/keybase.txt",
-          "sig_id": "09cbe0481accb38187fdc4f23f858cdbdb0dd4104c29f009bed1e1ee1741cfb30f",
-          "proof_id": "17a61e5869796b5765fe8710",
+          "sig_id": "4a8839482f28579165b5b57235744bc4139b4f70668ed9ef8e19dfb6853f2f620f",
+          "proof_id": "464580618b1d4eac4c0c8310",
           "human_url": "https://crocbuzz.net/keybase.txt",
           "service_url": "https://crocbuzz.net",
           "presentation_group": "crocbuzz.net",
@@ -147,6 +147,18 @@
           "human_url": "dns://alexcrocker.net",
           "service_url": "http://alexcrocker.net",
           "presentation_group": "alexcrocker.net",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "croc.buzz",
+          "state": 1,
+          "proof_url": "https://keybase.io/croc/sigchain#0acfeea33c9f60ce916858992595cda273702f5e65b001cafc1fe5e68c0958650f",
+          "sig_id": "0acfeea33c9f60ce916858992595cda273702f5e65b001cafc1fe5e68c0958650f",
+          "proof_id": "9c33ba85c7d88e28fce9cd10",
+          "human_url": "dns://croc.buzz",
+          "service_url": "http://croc.buzz",
+          "presentation_group": "croc.buzz",
           "presentation_tag": "dns"
         }
       ]
@@ -197,7 +209,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/croc",
+          "nametag": "croc",
           "state": 1,
           "proof_url": "https://coinbase.com/croc/public-key",
           "sig_id": "4c684b6b5d6fe339283017790864274f923399abf385005d0008b1da876ab4320f",
@@ -214,8 +226,8 @@
           "nametag": "crocbuzz.net",
           "state": 1,
           "proof_url": "https://crocbuzz.net/keybase.txt",
-          "sig_id": "09cbe0481accb38187fdc4f23f858cdbdb0dd4104c29f009bed1e1ee1741cfb30f",
-          "proof_id": "17a61e5869796b5765fe8710",
+          "sig_id": "4a8839482f28579165b5b57235744bc4139b4f70668ed9ef8e19dfb6853f2f620f",
+          "proof_id": "464580618b1d4eac4c0c8310",
           "human_url": "https://crocbuzz.net/keybase.txt",
           "service_url": "https://crocbuzz.net",
           "presentation_group": "crocbuzz.net",
@@ -233,6 +245,20 @@
           "human_url": "dns://alexcrocker.net",
           "service_url": "http://alexcrocker.net",
           "presentation_group": "alexcrocker.net",
+          "presentation_tag": "dns"
+        }
+      ],
+      "croc.buzz": [
+        {
+          "proof_type": "dns",
+          "nametag": "croc.buzz",
+          "state": 1,
+          "proof_url": "https://keybase.io/croc/sigchain#0acfeea33c9f60ce916858992595cda273702f5e65b001cafc1fe5e68c0958650f",
+          "sig_id": "0acfeea33c9f60ce916858992595cda273702f5e65b001cafc1fe5e68c0958650f",
+          "proof_id": "9c33ba85c7d88e28fce9cd10",
+          "human_url": "dns://croc.buzz",
+          "service_url": "http://croc.buzz",
+          "presentation_group": "croc.buzz",
           "presentation_tag": "dns"
         }
       ]
@@ -276,7 +302,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/croc",
+        "nametag": "croc",
         "state": 1,
         "proof_url": "https://coinbase.com/croc/public-key",
         "sig_id": "4c684b6b5d6fe339283017790864274f923399abf385005d0008b1da876ab4320f",
@@ -299,12 +325,24 @@
         "presentation_tag": "dns"
       },
       {
+        "proof_type": "dns",
+        "nametag": "croc.buzz",
+        "state": 1,
+        "proof_url": "https://keybase.io/croc/sigchain#0acfeea33c9f60ce916858992595cda273702f5e65b001cafc1fe5e68c0958650f",
+        "sig_id": "0acfeea33c9f60ce916858992595cda273702f5e65b001cafc1fe5e68c0958650f",
+        "proof_id": "9c33ba85c7d88e28fce9cd10",
+        "human_url": "dns://croc.buzz",
+        "service_url": "http://croc.buzz",
+        "presentation_group": "croc.buzz",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "crocbuzz.net",
         "state": 1,
         "proof_url": "https://crocbuzz.net/keybase.txt",
-        "sig_id": "09cbe0481accb38187fdc4f23f858cdbdb0dd4104c29f009bed1e1ee1741cfb30f",
-        "proof_id": "17a61e5869796b5765fe8710",
+        "sig_id": "4a8839482f28579165b5b57235744bc4139b4f70668ed9ef8e19dfb6853f2f620f",
+        "proof_id": "464580618b1d4eac4c0c8310",
         "human_url": "https://crocbuzz.net/keybase.txt",
         "service_url": "https://crocbuzz.net",
         "presentation_group": "crocbuzz.net",
@@ -322,7 +360,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e2a2d62d077618cb0be551e7a831f805_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/60013db872188cd732a761a9e3670205_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -330,9 +368,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "49dd608845e6529dd63da8d624e9e2742e93204fe17d6e6fd20426d313279d270f",
-      "seqno": 20,
-      "payload_hash": "29ddca94a219416ef040c49507d58d3008b02ff823cc7b44bac5b257ddcb3da2"
+      "sig_id": "4a8839482f28579165b5b57235744bc4139b4f70668ed9ef8e19dfb6853f2f620f",
+      "seqno": 23,
+      "payload_hash": "b9f2b26f14f34872f183f837b9ad75c963e85303713a3f0d7282f58dc2db814f"
     }
   },
   "devices": {
