@@ -4,9 +4,9 @@
     "username": "afrazkhan",
     "ctime": 1457078144,
     "mtime": 1457078144,
-    "id_version": 41,
+    "id_version": 45,
     "track_version": 5,
-    "last_id_change": 1469626828,
+    "last_id_change": 1470813590,
     "username_cased": "afrazkhan"
   },
   "public_keys": {
@@ -97,18 +97,6 @@
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
-          "nametag": "croutonfist.com",
-          "state": 1,
-          "proof_url": "http://croutonfist.com/keybase.txt",
-          "sig_id": "cb8dd952757a860042b1c6f1ef219935483a04defe34cbc37932948c57068dd10f",
-          "proof_id": "14095541ceda343cadd10810",
-          "human_url": "http://croutonfist.com/keybase.txt",
-          "service_url": "http://croutonfist.com",
-          "presentation_group": "croutonfist.com",
-          "presentation_tag": "http"
-        },
-        {
-          "proof_type": "generic_web_site",
           "nametag": "afraz.io",
           "state": 1,
           "proof_url": "http://afraz.io/keybase.txt",
@@ -118,6 +106,20 @@
           "service_url": "http://afraz.io",
           "presentation_group": "afraz.io",
           "presentation_tag": "http"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "croutonfist.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/afrazkhan/sigchain#1ab6f0a1c7030b226a1c0b9fabc40f53e2b2c6d7b8a0e917be8b5aec2db513e60f",
+          "sig_id": "1ab6f0a1c7030b226a1c0b9fabc40f53e2b2c6d7b8a0e917be8b5aec2db513e60f",
+          "proof_id": "fd6b0d9435f1e94be8460610",
+          "human_url": "dns://croutonfist.com",
+          "service_url": "http://croutonfist.com",
+          "presentation_group": "croutonfist.com",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -150,20 +152,6 @@
           "presentation_tag": "gist"
         }
       ],
-      "croutonfist.com": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "croutonfist.com",
-          "state": 1,
-          "proof_url": "http://croutonfist.com/keybase.txt",
-          "sig_id": "cb8dd952757a860042b1c6f1ef219935483a04defe34cbc37932948c57068dd10f",
-          "proof_id": "14095541ceda343cadd10810",
-          "human_url": "http://croutonfist.com/keybase.txt",
-          "service_url": "http://croutonfist.com",
-          "presentation_group": "croutonfist.com",
-          "presentation_tag": "http"
-        }
-      ],
       "afraz.io": [
         {
           "proof_type": "generic_web_site",
@@ -176,6 +164,20 @@
           "service_url": "http://afraz.io",
           "presentation_group": "afraz.io",
           "presentation_tag": "http"
+        }
+      ],
+      "croutonfist.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "croutonfist.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/afrazkhan/sigchain#1ab6f0a1c7030b226a1c0b9fabc40f53e2b2c6d7b8a0e917be8b5aec2db513e60f",
+          "sig_id": "1ab6f0a1c7030b226a1c0b9fabc40f53e2b2c6d7b8a0e917be8b5aec2db513e60f",
+          "proof_id": "fd6b0d9435f1e94be8460610",
+          "human_url": "dns://croutonfist.com",
+          "service_url": "http://croutonfist.com",
+          "presentation_group": "croutonfist.com",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -205,16 +207,16 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "generic_web_site",
+        "proof_type": "dns",
         "nametag": "croutonfist.com",
         "state": 1,
-        "proof_url": "http://croutonfist.com/keybase.txt",
-        "sig_id": "cb8dd952757a860042b1c6f1ef219935483a04defe34cbc37932948c57068dd10f",
-        "proof_id": "14095541ceda343cadd10810",
-        "human_url": "http://croutonfist.com/keybase.txt",
+        "proof_url": "https://keybase.io/afrazkhan/sigchain#1ab6f0a1c7030b226a1c0b9fabc40f53e2b2c6d7b8a0e917be8b5aec2db513e60f",
+        "sig_id": "1ab6f0a1c7030b226a1c0b9fabc40f53e2b2c6d7b8a0e917be8b5aec2db513e60f",
+        "proof_id": "fd6b0d9435f1e94be8460610",
+        "human_url": "dns://croutonfist.com",
         "service_url": "http://croutonfist.com",
         "presentation_group": "croutonfist.com",
-        "presentation_tag": "http"
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "generic_web_site",
@@ -241,9 +243,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2bdf074c5a3b2936db9eb6d9b95b1ba1dd04ad391c0ea46f0be49b5dec3362770f",
-      "seqno": 25,
-      "payload_hash": "8c494f165ca5e71e78083340b39a7203cf083d4042c6a93e138d7a6939cfb765"
+      "sig_id": "1ab6f0a1c7030b226a1c0b9fabc40f53e2b2c6d7b8a0e917be8b5aec2db513e60f",
+      "seqno": 26,
+      "payload_hash": "cb65d2b90846d616ebf918eaf64bb64373950aca9d1ef883e22b18dc9cb1259e"
     }
   },
   "devices": {
