@@ -4,9 +4,9 @@
     "username": "leonardodna",
     "ctime": 1397763598,
     "mtime": 1397763598,
-    "id_version": 84,
+    "id_version": 93,
     "track_version": 10,
-    "last_id_change": 1467794213,
+    "last_id_change": 1473756755,
     "username_cased": "leonardodna"
   },
   "profile": {
@@ -40,16 +40,20 @@
       "0120a6d6105181b074b54884632e005309b25a72e4272916607beacae9f83a2997060a",
       "01215700a187233826a011295e538d1c86d3385c0ec9722371040d52aad58ffe873c0a",
       "0121ff24ccecd6de6967ba72e948d553e5ae5246dcf89f139c6f182234bcd62ed4170a",
-      "0120a71e5364fd24687f73b2afa8ff9216fae5ec727324d9bde75741c8ea3faab0b20a"
+      "0120a71e5364fd24687f73b2afa8ff9216fae5ec727324d9bde75741c8ea3faab0b20a",
+      "0120ce236bcc3eb3c430558ecc51c423add56e6c96dab02d0fc929e425bc3c6cab590a",
+      "0121eccd38cffc36ea33d537afc0ca66ffbebbc5f28b3b71069f697e7d21a3023a500a"
     ],
     "subkeys": [
       "01215700a187233826a011295e538d1c86d3385c0ec9722371040d52aad58ffe873c0a",
-      "0121ff24ccecd6de6967ba72e948d553e5ae5246dcf89f139c6f182234bcd62ed4170a"
+      "0121ff24ccecd6de6967ba72e948d553e5ae5246dcf89f139c6f182234bcd62ed4170a",
+      "0121eccd38cffc36ea33d537afc0ca66ffbebbc5f28b3b71069f697e7d21a3023a500a"
     ],
     "sibkeys": [
       "01010fc51a65f13fce9e34cc73d17e84a5ff56622322e23800efb791b41fc0c685300a",
       "0120a6d6105181b074b54884632e005309b25a72e4272916607beacae9f83a2997060a",
-      "0120a71e5364fd24687f73b2afa8ff9216fae5ec727324d9bde75741c8ea3faab0b20a"
+      "0120a71e5364fd24687f73b2afa8ff9216fae5ec727324d9bde75741c8ea3faab0b20a",
+      "0120ce236bcc3eb3c430558ecc51c423add56e6c96dab02d0fc929e425bc3c6cab590a"
     ],
     "families": {
       "0101efe4a8f9bccaa691ab689cc03263481bf164005af418c3aba5a483ae58751d300a": [
@@ -61,7 +65,9 @@
         "0120a6d6105181b074b54884632e005309b25a72e4272916607beacae9f83a2997060a",
         "01215700a187233826a011295e538d1c86d3385c0ec9722371040d52aad58ffe873c0a",
         "0121ff24ccecd6de6967ba72e948d553e5ae5246dcf89f139c6f182234bcd62ed4170a",
-        "0120a71e5364fd24687f73b2afa8ff9216fae5ec727324d9bde75741c8ea3faab0b20a"
+        "0120a71e5364fd24687f73b2afa8ff9216fae5ec727324d9bde75741c8ea3faab0b20a",
+        "0120ce236bcc3eb3c430558ecc51c423add56e6c96dab02d0fc929e425bc3c6cab590a",
+        "0121eccd38cffc36ea33d537afc0ca66ffbebbc5f28b3b71069f697e7d21a3023a500a"
       ]
     },
     "eldest_kid": "01010fc51a65f13fce9e34cc73d17e84a5ff56622322e23800efb791b41fc0c685300a",
@@ -113,6 +119,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "lprado.com.br",
+          "state": 1,
+          "proof_url": "https://keybase.io/leonardodna/sigchain#3f8117f94459041ce9012e03cf6aa3c6c7d22c4be9a06c5fbd88cc7aed3d9b5a0f",
+          "sig_id": "3f8117f94459041ce9012e03cf6aa3c6c7d22c4be9a06c5fbd88cc7aed3d9b5a0f",
+          "proof_id": "bf8aab7546ec722ad687b610",
+          "human_url": "dns://lprado.com.br",
+          "service_url": "http://lprado.com.br",
+          "presentation_group": "lprado.com.br",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -157,6 +177,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "lprado.com.br": [
+        {
+          "proof_type": "dns",
+          "nametag": "lprado.com.br",
+          "state": 1,
+          "proof_url": "https://keybase.io/leonardodna/sigchain#3f8117f94459041ce9012e03cf6aa3c6c7d22c4be9a06c5fbd88cc7aed3d9b5a0f",
+          "sig_id": "3f8117f94459041ce9012e03cf6aa3c6c7d22c4be9a06c5fbd88cc7aed3d9b5a0f",
+          "proof_id": "bf8aab7546ec722ad687b610",
+          "human_url": "dns://lprado.com.br",
+          "service_url": "http://lprado.com.br",
+          "presentation_group": "lprado.com.br",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -195,6 +229,18 @@
         "service_url": "https://reddit.com/user/leonardodna",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "lprado.com.br",
+        "state": 1,
+        "proof_url": "https://keybase.io/leonardodna/sigchain#3f8117f94459041ce9012e03cf6aa3c6c7d22c4be9a06c5fbd88cc7aed3d9b5a0f",
+        "sig_id": "3f8117f94459041ce9012e03cf6aa3c6c7d22c4be9a06c5fbd88cc7aed3d9b5a0f",
+        "proof_id": "bf8aab7546ec722ad687b610",
+        "human_url": "dns://lprado.com.br",
+        "service_url": "http://lprado.com.br",
+        "presentation_group": "lprado.com.br",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -208,7 +254,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/7874dd8f7b36f0099b9aadc503507c05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/faffe8a97f82bc235e6265c63a6ed905_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -216,9 +262,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "6be110464f0e30dd4030365b1d2ec03f1980a6811f7e8ecf097651c1d7f633350f",
-      "seqno": 23,
-      "payload_hash": "fa7babe3a5190209469bd809db571ba58df2120646c753ceaece510e13c7d329"
+      "sig_id": "5b6f2dec54623e3def62e4452eef4d2509bb61941dc0c9ce0ade00272cadd5aa0f",
+      "seqno": 26,
+      "payload_hash": "c3842b8d0d91df0c002ac32ffc86340ca49652b7000d019e131c6715e4655782"
     }
   },
   "devices": {
@@ -238,6 +284,25 @@
           "kid": "01215700a187233826a011295e538d1c86d3385c0ec9722371040d52aad58ffe873c0a",
           "key_role": 2,
           "sig_id": "813ab172f62335fe039803dafa06a1c6f43e7d6ffb0ab0d99457c208289b90c40f"
+        }
+      ]
+    },
+    "6a567ae78c614e9dd31f72efa6cfdd18": {
+      "type": "desktop",
+      "ctime": 1472754563,
+      "mtime": 1472754563,
+      "name": "2mundos-note",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ce236bcc3eb3c430558ecc51c423add56e6c96dab02d0fc929e425bc3c6cab590a",
+          "key_role": 1,
+          "sig_id": "04b5dbe0e492a5d0b3af5a802aedcea5b94bb9a8a5beb421bae2df0dcbfa14630f"
+        },
+        {
+          "kid": "0121eccd38cffc36ea33d537afc0ca66ffbebbc5f28b3b71069f697e7d21a3023a500a",
+          "key_role": 2,
+          "sig_id": "51fddd6c2d6773a5ff65c6855f4c9686e187251ab67408395f20a2cb702217520f"
         }
       ]
     },
