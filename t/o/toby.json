@@ -4,16 +4,16 @@
     "username": "toby",
     "ctime": 1394230289,
     "mtime": 1394230289,
-    "id_version": 71,
-    "track_version": 17,
-    "last_id_change": 1469526945,
+    "id_version": 76,
+    "track_version": 20,
+    "last_id_change": 1474121760,
     "username_cased": "toby"
   },
   "profile": {
-    "mtime": 1394230334,
+    "mtime": 1474122211,
     "full_name": "Toby Padilla",
-    "location": "New York",
-    "bio": "Makes things. Previously: VP TweetDeck, VP Last.fm, Founder Musicmobs, Engineer Apple"
+    "location": "New Orleans",
+    "bio": "Hacking and stuff"
   },
   "public_keys": {
     "primary": {
@@ -40,18 +40,26 @@
       "01213dd32dced1d55a387d7b764e9d7643714d34eda7e4c308e9d6e8b6ea27983c410a",
       "01204e327c63132c685c2cf15a6fe475873000afeb8f025d58cbb1f30efa8ee49df80a",
       "0120acb3b194f788aac70d9d37ad94f3a5bbe5f16a6d874c6783e7a2b6c4a41f5f660a",
-      "01218c64df5ac9eb35babccc7af5b0f555ebf7cb60776f1b5a49e33b3b8a48b7a01b0a"
+      "01218c64df5ac9eb35babccc7af5b0f555ebf7cb60776f1b5a49e33b3b8a48b7a01b0a",
+      "0120ebdc6723ed70af38f367aa08b940c50cbbb006068a83292111d7e2054665947c0a",
+      "01219738771b70a041d4441e0bffae59e943937874f9af64903e662ea2f9c3b86d4a0a",
+      "01218342d3f838755db96fa961523426fc9d43224276f09834e6fcbee8601d1620230a",
+      "0120edf4502cb345ecd470681ad5d09bb4dd833ecfbb8f7f695ef50a89be8eb6992c0a"
     ],
     "subkeys": [
       "0121808ac72d93f76448a00ef5cfde8cee12acf8324d3ee2185d68ec5b04b059b0760a",
       "01213dd32dced1d55a387d7b764e9d7643714d34eda7e4c308e9d6e8b6ea27983c410a",
-      "01218c64df5ac9eb35babccc7af5b0f555ebf7cb60776f1b5a49e33b3b8a48b7a01b0a"
+      "01218c64df5ac9eb35babccc7af5b0f555ebf7cb60776f1b5a49e33b3b8a48b7a01b0a",
+      "01219738771b70a041d4441e0bffae59e943937874f9af64903e662ea2f9c3b86d4a0a",
+      "01218342d3f838755db96fa961523426fc9d43224276f09834e6fcbee8601d1620230a"
     ],
     "sibkeys": [
       "0101c7eb40aed94c5a6fcf198eeb1368a968d27fc8269963797e7e022881038c4f6e0a",
       "01208ef3e62909d277ebe45e813215f48d183fdaf2ecb05f9b29e7160f3f7d54ff580a",
       "01204e327c63132c685c2cf15a6fe475873000afeb8f025d58cbb1f30efa8ee49df80a",
-      "0120acb3b194f788aac70d9d37ad94f3a5bbe5f16a6d874c6783e7a2b6c4a41f5f660a"
+      "0120acb3b194f788aac70d9d37ad94f3a5bbe5f16a6d874c6783e7a2b6c4a41f5f660a",
+      "0120ebdc6723ed70af38f367aa08b940c50cbbb006068a83292111d7e2054665947c0a",
+      "0120edf4502cb345ecd470681ad5d09bb4dd833ecfbb8f7f695ef50a89be8eb6992c0a"
     ],
     "families": {
       "0101c7eb40aed94c5a6fcf198eeb1368a968d27fc8269963797e7e022881038c4f6e0a": [
@@ -61,7 +69,11 @@
         "01213dd32dced1d55a387d7b764e9d7643714d34eda7e4c308e9d6e8b6ea27983c410a",
         "01204e327c63132c685c2cf15a6fe475873000afeb8f025d58cbb1f30efa8ee49df80a",
         "0120acb3b194f788aac70d9d37ad94f3a5bbe5f16a6d874c6783e7a2b6c4a41f5f660a",
-        "01218c64df5ac9eb35babccc7af5b0f555ebf7cb60776f1b5a49e33b3b8a48b7a01b0a"
+        "01218c64df5ac9eb35babccc7af5b0f555ebf7cb60776f1b5a49e33b3b8a48b7a01b0a",
+        "0120ebdc6723ed70af38f367aa08b940c50cbbb006068a83292111d7e2054665947c0a",
+        "01219738771b70a041d4441e0bffae59e943937874f9af64903e662ea2f9c3b86d4a0a",
+        "01218342d3f838755db96fa961523426fc9d43224276f09834e6fcbee8601d1620230a",
+        "0120edf4502cb345ecd470681ad5d09bb4dd833ecfbb8f7f695ef50a89be8eb6992c0a"
       ]
     },
     "eldest_kid": "0101c7eb40aed94c5a6fcf198eeb1368a968d27fc8269963797e7e022881038c4f6e0a",
@@ -117,7 +129,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/toby",
+          "nametag": "toby",
           "state": 1,
           "proof_url": "https://coinbase.com/toby/public-key",
           "sig_id": "22df6e9788ef60e5991561e4cbc381aacf1f6485ae57d0ffa084ad7809b5054e0f",
@@ -126,6 +138,20 @@
           "service_url": "https://coinbase.com/toby",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "playgrub.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/toby/sigchain#8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
+          "sig_id": "8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
+          "proof_id": "0bb8991ed430372f58025110",
+          "human_url": "dns://playgrub.com",
+          "service_url": "http://playgrub.com",
+          "presentation_group": "playgrub.com",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -175,7 +201,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/toby",
+          "nametag": "toby",
           "state": 1,
           "proof_url": "https://coinbase.com/toby/public-key",
           "sig_id": "22df6e9788ef60e5991561e4cbc381aacf1f6485ae57d0ffa084ad7809b5054e0f",
@@ -184,6 +210,20 @@
           "service_url": "https://coinbase.com/toby",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "playgrub.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "playgrub.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/toby/sigchain#8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
+          "sig_id": "8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
+          "proof_id": "0bb8991ed430372f58025110",
+          "human_url": "dns://playgrub.com",
+          "service_url": "http://playgrub.com",
+          "presentation_group": "playgrub.com",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -226,7 +266,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/toby",
+        "nametag": "toby",
         "state": 1,
         "proof_url": "https://coinbase.com/toby/public-key",
         "sig_id": "22df6e9788ef60e5991561e4cbc381aacf1f6485ae57d0ffa084ad7809b5054e0f",
@@ -235,6 +275,18 @@
         "service_url": "https://coinbase.com/toby",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "playgrub.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/toby/sigchain#8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
+        "sig_id": "8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
+        "proof_id": "0bb8991ed430372f58025110",
+        "human_url": "dns://playgrub.com",
+        "service_url": "http://playgrub.com",
+        "presentation_group": "playgrub.com",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -256,9 +308,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "bb0bb6ecb762b6969a169f05a19f6ab74842914c8691710b7bfa8aaf6519465f0f",
-      "seqno": 32,
-      "payload_hash": "3ad8c21d6dc03dfeb492b504484b59dd3b77f75d462857b7e0e35266c1def447"
+      "sig_id": "3f12f0461716ab5f999264861a150b896219bdf7e035dd679f3ec12393a71b5b0f",
+      "seqno": 40,
+      "payload_hash": "2fef8f04b2121be31b3a1d03731f0b0d927753232695d8f4e8e676b036f64207"
     }
   },
   "devices": {
@@ -300,6 +352,25 @@
         }
       ]
     },
+    "aba267c561150475572b8acd5dbe7e18": {
+      "type": "desktop",
+      "ctime": 1470684044,
+      "mtime": 1470684044,
+      "name": "playgrub",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ebdc6723ed70af38f367aa08b940c50cbbb006068a83292111d7e2054665947c0a",
+          "key_role": 1,
+          "sig_id": "6a01d2f2c37a1516e3f6ba4c0b7db986f9e9ebadfc449aca9bea900c54ef551e0f"
+        },
+        {
+          "kid": "01219738771b70a041d4441e0bffae59e943937874f9af64903e662ea2f9c3b86d4a0a",
+          "key_role": 2,
+          "sig_id": "47c4ca5845d9889219c1ee34b547a2ba8578c516f47aae1903eb5ce310908cff0f"
+        }
+      ]
+    },
     "bea24bdcd9082693af97a4617983b918": {
       "type": "desktop",
       "ctime": 1469120283,
@@ -316,6 +387,25 @@
           "kid": "01218c64df5ac9eb35babccc7af5b0f555ebf7cb60776f1b5a49e33b3b8a48b7a01b0a",
           "key_role": 2,
           "sig_id": "bb0bb6ecb762b6969a169f05a19f6ab74842914c8691710b7bfa8aaf6519465f0f"
+        }
+      ]
+    },
+    "eb7170f590da4e07bce88dd856ebe218": {
+      "type": "desktop",
+      "ctime": 1473812821,
+      "mtime": 1473812821,
+      "name": "arkanoid",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120edf4502cb345ecd470681ad5d09bb4dd833ecfbb8f7f695ef50a89be8eb6992c0a",
+          "key_role": 1,
+          "sig_id": "aaf49c82706f7ec3f2b31cd519f1fd0c8304510b2c30817ce3f3f2fe94f018bd0f"
+        },
+        {
+          "kid": "01218342d3f838755db96fa961523426fc9d43224276f09834e6fcbee8601d1620230a",
+          "key_role": 2,
+          "sig_id": "5b2dd71a47372d941a3f6eb19015d677d3c1d28f4b728814a823c2b2659657f10f"
         }
       ]
     }
