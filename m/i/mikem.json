@@ -4,16 +4,16 @@
     "username": "mikem",
     "ctime": 1392931648,
     "mtime": 1461854187,
-    "id_version": 138,
-    "track_version": 63,
-    "last_id_change": 1468011803,
+    "id_version": 150,
+    "track_version": 68,
+    "last_id_change": 1475682792,
     "username_cased": "mikem"
   },
   "profile": {
-    "mtime": 1462413375,
+    "mtime": 1471921925,
     "full_name": "Mike Maxim",
     "location": "New York, NY",
-    "bio": "Software Engineer @ Keybase"
+    "bio": "Software Engineer @ Keybase, former CTO at OkCupid."
   },
   "public_keys": {
     "primary": {
@@ -147,7 +147,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/candrencil",
+          "nametag": "candrencil",
           "state": 1,
           "proof_url": "https://coinbase.com/candrencil/public-key",
           "sig_id": "85b4b6a961495f115ec8dc39611dc4d44cf3d6d1caee68e350a17843d22719380f",
@@ -173,6 +173,18 @@
         }
       ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "maxim.family",
+          "state": 1,
+          "proof_url": "https://keybase.io/mikem/sigchain#fb63a972715eb2924459a799065a65a73e4da199e8420d2b076ed40d409150260f",
+          "sig_id": "fb63a972715eb2924459a799065a65a73e4da199e8420d2b076ed40d409150260f",
+          "proof_id": "6cb866766c18c5106805a310",
+          "human_url": "dns://maxim.family",
+          "service_url": "http://maxim.family",
+          "presentation_group": "maxim.family",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "okcupid.com",
@@ -269,7 +281,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/candrencil",
+          "nametag": "candrencil",
           "state": 1,
           "proof_url": "https://coinbase.com/candrencil/public-key",
           "sig_id": "85b4b6a961495f115ec8dc39611dc4d44cf3d6d1caee68e350a17843d22719380f",
@@ -303,6 +315,20 @@
           "human_url": "dns://mmaxim.org",
           "service_url": "http://mmaxim.org",
           "presentation_group": "mmaxim.org",
+          "presentation_tag": "dns"
+        }
+      ],
+      "maxim.family": [
+        {
+          "proof_type": "dns",
+          "nametag": "maxim.family",
+          "state": 1,
+          "proof_url": "https://keybase.io/mikem/sigchain#fb63a972715eb2924459a799065a65a73e4da199e8420d2b076ed40d409150260f",
+          "sig_id": "fb63a972715eb2924459a799065a65a73e4da199e8420d2b076ed40d409150260f",
+          "proof_id": "6cb866766c18c5106805a310",
+          "human_url": "dns://maxim.family",
+          "service_url": "http://maxim.family",
+          "presentation_group": "maxim.family",
           "presentation_tag": "dns"
         }
       ],
@@ -388,7 +414,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/candrencil",
+        "nametag": "candrencil",
         "state": 1,
         "proof_url": "https://coinbase.com/candrencil/public-key",
         "sig_id": "85b4b6a961495f115ec8dc39611dc4d44cf3d6d1caee68e350a17843d22719380f",
@@ -397,6 +423,18 @@
         "service_url": "https://coinbase.com/candrencil",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "maxim.family",
+        "state": 1,
+        "proof_url": "https://keybase.io/mikem/sigchain#fb63a972715eb2924459a799065a65a73e4da199e8420d2b076ed40d409150260f",
+        "sig_id": "fb63a972715eb2924459a799065a65a73e4da199e8420d2b076ed40d409150260f",
+        "proof_id": "6cb866766c18c5106805a310",
+        "human_url": "dns://maxim.family",
+        "service_url": "http://maxim.family",
+        "presentation_group": "maxim.family",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -478,9 +516,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b244aaa459baf827b643edbdae968ef7930ac4663619716c8e160de5f231c17a0f",
-      "seqno": 100,
-      "payload_hash": "a90228e22b526f8dac3952ec4f1fa1ed396b19e439e0b8a4b448d22e0fd44974"
+      "sig_id": "4c291262f63e1737a4617c5d3197d0ddac734a5ef8615fe150dd6c082b48a30a0f",
+      "seqno": 106,
+      "payload_hash": "2b6d2898ff8d2c3919b8221dda6aa372246bac8c991198e48f76951585926b5b"
     }
   },
   "devices": {
