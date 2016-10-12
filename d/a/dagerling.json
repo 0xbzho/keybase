@@ -4,16 +4,16 @@
     "username": "dagerling",
     "ctime": 1401956174,
     "mtime": 1401956174,
-    "id_version": 21,
+    "id_version": 36,
     "track_version": 0,
-    "last_id_change": 1468101731,
+    "last_id_change": 1475152230,
     "username_cased": "dagerling"
   },
   "profile": {
-    "mtime": 1401956730,
+    "mtime": 1475148395,
     "full_name": "Dag-Erling Smørgrav",
     "location": "Oslo, Norway",
-    "bio": null
+    "bio": "Senior Engineer at the University of Oslo.\nFreeBSD committer.\nAuthor of OpenPAM."
   },
   "public_keys": {
     "primary": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "realevildes",
+          "state": 1,
+          "proof_url": "https://twitter.com/RealEvilDES/status/781454879860588548",
+          "sig_id": "d653056b1d5e0d2423c719d8c1075e86a1dfa278351788a7b379330409aeebf80f",
+          "proof_id": "bb03e105e5fa687662f45410",
+          "human_url": "https://twitter.com/RealEvilDES/status/781454879860588548",
+          "service_url": "https://twitter.com/RealEvilDES",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -65,10 +79,76 @@
           "service_url": "https://github.com/dag-erling",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "blog.des.no",
+          "state": 1,
+          "proof_url": "http://blog.des.no/.well-known/keybase.txt",
+          "sig_id": "da4925abdd2218b5ccfaabb2b2ed4bc25b43e1b41e215fce1c463d15f29152130f",
+          "proof_id": "43210ec20f0556c36b01a910",
+          "human_url": "http://blog.des.no/.well-known/keybase.txt",
+          "service_url": "http://blog.des.no",
+          "presentation_group": "blog.des.no",
+          "presentation_tag": "http"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "cryb.to",
+          "state": 1,
+          "proof_url": "https://keybase.io/dagerling/sigchain#a3a40c119b6efd9edec0e32d49600194ab35d784c9d1c4b9c3b5a74144a84d280f",
+          "sig_id": "a3a40c119b6efd9edec0e32d49600194ab35d784c9d1c4b9c3b5a74144a84d280f",
+          "proof_id": "43539fe83add9d9ab2a39810",
+          "human_url": "dns://cryb.to",
+          "service_url": "http://cryb.to",
+          "presentation_group": "cryb.to",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "des.no",
+          "state": 1,
+          "proof_url": "https://keybase.io/dagerling/sigchain#2c5c82a0bdc259cf50943685ced61e3f01fe8f5ef437f79ad0f5bad2e6ad75470f",
+          "sig_id": "2c5c82a0bdc259cf50943685ced61e3f01fe8f5ef437f79ad0f5bad2e6ad75470f",
+          "proof_id": "a294f28a8d2584e1331dff10",
+          "human_url": "dns://des.no",
+          "service_url": "http://des.no",
+          "presentation_group": "des.no",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "openpam.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/dagerling/sigchain#9b0b3ad6ac1f2076e0e32fe7feb89d58cf34cea4fcde0e638291dbd9dff7757d0f",
+          "sig_id": "9b0b3ad6ac1f2076e0e32fe7feb89d58cf34cea4fcde0e638291dbd9dff7757d0f",
+          "proof_id": "f06b64d95e03a3b481c14410",
+          "human_url": "dns://openpam.org",
+          "service_url": "http://openpam.org",
+          "presentation_group": "openpam.org",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "realevildes",
+          "state": 1,
+          "proof_url": "https://twitter.com/RealEvilDES/status/781454879860588548",
+          "sig_id": "d653056b1d5e0d2423c719d8c1075e86a1dfa278351788a7b379330409aeebf80f",
+          "proof_id": "bb03e105e5fa687662f45410",
+          "human_url": "https://twitter.com/RealEvilDES/status/781454879860588548",
+          "service_url": "https://twitter.com/RealEvilDES",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -82,9 +162,77 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "blog.des.no": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "blog.des.no",
+          "state": 1,
+          "proof_url": "http://blog.des.no/.well-known/keybase.txt",
+          "sig_id": "da4925abdd2218b5ccfaabb2b2ed4bc25b43e1b41e215fce1c463d15f29152130f",
+          "proof_id": "43210ec20f0556c36b01a910",
+          "human_url": "http://blog.des.no/.well-known/keybase.txt",
+          "service_url": "http://blog.des.no",
+          "presentation_group": "blog.des.no",
+          "presentation_tag": "http"
+        }
+      ],
+      "cryb.to": [
+        {
+          "proof_type": "dns",
+          "nametag": "cryb.to",
+          "state": 1,
+          "proof_url": "https://keybase.io/dagerling/sigchain#a3a40c119b6efd9edec0e32d49600194ab35d784c9d1c4b9c3b5a74144a84d280f",
+          "sig_id": "a3a40c119b6efd9edec0e32d49600194ab35d784c9d1c4b9c3b5a74144a84d280f",
+          "proof_id": "43539fe83add9d9ab2a39810",
+          "human_url": "dns://cryb.to",
+          "service_url": "http://cryb.to",
+          "presentation_group": "cryb.to",
+          "presentation_tag": "dns"
+        }
+      ],
+      "des.no": [
+        {
+          "proof_type": "dns",
+          "nametag": "des.no",
+          "state": 1,
+          "proof_url": "https://keybase.io/dagerling/sigchain#2c5c82a0bdc259cf50943685ced61e3f01fe8f5ef437f79ad0f5bad2e6ad75470f",
+          "sig_id": "2c5c82a0bdc259cf50943685ced61e3f01fe8f5ef437f79ad0f5bad2e6ad75470f",
+          "proof_id": "a294f28a8d2584e1331dff10",
+          "human_url": "dns://des.no",
+          "service_url": "http://des.no",
+          "presentation_group": "des.no",
+          "presentation_tag": "dns"
+        }
+      ],
+      "openpam.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "openpam.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/dagerling/sigchain#9b0b3ad6ac1f2076e0e32fe7feb89d58cf34cea4fcde0e638291dbd9dff7757d0f",
+          "sig_id": "9b0b3ad6ac1f2076e0e32fe7feb89d58cf34cea4fcde0e638291dbd9dff7757d0f",
+          "proof_id": "f06b64d95e03a3b481c14410",
+          "human_url": "dns://openpam.org",
+          "service_url": "http://openpam.org",
+          "presentation_group": "openpam.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "realevildes",
+        "state": 1,
+        "proof_url": "https://twitter.com/RealEvilDES/status/781454879860588548",
+        "sig_id": "d653056b1d5e0d2423c719d8c1075e86a1dfa278351788a7b379330409aeebf80f",
+        "proof_id": "bb03e105e5fa687662f45410",
+        "human_url": "https://twitter.com/RealEvilDES/status/781454879860588548",
+        "service_url": "https://twitter.com/RealEvilDES",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "dag-erling",
@@ -96,23 +244,71 @@
         "service_url": "https://github.com/dag-erling",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "cryb.to",
+        "state": 1,
+        "proof_url": "https://keybase.io/dagerling/sigchain#a3a40c119b6efd9edec0e32d49600194ab35d784c9d1c4b9c3b5a74144a84d280f",
+        "sig_id": "a3a40c119b6efd9edec0e32d49600194ab35d784c9d1c4b9c3b5a74144a84d280f",
+        "proof_id": "43539fe83add9d9ab2a39810",
+        "human_url": "dns://cryb.to",
+        "service_url": "http://cryb.to",
+        "presentation_group": "cryb.to",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "des.no",
+        "state": 1,
+        "proof_url": "https://keybase.io/dagerling/sigchain#2c5c82a0bdc259cf50943685ced61e3f01fe8f5ef437f79ad0f5bad2e6ad75470f",
+        "sig_id": "2c5c82a0bdc259cf50943685ced61e3f01fe8f5ef437f79ad0f5bad2e6ad75470f",
+        "proof_id": "a294f28a8d2584e1331dff10",
+        "human_url": "dns://des.no",
+        "service_url": "http://des.no",
+        "presentation_group": "des.no",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "openpam.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/dagerling/sigchain#9b0b3ad6ac1f2076e0e32fe7feb89d58cf34cea4fcde0e638291dbd9dff7757d0f",
+        "sig_id": "9b0b3ad6ac1f2076e0e32fe7feb89d58cf34cea4fcde0e638291dbd9dff7757d0f",
+        "proof_id": "f06b64d95e03a3b481c14410",
+        "human_url": "dns://openpam.org",
+        "service_url": "http://openpam.org",
+        "presentation_group": "openpam.org",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "blog.des.no",
+        "state": 1,
+        "proof_url": "http://blog.des.no/.well-known/keybase.txt",
+        "sig_id": "da4925abdd2218b5ccfaabb2b2ed4bc25b43e1b41e215fce1c463d15f29152130f",
+        "proof_id": "43210ec20f0556c36b01a910",
+        "human_url": "http://blog.des.no/.well-known/keybase.txt",
+        "service_url": "http://blog.des.no",
+        "presentation_group": "blog.des.no",
+        "presentation_tag": "http"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/b0e4668a3a329608b8729ed397ee7805_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2ee12521d6b3c0f1030459fbcc3ec305_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "da4925abdd2218b5ccfaabb2b2ed4bc25b43e1b41e215fce1c463d15f29152130f",
-      "seqno": 3,
-      "payload_hash": "fb7c799028f0a2857c6ebd0e1149bc534e485899b10a554ed234367907fd25ef"
+      "sig_id": "2c5c82a0bdc259cf50943685ced61e3f01fe8f5ef437f79ad0f5bad2e6ad75470f",
+      "seqno": 7,
+      "payload_hash": "acb29e76846eeb72d98617347ad8c3cc07ecebb7c63903d5dd497f387ca314b1"
     }
   },
   "devices": {}
