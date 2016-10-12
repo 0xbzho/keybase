@@ -4,9 +4,9 @@
     "username": "kashike",
     "ctime": 1408489591,
     "mtime": 1408489591,
-    "id_version": 228,
+    "id_version": 237,
     "track_version": 5,
-    "last_id_change": 1469381758,
+    "last_id_change": 1473826679,
     "username_cased": "kashike"
   },
   "profile": {
@@ -126,6 +126,18 @@
           "human_url": "https://miserable.ninja/.well-known/keybase.txt",
           "service_url": "https://miserable.ninja",
           "presentation_group": "miserable.ninja",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "getwaterfall.xyz",
+          "state": 1,
+          "proof_url": "https://getwaterfall.xyz/.well-known/keybase.txt",
+          "sig_id": "9ea7be8a770f475a0265ce6843aa527394d8ab8673757b19d98875bda735dc460f",
+          "proof_id": "b6193c211c603f726d666710",
+          "human_url": "https://getwaterfall.xyz/.well-known/keybase.txt",
+          "service_url": "https://getwaterfall.xyz",
+          "presentation_group": "getwaterfall.xyz",
           "presentation_tag": "https"
         }
       ],
@@ -289,6 +301,18 @@
       ],
       "getwaterfall.xyz": [
         {
+          "proof_type": "generic_web_site",
+          "nametag": "getwaterfall.xyz",
+          "state": 1,
+          "proof_url": "https://getwaterfall.xyz/.well-known/keybase.txt",
+          "sig_id": "9ea7be8a770f475a0265ce6843aa527394d8ab8673757b19d98875bda735dc460f",
+          "proof_id": "b6193c211c603f726d666710",
+          "human_url": "https://getwaterfall.xyz/.well-known/keybase.txt",
+          "service_url": "https://getwaterfall.xyz",
+          "presentation_group": "getwaterfall.xyz",
+          "presentation_tag": "https"
+        },
+        {
           "proof_type": "dns",
           "nametag": "getwaterfall.xyz",
           "state": 1,
@@ -344,16 +368,16 @@
         "presentation_tag": "tweet"
       },
       {
-        "proof_type": "github",
-        "nametag": "kashike",
+        "proof_type": "dns",
+        "nametag": "miserable.ninja",
         "state": 1,
-        "proof_url": "https://gist.github.com/5e598bdf70dbb921e728",
-        "sig_id": "fc822d8ff4736ff7770fad049cb21bd1709f0302c6641ee820ec1e33319ce4a80f",
-        "proof_id": "9dec7d31881a6182ac92c210",
-        "human_url": "https://gist.github.com/5e598bdf70dbb921e728",
-        "service_url": "https://github.com/kashike",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
+        "proof_url": "https://keybase.io/kashike/sigchain#a047b875b3476de23955d1769861e96a2ddadcfa5257d70c4d7156eb12b720e60f",
+        "sig_id": "a047b875b3476de23955d1769861e96a2ddadcfa5257d70c4d7156eb12b720e60f",
+        "proof_id": "e9eeeae69b8f40292cf20b10",
+        "human_url": "dns://miserable.ninja",
+        "service_url": "http://miserable.ninja",
+        "presentation_group": "miserable.ninja",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "reddit",
@@ -366,6 +390,42 @@
         "service_url": "https://reddit.com/user/kashike",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "vq.lc",
+        "state": 1,
+        "proof_url": "https://keybase.io/kashike/sigchain#e778f717cc4a87798db102ed472cb6afaa53e981a318811b82c555f7b204829b0f",
+        "sig_id": "e778f717cc4a87798db102ed472cb6afaa53e981a318811b82c555f7b204829b0f",
+        "proof_id": "9ab0711223d109eca481ee10",
+        "human_url": "dns://vq.lc",
+        "service_url": "http://vq.lc",
+        "presentation_group": "vq.lc",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "korobi.io",
+        "state": 1,
+        "proof_url": "https://keybase.io/kashike/sigchain#678ff7e1857140ae1904ad2a3feb6905d957e8f333887a8b08c6e1a2dc05b5180f",
+        "sig_id": "678ff7e1857140ae1904ad2a3feb6905d957e8f333887a8b08c6e1a2dc05b5180f",
+        "proof_id": "58653bfb366afff0a58c6d10",
+        "human_url": "dns://korobi.io",
+        "service_url": "http://korobi.io",
+        "presentation_group": "korobi.io",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "github",
+        "nametag": "kashike",
+        "state": 1,
+        "proof_url": "https://gist.github.com/5e598bdf70dbb921e728",
+        "sig_id": "fc822d8ff4736ff7770fad049cb21bd1709f0302c6641ee820ec1e33319ce4a80f",
+        "proof_id": "9dec7d31881a6182ac92c210",
+        "human_url": "https://gist.github.com/5e598bdf70dbb921e728",
+        "service_url": "https://github.com/kashike",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
       },
       {
         "proof_type": "dns",
@@ -392,40 +452,16 @@
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "dns",
-        "nametag": "korobi.io",
-        "state": 1,
-        "proof_url": "https://keybase.io/kashike/sigchain#678ff7e1857140ae1904ad2a3feb6905d957e8f333887a8b08c6e1a2dc05b5180f",
-        "sig_id": "678ff7e1857140ae1904ad2a3feb6905d957e8f333887a8b08c6e1a2dc05b5180f",
-        "proof_id": "58653bfb366afff0a58c6d10",
-        "human_url": "dns://korobi.io",
-        "service_url": "http://korobi.io",
-        "presentation_group": "korobi.io",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "vq.lc",
-        "state": 1,
-        "proof_url": "https://keybase.io/kashike/sigchain#e778f717cc4a87798db102ed472cb6afaa53e981a318811b82c555f7b204829b0f",
-        "sig_id": "e778f717cc4a87798db102ed472cb6afaa53e981a318811b82c555f7b204829b0f",
-        "proof_id": "9ab0711223d109eca481ee10",
-        "human_url": "dns://vq.lc",
-        "service_url": "http://vq.lc",
-        "presentation_group": "vq.lc",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
+        "proof_type": "generic_web_site",
         "nametag": "miserable.ninja",
         "state": 1,
-        "proof_url": "https://keybase.io/kashike/sigchain#a047b875b3476de23955d1769861e96a2ddadcfa5257d70c4d7156eb12b720e60f",
-        "sig_id": "a047b875b3476de23955d1769861e96a2ddadcfa5257d70c4d7156eb12b720e60f",
-        "proof_id": "e9eeeae69b8f40292cf20b10",
-        "human_url": "dns://miserable.ninja",
-        "service_url": "http://miserable.ninja",
+        "proof_url": "https://miserable.ninja/.well-known/keybase.txt",
+        "sig_id": "07ca498b4e5298a9da5e22983833246043eaff74ab919387990f0527bee7e0020f",
+        "proof_id": "778c0fc3ca263d8ddd5dd610",
+        "human_url": "https://miserable.ninja/.well-known/keybase.txt",
+        "service_url": "https://miserable.ninja",
         "presentation_group": "miserable.ninja",
-        "presentation_tag": "dns"
+        "presentation_tag": "https"
       },
       {
         "proof_type": "generic_web_site",
@@ -441,14 +477,14 @@
       },
       {
         "proof_type": "generic_web_site",
-        "nametag": "miserable.ninja",
+        "nametag": "getwaterfall.xyz",
         "state": 1,
-        "proof_url": "https://miserable.ninja/.well-known/keybase.txt",
-        "sig_id": "07ca498b4e5298a9da5e22983833246043eaff74ab919387990f0527bee7e0020f",
-        "proof_id": "778c0fc3ca263d8ddd5dd610",
-        "human_url": "https://miserable.ninja/.well-known/keybase.txt",
-        "service_url": "https://miserable.ninja",
-        "presentation_group": "miserable.ninja",
+        "proof_url": "https://getwaterfall.xyz/.well-known/keybase.txt",
+        "sig_id": "9ea7be8a770f475a0265ce6843aa527394d8ab8673757b19d98875bda735dc460f",
+        "proof_id": "b6193c211c603f726d666710",
+        "human_url": "https://getwaterfall.xyz/.well-known/keybase.txt",
+        "service_url": "https://getwaterfall.xyz",
+        "presentation_group": "getwaterfall.xyz",
         "presentation_tag": "https"
       }
     ]
