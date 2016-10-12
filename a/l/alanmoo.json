@@ -4,9 +4,9 @@
     "username": "alanmoo",
     "ctime": 1397532277,
     "mtime": 1397532277,
-    "id_version": 15,
-    "track_version": 8,
-    "last_id_change": 1454630507,
+    "id_version": 16,
+    "track_version": 13,
+    "last_id_change": 1472828557,
     "username_cased": "alanmoo"
   },
   "profile": {
@@ -41,16 +41,20 @@
       "0121259aef67e92f34dde44e96ef61665c4e9b107ba25a05b796355c1cc3d5b1d05d0a",
       "0120d1a67aea2e527274f3261e291e28171c7e765efcd2536ebcb2fece2ac878d9bd0a",
       "012051aee65b3123590fc78b19c9fe6a5aa733d17ec9260c040c9133a38d38abe6e50a",
-      "01213cba017f4746139a4e63d3c33b4d34b6e22f4d10fe2e76d36b00649b4ac036350a"
+      "01213cba017f4746139a4e63d3c33b4d34b6e22f4d10fe2e76d36b00649b4ac036350a",
+      "0120b32924b918dd23ef7eddfa662550948021a590e6200c87045d7a39f9fe717b1c0a",
+      "0121f9f9abd436f90c12f167a4d6f869d59bc690d9d088e29318d6b63ff13ab6df730a"
     ],
     "subkeys": [
       "0121259aef67e92f34dde44e96ef61665c4e9b107ba25a05b796355c1cc3d5b1d05d0a",
-      "01213cba017f4746139a4e63d3c33b4d34b6e22f4d10fe2e76d36b00649b4ac036350a"
+      "01213cba017f4746139a4e63d3c33b4d34b6e22f4d10fe2e76d36b00649b4ac036350a",
+      "0121f9f9abd436f90c12f167a4d6f869d59bc690d9d088e29318d6b63ff13ab6df730a"
     ],
     "sibkeys": [
       "01016433b2db9f5b3f9d0314e1c9989dc63b0072a3b40fb8e0bdb9cf827d53cbe2800a",
       "0120d1a67aea2e527274f3261e291e28171c7e765efcd2536ebcb2fece2ac878d9bd0a",
-      "012051aee65b3123590fc78b19c9fe6a5aa733d17ec9260c040c9133a38d38abe6e50a"
+      "012051aee65b3123590fc78b19c9fe6a5aa733d17ec9260c040c9133a38d38abe6e50a",
+      "0120b32924b918dd23ef7eddfa662550948021a590e6200c87045d7a39f9fe717b1c0a"
     ],
     "families": {
       "0101a22baa788b7aa95d4811492362ec208b55d7a297cf59ab96bc74bd9100659de30a": [
@@ -63,7 +67,9 @@
         "0121259aef67e92f34dde44e96ef61665c4e9b107ba25a05b796355c1cc3d5b1d05d0a",
         "0120d1a67aea2e527274f3261e291e28171c7e765efcd2536ebcb2fece2ac878d9bd0a",
         "012051aee65b3123590fc78b19c9fe6a5aa733d17ec9260c040c9133a38d38abe6e50a",
-        "01213cba017f4746139a4e63d3c33b4d34b6e22f4d10fe2e76d36b00649b4ac036350a"
+        "01213cba017f4746139a4e63d3c33b4d34b6e22f4d10fe2e76d36b00649b4ac036350a",
+        "0120b32924b918dd23ef7eddfa662550948021a590e6200c87045d7a39f9fe717b1c0a",
+        "0121f9f9abd436f90c12f167a4d6f869d59bc690d9d088e29318d6b63ff13ab6df730a"
       ]
     },
     "eldest_kid": "01016433b2db9f5b3f9d0314e1c9989dc63b0072a3b40fb8e0bdb9cf827d53cbe2800a",
@@ -171,12 +177,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "0ee9bd3218e4f804901e7aacd8c391df46165f88a72a88aa172859a0fddaf2670f",
-      "seqno": 17,
-      "payload_hash": "cbb06ec2b40091ba1402aa37081ce539f762a61e8621528a21234fed9e750f06"
+      "sig_id": "c5ed20bf9d7311ce89c2cefdece610c7bb99ca45bfbc2d4ba08e92ec90579c100f",
+      "seqno": 24,
+      "payload_hash": "3b0c09a32cbfaf36254feab432a96f955514efae8c6bfafd6997bbfed9cf8c2f"
     }
   },
   "devices": {
+    "887f2fb52b50e3f234068f13203db818": {
+      "type": "desktop",
+      "ctime": 1472828557,
+      "mtime": 1472828557,
+      "name": "Moo-in-the-Air",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b32924b918dd23ef7eddfa662550948021a590e6200c87045d7a39f9fe717b1c0a",
+          "key_role": 1,
+          "sig_id": "b59da847afc9610d5a0cd4fe311f70d9caea69c09c02bbd2d867a5b87ac45b7a0f"
+        },
+        {
+          "kid": "0121f9f9abd436f90c12f167a4d6f869d59bc690d9d088e29318d6b63ff13ab6df730a",
+          "key_role": 2,
+          "sig_id": "69bbad7159120e54b751da775303f67b5a4a89c92aeac03f9f6b0429d69b99720f"
+        }
+      ]
+    },
     "9bdd39e2c4c2ba6dbdece6d082cde518": {
       "type": "backup",
       "ctime": 1454630277,
