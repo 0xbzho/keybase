@@ -4,9 +4,9 @@
     "username": "sandhya",
     "ctime": 1467557950,
     "mtime": 1467557950,
-    "id_version": 12,
+    "id_version": 13,
     "track_version": 1,
-    "last_id_change": 1467656100,
+    "last_id_change": 1473451280,
     "username_cased": "sandhya"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "0120b5cd64fe42cc0a05f84654fb4c1c5047cfc6478e428750c0c0ad77c7268d23690a",
       "012105a76eacab495f6c2df8e9d36e8a37460055c50e6ee4924720f030f88404b53b0a",
       "01203f7ed516fc504240a0607e569c8edb265eb54941cadd81b32eb82dae20e3ccdf0a",
-      "0121264fccdcf3cd49292df382084b6f2de92c257a4631e64a0ef2c4701435180d160a"
+      "0121264fccdcf3cd49292df382084b6f2de92c257a4631e64a0ef2c4701435180d160a",
+      "0121b6225cf8fcb2232f8cddd4f7d6f861bfc8a708afa1d65669ab26a605ccc2541a0a",
+      "0120b97a6964a6768da464537419d4f6e04895b9efc1332bf6af29dbce23bd23a9d40a"
     ],
     "subkeys": [
       "012105a76eacab495f6c2df8e9d36e8a37460055c50e6ee4924720f030f88404b53b0a",
-      "0121264fccdcf3cd49292df382084b6f2de92c257a4631e64a0ef2c4701435180d160a"
+      "0121264fccdcf3cd49292df382084b6f2de92c257a4631e64a0ef2c4701435180d160a",
+      "0121b6225cf8fcb2232f8cddd4f7d6f861bfc8a708afa1d65669ab26a605ccc2541a0a"
     ],
     "sibkeys": [
       "0101ac56747afef20fab70e49e4804fa66144ec96d6976b815bca5f08fe2912841c60a",
       "0120b5cd64fe42cc0a05f84654fb4c1c5047cfc6478e428750c0c0ad77c7268d23690a",
-      "01203f7ed516fc504240a0607e569c8edb265eb54941cadd81b32eb82dae20e3ccdf0a"
+      "01203f7ed516fc504240a0607e569c8edb265eb54941cadd81b32eb82dae20e3ccdf0a",
+      "0120b97a6964a6768da464537419d4f6e04895b9efc1332bf6af29dbce23bd23a9d40a"
     ],
     "families": {
       "0101ac56747afef20fab70e49e4804fa66144ec96d6976b815bca5f08fe2912841c60a": [
@@ -55,7 +59,9 @@
         "0120b5cd64fe42cc0a05f84654fb4c1c5047cfc6478e428750c0c0ad77c7268d23690a",
         "012105a76eacab495f6c2df8e9d36e8a37460055c50e6ee4924720f030f88404b53b0a",
         "01203f7ed516fc504240a0607e569c8edb265eb54941cadd81b32eb82dae20e3ccdf0a",
-        "0121264fccdcf3cd49292df382084b6f2de92c257a4631e64a0ef2c4701435180d160a"
+        "0121264fccdcf3cd49292df382084b6f2de92c257a4631e64a0ef2c4701435180d160a",
+        "0121b6225cf8fcb2232f8cddd4f7d6f861bfc8a708afa1d65669ab26a605ccc2541a0a",
+        "0120b97a6964a6768da464537419d4f6e04895b9efc1332bf6af29dbce23bd23a9d40a"
       ]
     },
     "eldest_kid": "0101ac56747afef20fab70e49e4804fa66144ec96d6976b815bca5f08fe2912841c60a",
@@ -111,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/sandhya2392",
+          "nametag": "sandhya2392",
           "state": 1,
           "proof_url": "https://coinbase.com/sandhya2392/public-key",
           "sig_id": "5b90f164019005e4b48dcf3b6abb19d96f3bef8234cc3a73eecf1fcb8a22fc8a0f",
@@ -169,7 +175,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/sandhya2392",
+          "nametag": "sandhya2392",
           "state": 1,
           "proof_url": "https://coinbase.com/sandhya2392/public-key",
           "sig_id": "5b90f164019005e4b48dcf3b6abb19d96f3bef8234cc3a73eecf1fcb8a22fc8a0f",
@@ -220,7 +226,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/sandhya2392",
+        "nametag": "sandhya2392",
         "state": 1,
         "proof_url": "https://coinbase.com/sandhya2392/public-key",
         "sig_id": "5b90f164019005e4b48dcf3b6abb19d96f3bef8234cc3a73eecf1fcb8a22fc8a0f",
@@ -250,12 +256,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b52ca8052a8ac65f795c78f0361336d56c7d708c21238ccc26cc8b7bd2d8b4a60f",
-      "seqno": 11,
-      "payload_hash": "e36f112301c417358e5ff9419f8e39a3d102730c46bf4e910595a0d110320f14"
+      "sig_id": "4b352d226fb971f4909de147a89726be2392ef47c6eb7c83ec1198b8d0d68ca20f",
+      "seqno": 13,
+      "payload_hash": "e94849d40368d4b738973ba1d0a3b05c1bdbb90da42bc7abdda7f0bf5176a409"
     }
   },
   "devices": {
+    "679bc929c652ea88b50369be8b8a8318": {
+      "type": "desktop",
+      "ctime": 1473451280,
+      "mtime": 1473451280,
+      "name": "sandhya-workstation",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b97a6964a6768da464537419d4f6e04895b9efc1332bf6af29dbce23bd23a9d40a",
+          "key_role": 1,
+          "sig_id": "3ac3a32d7e3acd3c074106bb3ac5357c452db9e00c48036512cb0adb238725ae0f"
+        },
+        {
+          "kid": "0121b6225cf8fcb2232f8cddd4f7d6f861bfc8a708afa1d65669ab26a605ccc2541a0a",
+          "key_role": 2,
+          "sig_id": "4b352d226fb971f4909de147a89726be2392ef47c6eb7c83ec1198b8d0d68ca20f"
+        }
+      ]
+    },
     "9e0909df883bd169ae4a72273ffd6918": {
       "type": "backup",
       "ctime": 1467656100,
