@@ -4,16 +4,16 @@
     "username": "skipperblue",
     "ctime": 1445987487,
     "mtime": 1445987487,
-    "id_version": 34,
+    "id_version": 37,
     "track_version": 11,
-    "last_id_change": 1468520414,
+    "last_id_change": 1473649834,
     "username_cased": "SkipperBlue"
   },
   "profile": {
-    "mtime": 1468520622,
+    "mtime": 1474680950,
     "full_name": "Skipper Blue",
     "location": "midwest USA",
-    "bio": "xmpp: skipperblue@dukgo.com  otr fingerprint: A5D906ED EE943F37 BBE2263B 8BAA8AF8 5A201A0F | "
+    "bio": "xmpp: skipperblue@dukgo.com  otr fingerprint: F4FEA5A4 683ACAAF B7483ED8 8025C3C2 28E89597"
   },
   "public_keys": {
     "primary": {
@@ -40,16 +40,20 @@
       "0121fbf0fa7017edb981f131210521853e7f43013d10fdea5853d5239384072f4e540a",
       "01208e05533f197ece91f8fd85d0e4f574aa9807dcaa358b97398f19e5921273869e0a",
       "0120a37867ed2054dd6d4d79fb7fc6271fd62b676821c5db86c6e23048bb3f2704c50a",
-      "012180c7b8c70feffa87e37fa7595ea1e7d9abeddd8e966cf230ecb0c07e414b43680a"
+      "012180c7b8c70feffa87e37fa7595ea1e7d9abeddd8e966cf230ecb0c07e414b43680a",
+      "012074428c1d8e52a55bf923a51ca347726fa6aae8181a4d9b94f3ce8a259cb5a8d80a",
+      "0121fa94fcba513a7bf9b73a2f1d32793ce9f80af5d5fb7fc4d721c62ad43e2bc9180a"
     ],
     "subkeys": [
       "0121ad410e7f8c728e0041331f1c96d81e43b36c1fa2606b716da9f1ad6e106ef3620a",
-      "012180c7b8c70feffa87e37fa7595ea1e7d9abeddd8e966cf230ecb0c07e414b43680a"
+      "012180c7b8c70feffa87e37fa7595ea1e7d9abeddd8e966cf230ecb0c07e414b43680a",
+      "0121fa94fcba513a7bf9b73a2f1d32793ce9f80af5d5fb7fc4d721c62ad43e2bc9180a"
     ],
     "sibkeys": [
       "01013b31bb2062abf45203fa095894c52a65fb0809233e151f2e0082540bba00436a0a",
       "0120121aef845b3f8b684aba114afcbaf6410e4f9b09e77e3a1a2e27c855b803f3d50a",
-      "0120a37867ed2054dd6d4d79fb7fc6271fd62b676821c5db86c6e23048bb3f2704c50a"
+      "0120a37867ed2054dd6d4d79fb7fc6271fd62b676821c5db86c6e23048bb3f2704c50a",
+      "012074428c1d8e52a55bf923a51ca347726fa6aae8181a4d9b94f3ce8a259cb5a8d80a"
     ],
     "families": {
       "01013b31bb2062abf45203fa095894c52a65fb0809233e151f2e0082540bba00436a0a": [
@@ -59,7 +63,9 @@
         "0121fbf0fa7017edb981f131210521853e7f43013d10fdea5853d5239384072f4e540a",
         "01208e05533f197ece91f8fd85d0e4f574aa9807dcaa358b97398f19e5921273869e0a",
         "0120a37867ed2054dd6d4d79fb7fc6271fd62b676821c5db86c6e23048bb3f2704c50a",
-        "012180c7b8c70feffa87e37fa7595ea1e7d9abeddd8e966cf230ecb0c07e414b43680a"
+        "012180c7b8c70feffa87e37fa7595ea1e7d9abeddd8e966cf230ecb0c07e414b43680a",
+        "012074428c1d8e52a55bf923a51ca347726fa6aae8181a4d9b94f3ce8a259cb5a8d80a",
+        "0121fa94fcba513a7bf9b73a2f1d32793ce9f80af5d5fb7fc4d721c62ad43e2bc9180a"
       ]
     },
     "eldest_kid": "01013b31bb2062abf45203fa095894c52a65fb0809233e151f2e0082540bba00436a0a",
@@ -207,9 +213,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "899a16b1bbb669981669b122c47516d74302c3231403c146a709ce2ad6d752240f",
-      "seqno": 24,
-      "payload_hash": "91704c0e8ea0d6a8cd2e03fee8d8ae73f084192ff8bf03d1db0fd5759c29ccd0"
+      "sig_id": "c6857111ef85250b8c509792651aa901e09d60f7ace37906b676995adfc511f50f",
+      "seqno": 26,
+      "payload_hash": "e206a94d42c27bb234e4f15e05064fb5efa066aee6d274aec7bdd310a3f807e9"
     }
   },
   "devices": {
@@ -248,6 +254,25 @@
           "kid": "012180c7b8c70feffa87e37fa7595ea1e7d9abeddd8e966cf230ecb0c07e414b43680a",
           "key_role": 2,
           "sig_id": "96a9c8a3b922b34807e24991f7be63b93aed891e8b0fb277a100bb49bf1efe840f"
+        }
+      ]
+    },
+    "99792caff4722de638b38250d8ebb118": {
+      "type": "desktop",
+      "ctime": 1473649834,
+      "mtime": 1473649834,
+      "name": "desktop-nix",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012074428c1d8e52a55bf923a51ca347726fa6aae8181a4d9b94f3ce8a259cb5a8d80a",
+          "key_role": 1,
+          "sig_id": "43e4c93464e024d39dd120ff8935c847927d21a456160491747004afceb601f00f"
+        },
+        {
+          "kid": "0121fa94fcba513a7bf9b73a2f1d32793ce9f80af5d5fb7fc4d721c62ad43e2bc9180a",
+          "key_role": 2,
+          "sig_id": "c6857111ef85250b8c509792651aa901e09d60f7ace37906b676995adfc511f50f"
         }
       ]
     }
