@@ -4,9 +4,9 @@
     "username": "ferrix",
     "ctime": 1420750200,
     "mtime": 1420750200,
-    "id_version": 145,
+    "id_version": 152,
     "track_version": 23,
-    "last_id_change": 1468393558,
+    "last_id_change": 1473827219,
     "username_cased": "ferrix"
   },
   "profile": {
@@ -114,7 +114,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/ferrix",
+          "nametag": "ferrix",
           "state": 1,
           "proof_url": "https://coinbase.com/ferrix/public-key",
           "sig_id": "56dfd3e8edb9a61313f8b13fe38a467f0070b5c66037c4cdcd0de4a6e8c6c6240f",
@@ -136,6 +136,18 @@
           "human_url": "https://blog.ferrix.fi/keybase.txt",
           "service_url": "https://blog.ferrix.fi",
           "presentation_group": "blog.ferrix.fi",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ferrix.fi",
+          "state": 1,
+          "proof_url": "https://ferrix.fi/.well-known/keybase.txt",
+          "sig_id": "7c3cbea67cf5f094637c5f729d53c60888a61cc6b5627ea45ed82f5d622a777f0f",
+          "proof_id": "ef20543f3a5d45970891f410",
+          "human_url": "https://ferrix.fi/.well-known/keybase.txt",
+          "service_url": "https://ferrix.fi",
+          "presentation_group": "ferrix.fi",
           "presentation_tag": "https"
         }
       ],
@@ -248,7 +260,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/ferrix",
+          "nametag": "ferrix",
           "state": 1,
           "proof_url": "https://coinbase.com/ferrix/public-key",
           "sig_id": "56dfd3e8edb9a61313f8b13fe38a467f0070b5c66037c4cdcd0de4a6e8c6c6240f",
@@ -274,6 +286,18 @@
         }
       ],
       "ferrix.fi": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ferrix.fi",
+          "state": 1,
+          "proof_url": "https://ferrix.fi/.well-known/keybase.txt",
+          "sig_id": "7c3cbea67cf5f094637c5f729d53c60888a61cc6b5627ea45ed82f5d622a777f0f",
+          "proof_id": "ef20543f3a5d45970891f410",
+          "human_url": "https://ferrix.fi/.well-known/keybase.txt",
+          "service_url": "https://ferrix.fi",
+          "presentation_group": "ferrix.fi",
+          "presentation_tag": "https"
+        },
         {
           "proof_type": "dns",
           "nametag": "ferrix.fi",
@@ -358,16 +382,16 @@
         "presentation_tag": "tweet"
       },
       {
-        "proof_type": "github",
-        "nametag": "ferrix",
+        "proof_type": "dns",
+        "nametag": "codetry.co",
         "state": 1,
-        "proof_url": "https://gist.github.com/13644c5612bff43f82be",
-        "sig_id": "46993e42e28ff217dd95815cbaadbc8d0a6dd20336074eb229f3441cfbce55ca0f",
-        "proof_id": "925669c0cbaeceea7830e910",
-        "human_url": "https://gist.github.com/13644c5612bff43f82be",
-        "service_url": "https://github.com/ferrix",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
+        "proof_url": "https://keybase.io/ferrix/sigchain#6f84679b4264b54c158bc123da8afe6e97979c9b08e9d1cfef92193863095e620f",
+        "sig_id": "6f84679b4264b54c158bc123da8afe6e97979c9b08e9d1cfef92193863095e620f",
+        "proof_id": "fdceaa8f687e35ca60bf0610",
+        "human_url": "dns://codetry.co",
+        "service_url": "http://codetry.co",
+        "presentation_group": "codetry.co",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "reddit",
@@ -383,7 +407,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/ferrix",
+        "nametag": "ferrix",
         "state": 1,
         "proof_url": "https://coinbase.com/ferrix/public-key",
         "sig_id": "56dfd3e8edb9a61313f8b13fe38a467f0070b5c66037c4cdcd0de4a6e8c6c6240f",
@@ -392,6 +416,30 @@
         "service_url": "https://coinbase.com/ferrix",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "codetry.fi",
+        "state": 1,
+        "proof_url": "https://keybase.io/ferrix/sigchain#9bf61238e1afbe912a91cc2acc3bf689aee042ca522c19b3fc79d91de1e09efa0f",
+        "sig_id": "9bf61238e1afbe912a91cc2acc3bf689aee042ca522c19b3fc79d91de1e09efa0f",
+        "proof_id": "e6979d6340a2a8181206e910",
+        "human_url": "dns://codetry.fi",
+        "service_url": "http://codetry.fi",
+        "presentation_group": "codetry.fi",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "github",
+        "nametag": "ferrix",
+        "state": 1,
+        "proof_url": "https://gist.github.com/13644c5612bff43f82be",
+        "sig_id": "46993e42e28ff217dd95815cbaadbc8d0a6dd20336074eb229f3441cfbce55ca0f",
+        "proof_id": "925669c0cbaeceea7830e910",
+        "human_url": "https://gist.github.com/13644c5612bff43f82be",
+        "service_url": "https://github.com/ferrix",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
       },
       {
         "proof_type": "dns",
@@ -430,30 +478,6 @@
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "dns",
-        "nametag": "codetry.fi",
-        "state": 1,
-        "proof_url": "https://keybase.io/ferrix/sigchain#9bf61238e1afbe912a91cc2acc3bf689aee042ca522c19b3fc79d91de1e09efa0f",
-        "sig_id": "9bf61238e1afbe912a91cc2acc3bf689aee042ca522c19b3fc79d91de1e09efa0f",
-        "proof_id": "e6979d6340a2a8181206e910",
-        "human_url": "dns://codetry.fi",
-        "service_url": "http://codetry.fi",
-        "presentation_group": "codetry.fi",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "codetry.co",
-        "state": 1,
-        "proof_url": "https://keybase.io/ferrix/sigchain#6f84679b4264b54c158bc123da8afe6e97979c9b08e9d1cfef92193863095e620f",
-        "sig_id": "6f84679b4264b54c158bc123da8afe6e97979c9b08e9d1cfef92193863095e620f",
-        "proof_id": "fdceaa8f687e35ca60bf0610",
-        "human_url": "dns://codetry.co",
-        "service_url": "http://codetry.co",
-        "presentation_group": "codetry.co",
-        "presentation_tag": "dns"
-      },
-      {
         "proof_type": "generic_web_site",
         "nametag": "blog.ferrix.fi",
         "state": 1,
@@ -463,6 +487,18 @@
         "human_url": "https://blog.ferrix.fi/keybase.txt",
         "service_url": "https://blog.ferrix.fi",
         "presentation_group": "blog.ferrix.fi",
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "ferrix.fi",
+        "state": 1,
+        "proof_url": "https://ferrix.fi/.well-known/keybase.txt",
+        "sig_id": "7c3cbea67cf5f094637c5f729d53c60888a61cc6b5627ea45ed82f5d622a777f0f",
+        "proof_id": "ef20543f3a5d45970891f410",
+        "human_url": "https://ferrix.fi/.well-known/keybase.txt",
+        "service_url": "https://ferrix.fi",
+        "presentation_group": "ferrix.fi",
         "presentation_tag": "https"
       }
     ]
@@ -477,7 +513,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e780fe24c989bd43246f57dfdefe6005_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/00f4fae7fb9c9fd20cec229ebf65b005_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
