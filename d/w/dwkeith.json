@@ -4,9 +4,9 @@
     "username": "dwkeith",
     "ctime": 1454635998,
     "mtime": 1454635998,
-    "id_version": 105,
+    "id_version": 115,
     "track_version": 4,
-    "last_id_change": 1469727954,
+    "last_id_change": 1476159099,
     "username_cased": "dwkeith"
   },
   "profile": {
@@ -113,7 +113,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/dwk",
+          "nametag": "dwk",
           "state": 1,
           "proof_url": "https://coinbase.com/dwk/public-key",
           "sig_id": "bcd760127058cef84ca5efd91afa6f7444bf889e13fb7d7aba894590acee2e910f",
@@ -122,6 +122,20 @@
           "service_url": "https://coinbase.com/dwk",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "davidwkeith.com",
+          "state": 1,
+          "proof_url": "https://davidwkeith.com/.well-known/keybase.txt",
+          "sig_id": "f5511093f20268b822cfe5565593b79bbe238310b1aa17fef3607abaf9b000c20f",
+          "proof_id": "976a6078375c1c4808f7e610",
+          "human_url": "https://davidwkeith.com/.well-known/keybase.txt",
+          "service_url": "https://davidwkeith.com",
+          "presentation_group": "davidwkeith.com",
+          "presentation_tag": "https"
         }
       ],
       "dns": [
@@ -171,6 +185,18 @@
           "human_url": "dns://davidwkeith.com",
           "service_url": "http://davidwkeith.com",
           "presentation_group": "davidwkeith.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "tacotrucktuesday.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/dwkeith/sigchain#e6bca716e8e94790913516d3224a66383199f5c22b1226604cb6c3ed469e366d0f",
+          "sig_id": "e6bca716e8e94790913516d3224a66383199f5c22b1226604cb6c3ed469e366d0f",
+          "proof_id": "d5ce303f3427955c74edd410",
+          "human_url": "dns://tacotrucktuesday.org",
+          "service_url": "http://tacotrucktuesday.org",
+          "presentation_group": "tacotrucktuesday.org",
           "presentation_tag": "dns"
         },
         {
@@ -233,7 +259,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/dwk",
+          "nametag": "dwk",
           "state": 1,
           "proof_url": "https://coinbase.com/dwk/public-key",
           "sig_id": "bcd760127058cef84ca5efd91afa6f7444bf889e13fb7d7aba894590acee2e910f",
@@ -242,6 +268,32 @@
           "service_url": "https://coinbase.com/dwk",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "davidwkeith.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "davidwkeith.com",
+          "state": 1,
+          "proof_url": "https://davidwkeith.com/.well-known/keybase.txt",
+          "sig_id": "f5511093f20268b822cfe5565593b79bbe238310b1aa17fef3607abaf9b000c20f",
+          "proof_id": "976a6078375c1c4808f7e610",
+          "human_url": "https://davidwkeith.com/.well-known/keybase.txt",
+          "service_url": "https://davidwkeith.com",
+          "presentation_group": "davidwkeith.com",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "davidwkeith.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/dwkeith/sigchain#ac179b122b97a54d33a0a50bb0275516e1c37cdbb3efecdb820c4339af014d210f",
+          "sig_id": "ac179b122b97a54d33a0a50bb0275516e1c37cdbb3efecdb820c4339af014d210f",
+          "proof_id": "6dfa399d85d7d9e1b5aa5410",
+          "human_url": "dns://davidwkeith.com",
+          "service_url": "http://davidwkeith.com",
+          "presentation_group": "davidwkeith.com",
+          "presentation_tag": "dns"
         }
       ],
       "dwk.io": [
@@ -286,17 +338,17 @@
           "presentation_tag": "dns"
         }
       ],
-      "davidwkeith.com": [
+      "tacotrucktuesday.org": [
         {
           "proof_type": "dns",
-          "nametag": "davidwkeith.com",
+          "nametag": "tacotrucktuesday.org",
           "state": 1,
-          "proof_url": "https://keybase.io/dwkeith/sigchain#ac179b122b97a54d33a0a50bb0275516e1c37cdbb3efecdb820c4339af014d210f",
-          "sig_id": "ac179b122b97a54d33a0a50bb0275516e1c37cdbb3efecdb820c4339af014d210f",
-          "proof_id": "6dfa399d85d7d9e1b5aa5410",
-          "human_url": "dns://davidwkeith.com",
-          "service_url": "http://davidwkeith.com",
-          "presentation_group": "davidwkeith.com",
+          "proof_url": "https://keybase.io/dwkeith/sigchain#e6bca716e8e94790913516d3224a66383199f5c22b1226604cb6c3ed469e366d0f",
+          "sig_id": "e6bca716e8e94790913516d3224a66383199f5c22b1226604cb6c3ed469e366d0f",
+          "proof_id": "d5ce303f3427955c74edd410",
+          "human_url": "dns://tacotrucktuesday.org",
+          "service_url": "http://tacotrucktuesday.org",
+          "presentation_group": "tacotrucktuesday.org",
           "presentation_tag": "dns"
         }
       ],
@@ -317,6 +369,18 @@
     },
     "all": [
       {
+        "proof_type": "dns",
+        "nametag": "dwk.io",
+        "state": 1,
+        "proof_url": "https://keybase.io/dwkeith/sigchain#16fc245971c64b246f3e8177cd8991547a1a52561f24b3faea77b69aec2da2750f",
+        "sig_id": "16fc245971c64b246f3e8177cd8991547a1a52561f24b3faea77b69aec2da2750f",
+        "proof_id": "1edbd4d4441c005f0a759210",
+        "human_url": "dns://dwk.io",
+        "service_url": "http://dwk.io",
+        "presentation_group": "dwk.io",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "twitter",
         "nametag": "pulletsforever",
         "state": 1,
@@ -327,18 +391,6 @@
         "service_url": "https://twitter.com/pulletsforever",
         "presentation_group": "twitter",
         "presentation_tag": "tweet"
-      },
-      {
-        "proof_type": "github",
-        "nametag": "davidwkeith",
-        "state": 1,
-        "proof_url": "https://gist.github.com/e1c9985d0bbfcf53ad7a",
-        "sig_id": "256535469877faaa990e985d3a3440c996ebe20646d72f476ce6b6c9b739cc4a0f",
-        "proof_id": "188ca95d4f70ea8e8af72510",
-        "human_url": "https://gist.github.com/e1c9985d0bbfcf53ad7a",
-        "service_url": "https://github.com/davidwkeith",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
       },
       {
         "proof_type": "reddit",
@@ -354,7 +406,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/dwk",
+        "nametag": "dwk",
         "state": 1,
         "proof_url": "https://coinbase.com/dwk/public-key",
         "sig_id": "bcd760127058cef84ca5efd91afa6f7444bf889e13fb7d7aba894590acee2e910f",
@@ -366,15 +418,27 @@
       },
       {
         "proof_type": "dns",
-        "nametag": "dwk.io",
+        "nametag": "tacotrucktuesday.org",
         "state": 1,
-        "proof_url": "https://keybase.io/dwkeith/sigchain#16fc245971c64b246f3e8177cd8991547a1a52561f24b3faea77b69aec2da2750f",
-        "sig_id": "16fc245971c64b246f3e8177cd8991547a1a52561f24b3faea77b69aec2da2750f",
-        "proof_id": "1edbd4d4441c005f0a759210",
-        "human_url": "dns://dwk.io",
-        "service_url": "http://dwk.io",
-        "presentation_group": "dwk.io",
+        "proof_url": "https://keybase.io/dwkeith/sigchain#e6bca716e8e94790913516d3224a66383199f5c22b1226604cb6c3ed469e366d0f",
+        "sig_id": "e6bca716e8e94790913516d3224a66383199f5c22b1226604cb6c3ed469e366d0f",
+        "proof_id": "d5ce303f3427955c74edd410",
+        "human_url": "dns://tacotrucktuesday.org",
+        "service_url": "http://tacotrucktuesday.org",
+        "presentation_group": "tacotrucktuesday.org",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "github",
+        "nametag": "davidwkeith",
+        "state": 1,
+        "proof_url": "https://gist.github.com/e1c9985d0bbfcf53ad7a",
+        "sig_id": "256535469877faaa990e985d3a3440c996ebe20646d72f476ce6b6c9b739cc4a0f",
+        "proof_id": "188ca95d4f70ea8e8af72510",
+        "human_url": "https://gist.github.com/e1c9985d0bbfcf53ad7a",
+        "service_url": "https://github.com/davidwkeith",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
       },
       {
         "proof_type": "dns",
@@ -423,6 +487,18 @@
         "service_url": "http://davidandshawna.us",
         "presentation_group": "davidandshawna.us",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "davidwkeith.com",
+        "state": 1,
+        "proof_url": "https://davidwkeith.com/.well-known/keybase.txt",
+        "sig_id": "f5511093f20268b822cfe5565593b79bbe238310b1aa17fef3607abaf9b000c20f",
+        "proof_id": "976a6078375c1c4808f7e610",
+        "human_url": "https://davidwkeith.com/.well-known/keybase.txt",
+        "service_url": "https://davidwkeith.com",
+        "presentation_group": "davidwkeith.com",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -444,9 +520,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b89f7f453cb5bd8fd11e0cd55abb447f36b3f3f8affa6fe74ee3b33b9d82fbb90f",
-      "seqno": 43,
-      "payload_hash": "8128acdfb8873c3aa5803bc0ef706fc78de36a89b64389238893bfeae6de238e"
+      "sig_id": "8cecd8af24d52111bcb7d0b7bab17cf37c46d0d333fb8890a69bef38d714d7830f",
+      "seqno": 45,
+      "payload_hash": "4d7f2a48a14d146e45a4b0bcf579de01b409c8a79bcadecc479d2fbbe5412927"
     }
   },
   "devices": {
