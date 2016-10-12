@@ -5,7 +5,7 @@
     "ctime": 1424977124,
     "mtime": 1424977124,
     "id_version": 37,
-    "track_version": 9,
+    "track_version": 10,
     "last_id_change": 1468973368,
     "username_cased": "nigelkersten"
   },
@@ -35,13 +35,11 @@
       "01213a245c27b4c845294f937d27062b8412e02a28a57ae53d704f8c250d2f2bd2590a"
     ],
     "subkeys": [
-      "0121dd9fa7c29699e4e374054be9f44fb6ca07f3d7789cc0c10d43b304d71cb7035d0a",
-      "01213a245c27b4c845294f937d27062b8412e02a28a57ae53d704f8c250d2f2bd2590a"
+      "0121dd9fa7c29699e4e374054be9f44fb6ca07f3d7789cc0c10d43b304d71cb7035d0a"
     ],
     "sibkeys": [
       "0101288a677fa9aa5c2b6465442aece5118662893ff1889f7382d14dacdcc197ef940a",
-      "012026ef33f0f7a37f677e334f9de3f6bda5398188c6e7ea7c526852e2c46211ea3c0a",
-      "012048ff0dc155b2661175787dfea37593eacc29abbb5afdb52ba3b49a4081a86b6a0a"
+      "012026ef33f0f7a37f677e334f9de3f6bda5398188c6e7ea7c526852e2c46211ea3c0a"
     ],
     "families": {
       "0101288a677fa9aa5c2b6465442aece5118662893ff1889f7382d14dacdcc197ef940a": [
@@ -237,9 +235,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "43657cba8afd5b2ca7f9cd8952a96cac79eccfa15e0514f5d2500b63927dfbe10f",
-      "seqno": 26,
-      "payload_hash": "335c76fa6d8b8ee2c6b0811d87382a3156c2db678d0d405b60f3e42b59f08bb1"
+      "sig_id": "a410100caa272af017fb691a1f0a57196d458ca6db45b464e3c249ce622afe830f",
+      "seqno": 28,
+      "payload_hash": "71bd3e78aa20204094617863b0859856d3d81c0dabfa393e6229bf27cab19fda"
     }
   },
   "devices": {
@@ -259,25 +257,6 @@
           "kid": "0121dd9fa7c29699e4e374054be9f44fb6ca07f3d7789cc0c10d43b304d71cb7035d0a",
           "key_role": 2,
           "sig_id": "1d86eb9b9fa73e173e47da46a8022e9c23d0cc8e576916efb3923d47943d2d3a0f"
-        }
-      ]
-    },
-    "b8cfc77ebfb6d07d4638ad183eb5eb18": {
-      "type": "backup",
-      "ctime": 1455400531,
-      "mtime": 1455400531,
-      "name": "axis liquid",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012048ff0dc155b2661175787dfea37593eacc29abbb5afdb52ba3b49a4081a86b6a0a",
-          "key_role": 1,
-          "sig_id": "9ecea90866739c5c7c25ec644039e2157f28a0041d34f19afeae1b9ed38d3cf10f"
-        },
-        {
-          "kid": "01213a245c27b4c845294f937d27062b8412e02a28a57ae53d704f8c250d2f2bd2590a",
-          "key_role": 2,
-          "sig_id": "2a50a28d8672faca221d8904a436374767db592bdf2f0a925a63b9706a6bd0360f"
         }
       ]
     }
