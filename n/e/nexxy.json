@@ -4,9 +4,9 @@
     "username": "nexxy",
     "ctime": 1395026644,
     "mtime": 1395026644,
-    "id_version": 50,
+    "id_version": 56,
     "track_version": 14,
-    "last_id_change": 1454846346,
+    "last_id_change": 1473825514,
     "username_cased": "nexxy"
   },
   "profile": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "nexxylove",
+          "state": 1,
+          "proof_url": "https://twitter.com/nexxylove/status/537758542292602880",
+          "sig_id": "2a47809b391ab0e6ba74b1ce1730bc97b818b3294aec082f2d9e1547d7b18b900f",
+          "proof_id": "a2906fbc7e47e8fbe2f8a610",
+          "human_url": "https://twitter.com/nexxylove/status/537758542292602880",
+          "service_url": "https://twitter.com/nexxylove",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -70,7 +84,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/nexxy",
+          "nametag": "nexxy",
           "state": 1,
           "proof_url": "https://coinbase.com/nexxy/public-key",
           "sig_id": "08360e606a1bf9a7c621399eafbb8ac152659226e8dc41e9d26e19144cdca66b0f",
@@ -79,10 +93,38 @@
           "service_url": "https://coinbase.com/nexxy",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "crypticresistor.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/nexxy/sigchain#a4efb438b8c4732966f7a51f831e49df54b5c5c6e9ee34d80becf811a166ce060f",
+          "sig_id": "a4efb438b8c4732966f7a51f831e49df54b5c5c6e9ee34d80becf811a166ce060f",
+          "proof_id": "93368e56d133e6627f522510",
+          "human_url": "dns://crypticresistor.com",
+          "service_url": "http://crypticresistor.com",
+          "presentation_group": "crypticresistor.com",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "nexxylove",
+          "state": 1,
+          "proof_url": "https://twitter.com/nexxylove/status/537758542292602880",
+          "sig_id": "2a47809b391ab0e6ba74b1ce1730bc97b818b3294aec082f2d9e1547d7b18b900f",
+          "proof_id": "a2906fbc7e47e8fbe2f8a610",
+          "human_url": "https://twitter.com/nexxylove/status/537758542292602880",
+          "service_url": "https://twitter.com/nexxylove",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -100,7 +142,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/nexxy",
+          "nametag": "nexxy",
           "state": 1,
           "proof_url": "https://coinbase.com/nexxy/public-key",
           "sig_id": "08360e606a1bf9a7c621399eafbb8ac152659226e8dc41e9d26e19144cdca66b0f",
@@ -110,9 +152,35 @@
           "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
+      ],
+      "crypticresistor.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "crypticresistor.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/nexxy/sigchain#a4efb438b8c4732966f7a51f831e49df54b5c5c6e9ee34d80becf811a166ce060f",
+          "sig_id": "a4efb438b8c4732966f7a51f831e49df54b5c5c6e9ee34d80becf811a166ce060f",
+          "proof_id": "93368e56d133e6627f522510",
+          "human_url": "dns://crypticresistor.com",
+          "service_url": "http://crypticresistor.com",
+          "presentation_group": "crypticresistor.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "nexxylove",
+        "state": 1,
+        "proof_url": "https://twitter.com/nexxylove/status/537758542292602880",
+        "sig_id": "2a47809b391ab0e6ba74b1ce1730bc97b818b3294aec082f2d9e1547d7b18b900f",
+        "proof_id": "a2906fbc7e47e8fbe2f8a610",
+        "human_url": "https://twitter.com/nexxylove/status/537758542292602880",
+        "service_url": "https://twitter.com/nexxylove",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "emilyrose",
@@ -127,7 +195,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/nexxy",
+        "nametag": "nexxy",
         "state": 1,
         "proof_url": "https://coinbase.com/nexxy/public-key",
         "sig_id": "08360e606a1bf9a7c621399eafbb8ac152659226e8dc41e9d26e19144cdca66b0f",
@@ -136,16 +204,28 @@
         "service_url": "https://coinbase.com/nexxy",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "crypticresistor.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/nexxy/sigchain#a4efb438b8c4732966f7a51f831e49df54b5c5c6e9ee34d80becf811a166ce060f",
+        "sig_id": "a4efb438b8c4732966f7a51f831e49df54b5c5c6e9ee34d80becf811a166ce060f",
+        "proof_id": "93368e56d133e6627f522510",
+        "human_url": "dns://crypticresistor.com",
+        "service_url": "http://crypticresistor.com",
+        "presentation_group": "crypticresistor.com",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/cb0ad5966daa107b1055c58d6309ff05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/8be16977e422a646795a8138a8c4f105_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
