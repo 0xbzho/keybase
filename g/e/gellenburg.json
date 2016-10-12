@@ -4,9 +4,9 @@
     "username": "gellenburg",
     "ctime": 1395337652,
     "mtime": 1395337652,
-    "id_version": 1695,
-    "track_version": 56,
-    "last_id_change": 1470635052,
+    "id_version": 1704,
+    "track_version": 60,
+    "last_id_change": 1474116570,
     "username_cased": "gellenburg"
   },
   "profile": {
@@ -129,7 +129,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/gellenburg",
+          "nametag": "gellenburg",
           "state": 1,
           "proof_url": "https://coinbase.com/gellenburg/public-key",
           "sig_id": "83ea1078b9391af90d5d4790047726656f23baa106e580a74d71186d83c611cc0f",
@@ -143,6 +143,18 @@
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
+          "nametag": "ellenburg.org",
+          "state": 1,
+          "proof_url": "https://ellenburg.org/.well-known/keybase.txt",
+          "sig_id": "903485bce1b9af29c9980d1a5f73bab797170dc95dec790e915ee1f971bdd4410f",
+          "proof_id": "7f298ebd2a9945f399ba0710",
+          "human_url": "https://ellenburg.org/.well-known/keybase.txt",
+          "service_url": "https://ellenburg.org",
+          "presentation_group": "ellenburg.org",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
           "nametag": "gellenburg.keybase.pub",
           "state": 1,
           "proof_url": "https://gellenburg.keybase.pub/keybase.txt",
@@ -151,6 +163,18 @@
           "human_url": "https://gellenburg.keybase.pub/keybase.txt",
           "service_url": "https://gellenburg.keybase.pub",
           "presentation_group": "gellenburg.keybase.pub",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "files.ellenburg.net",
+          "state": 1,
+          "proof_url": "https://files.ellenburg.net/keybase.txt",
+          "sig_id": "37ac778022a1ee24f85aa81dabbae46aa362cd398ec1dfac185d51e9675dfa200f",
+          "proof_id": "9fdf6fe1e2ddb51b00b92310",
+          "human_url": "https://files.ellenburg.net/keybase.txt",
+          "service_url": "https://files.ellenburg.net",
+          "presentation_group": "files.ellenburg.net",
           "presentation_tag": "https"
         }
       ],
@@ -202,6 +226,18 @@
           "service_url": "http://lnbrg.com",
           "presentation_group": "lnbrg.com",
           "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "files.ellenburg.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/gellenburg/sigchain#c8389f7285eca9d2c4187d3c8994c9bfb2a6cbb790aea9250f824df6d7fea8ba0f",
+          "sig_id": "c8389f7285eca9d2c4187d3c8994c9bfb2a6cbb790aea9250f824df6d7fea8ba0f",
+          "proof_id": "c30f5caeb39645db6f561b10",
+          "human_url": "dns://files.ellenburg.net",
+          "service_url": "http://files.ellenburg.net",
+          "presentation_group": "files.ellenburg.net",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -237,7 +273,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/gellenburg",
+          "nametag": "gellenburg",
           "state": 1,
           "proof_url": "https://coinbase.com/gellenburg/public-key",
           "sig_id": "83ea1078b9391af90d5d4790047726656f23baa106e580a74d71186d83c611cc0f",
@@ -246,6 +282,32 @@
           "service_url": "https://coinbase.com/gellenburg",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "ellenburg.org": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ellenburg.org",
+          "state": 1,
+          "proof_url": "https://ellenburg.org/.well-known/keybase.txt",
+          "sig_id": "903485bce1b9af29c9980d1a5f73bab797170dc95dec790e915ee1f971bdd4410f",
+          "proof_id": "7f298ebd2a9945f399ba0710",
+          "human_url": "https://ellenburg.org/.well-known/keybase.txt",
+          "service_url": "https://ellenburg.org",
+          "presentation_group": "ellenburg.org",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "ellenburg.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/gellenburg/sigchain#0ff83b15c744ddf68a9390ebbc3d55f925d5f70da458d3abcdb5e1ec40583be10f",
+          "sig_id": "0ff83b15c744ddf68a9390ebbc3d55f925d5f70da458d3abcdb5e1ec40583be10f",
+          "proof_id": "8c0d303935a69d819d9cc010",
+          "human_url": "dns://ellenburg.org",
+          "service_url": "http://ellenburg.org",
+          "presentation_group": "ellenburg.org",
+          "presentation_tag": "dns"
         }
       ],
       "gellenburg.keybase.pub": [
@@ -260,6 +322,32 @@
           "service_url": "https://gellenburg.keybase.pub",
           "presentation_group": "gellenburg.keybase.pub",
           "presentation_tag": "https"
+        }
+      ],
+      "files.ellenburg.net": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "files.ellenburg.net",
+          "state": 1,
+          "proof_url": "https://files.ellenburg.net/keybase.txt",
+          "sig_id": "37ac778022a1ee24f85aa81dabbae46aa362cd398ec1dfac185d51e9675dfa200f",
+          "proof_id": "9fdf6fe1e2ddb51b00b92310",
+          "human_url": "https://files.ellenburg.net/keybase.txt",
+          "service_url": "https://files.ellenburg.net",
+          "presentation_group": "files.ellenburg.net",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "files.ellenburg.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/gellenburg/sigchain#c8389f7285eca9d2c4187d3c8994c9bfb2a6cbb790aea9250f824df6d7fea8ba0f",
+          "sig_id": "c8389f7285eca9d2c4187d3c8994c9bfb2a6cbb790aea9250f824df6d7fea8ba0f",
+          "proof_id": "c30f5caeb39645db6f561b10",
+          "human_url": "dns://files.ellenburg.net",
+          "service_url": "http://files.ellenburg.net",
+          "presentation_group": "files.ellenburg.net",
+          "presentation_tag": "dns"
         }
       ],
       "georgeellenburg.net": [
@@ -287,20 +375,6 @@
           "human_url": "dns://ellenburg.net",
           "service_url": "http://ellenburg.net",
           "presentation_group": "ellenburg.net",
-          "presentation_tag": "dns"
-        }
-      ],
-      "ellenburg.org": [
-        {
-          "proof_type": "dns",
-          "nametag": "ellenburg.org",
-          "state": 1,
-          "proof_url": "https://keybase.io/gellenburg/sigchain#0ff83b15c744ddf68a9390ebbc3d55f925d5f70da458d3abcdb5e1ec40583be10f",
-          "sig_id": "0ff83b15c744ddf68a9390ebbc3d55f925d5f70da458d3abcdb5e1ec40583be10f",
-          "proof_id": "8c0d303935a69d819d9cc010",
-          "human_url": "dns://ellenburg.org",
-          "service_url": "http://ellenburg.org",
-          "presentation_group": "ellenburg.org",
           "presentation_tag": "dns"
         }
       ],
@@ -333,6 +407,54 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "dns",
+        "nametag": "files.ellenburg.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/gellenburg/sigchain#c8389f7285eca9d2c4187d3c8994c9bfb2a6cbb790aea9250f824df6d7fea8ba0f",
+        "sig_id": "c8389f7285eca9d2c4187d3c8994c9bfb2a6cbb790aea9250f824df6d7fea8ba0f",
+        "proof_id": "c30f5caeb39645db6f561b10",
+        "human_url": "dns://files.ellenburg.net",
+        "service_url": "http://files.ellenburg.net",
+        "presentation_group": "files.ellenburg.net",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "gellenburg",
+        "state": 1,
+        "proof_url": "https://coinbase.com/gellenburg/public-key",
+        "sig_id": "83ea1078b9391af90d5d4790047726656f23baa106e580a74d71186d83c611cc0f",
+        "proof_id": "aeecba58a9c82107d04fbf10",
+        "human_url": "https://coinbase.com/gellenburg/public-key",
+        "service_url": "https://coinbase.com/gellenburg",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "lnbrg.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/gellenburg/sigchain#8771543cb9d98eb2fe674d2a0e3e8e5058dbeccdd31670dbc051b8a82a5bb3070f",
+        "sig_id": "8771543cb9d98eb2fe674d2a0e3e8e5058dbeccdd31670dbc051b8a82a5bb3070f",
+        "proof_id": "a77a0afa51da5a843148bd10",
+        "human_url": "dns://lnbrg.com",
+        "service_url": "http://lnbrg.com",
+        "presentation_group": "lnbrg.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "ellenburg.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/gellenburg/sigchain#0ff83b15c744ddf68a9390ebbc3d55f925d5f70da458d3abcdb5e1ec40583be10f",
+        "sig_id": "0ff83b15c744ddf68a9390ebbc3d55f925d5f70da458d3abcdb5e1ec40583be10f",
+        "proof_id": "8c0d303935a69d819d9cc010",
+        "human_url": "dns://ellenburg.org",
+        "service_url": "http://ellenburg.org",
+        "presentation_group": "ellenburg.org",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "reddit",
         "nametag": "gellenburg",
         "state": 1,
@@ -342,18 +464,6 @@
         "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4rzxxq/my_keybase_proof_redditgellenburg/",
         "service_url": "https://reddit.com/user/gellenburg",
         "presentation_group": "reddit",
-        "presentation_tag": "post"
-      },
-      {
-        "proof_type": "coinbase",
-        "nametag": "coinbase/gellenburg",
-        "state": 1,
-        "proof_url": "https://coinbase.com/gellenburg/public-key",
-        "sig_id": "83ea1078b9391af90d5d4790047726656f23baa106e580a74d71186d83c611cc0f",
-        "proof_id": "aeecba58a9c82107d04fbf10",
-        "human_url": "https://coinbase.com/gellenburg/public-key",
-        "service_url": "https://coinbase.com/gellenburg",
-        "presentation_group": "coinbase",
         "presentation_tag": "post"
       },
       {
@@ -381,30 +491,6 @@
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "dns",
-        "nametag": "ellenburg.org",
-        "state": 1,
-        "proof_url": "https://keybase.io/gellenburg/sigchain#0ff83b15c744ddf68a9390ebbc3d55f925d5f70da458d3abcdb5e1ec40583be10f",
-        "sig_id": "0ff83b15c744ddf68a9390ebbc3d55f925d5f70da458d3abcdb5e1ec40583be10f",
-        "proof_id": "8c0d303935a69d819d9cc010",
-        "human_url": "dns://ellenburg.org",
-        "service_url": "http://ellenburg.org",
-        "presentation_group": "ellenburg.org",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "lnbrg.com",
-        "state": 1,
-        "proof_url": "https://keybase.io/gellenburg/sigchain#8771543cb9d98eb2fe674d2a0e3e8e5058dbeccdd31670dbc051b8a82a5bb3070f",
-        "sig_id": "8771543cb9d98eb2fe674d2a0e3e8e5058dbeccdd31670dbc051b8a82a5bb3070f",
-        "proof_id": "a77a0afa51da5a843148bd10",
-        "human_url": "dns://lnbrg.com",
-        "service_url": "http://lnbrg.com",
-        "presentation_group": "lnbrg.com",
-        "presentation_tag": "dns"
-      },
-      {
         "proof_type": "generic_web_site",
         "nametag": "gellenburg.keybase.pub",
         "state": 1,
@@ -415,13 +501,37 @@
         "service_url": "https://gellenburg.keybase.pub",
         "presentation_group": "gellenburg.keybase.pub",
         "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "ellenburg.org",
+        "state": 1,
+        "proof_url": "https://ellenburg.org/.well-known/keybase.txt",
+        "sig_id": "903485bce1b9af29c9980d1a5f73bab797170dc95dec790e915ee1f971bdd4410f",
+        "proof_id": "7f298ebd2a9945f399ba0710",
+        "human_url": "https://ellenburg.org/.well-known/keybase.txt",
+        "service_url": "https://ellenburg.org",
+        "presentation_group": "ellenburg.org",
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "files.ellenburg.net",
+        "state": 1,
+        "proof_url": "https://files.ellenburg.net/keybase.txt",
+        "sig_id": "37ac778022a1ee24f85aa81dabbae46aa362cd398ec1dfac185d51e9675dfa200f",
+        "proof_id": "9fdf6fe1e2ddb51b00b92310",
+        "human_url": "https://files.ellenburg.net/keybase.txt",
+        "service_url": "https://files.ellenburg.net",
+        "presentation_group": "files.ellenburg.net",
+        "presentation_tag": "https"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/939bfa12a935db79236e34c950e04f05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f6514bbcfdbe6740adccc8047fd2af05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -429,9 +539,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "55b6ca555aae51abb9cb5fbeac6110fb32d8b70c7bba06e8da3238d1da58d26b0f",
-      "seqno": 100,
-      "payload_hash": "6e19683b45114e834c8b36100ea7a54f687234d4e339837def9fcf3164bf8431"
+      "sig_id": "2d6e0b63fcdda23c6804561e52743495771278f4f0540dd4ef00abdfc61ca9d80f",
+      "seqno": 106,
+      "payload_hash": "05ecda73f336523fa82aa83ad5ac677c927570ff1f0812a06a3bcd33de0636cb"
     }
   },
   "devices": {
