@@ -4,16 +4,16 @@
     "username": "rsherman",
     "ctime": 1428600995,
     "mtime": 1428600995,
-    "id_version": 24,
-    "track_version": 9,
-    "last_id_change": 1470377800,
+    "id_version": 29,
+    "track_version": 16,
+    "last_id_change": 1474508863,
     "username_cased": "rsherman"
   },
   "profile": {
-    "mtime": 1467419833,
+    "mtime": 1474508904,
     "full_name": "Roger Sherman",
-    "location": "Cary, NC",
-    "bio": "A wily system engineer, our hero regularly tangles with the forces of darkness, idiot users, and management. Ansible, python, and best practices fanatic."
+    "location": "Sydney, NSW",
+    "bio": "A wily system engineer, our hero regularly tangles with the forces of darkness, idiot users, and management. Ansible, python, and best practices fanatic. Ex-pat."
   },
   "public_keys": {
     "primary": {
@@ -101,7 +101,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/rog",
+          "nametag": "rog",
           "state": 1,
           "proof_url": "https://coinbase.com/rog/public-key",
           "sig_id": "dba970b3fd65594b2889ff084070e38f3a2ce58172b1e35b9de5a5bde82357370f",
@@ -115,18 +115,6 @@
       "dns": [
         {
           "proof_type": "dns",
-          "nametag": "rogersherman.com",
-          "state": 1,
-          "proof_url": "https://keybase.io/rsherman/sigchain#ad5bfdb474b54684341f8d0eb14a5ed4641d835952c29725850125ea8b80046f0f",
-          "sig_id": "ad5bfdb474b54684341f8d0eb14a5ed4641d835952c29725850125ea8b80046f0f",
-          "proof_id": "5133863f8aaab0953eaff110",
-          "human_url": "dns://rogersherman.com",
-          "service_url": "http://rogersherman.com",
-          "presentation_group": "rogersherman.com",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
           "nametag": "militantbuddhist.com",
           "state": 1,
           "proof_url": "https://keybase.io/rsherman/sigchain#d2998fd987d741015931cb84e2b2d8b83035ec910c767bc1476f059d7bec69120f",
@@ -135,6 +123,18 @@
           "human_url": "dns://militantbuddhist.com",
           "service_url": "http://militantbuddhist.com",
           "presentation_group": "militantbuddhist.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "rogersherman.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/rsherman/sigchain#1778f2ed73c58f5e77e4e377868122aa4f265294e00916999574b9e394853d130f",
+          "sig_id": "1778f2ed73c58f5e77e4e377868122aa4f265294e00916999574b9e394853d130f",
+          "proof_id": "b4211dea5c9155c510735010",
+          "human_url": "dns://rogersherman.com",
+          "service_url": "http://rogersherman.com",
+          "presentation_group": "rogersherman.com",
           "presentation_tag": "dns"
         }
       ]
@@ -171,7 +171,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/rog",
+          "nametag": "rog",
           "state": 1,
           "proof_url": "https://coinbase.com/rog/public-key",
           "sig_id": "dba970b3fd65594b2889ff084070e38f3a2ce58172b1e35b9de5a5bde82357370f",
@@ -180,20 +180,6 @@
           "service_url": "https://coinbase.com/rog",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
-        }
-      ],
-      "rogersherman.com": [
-        {
-          "proof_type": "dns",
-          "nametag": "rogersherman.com",
-          "state": 1,
-          "proof_url": "https://keybase.io/rsherman/sigchain#ad5bfdb474b54684341f8d0eb14a5ed4641d835952c29725850125ea8b80046f0f",
-          "sig_id": "ad5bfdb474b54684341f8d0eb14a5ed4641d835952c29725850125ea8b80046f0f",
-          "proof_id": "5133863f8aaab0953eaff110",
-          "human_url": "dns://rogersherman.com",
-          "service_url": "http://rogersherman.com",
-          "presentation_group": "rogersherman.com",
-          "presentation_tag": "dns"
         }
       ],
       "militantbuddhist.com": [
@@ -207,6 +193,20 @@
           "human_url": "dns://militantbuddhist.com",
           "service_url": "http://militantbuddhist.com",
           "presentation_group": "militantbuddhist.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "rogersherman.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "rogersherman.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/rsherman/sigchain#1778f2ed73c58f5e77e4e377868122aa4f265294e00916999574b9e394853d130f",
+          "sig_id": "1778f2ed73c58f5e77e4e377868122aa4f265294e00916999574b9e394853d130f",
+          "proof_id": "b4211dea5c9155c510735010",
+          "human_url": "dns://rogersherman.com",
+          "service_url": "http://rogersherman.com",
+          "presentation_group": "rogersherman.com",
           "presentation_tag": "dns"
         }
       ]
@@ -238,7 +238,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/rog",
+        "nametag": "rog",
         "state": 1,
         "proof_url": "https://coinbase.com/rog/public-key",
         "sig_id": "dba970b3fd65594b2889ff084070e38f3a2ce58172b1e35b9de5a5bde82357370f",
@@ -250,18 +250,6 @@
       },
       {
         "proof_type": "dns",
-        "nametag": "rogersherman.com",
-        "state": 1,
-        "proof_url": "https://keybase.io/rsherman/sigchain#ad5bfdb474b54684341f8d0eb14a5ed4641d835952c29725850125ea8b80046f0f",
-        "sig_id": "ad5bfdb474b54684341f8d0eb14a5ed4641d835952c29725850125ea8b80046f0f",
-        "proof_id": "5133863f8aaab0953eaff110",
-        "human_url": "dns://rogersherman.com",
-        "service_url": "http://rogersherman.com",
-        "presentation_group": "rogersherman.com",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
         "nametag": "militantbuddhist.com",
         "state": 1,
         "proof_url": "https://keybase.io/rsherman/sigchain#d2998fd987d741015931cb84e2b2d8b83035ec910c767bc1476f059d7bec69120f",
@@ -270,6 +258,18 @@
         "human_url": "dns://militantbuddhist.com",
         "service_url": "http://militantbuddhist.com",
         "presentation_group": "militantbuddhist.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "rogersherman.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/rsherman/sigchain#1778f2ed73c58f5e77e4e377868122aa4f265294e00916999574b9e394853d130f",
+        "sig_id": "1778f2ed73c58f5e77e4e377868122aa4f265294e00916999574b9e394853d130f",
+        "proof_id": "b4211dea5c9155c510735010",
+        "human_url": "dns://rogersherman.com",
+        "service_url": "http://rogersherman.com",
+        "presentation_group": "rogersherman.com",
         "presentation_tag": "dns"
       }
     ]
@@ -292,9 +292,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b95a0fcc127c20cb04d95cdefec13341e8422654bf947b5008aed5ae91fdce950f",
-      "seqno": 25,
-      "payload_hash": "65c1cfb5b2ab4c1f0ba395c29ee9452937e357d4d140e240726ed4bc848b1ee2"
+      "sig_id": "1778f2ed73c58f5e77e4e377868122aa4f265294e00916999574b9e394853d130f",
+      "seqno": 34,
+      "payload_hash": "a5403b544c53cd6a3a57ca5a27c6cb53349aaec9071b77819d5eb6205fb74b64"
     }
   },
   "devices": {
