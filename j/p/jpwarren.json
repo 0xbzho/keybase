@@ -4,9 +4,9 @@
     "username": "jpwarren",
     "ctime": 1424998322,
     "mtime": 1424998322,
-    "id_version": 30,
-    "track_version": 1,
-    "last_id_change": 1466527861,
+    "id_version": 41,
+    "track_version": 13,
+    "last_id_change": 1475889021,
     "username_cased": "jpwarren"
   },
   "profile": {
@@ -39,16 +39,18 @@
       "01200d37c94e5f68f6a997d8bdaefb14986278ebfe45bff3b6254b0baef1b8f61b1a0a",
       "012110f8cc0805d367f9bf043a1b05103b4209e79be1c6d50e7d1468304aa7ab191e0a",
       "012077adefe986527381d4ca773d7af560a1efc434c22f8702350618a699c3051a150a",
-      "0121099d25c593ee4a05df48d19dc62c1f03fa489c57b75258e99d076a36d938fa1a0a"
+      "0121099d25c593ee4a05df48d19dc62c1f03fa489c57b75258e99d076a36d938fa1a0a",
+      "0120c490f4f17bd28bc21c2c6e4acdc8317d9fce8e6037369e52e69ca171f7d7e7b90a",
+      "012121c5d466fdacaa11fe0fccd74331b91938014a6a3da6b508fbbdbbbf69b32d3a0a"
     ],
     "subkeys": [
-      "012110f8cc0805d367f9bf043a1b05103b4209e79be1c6d50e7d1468304aa7ab191e0a",
-      "0121099d25c593ee4a05df48d19dc62c1f03fa489c57b75258e99d076a36d938fa1a0a"
+      "0121099d25c593ee4a05df48d19dc62c1f03fa489c57b75258e99d076a36d938fa1a0a",
+      "012121c5d466fdacaa11fe0fccd74331b91938014a6a3da6b508fbbdbbbf69b32d3a0a"
     ],
     "sibkeys": [
       "0101d033425b76ddfdcc3d9491b3ef40015672ae9c817c04c9b6429b5eaac11ac5140a",
-      "01200d37c94e5f68f6a997d8bdaefb14986278ebfe45bff3b6254b0baef1b8f61b1a0a",
-      "012077adefe986527381d4ca773d7af560a1efc434c22f8702350618a699c3051a150a"
+      "012077adefe986527381d4ca773d7af560a1efc434c22f8702350618a699c3051a150a",
+      "0120c490f4f17bd28bc21c2c6e4acdc8317d9fce8e6037369e52e69ca171f7d7e7b90a"
     ],
     "families": {
       "0101d033425b76ddfdcc3d9491b3ef40015672ae9c817c04c9b6429b5eaac11ac5140a": [
@@ -57,7 +59,9 @@
         "01200d37c94e5f68f6a997d8bdaefb14986278ebfe45bff3b6254b0baef1b8f61b1a0a",
         "012110f8cc0805d367f9bf043a1b05103b4209e79be1c6d50e7d1468304aa7ab191e0a",
         "012077adefe986527381d4ca773d7af560a1efc434c22f8702350618a699c3051a150a",
-        "0121099d25c593ee4a05df48d19dc62c1f03fa489c57b75258e99d076a36d938fa1a0a"
+        "0121099d25c593ee4a05df48d19dc62c1f03fa489c57b75258e99d076a36d938fa1a0a",
+        "0120c490f4f17bd28bc21c2c6e4acdc8317d9fce8e6037369e52e69ca171f7d7e7b90a",
+        "012121c5d466fdacaa11fe0fccd74331b91938014a6a3da6b508fbbdbbbf69b32d3a0a"
       ]
     },
     "eldest_kid": "0101d033425b76ddfdcc3d9491b3ef40015672ae9c817c04c9b6429b5eaac11ac5140a",
@@ -95,6 +99,58 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.eigenmagic.com",
+          "state": 1,
+          "proof_url": "https://www.eigenmagic.com/keybase.txt",
+          "sig_id": "f2eccf22824211ea37b3a6273d246c95e6beb8b87d4095869e2f0d3e00a5ac150f",
+          "proof_id": "3594ac67ff9bba9298b5df10",
+          "human_url": "https://www.eigenmagic.com/keybase.txt",
+          "service_url": "https://www.eigenmagic.com",
+          "presentation_group": "www.eigenmagic.com",
+          "presentation_tag": "https"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "pivotnine.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jpwarren/sigchain#a3b043fba308101d6ce94ae78ada5a084e07829f4b7fc9fa2c0ae78523a932360f",
+          "sig_id": "a3b043fba308101d6ce94ae78ada5a084e07829f4b7fc9fa2c0ae78523a932360f",
+          "proof_id": "335b9511fcce79792f88dc10",
+          "human_url": "dns://pivotnine.com",
+          "service_url": "http://pivotnine.com",
+          "presentation_group": "pivotnine.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "maxbricks.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jpwarren/sigchain#10764493a3836e77f96a0dfa54e168c4a3c1e4bb1bc82fe8173698e79c4afc4b0f",
+          "sig_id": "10764493a3836e77f96a0dfa54e168c4a3c1e4bb1bc82fe8173698e79c4afc4b0f",
+          "proof_id": "87c7ab7d65036dc0a0986510",
+          "human_url": "dns://maxbricks.com",
+          "service_url": "http://maxbricks.com",
+          "presentation_group": "maxbricks.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "eigenmagic.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jpwarren/sigchain#39bef35ced48c4e97bcc7c33233c660fd76baae5eacd5fcda93637ad446ada7f0f",
+          "sig_id": "39bef35ced48c4e97bcc7c33233c660fd76baae5eacd5fcda93637ad446ada7f0f",
+          "proof_id": "a8753fc05aa5ebc30bb2e510",
+          "human_url": "dns://eigenmagic.com",
+          "service_url": "http://eigenmagic.com",
+          "presentation_group": "eigenmagic.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -125,6 +181,62 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "www.eigenmagic.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.eigenmagic.com",
+          "state": 1,
+          "proof_url": "https://www.eigenmagic.com/keybase.txt",
+          "sig_id": "f2eccf22824211ea37b3a6273d246c95e6beb8b87d4095869e2f0d3e00a5ac150f",
+          "proof_id": "3594ac67ff9bba9298b5df10",
+          "human_url": "https://www.eigenmagic.com/keybase.txt",
+          "service_url": "https://www.eigenmagic.com",
+          "presentation_group": "www.eigenmagic.com",
+          "presentation_tag": "https"
+        }
+      ],
+      "pivotnine.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "pivotnine.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jpwarren/sigchain#a3b043fba308101d6ce94ae78ada5a084e07829f4b7fc9fa2c0ae78523a932360f",
+          "sig_id": "a3b043fba308101d6ce94ae78ada5a084e07829f4b7fc9fa2c0ae78523a932360f",
+          "proof_id": "335b9511fcce79792f88dc10",
+          "human_url": "dns://pivotnine.com",
+          "service_url": "http://pivotnine.com",
+          "presentation_group": "pivotnine.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "maxbricks.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "maxbricks.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jpwarren/sigchain#10764493a3836e77f96a0dfa54e168c4a3c1e4bb1bc82fe8173698e79c4afc4b0f",
+          "sig_id": "10764493a3836e77f96a0dfa54e168c4a3c1e4bb1bc82fe8173698e79c4afc4b0f",
+          "proof_id": "87c7ab7d65036dc0a0986510",
+          "human_url": "dns://maxbricks.com",
+          "service_url": "http://maxbricks.com",
+          "presentation_group": "maxbricks.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "eigenmagic.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "eigenmagic.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jpwarren/sigchain#39bef35ced48c4e97bcc7c33233c660fd76baae5eacd5fcda93637ad446ada7f0f",
+          "sig_id": "39bef35ced48c4e97bcc7c33233c660fd76baae5eacd5fcda93637ad446ada7f0f",
+          "proof_id": "a8753fc05aa5ebc30bb2e510",
+          "human_url": "dns://eigenmagic.com",
+          "service_url": "http://eigenmagic.com",
+          "presentation_group": "eigenmagic.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -151,6 +263,54 @@
         "service_url": "https://github.com/jpwarren",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "pivotnine.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/jpwarren/sigchain#a3b043fba308101d6ce94ae78ada5a084e07829f4b7fc9fa2c0ae78523a932360f",
+        "sig_id": "a3b043fba308101d6ce94ae78ada5a084e07829f4b7fc9fa2c0ae78523a932360f",
+        "proof_id": "335b9511fcce79792f88dc10",
+        "human_url": "dns://pivotnine.com",
+        "service_url": "http://pivotnine.com",
+        "presentation_group": "pivotnine.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "maxbricks.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/jpwarren/sigchain#10764493a3836e77f96a0dfa54e168c4a3c1e4bb1bc82fe8173698e79c4afc4b0f",
+        "sig_id": "10764493a3836e77f96a0dfa54e168c4a3c1e4bb1bc82fe8173698e79c4afc4b0f",
+        "proof_id": "87c7ab7d65036dc0a0986510",
+        "human_url": "dns://maxbricks.com",
+        "service_url": "http://maxbricks.com",
+        "presentation_group": "maxbricks.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "eigenmagic.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/jpwarren/sigchain#39bef35ced48c4e97bcc7c33233c660fd76baae5eacd5fcda93637ad446ada7f0f",
+        "sig_id": "39bef35ced48c4e97bcc7c33233c660fd76baae5eacd5fcda93637ad446ada7f0f",
+        "proof_id": "a8753fc05aa5ebc30bb2e510",
+        "human_url": "dns://eigenmagic.com",
+        "service_url": "http://eigenmagic.com",
+        "presentation_group": "eigenmagic.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "www.eigenmagic.com",
+        "state": 1,
+        "proof_url": "https://www.eigenmagic.com/keybase.txt",
+        "sig_id": "f2eccf22824211ea37b3a6273d246c95e6beb8b87d4095869e2f0d3e00a5ac150f",
+        "proof_id": "3594ac67ff9bba9298b5df10",
+        "human_url": "https://www.eigenmagic.com/keybase.txt",
+        "service_url": "https://www.eigenmagic.com",
+        "presentation_group": "www.eigenmagic.com",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -165,12 +325,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "de40828b90f4b7fab308f5fe12050eed737f99a3c4e24d2d2f62863a8a139a120f",
-      "seqno": 15,
-      "payload_hash": "9e6134db84c4cbe03a767ee8326b1974b820a767d56f0d9c84aed7a0269a0611"
+      "sig_id": "932aa4121e1156c1dec42f1e6d3d0c2553b71edc85fa1479ebdc419529bfbdff0f",
+      "seqno": 33,
+      "payload_hash": "3a8f98f0a69d92021ef153bed6a28f37fc139e4276e0bc25c871b94a52f5ee64"
     }
   },
   "devices": {
+    "377da61754137aa3f976a2b28d0aa618": {
+      "type": "desktop",
+      "ctime": 1475878851,
+      "mtime": 1475878851,
+      "name": "desktop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120c490f4f17bd28bc21c2c6e4acdc8317d9fce8e6037369e52e69ca171f7d7e7b90a",
+          "key_role": 1,
+          "sig_id": "e04f3819c13924af7e585912fd546a13b1bcea58bef536be15d0d61ac908a85b0f"
+        },
+        {
+          "kid": "012121c5d466fdacaa11fe0fccd74331b91938014a6a3da6b508fbbdbbbf69b32d3a0a",
+          "key_role": 2,
+          "sig_id": "900167098a918415dd9924f74f7714d038c8521a65b92e4aeca8d978ad844afe0f"
+        }
+      ]
+    },
     "bf2d993a4bd8c7964e28e5fbf1816018": {
       "type": "backup",
       "ctime": 1460418734,
@@ -187,25 +366,6 @@
           "kid": "0121099d25c593ee4a05df48d19dc62c1f03fa489c57b75258e99d076a36d938fa1a0a",
           "key_role": 2,
           "sig_id": "de40828b90f4b7fab308f5fe12050eed737f99a3c4e24d2d2f62863a8a139a120f"
-        }
-      ]
-    },
-    "e586d20607328df788e743b4f85a1a18": {
-      "type": "desktop",
-      "ctime": 1460418732,
-      "mtime": 1460418732,
-      "name": "fnord",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01200d37c94e5f68f6a997d8bdaefb14986278ebfe45bff3b6254b0baef1b8f61b1a0a",
-          "key_role": 1,
-          "sig_id": "ed06cca7acf11714abe75cb216fec6229b3d90a5bb4ecc8cb001a3374b19f8330f"
-        },
-        {
-          "kid": "012110f8cc0805d367f9bf043a1b05103b4209e79be1c6d50e7d1468304aa7ab191e0a",
-          "key_role": 2,
-          "sig_id": "7939428034bb12e9f26c050dac8dedccaac283e8fe024c7e95e683d7d2a9c1c80f"
         }
       ]
     }
