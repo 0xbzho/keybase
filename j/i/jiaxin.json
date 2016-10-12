@@ -4,9 +4,9 @@
     "username": "jiaxin",
     "ctime": 1466297669,
     "mtime": 1467377061,
-    "id_version": 18,
-    "track_version": 8,
-    "last_id_change": 1469623290,
+    "id_version": 34,
+    "track_version": 13,
+    "last_id_change": 1474520658,
     "username_cased": "jiaxin"
   },
   "profile": {
@@ -38,16 +38,18 @@
       "0120583c63f702dba59c9f729c6afd5d2ab5ffea3a44ffc230f38d03e8c45bd1d60c0a",
       "0121b3bbac5a9660a67ff3f1142baf536db4c551402074d25da494c0c187975493520a",
       "0120f630ed61d9df69ca9220cebb501bc3eac71dbc315a4f77ee257e423dbca889140a",
-      "0121be3ff43c8fe5d807a2e7f47e4d73a2b2897f089282ff1e69ea84b691be294e4a0a"
+      "0121be3ff43c8fe5d807a2e7f47e4d73a2b2897f089282ff1e69ea84b691be294e4a0a",
+      "01219963d060b755e316470dfab95e0fd26754b7b06106ae5be59763a2c2555d30680a",
+      "01200e36fb940ce5997030e565ac4e27e6da0ef57380cbb7d6c496898253509408e10a"
     ],
     "subkeys": [
-      "0121b3bbac5a9660a67ff3f1142baf536db4c551402074d25da494c0c187975493520a",
-      "0121be3ff43c8fe5d807a2e7f47e4d73a2b2897f089282ff1e69ea84b691be294e4a0a"
+      "0121be3ff43c8fe5d807a2e7f47e4d73a2b2897f089282ff1e69ea84b691be294e4a0a",
+      "01219963d060b755e316470dfab95e0fd26754b7b06106ae5be59763a2c2555d30680a"
     ],
     "sibkeys": [
       "0101afcaa95a032a4361defbae655befb3915cd602545c024dbbf32a34d04444c4e10a",
-      "0120583c63f702dba59c9f729c6afd5d2ab5ffea3a44ffc230f38d03e8c45bd1d60c0a",
-      "0120f630ed61d9df69ca9220cebb501bc3eac71dbc315a4f77ee257e423dbca889140a"
+      "0120f630ed61d9df69ca9220cebb501bc3eac71dbc315a4f77ee257e423dbca889140a",
+      "01200e36fb940ce5997030e565ac4e27e6da0ef57380cbb7d6c496898253509408e10a"
     ],
     "families": {
       "0101afcaa95a032a4361defbae655befb3915cd602545c024dbbf32a34d04444c4e10a": [
@@ -55,7 +57,9 @@
         "0120583c63f702dba59c9f729c6afd5d2ab5ffea3a44ffc230f38d03e8c45bd1d60c0a",
         "0121b3bbac5a9660a67ff3f1142baf536db4c551402074d25da494c0c187975493520a",
         "0120f630ed61d9df69ca9220cebb501bc3eac71dbc315a4f77ee257e423dbca889140a",
-        "0121be3ff43c8fe5d807a2e7f47e4d73a2b2897f089282ff1e69ea84b691be294e4a0a"
+        "0121be3ff43c8fe5d807a2e7f47e4d73a2b2897f089282ff1e69ea84b691be294e4a0a",
+        "01219963d060b755e316470dfab95e0fd26754b7b06106ae5be59763a2c2555d30680a",
+        "01200e36fb940ce5997030e565ac4e27e6da0ef57380cbb7d6c496898253509408e10a"
       ]
     },
     "eldest_kid": "0101afcaa95a032a4361defbae655befb3915cd602545c024dbbf32a34d04444c4e10a",
@@ -106,6 +110,18 @@
           "service_url": "http://jiaxinguan.com",
           "presentation_group": "jiaxinguan.com",
           "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "guan.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/jiaxin/sigchain#055197c16a43244faaaebfafc98728ca82b421566f8d63063197068857e854920f",
+          "sig_id": "055197c16a43244faaaebfafc98728ca82b421566f8d63063197068857e854920f",
+          "proof_id": "fd4e7d1736e2c237f66a1410",
+          "human_url": "dns://guan.io",
+          "service_url": "http://guan.io",
+          "presentation_group": "guan.io",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -151,6 +167,20 @@
           "presentation_group": "jiaxinguan.com",
           "presentation_tag": "dns"
         }
+      ],
+      "guan.io": [
+        {
+          "proof_type": "dns",
+          "nametag": "guan.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/jiaxin/sigchain#055197c16a43244faaaebfafc98728ca82b421566f8d63063197068857e854920f",
+          "sig_id": "055197c16a43244faaaebfafc98728ca82b421566f8d63063197068857e854920f",
+          "proof_id": "fd4e7d1736e2c237f66a1410",
+          "human_url": "dns://guan.io",
+          "service_url": "http://guan.io",
+          "presentation_group": "guan.io",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -179,6 +209,18 @@
         "presentation_tag": "dns"
       },
       {
+        "proof_type": "dns",
+        "nametag": "guan.io",
+        "state": 1,
+        "proof_url": "https://keybase.io/jiaxin/sigchain#055197c16a43244faaaebfafc98728ca82b421566f8d63063197068857e854920f",
+        "sig_id": "055197c16a43244faaaebfafc98728ca82b421566f8d63063197068857e854920f",
+        "proof_id": "fd4e7d1736e2c237f66a1410",
+        "human_url": "dns://guan.io",
+        "service_url": "http://guan.io",
+        "presentation_group": "guan.io",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "jiaxin.keybase.pub",
         "state": 1,
@@ -203,28 +245,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f2d3105e790775e93a31bd951758967a70f5a21712d55705a6dc926b8b082acc0f",
-      "seqno": 18,
-      "payload_hash": "274fa1b74001bd01e02c790ee824eb1ef288c2bf0f57502e7dee0c1f78f76b1a"
+      "sig_id": "52c76bf32be68faa76d1f0c47682cb89a9f499b553de2c6ff058c6ba432ac86f0f",
+      "seqno": 34,
+      "payload_hash": "60922798121e240f768a933712bb4fb9c65c9ff8ba33275cb666fef051119ea5"
     }
   },
   "devices": {
-    "cc52812bb83524edc6ab2ddb7baa1118": {
+    "71f3025d202b73482356fa340beb1818": {
       "type": "desktop",
-      "ctime": 1467755136,
-      "mtime": 1467755136,
-      "name": "X1 Carbon",
+      "ctime": 1474520658,
+      "mtime": 1474520658,
+      "name": "Laptop",
       "status": 1,
       "keys": [
         {
-          "kid": "0120583c63f702dba59c9f729c6afd5d2ab5ffea3a44ffc230f38d03e8c45bd1d60c0a",
+          "kid": "01200e36fb940ce5997030e565ac4e27e6da0ef57380cbb7d6c496898253509408e10a",
           "key_role": 1,
-          "sig_id": "e33310c2f20dc5c26bded263ede89a10dbcdcb965c2dbc40d40bd7e784fbcd520f"
+          "sig_id": "f78fba007623675b3b990518f57861e5caa96d7970aafffc1cdebdc02d7f366f0f"
         },
         {
-          "kid": "0121b3bbac5a9660a67ff3f1142baf536db4c551402074d25da494c0c187975493520a",
+          "kid": "01219963d060b755e316470dfab95e0fd26754b7b06106ae5be59763a2c2555d30680a",
           "key_role": 2,
-          "sig_id": "94a186e04911ce0a3a989b3aa20d39a2c53c48f9a7610b0dba535cc89ca36eac0f"
+          "sig_id": "f0b17f0446fb8d1bda3272d142adaa1106b9e34dbfbaa429318aa24f30de3c550f"
         }
       ]
     },
