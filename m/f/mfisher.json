@@ -4,9 +4,9 @@
     "username": "mfisher",
     "ctime": 1401217319,
     "mtime": 1401217319,
-    "id_version": 104,
-    "track_version": 17,
-    "last_id_change": 1458689858,
+    "id_version": 110,
+    "track_version": 18,
+    "last_id_change": 1474166124,
     "username_cased": "mfisher"
   },
   "profile": {
@@ -111,7 +111,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/mfisher",
+          "nametag": "mfisher",
           "state": 1,
           "proof_url": "https://coinbase.com/mfisher/public-key",
           "sig_id": "f7b8bab2b4fff0655a5abafc82b27ba1870c6c4cd27769c3188393894fca84c60f",
@@ -120,6 +120,20 @@
           "service_url": "https://coinbase.com/mfisher",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "themfishers.com",
+          "state": 1,
+          "proof_url": "http://themfishers.com/.well-known/keybase.txt",
+          "sig_id": "a1ca4e2a9a47655fea89d10e0f09ab1304cc3905862bb46c5f0ac27f124141310f",
+          "proof_id": "cbb0046c593c0ea26e65ec10",
+          "human_url": "http://themfishers.com/.well-known/keybase.txt",
+          "service_url": "http://themfishers.com",
+          "presentation_group": "themfishers.com",
+          "presentation_tag": "http"
         }
       ]
     },
@@ -169,7 +183,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/mfisher",
+          "nametag": "mfisher",
           "state": 1,
           "proof_url": "https://coinbase.com/mfisher/public-key",
           "sig_id": "f7b8bab2b4fff0655a5abafc82b27ba1870c6c4cd27769c3188393894fca84c60f",
@@ -178,6 +192,20 @@
           "service_url": "https://coinbase.com/mfisher",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "themfishers.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "themfishers.com",
+          "state": 1,
+          "proof_url": "http://themfishers.com/.well-known/keybase.txt",
+          "sig_id": "a1ca4e2a9a47655fea89d10e0f09ab1304cc3905862bb46c5f0ac27f124141310f",
+          "proof_id": "cbb0046c593c0ea26e65ec10",
+          "human_url": "http://themfishers.com/.well-known/keybase.txt",
+          "service_url": "http://themfishers.com",
+          "presentation_group": "themfishers.com",
+          "presentation_tag": "http"
         }
       ]
     },
@@ -220,7 +248,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/mfisher",
+        "nametag": "mfisher",
         "state": 1,
         "proof_url": "https://coinbase.com/mfisher/public-key",
         "sig_id": "f7b8bab2b4fff0655a5abafc82b27ba1870c6c4cd27769c3188393894fca84c60f",
@@ -229,6 +257,18 @@
         "service_url": "https://coinbase.com/mfisher",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "themfishers.com",
+        "state": 1,
+        "proof_url": "http://themfishers.com/.well-known/keybase.txt",
+        "sig_id": "a1ca4e2a9a47655fea89d10e0f09ab1304cc3905862bb46c5f0ac27f124141310f",
+        "proof_id": "cbb0046c593c0ea26e65ec10",
+        "human_url": "http://themfishers.com/.well-known/keybase.txt",
+        "service_url": "http://themfishers.com",
+        "presentation_group": "themfishers.com",
+        "presentation_tag": "http"
       }
     ]
   },
@@ -243,31 +283,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "bb640e87c98a8079f637097abe97b97a47127b2c21906bda014d4a5a15a5de720f",
-      "seqno": 29,
-      "payload_hash": "3b84b2dc776dcf87363cd2adf52637b0941bcb9c55d07fe7f5345e9dbb0622ca"
+      "sig_id": "49ee74ac94eb8d96a6174b3b791037edf2ba9d170b2b27bde703f4084920c4360f",
+      "seqno": 30,
+      "payload_hash": "a6999e8e6fc3cdec63bd7e76c756d06ccb1694e78454e7591d9706c3dccc23f5"
     }
   },
   "devices": {
-    "87e616384e3ae383277828fe7b062318": {
-      "type": "backup",
-      "ctime": 1454789081,
-      "mtime": 1454789081,
-      "name": "toddler affair",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120dfae9556de3e20381c4b8db800a4a6c54c7b4afe05f40fbccb90f2d38476db230a",
-          "key_role": 1,
-          "sig_id": "1c04eaa9c415d1c6f5ab1b82cab60940894b96adf9324a8887d6043142f874f30f"
-        },
-        {
-          "kid": "012184a2d2b35098801d0c80123b517e2fdf1ca39fc9f62a5b1b8f7dcec08616ef2e0a",
-          "key_role": 2,
-          "sig_id": "1e938fbbd4820d948d66bd25bc56e08a49bd1837928976ff2cbdfa4c89d8da2e0f"
-        }
-      ]
-    },
     "ab4d948f8605c676f2597ac1742ef918": {
       "type": "desktop",
       "ctime": 1454789079,
@@ -284,6 +305,25 @@
           "kid": "012164bb324350df9a147092f5cd29bb1670d4350f825596670c229ef4d9d1d5b0100a",
           "key_role": 2,
           "sig_id": "1e1003372b6484862a4d1cb10e08e1f68781d508dd76b823852aa6f3ccc4c65c0f"
+        }
+      ]
+    },
+    "87e616384e3ae383277828fe7b062318": {
+      "type": "backup",
+      "ctime": 1454789081,
+      "mtime": 1454789081,
+      "name": "toddler affair",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120dfae9556de3e20381c4b8db800a4a6c54c7b4afe05f40fbccb90f2d38476db230a",
+          "key_role": 1,
+          "sig_id": "1c04eaa9c415d1c6f5ab1b82cab60940894b96adf9324a8887d6043142f874f30f"
+        },
+        {
+          "kid": "012184a2d2b35098801d0c80123b517e2fdf1ca39fc9f62a5b1b8f7dcec08616ef2e0a",
+          "key_role": 2,
+          "sig_id": "1e938fbbd4820d948d66bd25bc56e08a49bd1837928976ff2cbdfa4c89d8da2e0f"
         }
       ]
     }
