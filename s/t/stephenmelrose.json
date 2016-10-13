@@ -4,16 +4,16 @@
     "username": "stephenmelrose",
     "ctime": 1407262340,
     "mtime": 1407262340,
-    "id_version": 89,
+    "id_version": 94,
     "track_version": 20,
-    "last_id_change": 1469827586,
+    "last_id_change": 1472750805,
     "username_cased": "stephenmelrose"
   },
   "profile": {
-    "mtime": 1407262773,
+    "mtime": 1473153369,
     "full_name": "Stephen Melrose",
     "location": "Leeds, West Yorkshire, UK",
-    "bio": "Contract Software Engineering Consultant. Specialise in Node.js/JavaScript and PHP. Love movies, TV, music, squash, football, and F1."
+    "bio": "Contract Software Engineer. Specialise in DevOps, PHP, and Node.js/JavaScript. Love photography, movies, TV, music, squash, football, and F1."
   },
   "public_keys": {
     "primary": {
@@ -45,13 +45,11 @@
       "01204e77a8f1df8be73cebc8531fe44b2f63263a362058cae9cfa397a435838e11390a"
     ],
     "subkeys": [
-      "01217bbd90550ee34a75f64cac966c13a9e85ffe393c54e23f515706bdad4762d05e0a",
       "0121f6a763597c6230e89f05eeb075c279ef7fddbd1d96806289c3c4c54ace249d4e0a",
       "012120dc87f72c5a35808c3a03c205bc736e87af501459efd42ab51c4a6434ca18610a"
     ],
     "sibkeys": [
       "01012a729fedc25553b03c597449beac183a0b5477c46ec69acce2f1adeeb7050f1a0a",
-      "01201807851d218e9e92d225638fa7483b40a6b2c1907c021e709c6fa8e836b7e1720a",
       "012028c3bb35c53eca025a8cc193f32f76dea3dba1b281c75bbe989fac900d8dda150a",
       "01204e77a8f1df8be73cebc8531fe44b2f63263a362058cae9cfa397a435838e11390a"
     ],
@@ -121,7 +119,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/stephenmelrose",
+          "nametag": "stephenmelrose",
           "state": 1,
           "proof_url": "https://coinbase.com/stephenmelrose/public-key",
           "sig_id": "d38460ab7b2c7a4856a3c00de5f3d35762ef90672b2eeabab2923fb7c3c95f5c0f",
@@ -207,7 +205,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/stephenmelrose",
+          "nametag": "stephenmelrose",
           "state": 1,
           "proof_url": "https://coinbase.com/stephenmelrose/public-key",
           "sig_id": "d38460ab7b2c7a4856a3c00de5f3d35762ef90672b2eeabab2923fb7c3c95f5c0f",
@@ -286,7 +284,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/stephenmelrose",
+        "nametag": "stephenmelrose",
         "state": 1,
         "proof_url": "https://coinbase.com/stephenmelrose/public-key",
         "sig_id": "d38460ab7b2c7a4856a3c00de5f3d35762ef90672b2eeabab2923fb7c3c95f5c0f",
@@ -340,9 +338,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c40f6207050c717155ed3cc2e6cf91de7feacdc3609d87075cc57831d7ec66c80f",
-      "seqno": 41,
-      "payload_hash": "e545b27d3fc87716d2ec1eed4f9dd337f241e02a51e06dcbf407dea01f99f416"
+      "sig_id": "ba7b654ade0f461ce4a31b605bfbce75457dc7b4fae70539d48babc7dfe23d490f",
+      "seqno": 42,
+      "payload_hash": "3a29d2f7cd047a518b87ae7b62557162c0e3cef8172644d8c9c23463a7dbc489"
     }
   },
   "devices": {
@@ -362,25 +360,6 @@
           "kid": "0121f6a763597c6230e89f05eeb075c279ef7fddbd1d96806289c3c4c54ace249d4e0a",
           "key_role": 2,
           "sig_id": "5d947e52429a6b36de13287720e8c5d83bc8fd54ae1fcfa6c8b474149a02c6a90f"
-        }
-      ]
-    },
-    "afad2b4c525fcf9ba8509a15ce9d1018": {
-      "type": "backup",
-      "ctime": 1456839046,
-      "mtime": 1456839046,
-      "name": "danger actual",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01201807851d218e9e92d225638fa7483b40a6b2c1907c021e709c6fa8e836b7e1720a",
-          "key_role": 1,
-          "sig_id": "cb3358eb66cd30ea673d7d7718275c2bf685c91d96bf14e682044da1a20a9c450f"
-        },
-        {
-          "kid": "01217bbd90550ee34a75f64cac966c13a9e85ffe393c54e23f515706bdad4762d05e0a",
-          "key_role": 2,
-          "sig_id": "e6d6d97cb270edb85bd4ae448dc2dfc8e63c3a54dc534e037b098a624fb022900f"
         }
       ]
     },
