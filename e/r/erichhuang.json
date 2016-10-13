@@ -4,9 +4,9 @@
     "username": "erichhuang",
     "ctime": 1411652141,
     "mtime": 1411652141,
-    "id_version": 64,
+    "id_version": 67,
     "track_version": 20,
-    "last_id_change": 1470260606,
+    "last_id_change": 1473948194,
     "username_cased": "erichhuang"
   },
   "profile": {
@@ -42,18 +42,22 @@
       "0121b0f44892cd2bc8ca38ca36492a885d2b1a459add9237907f688fb8ddfb73b05f0a",
       "012055ebbc1bf375a1671091d46fb605773ad8e8b4aa4f48504c76305eb30f2878bc0a",
       "0120c348ef01521e9b86b7887e9af065a4dccd58799a8bc4d5756fe0c9d4bac1c8b20a",
-      "012150fa48b6d43abfc061788c7abf6071526a096a74d3cca5c1d2382358da22db780a"
+      "012150fa48b6d43abfc061788c7abf6071526a096a74d3cca5c1d2382358da22db780a",
+      "01214555672bf29fb8d9768736fedfaf5daca30687c459603462fe6e5c6f3fb195550a",
+      "012003c18bf8d423fe75d69e1e834d17b7d52b0885466577758e0e6b65c35bec20200a"
     ],
     "subkeys": [
       "01212cb15da9da2dd474157e48573c9aa5ddf91d5216712b69e52132a052a5d2c4000a",
       "0121b0f44892cd2bc8ca38ca36492a885d2b1a459add9237907f688fb8ddfb73b05f0a",
-      "012150fa48b6d43abfc061788c7abf6071526a096a74d3cca5c1d2382358da22db780a"
+      "012150fa48b6d43abfc061788c7abf6071526a096a74d3cca5c1d2382358da22db780a",
+      "01214555672bf29fb8d9768736fedfaf5daca30687c459603462fe6e5c6f3fb195550a"
     ],
     "sibkeys": [
       "010116af9a21b9899277b9db648544b52523afba137d3e3b26e72218d46ddde796920a",
       "012073ff20c84dcb335e251d4dd2664e5ecaf1575eb942cdf664cdc6dd0a8744eb680a",
       "012055ebbc1bf375a1671091d46fb605773ad8e8b4aa4f48504c76305eb30f2878bc0a",
-      "0120c348ef01521e9b86b7887e9af065a4dccd58799a8bc4d5756fe0c9d4bac1c8b20a"
+      "0120c348ef01521e9b86b7887e9af065a4dccd58799a8bc4d5756fe0c9d4bac1c8b20a",
+      "012003c18bf8d423fe75d69e1e834d17b7d52b0885466577758e0e6b65c35bec20200a"
     ],
     "families": {
       "010116af9a21b9899277b9db648544b52523afba137d3e3b26e72218d46ddde796920a": [
@@ -65,7 +69,9 @@
         "0121b0f44892cd2bc8ca38ca36492a885d2b1a459add9237907f688fb8ddfb73b05f0a",
         "012055ebbc1bf375a1671091d46fb605773ad8e8b4aa4f48504c76305eb30f2878bc0a",
         "0120c348ef01521e9b86b7887e9af065a4dccd58799a8bc4d5756fe0c9d4bac1c8b20a",
-        "012150fa48b6d43abfc061788c7abf6071526a096a74d3cca5c1d2382358da22db780a"
+        "012150fa48b6d43abfc061788c7abf6071526a096a74d3cca5c1d2382358da22db780a",
+        "01214555672bf29fb8d9768736fedfaf5daca30687c459603462fe6e5c6f3fb195550a",
+        "012003c18bf8d423fe75d69e1e834d17b7d52b0885466577758e0e6b65c35bec20200a"
       ]
     },
     "eldest_kid": "010116af9a21b9899277b9db648544b52523afba137d3e3b26e72218d46ddde796920a",
@@ -121,7 +127,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/erichhuang",
+          "nametag": "erichhuang",
           "state": 1,
           "proof_url": "https://coinbase.com/erichhuang/public-key",
           "sig_id": "ce717e08326f2afc8615aae6205df30f9ff472425611d79eb7bb11d21e4e66da0f",
@@ -207,7 +213,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/erichhuang",
+          "nametag": "erichhuang",
           "state": 1,
           "proof_url": "https://coinbase.com/erichhuang/public-key",
           "sig_id": "ce717e08326f2afc8615aae6205df30f9ff472425611d79eb7bb11d21e4e66da0f",
@@ -286,7 +292,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/erichhuang",
+        "nametag": "erichhuang",
         "state": 1,
         "proof_url": "https://coinbase.com/erichhuang/public-key",
         "sig_id": "ce717e08326f2afc8615aae6205df30f9ff472425611d79eb7bb11d21e4e66da0f",
@@ -340,12 +346,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d449278f3a8cc2318d5cb64131b06154b427ae3384e108c97138f8c2bd8dbfb60f",
-      "seqno": 42,
-      "payload_hash": "e35adc3bfa5a22e250692e5e53636217550f20e0d9381e988a8256b3368b3c9c"
+      "sig_id": "095e7c61b369c930947ccb46af3a6dfb45ceedca230d4e3d23588d01d0242cee0f",
+      "seqno": 44,
+      "payload_hash": "7c5c7b0b1426c9b359ead9486ab453c923f528340bcefac1b15c85cc490f52a9"
     }
   },
   "devices": {
+    "70598614f0dc466241e4c04220f05718": {
+      "type": "desktop",
+      "ctime": 1473948194,
+      "mtime": 1473948194,
+      "name": "MacProMercury",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012003c18bf8d423fe75d69e1e834d17b7d52b0885466577758e0e6b65c35bec20200a",
+          "key_role": 1,
+          "sig_id": "27c00ecf6c3eb905ec9af6aa0327be8956464a52ce24199d3f58c26fe8cde0e20f"
+        },
+        {
+          "kid": "01214555672bf29fb8d9768736fedfaf5daca30687c459603462fe6e5c6f3fb195550a",
+          "key_role": 2,
+          "sig_id": "095e7c61b369c930947ccb46af3a6dfb45ceedca230d4e3d23588d01d0242cee0f"
+        }
+      ]
+    },
     "885f1c44bd3c124bc326fdd1dfecd818": {
       "type": "desktop",
       "ctime": 1454014498,
