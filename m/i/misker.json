@@ -4,9 +4,9 @@
     "username": "misker",
     "ctime": 1449018763,
     "mtime": 1449018763,
-    "id_version": 106,
-    "track_version": 11,
-    "last_id_change": 1470098577,
+    "id_version": 112,
+    "track_version": 12,
+    "last_id_change": 1472250130,
     "username_cased": "Misker"
   },
   "profile": {
@@ -56,8 +56,6 @@
     ],
     "subkeys": [
       "012167258c3db8254269d6969e1bcf09259b965c8b2dd47656a0c5fd537d1b5c6d750a",
-      "012178da48d289f855e59d7e08a42501fe546dc4ed9973062f47a3da493ce70737690a",
-      "012107d1b0608a7400c6999476d04e5a9329fb2c1daa3bb80f9c3a084d43e3304c230a",
       "01216d3d3f3a059159adc89c9140e2b48dc0142a178481300141de5b517127c923390a",
       "0121399aa989bdca614726b264d54d6b4487405d4cf386c1711f15d83714dac14e210a",
       "01211a5605c4c24115a5291b81e43cf02158651ac2b01470e8a114027e07d59106460a"
@@ -65,8 +63,6 @@
     "sibkeys": [
       "010110a2eb5c73319754067d132ff1d02e0b887684e4a333010947ca92b9e0dbde1c0a",
       "0120cd3430cd94a901fdc05e73c8f030085260ca4607166f541e59e971e6905e2fb50a",
-      "0120ede66c6b46d093f6c94401c003ecf67c268cde759deb981b4041155436ef8c680a",
-      "0120b01aaa83cd2f4ee37137dd32f61de16ac417446ee01bd54aea30a74383895dd30a",
       "0120e965734c98f4a0cd663057684e0c90531aaf65268f68bf4d8ec011c5ab9aebba0a",
       "0120f1288e54bf802692cce44cb743fb18b780548cf09662392bd2ad843e1084cdc80a",
       "0120cd711d66ab1c27e60b726aa551ec167db82d788b9d66104be8dddb0f211ea9910a"
@@ -147,7 +143,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/Misker",
+          "nametag": "misker",
           "state": 1,
           "proof_url": "https://coinbase.com/Misker/public-key",
           "sig_id": "ea16bc164e2e52cbdcff1359225e26187cfffdfe5abf4eaedac7bff8fd8b47050f",
@@ -219,7 +215,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/Misker",
+          "nametag": "misker",
           "state": 1,
           "proof_url": "https://coinbase.com/Misker/public-key",
           "sig_id": "ea16bc164e2e52cbdcff1359225e26187cfffdfe5abf4eaedac7bff8fd8b47050f",
@@ -284,7 +280,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/Misker",
+        "nametag": "misker",
         "state": 1,
         "proof_url": "https://coinbase.com/Misker/public-key",
         "sig_id": "ea16bc164e2e52cbdcff1359225e26187cfffdfe5abf4eaedac7bff8fd8b47050f",
@@ -326,9 +322,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "ea6f33e03ce324359461b8c4aef4af4d5526ef00dff69a26d3473d6edae890850f",
-      "seqno": 44,
-      "payload_hash": "08e097cb9c0260acff8a6a7cb71e635ef46b8d42318060464fdf35d708b88e95"
+      "sig_id": "869507ba87332e67ac393368a9ca1c24503e8a60eb4745fb713705710af3255f0f",
+      "seqno": 47,
+      "payload_hash": "bea576b54f55c16d4da242734deff5766504928e52ec13b4e499e0233ef3b39a"
     }
   },
   "devices": {
@@ -351,25 +347,6 @@
         }
       ]
     },
-    "2e8aaff0124c51529cc08b2c40c1dc18": {
-      "type": "desktop",
-      "ctime": 1456456334,
-      "mtime": 1456456334,
-      "name": "New_Kali",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120b01aaa83cd2f4ee37137dd32f61de16ac417446ee01bd54aea30a74383895dd30a",
-          "key_role": 1,
-          "sig_id": "47f0f2166d76d521a60058b48f79f3d10b644b20efbfc3bc2daaac0b4ff69b2d0f"
-        },
-        {
-          "kid": "012107d1b0608a7400c6999476d04e5a9329fb2c1daa3bb80f9c3a084d43e3304c230a",
-          "key_role": 2,
-          "sig_id": "f8a951e0c72e29003e89ab18ea65f98efbc3aeb6b6bacf9221d069cf687425ec0f"
-        }
-      ]
-    },
     "b78dcf5dbe2e0391cd45ec3cb4168618": {
       "type": "desktop",
       "ctime": 1470098577,
@@ -386,25 +363,6 @@
           "kid": "01211a5605c4c24115a5291b81e43cf02158651ac2b01470e8a114027e07d59106460a",
           "key_role": 2,
           "sig_id": "ea6f33e03ce324359461b8c4aef4af4d5526ef00dff69a26d3473d6edae890850f"
-        }
-      ]
-    },
-    "bb629a119bdb07a162675e4816a12418": {
-      "type": "desktop",
-      "ctime": 1454696034,
-      "mtime": 1454696034,
-      "name": "Ubuntu",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120ede66c6b46d093f6c94401c003ecf67c268cde759deb981b4041155436ef8c680a",
-          "key_role": 1,
-          "sig_id": "82b038b78ef20777544d9f7ca8b339550b477b75fa516644bc63e12a7e22047c0f"
-        },
-        {
-          "kid": "012178da48d289f855e59d7e08a42501fe546dc4ed9973062f47a3da493ce70737690a",
-          "key_role": 2,
-          "sig_id": "1c1d58559b224d76825464140271ef275178113ed30567fb02a16de1559871360f"
         }
       ]
     },
