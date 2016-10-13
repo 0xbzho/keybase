@@ -4,9 +4,9 @@
     "username": "sd",
     "ctime": 1395698965,
     "mtime": 1395698965,
-    "id_version": 90,
-    "track_version": 5,
-    "last_id_change": 1466661779,
+    "id_version": 92,
+    "track_version": 6,
+    "last_id_change": 1473722268,
     "username_cased": "sd"
   },
   "profile": {
@@ -98,7 +98,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/sdelmont",
+          "nametag": "sdelmont",
           "state": 1,
           "proof_url": "https://coinbase.com/sdelmont/public-key",
           "sig_id": "15602e3e5558ada6da39494c8b0b6055e9fd32ea7b0df03c862d6640771d353d0f",
@@ -124,6 +124,18 @@
         }
       ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "notso.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/sd/sigchain#5ad48930db48fa28ec5c49d7d1edb5142060d377d6763e12da33c1753d57a28f0f",
+          "sig_id": "5ad48930db48fa28ec5c49d7d1edb5142060d377d6763e12da33c1753d57a28f0f",
+          "proof_id": "75f0826aa40830b0c0163210",
+          "human_url": "dns://notso.net",
+          "service_url": "http://notso.net",
+          "presentation_group": "notso.net",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "sdelmont.com",
@@ -184,7 +196,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/sdelmont",
+          "nametag": "sdelmont",
           "state": 1,
           "proof_url": "https://coinbase.com/sdelmont/public-key",
           "sig_id": "15602e3e5558ada6da39494c8b0b6055e9fd32ea7b0df03c862d6640771d353d0f",
@@ -207,6 +219,20 @@
           "service_url": "https://news.ycombinator.com/user?id=sdelmont",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "notso.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "notso.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/sd/sigchain#5ad48930db48fa28ec5c49d7d1edb5142060d377d6763e12da33c1753d57a28f0f",
+          "sig_id": "5ad48930db48fa28ec5c49d7d1edb5142060d377d6763e12da33c1753d57a28f0f",
+          "proof_id": "75f0826aa40830b0c0163210",
+          "human_url": "dns://notso.net",
+          "service_url": "http://notso.net",
+          "presentation_group": "notso.net",
+          "presentation_tag": "dns"
         }
       ],
       "sdelmont.com": [
@@ -263,7 +289,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/sdelmont",
+        "nametag": "sdelmont",
         "state": 1,
         "proof_url": "https://coinbase.com/sdelmont/public-key",
         "sig_id": "15602e3e5558ada6da39494c8b0b6055e9fd32ea7b0df03c862d6640771d353d0f",
@@ -284,6 +310,18 @@
         "service_url": "https://news.ycombinator.com/user?id=sdelmont",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "notso.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/sd/sigchain#5ad48930db48fa28ec5c49d7d1edb5142060d377d6763e12da33c1753d57a28f0f",
+        "sig_id": "5ad48930db48fa28ec5c49d7d1edb5142060d377d6763e12da33c1753d57a28f0f",
+        "proof_id": "75f0826aa40830b0c0163210",
+        "human_url": "dns://notso.net",
+        "service_url": "http://notso.net",
+        "presentation_group": "notso.net",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -317,9 +355,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b3748fc908718c553a9445cae20cf286a6c5f19c7fed17fc164f00e9148438ca0f",
-      "seqno": 24,
-      "payload_hash": "0aa8f57179c14ce6390a93a063ad75d0492c83a5a13aca8411bfc6df270c7a32"
+      "sig_id": "ffe9ce9cd893036e7919e84b8d8da6b95460ef8572bb703274856f78ce9637570f",
+      "seqno": 25,
+      "payload_hash": "8f453f9623de5804e9801f3653e1727d80b8067acbeb227f50af9e551e5ae737"
     }
   },
   "devices": {}
