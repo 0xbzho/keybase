@@ -4,9 +4,9 @@
     "username": "emilstahl",
     "ctime": 1400828036,
     "mtime": 1400828036,
-    "id_version": 157,
-    "track_version": 26,
-    "last_id_change": 1469869904,
+    "id_version": 166,
+    "track_version": 34,
+    "last_id_change": 1476326598,
     "username_cased": "emilstahl"
   },
   "profile": {
@@ -44,20 +44,22 @@
       "0121532786fac9843a7009320d681059fe78c3223032d768e6178b549b197bdae6570a",
       "0120ab866de64b2a0a30804e39254b3815a5a5029b828243c50ff4e18ec391f025e40a",
       "012134c77410c78f9e13f6586493707edab55b6c4a9d590617ae9b8efb4bfe05711d0a",
-      "01208ffcbfc465ee02e5a3a8f92818ad97ff478dcb85aba7412a5d1799d3322f29280a"
+      "01208ffcbfc465ee02e5a3a8f92818ad97ff478dcb85aba7412a5d1799d3322f29280a",
+      "012118dc1b97b6b13a956c3a5a511cdbad0d7f26a44a328abe69b20fabac388303110a",
+      "012043683a63df79578a3c5123e19cd3104e65e7899fe9f5b449bf6acd26116b0d9c0a"
     ],
     "subkeys": [
       "012118c67d738b46ddfee07e62d6325bfc7c7f4358c818db12eaed0d4aa52d1b91480a",
       "01213f4ae5791b632c609187e509c6e2a3e30161970cf0e3dac9ffef35afa56433260a",
-      "0121532786fac9843a7009320d681059fe78c3223032d768e6178b549b197bdae6570a",
-      "012134c77410c78f9e13f6586493707edab55b6c4a9d590617ae9b8efb4bfe05711d0a"
+      "012134c77410c78f9e13f6586493707edab55b6c4a9d590617ae9b8efb4bfe05711d0a",
+      "012118dc1b97b6b13a956c3a5a511cdbad0d7f26a44a328abe69b20fabac388303110a"
     ],
     "sibkeys": [
       "0101e5f48d46a94da7e3b5f3c454f68997211f956e171f2923b771da81fea71da40f0a",
       "01203eeb0a3c4ccae9a5d56c547fac68f58a916a8446001f5791ae81a4dd8ec1d29d0a",
       "01203693c4bccd717441e3581ae8543b4840955d8e87ccfc7e47e7498adc414a56340a",
-      "0120ab866de64b2a0a30804e39254b3815a5a5029b828243c50ff4e18ec391f025e40a",
-      "01208ffcbfc465ee02e5a3a8f92818ad97ff478dcb85aba7412a5d1799d3322f29280a"
+      "01208ffcbfc465ee02e5a3a8f92818ad97ff478dcb85aba7412a5d1799d3322f29280a",
+      "012043683a63df79578a3c5123e19cd3104e65e7899fe9f5b449bf6acd26116b0d9c0a"
     ],
     "families": {
       "0101e5f48d46a94da7e3b5f3c454f68997211f956e171f2923b771da81fea71da40f0a": [
@@ -71,7 +73,9 @@
         "0121532786fac9843a7009320d681059fe78c3223032d768e6178b549b197bdae6570a",
         "0120ab866de64b2a0a30804e39254b3815a5a5029b828243c50ff4e18ec391f025e40a",
         "012134c77410c78f9e13f6586493707edab55b6c4a9d590617ae9b8efb4bfe05711d0a",
-        "01208ffcbfc465ee02e5a3a8f92818ad97ff478dcb85aba7412a5d1799d3322f29280a"
+        "01208ffcbfc465ee02e5a3a8f92818ad97ff478dcb85aba7412a5d1799d3322f29280a",
+        "012118dc1b97b6b13a956c3a5a511cdbad0d7f26a44a328abe69b20fabac388303110a",
+        "012043683a63df79578a3c5123e19cd3104e65e7899fe9f5b449bf6acd26116b0d9c0a"
       ]
     },
     "eldest_kid": "0101e5f48d46a94da7e3b5f3c454f68997211f956e171f2923b771da81fea71da40f0a",
@@ -113,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/emilstahl",
+          "nametag": "emilstahl",
           "state": 1,
           "proof_url": "https://coinbase.com/emilstahl/public-key",
           "sig_id": "487e28b3f2a426bf3f894aa8ff202088da41390bdaabdd6239676b56b212dc440f",
@@ -135,6 +139,18 @@
           "human_url": "https://emil.one/.well-known/keybase.txt",
           "service_url": "https://emil.one",
           "presentation_group": "emil.one",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ipv6-adresse.dk",
+          "state": 1,
+          "proof_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
+          "sig_id": "c5bf99eae33a1b87b647c652eb90c1ab129ae44acbe04f1ff1f174a0f65c48aa0f",
+          "proof_id": "725771a1ea6f21794cd6e910",
+          "human_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
+          "service_url": "https://ipv6-adresse.dk",
+          "presentation_group": "ipv6-adresse.dk",
           "presentation_tag": "https"
         },
         {
@@ -245,7 +261,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/emilstahl",
+          "nametag": "emilstahl",
           "state": 1,
           "proof_url": "https://coinbase.com/emilstahl/public-key",
           "sig_id": "487e28b3f2a426bf3f894aa8ff202088da41390bdaabdd6239676b56b212dc440f",
@@ -282,6 +298,32 @@
           "presentation_tag": "dns"
         }
       ],
+      "ipv6-adresse.dk": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ipv6-adresse.dk",
+          "state": 1,
+          "proof_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
+          "sig_id": "c5bf99eae33a1b87b647c652eb90c1ab129ae44acbe04f1ff1f174a0f65c48aa0f",
+          "proof_id": "725771a1ea6f21794cd6e910",
+          "human_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
+          "service_url": "https://ipv6-adresse.dk",
+          "presentation_group": "ipv6-adresse.dk",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "ipv6-adresse.dk",
+          "state": 1,
+          "proof_url": "https://keybase.io/emilstahl/sigchain#118f173f0ebae9b4a91adab8939e6bba649c5a21e4b8cb1b0f2fb5dec03bfb280f",
+          "sig_id": "118f173f0ebae9b4a91adab8939e6bba649c5a21e4b8cb1b0f2fb5dec03bfb280f",
+          "proof_id": "194425a92e562212ecc51e10",
+          "human_url": "dns://ipv6-adresse.dk",
+          "service_url": "http://ipv6-adresse.dk",
+          "presentation_group": "ipv6-adresse.dk",
+          "presentation_tag": "dns"
+        }
+      ],
       "emilstahl.dk": [
         {
           "proof_type": "generic_web_site",
@@ -305,20 +347,6 @@
           "human_url": "dns://emilstahl.dk",
           "service_url": "http://emilstahl.dk",
           "presentation_group": "emilstahl.dk",
-          "presentation_tag": "dns"
-        }
-      ],
-      "ipv6-adresse.dk": [
-        {
-          "proof_type": "dns",
-          "nametag": "ipv6-adresse.dk",
-          "state": 1,
-          "proof_url": "https://keybase.io/emilstahl/sigchain#118f173f0ebae9b4a91adab8939e6bba649c5a21e4b8cb1b0f2fb5dec03bfb280f",
-          "sig_id": "118f173f0ebae9b4a91adab8939e6bba649c5a21e4b8cb1b0f2fb5dec03bfb280f",
-          "proof_id": "194425a92e562212ecc51e10",
-          "human_url": "dns://ipv6-adresse.dk",
-          "service_url": "http://ipv6-adresse.dk",
-          "presentation_group": "ipv6-adresse.dk",
           "presentation_tag": "dns"
         }
       ],
@@ -365,6 +393,54 @@
         "presentation_tag": "tweet"
       },
       {
+        "proof_type": "dns",
+        "nametag": "emil.one",
+        "state": 1,
+        "proof_url": "https://keybase.io/emilstahl/sigchain#41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
+        "sig_id": "41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
+        "proof_id": "ece396b07a6c028578fb8a10",
+        "human_url": "dns://emil.one",
+        "service_url": "http://emil.one",
+        "presentation_group": "emil.one",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "emilstahl",
+        "state": 1,
+        "proof_url": "https://coinbase.com/emilstahl/public-key",
+        "sig_id": "487e28b3f2a426bf3f894aa8ff202088da41390bdaabdd6239676b56b212dc440f",
+        "proof_id": "82d999051ea3ec79ef4f2910",
+        "human_url": "https://coinbase.com/emilstahl/public-key",
+        "service_url": "https://coinbase.com/emilstahl",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "emil.click",
+        "state": 1,
+        "proof_url": "https://keybase.io/emilstahl/sigchain#97ef7dc118279d15a7fcdea9a6bee0a1ae5e92a374980e62a2b9fee633b23cd80f",
+        "sig_id": "97ef7dc118279d15a7fcdea9a6bee0a1ae5e92a374980e62a2b9fee633b23cd80f",
+        "proof_id": "c2289d0dd8c62a6e6271d110",
+        "human_url": "dns://emil.click",
+        "service_url": "http://emil.click",
+        "presentation_group": "emil.click",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "stahl.xyz",
+        "state": 1,
+        "proof_url": "https://keybase.io/emilstahl/sigchain#569f151f06ef1dfcdd2bb4c5b89d7fc81b566f7e79b2ce35bcc70494fff83ffa0f",
+        "sig_id": "569f151f06ef1dfcdd2bb4c5b89d7fc81b566f7e79b2ce35bcc70494fff83ffa0f",
+        "proof_id": "5637411da6e90ad4f9c9e710",
+        "human_url": "dns://stahl.xyz",
+        "service_url": "http://stahl.xyz",
+        "presentation_group": "stahl.xyz",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "github",
         "nametag": "emilstahl",
         "state": 1,
@@ -375,18 +451,6 @@
         "service_url": "https://github.com/emilstahl",
         "presentation_group": "github",
         "presentation_tag": "gist"
-      },
-      {
-        "proof_type": "coinbase",
-        "nametag": "coinbase/emilstahl",
-        "state": 1,
-        "proof_url": "https://coinbase.com/emilstahl/public-key",
-        "sig_id": "487e28b3f2a426bf3f894aa8ff202088da41390bdaabdd6239676b56b212dc440f",
-        "proof_id": "82d999051ea3ec79ef4f2910",
-        "human_url": "https://coinbase.com/emilstahl/public-key",
-        "service_url": "https://coinbase.com/emilstahl",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -413,40 +477,16 @@
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "dns",
-        "nametag": "stahl.xyz",
+        "proof_type": "generic_web_site",
+        "nametag": "ipv6-adresse.dk",
         "state": 1,
-        "proof_url": "https://keybase.io/emilstahl/sigchain#569f151f06ef1dfcdd2bb4c5b89d7fc81b566f7e79b2ce35bcc70494fff83ffa0f",
-        "sig_id": "569f151f06ef1dfcdd2bb4c5b89d7fc81b566f7e79b2ce35bcc70494fff83ffa0f",
-        "proof_id": "5637411da6e90ad4f9c9e710",
-        "human_url": "dns://stahl.xyz",
-        "service_url": "http://stahl.xyz",
-        "presentation_group": "stahl.xyz",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "emil.click",
-        "state": 1,
-        "proof_url": "https://keybase.io/emilstahl/sigchain#97ef7dc118279d15a7fcdea9a6bee0a1ae5e92a374980e62a2b9fee633b23cd80f",
-        "sig_id": "97ef7dc118279d15a7fcdea9a6bee0a1ae5e92a374980e62a2b9fee633b23cd80f",
-        "proof_id": "c2289d0dd8c62a6e6271d110",
-        "human_url": "dns://emil.click",
-        "service_url": "http://emil.click",
-        "presentation_group": "emil.click",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "emil.one",
-        "state": 1,
-        "proof_url": "https://keybase.io/emilstahl/sigchain#41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
-        "sig_id": "41ebe36aba12117c7ffc3667a1dd1911d4ee49f8f0e07f11f7dbda2318082d6c0f",
-        "proof_id": "ece396b07a6c028578fb8a10",
-        "human_url": "dns://emil.one",
-        "service_url": "http://emil.one",
-        "presentation_group": "emil.one",
-        "presentation_tag": "dns"
+        "proof_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
+        "sig_id": "c5bf99eae33a1b87b647c652eb90c1ab129ae44acbe04f1ff1f174a0f65c48aa0f",
+        "proof_id": "725771a1ea6f21794cd6e910",
+        "human_url": "https://ipv6-adresse.dk/.well-known/keybase.txt",
+        "service_url": "https://ipv6-adresse.dk",
+        "presentation_group": "ipv6-adresse.dk",
+        "presentation_tag": "https"
       },
       {
         "proof_type": "generic_web_site",
@@ -492,9 +532,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "74bb017f3bc074f97de5fd37c7acd7929fcc4ab39ccba7635660cfd627e175480f",
-      "seqno": 72,
-      "payload_hash": "c2bdb9ea23268e89ec13ef5b66b421485ce71473a0eacca543935de2b9ea06ae"
+      "sig_id": "abbf5d30c7267828327e1aade3df7abc37b2f513fcd481c4431bf50062705ee70f",
+      "seqno": 83,
+      "payload_hash": "f5d98afc046639c09043736e2173a1c0069dc6b2ca8d743e371e6ae991a323a5"
     }
   },
   "devices": {
@@ -536,25 +576,6 @@
         }
       ]
     },
-    "b0529942d8d15ec8a20a5a70bdbc0918": {
-      "type": "desktop",
-      "ctime": 1469803039,
-      "mtime": 1469803039,
-      "name": "Zitcom",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120ab866de64b2a0a30804e39254b3815a5a5029b828243c50ff4e18ec391f025e40a",
-          "key_role": 1,
-          "sig_id": "b2323875f689cfdc74d5300c0d077e518766d4b9bf0f833be4fa311d78a9eb7e0f"
-        },
-        {
-          "kid": "0121532786fac9843a7009320d681059fe78c3223032d768e6178b549b197bdae6570a",
-          "key_role": 2,
-          "sig_id": "f830e178d286d1902c3e32184598294b2630a0507fdc1eae22d6ae823a5a89f50f"
-        }
-      ]
-    },
     "b96c50c9e17af0f7ecfdcaacacb6d418": {
       "type": "desktop",
       "ctime": 1469804160,
@@ -571,6 +592,25 @@
           "kid": "012134c77410c78f9e13f6586493707edab55b6c4a9d590617ae9b8efb4bfe05711d0a",
           "key_role": 2,
           "sig_id": "f284621828990f6b6e05bfd3512f3e91aa717e531b6b613d61e6cd3a60b6747b0f"
+        }
+      ]
+    },
+    "c2c7fd228bc9f5009e2cd0b0adeb0c18": {
+      "type": "desktop",
+      "ctime": 1475563674,
+      "mtime": 1475563674,
+      "name": "Zit",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012043683a63df79578a3c5123e19cd3104e65e7899fe9f5b449bf6acd26116b0d9c0a",
+          "key_role": 1,
+          "sig_id": "c689a299cd80a41de8138986af64b92925751c6d7d41cb19a656ee52b493c11d0f"
+        },
+        {
+          "kid": "012118dc1b97b6b13a956c3a5a511cdbad0d7f26a44a328abe69b20fabac388303110a",
+          "key_role": 2,
+          "sig_id": "b2fd0c5e7bc5eac063dc332f6548fc343afca2c57469a5ab6e5f6ccc3927887d0f"
         }
       ]
     }
