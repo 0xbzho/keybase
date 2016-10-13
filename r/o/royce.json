@@ -10,10 +10,10 @@
     "username_cased": "royce"
   },
   "profile": {
-    "mtime": 1465102001,
+    "mtime": 1475203004,
     "full_name": "Royce Williams",
     "location": "Anchorage, AK",
-    "bio": "InfoSec, FreeBSD, Perl, pfSense, password auditing. Taxonomist of Alaskan license plates and SPAM cans. ¶ tychotithonus on Freenode. ⏭ "
+    "bio": "InfoSec, FreeBSD, Perl, pfSense, password auditing. Taxonomist of Alaskan license plates and SPAM cans. ¶ tychotithonus on Freenode. Note: I do not recommend sharing private key material with Keybase; only use it with the external signing methods. ⏭ "
   },
   "public_keys": {
     "primary": {
@@ -111,7 +111,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/roycewilliams",
+          "nametag": "roycewilliams",
           "state": 1,
           "proof_url": "https://coinbase.com/roycewilliams/public-key",
           "sig_id": "bd3cbbc01dea46662f422a2eba756f4e426de687eec9cb9e91213ee99ec072fc0f",
@@ -233,7 +233,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/roycewilliams",
+          "nametag": "roycewilliams",
           "state": 1,
           "proof_url": "https://coinbase.com/roycewilliams/public-key",
           "sig_id": "bd3cbbc01dea46662f422a2eba756f4e426de687eec9cb9e91213ee99ec072fc0f",
@@ -354,7 +354,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/roycewilliams",
+        "nametag": "roycewilliams",
         "state": 1,
         "proof_url": "https://coinbase.com/roycewilliams/public-key",
         "sig_id": "bd3cbbc01dea46662f422a2eba756f4e426de687eec9cb9e91213ee99ec072fc0f",
@@ -450,25 +450,6 @@
     }
   },
   "devices": {
-    "50dc8fc35599a187462743c02b1c9018": {
-      "type": "desktop",
-      "ctime": 1465096350,
-      "mtime": 1465096350,
-      "name": "mycroft",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01201ae12de045a6c4aa649fd3fae2338b08efbffabd31913f0ea7dd99e6086ee22d0a",
-          "key_role": 1,
-          "sig_id": "0757b3c71970fc7ed833a9c95a43e3e7f04d9f636672c49ea0ea5196734711d70f"
-        },
-        {
-          "kid": "0121d5bc194c068fc541a6d54b8dc1b78c422fc332a461ac05f56a0c6dc40e6a44310a",
-          "key_role": 2,
-          "sig_id": "125fe132c132015c87ce179e8c887444f4ce566af87baa0adc488d76a385d03d0f"
-        }
-      ]
-    },
     "5c29098397c2b05388a50b3bddb28e18": {
       "type": "backup",
       "ctime": 1465096351,
@@ -485,6 +466,25 @@
           "kid": "01213e0938125fd8b66983ab96bb53d758972087d3e1c04376db8afa4d139145840f0a",
           "key_role": 2,
           "sig_id": "6f3956fa56313c5756064919d7b7cc8bca4581f1c983c156633c793e57981cb70f"
+        }
+      ]
+    },
+    "50dc8fc35599a187462743c02b1c9018": {
+      "type": "desktop",
+      "ctime": 1465096350,
+      "mtime": 1465096350,
+      "name": "mycroft",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201ae12de045a6c4aa649fd3fae2338b08efbffabd31913f0ea7dd99e6086ee22d0a",
+          "key_role": 1,
+          "sig_id": "0757b3c71970fc7ed833a9c95a43e3e7f04d9f636672c49ea0ea5196734711d70f"
+        },
+        {
+          "kid": "0121d5bc194c068fc541a6d54b8dc1b78c422fc332a461ac05f56a0c6dc40e6a44310a",
+          "key_role": 2,
+          "sig_id": "125fe132c132015c87ce179e8c887444f4ce566af87baa0adc488d76a385d03d0f"
         }
       ]
     }
