@@ -4,9 +4,9 @@
     "username": "poolporg",
     "ctime": 1412062336,
     "mtime": 1412062336,
-    "id_version": 1124,
+    "id_version": 1128,
     "track_version": 2,
-    "last_id_change": 1469738479,
+    "last_id_change": 1473838745,
     "username_cased": "poolpOrg"
   },
   "profile": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "poolporg",
+          "state": 1,
+          "proof_url": "https://twitter.com/poolpOrg/status/517206251902484482",
+          "sig_id": "d9663f3cf69ed497735a1c374e8fce421b87ab70edc39d8859189e236990c3480f",
+          "proof_id": "126d1cbba6390c37935c9810",
+          "human_url": "https://twitter.com/poolpOrg/status/517206251902484482",
+          "service_url": "https://twitter.com/poolpOrg",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -84,7 +98,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/poolporg",
+          "nametag": "poolporg",
           "state": 1,
           "proof_url": "https://coinbase.com/poolporg/public-key",
           "sig_id": "08899ceb0ec3ecc1a90af2d0b5be1c3d5fc18d1cd63eff24e954816fb755299c0f",
@@ -107,10 +121,38 @@
           "service_url": "https://news.ycombinator.com/user?id=poolpOrg",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "poolp.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/poolporg/sigchain#1c325bbc5fb1b5fe7c4e58590334654edec5ff202d0d401d66f735c5cf74b7000f",
+          "sig_id": "1c325bbc5fb1b5fe7c4e58590334654edec5ff202d0d401d66f735c5cf74b7000f",
+          "proof_id": "d56cf7b9ce836355365a5410",
+          "human_url": "dns://poolp.org",
+          "service_url": "http://poolp.org",
+          "presentation_group": "poolp.org",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "poolporg",
+          "state": 1,
+          "proof_url": "https://twitter.com/poolpOrg/status/517206251902484482",
+          "sig_id": "d9663f3cf69ed497735a1c374e8fce421b87ab70edc39d8859189e236990c3480f",
+          "proof_id": "126d1cbba6390c37935c9810",
+          "human_url": "https://twitter.com/poolpOrg/status/517206251902484482",
+          "service_url": "https://twitter.com/poolpOrg",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -142,7 +184,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/poolporg",
+          "nametag": "poolporg",
           "state": 1,
           "proof_url": "https://coinbase.com/poolporg/public-key",
           "sig_id": "08899ceb0ec3ecc1a90af2d0b5be1c3d5fc18d1cd63eff24e954816fb755299c0f",
@@ -166,9 +208,35 @@
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
         }
+      ],
+      "poolp.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "poolp.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/poolporg/sigchain#1c325bbc5fb1b5fe7c4e58590334654edec5ff202d0d401d66f735c5cf74b7000f",
+          "sig_id": "1c325bbc5fb1b5fe7c4e58590334654edec5ff202d0d401d66f735c5cf74b7000f",
+          "proof_id": "d56cf7b9ce836355365a5410",
+          "human_url": "dns://poolp.org",
+          "service_url": "http://poolp.org",
+          "presentation_group": "poolp.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "poolporg",
+        "state": 1,
+        "proof_url": "https://twitter.com/poolpOrg/status/517206251902484482",
+        "sig_id": "d9663f3cf69ed497735a1c374e8fce421b87ab70edc39d8859189e236990c3480f",
+        "proof_id": "126d1cbba6390c37935c9810",
+        "human_url": "https://twitter.com/poolpOrg/status/517206251902484482",
+        "service_url": "https://twitter.com/poolpOrg",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "poolporg",
@@ -195,7 +263,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/poolporg",
+        "nametag": "poolporg",
         "state": 1,
         "proof_url": "https://coinbase.com/poolporg/public-key",
         "sig_id": "08899ceb0ec3ecc1a90af2d0b5be1c3d5fc18d1cd63eff24e954816fb755299c0f",
@@ -216,16 +284,28 @@
         "service_url": "https://news.ycombinator.com/user?id=poolpOrg",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "poolp.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/poolporg/sigchain#1c325bbc5fb1b5fe7c4e58590334654edec5ff202d0d401d66f735c5cf74b7000f",
+        "sig_id": "1c325bbc5fb1b5fe7c4e58590334654edec5ff202d0d401d66f735c5cf74b7000f",
+        "proof_id": "d56cf7b9ce836355365a5410",
+        "human_url": "dns://poolp.org",
+        "service_url": "http://poolp.org",
+        "presentation_group": "poolp.org",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2c0745a70565b571136795dc171fd005_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/fbde87ae87f6a73cfdde938f975bbc05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
