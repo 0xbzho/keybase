@@ -4,9 +4,9 @@
     "username": "rastating",
     "ctime": 1433185414,
     "mtime": 1433185414,
-    "id_version": 41,
+    "id_version": 44,
     "track_version": 3,
-    "last_id_change": 1469898544,
+    "last_id_change": 1473530376,
     "username_cased": "rastating"
   },
   "profile": {
@@ -84,7 +84,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/rastating",
+          "nametag": "rastating",
           "state": 1,
           "proof_url": "https://coinbase.com/rastating/public-key",
           "sig_id": "c7f606461a72ec59f384f8a07aa6c12d6291f31d317279e26d17e9225a256b6e0f",
@@ -93,6 +93,20 @@
           "service_url": "https://coinbase.com/rastating",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "rastating.com",
+          "state": 1,
+          "proof_url": "https://rastating.com/.well-known/keybase.txt",
+          "sig_id": "d5bb5473f41aeda7868b044b3f74cf22d6a83f302951eac7d21bac81b1581e340f",
+          "proof_id": "3e778a90c233a237c6be0510",
+          "human_url": "https://rastating.com/.well-known/keybase.txt",
+          "service_url": "https://rastating.com",
+          "presentation_group": "rastating.com",
+          "presentation_tag": "https"
         }
       ]
     },
@@ -128,7 +142,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/rastating",
+          "nametag": "rastating",
           "state": 1,
           "proof_url": "https://coinbase.com/rastating/public-key",
           "sig_id": "c7f606461a72ec59f384f8a07aa6c12d6291f31d317279e26d17e9225a256b6e0f",
@@ -137,6 +151,20 @@
           "service_url": "https://coinbase.com/rastating",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "rastating.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "rastating.com",
+          "state": 1,
+          "proof_url": "https://rastating.com/.well-known/keybase.txt",
+          "sig_id": "d5bb5473f41aeda7868b044b3f74cf22d6a83f302951eac7d21bac81b1581e340f",
+          "proof_id": "3e778a90c233a237c6be0510",
+          "human_url": "https://rastating.com/.well-known/keybase.txt",
+          "service_url": "https://rastating.com",
+          "presentation_group": "rastating.com",
+          "presentation_tag": "https"
         }
       ]
     },
@@ -167,7 +195,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/rastating",
+        "nametag": "rastating",
         "state": 1,
         "proof_url": "https://coinbase.com/rastating/public-key",
         "sig_id": "c7f606461a72ec59f384f8a07aa6c12d6291f31d317279e26d17e9225a256b6e0f",
@@ -176,17 +204,22 @@
         "service_url": "https://coinbase.com/rastating",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
-      }
-    ]
-  },
-  "cryptocurrency_addresses": {
-    "bitcoin": [
+      },
       {
-        "address": "1JW5R83vJD51iYWw9888tMnJwGXA14Dvvg",
-        "sig_id": "01d3e07f8f0b37af3342f177e92cd0a3571dfe064777a882d0f634e1261aad750f"
+        "proof_type": "generic_web_site",
+        "nametag": "rastating.com",
+        "state": 1,
+        "proof_url": "https://rastating.com/.well-known/keybase.txt",
+        "sig_id": "d5bb5473f41aeda7868b044b3f74cf22d6a83f302951eac7d21bac81b1581e340f",
+        "proof_id": "3e778a90c233a237c6be0510",
+        "human_url": "https://rastating.com/.well-known/keybase.txt",
+        "service_url": "https://rastating.com",
+        "presentation_group": "rastating.com",
+        "presentation_tag": "https"
       }
     ]
   },
+  "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/2018213a5658664377a56eec1b9a1b05_360_360_square_360.jpeg",
@@ -197,9 +230,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "bff0dcc9dd927141c01e3812d4a4c1a97742b988b0d7f2d8881a7c23297697420f",
-      "seqno": 9,
-      "payload_hash": "2a50beb10c2b2c80042c11de40802369e0c0ca3f435f8a24509d525db198010e"
+      "sig_id": "6bae130c365b2517245e3fc3316a3f405972fcf04366a12d16003ab3f789150f0f",
+      "seqno": 11,
+      "payload_hash": "7ae7f9e19d1673d8247d51a52cc9ff04fadb59d56352d573b58b6af83d9a10d9"
     }
   },
   "devices": {}
