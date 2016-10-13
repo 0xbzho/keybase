@@ -4,9 +4,9 @@
     "username": "byte_jra",
     "ctime": 1427841620,
     "mtime": 1427841620,
-    "id_version": 24,
-    "track_version": 20,
-    "last_id_change": 1464873172,
+    "id_version": 39,
+    "track_version": 29,
+    "last_id_change": 1476138038,
     "username_cased": "byte_jra"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "0121817d72b24858e7d3ab6dd6375c151b2c7f13fb311cd6973e2a741abdb9d3bc600a",
       "0120040e0853cb10064170d82722a57574a3ca5af4bc2f48b0d9b450859afd7d547f0a",
       "0121b2a640e293472e4e25989fb038760f095314c2beb87859adc399b327cc90ad040a",
-      "01207539d07aeb8446c489e28e821a3033b173d5d8c85e35b61adc31c0caef7880f60a"
+      "01207539d07aeb8446c489e28e821a3033b173d5d8c85e35b61adc31c0caef7880f60a",
+      "0121e1a0bf4c8ddcdbe4097675caa98e614f2224cb1fd12b5d46aef8bf1dbc9141020a",
+      "0120cde98356ccd25118c955251da90b730de748ef1664426b929d16a711ff26fdc40a"
     ],
     "subkeys": [
       "0121817d72b24858e7d3ab6dd6375c151b2c7f13fb311cd6973e2a741abdb9d3bc600a",
-      "0121b2a640e293472e4e25989fb038760f095314c2beb87859adc399b327cc90ad040a"
+      "0121b2a640e293472e4e25989fb038760f095314c2beb87859adc399b327cc90ad040a",
+      "0121e1a0bf4c8ddcdbe4097675caa98e614f2224cb1fd12b5d46aef8bf1dbc9141020a"
     ],
     "sibkeys": [
       "0101fee5cac415d36b0e6a6db59c0c9a645437d9fa7d19d7318bbb56405a5ba0ccd60a",
       "0120040e0853cb10064170d82722a57574a3ca5af4bc2f48b0d9b450859afd7d547f0a",
-      "01207539d07aeb8446c489e28e821a3033b173d5d8c85e35b61adc31c0caef7880f60a"
+      "01207539d07aeb8446c489e28e821a3033b173d5d8c85e35b61adc31c0caef7880f60a",
+      "0120cde98356ccd25118c955251da90b730de748ef1664426b929d16a711ff26fdc40a"
     ],
     "families": {
       "0101fee5cac415d36b0e6a6db59c0c9a645437d9fa7d19d7318bbb56405a5ba0ccd60a": [
@@ -55,7 +59,9 @@
         "0121817d72b24858e7d3ab6dd6375c151b2c7f13fb311cd6973e2a741abdb9d3bc600a",
         "0120040e0853cb10064170d82722a57574a3ca5af4bc2f48b0d9b450859afd7d547f0a",
         "0121b2a640e293472e4e25989fb038760f095314c2beb87859adc399b327cc90ad040a",
-        "01207539d07aeb8446c489e28e821a3033b173d5d8c85e35b61adc31c0caef7880f60a"
+        "01207539d07aeb8446c489e28e821a3033b173d5d8c85e35b61adc31c0caef7880f60a",
+        "0121e1a0bf4c8ddcdbe4097675caa98e614f2224cb1fd12b5d46aef8bf1dbc9141020a",
+        "0120cde98356ccd25118c955251da90b730de748ef1664426b929d16a711ff26fdc40a"
       ]
     },
     "eldest_kid": "0101fee5cac415d36b0e6a6db59c0c9a645437d9fa7d19d7318bbb56405a5ba0ccd60a",
@@ -106,6 +112,18 @@
           "service_url": "https://byte.ara.uberspace.de",
           "presentation_group": "byte.ara.uberspace.de",
           "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "byte.sdf-eu.org",
+          "state": 1,
+          "proof_url": "http://byte.sdf-eu.org/keybase.txt",
+          "sig_id": "421ef3e8a994195115b19c48704907a95cc85339acaf30234db83efcce2abfa30f",
+          "proof_id": "d7f1d7911d8f9810dcc97910",
+          "human_url": "http://byte.sdf-eu.org/keybase.txt",
+          "service_url": "http://byte.sdf-eu.org",
+          "presentation_group": "byte.sdf-eu.org",
+          "presentation_tag": "http"
         }
       ],
       "dns": [
@@ -166,6 +184,20 @@
           "presentation_tag": "https"
         }
       ],
+      "byte.sdf-eu.org": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "byte.sdf-eu.org",
+          "state": 1,
+          "proof_url": "http://byte.sdf-eu.org/keybase.txt",
+          "sig_id": "421ef3e8a994195115b19c48704907a95cc85339acaf30234db83efcce2abfa30f",
+          "proof_id": "d7f1d7911d8f9810dcc97910",
+          "human_url": "http://byte.sdf-eu.org/keybase.txt",
+          "service_url": "http://byte.sdf-eu.org",
+          "presentation_group": "byte.sdf-eu.org",
+          "presentation_tag": "http"
+        }
+      ],
       "byte.cx": [
         {
           "proof_type": "dns",
@@ -220,6 +252,18 @@
       },
       {
         "proof_type": "generic_web_site",
+        "nametag": "byte.sdf-eu.org",
+        "state": 1,
+        "proof_url": "http://byte.sdf-eu.org/keybase.txt",
+        "sig_id": "421ef3e8a994195115b19c48704907a95cc85339acaf30234db83efcce2abfa30f",
+        "proof_id": "d7f1d7911d8f9810dcc97910",
+        "human_url": "http://byte.sdf-eu.org/keybase.txt",
+        "service_url": "http://byte.sdf-eu.org",
+        "presentation_group": "byte.sdf-eu.org",
+        "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
         "nametag": "byte.ara.uberspace.de",
         "state": 1,
         "proof_url": "https://byte.ara.uberspace.de/keybase.txt",
@@ -235,7 +279,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/112d7690d386b83e9049fe1449028505_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/a4e612f53e80d082938c333be92ec705_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -243,9 +287,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7c623d2f3b053fae658078c3fb36d74af73e9b4a9725f8824ada6c60dab765820f",
-      "seqno": 30,
-      "payload_hash": "702ceb4a00389728eb1d0a66f1a7232de2fbaea90fbffcf288cce956cf98af63"
+      "sig_id": "ef6f3a9383e8b5e16f161cb3e2a577f570b2500019a0568b21557810ef00be5e0f",
+      "seqno": 41,
+      "payload_hash": "e2d3d6e224c50356f44d78fdea05656e0e04436d5612552fd62039b4c606b86b"
     }
   },
   "devices": {
@@ -265,6 +309,25 @@
           "kid": "0121b2a640e293472e4e25989fb038760f095314c2beb87859adc399b327cc90ad040a",
           "key_role": 2,
           "sig_id": "59e596a0d7b9932b67bc4cdbf2f7c0ea2422fa4acf5f905af3d134f9844aa4820f"
+        }
+      ]
+    },
+    "4bbdd04955b3ffccf30b4b77ab869e18": {
+      "type": "desktop",
+      "ctime": 1472122917,
+      "mtime": 1472122917,
+      "name": "jraMBP",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120cde98356ccd25118c955251da90b730de748ef1664426b929d16a711ff26fdc40a",
+          "key_role": 1,
+          "sig_id": "90eea5f0251640f0b07e781ef8d56a5cbeed4d1b340118469acdfe3bb35ec46b0f"
+        },
+        {
+          "kid": "0121e1a0bf4c8ddcdbe4097675caa98e614f2224cb1fd12b5d46aef8bf1dbc9141020a",
+          "key_role": 2,
+          "sig_id": "567760d5a14793868a39ca7378cc8c6471719bc684681cdade52c9a011e255b70f"
         }
       ]
     },
