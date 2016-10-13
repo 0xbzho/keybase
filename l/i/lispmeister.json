@@ -4,9 +4,9 @@
     "username": "lispmeister",
     "ctime": 1433531936,
     "mtime": 1433531936,
-    "id_version": 24,
-    "track_version": 1,
-    "last_id_change": 1466620529,
+    "id_version": 25,
+    "track_version": 2,
+    "last_id_change": 1470835280,
     "username_cased": "lispmeister"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "012101f3ebff8debf3df969f02c7acc77ee55e3b94cb71c1f1b1239ab43c327aaf560a",
       "012024bc3123e80322083a8fd0d0bee7b621fc8571de92348db9fd665884700087cc0a",
       "0120fd2f6bab57a0812ffaeff19286cd95887ceee45b894fe72b6315e3cf5b16bb6f0a",
-      "0121005ff99ecd4d84300169da41768569ae041ab6ca9986c1c5f801c9f117c6ff6a0a"
+      "0121005ff99ecd4d84300169da41768569ae041ab6ca9986c1c5f801c9f117c6ff6a0a",
+      "0120e0552e6138d6e8a05ef282b588dafb6d6be69bd5cdb746da14a34d580a118c3d0a",
+      "01214f6dacb3e40f6e8ff292aa79c9f4dc992afabf8c34c3e80d4020e8d396b3f00b0a"
     ],
     "subkeys": [
       "012101f3ebff8debf3df969f02c7acc77ee55e3b94cb71c1f1b1239ab43c327aaf560a",
-      "0121005ff99ecd4d84300169da41768569ae041ab6ca9986c1c5f801c9f117c6ff6a0a"
+      "0121005ff99ecd4d84300169da41768569ae041ab6ca9986c1c5f801c9f117c6ff6a0a",
+      "01214f6dacb3e40f6e8ff292aa79c9f4dc992afabf8c34c3e80d4020e8d396b3f00b0a"
     ],
     "sibkeys": [
       "01016b9a4391eace0d2dff51183b7348ad4492e2e77fc1dffacd1dadb2e20391f9e80a",
       "012024bc3123e80322083a8fd0d0bee7b621fc8571de92348db9fd665884700087cc0a",
-      "0120fd2f6bab57a0812ffaeff19286cd95887ceee45b894fe72b6315e3cf5b16bb6f0a"
+      "0120fd2f6bab57a0812ffaeff19286cd95887ceee45b894fe72b6315e3cf5b16bb6f0a",
+      "0120e0552e6138d6e8a05ef282b588dafb6d6be69bd5cdb746da14a34d580a118c3d0a"
     ],
     "families": {
       "01016b9a4391eace0d2dff51183b7348ad4492e2e77fc1dffacd1dadb2e20391f9e80a": [
@@ -55,7 +59,9 @@
         "012101f3ebff8debf3df969f02c7acc77ee55e3b94cb71c1f1b1239ab43c327aaf560a",
         "012024bc3123e80322083a8fd0d0bee7b621fc8571de92348db9fd665884700087cc0a",
         "0120fd2f6bab57a0812ffaeff19286cd95887ceee45b894fe72b6315e3cf5b16bb6f0a",
-        "0121005ff99ecd4d84300169da41768569ae041ab6ca9986c1c5f801c9f117c6ff6a0a"
+        "0121005ff99ecd4d84300169da41768569ae041ab6ca9986c1c5f801c9f117c6ff6a0a",
+        "0120e0552e6138d6e8a05ef282b588dafb6d6be69bd5cdb746da14a34d580a118c3d0a",
+        "01214f6dacb3e40f6e8ff292aa79c9f4dc992afabf8c34c3e80d4020e8d396b3f00b0a"
       ]
     },
     "eldest_kid": "01016b9a4391eace0d2dff51183b7348ad4492e2e77fc1dffacd1dadb2e20391f9e80a",
@@ -97,7 +103,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/lispmeister",
+          "nametag": "lispmeister",
           "state": 1,
           "proof_url": "https://coinbase.com/lispmeister/public-key",
           "sig_id": "861aaa22475311d29e845a212dc2244dcd4d7d92266fc0398a138e8922eed51c0f",
@@ -141,7 +147,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/lispmeister",
+          "nametag": "lispmeister",
           "state": 1,
           "proof_url": "https://coinbase.com/lispmeister/public-key",
           "sig_id": "861aaa22475311d29e845a212dc2244dcd4d7d92266fc0398a138e8922eed51c0f",
@@ -180,7 +186,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/lispmeister",
+        "nametag": "lispmeister",
         "state": 1,
         "proof_url": "https://coinbase.com/lispmeister/public-key",
         "sig_id": "861aaa22475311d29e845a212dc2244dcd4d7d92266fc0398a138e8922eed51c0f",
@@ -203,9 +209,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "8e7fc7ad4e02bdb6830a520635ee71b649cdb4b6843cdee96c5f64502bc8e0960f",
-      "seqno": 8,
-      "payload_hash": "026ca0d7ea35ff9f61787811d04960b73865dbe2025c4710023518dc1f525139"
+      "sig_id": "aa715d466ab068c7033530d78a0a403c65d6c0dd86ee8900afbef9b31b6db6b10f",
+      "seqno": 11,
+      "payload_hash": "2b19d45332c0e74c25e687d40039be8e8f90fb2f7d1cb0b64e59119c69dda322"
     }
   },
   "devices": {
@@ -244,6 +250,25 @@
           "kid": "0121005ff99ecd4d84300169da41768569ae041ab6ca9986c1c5f801c9f117c6ff6a0a",
           "key_role": 2,
           "sig_id": "0b52fbe7c5da529e4111194eac2afc07fd777b0efe5390a5614784257d63df350f"
+        }
+      ]
+    },
+    "c93eae43bee96a47b7c36ed6fbf84518": {
+      "type": "desktop",
+      "ctime": 1470835280,
+      "mtime": 1470835280,
+      "name": "Xenophobe",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120e0552e6138d6e8a05ef282b588dafb6d6be69bd5cdb746da14a34d580a118c3d0a",
+          "key_role": 1,
+          "sig_id": "c683fceda62b770e7ddfa96e8db91dad56cb8caf59ef462f37e820d69246406b0f"
+        },
+        {
+          "kid": "01214f6dacb3e40f6e8ff292aa79c9f4dc992afabf8c34c3e80d4020e8d396b3f00b0a",
+          "key_role": 2,
+          "sig_id": "ea1442e55ba38d2fa59d06454c7f980a4c534305572cbce84b39b1adafd94cfe0f"
         }
       ]
     }
