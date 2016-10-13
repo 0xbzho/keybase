@@ -5,7 +5,7 @@
     "ctime": 1454627008,
     "mtime": 1454627008,
     "id_version": 63,
-    "track_version": 40,
+    "track_version": 47,
     "last_id_change": 1468334891,
     "username_cased": "freitasm"
   },
@@ -49,15 +49,13 @@
     "subkeys": [
       "012141e466a5b1011bbdba61753827730c9028afe483f0b87f8246cff3e5cfabd4700a",
       "01216b91e6d06ead0b085e2a7e9e7a81df5af7c258b411baa036b029f7056d32f6460a",
-      "0121085e87a88344953b6a502062aedf85718d677a9568891ca09c47c44a70ff4d390a",
-      "0121597f99c252e05c866346ec8575b280ca01e1fb68b9754b99acfebac41a4eda130a"
+      "0121085e87a88344953b6a502062aedf85718d677a9568891ca09c47c44a70ff4d390a"
     ],
     "sibkeys": [
       "010180a7c3fad2364b225a3efd4ceaea1cec755acc1ffb449694abe1a6685a34b0140a",
       "0120742f9ecb2eb5e2120129a01fe965c613e65777fd54a50c4914cfc40a933599080a",
       "01204529ef2c9152941902f28d51ae5198a45dcc5ac8bda52022b47db21a49245e8c0a",
-      "01205c8f0e2e468b221dd30730a254c9d1fb59eeb9b598bf2d4fe5d67663a92fb2850a",
-      "012047706a5ff06f2db3c4f325a1dbd52c58723cc40ce02b4d2db1187140c5944ae80a"
+      "01205c8f0e2e468b221dd30730a254c9d1fb59eeb9b598bf2d4fe5d67663a92fb2850a"
     ],
     "families": {
       "010180a7c3fad2364b225a3efd4ceaea1cec755acc1ffb449694abe1a6685a34b0140a": [
@@ -127,7 +125,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/freitasm",
+          "nametag": "freitasm",
           "state": 1,
           "proof_url": "https://coinbase.com/freitasm/public-key",
           "sig_id": "aaeaade23e6a98c34ec96638d267bc96723ce11ca76f4104f237beb3b7ee1bb10f",
@@ -225,7 +223,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/freitasm",
+          "nametag": "freitasm",
           "state": 1,
           "proof_url": "https://coinbase.com/freitasm/public-key",
           "sig_id": "aaeaade23e6a98c34ec96638d267bc96723ce11ca76f4104f237beb3b7ee1bb10f",
@@ -318,7 +316,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/freitasm",
+        "nametag": "freitasm",
         "state": 1,
         "proof_url": "https://coinbase.com/freitasm/public-key",
         "sig_id": "aaeaade23e6a98c34ec96638d267bc96723ce11ca76f4104f237beb3b7ee1bb10f",
@@ -384,9 +382,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "330fe85dfe2651cb3dc43e3cf0188329f3e027b7fc50433e656a150f5ef3e2fc0f",
-      "seqno": 66,
-      "payload_hash": "8672ff54e9c59c156374b449ab99e615fe8fdbec9a39cd7695087c94da1ee7c6"
+      "sig_id": "0f4eeb307a1b83b352a3741047a39858daf68b70eab19bd690000d7f64cae8930f",
+      "seqno": 74,
+      "payload_hash": "9647a07c3ba620f916aae8b14f73c8fd6a263077f6ef81af8b05767164b0cf3f"
     }
   },
   "devices": {
@@ -406,25 +404,6 @@
           "kid": "012141e466a5b1011bbdba61753827730c9028afe483f0b87f8246cff3e5cfabd4700a",
           "key_role": 2,
           "sig_id": "64c08a3d1454556beb45e7f80e2a15cd2cde925a3d045e77b218987dff4262f10f"
-        }
-      ]
-    },
-    "ddd562ebeff2b39a6c0a3ac9509a9318": {
-      "type": "desktop",
-      "ctime": 1466993588,
-      "mtime": 1466993588,
-      "name": "Windows7Dev",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012047706a5ff06f2db3c4f325a1dbd52c58723cc40ce02b4d2db1187140c5944ae80a",
-          "key_role": 1,
-          "sig_id": "c03aed4dfe01587930d723515f2558288a08c3aee9191daeec7ef7a533afc0950f"
-        },
-        {
-          "kid": "0121597f99c252e05c866346ec8575b280ca01e1fb68b9754b99acfebac41a4eda130a",
-          "key_role": 2,
-          "sig_id": "cc250527798bb222a8ff75ae1a74e1d804893f0823c3bec3ca56696ec287c0340f"
         }
       ]
     },
