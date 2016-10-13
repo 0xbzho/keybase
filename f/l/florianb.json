@@ -4,16 +4,16 @@
     "username": "florianb",
     "ctime": 1439531480,
     "mtime": 1439531480,
-    "id_version": 4,
-    "track_version": 3,
-    "last_id_change": 1439532858,
+    "id_version": 25,
+    "track_version": 4,
+    "last_id_change": 1476297747,
     "username_cased": "florianb"
   },
   "profile": {
-    "mtime": 1439532166,
+    "mtime": 1471864755,
     "full_name": "florianb",
-    "location": "Earth",
-    "bio": "I'm a developer and interested in the network technologie ( e.g. BGP )"
+    "location": "DEEP SPACE NETWORK",
+    "bio": "404 Not Found"
   },
   "public_keys": {
     "primary": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "fblade0",
+          "state": 1,
+          "proof_url": "https://twitter.com/fblade0/status/767681598108143616",
+          "sig_id": "a2fc74fc962564b42642e4dab80f310e9666a86ee1f0a285e5a03f5e103ac6f00f",
+          "proof_id": "48abfb238a08062a42893810",
+          "human_url": "https://twitter.com/fblade0/status/767681598108143616",
+          "service_url": "https://twitter.com/fblade0",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -65,10 +79,38 @@
           "service_url": "https://github.com/fbrandstetter",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "lepton.pw",
+          "state": 1,
+          "proof_url": "https://keybase.io/florianb/sigchain#ed97d1f985f61e93d43fbbd9dd8ef876f3cb3a2c9e9eb9e73fd32db736c2ae7b0f",
+          "sig_id": "ed97d1f985f61e93d43fbbd9dd8ef876f3cb3a2c9e9eb9e73fd32db736c2ae7b0f",
+          "proof_id": "4b17b489ba9cfbd9a671a410",
+          "human_url": "dns://lepton.pw",
+          "service_url": "http://lepton.pw",
+          "presentation_group": "lepton.pw",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "fblade0",
+          "state": 1,
+          "proof_url": "https://twitter.com/fblade0/status/767681598108143616",
+          "sig_id": "a2fc74fc962564b42642e4dab80f310e9666a86ee1f0a285e5a03f5e103ac6f00f",
+          "proof_id": "48abfb238a08062a42893810",
+          "human_url": "https://twitter.com/fblade0/status/767681598108143616",
+          "service_url": "https://twitter.com/fblade0",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -82,9 +124,35 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "lepton.pw": [
+        {
+          "proof_type": "dns",
+          "nametag": "lepton.pw",
+          "state": 1,
+          "proof_url": "https://keybase.io/florianb/sigchain#ed97d1f985f61e93d43fbbd9dd8ef876f3cb3a2c9e9eb9e73fd32db736c2ae7b0f",
+          "sig_id": "ed97d1f985f61e93d43fbbd9dd8ef876f3cb3a2c9e9eb9e73fd32db736c2ae7b0f",
+          "proof_id": "4b17b489ba9cfbd9a671a410",
+          "human_url": "dns://lepton.pw",
+          "service_url": "http://lepton.pw",
+          "presentation_group": "lepton.pw",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "fblade0",
+        "state": 1,
+        "proof_url": "https://twitter.com/fblade0/status/767681598108143616",
+        "sig_id": "a2fc74fc962564b42642e4dab80f310e9666a86ee1f0a285e5a03f5e103ac6f00f",
+        "proof_id": "48abfb238a08062a42893810",
+        "human_url": "https://twitter.com/fblade0/status/767681598108143616",
+        "service_url": "https://twitter.com/fblade0",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "fbrandstetter",
@@ -96,6 +164,18 @@
         "service_url": "https://github.com/fbrandstetter",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "lepton.pw",
+        "state": 1,
+        "proof_url": "https://keybase.io/florianb/sigchain#ed97d1f985f61e93d43fbbd9dd8ef876f3cb3a2c9e9eb9e73fd32db736c2ae7b0f",
+        "sig_id": "ed97d1f985f61e93d43fbbd9dd8ef876f3cb3a2c9e9eb9e73fd32db736c2ae7b0f",
+        "proof_id": "4b17b489ba9cfbd9a671a410",
+        "human_url": "dns://lepton.pw",
+        "service_url": "http://lepton.pw",
+        "presentation_group": "lepton.pw",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -117,9 +197,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2de018acf97b1002799a68954f0e9e95e97cfc45ed091abb91b27e0610b3d5870f",
-      "seqno": 5,
-      "payload_hash": "445a59c6fe82a21d0f44f216e74645a306732deed442e3f68ed3fce551c85d1c"
+      "sig_id": "ed97d1f985f61e93d43fbbd9dd8ef876f3cb3a2c9e9eb9e73fd32db736c2ae7b0f",
+      "seqno": 9,
+      "payload_hash": "116417f84c892ab0e6fed942435b0fd373ac91abcdda1f83fef270273f4473a2"
     }
   },
   "devices": {}
