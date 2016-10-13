@@ -1,0 +1,92 @@
+{
+  "id": "bdb57bee241dc7a25dc383bb4b788819",
+  "basics": {
+    "username": "scv",
+    "ctime": 1475876280,
+    "mtime": 1475876280,
+    "id_version": 2,
+    "track_version": 2,
+    "last_id_change": 1475876282,
+    "username_cased": "SCV"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121ba832959c1b7de99bf343fe1c3c252448b7f502972e37c0dc949c625daf874690a",
+      "0120aadbdab01d296f38ad05ad3fc63b50f98242588e53349253002aa3955cc438e70a",
+      "0120dc35fd3cc8925120c9f38ad5a3911d3e2288e30fb10466113b09b9c43c31028b0a",
+      "0121fb5257e99155908a15f2cd9b6152fb1f68cd79c957da48cc90272b622fe8c4430a"
+    ],
+    "subkeys": [
+      "0121ba832959c1b7de99bf343fe1c3c252448b7f502972e37c0dc949c625daf874690a",
+      "0121fb5257e99155908a15f2cd9b6152fb1f68cd79c957da48cc90272b622fe8c4430a"
+    ],
+    "sibkeys": [
+      "0120aadbdab01d296f38ad05ad3fc63b50f98242588e53349253002aa3955cc438e70a",
+      "0120dc35fd3cc8925120c9f38ad5a3911d3e2288e30fb10466113b09b9c43c31028b0a"
+    ],
+    "families": {
+      "0120aadbdab01d296f38ad05ad3fc63b50f98242588e53349253002aa3955cc438e70a": [
+        "0121ba832959c1b7de99bf343fe1c3c252448b7f502972e37c0dc949c625daf874690a",
+        "0120aadbdab01d296f38ad05ad3fc63b50f98242588e53349253002aa3955cc438e70a",
+        "0120dc35fd3cc8925120c9f38ad5a3911d3e2288e30fb10466113b09b9c43c31028b0a",
+        "0121fb5257e99155908a15f2cd9b6152fb1f68cd79c957da48cc90272b622fe8c4430a"
+      ]
+    },
+    "eldest_kid": "0120aadbdab01d296f38ad05ad3fc63b50f98242588e53349253002aa3955cc438e70a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "a0ed853a3b5d1669e5492130f393da203520928ecf5dc0e63a61883060da4d560f",
+      "seqno": 6,
+      "payload_hash": "e0f3673e60f422cfea141898928de5f53335488e0fa38b8c1aa707e158aa7c0f"
+    }
+  },
+  "devices": {
+    "032fce0f170a2e6a1c10de670d48d218": {
+      "type": "backup",
+      "ctime": 1475876282,
+      "mtime": 1475876282,
+      "name": "domain crush",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120dc35fd3cc8925120c9f38ad5a3911d3e2288e30fb10466113b09b9c43c31028b0a",
+          "key_role": 1,
+          "sig_id": "8aadc233a7bb7dec74c97bd5af3fc6fe5b0c95a09bd5d3f88aa3ddc7642907920f"
+        },
+        {
+          "kid": "0121fb5257e99155908a15f2cd9b6152fb1f68cd79c957da48cc90272b622fe8c4430a",
+          "key_role": 2,
+          "sig_id": "ec95cc1c88ea5cac1e38ee50ac303237e606cbf03c6b441eab3456eba2f2eae20f"
+        }
+      ]
+    },
+    "cce2664a0f2c2c41751d5b4f592d8f18": {
+      "type": "desktop",
+      "ctime": 1475876281,
+      "mtime": 1475876281,
+      "name": "F24",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120aadbdab01d296f38ad05ad3fc63b50f98242588e53349253002aa3955cc438e70a",
+          "key_role": 1,
+          "sig_id": "1251c7e490ed4b5601d6474e2fb4b5b1022bacf3b3efeb44a237f7f599e5e9ff0f"
+        },
+        {
+          "kid": "0121ba832959c1b7de99bf343fe1c3c252448b7f502972e37c0dc949c625daf874690a",
+          "key_role": 2,
+          "sig_id": "7a668dfd267715dfb95b960a9e5ecbe25e15b95eecb92dad10af526c0f3455a60f"
+        }
+      ]
+    }
+  }
+}
