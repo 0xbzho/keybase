@@ -4,9 +4,9 @@
     "username": "gbraad",
     "ctime": 1470358585,
     "mtime": 1470358585,
-    "id_version": 20,
-    "track_version": 13,
-    "last_id_change": 1470375113,
+    "id_version": 23,
+    "track_version": 18,
+    "last_id_change": 1475951968,
     "username_cased": "gbraad"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "0120dfbd1c3cfd9874089e9e1f435448311fa554c21d35337d395621ce04455547b30a",
       "012127baedac6440a75837fe340df1ae0407c8380cb42bd23f188e73a32e46509f5c0a",
       "01203aa9d43370225873f189a66ba423a68a0192933a1c803ab9b34a96fe614874190a",
-      "01210f67b41e1dcdfeb6ce675883a4723b29eb85ab94b102d1d4c54ccda1ddbf21050a"
+      "01210f67b41e1dcdfeb6ce675883a4723b29eb85ab94b102d1d4c54ccda1ddbf21050a",
+      "01217a15e11674834c9792f4e0b3c987003c6ce22a0e31a01a8ddf895dbf174c71390a",
+      "01200eed02cca7145c04f217d183443d4376014ff494cd901a21491dc45fb82b84380a"
     ],
     "subkeys": [
       "012127baedac6440a75837fe340df1ae0407c8380cb42bd23f188e73a32e46509f5c0a",
-      "01210f67b41e1dcdfeb6ce675883a4723b29eb85ab94b102d1d4c54ccda1ddbf21050a"
+      "01210f67b41e1dcdfeb6ce675883a4723b29eb85ab94b102d1d4c54ccda1ddbf21050a",
+      "01217a15e11674834c9792f4e0b3c987003c6ce22a0e31a01a8ddf895dbf174c71390a"
     ],
     "sibkeys": [
       "0101bfa73b9b2c2d63471cd89acf45ad229083555635614831bd3319375801c9258d0a",
       "0120dfbd1c3cfd9874089e9e1f435448311fa554c21d35337d395621ce04455547b30a",
-      "01203aa9d43370225873f189a66ba423a68a0192933a1c803ab9b34a96fe614874190a"
+      "01203aa9d43370225873f189a66ba423a68a0192933a1c803ab9b34a96fe614874190a",
+      "01200eed02cca7145c04f217d183443d4376014ff494cd901a21491dc45fb82b84380a"
     ],
     "families": {
       "0101bfa73b9b2c2d63471cd89acf45ad229083555635614831bd3319375801c9258d0a": [
@@ -55,7 +59,9 @@
         "0120dfbd1c3cfd9874089e9e1f435448311fa554c21d35337d395621ce04455547b30a",
         "012127baedac6440a75837fe340df1ae0407c8380cb42bd23f188e73a32e46509f5c0a",
         "01203aa9d43370225873f189a66ba423a68a0192933a1c803ab9b34a96fe614874190a",
-        "01210f67b41e1dcdfeb6ce675883a4723b29eb85ab94b102d1d4c54ccda1ddbf21050a"
+        "01210f67b41e1dcdfeb6ce675883a4723b29eb85ab94b102d1d4c54ccda1ddbf21050a",
+        "01217a15e11674834c9792f4e0b3c987003c6ce22a0e31a01a8ddf895dbf174c71390a",
+        "01200eed02cca7145c04f217d183443d4376014ff494cd901a21491dc45fb82b84380a"
       ]
     },
     "eldest_kid": "0101bfa73b9b2c2d63471cd89acf45ad229083555635614831bd3319375801c9258d0a",
@@ -111,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/gbraad",
+          "nametag": "gbraad",
           "state": 1,
           "proof_url": "https://coinbase.com/gbraad/public-key",
           "sig_id": "89ffbc0f924ce9d4b53bd45a36f57fa29b75fb166d2facc55f9c1d1bbee480d10f",
@@ -211,7 +217,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/gbraad",
+          "nametag": "gbraad",
           "state": 1,
           "proof_url": "https://coinbase.com/gbraad/public-key",
           "sig_id": "89ffbc0f924ce9d4b53bd45a36f57fa29b75fb166d2facc55f9c1d1bbee480d10f",
@@ -302,7 +308,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/gbraad",
+        "nametag": "gbraad",
         "state": 1,
         "proof_url": "https://coinbase.com/gbraad/public-key",
         "sig_id": "89ffbc0f924ce9d4b53bd45a36f57fa29b75fb166d2facc55f9c1d1bbee480d10f",
@@ -368,9 +374,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3b8b734178096780fb740eafb2a0e288017c0e112ded8b244a62446f2a3f70ad0f",
-      "seqno": 26,
-      "payload_hash": "2f4f53a3d3fc7e0b14fc971aaf07be5f3d2464f9f72226cb864bbd19948191ed"
+      "sig_id": "06e7c25d458b3f71dfc4fecc75c1ea0e8105f1e408db5700a304ec81a476a2f10f",
+      "seqno": 33,
+      "payload_hash": "ce5cb6ef285c4fd92607abacfa04f5ddf8241a886b4b0db316e9593f0acf9f06"
     }
   },
   "devices": {
@@ -409,6 +415,25 @@
           "kid": "012127baedac6440a75837fe340df1ae0407c8380cb42bd23f188e73a32e46509f5c0a",
           "key_role": 2,
           "sig_id": "72149157d56269a5289a394f2758049d56ddc476c1507fc34c3d9d3f937367090f"
+        }
+      ]
+    },
+    "d4d593a2f36c663b458f2a49e204b818": {
+      "type": "desktop",
+      "ctime": 1474514771,
+      "mtime": 1474514771,
+      "name": "yoga",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01200eed02cca7145c04f217d183443d4376014ff494cd901a21491dc45fb82b84380a",
+          "key_role": 1,
+          "sig_id": "1332ffba2955dcbf7ebc85652cea3b90fb3a869eddd44ef23d6cd7a751b245930f"
+        },
+        {
+          "kid": "01217a15e11674834c9792f4e0b3c987003c6ce22a0e31a01a8ddf895dbf174c71390a",
+          "key_role": 2,
+          "sig_id": "06e7c25d458b3f71dfc4fecc75c1ea0e8105f1e408db5700a304ec81a476a2f10f"
         }
       ]
     }
