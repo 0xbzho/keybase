@@ -4,9 +4,9 @@
     "username": "heliostatic",
     "ctime": 1394123118,
     "mtime": 1394123118,
-    "id_version": 31,
+    "id_version": 32,
     "track_version": 14,
-    "last_id_change": 1464818853,
+    "last_id_change": 1471880745,
     "username_cased": "heliostatic"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "01205b1c5f9b273cb25aa803e28c7ef8f3e9de15e0cc8b8b102958754ec5850b9f450a",
       "0121ce249ed933c820db9ec590ce2cc30714ceffa908b3e6abd0ae416b2b2737ff360a",
       "0121014fe70ea94520d5c9451510b8ad6335efb80d4ffa9aab763ccca9e08c3e730c0a",
-      "01208c944a8ec748605a8e51dbf8ea3d2ac21d94a2c6f5d1341c9fbc0e3c3ceff7f50a"
+      "01208c944a8ec748605a8e51dbf8ea3d2ac21d94a2c6f5d1341c9fbc0e3c3ceff7f50a",
+      "01214a308e1585eabfd33cad5a303948c7297f6d19ecd12e6ca4463c5b1cfd8f8c3f0a",
+      "01201b4c91e8ed3963e3f0eb2cbf621d8e7aebec57264316b21a4c38a33ee290361f0a"
     ],
     "subkeys": [
       "0121ce249ed933c820db9ec590ce2cc30714ceffa908b3e6abd0ae416b2b2737ff360a",
-      "0121014fe70ea94520d5c9451510b8ad6335efb80d4ffa9aab763ccca9e08c3e730c0a"
+      "0121014fe70ea94520d5c9451510b8ad6335efb80d4ffa9aab763ccca9e08c3e730c0a",
+      "01214a308e1585eabfd33cad5a303948c7297f6d19ecd12e6ca4463c5b1cfd8f8c3f0a"
     ],
     "sibkeys": [
       "0101e3385f2f3533d3bce9d48f1d6155609a66ca9f7daea6aa605195037d4f8ea27b0a",
       "01205b1c5f9b273cb25aa803e28c7ef8f3e9de15e0cc8b8b102958754ec5850b9f450a",
-      "01208c944a8ec748605a8e51dbf8ea3d2ac21d94a2c6f5d1341c9fbc0e3c3ceff7f50a"
+      "01208c944a8ec748605a8e51dbf8ea3d2ac21d94a2c6f5d1341c9fbc0e3c3ceff7f50a",
+      "01201b4c91e8ed3963e3f0eb2cbf621d8e7aebec57264316b21a4c38a33ee290361f0a"
     ],
     "families": {
       "0101e3385f2f3533d3bce9d48f1d6155609a66ca9f7daea6aa605195037d4f8ea27b0a": [
@@ -55,7 +59,9 @@
         "01205b1c5f9b273cb25aa803e28c7ef8f3e9de15e0cc8b8b102958754ec5850b9f450a",
         "0121ce249ed933c820db9ec590ce2cc30714ceffa908b3e6abd0ae416b2b2737ff360a",
         "0121014fe70ea94520d5c9451510b8ad6335efb80d4ffa9aab763ccca9e08c3e730c0a",
-        "01208c944a8ec748605a8e51dbf8ea3d2ac21d94a2c6f5d1341c9fbc0e3c3ceff7f50a"
+        "01208c944a8ec748605a8e51dbf8ea3d2ac21d94a2c6f5d1341c9fbc0e3c3ceff7f50a",
+        "01214a308e1585eabfd33cad5a303948c7297f6d19ecd12e6ca4463c5b1cfd8f8c3f0a",
+        "01201b4c91e8ed3963e3f0eb2cbf621d8e7aebec57264316b21a4c38a33ee290361f0a"
       ]
     },
     "eldest_kid": "0101e3385f2f3533d3bce9d48f1d6155609a66ca9f7daea6aa605195037d4f8ea27b0a",
@@ -97,7 +103,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/heliostatic",
+          "nametag": "heliostatic",
           "state": 1,
           "proof_url": "https://coinbase.com/heliostatic/public-key",
           "sig_id": "1fbf0718d3430feba444844b5720c21f191c51c2e9b8cb02ec8cd82d46fdf4ee0f",
@@ -169,7 +175,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/heliostatic",
+          "nametag": "heliostatic",
           "state": 1,
           "proof_url": "https://coinbase.com/heliostatic/public-key",
           "sig_id": "1fbf0718d3430feba444844b5720c21f191c51c2e9b8cb02ec8cd82d46fdf4ee0f",
@@ -236,7 +242,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/heliostatic",
+        "nametag": "heliostatic",
         "state": 1,
         "proof_url": "https://coinbase.com/heliostatic/public-key",
         "sig_id": "1fbf0718d3430feba444844b5720c21f191c51c2e9b8cb02ec8cd82d46fdf4ee0f",
@@ -283,12 +289,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "a209d2b41970eb20e91eb7ac65b6b0a937c6108a411633f34ea2e4468dbfe4a10f",
-      "seqno": 24,
-      "payload_hash": "1d0e3fef68fcbe4d5ca4539081e08a54d361d1ec9881a74ae11fdf8dabffa3cf"
+      "sig_id": "5cf64b80b58abc416f6b9abfd600dc6af6d613842f3cc909292d13c2284936dd0f",
+      "seqno": 26,
+      "payload_hash": "def1ae23a65171aef824da63b1a2c1cb512e27099ceb15b67d0903844e20d673"
     }
   },
   "devices": {
+    "1250815f51ed51d582afc74ea5661b18": {
+      "type": "desktop",
+      "ctime": 1471880745,
+      "mtime": 1471880745,
+      "name": "work",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201b4c91e8ed3963e3f0eb2cbf621d8e7aebec57264316b21a4c38a33ee290361f0a",
+          "key_role": 1,
+          "sig_id": "e556160001fc9210dc2238672a1ad1b6c3443aa1f0894e811753dad329e79c400f"
+        },
+        {
+          "kid": "01214a308e1585eabfd33cad5a303948c7297f6d19ecd12e6ca4463c5b1cfd8f8c3f0a",
+          "key_role": 2,
+          "sig_id": "5cf64b80b58abc416f6b9abfd600dc6af6d613842f3cc909292d13c2284936dd0f"
+        }
+      ]
+    },
     "55e28613e3de09b4880e3f5b5e037618": {
       "type": "backup",
       "ctime": 1455154646,
