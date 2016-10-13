@@ -4,9 +4,9 @@
     "username": "meroje",
     "ctime": 1397129337,
     "mtime": 1397129337,
-    "id_version": 133,
+    "id_version": 141,
     "track_version": 13,
-    "last_id_change": 1469403620,
+    "last_id_change": 1473832584,
     "username_cased": "meroje"
   },
   "profile": {
@@ -104,7 +104,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/meroje",
+          "nametag": "meroje",
           "state": 1,
           "proof_url": "https://coinbase.com/meroje/public-key",
           "sig_id": "e44ec3160a78a124b8e032e0a3777916682a2ddbd77d1b7529b8270ebede359d0f",
@@ -113,6 +113,20 @@
           "service_url": "https://coinbase.com/meroje",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "foray-jero.me",
+          "state": 1,
+          "proof_url": "https://foray-jero.me/.well-known/keybase.txt",
+          "sig_id": "383b0a9d80c2248880d81217b59aedfba2168c2e4ec591584f35462a50f79d780f",
+          "proof_id": "7a574e7cee93661ea58e6210",
+          "human_url": "https://foray-jero.me/.well-known/keybase.txt",
+          "service_url": "https://foray-jero.me",
+          "presentation_group": "foray-jero.me",
+          "presentation_tag": "https"
         }
       ],
       "dns": [
@@ -188,7 +202,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/meroje",
+          "nametag": "meroje",
           "state": 1,
           "proof_url": "https://coinbase.com/meroje/public-key",
           "sig_id": "e44ec3160a78a124b8e032e0a3777916682a2ddbd77d1b7529b8270ebede359d0f",
@@ -197,6 +211,32 @@
           "service_url": "https://coinbase.com/meroje",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "foray-jero.me": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "foray-jero.me",
+          "state": 1,
+          "proof_url": "https://foray-jero.me/.well-known/keybase.txt",
+          "sig_id": "383b0a9d80c2248880d81217b59aedfba2168c2e4ec591584f35462a50f79d780f",
+          "proof_id": "7a574e7cee93661ea58e6210",
+          "human_url": "https://foray-jero.me/.well-known/keybase.txt",
+          "service_url": "https://foray-jero.me",
+          "presentation_group": "foray-jero.me",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "foray-jero.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/meroje/sigchain#8163905ad74e76645d15e05dff1f369f3a236eb33b89c2967a4783afe4b25c230f",
+          "sig_id": "8163905ad74e76645d15e05dff1f369f3a236eb33b89c2967a4783afe4b25c230f",
+          "proof_id": "e8670bfa02afed9ca1a97910",
+          "human_url": "dns://foray-jero.me",
+          "service_url": "http://foray-jero.me",
+          "presentation_group": "foray-jero.me",
+          "presentation_tag": "dns"
         }
       ],
       "mero.je": [
@@ -210,20 +250,6 @@
           "human_url": "dns://mero.je",
           "service_url": "http://mero.je",
           "presentation_group": "mero.je",
-          "presentation_tag": "dns"
-        }
-      ],
-      "foray-jero.me": [
-        {
-          "proof_type": "dns",
-          "nametag": "foray-jero.me",
-          "state": 1,
-          "proof_url": "https://keybase.io/meroje/sigchain#8163905ad74e76645d15e05dff1f369f3a236eb33b89c2967a4783afe4b25c230f",
-          "sig_id": "8163905ad74e76645d15e05dff1f369f3a236eb33b89c2967a4783afe4b25c230f",
-          "proof_id": "e8670bfa02afed9ca1a97910",
-          "human_url": "dns://foray-jero.me",
-          "service_url": "http://foray-jero.me",
-          "presentation_group": "foray-jero.me",
           "presentation_tag": "dns"
         }
       ]
@@ -267,7 +293,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/meroje",
+        "nametag": "meroje",
         "state": 1,
         "proof_url": "https://coinbase.com/meroje/public-key",
         "sig_id": "e44ec3160a78a124b8e032e0a3777916682a2ddbd77d1b7529b8270ebede359d0f",
@@ -300,6 +326,18 @@
         "service_url": "http://foray-jero.me",
         "presentation_group": "foray-jero.me",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "foray-jero.me",
+        "state": 1,
+        "proof_url": "https://foray-jero.me/.well-known/keybase.txt",
+        "sig_id": "383b0a9d80c2248880d81217b59aedfba2168c2e4ec591584f35462a50f79d780f",
+        "proof_id": "7a574e7cee93661ea58e6210",
+        "human_url": "https://foray-jero.me/.well-known/keybase.txt",
+        "service_url": "https://foray-jero.me",
+        "presentation_group": "foray-jero.me",
+        "presentation_tag": "https"
       }
     ]
   },
