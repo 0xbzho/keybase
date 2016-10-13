@@ -4,9 +4,9 @@
     "username": "bbchase",
     "ctime": 1414375861,
     "mtime": 1414375861,
-    "id_version": 44,
-    "track_version": 5,
-    "last_id_change": 1464503101,
+    "id_version": 45,
+    "track_version": 8,
+    "last_id_change": 1472185712,
     "username_cased": "bbchase"
   },
   "profile": {
@@ -41,18 +41,18 @@
       "01206c3febbf71079f001129a719d392607d4231a61348ab79c58a94d5ede39843f60a",
       "01214480a0503d62a5294449c6f1347f20533fa96931b869131654e417c9591e3e2e0a",
       "012161a505c17380e3af52ed7f807c2a064ca6bc97ecf9202a5bc0d4468d28e68b280a",
-      "0120b54368cc754c22bcdf3d3b6d7aa2b31476bf7c5da06cfee98f73c72ab3c5451a0a"
+      "0120b54368cc754c22bcdf3d3b6d7aa2b31476bf7c5da06cfee98f73c72ab3c5451a0a",
+      "0121a06376ddac9b7f28c13d5178cb7fe82d7ea168bd9831fe5c22802476cde5bb4d0a",
+      "0120b6ad88d3d71af776c7298dec5a71449e2ad1d6a7e83a5b62d4367228dec5f3e90a"
     ],
     "subkeys": [
-      "0121cedc0355310f279b0f701d87330bd38349737d037f935e5fb39adc8349a470670a",
       "01214480a0503d62a5294449c6f1347f20533fa96931b869131654e417c9591e3e2e0a",
-      "012161a505c17380e3af52ed7f807c2a064ca6bc97ecf9202a5bc0d4468d28e68b280a"
+      "0121a06376ddac9b7f28c13d5178cb7fe82d7ea168bd9831fe5c22802476cde5bb4d0a"
     ],
     "sibkeys": [
       "010127495491fa929db9c1eacdccbdaaa227576e88220798d1494cf30468c7c1bfcb0a",
-      "0120578fe5a585172493b82e52914b8810090d574b81aaffbfb18e74e632a217190d0a",
       "01206c3febbf71079f001129a719d392607d4231a61348ab79c58a94d5ede39843f60a",
-      "0120b54368cc754c22bcdf3d3b6d7aa2b31476bf7c5da06cfee98f73c72ab3c5451a0a"
+      "0120b6ad88d3d71af776c7298dec5a71449e2ad1d6a7e83a5b62d4367228dec5f3e90a"
     ],
     "families": {
       "010127495491fa929db9c1eacdccbdaaa227576e88220798d1494cf30468c7c1bfcb0a": [
@@ -63,7 +63,9 @@
         "01206c3febbf71079f001129a719d392607d4231a61348ab79c58a94d5ede39843f60a",
         "01214480a0503d62a5294449c6f1347f20533fa96931b869131654e417c9591e3e2e0a",
         "012161a505c17380e3af52ed7f807c2a064ca6bc97ecf9202a5bc0d4468d28e68b280a",
-        "0120b54368cc754c22bcdf3d3b6d7aa2b31476bf7c5da06cfee98f73c72ab3c5451a0a"
+        "0120b54368cc754c22bcdf3d3b6d7aa2b31476bf7c5da06cfee98f73c72ab3c5451a0a",
+        "0121a06376ddac9b7f28c13d5178cb7fe82d7ea168bd9831fe5c22802476cde5bb4d0a",
+        "0120b6ad88d3d71af776c7298dec5a71449e2ad1d6a7e83a5b62d4367228dec5f3e90a"
       ]
     },
     "eldest_kid": "010127495491fa929db9c1eacdccbdaaa227576e88220798d1494cf30468c7c1bfcb0a",
@@ -105,7 +107,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/bbchase",
+          "nametag": "bbchase",
           "state": 1,
           "proof_url": "https://coinbase.com/bbchase/public-key",
           "sig_id": "e251e8cff24d17b484de19fcb11b16fefaec3ccf4a84bb25fa2f7c251a232c190f",
@@ -163,7 +165,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/bbchase",
+          "nametag": "bbchase",
           "state": 1,
           "proof_url": "https://coinbase.com/bbchase/public-key",
           "sig_id": "e251e8cff24d17b484de19fcb11b16fefaec3ccf4a84bb25fa2f7c251a232c190f",
@@ -216,7 +218,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/bbchase",
+        "nametag": "bbchase",
         "state": 1,
         "proof_url": "https://coinbase.com/bbchase/public-key",
         "sig_id": "e251e8cff24d17b484de19fcb11b16fefaec3ccf4a84bb25fa2f7c251a232c190f",
@@ -240,14 +242,7 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {
-    "bitcoin": [
-      {
-        "address": "1LWcSZibrFAybuNKBx3YfdC66AHrqs4Uqj",
-        "sig_id": "1e34c92e8df0b2e199031f4887e7ca0e5b33052207c0c7807a2e48fa06a1e75b0f"
-      }
-    ]
-  },
+  "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/c18de96ca3e3775b94aeed0deff11105_360_360_square_360.jpeg",
@@ -258,9 +253,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "8334187d40fa15a78a4e8340c694ebb92e5f42b4229295e29704c439701018d20f",
-      "seqno": 22,
-      "payload_hash": "f5ae1d7a66975a672a51ee6004213f33f7ddb218f1f85f811d63d254410e3317"
+      "sig_id": "4a2bd24e52fb5a74851c9bbd23746a12ec93276ef7cd79b2037324aaff61f7d20f",
+      "seqno": 29,
+      "payload_hash": "515b90a0f35ea0b583067f71207730c1c0962a216976e5c11b5540778ef0c487"
     }
   },
   "devices": {
@@ -283,41 +278,22 @@
         }
       ]
     },
-    "54fdddc75326933bf8a551d7630e8d18": {
+    "b589f8f6dd7b592726ba0c0696fc1218": {
       "type": "desktop",
-      "ctime": 1456869878,
-      "mtime": 1456869878,
-      "name": "tantive4",
+      "ctime": 1472185712,
+      "mtime": 1472185712,
+      "name": "pegasus",
       "status": 1,
       "keys": [
         {
-          "kid": "0120b54368cc754c22bcdf3d3b6d7aa2b31476bf7c5da06cfee98f73c72ab3c5451a0a",
+          "kid": "0120b6ad88d3d71af776c7298dec5a71449e2ad1d6a7e83a5b62d4367228dec5f3e90a",
           "key_role": 1,
-          "sig_id": "5c426d86e39cf9d22ca5802526d9bfc9be1f5c7f664ed0355a2909fe3f5ae7e30f"
+          "sig_id": "e0c29a0a4a89d5c1e60f9fe989590ae2c621093ce61f8e32300551d4d1b68ff30f"
         },
         {
-          "kid": "012161a505c17380e3af52ed7f807c2a064ca6bc97ecf9202a5bc0d4468d28e68b280a",
+          "kid": "0121a06376ddac9b7f28c13d5178cb7fe82d7ea168bd9831fe5c22802476cde5bb4d0a",
           "key_role": 2,
-          "sig_id": "80bd6327cdcf303ff123b579dd875847cdcb6d34a386a3c11d7e6fbb4f13381f0f"
-        }
-      ]
-    },
-    "b4d1fc69c75a8bc9ebaf52714f602618": {
-      "type": "desktop",
-      "ctime": 1455748898,
-      "mtime": 1455748898,
-      "name": "slave1",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120578fe5a585172493b82e52914b8810090d574b81aaffbfb18e74e632a217190d0a",
-          "key_role": 1,
-          "sig_id": "ec01871c59973a3382bca77541432d169753755a0a91901b843c7221b981b0ad0f"
-        },
-        {
-          "kid": "0121cedc0355310f279b0f701d87330bd38349737d037f935e5fb39adc8349a470670a",
-          "key_role": 2,
-          "sig_id": "bf0ba320d41ee9cffd5582cccff43d3a960fbaee9d13ebf074d6a50398175ac60f"
+          "sig_id": "24ad03c5ec93f8231f5b5cb0e1c2203a3820e519780c299cbe4555c08100f4e20f"
         }
       ]
     }
