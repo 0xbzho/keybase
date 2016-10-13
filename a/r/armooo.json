@@ -4,9 +4,9 @@
     "username": "armooo",
     "ctime": 1468468878,
     "mtime": 1468468878,
-    "id_version": 42,
+    "id_version": 53,
     "track_version": 1,
-    "last_id_change": 1469905946,
+    "last_id_change": 1473861843,
     "username_cased": "armooo"
   },
   "public_keys": {
@@ -117,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/armooo",
+          "nametag": "armooo",
           "state": 1,
           "proof_url": "https://coinbase.com/armooo/public-key",
           "sig_id": "92916e15c984cfc6cdbaf438c64c220473dba5238668a463f6bea13fbe1df7750f",
@@ -140,6 +140,44 @@
           "service_url": "https://news.ycombinator.com/user?id=armooo",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "jason-michalski.com",
+          "state": 1,
+          "proof_url": "https://jason-michalski.com/keybase.txt",
+          "sig_id": "0eae03ed34a5322031cb6b0df4b6108480d545864297c614b8c94d1d48c569850f",
+          "proof_id": "5d660722cd8abbadb71dc110",
+          "human_url": "https://jason-michalski.com/keybase.txt",
+          "service_url": "https://jason-michalski.com",
+          "presentation_group": "jason-michalski.com",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "armooo.net",
+          "state": 1,
+          "proof_url": "https://armooo.net/keybase.txt",
+          "sig_id": "35deb8a5e1c82c851534f078808d72d9f509c95f1b9fd46606a03006366c95940f",
+          "proof_id": "691f3631f80bc4cda2b90a10",
+          "human_url": "https://armooo.net/keybase.txt",
+          "service_url": "https://armooo.net",
+          "presentation_group": "armooo.net",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "armooo.com",
+          "state": 1,
+          "proof_url": "https://armooo.com/keybase.txt",
+          "sig_id": "9962e2148d835ddd07f3a741701bcf859193cb23fd378464006d3dd11362689e0f",
+          "proof_id": "9f1833a4dc3ac130e78fb410",
+          "human_url": "https://armooo.com/keybase.txt",
+          "service_url": "https://armooo.com",
+          "presentation_group": "armooo.com",
+          "presentation_tag": "https"
         }
       ],
       "dns": [
@@ -227,7 +265,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/armooo",
+          "nametag": "armooo",
           "state": 1,
           "proof_url": "https://coinbase.com/armooo/public-key",
           "sig_id": "92916e15c984cfc6cdbaf438c64c220473dba5238668a463f6bea13fbe1df7750f",
@@ -252,7 +290,45 @@
           "presentation_tag": "profile"
         }
       ],
+      "jason-michalski.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "jason-michalski.com",
+          "state": 1,
+          "proof_url": "https://jason-michalski.com/keybase.txt",
+          "sig_id": "0eae03ed34a5322031cb6b0df4b6108480d545864297c614b8c94d1d48c569850f",
+          "proof_id": "5d660722cd8abbadb71dc110",
+          "human_url": "https://jason-michalski.com/keybase.txt",
+          "service_url": "https://jason-michalski.com",
+          "presentation_group": "jason-michalski.com",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "jason-michalski.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/armooo/sigchain#3764ce63525aa9e7d87026d0bdda0cdbeb6c30d7cec2d46da1f131d00405c7c90f",
+          "sig_id": "3764ce63525aa9e7d87026d0bdda0cdbeb6c30d7cec2d46da1f131d00405c7c90f",
+          "proof_id": "f9507c049a4664c461650210",
+          "human_url": "dns://jason-michalski.com",
+          "service_url": "http://jason-michalski.com",
+          "presentation_group": "jason-michalski.com",
+          "presentation_tag": "dns"
+        }
+      ],
       "armooo.net": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "armooo.net",
+          "state": 1,
+          "proof_url": "https://armooo.net/keybase.txt",
+          "sig_id": "35deb8a5e1c82c851534f078808d72d9f509c95f1b9fd46606a03006366c95940f",
+          "proof_id": "691f3631f80bc4cda2b90a10",
+          "human_url": "https://armooo.net/keybase.txt",
+          "service_url": "https://armooo.net",
+          "presentation_group": "armooo.net",
+          "presentation_tag": "https"
+        },
         {
           "proof_type": "dns",
           "nametag": "armooo.net",
@@ -268,6 +344,18 @@
       ],
       "armooo.com": [
         {
+          "proof_type": "generic_web_site",
+          "nametag": "armooo.com",
+          "state": 1,
+          "proof_url": "https://armooo.com/keybase.txt",
+          "sig_id": "9962e2148d835ddd07f3a741701bcf859193cb23fd378464006d3dd11362689e0f",
+          "proof_id": "9f1833a4dc3ac130e78fb410",
+          "human_url": "https://armooo.com/keybase.txt",
+          "service_url": "https://armooo.com",
+          "presentation_group": "armooo.com",
+          "presentation_tag": "https"
+        },
+        {
           "proof_type": "dns",
           "nametag": "armooo.com",
           "state": 1,
@@ -277,20 +365,6 @@
           "human_url": "dns://armooo.com",
           "service_url": "http://armooo.com",
           "presentation_group": "armooo.com",
-          "presentation_tag": "dns"
-        }
-      ],
-      "jason-michalski.com": [
-        {
-          "proof_type": "dns",
-          "nametag": "jason-michalski.com",
-          "state": 1,
-          "proof_url": "https://keybase.io/armooo/sigchain#3764ce63525aa9e7d87026d0bdda0cdbeb6c30d7cec2d46da1f131d00405c7c90f",
-          "sig_id": "3764ce63525aa9e7d87026d0bdda0cdbeb6c30d7cec2d46da1f131d00405c7c90f",
-          "proof_id": "f9507c049a4664c461650210",
-          "human_url": "dns://jason-michalski.com",
-          "service_url": "http://jason-michalski.com",
-          "presentation_group": "jason-michalski.com",
           "presentation_tag": "dns"
         }
       ]
@@ -309,16 +383,16 @@
         "presentation_tag": "tweet"
       },
       {
-        "proof_type": "github",
-        "nametag": "armooo",
+        "proof_type": "dns",
+        "nametag": "jason-michalski.com",
         "state": 1,
-        "proof_url": "https://gist.github.com/61bea65173b4ca3f982b0fa4ef88dbcb",
-        "sig_id": "4e3fd20531abdf0085f847624574580f5e6058a6fe8917e1fdf4eefd3f1e9f080f",
-        "proof_id": "5f8d44931e000736eb841e10",
-        "human_url": "https://gist.github.com/61bea65173b4ca3f982b0fa4ef88dbcb",
-        "service_url": "https://github.com/armooo",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
+        "proof_url": "https://keybase.io/armooo/sigchain#3764ce63525aa9e7d87026d0bdda0cdbeb6c30d7cec2d46da1f131d00405c7c90f",
+        "sig_id": "3764ce63525aa9e7d87026d0bdda0cdbeb6c30d7cec2d46da1f131d00405c7c90f",
+        "proof_id": "f9507c049a4664c461650210",
+        "human_url": "dns://jason-michalski.com",
+        "service_url": "http://jason-michalski.com",
+        "presentation_group": "jason-michalski.com",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "reddit",
@@ -334,7 +408,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/armooo",
+        "nametag": "armooo",
         "state": 1,
         "proof_url": "https://coinbase.com/armooo/public-key",
         "sig_id": "92916e15c984cfc6cdbaf438c64c220473dba5238668a463f6bea13fbe1df7750f",
@@ -357,16 +431,16 @@
         "presentation_tag": "profile"
       },
       {
-        "proof_type": "dns",
-        "nametag": "armooo.net",
+        "proof_type": "github",
+        "nametag": "armooo",
         "state": 1,
-        "proof_url": "https://keybase.io/armooo/sigchain#284ad3e57d8df7c7a409807011a191931943283c5565c18ecc7986fcb9c91f810f",
-        "sig_id": "284ad3e57d8df7c7a409807011a191931943283c5565c18ecc7986fcb9c91f810f",
-        "proof_id": "81154fb3eab74e1ff4290310",
-        "human_url": "dns://armooo.net",
-        "service_url": "http://armooo.net",
-        "presentation_group": "armooo.net",
-        "presentation_tag": "dns"
+        "proof_url": "https://gist.github.com/61bea65173b4ca3f982b0fa4ef88dbcb",
+        "sig_id": "4e3fd20531abdf0085f847624574580f5e6058a6fe8917e1fdf4eefd3f1e9f080f",
+        "proof_id": "5f8d44931e000736eb841e10",
+        "human_url": "https://gist.github.com/61bea65173b4ca3f982b0fa4ef88dbcb",
+        "service_url": "https://github.com/armooo",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
       },
       {
         "proof_type": "dns",
@@ -382,15 +456,51 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "armooo.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/armooo/sigchain#284ad3e57d8df7c7a409807011a191931943283c5565c18ecc7986fcb9c91f810f",
+        "sig_id": "284ad3e57d8df7c7a409807011a191931943283c5565c18ecc7986fcb9c91f810f",
+        "proof_id": "81154fb3eab74e1ff4290310",
+        "human_url": "dns://armooo.net",
+        "service_url": "http://armooo.net",
+        "presentation_group": "armooo.net",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "armooo.com",
+        "state": 1,
+        "proof_url": "https://armooo.com/keybase.txt",
+        "sig_id": "9962e2148d835ddd07f3a741701bcf859193cb23fd378464006d3dd11362689e0f",
+        "proof_id": "9f1833a4dc3ac130e78fb410",
+        "human_url": "https://armooo.com/keybase.txt",
+        "service_url": "https://armooo.com",
+        "presentation_group": "armooo.com",
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "armooo.net",
+        "state": 1,
+        "proof_url": "https://armooo.net/keybase.txt",
+        "sig_id": "35deb8a5e1c82c851534f078808d72d9f509c95f1b9fd46606a03006366c95940f",
+        "proof_id": "691f3631f80bc4cda2b90a10",
+        "human_url": "https://armooo.net/keybase.txt",
+        "service_url": "https://armooo.net",
+        "presentation_group": "armooo.net",
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
         "nametag": "jason-michalski.com",
         "state": 1,
-        "proof_url": "https://keybase.io/armooo/sigchain#3764ce63525aa9e7d87026d0bdda0cdbeb6c30d7cec2d46da1f131d00405c7c90f",
-        "sig_id": "3764ce63525aa9e7d87026d0bdda0cdbeb6c30d7cec2d46da1f131d00405c7c90f",
-        "proof_id": "f9507c049a4664c461650210",
-        "human_url": "dns://jason-michalski.com",
-        "service_url": "http://jason-michalski.com",
+        "proof_url": "https://jason-michalski.com/keybase.txt",
+        "sig_id": "0eae03ed34a5322031cb6b0df4b6108480d545864297c614b8c94d1d48c569850f",
+        "proof_id": "5d660722cd8abbadb71dc110",
+        "human_url": "https://jason-michalski.com/keybase.txt",
+        "service_url": "https://jason-michalski.com",
         "presentation_group": "jason-michalski.com",
-        "presentation_tag": "dns"
+        "presentation_tag": "https"
       }
     ]
   },
