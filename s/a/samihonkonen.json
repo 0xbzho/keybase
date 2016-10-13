@@ -4,9 +4,9 @@
     "username": "samihonkonen",
     "ctime": 1411064831,
     "mtime": 1411064831,
-    "id_version": 27,
+    "id_version": 42,
     "track_version": 17,
-    "last_id_change": 1470149151,
+    "last_id_change": 1473282468,
     "username_cased": "SamiHonkonen"
   },
   "profile": {
@@ -41,13 +41,11 @@
       "0120ecbd49352dc891554d56ec8d890e60f6deea32fa3508559d2b31a3638e80f46b0a"
     ],
     "subkeys": [
-      "01212317ba763e9bab546146263c5d700a810b36c9ec556681b2391adcd6472bd7610a",
-      "0121aa3f4b0a7201b2f1d9f5ce56053cd21584f82c69a801fd51b01f46f2b2841c3a0a"
+      "01212317ba763e9bab546146263c5d700a810b36c9ec556681b2391adcd6472bd7610a"
     ],
     "sibkeys": [
       "010174f18edda309203f66258ace116fbf5d4428a589c4fad5034fb8968af07f93b10a",
-      "0120a197fd4d3f0364e6a822a3e7957dad2477029ef6bc177309769e25e79d6fb79a0a",
-      "0120ecbd49352dc891554d56ec8d890e60f6deea32fa3508559d2b31a3638e80f46b0a"
+      "0120a197fd4d3f0364e6a822a3e7957dad2477029ef6bc177309769e25e79d6fb79a0a"
     ],
     "families": {
       "010174f18edda309203f66258ace116fbf5d4428a589c4fad5034fb8968af07f93b10a": [
@@ -80,18 +78,42 @@
           "presentation_tag": "tweet"
         }
       ],
-      "generic_web_site": [
+      "dns": [
         {
-          "proof_type": "generic_web_site",
+          "proof_type": "dns",
+          "nametag": "bosslevelpodcast.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/samihonkonen/sigchain#7b90f88704a6506d57a6fefb8d8688e633ad78e3d99e67da6fda67225442d5700f",
+          "sig_id": "7b90f88704a6506d57a6fefb8d8688e633ad78e3d99e67da6fda67225442d5700f",
+          "proof_id": "9dfbcf4fc3838a79a9624610",
+          "human_url": "dns://bosslevelpodcast.com",
+          "service_url": "http://bosslevelpodcast.com",
+          "presentation_group": "bosslevelpodcast.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "honkonen.fi",
+          "state": 1,
+          "proof_url": "https://keybase.io/samihonkonen/sigchain#784b3e1d850f8c7eac0aa9a7d00bd810f723d7f10d56ad11491f6801a4c709920f",
+          "sig_id": "784b3e1d850f8c7eac0aa9a7d00bd810f723d7f10d56ad11491f6801a4c709920f",
+          "proof_id": "8e8e172df215204f103ff910",
+          "human_url": "dns://honkonen.fi",
+          "service_url": "http://honkonen.fi",
+          "presentation_group": "honkonen.fi",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "samihonkonen.com",
           "state": 1,
-          "proof_url": "http://samihonkonen.com/keybase.txt",
-          "sig_id": "aca4e354caee92df325dc8a696d886acc0486ade4d6f73fb96e528108fdc89e20f",
-          "proof_id": "5c436956fad835f81faef910",
-          "human_url": "http://samihonkonen.com/keybase.txt",
+          "proof_url": "https://keybase.io/samihonkonen/sigchain#459e2e5d4346783a63e30431ee262cd34ad2f4f14a528de4de576a2b7067512d0f",
+          "sig_id": "459e2e5d4346783a63e30431ee262cd34ad2f4f14a528de4de576a2b7067512d0f",
+          "proof_id": "ea563a96c179ab322d94fe10",
+          "human_url": "dns://samihonkonen.com",
           "service_url": "http://samihonkonen.com",
           "presentation_group": "samihonkonen.com",
-          "presentation_tag": "http"
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -110,18 +132,46 @@
           "presentation_tag": "tweet"
         }
       ],
+      "bosslevelpodcast.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "bosslevelpodcast.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/samihonkonen/sigchain#7b90f88704a6506d57a6fefb8d8688e633ad78e3d99e67da6fda67225442d5700f",
+          "sig_id": "7b90f88704a6506d57a6fefb8d8688e633ad78e3d99e67da6fda67225442d5700f",
+          "proof_id": "9dfbcf4fc3838a79a9624610",
+          "human_url": "dns://bosslevelpodcast.com",
+          "service_url": "http://bosslevelpodcast.com",
+          "presentation_group": "bosslevelpodcast.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "honkonen.fi": [
+        {
+          "proof_type": "dns",
+          "nametag": "honkonen.fi",
+          "state": 1,
+          "proof_url": "https://keybase.io/samihonkonen/sigchain#784b3e1d850f8c7eac0aa9a7d00bd810f723d7f10d56ad11491f6801a4c709920f",
+          "sig_id": "784b3e1d850f8c7eac0aa9a7d00bd810f723d7f10d56ad11491f6801a4c709920f",
+          "proof_id": "8e8e172df215204f103ff910",
+          "human_url": "dns://honkonen.fi",
+          "service_url": "http://honkonen.fi",
+          "presentation_group": "honkonen.fi",
+          "presentation_tag": "dns"
+        }
+      ],
       "samihonkonen.com": [
         {
-          "proof_type": "generic_web_site",
+          "proof_type": "dns",
           "nametag": "samihonkonen.com",
           "state": 1,
-          "proof_url": "http://samihonkonen.com/keybase.txt",
-          "sig_id": "aca4e354caee92df325dc8a696d886acc0486ade4d6f73fb96e528108fdc89e20f",
-          "proof_id": "5c436956fad835f81faef910",
-          "human_url": "http://samihonkonen.com/keybase.txt",
+          "proof_url": "https://keybase.io/samihonkonen/sigchain#459e2e5d4346783a63e30431ee262cd34ad2f4f14a528de4de576a2b7067512d0f",
+          "sig_id": "459e2e5d4346783a63e30431ee262cd34ad2f4f14a528de4de576a2b7067512d0f",
+          "proof_id": "ea563a96c179ab322d94fe10",
+          "human_url": "dns://samihonkonen.com",
           "service_url": "http://samihonkonen.com",
           "presentation_group": "samihonkonen.com",
-          "presentation_tag": "http"
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -139,23 +189,47 @@
         "presentation_tag": "tweet"
       },
       {
-        "proof_type": "generic_web_site",
+        "proof_type": "dns",
+        "nametag": "bosslevelpodcast.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/samihonkonen/sigchain#7b90f88704a6506d57a6fefb8d8688e633ad78e3d99e67da6fda67225442d5700f",
+        "sig_id": "7b90f88704a6506d57a6fefb8d8688e633ad78e3d99e67da6fda67225442d5700f",
+        "proof_id": "9dfbcf4fc3838a79a9624610",
+        "human_url": "dns://bosslevelpodcast.com",
+        "service_url": "http://bosslevelpodcast.com",
+        "presentation_group": "bosslevelpodcast.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "honkonen.fi",
+        "state": 1,
+        "proof_url": "https://keybase.io/samihonkonen/sigchain#784b3e1d850f8c7eac0aa9a7d00bd810f723d7f10d56ad11491f6801a4c709920f",
+        "sig_id": "784b3e1d850f8c7eac0aa9a7d00bd810f723d7f10d56ad11491f6801a4c709920f",
+        "proof_id": "8e8e172df215204f103ff910",
+        "human_url": "dns://honkonen.fi",
+        "service_url": "http://honkonen.fi",
+        "presentation_group": "honkonen.fi",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "samihonkonen.com",
         "state": 1,
-        "proof_url": "http://samihonkonen.com/keybase.txt",
-        "sig_id": "aca4e354caee92df325dc8a696d886acc0486ade4d6f73fb96e528108fdc89e20f",
-        "proof_id": "5c436956fad835f81faef910",
-        "human_url": "http://samihonkonen.com/keybase.txt",
+        "proof_url": "https://keybase.io/samihonkonen/sigchain#459e2e5d4346783a63e30431ee262cd34ad2f4f14a528de4de576a2b7067512d0f",
+        "sig_id": "459e2e5d4346783a63e30431ee262cd34ad2f4f14a528de4de576a2b7067512d0f",
+        "proof_id": "ea563a96c179ab322d94fe10",
+        "human_url": "dns://samihonkonen.com",
         "service_url": "http://samihonkonen.com",
         "presentation_group": "samihonkonen.com",
-        "presentation_tag": "http"
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/28aafc9e1896f6f6a613581a72b9ff05_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/7bba028ba1388d55df62fe5c24888f05_360_360_square_360.png",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -163,9 +237,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "59bc0f52a4f4ecd568e460273c56c9ebdf1f75b0dcc3833747f25b7f05e753e60f",
-      "seqno": 24,
-      "payload_hash": "b18044a4fe2445c3811a9f2896b360dc8473b85b0f604aade0f46541992d4e0d"
+      "sig_id": "7b90f88704a6506d57a6fefb8d8688e633ad78e3d99e67da6fda67225442d5700f",
+      "seqno": 31,
+      "payload_hash": "292965cbb00cf846e59b323dc55c0f97fe1a0941003716096b8117d9f3d8fa92"
     }
   },
   "devices": {
@@ -185,25 +259,6 @@
           "kid": "01212317ba763e9bab546146263c5d700a810b36c9ec556681b2391adcd6472bd7610a",
           "key_role": 2,
           "sig_id": "d632cb06d1d53c0c1802bfbfa73a30de37a4792fea2cf73f6eff28716a696a370f"
-        }
-      ]
-    },
-    "ccb152ca2ec76d58ae607e8c603ea518": {
-      "type": "backup",
-      "ctime": 1470149151,
-      "mtime": 1470149151,
-      "name": "pepper fragile",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120ecbd49352dc891554d56ec8d890e60f6deea32fa3508559d2b31a3638e80f46b0a",
-          "key_role": 1,
-          "sig_id": "72e6ba5039a29a2bea3bf22b8cffd79e7bb5a708367ff508da89faf0e18266610f"
-        },
-        {
-          "kid": "0121aa3f4b0a7201b2f1d9f5ce56053cd21584f82c69a801fd51b01f46f2b2841c3a0a",
-          "key_role": 2,
-          "sig_id": "eff91c4ec0a47d31ddb5089e9e5135169d040412f4c491ce02b355cba154d0a40f"
         }
       ]
     }
