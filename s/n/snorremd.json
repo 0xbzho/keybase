@@ -4,9 +4,9 @@
     "username": "snorremd",
     "ctime": 1461090959,
     "mtime": 1461090959,
-    "id_version": 12,
+    "id_version": 13,
     "track_version": 2,
-    "last_id_change": 1467474450,
+    "last_id_change": 1473252131,
     "username_cased": "snorremd"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "01215eaf1f0ba868339194f2209a909b7d89dc7f12879ae54b11b653523c8ed2724b0a",
       "0120ffe17602a26f6e1d38b52de82a12a48c0ea3b43ca91d8bfa48e928b2e0e670160a",
       "01218f2bd2a6e757ae4369fcf8075d786dbeff371c86abbe7e8277f4549366e213700a",
-      "012080f9c115b8010c192fe2cdfe3ba07fa059ef574252d7f06c010177889460bd550a"
+      "012080f9c115b8010c192fe2cdfe3ba07fa059ef574252d7f06c010177889460bd550a",
+      "0121d20cef1a65662fc05385e5774a678585a640b9292abe085e1fbe7a5c1c0271160a",
+      "01205a04c637bd746a573215b44bfe567a60f391470bb70a20f513bccefdc01023660a"
     ],
     "subkeys": [
       "01215eaf1f0ba868339194f2209a909b7d89dc7f12879ae54b11b653523c8ed2724b0a",
-      "01218f2bd2a6e757ae4369fcf8075d786dbeff371c86abbe7e8277f4549366e213700a"
+      "01218f2bd2a6e757ae4369fcf8075d786dbeff371c86abbe7e8277f4549366e213700a",
+      "0121d20cef1a65662fc05385e5774a678585a640b9292abe085e1fbe7a5c1c0271160a"
     ],
     "sibkeys": [
       "01010e7ffd4a3a09008c23ad3ae59c5e175347546cb2f3690e58b2e1bb60ea2daae70a",
       "0120ffe17602a26f6e1d38b52de82a12a48c0ea3b43ca91d8bfa48e928b2e0e670160a",
-      "012080f9c115b8010c192fe2cdfe3ba07fa059ef574252d7f06c010177889460bd550a"
+      "012080f9c115b8010c192fe2cdfe3ba07fa059ef574252d7f06c010177889460bd550a",
+      "01205a04c637bd746a573215b44bfe567a60f391470bb70a20f513bccefdc01023660a"
     ],
     "families": {
       "01010e7ffd4a3a09008c23ad3ae59c5e175347546cb2f3690e58b2e1bb60ea2daae70a": [
@@ -55,7 +59,9 @@
         "01215eaf1f0ba868339194f2209a909b7d89dc7f12879ae54b11b653523c8ed2724b0a",
         "0120ffe17602a26f6e1d38b52de82a12a48c0ea3b43ca91d8bfa48e928b2e0e670160a",
         "01218f2bd2a6e757ae4369fcf8075d786dbeff371c86abbe7e8277f4549366e213700a",
-        "012080f9c115b8010c192fe2cdfe3ba07fa059ef574252d7f06c010177889460bd550a"
+        "012080f9c115b8010c192fe2cdfe3ba07fa059ef574252d7f06c010177889460bd550a",
+        "0121d20cef1a65662fc05385e5774a678585a640b9292abe085e1fbe7a5c1c0271160a",
+        "01205a04c637bd746a573215b44bfe567a60f391470bb70a20f513bccefdc01023660a"
       ]
     },
     "eldest_kid": "01010e7ffd4a3a09008c23ad3ae59c5e175347546cb2f3690e58b2e1bb60ea2daae70a",
@@ -243,9 +249,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "0ac11efec5b848ca55a901c576f24e72cfaf04cc194c0c44346f8b26877366ef0f",
-      "seqno": 11,
-      "payload_hash": "32398543a58c8787a392e7f9c3e2cd6f9dd67e9526a0710a4de12f78687a2be2"
+      "sig_id": "176c94eb7d6562dd40b4d0151c8a440bb1c530e32f20c36bd76c22d2a9a462ab0f",
+      "seqno": 13,
+      "payload_hash": "e72940b85e0f511e84e227b0e0e0f53e42537f4196e2da227d59edcf179d2828"
     }
   },
   "devices": {
@@ -265,6 +271,25 @@
           "kid": "01215eaf1f0ba868339194f2209a909b7d89dc7f12879ae54b11b653523c8ed2724b0a",
           "key_role": 2,
           "sig_id": "41b9274fe99cf9100f9583cb5096d6d1d38de4f6cc183f764e4063407f68f0670f"
+        }
+      ]
+    },
+    "e270840d8183369a369c8bb640c89518": {
+      "type": "desktop",
+      "ctime": 1473252131,
+      "mtime": 1473252131,
+      "name": "Lenovo ThinkPad",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01205a04c637bd746a573215b44bfe567a60f391470bb70a20f513bccefdc01023660a",
+          "key_role": 1,
+          "sig_id": "8af40d239855f574429f91ebe269ba973bae6847930b005ea4f14ae5288d79170f"
+        },
+        {
+          "kid": "0121d20cef1a65662fc05385e5774a678585a640b9292abe085e1fbe7a5c1c0271160a",
+          "key_role": 2,
+          "sig_id": "176c94eb7d6562dd40b4d0151c8a440bb1c530e32f20c36bd76c22d2a9a462ab0f"
         }
       ]
     },
