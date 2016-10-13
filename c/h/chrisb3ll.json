@@ -4,10 +4,16 @@
     "username": "chrisb3ll",
     "ctime": 1465996513,
     "mtime": 1465996513,
-    "id_version": 13,
-    "track_version": 4,
-    "last_id_change": 1470314600,
+    "id_version": 16,
+    "track_version": 18,
+    "last_id_change": 1470865036,
     "username_cased": "chrisb3ll"
+  },
+  "profile": {
+    "mtime": 1470948846,
+    "full_name": "Chris Bell",
+    "location": null,
+    "bio": null
   },
   "public_keys": {
     "primary": {
@@ -77,7 +83,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/chrisb3ll",
+          "nametag": "chrisb3ll",
           "state": 1,
           "proof_url": "https://coinbase.com/chrisb3ll/public-key",
           "sig_id": "74f42dda2a68ac23820b84872b9b6d7cd0e3ebb8df0305fba34414fb4bbc11480f",
@@ -86,6 +92,20 @@
           "service_url": "https://coinbase.com/chrisb3ll",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "b3ll.co.uk",
+          "state": 1,
+          "proof_url": "https://keybase.io/chrisb3ll/sigchain#ee3f024f7542c322a6736ab8765a8a259eda6742b55fec41348935681cd5645a0f",
+          "sig_id": "ee3f024f7542c322a6736ab8765a8a259eda6742b55fec41348935681cd5645a0f",
+          "proof_id": "02a6eaba98f9429812865810",
+          "human_url": "dns://b3ll.co.uk",
+          "service_url": "http://b3ll.co.uk",
+          "presentation_group": "b3ll.co.uk",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -107,7 +127,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/chrisb3ll",
+          "nametag": "chrisb3ll",
           "state": 1,
           "proof_url": "https://coinbase.com/chrisb3ll/public-key",
           "sig_id": "74f42dda2a68ac23820b84872b9b6d7cd0e3ebb8df0305fba34414fb4bbc11480f",
@@ -116,6 +136,20 @@
           "service_url": "https://coinbase.com/chrisb3ll",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "b3ll.co.uk": [
+        {
+          "proof_type": "dns",
+          "nametag": "b3ll.co.uk",
+          "state": 1,
+          "proof_url": "https://keybase.io/chrisb3ll/sigchain#ee3f024f7542c322a6736ab8765a8a259eda6742b55fec41348935681cd5645a0f",
+          "sig_id": "ee3f024f7542c322a6736ab8765a8a259eda6742b55fec41348935681cd5645a0f",
+          "proof_id": "02a6eaba98f9429812865810",
+          "human_url": "dns://b3ll.co.uk",
+          "service_url": "http://b3ll.co.uk",
+          "presentation_group": "b3ll.co.uk",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -134,7 +168,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/chrisb3ll",
+        "nametag": "chrisb3ll",
         "state": 1,
         "proof_url": "https://coinbase.com/chrisb3ll/public-key",
         "sig_id": "74f42dda2a68ac23820b84872b9b6d7cd0e3ebb8df0305fba34414fb4bbc11480f",
@@ -143,13 +177,32 @@
         "service_url": "https://coinbase.com/chrisb3ll",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "b3ll.co.uk",
+        "state": 1,
+        "proof_url": "https://keybase.io/chrisb3ll/sigchain#ee3f024f7542c322a6736ab8765a8a259eda6742b55fec41348935681cd5645a0f",
+        "sig_id": "ee3f024f7542c322a6736ab8765a8a259eda6742b55fec41348935681cd5645a0f",
+        "proof_id": "02a6eaba98f9429812865810",
+        "human_url": "dns://b3ll.co.uk",
+        "service_url": "http://b3ll.co.uk",
+        "presentation_group": "b3ll.co.uk",
+        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "13a4xijEqaibmsu5bPcPgcYERZeWhGfDFq",
+        "sig_id": "febc14af25934f83eded80e800608c2e330faeb924bc439b5d1e4a4bc5da27a20f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/3c2bf4c292fa582a9e26403698205305_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/34b3eacda735352506677b9e03e4f105_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -157,9 +210,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b1a3bbfee86d1517b4d081f3fa5b64f7fd302a59fdc6e7492d8d36d5cd9ac8500f",
-      "seqno": 13,
-      "payload_hash": "56b175b56ca6155c1998d4114eb726883f3fcdeb071e81f07bb8f3107d05b41d"
+      "sig_id": "9460a65f1c343fbc9bad2ece0a10384637aa973a8fb559d46aaebce7ced31bb60f",
+      "seqno": 29,
+      "payload_hash": "af6a81c5f68eacec27cf48b24a902269885a1668f2682946c78d5f3827907836"
     }
   },
   "devices": {
