@@ -4,9 +4,9 @@
     "username": "aj_n",
     "ctime": 1458974330,
     "mtime": 1458974330,
-    "id_version": 26,
-    "track_version": 10,
-    "last_id_change": 1470082338,
+    "id_version": 32,
+    "track_version": 15,
+    "last_id_change": 1472853438,
     "username_cased": "aj_n"
   },
   "profile": {
@@ -40,16 +40,18 @@
       "01219b38b8de53c21a5dcba54648f421ce2d3907a4e163c7d2b372d4bcf1c84dd6350a",
       "0120937e0beeaa330096d16856dbcfad877754f2a5d3213305eb5788c7b99415fa700a",
       "0121cd0e26a5e0737b8c9c53823a50f613522df297f8b58aa8321951ead4625949780a",
-      "012001b600f56a9c066f2c371bcc3830f44315a8096116d728518de02a7eabde02b70a"
+      "012001b600f56a9c066f2c371bcc3830f44315a8096116d728518de02a7eabde02b70a",
+      "01204e37a70fda980cf44eaf3e311413ea1ff19b77ea962a17069e1c8daae6625ec30a",
+      "012170bff48fc44d453783e719c750d1b28827eb2709bfbd7e5945254a7db64ea4650a",
+      "0121097cd968289af56aec1576d3bcc527f98b2e5d25cee6a60c6a76a581b7674b030a",
+      "01205ccc303d1311ddada5fc63e952fd1671403e9aa1e1b77e5fa92b9bccff0e15ba0a"
     ],
     "subkeys": [
-      "01219b38b8de53c21a5dcba54648f421ce2d3907a4e163c7d2b372d4bcf1c84dd6350a",
-      "0121cd0e26a5e0737b8c9c53823a50f613522df297f8b58aa8321951ead4625949780a"
+      "01219b38b8de53c21a5dcba54648f421ce2d3907a4e163c7d2b372d4bcf1c84dd6350a"
     ],
     "sibkeys": [
       "0101428c10f25585fcdc1b597be2fc13079ad5f9b5b3b528c2cdd26c1095358a0aed0a",
-      "0120937e0beeaa330096d16856dbcfad877754f2a5d3213305eb5788c7b99415fa700a",
-      "012001b600f56a9c066f2c371bcc3830f44315a8096116d728518de02a7eabde02b70a"
+      "0120937e0beeaa330096d16856dbcfad877754f2a5d3213305eb5788c7b99415fa700a"
     ],
     "families": {
       "0101428c10f25585fcdc1b597be2fc13079ad5f9b5b3b528c2cdd26c1095358a0aed0a": [
@@ -59,7 +61,11 @@
         "01219b38b8de53c21a5dcba54648f421ce2d3907a4e163c7d2b372d4bcf1c84dd6350a",
         "0120937e0beeaa330096d16856dbcfad877754f2a5d3213305eb5788c7b99415fa700a",
         "0121cd0e26a5e0737b8c9c53823a50f613522df297f8b58aa8321951ead4625949780a",
-        "012001b600f56a9c066f2c371bcc3830f44315a8096116d728518de02a7eabde02b70a"
+        "012001b600f56a9c066f2c371bcc3830f44315a8096116d728518de02a7eabde02b70a",
+        "01204e37a70fda980cf44eaf3e311413ea1ff19b77ea962a17069e1c8daae6625ec30a",
+        "012170bff48fc44d453783e719c750d1b28827eb2709bfbd7e5945254a7db64ea4650a",
+        "0121097cd968289af56aec1576d3bcc527f98b2e5d25cee6a60c6a76a581b7674b030a",
+        "01205ccc303d1311ddada5fc63e952fd1671403e9aa1e1b77e5fa92b9bccff0e15ba0a"
       ]
     },
     "eldest_kid": "0101428c10f25585fcdc1b597be2fc13079ad5f9b5b3b528c2cdd26c1095358a0aed0a",
@@ -115,7 +121,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/aj_nadel",
+          "nametag": "aj_nadel",
           "state": 1,
           "proof_url": "https://coinbase.com/aj_nadel/public-key",
           "sig_id": "480ce0c802593954756bde6e4f609e1b0cf7ddfb18d42c6f79ee7cbb704e16ec0f",
@@ -201,7 +207,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/aj_nadel",
+          "nametag": "aj_nadel",
           "state": 1,
           "proof_url": "https://coinbase.com/aj_nadel/public-key",
           "sig_id": "480ce0c802593954756bde6e4f609e1b0cf7ddfb18d42c6f79ee7cbb704e16ec0f",
@@ -280,7 +286,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/aj_nadel",
+        "nametag": "aj_nadel",
         "state": 1,
         "proof_url": "https://coinbase.com/aj_nadel/public-key",
         "sig_id": "480ce0c802593954756bde6e4f609e1b0cf7ddfb18d42c6f79ee7cbb704e16ec0f",
@@ -327,9 +333,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "09038311cad83556b47e6fa8e4e9ae6fc0ac6a2242a665111a4906d304e75aaa0f",
-      "seqno": 24,
-      "payload_hash": "d4cc7bc3b2275e087facf3d87b4c707d2f783ada4f859776217201d172929480"
+      "sig_id": "2efa866eb1d6981138e5d040f598990d7c863f834534c3d8b0d11c4eff7b54d30f",
+      "seqno": 36,
+      "payload_hash": "54f5604fde6c5aa7ae9f548ec0066853dabfc4a4a18d0837d050c5b67d718084"
     }
   },
   "devices": {
@@ -349,25 +355,6 @@
           "kid": "01219b38b8de53c21a5dcba54648f421ce2d3907a4e163c7d2b372d4bcf1c84dd6350a",
           "key_role": 2,
           "sig_id": "dadf51bad2859610ecbd278ee064acc2d2bfaf90e44711f89477e694916393bd0f"
-        }
-      ]
-    },
-    "f6dd691dd59177a7b7c9d1b6e12d0518": {
-      "type": "desktop",
-      "ctime": 1465948351,
-      "mtime": 1465948351,
-      "name": "Recurly Laptop Summer 16",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012001b600f56a9c066f2c371bcc3830f44315a8096116d728518de02a7eabde02b70a",
-          "key_role": 1,
-          "sig_id": "df91104c576e8428d48c182aa48b4188e9315e2ef4f3b77382d9361ecdc1ae510f"
-        },
-        {
-          "kid": "0121cd0e26a5e0737b8c9c53823a50f613522df297f8b58aa8321951ead4625949780a",
-          "key_role": 2,
-          "sig_id": "0ce033a563f2c53a64d1144d8b9a388f4f6c9bcdaa7d16d1a34eb08d7ca61c9f0f"
         }
       ]
     }
