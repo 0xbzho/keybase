@@ -4,9 +4,9 @@
     "username": "zacheryph",
     "ctime": 1395703531,
     "mtime": 1395703531,
-    "id_version": 136,
-    "track_version": 4,
-    "last_id_change": 1466451163,
+    "id_version": 144,
+    "track_version": 6,
+    "last_id_change": 1473842443,
     "username_cased": "zacheryph"
   },
   "profile": {
@@ -38,16 +38,18 @@
       "0120b6d8095484379bd16745c6759aee5db4612a29472f004f9a937400d76058f8af0a",
       "0121cf6771b21a7e56518963fff5279869987689c06cd659959bc7b097bd72ed6a110a",
       "012107a604627876ae8424adf97b5ae4b05815bbef6e044a86890c438f2d501909200a",
-      "01201f3727d3e8715b47dbb79c5318b1f2a83127937dd6bab2645ba51a31b782d9940a"
+      "01201f3727d3e8715b47dbb79c5318b1f2a83127937dd6bab2645ba51a31b782d9940a",
+      "0121e27bd197444130d998ea32fe62049c0702032cff4873c5efb39559f46bb61a710a",
+      "012053addb7539e254227f75c30925af6175aac7bcbe1880155ab6ef37e7dda6c9270a"
     ],
     "subkeys": [
-      "0121cf6771b21a7e56518963fff5279869987689c06cd659959bc7b097bd72ed6a110a",
-      "012107a604627876ae8424adf97b5ae4b05815bbef6e044a86890c438f2d501909200a"
+      "012107a604627876ae8424adf97b5ae4b05815bbef6e044a86890c438f2d501909200a",
+      "0121e27bd197444130d998ea32fe62049c0702032cff4873c5efb39559f46bb61a710a"
     ],
     "sibkeys": [
       "0101b9ce728fc51260d6f129846202851fa09c40a92fadc8efe53e6557d034ea1ede0a",
-      "0120b6d8095484379bd16745c6759aee5db4612a29472f004f9a937400d76058f8af0a",
-      "01201f3727d3e8715b47dbb79c5318b1f2a83127937dd6bab2645ba51a31b782d9940a"
+      "01201f3727d3e8715b47dbb79c5318b1f2a83127937dd6bab2645ba51a31b782d9940a",
+      "012053addb7539e254227f75c30925af6175aac7bcbe1880155ab6ef37e7dda6c9270a"
     ],
     "families": {
       "0101b9ce728fc51260d6f129846202851fa09c40a92fadc8efe53e6557d034ea1ede0a": [
@@ -55,7 +57,9 @@
         "0120b6d8095484379bd16745c6759aee5db4612a29472f004f9a937400d76058f8af0a",
         "0121cf6771b21a7e56518963fff5279869987689c06cd659959bc7b097bd72ed6a110a",
         "012107a604627876ae8424adf97b5ae4b05815bbef6e044a86890c438f2d501909200a",
-        "01201f3727d3e8715b47dbb79c5318b1f2a83127937dd6bab2645ba51a31b782d9940a"
+        "01201f3727d3e8715b47dbb79c5318b1f2a83127937dd6bab2645ba51a31b782d9940a",
+        "0121e27bd197444130d998ea32fe62049c0702032cff4873c5efb39559f46bb61a710a",
+        "012053addb7539e254227f75c30925af6175aac7bcbe1880155ab6ef37e7dda6c9270a"
       ]
     },
     "eldest_kid": "0101b9ce728fc51260d6f129846202851fa09c40a92fadc8efe53e6557d034ea1ede0a",
@@ -106,6 +110,20 @@
           "service_url": "https://reddit.com/user/zacheryph",
           "presentation_group": "reddit",
           "presentation_tag": "post"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "zro.io",
+          "state": 1,
+          "proof_url": "https://zro.io/keybase.txt",
+          "sig_id": "30bd23025658d7090e0bc07697c6c7ae75c403d79bf7a3f11eff51e0ea3233c90f",
+          "proof_id": "9ead99f1f85d3178c4dfca10",
+          "human_url": "https://zro.io/keybase.txt",
+          "service_url": "https://zro.io",
+          "presentation_group": "zro.io",
+          "presentation_tag": "https"
         }
       ],
       "dns": [
@@ -178,6 +196,32 @@
           "presentation_tag": "post"
         }
       ],
+      "zro.io": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "zro.io",
+          "state": 1,
+          "proof_url": "https://zro.io/keybase.txt",
+          "sig_id": "30bd23025658d7090e0bc07697c6c7ae75c403d79bf7a3f11eff51e0ea3233c90f",
+          "proof_id": "9ead99f1f85d3178c4dfca10",
+          "human_url": "https://zro.io/keybase.txt",
+          "service_url": "https://zro.io",
+          "presentation_group": "zro.io",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "zro.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/zacheryph/sigchain#c9e3536b3fde6a0dd73d497dd8611563cc0212a1eafc45fe803eb03ff585a2980f",
+          "sig_id": "c9e3536b3fde6a0dd73d497dd8611563cc0212a1eafc45fe803eb03ff585a2980f",
+          "proof_id": "d78a12dcc03e22b8f8ee7d10",
+          "human_url": "dns://zro.io",
+          "service_url": "http://zro.io",
+          "presentation_group": "zro.io",
+          "presentation_tag": "dns"
+        }
+      ],
       "zro.net": [
         {
           "proof_type": "dns",
@@ -189,20 +233,6 @@
           "human_url": "dns://zro.net",
           "service_url": "http://zro.net",
           "presentation_group": "zro.net",
-          "presentation_tag": "dns"
-        }
-      ],
-      "zro.io": [
-        {
-          "proof_type": "dns",
-          "nametag": "zro.io",
-          "state": 1,
-          "proof_url": "https://keybase.io/zacheryph/sigchain#c9e3536b3fde6a0dd73d497dd8611563cc0212a1eafc45fe803eb03ff585a2980f",
-          "sig_id": "c9e3536b3fde6a0dd73d497dd8611563cc0212a1eafc45fe803eb03ff585a2980f",
-          "proof_id": "d78a12dcc03e22b8f8ee7d10",
-          "human_url": "dns://zro.io",
-          "service_url": "http://zro.io",
-          "presentation_group": "zro.io",
           "presentation_tag": "dns"
         }
       ]
@@ -267,6 +297,18 @@
         "service_url": "http://zro.io",
         "presentation_group": "zro.io",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "zro.io",
+        "state": 1,
+        "proof_url": "https://zro.io/keybase.txt",
+        "sig_id": "30bd23025658d7090e0bc07697c6c7ae75c403d79bf7a3f11eff51e0ea3233c90f",
+        "proof_id": "9ead99f1f85d3178c4dfca10",
+        "human_url": "https://zro.io/keybase.txt",
+        "service_url": "https://zro.io",
+        "presentation_group": "zro.io",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -281,12 +323,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "30bd23025658d7090e0bc07697c6c7ae75c403d79bf7a3f11eff51e0ea3233c90f",
-      "seqno": 22,
-      "payload_hash": "cd494f6a5bee35b0369de01b425cf6068774fa0e1822f08a30979f9437726aa2"
+      "sig_id": "ddc200c2c69842e697c95b8fc86777b6d8f3c25246ca775d332c0ab38b0e546c0f",
+      "seqno": 27,
+      "payload_hash": "8bce4a987492207d5ad6e25dc1827f4761683fac7f143c052fa56f6597084384"
     }
   },
   "devices": {
+    "3dec35feea4ee4f348e07df8ac14b418": {
+      "type": "desktop",
+      "ctime": 1470855521,
+      "mtime": 1470855521,
+      "name": "zephyr",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012053addb7539e254227f75c30925af6175aac7bcbe1880155ab6ef37e7dda6c9270a",
+          "key_role": 1,
+          "sig_id": "62d35cbf3bd261e18720a0df955fcc4e26ac182db65aa8783049b762d1c749900f"
+        },
+        {
+          "kid": "0121e27bd197444130d998ea32fe62049c0702032cff4873c5efb39559f46bb61a710a",
+          "key_role": 2,
+          "sig_id": "1522da8e5d8553a35c7041aa8b459aafa862187975f696742561556505b114d00f"
+        }
+      ]
+    },
     "b8008c2b3553209fc39ea54bab8d1718": {
       "type": "backup",
       "ctime": 1455946298,
@@ -303,25 +364,6 @@
           "kid": "012107a604627876ae8424adf97b5ae4b05815bbef6e044a86890c438f2d501909200a",
           "key_role": 2,
           "sig_id": "52cd71a4fcee175d64e95d05057be1de12437c6b1fdd6126ca0683e474cede540f"
-        }
-      ]
-    },
-    "e1ea3363f6c944165ac865c9d1d4dc18": {
-      "type": "desktop",
-      "ctime": 1455946296,
-      "mtime": 1455946296,
-      "name": "macbook",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120b6d8095484379bd16745c6759aee5db4612a29472f004f9a937400d76058f8af0a",
-          "key_role": 1,
-          "sig_id": "18a8103dc1f1bce4a34bda28cda09f1f43d76232bbdb62c4e6b833de47c9d5f20f"
-        },
-        {
-          "kid": "0121cf6771b21a7e56518963fff5279869987689c06cd659959bc7b097bd72ed6a110a",
-          "key_role": 2,
-          "sig_id": "49f0e963addd983f0f0f3f44ca2feb5a240c16b2e18017e1a8e10bcc912f3df70f"
         }
       ]
     }
