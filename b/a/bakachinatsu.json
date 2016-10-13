@@ -4,9 +4,9 @@
     "username": "bakachinatsu",
     "ctime": 1470306267,
     "mtime": 1470306267,
-    "id_version": 17,
-    "track_version": 7,
-    "last_id_change": 1470447062,
+    "id_version": 18,
+    "track_version": 9,
+    "last_id_change": 1473684069,
     "username_cased": "BakaChinatsu"
   },
   "profile": {
@@ -51,12 +51,10 @@
       "0120115e070b2896af395eee3ca2293e1193317288435615df491394d674d9d847550a"
     ],
     "subkeys": [
-      "01215c064fab571f34dba2454adf22403c92cb7474590a0bd42480d3801bd2c4a7740a",
       "01212517e44226261252e2dd62396d96d34c179e78bfe7936a7ffcf12ceaa1dec36a0a"
     ],
     "sibkeys": [
       "01111d8aa7c5bcff59dc358ae6af54a86d1cead1228b0d0f84ea66bb7416d39b6c8c0a",
-      "0120fc6e6d8f097961cbdd7f0a64aa993c643f10097096bb1371bb4fffd4249199900a",
       "0120115e070b2896af395eee3ca2293e1193317288435615df491394d674d9d847550a"
     ],
     "families": {
@@ -88,6 +86,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "bakachinatsu",
+          "state": 1,
+          "proof_url": "https://twitter.com/BakaChinatsu/status/761385800328024065",
+          "sig_id": "775e1c583204eacc6452307c1e59e2923fcfa5376ec89dd35fabe0b2cbffe2e20f",
+          "proof_id": "63a15e6293cd31f67344fe10",
+          "human_url": "https://twitter.com/BakaChinatsu/status/761385800328024065",
+          "service_url": "https://twitter.com/BakaChinatsu",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -118,6 +130,20 @@
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "bakachinatsu",
+          "state": 1,
+          "proof_url": "https://twitter.com/BakaChinatsu/status/761385800328024065",
+          "sig_id": "775e1c583204eacc6452307c1e59e2923fcfa5376ec89dd35fabe0b2cbffe2e20f",
+          "proof_id": "63a15e6293cd31f67344fe10",
+          "human_url": "https://twitter.com/BakaChinatsu/status/761385800328024065",
+          "service_url": "https://twitter.com/BakaChinatsu",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -148,6 +174,18 @@
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "bakachinatsu",
+        "state": 1,
+        "proof_url": "https://twitter.com/BakaChinatsu/status/761385800328024065",
+        "sig_id": "775e1c583204eacc6452307c1e59e2923fcfa5376ec89dd35fabe0b2cbffe2e20f",
+        "proof_id": "63a15e6293cd31f67344fe10",
+        "human_url": "https://twitter.com/BakaChinatsu/status/761385800328024065",
+        "service_url": "https://twitter.com/BakaChinatsu",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "bakachinatsu",
@@ -185,9 +223,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f6c30779ad76b537c53acfc46940aa36c60e48d49ea62a689f5b04597c702d570f",
-      "seqno": 29,
-      "payload_hash": "136d5563422d5797a05dbe6c790b756c7343db6ad36f790016adefa9e0011229"
+      "sig_id": "4b31109d918a943979930d5b6258718fd77b62e66e5e7c5521c3314ded86a7940f",
+      "seqno": 32,
+      "payload_hash": "e375d4994d80af8df936376d33afde9457153efcf5c57e392d6f8aa2cb50795a"
     }
   },
   "devices": {
@@ -207,25 +245,6 @@
           "kid": "01212517e44226261252e2dd62396d96d34c179e78bfe7936a7ffcf12ceaa1dec36a0a",
           "key_role": 2,
           "sig_id": "2b89c4a09c7f9185a1d3f2aa45fbf6a31d93bb206d1e074b32c124911e1adb590f"
-        }
-      ]
-    },
-    "d5bfd8486091d7b8455a901eb9c45d18": {
-      "type": "desktop",
-      "ctime": 1470392639,
-      "mtime": 1470392640,
-      "name": "Chinatsu_Win10",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120fc6e6d8f097961cbdd7f0a64aa993c643f10097096bb1371bb4fffd4249199900a",
-          "key_role": 1,
-          "sig_id": "cd83a34fc5930ce00891faf12b1503eaf76b0cbbec14d00e31233e0573db4b8a0f"
-        },
-        {
-          "kid": "01215c064fab571f34dba2454adf22403c92cb7474590a0bd42480d3801bd2c4a7740a",
-          "key_role": 2,
-          "sig_id": "43495d6310762e7b556a92f32b3154f1f48ed14df6db104ae3fb7190e998207a0f"
         }
       ]
     }
