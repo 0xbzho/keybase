@@ -4,9 +4,9 @@
     "username": "3van",
     "ctime": 1396295870,
     "mtime": 1396295870,
-    "id_version": 138,
+    "id_version": 142,
     "track_version": 13,
-    "last_id_change": 1469821552,
+    "last_id_change": 1473741854,
     "username_cased": "3van"
   },
   "profile": {
@@ -102,7 +102,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/3van",
+          "nametag": "3van",
           "state": 1,
           "proof_url": "https://coinbase.com/3van/public-key",
           "sig_id": "24c67c5f0b98fe79823e680eb56957ea5c3ea2a274158c589138801a7b9225be0f",
@@ -166,6 +166,18 @@
         },
         {
           "proof_type": "dns",
+          "nametag": "evanosaur.us",
+          "state": 1,
+          "proof_url": "https://keybase.io/3van/sigchain#367a3e9725214e2f10c149450f93fb01f189c9a3f00120d64aff077fabdc9df30f",
+          "sig_id": "367a3e9725214e2f10c149450f93fb01f189c9a3f00120d64aff077fabdc9df30f",
+          "proof_id": "4de096687b01f8b0fb7f9f10",
+          "human_url": "dns://evanosaur.us",
+          "service_url": "http://evanosaur.us",
+          "presentation_group": "evanosaur.us",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "harbl.net",
           "state": 1,
           "proof_url": "https://keybase.io/3van/sigchain#2889547658ba5d24c087d6c5ae1e4fad59367bcbc45e004392a4ca3d908c43320f",
@@ -174,6 +186,18 @@
           "human_url": "dns://harbl.net",
           "service_url": "http://harbl.net",
           "presentation_group": "harbl.net",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "evanosaurus.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/3van/sigchain#ad0dddaf94bf42cc7cf5b569c9d06fa1479dfea9aa4f7e41e547cb6102f8cc5a0f",
+          "sig_id": "ad0dddaf94bf42cc7cf5b569c9d06fa1479dfea9aa4f7e41e547cb6102f8cc5a0f",
+          "proof_id": "bc00fd2533e0a6af7446e310",
+          "human_url": "dns://evanosaurus.com",
+          "service_url": "http://evanosaurus.com",
+          "presentation_group": "evanosaurus.com",
           "presentation_tag": "dns"
         }
       ]
@@ -224,7 +248,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/3van",
+          "nametag": "3van",
           "state": 1,
           "proof_url": "https://coinbase.com/3van/public-key",
           "sig_id": "24c67c5f0b98fe79823e680eb56957ea5c3ea2a274158c589138801a7b9225be0f",
@@ -291,6 +315,20 @@
           "presentation_tag": "dns"
         }
       ],
+      "evanosaur.us": [
+        {
+          "proof_type": "dns",
+          "nametag": "evanosaur.us",
+          "state": 1,
+          "proof_url": "https://keybase.io/3van/sigchain#367a3e9725214e2f10c149450f93fb01f189c9a3f00120d64aff077fabdc9df30f",
+          "sig_id": "367a3e9725214e2f10c149450f93fb01f189c9a3f00120d64aff077fabdc9df30f",
+          "proof_id": "4de096687b01f8b0fb7f9f10",
+          "human_url": "dns://evanosaur.us",
+          "service_url": "http://evanosaur.us",
+          "presentation_group": "evanosaur.us",
+          "presentation_tag": "dns"
+        }
+      ],
       "harbl.net": [
         {
           "proof_type": "dns",
@@ -304,9 +342,35 @@
           "presentation_group": "harbl.net",
           "presentation_tag": "dns"
         }
+      ],
+      "evanosaurus.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "evanosaurus.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/3van/sigchain#ad0dddaf94bf42cc7cf5b569c9d06fa1479dfea9aa4f7e41e547cb6102f8cc5a0f",
+          "sig_id": "ad0dddaf94bf42cc7cf5b569c9d06fa1479dfea9aa4f7e41e547cb6102f8cc5a0f",
+          "proof_id": "bc00fd2533e0a6af7446e310",
+          "human_url": "dns://evanosaurus.com",
+          "service_url": "http://evanosaurus.com",
+          "presentation_group": "evanosaurus.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "dns",
+        "nametag": "rawrtastic.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/3van/sigchain#02c92976a17b58bf8be5aafd7cfaf1d0cbf9de7727402c10d9092a49d78491950f",
+        "sig_id": "02c92976a17b58bf8be5aafd7cfaf1d0cbf9de7727402c10d9092a49d78491950f",
+        "proof_id": "1fa7838f61d10d4d62fff610",
+        "human_url": "dns://rawrtastic.net",
+        "service_url": "http://rawrtastic.net",
+        "presentation_group": "rawrtastic.net",
+        "presentation_tag": "dns"
+      },
       {
         "proof_type": "twitter",
         "nametag": "evankinney",
@@ -318,18 +382,6 @@
         "service_url": "https://twitter.com/evankinney",
         "presentation_group": "twitter",
         "presentation_tag": "tweet"
-      },
-      {
-        "proof_type": "github",
-        "nametag": "3van",
-        "state": 1,
-        "proof_url": "https://gist.github.com/9901200",
-        "sig_id": "6b30d7a286be8e9f90970919f0fa8a9d0647f279c9368439e04a2772580368660f",
-        "proof_id": "02a9446e316f535fd7a3eb10",
-        "human_url": "https://gist.github.com/9901200",
-        "service_url": "https://github.com/3van",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
       },
       {
         "proof_type": "reddit",
@@ -345,7 +397,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/3van",
+        "nametag": "3van",
         "state": 1,
         "proof_url": "https://coinbase.com/3van/public-key",
         "sig_id": "24c67c5f0b98fe79823e680eb56957ea5c3ea2a274158c589138801a7b9225be0f",
@@ -368,16 +420,16 @@
         "presentation_tag": "profile"
       },
       {
-        "proof_type": "dns",
-        "nametag": "rawrtastic.net",
+        "proof_type": "github",
+        "nametag": "3van",
         "state": 1,
-        "proof_url": "https://keybase.io/3van/sigchain#02c92976a17b58bf8be5aafd7cfaf1d0cbf9de7727402c10d9092a49d78491950f",
-        "sig_id": "02c92976a17b58bf8be5aafd7cfaf1d0cbf9de7727402c10d9092a49d78491950f",
-        "proof_id": "1fa7838f61d10d4d62fff610",
-        "human_url": "dns://rawrtastic.net",
-        "service_url": "http://rawrtastic.net",
-        "presentation_group": "rawrtastic.net",
-        "presentation_tag": "dns"
+        "proof_url": "https://gist.github.com/9901200",
+        "sig_id": "6b30d7a286be8e9f90970919f0fa8a9d0647f279c9368439e04a2772580368660f",
+        "proof_id": "02a9446e316f535fd7a3eb10",
+        "human_url": "https://gist.github.com/9901200",
+        "service_url": "https://github.com/3van",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
       },
       {
         "proof_type": "dns",
@@ -405,6 +457,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "evanosaur.us",
+        "state": 1,
+        "proof_url": "https://keybase.io/3van/sigchain#367a3e9725214e2f10c149450f93fb01f189c9a3f00120d64aff077fabdc9df30f",
+        "sig_id": "367a3e9725214e2f10c149450f93fb01f189c9a3f00120d64aff077fabdc9df30f",
+        "proof_id": "4de096687b01f8b0fb7f9f10",
+        "human_url": "dns://evanosaur.us",
+        "service_url": "http://evanosaur.us",
+        "presentation_group": "evanosaur.us",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "harbl.net",
         "state": 1,
         "proof_url": "https://keybase.io/3van/sigchain#2889547658ba5d24c087d6c5ae1e4fad59367bcbc45e004392a4ca3d908c43320f",
@@ -413,6 +477,18 @@
         "human_url": "dns://harbl.net",
         "service_url": "http://harbl.net",
         "presentation_group": "harbl.net",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "evanosaurus.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/3van/sigchain#ad0dddaf94bf42cc7cf5b569c9d06fa1479dfea9aa4f7e41e547cb6102f8cc5a0f",
+        "sig_id": "ad0dddaf94bf42cc7cf5b569c9d06fa1479dfea9aa4f7e41e547cb6102f8cc5a0f",
+        "proof_id": "bc00fd2533e0a6af7446e310",
+        "human_url": "dns://evanosaurus.com",
+        "service_url": "http://evanosaurus.com",
+        "presentation_group": "evanosaurus.com",
         "presentation_tag": "dns"
       }
     ]
