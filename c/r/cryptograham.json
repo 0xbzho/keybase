@@ -4,10 +4,16 @@
     "username": "cryptograham",
     "ctime": 1427836368,
     "mtime": 1427836368,
-    "id_version": 19,
+    "id_version": 25,
     "track_version": 2,
-    "last_id_change": 1451654123,
+    "last_id_change": 1473895968,
     "username_cased": "cryptograham"
+  },
+  "profile": {
+    "mtime": 1472573306,
+    "full_name": "Graham Loew",
+    "location": "Los Angeles, CA",
+    "bio": null
   },
   "public_keys": {
     "primary": {
@@ -51,10 +57,24 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "grahamloew",
+          "state": 1,
+          "proof_url": "https://twitter.com/grahamloew/status/770654155945807872",
+          "sig_id": "13fc0980106a66387e960be4f5827214c99aaf60c2ab6389854c7fefd663f1720f",
+          "proof_id": "53dddf23c22cd645b0a8bf10",
+          "human_url": "https://twitter.com/grahamloew/status/770654155945807872",
+          "service_url": "https://twitter.com/grahamloew",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/graham",
+          "nametag": "graham",
           "state": 1,
           "proof_url": "https://coinbase.com/graham/public-key",
           "sig_id": "d09db99d4e45bba2b442302fd7d598a42d89e8093cb0dfe57a21f8af29725fe60f",
@@ -67,10 +87,24 @@
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "grahamloew",
+          "state": 1,
+          "proof_url": "https://twitter.com/grahamloew/status/770654155945807872",
+          "sig_id": "13fc0980106a66387e960be4f5827214c99aaf60c2ab6389854c7fefd663f1720f",
+          "proof_id": "53dddf23c22cd645b0a8bf10",
+          "human_url": "https://twitter.com/grahamloew/status/770654155945807872",
+          "service_url": "https://twitter.com/grahamloew",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/graham",
+          "nametag": "graham",
           "state": 1,
           "proof_url": "https://coinbase.com/graham/public-key",
           "sig_id": "d09db99d4e45bba2b442302fd7d598a42d89e8093cb0dfe57a21f8af29725fe60f",
@@ -84,8 +118,20 @@
     },
     "all": [
       {
+        "proof_type": "twitter",
+        "nametag": "grahamloew",
+        "state": 1,
+        "proof_url": "https://twitter.com/grahamloew/status/770654155945807872",
+        "sig_id": "13fc0980106a66387e960be4f5827214c99aaf60c2ab6389854c7fefd663f1720f",
+        "proof_id": "53dddf23c22cd645b0a8bf10",
+        "human_url": "https://twitter.com/grahamloew/status/770654155945807872",
+        "service_url": "https://twitter.com/grahamloew",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
+      {
         "proof_type": "coinbase",
-        "nametag": "coinbase/graham",
+        "nametag": "graham",
         "state": 1,
         "proof_url": "https://coinbase.com/graham/public-key",
         "sig_id": "d09db99d4e45bba2b442302fd7d598a42d89e8093cb0dfe57a21f8af29725fe60f",
@@ -98,11 +144,19 @@
     ]
   },
   "cryptocurrency_addresses": {},
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/1cabd7be9cacddc23fa55d8728c72a05_360_360_square_360.jpeg",
+      "width": 360,
+      "height": 360,
+      "source": "twitter"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "6bdf486bbee7c3cd6a1abbfed71e75056b22ede1556c841bae65bb9558adf6c90f",
-      "seqno": 5,
-      "payload_hash": "097a2bf38ef8d32fcb4649f5817dee565604cecc2c24d06b6482c1679f24fd49"
+      "sig_id": "13fc0980106a66387e960be4f5827214c99aaf60c2ab6389854c7fefd663f1720f",
+      "seqno": 6,
+      "payload_hash": "79abbac33fd29ba4b0101eff001e9f012e68f2ccca51139b5b899a91d3841ae6"
     }
   },
   "devices": {}
