@@ -4,9 +4,9 @@
     "username": "lukemiles",
     "ctime": 1428454086,
     "mtime": 1428454086,
-    "id_version": 99,
+    "id_version": 103,
     "track_version": 8,
-    "last_id_change": 1469558123,
+    "last_id_change": 1473824471,
     "username_cased": "lukemiles"
   },
   "profile": {
@@ -74,7 +74,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/lukemiles",
+          "nametag": "lukemiles",
           "state": 1,
           "proof_url": "https://coinbase.com/lukemiles/public-key",
           "sig_id": "5c3ddef2461b6b460dca14ef61b891ded10d8b848c472e9527846d8ad078b5350f",
@@ -135,6 +135,18 @@
           "service_url": "https://luke.cat",
           "presentation_group": "luke.cat",
           "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "lukes.coffee",
+          "state": 1,
+          "proof_url": "http://lukes.coffee/keybase.txt",
+          "sig_id": "8a6ee0cb910512619bc2497a81f3e82507772b16ada50f31fa1e41e139cf36410f",
+          "proof_id": "9e1b561653b449a84737aa10",
+          "human_url": "http://lukes.coffee/keybase.txt",
+          "service_url": "http://lukes.coffee",
+          "presentation_group": "lukes.coffee",
+          "presentation_tag": "http"
         }
       ],
       "dns": [
@@ -206,7 +218,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/lukemiles",
+          "nametag": "lukemiles",
           "state": 1,
           "proof_url": "https://coinbase.com/lukemiles/public-key",
           "sig_id": "5c3ddef2461b6b460dca14ef61b891ded10d8b848c472e9527846d8ad078b5350f",
@@ -283,6 +295,32 @@
           "presentation_tag": "dns"
         }
       ],
+      "lukes.coffee": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "lukes.coffee",
+          "state": 1,
+          "proof_url": "http://lukes.coffee/keybase.txt",
+          "sig_id": "8a6ee0cb910512619bc2497a81f3e82507772b16ada50f31fa1e41e139cf36410f",
+          "proof_id": "9e1b561653b449a84737aa10",
+          "human_url": "http://lukes.coffee/keybase.txt",
+          "service_url": "http://lukes.coffee",
+          "presentation_group": "lukes.coffee",
+          "presentation_tag": "http"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "lukes.coffee",
+          "state": 1,
+          "proof_url": "https://keybase.io/lukemiles/sigchain#4463b184cc1dbea63f29cd5329785fc0a1bb682cd833e046c55b658c952204960f",
+          "sig_id": "4463b184cc1dbea63f29cd5329785fc0a1bb682cd833e046c55b658c952204960f",
+          "proof_id": "358b6abf560a5f9b9cd92f10",
+          "human_url": "dns://lukes.coffee",
+          "service_url": "http://lukes.coffee",
+          "presentation_group": "lukes.coffee",
+          "presentation_tag": "dns"
+        }
+      ],
       "luke.cat": [
         {
           "proof_type": "generic_web_site",
@@ -308,20 +346,6 @@
           "presentation_group": "luke.cat",
           "presentation_tag": "dns"
         }
-      ],
-      "lukes.coffee": [
-        {
-          "proof_type": "dns",
-          "nametag": "lukes.coffee",
-          "state": 1,
-          "proof_url": "https://keybase.io/lukemiles/sigchain#4463b184cc1dbea63f29cd5329785fc0a1bb682cd833e046c55b658c952204960f",
-          "sig_id": "4463b184cc1dbea63f29cd5329785fc0a1bb682cd833e046c55b658c952204960f",
-          "proof_id": "358b6abf560a5f9b9cd92f10",
-          "human_url": "dns://lukes.coffee",
-          "service_url": "http://lukes.coffee",
-          "presentation_group": "lukes.coffee",
-          "presentation_tag": "dns"
-        }
       ]
     },
     "all": [
@@ -338,16 +362,16 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "coinbase/lukemiles",
+        "proof_type": "dns",
+        "nametag": "luke.cat",
         "state": 1,
-        "proof_url": "https://coinbase.com/lukemiles/public-key",
-        "sig_id": "5c3ddef2461b6b460dca14ef61b891ded10d8b848c472e9527846d8ad078b5350f",
-        "proof_id": "9fdf4403536a78f51991d010",
-        "human_url": "https://coinbase.com/lukemiles/public-key",
-        "service_url": "https://coinbase.com/lukemiles",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
+        "proof_url": "https://keybase.io/lukemiles/sigchain#0921acf6e5bb33243521a614a77a79948eefa7a9da8485cff80dd6666ed9ec930f",
+        "sig_id": "0921acf6e5bb33243521a614a77a79948eefa7a9da8485cff80dd6666ed9ec930f",
+        "proof_id": "a812b5d77c1a7ed40f765d10",
+        "human_url": "dns://luke.cat",
+        "service_url": "http://luke.cat",
+        "presentation_group": "luke.cat",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "hackernews",
@@ -363,14 +387,14 @@
       },
       {
         "proof_type": "dns",
-        "nametag": "lukes.coffee",
+        "nametag": "restocks.io",
         "state": 1,
-        "proof_url": "https://keybase.io/lukemiles/sigchain#4463b184cc1dbea63f29cd5329785fc0a1bb682cd833e046c55b658c952204960f",
-        "sig_id": "4463b184cc1dbea63f29cd5329785fc0a1bb682cd833e046c55b658c952204960f",
-        "proof_id": "358b6abf560a5f9b9cd92f10",
-        "human_url": "dns://lukes.coffee",
-        "service_url": "http://lukes.coffee",
-        "presentation_group": "lukes.coffee",
+        "proof_url": "https://keybase.io/lukemiles/sigchain#624f3423b6fdbf7080b96a7998a44e0acee650e0cdd0eab8821c1f422f40edc20f",
+        "sig_id": "624f3423b6fdbf7080b96a7998a44e0acee650e0cdd0eab8821c1f422f40edc20f",
+        "proof_id": "57718c90af3653d7dc44fb10",
+        "human_url": "dns://restocks.io",
+        "service_url": "http://restocks.io",
+        "presentation_group": "restocks.io",
         "presentation_tag": "dns"
       },
       {
@@ -386,39 +410,51 @@
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "dns",
-        "nametag": "restocks.io",
+        "proof_type": "coinbase",
+        "nametag": "lukemiles",
         "state": 1,
-        "proof_url": "https://keybase.io/lukemiles/sigchain#624f3423b6fdbf7080b96a7998a44e0acee650e0cdd0eab8821c1f422f40edc20f",
-        "sig_id": "624f3423b6fdbf7080b96a7998a44e0acee650e0cdd0eab8821c1f422f40edc20f",
-        "proof_id": "57718c90af3653d7dc44fb10",
-        "human_url": "dns://restocks.io",
-        "service_url": "http://restocks.io",
-        "presentation_group": "restocks.io",
-        "presentation_tag": "dns"
+        "proof_url": "https://coinbase.com/lukemiles/public-key",
+        "sig_id": "5c3ddef2461b6b460dca14ef61b891ded10d8b848c472e9527846d8ad078b5350f",
+        "proof_id": "9fdf4403536a78f51991d010",
+        "human_url": "https://coinbase.com/lukemiles/public-key",
+        "service_url": "https://coinbase.com/lukemiles",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
-        "nametag": "luke.cat",
+        "nametag": "lukes.coffee",
         "state": 1,
-        "proof_url": "https://keybase.io/lukemiles/sigchain#0921acf6e5bb33243521a614a77a79948eefa7a9da8485cff80dd6666ed9ec930f",
-        "sig_id": "0921acf6e5bb33243521a614a77a79948eefa7a9da8485cff80dd6666ed9ec930f",
-        "proof_id": "a812b5d77c1a7ed40f765d10",
-        "human_url": "dns://luke.cat",
-        "service_url": "http://luke.cat",
-        "presentation_group": "luke.cat",
+        "proof_url": "https://keybase.io/lukemiles/sigchain#4463b184cc1dbea63f29cd5329785fc0a1bb682cd833e046c55b658c952204960f",
+        "sig_id": "4463b184cc1dbea63f29cd5329785fc0a1bb682cd833e046c55b658c952204960f",
+        "proof_id": "358b6abf560a5f9b9cd92f10",
+        "human_url": "dns://lukes.coffee",
+        "service_url": "http://lukes.coffee",
+        "presentation_group": "lukes.coffee",
         "presentation_tag": "dns"
       },
       {
         "proof_type": "generic_web_site",
-        "nametag": "restocks.io",
+        "nametag": "lukes.coffee",
         "state": 1,
-        "proof_url": "https://restocks.io/keybase.txt",
-        "sig_id": "9209f74edb48a1979936d3c8a44a2f1bf85739977743c3bb2bd95bc709921b900f",
-        "proof_id": "87572695a3312d79e3913e10",
-        "human_url": "https://restocks.io/keybase.txt",
-        "service_url": "https://restocks.io",
-        "presentation_group": "restocks.io",
+        "proof_url": "http://lukes.coffee/keybase.txt",
+        "sig_id": "8a6ee0cb910512619bc2497a81f3e82507772b16ada50f31fa1e41e139cf36410f",
+        "proof_id": "9e1b561653b449a84737aa10",
+        "human_url": "http://lukes.coffee/keybase.txt",
+        "service_url": "http://lukes.coffee",
+        "presentation_group": "lukes.coffee",
+        "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "luke.cat",
+        "state": 1,
+        "proof_url": "https://luke.cat/keybase.txt",
+        "sig_id": "ae89ce18866b5c400f3dc2708b81e68b40a777bba90fe9660ecf3f08cb061ab00f",
+        "proof_id": "cbaa116ed284056afaf3a210",
+        "human_url": "https://luke.cat/keybase.txt",
+        "service_url": "https://luke.cat",
+        "presentation_group": "luke.cat",
         "presentation_tag": "https"
       },
       {
@@ -435,14 +471,14 @@
       },
       {
         "proof_type": "generic_web_site",
-        "nametag": "luke.cat",
+        "nametag": "restocks.io",
         "state": 1,
-        "proof_url": "https://luke.cat/keybase.txt",
-        "sig_id": "ae89ce18866b5c400f3dc2708b81e68b40a777bba90fe9660ecf3f08cb061ab00f",
-        "proof_id": "cbaa116ed284056afaf3a210",
-        "human_url": "https://luke.cat/keybase.txt",
-        "service_url": "https://luke.cat",
-        "presentation_group": "luke.cat",
+        "proof_url": "https://restocks.io/keybase.txt",
+        "sig_id": "9209f74edb48a1979936d3c8a44a2f1bf85739977743c3bb2bd95bc709921b900f",
+        "proof_id": "87572695a3312d79e3913e10",
+        "human_url": "https://restocks.io/keybase.txt",
+        "service_url": "https://restocks.io",
+        "presentation_group": "restocks.io",
         "presentation_tag": "https"
       }
     ]
@@ -457,7 +493,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/259da5c00d43854cb349c52196bc2905_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2531feb9710f13c7a128e02ed7ee3805_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
