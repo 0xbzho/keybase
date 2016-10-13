@@ -4,9 +4,9 @@
     "username": "g5pw",
     "ctime": 1402613310,
     "mtime": 1402613310,
-    "id_version": 47,
+    "id_version": 53,
     "track_version": 4,
-    "last_id_change": 1462020446,
+    "last_id_change": 1473752280,
     "username_cased": "g5pw"
   },
   "profile": {
@@ -110,6 +110,20 @@
           "presentation_tag": "post"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "g5pw",
+          "state": 1,
+          "proof_url": "https://coinbase.com/g5pw/public-key",
+          "sig_id": "bddf4c4dc0227bfd70c3565ed3de8f1ebe786afd181d34734a8340707bec67370f",
+          "proof_id": "fede9f372c379d6193040910",
+          "human_url": "https://coinbase.com/g5pw/public-key",
+          "service_url": "https://coinbase.com/g5pw",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -122,6 +136,20 @@
           "service_url": "https://news.ycombinator.com/user?id=g5pw",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "g5pw.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/g5pw/sigchain#08de47f4e3fbedbeab1adb1e73429c385b7f62395b59e1abd6de7f27a88e001f0f",
+          "sig_id": "08de47f4e3fbedbeab1adb1e73429c385b7f62395b59e1abd6de7f27a88e001f0f",
+          "proof_id": "fdcf18bd2731427872124910",
+          "human_url": "dns://g5pw.me",
+          "service_url": "http://g5pw.me",
+          "presentation_group": "g5pw.me",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -168,6 +196,20 @@
           "presentation_tag": "post"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "g5pw",
+          "state": 1,
+          "proof_url": "https://coinbase.com/g5pw/public-key",
+          "sig_id": "bddf4c4dc0227bfd70c3565ed3de8f1ebe786afd181d34734a8340707bec67370f",
+          "proof_id": "fede9f372c379d6193040910",
+          "human_url": "https://coinbase.com/g5pw/public-key",
+          "service_url": "https://coinbase.com/g5pw",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -180,6 +222,20 @@
           "service_url": "https://news.ycombinator.com/user?id=g5pw",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "g5pw.me": [
+        {
+          "proof_type": "dns",
+          "nametag": "g5pw.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/g5pw/sigchain#08de47f4e3fbedbeab1adb1e73429c385b7f62395b59e1abd6de7f27a88e001f0f",
+          "sig_id": "08de47f4e3fbedbeab1adb1e73429c385b7f62395b59e1abd6de7f27a88e001f0f",
+          "proof_id": "fdcf18bd2731427872124910",
+          "human_url": "dns://g5pw.me",
+          "service_url": "http://g5pw.me",
+          "presentation_group": "g5pw.me",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -221,6 +277,18 @@
         "presentation_tag": "post"
       },
       {
+        "proof_type": "coinbase",
+        "nametag": "g5pw",
+        "state": 1,
+        "proof_url": "https://coinbase.com/g5pw/public-key",
+        "sig_id": "bddf4c4dc0227bfd70c3565ed3de8f1ebe786afd181d34734a8340707bec67370f",
+        "proof_id": "fede9f372c379d6193040910",
+        "human_url": "https://coinbase.com/g5pw/public-key",
+        "service_url": "https://coinbase.com/g5pw",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "hackernews",
         "nametag": "g5pw",
         "state": 1,
@@ -231,6 +299,18 @@
         "service_url": "https://news.ycombinator.com/user?id=g5pw",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "g5pw.me",
+        "state": 1,
+        "proof_url": "https://keybase.io/g5pw/sigchain#08de47f4e3fbedbeab1adb1e73429c385b7f62395b59e1abd6de7f27a88e001f0f",
+        "sig_id": "08de47f4e3fbedbeab1adb1e73429c385b7f62395b59e1abd6de7f27a88e001f0f",
+        "proof_id": "fdcf18bd2731427872124910",
+        "human_url": "dns://g5pw.me",
+        "service_url": "http://g5pw.me",
+        "presentation_group": "g5pw.me",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -245,9 +325,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "88efbfd675722e53066645f66ae35f8ef6c4443d04c241aed10234cc12631d720f",
-      "seqno": 16,
-      "payload_hash": "c068b4543470708b57c82b3e8af937d5efd0989b33900a0a9821b2bd84fb2f92"
+      "sig_id": "bddf4c4dc0227bfd70c3565ed3de8f1ebe786afd181d34734a8340707bec67370f",
+      "seqno": 17,
+      "payload_hash": "58f5ef3347c29614bbe0fc233c4af1a50d51a01e0a3c8c1f75a39a61248e3755"
     }
   },
   "devices": {
