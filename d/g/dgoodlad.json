@@ -4,9 +4,9 @@
     "username": "dgoodlad",
     "ctime": 1417144982,
     "mtime": 1417144982,
-    "id_version": 48,
-    "track_version": 5,
-    "last_id_change": 1461684096,
+    "id_version": 53,
+    "track_version": 11,
+    "last_id_change": 1471180786,
     "username_cased": "dgoodlad"
   },
   "profile": {
@@ -46,16 +46,20 @@
       "012103fd5f432263b4b2fded87601f8c4ab930526013beb61c71d92d20da2026ec230a",
       "0120fe2bc19e32f8dda33d31d1c6516d5e255ddf5edd4bba3d385f521ea5d8c8db2c0a",
       "012087f76488a4de6676434e554cde7edf515b24fad2022dd49ebc00f5740a8c70030a",
-      "0121c0f7f5b247679597144e29cbda32cbe3591d92ca26cc969e449ed8f2ed2e84670a"
+      "0121c0f7f5b247679597144e29cbda32cbe3591d92ca26cc969e449ed8f2ed2e84670a",
+      "012077fc3fd656031a1f4b2580235d00f938b31987216849bb9123bd27d5012d43450a",
+      "01214f499cf9fc6a9d76a30bc0b520bf6d7d249331f8ae036a7f8b696d0e96647f330a",
+      "0121aac7a35e9ae28d77396ebc1617a407384eb55cd48d4332388d42625786eec30a0a",
+      "0120319a8a6c62900829bc4cf9d178450f3818945c76b17cfadde889a28667b83bd70a"
     ],
     "subkeys": [
-      "012103fd5f432263b4b2fded87601f8c4ab930526013beb61c71d92d20da2026ec230a",
-      "0121c0f7f5b247679597144e29cbda32cbe3591d92ca26cc969e449ed8f2ed2e84670a"
+      "01214f499cf9fc6a9d76a30bc0b520bf6d7d249331f8ae036a7f8b696d0e96647f330a",
+      "0121aac7a35e9ae28d77396ebc1617a407384eb55cd48d4332388d42625786eec30a0a"
     ],
     "sibkeys": [
       "01012471c7fa8479195c60f909a1cc68fbaf09376ad7ddb9f0c31013c331332a201b0a",
-      "0120fe2bc19e32f8dda33d31d1c6516d5e255ddf5edd4bba3d385f521ea5d8c8db2c0a",
-      "012087f76488a4de6676434e554cde7edf515b24fad2022dd49ebc00f5740a8c70030a"
+      "012077fc3fd656031a1f4b2580235d00f938b31987216849bb9123bd27d5012d43450a",
+      "0120319a8a6c62900829bc4cf9d178450f3818945c76b17cfadde889a28667b83bd70a"
     ],
     "families": {
       "010111f3fddee436c56a5b4c01a80fab5a7ccb359dd050e5a80e62e69d079c32ccfe0a": [
@@ -73,7 +77,11 @@
         "012103fd5f432263b4b2fded87601f8c4ab930526013beb61c71d92d20da2026ec230a",
         "0120fe2bc19e32f8dda33d31d1c6516d5e255ddf5edd4bba3d385f521ea5d8c8db2c0a",
         "012087f76488a4de6676434e554cde7edf515b24fad2022dd49ebc00f5740a8c70030a",
-        "0121c0f7f5b247679597144e29cbda32cbe3591d92ca26cc969e449ed8f2ed2e84670a"
+        "0121c0f7f5b247679597144e29cbda32cbe3591d92ca26cc969e449ed8f2ed2e84670a",
+        "012077fc3fd656031a1f4b2580235d00f938b31987216849bb9123bd27d5012d43450a",
+        "01214f499cf9fc6a9d76a30bc0b520bf6d7d249331f8ae036a7f8b696d0e96647f330a",
+        "0121aac7a35e9ae28d77396ebc1617a407384eb55cd48d4332388d42625786eec30a0a",
+        "0120319a8a6c62900829bc4cf9d178450f3818945c76b17cfadde889a28667b83bd70a"
       ]
     },
     "eldest_kid": "01012471c7fa8479195c60f909a1cc68fbaf09376ad7ddb9f0c31013c331332a201b0a",
@@ -111,6 +119,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "goodlad.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/dgoodlad/sigchain#65e73707e39f92d9a021c734161951555497bf50bdf8797816a5d99799f668ec0f",
+          "sig_id": "65e73707e39f92d9a021c734161951555497bf50bdf8797816a5d99799f668ec0f",
+          "proof_id": "4217261565d4dd8a0dac9710",
+          "human_url": "dns://goodlad.net",
+          "service_url": "http://goodlad.net",
+          "presentation_group": "goodlad.net",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -141,6 +163,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "goodlad.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "goodlad.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/dgoodlad/sigchain#65e73707e39f92d9a021c734161951555497bf50bdf8797816a5d99799f668ec0f",
+          "sig_id": "65e73707e39f92d9a021c734161951555497bf50bdf8797816a5d99799f668ec0f",
+          "proof_id": "4217261565d4dd8a0dac9710",
+          "human_url": "dns://goodlad.net",
+          "service_url": "http://goodlad.net",
+          "presentation_group": "goodlad.net",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -167,6 +203,18 @@
         "service_url": "https://github.com/dgoodlad",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "goodlad.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/dgoodlad/sigchain#65e73707e39f92d9a021c734161951555497bf50bdf8797816a5d99799f668ec0f",
+        "sig_id": "65e73707e39f92d9a021c734161951555497bf50bdf8797816a5d99799f668ec0f",
+        "proof_id": "4217261565d4dd8a0dac9710",
+        "human_url": "dns://goodlad.net",
+        "service_url": "http://goodlad.net",
+        "presentation_group": "goodlad.net",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -181,47 +229,47 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "00a3679e0e0c04c855fc26acbbe3e8ee2770fa573784150eab307d82c0b6eb390f",
-      "seqno": 31,
-      "payload_hash": "66fdfffe698178473022c4197012dccf1a2a321765c34693ff45be3ff7c0a216"
+      "sig_id": "a24fa76e92f1ce48d58443c8314eed60ac7be6d83835b9bd45c703f2b55a007a0f",
+      "seqno": 44,
+      "payload_hash": "e2676a58f076748f27df0fa5774960263d2fcc1cd891c97962a2ca30a2d72aa5"
     }
   },
   "devices": {
-    "726a311c8060ad25199037f6c6b9bc18": {
-      "type": "backup",
-      "ctime": 1461684096,
-      "mtime": 1461684096,
-      "name": "catalog pulp",
+    "022e40116fcc04e3643c96dd9a93d318": {
+      "type": "desktop",
+      "ctime": 1471178236,
+      "mtime": 1471178236,
+      "name": "feather3",
       "status": 1,
       "keys": [
         {
-          "kid": "012087f76488a4de6676434e554cde7edf515b24fad2022dd49ebc00f5740a8c70030a",
+          "kid": "012077fc3fd656031a1f4b2580235d00f938b31987216849bb9123bd27d5012d43450a",
           "key_role": 1,
-          "sig_id": "3a963b59939747f8106d105f61bb222453be4aebc4bdf5d241fab4334e15ea8d0f"
+          "sig_id": "92685f6a08857b2e52cbbdd62ec2964070afef8fcf834157be5a6043fb50a9b50f"
         },
         {
-          "kid": "0121c0f7f5b247679597144e29cbda32cbe3591d92ca26cc969e449ed8f2ed2e84670a",
+          "kid": "01214f499cf9fc6a9d76a30bc0b520bf6d7d249331f8ae036a7f8b696d0e96647f330a",
           "key_role": 2,
-          "sig_id": "9daabd8a1c0000a30274b0cda33a9578cc64814ef464bae61233365045de60a80f"
+          "sig_id": "9c021fb503eccd1b425c3daae05357f749adf69b128b9a372862ebdc57b0d7860f"
         }
       ]
     },
-    "e6d4a653d3fdbe7c80075b29a6423618": {
-      "type": "desktop",
-      "ctime": 1461684095,
-      "mtime": 1461684095,
-      "name": "feather2",
+    "6cd3d9da11e22d0df6f576d7cb9eb218": {
+      "type": "backup",
+      "ctime": 1471178472,
+      "mtime": 1471178472,
+      "name": "tonight elbow",
       "status": 1,
       "keys": [
         {
-          "kid": "0120fe2bc19e32f8dda33d31d1c6516d5e255ddf5edd4bba3d385f521ea5d8c8db2c0a",
+          "kid": "0120319a8a6c62900829bc4cf9d178450f3818945c76b17cfadde889a28667b83bd70a",
           "key_role": 1,
-          "sig_id": "2e27934f77829f8dde834166a8dfddf45f18053fd0c8596921fb42558e94cd180f"
+          "sig_id": "3027aab3f221aa478831bfbf3687177af5403615f3c490cf99f507782b209e490f"
         },
         {
-          "kid": "012103fd5f432263b4b2fded87601f8c4ab930526013beb61c71d92d20da2026ec230a",
+          "kid": "0121aac7a35e9ae28d77396ebc1617a407384eb55cd48d4332388d42625786eec30a0a",
           "key_role": 2,
-          "sig_id": "37b7219e56b2f5c76dc35f83f31f032880e0ada7b78194945c2b07620eb4139f0f"
+          "sig_id": "2fed3f99259493fb542238b9365c5edb9da117be129ee9450d318609c6c495e30f"
         }
       ]
     }
