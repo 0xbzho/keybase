@@ -4,9 +4,9 @@
     "username": "rodbegbie",
     "ctime": 1402683860,
     "mtime": 1402683860,
-    "id_version": 73,
-    "track_version": 58,
-    "last_id_change": 1469402214,
+    "id_version": 76,
+    "track_version": 61,
+    "last_id_change": 1475966055,
     "username_cased": "rodbegbie"
   },
   "profile": {
@@ -44,20 +44,24 @@
       "012172da122eedff003d84c19411c56e19cd073fa3099f7557449c104be24e8c704c0a",
       "01200c4d920de3ea5accf2ceb7cfd326bd7a2201c5079d298b5f72d6a5a037998fda0a",
       "01209cf62cce851fa76ecda54bc38ad48d6c61149b8db97518469bb24624d2ca09c30a",
-      "0121b5cf1b52444d1fac573938cb121ce38ae2320933194d17e5ed032d1dbb1b4d1a0a"
+      "0121b5cf1b52444d1fac573938cb121ce38ae2320933194d17e5ed032d1dbb1b4d1a0a",
+      "01206e5e4dcf4ba745df8b046b0a711d4fb86fb8a36229965eed9a0daa62cbf063750a",
+      "0121c8ea328e74b4949575d22ca776725f6533cbdf6bdac3d8e1ad37bfe5f567a2520a"
     ],
     "subkeys": [
       "0121f1a40c1ee0b783475ae9a4de72a08551f85f5341cfef777425b5564f1d44e0000a",
       "0121b340a4cd981f991b2c0841d749e84c3ad8cd92676835152b799797ae0cc145470a",
       "0121cdb350a0028cb7e2516a0ad6fb310bdfbe3efd919989076d11abc8642caf8c330a",
-      "0121b5cf1b52444d1fac573938cb121ce38ae2320933194d17e5ed032d1dbb1b4d1a0a"
+      "0121b5cf1b52444d1fac573938cb121ce38ae2320933194d17e5ed032d1dbb1b4d1a0a",
+      "0121c8ea328e74b4949575d22ca776725f6533cbdf6bdac3d8e1ad37bfe5f567a2520a"
     ],
     "sibkeys": [
       "0101bb015356bc90c4eaac2936ec65edec2aace66a15d414f5218ce9e1cf64dc55f40a",
       "0120a2a1f438bde7f6e9ce7d10602ec0a57ca58f3e9b50542fbfd104bad5810e0f590a",
       "012090c41f89a7e136abe2a1c53160f15ea3abdc2570c4317e36cb79270277a346d40a",
       "01207f5425d944024698f1fa6e02807c019d23115e9dc2d7413779dbce49ef12f3000a",
-      "01209cf62cce851fa76ecda54bc38ad48d6c61149b8db97518469bb24624d2ca09c30a"
+      "01209cf62cce851fa76ecda54bc38ad48d6c61149b8db97518469bb24624d2ca09c30a",
+      "01206e5e4dcf4ba745df8b046b0a711d4fb86fb8a36229965eed9a0daa62cbf063750a"
     ],
     "families": {
       "0101bb015356bc90c4eaac2936ec65edec2aace66a15d414f5218ce9e1cf64dc55f40a": [
@@ -71,7 +75,9 @@
         "012172da122eedff003d84c19411c56e19cd073fa3099f7557449c104be24e8c704c0a",
         "01200c4d920de3ea5accf2ceb7cfd326bd7a2201c5079d298b5f72d6a5a037998fda0a",
         "01209cf62cce851fa76ecda54bc38ad48d6c61149b8db97518469bb24624d2ca09c30a",
-        "0121b5cf1b52444d1fac573938cb121ce38ae2320933194d17e5ed032d1dbb1b4d1a0a"
+        "0121b5cf1b52444d1fac573938cb121ce38ae2320933194d17e5ed032d1dbb1b4d1a0a",
+        "01206e5e4dcf4ba745df8b046b0a711d4fb86fb8a36229965eed9a0daa62cbf063750a",
+        "0121c8ea328e74b4949575d22ca776725f6533cbdf6bdac3d8e1ad37bfe5f567a2520a"
       ]
     },
     "eldest_kid": "0101bb015356bc90c4eaac2936ec65edec2aace66a15d414f5218ce9e1cf64dc55f40a",
@@ -127,7 +133,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/rodbegbie",
+          "nametag": "rodbegbie",
           "state": 1,
           "proof_url": "https://coinbase.com/rodbegbie/public-key",
           "sig_id": "5cea7e1079d0d01ff444be4e607feb2e18edd8c070e4857332a995b317f19f030f",
@@ -237,7 +243,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/rodbegbie",
+          "nametag": "rodbegbie",
           "state": 1,
           "proof_url": "https://coinbase.com/rodbegbie/public-key",
           "sig_id": "5cea7e1079d0d01ff444be4e607feb2e18edd8c070e4857332a995b317f19f030f",
@@ -344,7 +350,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/rodbegbie",
+        "nametag": "rodbegbie",
         "state": 1,
         "proof_url": "https://coinbase.com/rodbegbie/public-key",
         "sig_id": "5cea7e1079d0d01ff444be4e607feb2e18edd8c070e4857332a995b317f19f030f",
@@ -422,12 +428,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5f7ec13402a294117c69d5c3d045b473f928fbb0dfb101695d8bcbff54e57cea0f",
-      "seqno": 84,
-      "payload_hash": "4969603193e1daad9301ae0ca63531495d70fd9ce7ff77e2c789c10134aadc44"
+      "sig_id": "84d0910167ad55f35465d0b910d6386d72aa768af6ed528d842c3d77b39754ab0f",
+      "seqno": 89,
+      "payload_hash": "71876ff880bc244ec2970ecb0baf8e3cb90fd4c69f7f9e72e3b79c8928278aa7"
     }
   },
   "devices": {
+    "8d610b64af9eb63e20dba18b1223da18": {
+      "type": "desktop",
+      "ctime": 1474502841,
+      "mtime": 1474502841,
+      "name": "DB laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01206e5e4dcf4ba745df8b046b0a711d4fb86fb8a36229965eed9a0daa62cbf063750a",
+          "key_role": 1,
+          "sig_id": "50baa3e2ab8349cb2eb9af43b0a16196bbdf08d5c204a25b974e31fe134cd6ed0f"
+        },
+        {
+          "kid": "0121c8ea328e74b4949575d22ca776725f6533cbdf6bdac3d8e1ad37bfe5f567a2520a",
+          "key_role": 2,
+          "sig_id": "7f064fd3bbd2ff0987e489d60573b9601ba064f1c9267577ee0f30a260d7c4260f"
+        }
+      ]
+    },
     "9704ca0424308b4ed219e98152959c18": {
       "type": "desktop",
       "ctime": 1469402214,
