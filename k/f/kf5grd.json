@@ -4,9 +4,9 @@
     "username": "kf5grd",
     "ctime": 1459893250,
     "mtime": 1459893250,
-    "id_version": 41,
-    "track_version": 5,
-    "last_id_change": 1469838542,
+    "id_version": 42,
+    "track_version": 7,
+    "last_id_change": 1471842782,
     "username_cased": "kf5grd"
   },
   "profile": {
@@ -42,18 +42,20 @@
       "0121dac1e3f5437c748a6b82e5c170a3b117eceb0f9879b61d4ac424a387639aa57e0a",
       "0120ac675731d86e4f0347dc297dc54c052d73e651d3ae44a1c7fe3813ec8692f6bb0a",
       "0120780cb1b713d6fd00aaa89453fef440d2e359aa8b388caf8242af8601178497a10a",
-      "01214c966aeb2d5a41200b471ee400a48fc1272b2d4903ed27b4dca49c966a8a11450a"
+      "01214c966aeb2d5a41200b471ee400a48fc1272b2d4903ed27b4dca49c966a8a11450a",
+      "0120fe4f070ba0b5e6bbb5399eb82d7cf002f02e1f9c0a38aacf917ecf47c8de3d140a",
+      "0121646bc5cba15078766843b36a80f7d184088cc9433691a59a8cf8ea230361a1080a"
     ],
     "subkeys": [
       "01217c35ed253624712c1cceff2d62a87b3a6162886e99cadc1bb32e7126801cb9280a",
-      "0121dac1e3f5437c748a6b82e5c170a3b117eceb0f9879b61d4ac424a387639aa57e0a",
-      "01214c966aeb2d5a41200b471ee400a48fc1272b2d4903ed27b4dca49c966a8a11450a"
+      "01214c966aeb2d5a41200b471ee400a48fc1272b2d4903ed27b4dca49c966a8a11450a",
+      "0121646bc5cba15078766843b36a80f7d184088cc9433691a59a8cf8ea230361a1080a"
     ],
     "sibkeys": [
       "01019c0341dcf27926c32b7e92c46087a7a6b26ee6583ee57c9ef009f4c9bd51d4d60a",
       "01207220cf4a2fdf411d9d16800b9eace9d4ad99fc30274307f72b02c8b5449734f00a",
-      "0120ac675731d86e4f0347dc297dc54c052d73e651d3ae44a1c7fe3813ec8692f6bb0a",
-      "0120780cb1b713d6fd00aaa89453fef440d2e359aa8b388caf8242af8601178497a10a"
+      "0120780cb1b713d6fd00aaa89453fef440d2e359aa8b388caf8242af8601178497a10a",
+      "0120fe4f070ba0b5e6bbb5399eb82d7cf002f02e1f9c0a38aacf917ecf47c8de3d140a"
     ],
     "families": {
       "01019c0341dcf27926c32b7e92c46087a7a6b26ee6583ee57c9ef009f4c9bd51d4d60a": [
@@ -65,7 +67,9 @@
         "0121dac1e3f5437c748a6b82e5c170a3b117eceb0f9879b61d4ac424a387639aa57e0a",
         "0120ac675731d86e4f0347dc297dc54c052d73e651d3ae44a1c7fe3813ec8692f6bb0a",
         "0120780cb1b713d6fd00aaa89453fef440d2e359aa8b388caf8242af8601178497a10a",
-        "01214c966aeb2d5a41200b471ee400a48fc1272b2d4903ed27b4dca49c966a8a11450a"
+        "01214c966aeb2d5a41200b471ee400a48fc1272b2d4903ed27b4dca49c966a8a11450a",
+        "0120fe4f070ba0b5e6bbb5399eb82d7cf002f02e1f9c0a38aacf917ecf47c8de3d140a",
+        "0121646bc5cba15078766843b36a80f7d184088cc9433691a59a8cf8ea230361a1080a"
       ]
     },
     "eldest_kid": "01019c0341dcf27926c32b7e92c46087a7a6b26ee6583ee57c9ef009f4c9bd51d4d60a",
@@ -93,7 +97,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/kf5grd",
+          "nametag": "kf5grd",
           "state": 1,
           "proof_url": "https://coinbase.com/kf5grd/public-key",
           "sig_id": "ba5946c35ff49019891ca05eeae415eeabd563f1c2f0ebe14f441dae85d799940f",
@@ -151,7 +155,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/kf5grd",
+          "nametag": "kf5grd",
           "state": 1,
           "proof_url": "https://coinbase.com/kf5grd/public-key",
           "sig_id": "ba5946c35ff49019891ca05eeae415eeabd563f1c2f0ebe14f441dae85d799940f",
@@ -204,7 +208,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/kf5grd",
+        "nametag": "kf5grd",
         "state": 1,
         "proof_url": "https://coinbase.com/kf5grd/public-key",
         "sig_id": "ba5946c35ff49019891ca05eeae415eeabd563f1c2f0ebe14f441dae85d799940f",
@@ -258,12 +262,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "657608f1a96e33a74d467ef941ebe29ee62b06c19cee3ba0c7ab88d69b4f3a3f0f",
-      "seqno": 23,
-      "payload_hash": "9213db5bff1ab22be8592d5e97bc27cc0e410fa7fa85c5760acbe975706406f8"
+      "sig_id": "e4aa4b18bb4b1a40a45b2e5dc5abce1fecb24e9c93941b7e6fb7e1b3214cc65c0f",
+      "seqno": 28,
+      "payload_hash": "a047766c5db065c838a483c492e0bf78c397aa5fb4e1d3a97d87235864a5ae6d"
     }
   },
   "devices": {
+    "00f56a1493612348ebf15f8ae6c57d18": {
+      "type": "desktop",
+      "ctime": 1471842782,
+      "mtime": 1471842782,
+      "name": "laptop_01",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120fe4f070ba0b5e6bbb5399eb82d7cf002f02e1f9c0a38aacf917ecf47c8de3d140a",
+          "key_role": 1,
+          "sig_id": "a8337f47c8b61ba2035368574868bb224dfe352e8e392fc6e8471fd30b48f0a80f"
+        },
+        {
+          "kid": "0121646bc5cba15078766843b36a80f7d184088cc9433691a59a8cf8ea230361a1080a",
+          "key_role": 2,
+          "sig_id": "5250579e5e7703169b261d91a229d67b297bc86b9c69e420fca4e3b78cbcebcb0f"
+        }
+      ]
+    },
     "4dfc29a1b3120ca60daffe22cafb3418": {
       "type": "backup",
       "ctime": 1468961633,
@@ -299,25 +322,6 @@
           "kid": "01214c966aeb2d5a41200b471ee400a48fc1272b2d4903ed27b4dca49c966a8a11450a",
           "key_role": 2,
           "sig_id": "94a8cceb7a95f7edd2ae5999eacf6049c724f788a2dfca6b896061f3bd56a0320f"
-        }
-      ]
-    },
-    "de9a58eee1b53d8014aa6e7a1e423718": {
-      "type": "desktop",
-      "ctime": 1469504346,
-      "mtime": 1469504346,
-      "name": "laptop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120ac675731d86e4f0347dc297dc54c052d73e651d3ae44a1c7fe3813ec8692f6bb0a",
-          "key_role": 1,
-          "sig_id": "eddbc722f4fbcfcc29dc50bb72be6349c17579ffbe401b813e887ac61df024a60f"
-        },
-        {
-          "kid": "0121dac1e3f5437c748a6b82e5c170a3b117eceb0f9879b61d4ac424a387639aa57e0a",
-          "key_role": 2,
-          "sig_id": "e2e56f39d9e760db8c932807dcba7261f5feb2f0d3db9e9def6473482a8b99ed0f"
         }
       ]
     }
