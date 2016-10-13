@@ -4,9 +4,9 @@
     "username": "nihilnegativum",
     "ctime": 1417907855,
     "mtime": 1417907855,
-    "id_version": 79,
+    "id_version": 81,
     "track_version": 21,
-    "last_id_change": 1466955630,
+    "last_id_change": 1474006112,
     "username_cased": "nihilnegativum"
   },
   "profile": {
@@ -41,13 +41,11 @@
       "0121556278420dff8757909cb49c2735d9fc51307bc8b74798099802698b0ced0d2f0a"
     ],
     "subkeys": [
-      "0121ca6b779e987c1d4c2881e17bfed3769c6913c49dfefd10a9da78675e3c3a01760a",
-      "0121556278420dff8757909cb49c2735d9fc51307bc8b74798099802698b0ced0d2f0a"
+      "0121ca6b779e987c1d4c2881e17bfed3769c6913c49dfefd10a9da78675e3c3a01760a"
     ],
     "sibkeys": [
       "0101e6fe2cbf9908bf19877b7ce65076c9bc5f9d0e6d39226bd3e936c3c0da905ad50a",
-      "012070d499f8e5d222082a4518686b2533e874c8829f952f45c9d29a2c46f62e1c7f0a",
-      "01205626da4f8dd30f6ef826c1e25f9f1222c6e0eea709bfa4f1f8129c8fd5581d2d0a"
+      "012070d499f8e5d222082a4518686b2533e874c8829f952f45c9d29a2c46f62e1c7f0a"
     ],
     "families": {
       "0101e6fe2cbf9908bf19877b7ce65076c9bc5f9d0e6d39226bd3e936c3c0da905ad50a": [
@@ -111,7 +109,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/nihilnegativum",
+          "nametag": "nihilnegativum",
           "state": 1,
           "proof_url": "https://coinbase.com/nihilnegativum/public-key",
           "sig_id": "dedc60bc7bf133af6f1111780b57d940073fac86cc8bcacbc5e4e26f18cb4ad70f",
@@ -183,7 +181,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/nihilnegativum",
+          "nametag": "nihilnegativum",
           "state": 1,
           "proof_url": "https://coinbase.com/nihilnegativum/public-key",
           "sig_id": "dedc60bc7bf133af6f1111780b57d940073fac86cc8bcacbc5e4e26f18cb4ad70f",
@@ -248,7 +246,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/nihilnegativum",
+        "nametag": "nihilnegativum",
         "state": 1,
         "proof_url": "https://coinbase.com/nihilnegativum/public-key",
         "sig_id": "dedc60bc7bf133af6f1111780b57d940073fac86cc8bcacbc5e4e26f18cb4ad70f",
@@ -290,9 +288,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "9660210f59ac46211eea9ffc1374fe6830cf06e600dc0ee8082a9d3a24c505240f",
-      "seqno": 40,
-      "payload_hash": "7893989cab517d829b4f09a3991dced54d2f5114dd83f91b7a5ebd940f1e369f"
+      "sig_id": "2d6f0f5d7ece76a1b7f1b5470be4432b82fb969108f0769e7372a405821829d80f",
+      "seqno": 41,
+      "payload_hash": "b37275208d22b746fe9b51d02135a95baaf1fccbde4eaee97cd57e9456443e91"
     }
   },
   "devices": {
@@ -312,25 +310,6 @@
           "kid": "0121ca6b779e987c1d4c2881e17bfed3769c6913c49dfefd10a9da78675e3c3a01760a",
           "key_role": 2,
           "sig_id": "2a69d52df3d0ddd47e36e045530878858956886172dbf99897ed1a0ef3c956390f"
-        }
-      ]
-    },
-    "b27f1dc1c0964021ba8b23fc460d9218": {
-      "type": "backup",
-      "ctime": 1461615190,
-      "mtime": 1461615190,
-      "name": "borrow stereo",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01205626da4f8dd30f6ef826c1e25f9f1222c6e0eea709bfa4f1f8129c8fd5581d2d0a",
-          "key_role": 1,
-          "sig_id": "ab9046aabd31be812b17bec2e1369e0c0b64a58678525d4645db39b02a04bc030f"
-        },
-        {
-          "kid": "0121556278420dff8757909cb49c2735d9fc51307bc8b74798099802698b0ced0d2f0a",
-          "key_role": 2,
-          "sig_id": "9660210f59ac46211eea9ffc1374fe6830cf06e600dc0ee8082a9d3a24c505240f"
         }
       ]
     }
