@@ -4,16 +4,16 @@
     "username": "glutnix",
     "ctime": 1411519244,
     "mtime": 1411519244,
-    "id_version": 91,
+    "id_version": 94,
     "track_version": 4,
-    "last_id_change": 1470066282,
+    "last_id_change": 1471496248,
     "username_cased": "glutnix"
   },
   "profile": {
-    "mtime": 1411519429,
+    "mtime": 1471495881,
     "full_name": "Brett Taylor",
     "location": "Wellington, New Zealand ",
-    "bio": "Web geek and tutor"
+    "bio": "Professional programming enthusiast"
   },
   "public_keys": {
     "primary": {
@@ -41,7 +41,9 @@
       "0121ba4b7c72e56beb97535ff97de0b1afda0e795bf48a375e11d43884439e9dbb050a",
       "0120d56d8de4cacf9455f45894c2bcd6725ecf439789f6c370b30eb75a202a738c750a",
       "0121ad59471234e21f8425c8b7d90a833fa4b7d887493a42d994ed46d6246d0373550a",
-      "0120291de1dfc9aef8db5a7514904ea565640cfc615414ecb860d29a4cb74d5688490a"
+      "0120291de1dfc9aef8db5a7514904ea565640cfc615414ecb860d29a4cb74d5688490a",
+      "0120d0a54f3192af262785c24872c0d195caf1545468eb551c1a5804a0a565e7cf990a",
+      "0121e2db4bc401c3cf8d90c64500bb9a22c2e949b9dafa17130eea67a811509cc20c0a"
     ],
     "subkeys": [
       "0121dfff43f2da926c2077a2d94c9fa07d8944e78eda673e9adebc92cd1d640664100a",
@@ -63,7 +65,9 @@
         "0121ba4b7c72e56beb97535ff97de0b1afda0e795bf48a375e11d43884439e9dbb050a",
         "0120d56d8de4cacf9455f45894c2bcd6725ecf439789f6c370b30eb75a202a738c750a",
         "0121ad59471234e21f8425c8b7d90a833fa4b7d887493a42d994ed46d6246d0373550a",
-        "0120291de1dfc9aef8db5a7514904ea565640cfc615414ecb860d29a4cb74d5688490a"
+        "0120291de1dfc9aef8db5a7514904ea565640cfc615414ecb860d29a4cb74d5688490a",
+        "0120d0a54f3192af262785c24872c0d195caf1545468eb551c1a5804a0a565e7cf990a",
+        "0121e2db4bc401c3cf8d90c64500bb9a22c2e949b9dafa17130eea67a811509cc20c0a"
       ]
     },
     "eldest_kid": "01110fe7d1ac884f57ffb0c2c49b55c32e742270d2f95578d3aba99a500775da45350a",
@@ -119,7 +123,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/glutnix",
+          "nametag": "glutnix",
           "state": 1,
           "proof_url": "https://coinbase.com/glutnix/public-key",
           "sig_id": "9ec6be1f1d965a97c83ab6935e67caf9ece383b31254385744646789e05d878a0f",
@@ -131,6 +135,18 @@
         }
       ],
       "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "glutnix.keybase.pub",
+          "state": 1,
+          "proof_url": "https://glutnix.keybase.pub/keybase.txt",
+          "sig_id": "282859fa2bb09404371a393c910106057cc1d8cc219d8510799b94c97fc2552f0f",
+          "proof_id": "282fb279e8795d264352d710",
+          "human_url": "https://glutnix.keybase.pub/keybase.txt",
+          "service_url": "https://glutnix.keybase.pub",
+          "presentation_group": "glutnix.keybase.pub",
+          "presentation_tag": "https"
+        },
         {
           "proof_type": "generic_web_site",
           "nametag": "inner.geek.nz",
@@ -205,7 +221,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/glutnix",
+          "nametag": "glutnix",
           "state": 1,
           "proof_url": "https://coinbase.com/glutnix/public-key",
           "sig_id": "9ec6be1f1d965a97c83ab6935e67caf9ece383b31254385744646789e05d878a0f",
@@ -228,6 +244,20 @@
           "service_url": "http://inner.geek.nz",
           "presentation_group": "inner.geek.nz",
           "presentation_tag": "http"
+        }
+      ],
+      "glutnix.keybase.pub": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "glutnix.keybase.pub",
+          "state": 1,
+          "proof_url": "https://glutnix.keybase.pub/keybase.txt",
+          "sig_id": "282859fa2bb09404371a393c910106057cc1d8cc219d8510799b94c97fc2552f0f",
+          "proof_id": "282fb279e8795d264352d710",
+          "human_url": "https://glutnix.keybase.pub/keybase.txt",
+          "service_url": "https://glutnix.keybase.pub",
+          "presentation_group": "glutnix.keybase.pub",
+          "presentation_tag": "https"
         }
       ],
       "webfroot.co.nz": [
@@ -284,7 +314,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/glutnix",
+        "nametag": "glutnix",
         "state": 1,
         "proof_url": "https://coinbase.com/glutnix/public-key",
         "sig_id": "9ec6be1f1d965a97c83ab6935e67caf9ece383b31254385744646789e05d878a0f",
@@ -317,6 +347,18 @@
         "service_url": "http://inner.geek.nz",
         "presentation_group": "inner.geek.nz",
         "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "glutnix.keybase.pub",
+        "state": 1,
+        "proof_url": "https://glutnix.keybase.pub/keybase.txt",
+        "sig_id": "282859fa2bb09404371a393c910106057cc1d8cc219d8510799b94c97fc2552f0f",
+        "proof_id": "282fb279e8795d264352d710",
+        "human_url": "https://glutnix.keybase.pub/keybase.txt",
+        "service_url": "https://glutnix.keybase.pub",
+        "presentation_group": "glutnix.keybase.pub",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -330,7 +372,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/64f7ab709fb2bc0aff0c376d09811f05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e912fd628b43eb46bf2cb9fe4b782805_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -338,9 +380,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f5cb1f65caf56e85dc651bd9d5efd36219c718dcd8cd72a38e6c633723fba3360f",
-      "seqno": 22,
-      "payload_hash": "9059a8fbe44b7cd5fe82717f20637b2ecd706303edfcc741b6ced65cdf93a422"
+      "sig_id": "711d1faf86610e44dbbabd7a28466c4e5edd2bfd3d7a55b9499eab9618cc4e310f",
+      "seqno": 26,
+      "payload_hash": "495f85f6551ec99b5bd21a7125e4ce6e823300d821621520d6a51b2b394ad5d5"
     }
   },
   "devices": {
