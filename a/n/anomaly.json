@@ -4,9 +4,9 @@
     "username": "anomaly",
     "ctime": 1458865832,
     "mtime": 1458865832,
-    "id_version": 24,
+    "id_version": 26,
     "track_version": 6,
-    "last_id_change": 1468065820,
+    "last_id_change": 1473183236,
     "username_cased": "anomaly"
   },
   "profile": {
@@ -111,7 +111,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/anomaly256",
+          "nametag": "anomaly256",
           "state": 1,
           "proof_url": "https://coinbase.com/anomaly256/public-key",
           "sig_id": "75518dfe10d33b143b2891573292fae71449813e6df5ce927c595b2df9293a370f",
@@ -169,7 +169,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/anomaly256",
+          "nametag": "anomaly256",
           "state": 1,
           "proof_url": "https://coinbase.com/anomaly256/public-key",
           "sig_id": "75518dfe10d33b143b2891573292fae71449813e6df5ce927c595b2df9293a370f",
@@ -220,7 +220,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/anomaly256",
+        "nametag": "anomaly256",
         "state": 1,
         "proof_url": "https://coinbase.com/anomaly256/public-key",
         "sig_id": "75518dfe10d33b143b2891573292fae71449813e6df5ce927c595b2df9293a370f",
@@ -256,25 +256,6 @@
     }
   },
   "devices": {
-    "cef5e2a4d539c8e8d1ac51f622ab9a18": {
-      "type": "desktop",
-      "ctime": 1458866372,
-      "mtime": 1458866372,
-      "name": "microlith",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120cd2f07c9166ea001ccd911e13bbf1a185c0fb99013a0db71164c3c4cbb67b6710a",
-          "key_role": 1,
-          "sig_id": "0c6b318ba0047d0b556dce42a5c3e4d8ba42def685bdef7cf8401081c09b84e10f"
-        },
-        {
-          "kid": "01212e102dbfcb3e0df6b4d79c1cc3930c0039b3e4397ab08e42b2470accbbf279500a",
-          "key_role": 2,
-          "sig_id": "60b80e7770430a2b0258c6c919816bfad19d21538f203460a9ad9249e3ce5fe50f"
-        }
-      ]
-    },
     "f84c78f3e9386e245c995f96041e7918": {
       "type": "backup",
       "ctime": 1458866374,
@@ -291,6 +272,25 @@
           "kid": "01215154f598469a28840434993c3d9423f073f7d447408d09569b5dee2d804e534d0a",
           "key_role": 2,
           "sig_id": "61295a46bdb531e4a8c1b3348508c724e282abef157b41a1b0de81c28f1b17d20f"
+        }
+      ]
+    },
+    "cef5e2a4d539c8e8d1ac51f622ab9a18": {
+      "type": "desktop",
+      "ctime": 1458866372,
+      "mtime": 1458866372,
+      "name": "microlith",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120cd2f07c9166ea001ccd911e13bbf1a185c0fb99013a0db71164c3c4cbb67b6710a",
+          "key_role": 1,
+          "sig_id": "0c6b318ba0047d0b556dce42a5c3e4d8ba42def685bdef7cf8401081c09b84e10f"
+        },
+        {
+          "kid": "01212e102dbfcb3e0df6b4d79c1cc3930c0039b3e4397ab08e42b2470accbbf279500a",
+          "key_role": 2,
+          "sig_id": "60b80e7770430a2b0258c6c919816bfad19d21538f203460a9ad9249e3ce5fe50f"
         }
       ]
     }
