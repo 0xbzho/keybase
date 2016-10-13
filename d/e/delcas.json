@@ -5,7 +5,7 @@
     "ctime": 1454962570,
     "mtime": 1454962570,
     "id_version": 6,
-    "track_version": 1,
+    "track_version": 3,
     "last_id_change": 1459622335,
     "username_cased": "delcas"
   },
@@ -41,13 +41,11 @@
       "01210bec438829327df73a697272f2c939ed6445f804ef09b114daad3c72118d753a0a"
     ],
     "subkeys": [
-      "0121447bd39d93a06703c2e87e3eeecedfcdf7b447b4ce22772e5e47ba8b5dadf24a0a",
-      "01210bec438829327df73a697272f2c939ed6445f804ef09b114daad3c72118d753a0a"
+      "0121447bd39d93a06703c2e87e3eeecedfcdf7b447b4ce22772e5e47ba8b5dadf24a0a"
     ],
     "sibkeys": [
       "010123a1e7fc9a478e628623dce0bc47d3e06ad3cc718d2a6398f181f75eff8daa4b0a",
-      "01203464d386a34f1cbaa51885b84f8f3212f32b4f103b913305a6f8492d8bd235230a",
-      "0120519764df11cc1adabd1203404629bab1b2f0180d0d5383ac1072834d5122b2750a"
+      "01203464d386a34f1cbaa51885b84f8f3212f32b4f103b913305a6f8492d8bd235230a"
     ],
     "families": {
       "010123a1e7fc9a478e628623dce0bc47d3e06ad3cc718d2a6398f181f75eff8daa4b0a": [
@@ -123,9 +121,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "6b3d0abbf3cc9f5b49b2794c1918482dc2582d0dae15d0e333bd22ee719eacb60f",
-      "seqno": 7,
-      "payload_hash": "e5d2e22e17649a8c3cc4a9c8b6d5a1bf3ed7612578b6bbcde7e0a7f225ffae13"
+      "sig_id": "c05d1c8d071581fbc428fc7f474ee8f8721ac15d3a11d44fc57e668ad69b422b0f",
+      "seqno": 10,
+      "payload_hash": "b0e537f171124ed56548272d713a5082c5fc9c0858ebc3a81d510cdad2b5f793"
     }
   },
   "devices": {
@@ -145,25 +143,6 @@
           "kid": "0121447bd39d93a06703c2e87e3eeecedfcdf7b447b4ce22772e5e47ba8b5dadf24a0a",
           "key_role": 2,
           "sig_id": "27649ed07db1b34d3caa6bd25d400da4d1bab61e099cecef15f21c584267f0ee0f"
-        }
-      ]
-    },
-    "3d56d3aef96e2151aed6974c462da918": {
-      "type": "backup",
-      "ctime": 1454963105,
-      "mtime": 1454963105,
-      "name": "artist vital",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120519764df11cc1adabd1203404629bab1b2f0180d0d5383ac1072834d5122b2750a",
-          "key_role": 1,
-          "sig_id": "923d3285cd4ddef5b9c060613e974a128e1291c92a9df8178c7a9e334c2714ac0f"
-        },
-        {
-          "kid": "01210bec438829327df73a697272f2c939ed6445f804ef09b114daad3c72118d753a0a",
-          "key_role": 2,
-          "sig_id": "10e52ef7feb3e28a02da5a3b76e318d6df966edce502fc1dc32b8ecb78565b3e0f"
         }
       ]
     }
