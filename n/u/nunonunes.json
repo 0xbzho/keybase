@@ -4,9 +4,9 @@
     "username": "nunonunes",
     "ctime": 1411656158,
     "mtime": 1411656158,
-    "id_version": 83,
-    "track_version": 3,
-    "last_id_change": 1469157293,
+    "id_version": 84,
+    "track_version": 7,
+    "last_id_change": 1473703677,
     "username_cased": "nunonunes"
   },
   "profile": {
@@ -40,16 +40,18 @@
       "01202b7db577a976e973c378a9f8cfeaa5475288b43aedfcde74722ec76019d71b610a",
       "01215e3a1507d084290bd00a8f5920cf04c565f48d39c38a188cd05ef25f537078730a",
       "012188a487b367f1a2a36714e8754c4ded5bf289f81e8ce818793641f740ebd973140a",
-      "012000dd4d4960e7439d17db63ae481878425afe0d3514d76b7069dc6ac074685f740a"
+      "012000dd4d4960e7439d17db63ae481878425afe0d3514d76b7069dc6ac074685f740a",
+      "012057322b7a719f3efa66e78c195d931b2c070e7823e357bdb24b6b4b5dcbaff5410a",
+      "0121b03e741e39075bd960e2b1a3289cec6ea01002455749086dfc3d69f6f5d0e36d0a"
     ],
     "subkeys": [
-      "01215e3a1507d084290bd00a8f5920cf04c565f48d39c38a188cd05ef25f537078730a",
-      "012188a487b367f1a2a36714e8754c4ded5bf289f81e8ce818793641f740ebd973140a"
+      "012188a487b367f1a2a36714e8754c4ded5bf289f81e8ce818793641f740ebd973140a",
+      "0121b03e741e39075bd960e2b1a3289cec6ea01002455749086dfc3d69f6f5d0e36d0a"
     ],
     "sibkeys": [
       "0111e731bcc8012d8c756720101d97cff5a90c0a6cb82011b803eefa164d406c886f0a",
-      "01202b7db577a976e973c378a9f8cfeaa5475288b43aedfcde74722ec76019d71b610a",
-      "012000dd4d4960e7439d17db63ae481878425afe0d3514d76b7069dc6ac074685f740a"
+      "012000dd4d4960e7439d17db63ae481878425afe0d3514d76b7069dc6ac074685f740a",
+      "012057322b7a719f3efa66e78c195d931b2c070e7823e357bdb24b6b4b5dcbaff5410a"
     ],
     "families": {
       "0111e731bcc8012d8c756720101d97cff5a90c0a6cb82011b803eefa164d406c886f0a": [
@@ -59,7 +61,9 @@
         "01202b7db577a976e973c378a9f8cfeaa5475288b43aedfcde74722ec76019d71b610a",
         "01215e3a1507d084290bd00a8f5920cf04c565f48d39c38a188cd05ef25f537078730a",
         "012188a487b367f1a2a36714e8754c4ded5bf289f81e8ce818793641f740ebd973140a",
-        "012000dd4d4960e7439d17db63ae481878425afe0d3514d76b7069dc6ac074685f740a"
+        "012000dd4d4960e7439d17db63ae481878425afe0d3514d76b7069dc6ac074685f740a",
+        "012057322b7a719f3efa66e78c195d931b2c070e7823e357bdb24b6b4b5dcbaff5410a",
+        "0121b03e741e39075bd960e2b1a3289cec6ea01002455749086dfc3d69f6f5d0e36d0a"
       ]
     },
     "eldest_kid": "0111e731bcc8012d8c756720101d97cff5a90c0a6cb82011b803eefa164d406c886f0a",
@@ -254,12 +258,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "85d7e09ca906404515588eee6f85894e8b9c2aa6d4922d89d3772a7e4f62a7950f",
-      "seqno": 17,
-      "payload_hash": "aac9a65f8fb41e495d1b65288c5f0e9dbe8c74cdc0f80955ff91441ee265810d"
+      "sig_id": "b5bb484702db770098d0d6c50539692d53325b7965d701925a74cb28b2a53ab20f",
+      "seqno": 24,
+      "payload_hash": "1104bada8e6d85e4f298106bbcafd5889136817c7742a7fdb260d46b970e2e12"
     }
   },
   "devices": {
+    "0a207998fac780e0c67e13a6d24e7918": {
+      "type": "desktop",
+      "ctime": 1473703677,
+      "mtime": 1473703677,
+      "name": "Macbook Air",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012057322b7a719f3efa66e78c195d931b2c070e7823e357bdb24b6b4b5dcbaff5410a",
+          "key_role": 1,
+          "sig_id": "94fa9e1eae0be63d182720c0fc3857b3efa04aea66caa1884907b04aa4555f660f"
+        },
+        {
+          "kid": "0121b03e741e39075bd960e2b1a3289cec6ea01002455749086dfc3d69f6f5d0e36d0a",
+          "key_role": 2,
+          "sig_id": "1c782193c377df2f5305656541e5ca9aef99e8bdbb90a4e5dff13d9aa78a4f030f"
+        }
+      ]
+    },
     "53641167c5bf9b7e668ab78a78e1a418": {
       "type": "backup",
       "ctime": 1448373311,
@@ -276,25 +299,6 @@
           "kid": "012188a487b367f1a2a36714e8754c4ded5bf289f81e8ce818793641f740ebd973140a",
           "key_role": 2,
           "sig_id": "8eaa0a4bce66bc57898426e517106c365758b8f596f1dfe31da778fe558e97340f"
-        }
-      ]
-    },
-    "8b07cac5f43961dad4d98911e77fd618": {
-      "type": "desktop",
-      "ctime": 1448373309,
-      "mtime": 1448373309,
-      "name": "Air do Nuno",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01202b7db577a976e973c378a9f8cfeaa5475288b43aedfcde74722ec76019d71b610a",
-          "key_role": 1,
-          "sig_id": "2ac3125eeb978025789b333ec4dd346570eb2e1a261310a8ff5ff3900a5308e70f"
-        },
-        {
-          "kid": "01215e3a1507d084290bd00a8f5920cf04c565f48d39c38a188cd05ef25f537078730a",
-          "key_role": 2,
-          "sig_id": "a2a693697ddd2d80fd07d3f69de851652c0890333efa7fc860e6244763958ede0f"
         }
       ]
     }
