@@ -4,9 +4,9 @@
     "username": "0x62",
     "ctime": 1429632669,
     "mtime": 1429632669,
-    "id_version": 140,
+    "id_version": 153,
     "track_version": 4,
-    "last_id_change": 1468143120,
+    "last_id_change": 1473784110,
     "username_cased": "0x62"
   },
   "profile": {
@@ -98,7 +98,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/benedictlewis",
+          "nametag": "benedictlewis",
           "state": 1,
           "proof_url": "https://coinbase.com/benedictlewis/public-key",
           "sig_id": "7e21f3b867362f020ca745f6b8c650e37c2d3e96718c2787f808b01bf2bb0d080f",
@@ -126,18 +126,6 @@
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
-          "nametag": "techtykes.co.uk",
-          "state": 1,
-          "proof_url": "http://techtykes.co.uk/keybase.txt",
-          "sig_id": "30c464c31be9abf23c14d6def3246f1f2a8484105b8c08d08d07bc9da821e2450f",
-          "proof_id": "112dc01e8258e7671d984a10",
-          "human_url": "http://techtykes.co.uk/keybase.txt",
-          "service_url": "http://techtykes.co.uk",
-          "presentation_group": "techtykes.co.uk",
-          "presentation_tag": "http"
-        },
-        {
-          "proof_type": "generic_web_site",
           "nametag": "0x62.com",
           "state": 1,
           "proof_url": "http://0x62.com/keybase.txt",
@@ -147,9 +135,33 @@
           "service_url": "http://0x62.com",
           "presentation_group": "0x62.com",
           "presentation_tag": "http"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ovalbit.com",
+          "state": 1,
+          "proof_url": "http://ovalbit.com/keybase.txt",
+          "sig_id": "0e23bdc0727ff78dc03a3419e071b06a99449cd8e3e825dbf0107252eb70805f0f",
+          "proof_id": "d2c40519f86fe683010c0610",
+          "human_url": "http://ovalbit.com/keybase.txt",
+          "service_url": "http://ovalbit.com",
+          "presentation_group": "ovalbit.com",
+          "presentation_tag": "http"
         }
       ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "ovalbit.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/0x62/sigchain#fd5899c9e9ab73cf3a76e2f31d25751b779fa21bfc038b35b1078f01305d3b3a0f",
+          "sig_id": "fd5899c9e9ab73cf3a76e2f31d25751b779fa21bfc038b35b1078f01305d3b3a0f",
+          "proof_id": "1d3d9c2fbf6a5fc5fe45af10",
+          "human_url": "dns://ovalbit.com",
+          "service_url": "http://ovalbit.com",
+          "presentation_group": "ovalbit.com",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "0x62.com",
@@ -160,18 +172,6 @@
           "human_url": "dns://0x62.com",
           "service_url": "http://0x62.com",
           "presentation_group": "0x62.com",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "techtykes.co.uk",
-          "state": 1,
-          "proof_url": "https://keybase.io/0x62/sigchain#3890b045f34ce8c23838a359172ec359e1c8ba2c38abea99cd16f1c95fb569850f",
-          "sig_id": "3890b045f34ce8c23838a359172ec359e1c8ba2c38abea99cd16f1c95fb569850f",
-          "proof_id": "df915d50c5ff184214452010",
-          "human_url": "dns://techtykes.co.uk",
-          "service_url": "http://techtykes.co.uk",
-          "presentation_group": "techtykes.co.uk",
           "presentation_tag": "dns"
         },
         {
@@ -234,7 +234,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/benedictlewis",
+          "nametag": "benedictlewis",
           "state": 1,
           "proof_url": "https://coinbase.com/benedictlewis/public-key",
           "sig_id": "7e21f3b867362f020ca745f6b8c650e37c2d3e96718c2787f808b01bf2bb0d080f",
@@ -257,32 +257,6 @@
           "service_url": "https://news.ycombinator.com/user?id=0x62",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
-        }
-      ],
-      "techtykes.co.uk": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "techtykes.co.uk",
-          "state": 1,
-          "proof_url": "http://techtykes.co.uk/keybase.txt",
-          "sig_id": "30c464c31be9abf23c14d6def3246f1f2a8484105b8c08d08d07bc9da821e2450f",
-          "proof_id": "112dc01e8258e7671d984a10",
-          "human_url": "http://techtykes.co.uk/keybase.txt",
-          "service_url": "http://techtykes.co.uk",
-          "presentation_group": "techtykes.co.uk",
-          "presentation_tag": "http"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "techtykes.co.uk",
-          "state": 1,
-          "proof_url": "https://keybase.io/0x62/sigchain#3890b045f34ce8c23838a359172ec359e1c8ba2c38abea99cd16f1c95fb569850f",
-          "sig_id": "3890b045f34ce8c23838a359172ec359e1c8ba2c38abea99cd16f1c95fb569850f",
-          "proof_id": "df915d50c5ff184214452010",
-          "human_url": "dns://techtykes.co.uk",
-          "service_url": "http://techtykes.co.uk",
-          "presentation_group": "techtykes.co.uk",
-          "presentation_tag": "dns"
         }
       ],
       "0x62.com": [
@@ -308,6 +282,32 @@
           "human_url": "dns://0x62.com",
           "service_url": "http://0x62.com",
           "presentation_group": "0x62.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "ovalbit.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ovalbit.com",
+          "state": 1,
+          "proof_url": "http://ovalbit.com/keybase.txt",
+          "sig_id": "0e23bdc0727ff78dc03a3419e071b06a99449cd8e3e825dbf0107252eb70805f0f",
+          "proof_id": "d2c40519f86fe683010c0610",
+          "human_url": "http://ovalbit.com/keybase.txt",
+          "service_url": "http://ovalbit.com",
+          "presentation_group": "ovalbit.com",
+          "presentation_tag": "http"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "ovalbit.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/0x62/sigchain#fd5899c9e9ab73cf3a76e2f31d25751b779fa21bfc038b35b1078f01305d3b3a0f",
+          "sig_id": "fd5899c9e9ab73cf3a76e2f31d25751b779fa21bfc038b35b1078f01305d3b3a0f",
+          "proof_id": "1d3d9c2fbf6a5fc5fe45af10",
+          "human_url": "dns://ovalbit.com",
+          "service_url": "http://ovalbit.com",
+          "presentation_group": "ovalbit.com",
           "presentation_tag": "dns"
         }
       ],
@@ -365,7 +365,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/benedictlewis",
+        "nametag": "benedictlewis",
         "state": 1,
         "proof_url": "https://coinbase.com/benedictlewis/public-key",
         "sig_id": "7e21f3b867362f020ca745f6b8c650e37c2d3e96718c2787f808b01bf2bb0d080f",
@@ -389,6 +389,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "ovalbit.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/0x62/sigchain#fd5899c9e9ab73cf3a76e2f31d25751b779fa21bfc038b35b1078f01305d3b3a0f",
+        "sig_id": "fd5899c9e9ab73cf3a76e2f31d25751b779fa21bfc038b35b1078f01305d3b3a0f",
+        "proof_id": "1d3d9c2fbf6a5fc5fe45af10",
+        "human_url": "dns://ovalbit.com",
+        "service_url": "http://ovalbit.com",
+        "presentation_group": "ovalbit.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "0x62.com",
         "state": 1,
         "proof_url": "https://keybase.io/0x62/sigchain#02ff529a2bf92e498fa781a8e8d25512d0c77e23f3dbe7b741c95cf9e1ce010e0f",
@@ -397,18 +409,6 @@
         "human_url": "dns://0x62.com",
         "service_url": "http://0x62.com",
         "presentation_group": "0x62.com",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "techtykes.co.uk",
-        "state": 1,
-        "proof_url": "https://keybase.io/0x62/sigchain#3890b045f34ce8c23838a359172ec359e1c8ba2c38abea99cd16f1c95fb569850f",
-        "sig_id": "3890b045f34ce8c23838a359172ec359e1c8ba2c38abea99cd16f1c95fb569850f",
-        "proof_id": "df915d50c5ff184214452010",
-        "human_url": "dns://techtykes.co.uk",
-        "service_url": "http://techtykes.co.uk",
-        "presentation_group": "techtykes.co.uk",
         "presentation_tag": "dns"
       },
       {
@@ -425,18 +425,6 @@
       },
       {
         "proof_type": "generic_web_site",
-        "nametag": "techtykes.co.uk",
-        "state": 1,
-        "proof_url": "http://techtykes.co.uk/keybase.txt",
-        "sig_id": "30c464c31be9abf23c14d6def3246f1f2a8484105b8c08d08d07bc9da821e2450f",
-        "proof_id": "112dc01e8258e7671d984a10",
-        "human_url": "http://techtykes.co.uk/keybase.txt",
-        "service_url": "http://techtykes.co.uk",
-        "presentation_group": "techtykes.co.uk",
-        "presentation_tag": "http"
-      },
-      {
-        "proof_type": "generic_web_site",
         "nametag": "0x62.com",
         "state": 1,
         "proof_url": "http://0x62.com/keybase.txt",
@@ -445,6 +433,18 @@
         "human_url": "http://0x62.com/keybase.txt",
         "service_url": "http://0x62.com",
         "presentation_group": "0x62.com",
+        "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "ovalbit.com",
+        "state": 1,
+        "proof_url": "http://ovalbit.com/keybase.txt",
+        "sig_id": "0e23bdc0727ff78dc03a3419e071b06a99449cd8e3e825dbf0107252eb70805f0f",
+        "proof_id": "d2c40519f86fe683010c0610",
+        "human_url": "http://ovalbit.com/keybase.txt",
+        "service_url": "http://ovalbit.com",
+        "presentation_group": "ovalbit.com",
         "presentation_tag": "http"
       }
     ]
