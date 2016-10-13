@@ -4,9 +4,9 @@
     "username": "daylon",
     "ctime": 1397248488,
     "mtime": 1397248488,
-    "id_version": 104,
-    "track_version": 4,
-    "last_id_change": 1470253800,
+    "id_version": 116,
+    "track_version": 5,
+    "last_id_change": 1474890792,
     "username_cased": "daylon"
   },
   "profile": {
@@ -40,16 +40,20 @@
       "0120259028c88c4dc55e37e3d1ede905c92c2d1e5d55638b43f79d5bc05265ac48e40a",
       "0121a8803d8c07d5aa37c8df499da517720941a5413050df49637c078bd7cf956a3b0a",
       "0120a77e5a31d7818b3d8efb14949f9dc703129ec90735ad297dd9a8b51cb71794770a",
-      "0121208f742bec810d11360ff4ca5ae0d201a6b02b4b4ef896a9cc4080797ebcca330a"
+      "0121208f742bec810d11360ff4ca5ae0d201a6b02b4b4ef896a9cc4080797ebcca330a",
+      "0120fb34e6157875525d8881ffe7f3ccd59be5debc088c2bce1d2ce89a7d08bdf88e0a",
+      "0121ad3316cb95b39da12748f7b627d124a694df9d3b7b66a8df58520d0de61345020a"
     ],
     "subkeys": [
       "0121a8803d8c07d5aa37c8df499da517720941a5413050df49637c078bd7cf956a3b0a",
-      "0121208f742bec810d11360ff4ca5ae0d201a6b02b4b4ef896a9cc4080797ebcca330a"
+      "0121208f742bec810d11360ff4ca5ae0d201a6b02b4b4ef896a9cc4080797ebcca330a",
+      "0121ad3316cb95b39da12748f7b627d124a694df9d3b7b66a8df58520d0de61345020a"
     ],
     "sibkeys": [
       "010128874a2678ccf26328ca97328bba4598a308f675db072e03704d194033c3d4d40a",
       "0120259028c88c4dc55e37e3d1ede905c92c2d1e5d55638b43f79d5bc05265ac48e40a",
-      "0120a77e5a31d7818b3d8efb14949f9dc703129ec90735ad297dd9a8b51cb71794770a"
+      "0120a77e5a31d7818b3d8efb14949f9dc703129ec90735ad297dd9a8b51cb71794770a",
+      "0120fb34e6157875525d8881ffe7f3ccd59be5debc088c2bce1d2ce89a7d08bdf88e0a"
     ],
     "families": {
       "0101852c9d79fb7607ea5f13f3c950ab491f8f50df5652af71ed0c7b4038d44376500a": [
@@ -63,7 +67,9 @@
         "0120259028c88c4dc55e37e3d1ede905c92c2d1e5d55638b43f79d5bc05265ac48e40a",
         "0121a8803d8c07d5aa37c8df499da517720941a5413050df49637c078bd7cf956a3b0a",
         "0120a77e5a31d7818b3d8efb14949f9dc703129ec90735ad297dd9a8b51cb71794770a",
-        "0121208f742bec810d11360ff4ca5ae0d201a6b02b4b4ef896a9cc4080797ebcca330a"
+        "0121208f742bec810d11360ff4ca5ae0d201a6b02b4b4ef896a9cc4080797ebcca330a",
+        "0120fb34e6157875525d8881ffe7f3ccd59be5debc088c2bce1d2ce89a7d08bdf88e0a",
+        "0121ad3316cb95b39da12748f7b627d124a694df9d3b7b66a8df58520d0de61345020a"
       ]
     },
     "eldest_kid": "010128874a2678ccf26328ca97328bba4598a308f675db072e03704d194033c3d4d40a",
@@ -105,7 +111,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/daylon",
+          "nametag": "daylon",
           "state": 1,
           "proof_url": "https://coinbase.com/daylon/public-key",
           "sig_id": "5474625f35544e8414d688016ee7ece0d8c564192de9a50d54c4d51882e766240f",
@@ -119,18 +125,6 @@
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
-          "nametag": "poscat.me",
-          "state": 1,
-          "proof_url": "https://poscat.me/.well-known/keybase.txt",
-          "sig_id": "b189eb3864362fdc7e30ca0597a433d63c611c0cdb2ad64872aeda0abe689d750f",
-          "proof_id": "37954fd5b10f4ac54569dc10",
-          "human_url": "https://poscat.me/.well-known/keybase.txt",
-          "service_url": "https://poscat.me",
-          "presentation_group": "poscat.me",
-          "presentation_tag": "https"
-        },
-        {
-          "proof_type": "generic_web_site",
           "nametag": "daylonmw.com",
           "state": 1,
           "proof_url": "https://daylonmw.com/.well-known/keybase.txt",
@@ -140,6 +134,18 @@
           "service_url": "https://daylonmw.com",
           "presentation_group": "daylonmw.com",
           "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "poscat.me",
+          "state": 1,
+          "proof_url": "http://poscat.me/.well-known/keybase.txt",
+          "sig_id": "6a4056a2fa411705ff8b9de7d87d6ffacf71f02f8fc411fd7079a7d3263cc24b0f",
+          "proof_id": "8165c3b956d9e1a622ff5210",
+          "human_url": "http://poscat.me/.well-known/keybase.txt",
+          "service_url": "http://poscat.me",
+          "presentation_group": "poscat.me",
+          "presentation_tag": "http"
         }
       ]
     },
@@ -175,7 +181,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/daylon",
+          "nametag": "daylon",
           "state": 1,
           "proof_url": "https://coinbase.com/daylon/public-key",
           "sig_id": "5474625f35544e8414d688016ee7ece0d8c564192de9a50d54c4d51882e766240f",
@@ -184,20 +190,6 @@
           "service_url": "https://coinbase.com/daylon",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
-        }
-      ],
-      "poscat.me": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "poscat.me",
-          "state": 1,
-          "proof_url": "https://poscat.me/.well-known/keybase.txt",
-          "sig_id": "b189eb3864362fdc7e30ca0597a433d63c611c0cdb2ad64872aeda0abe689d750f",
-          "proof_id": "37954fd5b10f4ac54569dc10",
-          "human_url": "https://poscat.me/.well-known/keybase.txt",
-          "service_url": "https://poscat.me",
-          "presentation_group": "poscat.me",
-          "presentation_tag": "https"
         }
       ],
       "daylonmw.com": [
@@ -212,6 +204,20 @@
           "service_url": "https://daylonmw.com",
           "presentation_group": "daylonmw.com",
           "presentation_tag": "https"
+        }
+      ],
+      "poscat.me": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "poscat.me",
+          "state": 1,
+          "proof_url": "http://poscat.me/.well-known/keybase.txt",
+          "sig_id": "6a4056a2fa411705ff8b9de7d87d6ffacf71f02f8fc411fd7079a7d3263cc24b0f",
+          "proof_id": "8165c3b956d9e1a622ff5210",
+          "human_url": "http://poscat.me/.well-known/keybase.txt",
+          "service_url": "http://poscat.me",
+          "presentation_group": "poscat.me",
+          "presentation_tag": "http"
         }
       ]
     },
@@ -242,7 +248,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/daylon",
+        "nametag": "daylon",
         "state": 1,
         "proof_url": "https://coinbase.com/daylon/public-key",
         "sig_id": "5474625f35544e8414d688016ee7ece0d8c564192de9a50d54c4d51882e766240f",
@@ -256,13 +262,13 @@
         "proof_type": "generic_web_site",
         "nametag": "poscat.me",
         "state": 1,
-        "proof_url": "https://poscat.me/.well-known/keybase.txt",
-        "sig_id": "b189eb3864362fdc7e30ca0597a433d63c611c0cdb2ad64872aeda0abe689d750f",
-        "proof_id": "37954fd5b10f4ac54569dc10",
-        "human_url": "https://poscat.me/.well-known/keybase.txt",
-        "service_url": "https://poscat.me",
+        "proof_url": "http://poscat.me/.well-known/keybase.txt",
+        "sig_id": "6a4056a2fa411705ff8b9de7d87d6ffacf71f02f8fc411fd7079a7d3263cc24b0f",
+        "proof_id": "8165c3b956d9e1a622ff5210",
+        "human_url": "http://poscat.me/.well-known/keybase.txt",
+        "service_url": "http://poscat.me",
         "presentation_group": "poscat.me",
-        "presentation_tag": "https"
+        "presentation_tag": "http"
       },
       {
         "proof_type": "generic_web_site",
@@ -289,12 +295,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "1de9829809185114b38881c290281ebf65ed2f324e0c3fdfae39b4f071b15fc50f",
-      "seqno": 26,
-      "payload_hash": "fe92076ab5728a2827cd291c83b33a164aae460380b47728991c9612c187ac76"
+      "sig_id": "6a4056a2fa411705ff8b9de7d87d6ffacf71f02f8fc411fd7079a7d3263cc24b0f",
+      "seqno": 30,
+      "payload_hash": "7ed87eba3d0a907fa834c4322df0db18fdd7e5736a62462c488f2e4d6cfdbd5f"
     }
   },
   "devices": {
+    "62cffddf0fa2e222b40eabfdbe662e18": {
+      "type": "backup",
+      "ctime": 1471175157,
+      "mtime": 1471175157,
+      "name": "retreat zebra",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120fb34e6157875525d8881ffe7f3ccd59be5debc088c2bce1d2ce89a7d08bdf88e0a",
+          "key_role": 1,
+          "sig_id": "0b32273ab13b4a4d4172480b9cf9209924b744b657dcecfea0d938cf3fc5c0e50f"
+        },
+        {
+          "kid": "0121ad3316cb95b39da12748f7b627d124a694df9d3b7b66a8df58520d0de61345020a",
+          "key_role": 2,
+          "sig_id": "82f33b381a79ba62bc2fad9073e9162362893242170cc8bdcfe243c55cb95ad60f"
+        }
+      ]
+    },
     "ce31f051daef6767cbce2f3501068718": {
       "type": "backup",
       "ctime": 1470253800,
