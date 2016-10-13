@@ -4,9 +4,9 @@
     "username": "shtrom",
     "ctime": 1418622674,
     "mtime": 1418622674,
-    "id_version": 184,
+    "id_version": 225,
     "track_version": 8,
-    "last_id_change": 1469920707,
+    "last_id_change": 1476048290,
     "username_cased": "shtrom"
   },
   "profile": {
@@ -70,7 +70,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/shtrom",
+          "nametag": "shtrom",
           "state": 1,
           "proof_url": "https://coinbase.com/shtrom/public-key",
           "sig_id": "7c31251e0c9c9fcd05c459b3524b3d625ea94be8c16604f6afff2862863043670f",
@@ -79,6 +79,32 @@
           "service_url": "https://coinbase.com/shtrom",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "olivier.mehani.name",
+          "state": 1,
+          "proof_url": "http://olivier.mehani.name/.well-known/keybase.txt",
+          "sig_id": "3c9324a42c5bfac012467c7a265b374701b9d4114d3c589696dac15ddc2ca7260f",
+          "proof_id": "e37c023c49038a28d6768a10",
+          "human_url": "http://olivier.mehani.name/.well-known/keybase.txt",
+          "service_url": "http://olivier.mehani.name",
+          "presentation_group": "olivier.mehani.name",
+          "presentation_tag": "http"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.narf.ssji.net",
+          "state": 1,
+          "proof_url": "http://www.narf.ssji.net/.well-known/keybase.txt",
+          "sig_id": "cc0860935c1b1cb2adcc78d2c707c0b9d8d7dfbb598a238411b95b08875729250f",
+          "proof_id": "e555e17919cae23ce4d1cc10",
+          "human_url": "http://www.narf.ssji.net/.well-known/keybase.txt",
+          "service_url": "http://www.narf.ssji.net",
+          "presentation_group": "www.narf.ssji.net",
+          "presentation_tag": "http"
         }
       ],
       "dns": [
@@ -126,7 +152,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/shtrom",
+          "nametag": "shtrom",
           "state": 1,
           "proof_url": "https://coinbase.com/shtrom/public-key",
           "sig_id": "7c31251e0c9c9fcd05c459b3524b3d625ea94be8c16604f6afff2862863043670f",
@@ -137,21 +163,19 @@
           "presentation_tag": "post"
         }
       ],
-      "www.narf.ssji.net": [
-        {
-          "proof_type": "dns",
-          "nametag": "www.narf.ssji.net",
-          "state": 1,
-          "proof_url": "https://keybase.io/shtrom/sigchain#74063a3dc5f0163053b6e6cfdfdb6599e78b534c2ec8cc68af99e25cbb1420b30f",
-          "sig_id": "74063a3dc5f0163053b6e6cfdfdb6599e78b534c2ec8cc68af99e25cbb1420b30f",
-          "proof_id": "57e5b14b143f70073ee5a510",
-          "human_url": "dns://www.narf.ssji.net",
-          "service_url": "http://www.narf.ssji.net",
-          "presentation_group": "www.narf.ssji.net",
-          "presentation_tag": "dns"
-        }
-      ],
       "olivier.mehani.name": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "olivier.mehani.name",
+          "state": 1,
+          "proof_url": "http://olivier.mehani.name/.well-known/keybase.txt",
+          "sig_id": "3c9324a42c5bfac012467c7a265b374701b9d4114d3c589696dac15ddc2ca7260f",
+          "proof_id": "e37c023c49038a28d6768a10",
+          "human_url": "http://olivier.mehani.name/.well-known/keybase.txt",
+          "service_url": "http://olivier.mehani.name",
+          "presentation_group": "olivier.mehani.name",
+          "presentation_tag": "http"
+        },
         {
           "proof_type": "dns",
           "nametag": "olivier.mehani.name",
@@ -162,6 +186,32 @@
           "human_url": "dns://olivier.mehani.name",
           "service_url": "http://olivier.mehani.name",
           "presentation_group": "olivier.mehani.name",
+          "presentation_tag": "dns"
+        }
+      ],
+      "www.narf.ssji.net": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.narf.ssji.net",
+          "state": 1,
+          "proof_url": "http://www.narf.ssji.net/.well-known/keybase.txt",
+          "sig_id": "cc0860935c1b1cb2adcc78d2c707c0b9d8d7dfbb598a238411b95b08875729250f",
+          "proof_id": "e555e17919cae23ce4d1cc10",
+          "human_url": "http://www.narf.ssji.net/.well-known/keybase.txt",
+          "service_url": "http://www.narf.ssji.net",
+          "presentation_group": "www.narf.ssji.net",
+          "presentation_tag": "http"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "www.narf.ssji.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/shtrom/sigchain#74063a3dc5f0163053b6e6cfdfdb6599e78b534c2ec8cc68af99e25cbb1420b30f",
+          "sig_id": "74063a3dc5f0163053b6e6cfdfdb6599e78b534c2ec8cc68af99e25cbb1420b30f",
+          "proof_id": "57e5b14b143f70073ee5a510",
+          "human_url": "dns://www.narf.ssji.net",
+          "service_url": "http://www.narf.ssji.net",
+          "presentation_group": "www.narf.ssji.net",
           "presentation_tag": "dns"
         }
       ]
@@ -181,7 +231,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/shtrom",
+        "nametag": "shtrom",
         "state": 1,
         "proof_url": "https://coinbase.com/shtrom/public-key",
         "sig_id": "7c31251e0c9c9fcd05c459b3524b3d625ea94be8c16604f6afff2862863043670f",
@@ -214,13 +264,37 @@
         "service_url": "http://olivier.mehani.name",
         "presentation_group": "olivier.mehani.name",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "olivier.mehani.name",
+        "state": 1,
+        "proof_url": "http://olivier.mehani.name/.well-known/keybase.txt",
+        "sig_id": "3c9324a42c5bfac012467c7a265b374701b9d4114d3c589696dac15ddc2ca7260f",
+        "proof_id": "e37c023c49038a28d6768a10",
+        "human_url": "http://olivier.mehani.name/.well-known/keybase.txt",
+        "service_url": "http://olivier.mehani.name",
+        "presentation_group": "olivier.mehani.name",
+        "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "www.narf.ssji.net",
+        "state": 1,
+        "proof_url": "http://www.narf.ssji.net/.well-known/keybase.txt",
+        "sig_id": "cc0860935c1b1cb2adcc78d2c707c0b9d8d7dfbb598a238411b95b08875729250f",
+        "proof_id": "e555e17919cae23ce4d1cc10",
+        "human_url": "http://www.narf.ssji.net/.well-known/keybase.txt",
+        "service_url": "http://www.narf.ssji.net",
+        "presentation_group": "www.narf.ssji.net",
+        "presentation_tag": "http"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2503950ab65dae3d1f59a7c3e1484005_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/a5116929a1b200cf3c724b444dc5c205_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
