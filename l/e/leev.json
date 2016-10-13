@@ -4,15 +4,15 @@
     "username": "leev",
     "ctime": 1456839404,
     "mtime": 1456839404,
-    "id_version": 81,
-    "track_version": 4,
-    "last_id_change": 1467187891,
+    "id_version": 100,
+    "track_version": 6,
+    "last_id_change": 1476030146,
     "username_cased": "leev"
   },
   "profile": {
-    "mtime": 1456840051,
+    "mtime": 1473869273,
     "full_name": "Lee Valentine",
-    "location": " Windsor, UK",
+    "location": "Kent, UK",
     "bio": null
   },
   "public_keys": {
@@ -155,6 +155,18 @@
         },
         {
           "proof_type": "generic_web_site",
+          "nametag": "lee.org.au",
+          "state": 1,
+          "proof_url": "https://lee.org.au/.well-known/keybase.txt",
+          "sig_id": "88fa2a0a5b318fdcb62fe8e8371a401aa0327214f42b4324f496df67ce770b3c0f",
+          "proof_id": "2b32d6c706923378314fc110",
+          "human_url": "https://lee.org.au/.well-known/keybase.txt",
+          "service_url": "https://lee.org.au",
+          "presentation_group": "lee.org.au",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
           "nametag": "routed.org",
           "state": 1,
           "proof_url": "https://routed.org/.well-known/keybase.txt",
@@ -167,6 +179,18 @@
         }
       ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "lee.org.au",
+          "state": 1,
+          "proof_url": "https://keybase.io/leev/sigchain#41bfb9fe48d191d3e8353ecd655d3484b4078e439411921b5711990e8024ea3f0f",
+          "sig_id": "41bfb9fe48d191d3e8353ecd655d3484b4078e439411921b5711990e8024ea3f0f",
+          "proof_id": "316ae77b826b7d8b9326f610",
+          "human_url": "dns://lee.org.au",
+          "service_url": "http://lee.org.au",
+          "presentation_group": "lee.org.au",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "leev.net",
@@ -262,6 +286,32 @@
           "presentation_tag": "dns"
         }
       ],
+      "lee.org.au": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "lee.org.au",
+          "state": 1,
+          "proof_url": "https://lee.org.au/.well-known/keybase.txt",
+          "sig_id": "88fa2a0a5b318fdcb62fe8e8371a401aa0327214f42b4324f496df67ce770b3c0f",
+          "proof_id": "2b32d6c706923378314fc110",
+          "human_url": "https://lee.org.au/.well-known/keybase.txt",
+          "service_url": "https://lee.org.au",
+          "presentation_group": "lee.org.au",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "lee.org.au",
+          "state": 1,
+          "proof_url": "https://keybase.io/leev/sigchain#41bfb9fe48d191d3e8353ecd655d3484b4078e439411921b5711990e8024ea3f0f",
+          "sig_id": "41bfb9fe48d191d3e8353ecd655d3484b4078e439411921b5711990e8024ea3f0f",
+          "proof_id": "316ae77b826b7d8b9326f610",
+          "human_url": "dns://lee.org.au",
+          "service_url": "http://lee.org.au",
+          "presentation_group": "lee.org.au",
+          "presentation_tag": "dns"
+        }
+      ],
       "routed.org": [
         {
           "proof_type": "generic_web_site",
@@ -328,6 +378,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "lee.org.au",
+        "state": 1,
+        "proof_url": "https://keybase.io/leev/sigchain#41bfb9fe48d191d3e8353ecd655d3484b4078e439411921b5711990e8024ea3f0f",
+        "sig_id": "41bfb9fe48d191d3e8353ecd655d3484b4078e439411921b5711990e8024ea3f0f",
+        "proof_id": "316ae77b826b7d8b9326f610",
+        "human_url": "dns://lee.org.au",
+        "service_url": "http://lee.org.au",
+        "presentation_group": "lee.org.au",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "leev.net",
         "state": 1,
         "proof_url": "https://keybase.io/leev/sigchain#b58cdf538ffebfb55060093713b67b4ebe4a78439722591078276ff17e3d0eec0f",
@@ -364,6 +426,18 @@
       },
       {
         "proof_type": "generic_web_site",
+        "nametag": "lee.org.au",
+        "state": 1,
+        "proof_url": "https://lee.org.au/.well-known/keybase.txt",
+        "sig_id": "88fa2a0a5b318fdcb62fe8e8371a401aa0327214f42b4324f496df67ce770b3c0f",
+        "proof_id": "2b32d6c706923378314fc110",
+        "human_url": "https://lee.org.au/.well-known/keybase.txt",
+        "service_url": "https://lee.org.au",
+        "presentation_group": "lee.org.au",
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
         "nametag": "routed.org",
         "state": 1,
         "proof_url": "https://routed.org/.well-known/keybase.txt",
@@ -387,9 +461,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "ebc1f0ec59d2f4ac5e8686cef3be6775cb5ee2450db0307c4bfd2e6135bb4f2e0f",
-      "seqno": 45,
-      "payload_hash": "aa7be72770f6a8d2656aed258aa3c95c6687d22b3dd805c9abf82a5fc8378671"
+      "sig_id": "41bfb9fe48d191d3e8353ecd655d3484b4078e439411921b5711990e8024ea3f0f",
+      "seqno": 49,
+      "payload_hash": "1ccf7fff7d3301ee0aa30b9197ce44dbfac1d1a2c52309187c0f8c51e7c447d5"
     }
   },
   "devices": {
