@@ -4,9 +4,9 @@
     "username": "kinosang",
     "ctime": 1421059753,
     "mtime": 1421059753,
-    "id_version": 110,
+    "id_version": 112,
     "track_version": 6,
-    "last_id_change": 1470283322,
+    "last_id_change": 1470961777,
     "username_cased": "kinosang"
   },
   "profile": {
@@ -149,7 +149,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/kinosang",
+          "nametag": "kinosang",
           "state": 1,
           "proof_url": "https://coinbase.com/kinosang/public-key",
           "sig_id": "0ca4d627386cd065f4af5e5ea3020d6e573d7e482943addcbf0494cd04ce84dd0f",
@@ -235,7 +235,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/kinosang",
+          "nametag": "kinosang",
           "state": 1,
           "proof_url": "https://coinbase.com/kinosang/public-key",
           "sig_id": "0ca4d627386cd065f4af5e5ea3020d6e573d7e482943addcbf0494cd04ce84dd0f",
@@ -314,7 +314,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/kinosang",
+        "nametag": "kinosang",
         "state": 1,
         "proof_url": "https://coinbase.com/kinosang/public-key",
         "sig_id": "0ca4d627386cd065f4af5e5ea3020d6e573d7e482943addcbf0494cd04ce84dd0f",
@@ -374,25 +374,6 @@
     }
   },
   "devices": {
-    "9b4806558a3854662ff7d5af22901618": {
-      "type": "backup",
-      "ctime": 1459443476,
-      "mtime": 1459443476,
-      "name": "salt maple",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120b09687b51d5cbcbac3af2daf0fe3645dc2c625e8ab3487acd927dbedd99cb9090a",
-          "key_role": 1,
-          "sig_id": "2add26331393a27a256c4751e70aa8d1908961d4d7b4af73ff6e34b85a67e9940f"
-        },
-        {
-          "kid": "0121d2b74406bd0acd984c14508a0b870d0328f12f2df17cb29fa961cd9b962396220a",
-          "key_role": 2,
-          "sig_id": "15036aa37a873277d1fba8183f0d5ad8e4a6d89a32b5be1ad855f59016e0dec40f"
-        }
-      ]
-    },
     "ada7164015477e1cdeb891d11a9f9d18": {
       "type": "desktop",
       "ctime": 1459443474,
@@ -409,6 +390,25 @@
           "kid": "012191d42320f7e91d3a49cf00b97d2ab32183190fd2a65f2ed38c0039c8a453b1420a",
           "key_role": 2,
           "sig_id": "1a6c11d6646586bd8bb4063c3f25d463f3aa43eb5d14cef113b10123241862790f"
+        }
+      ]
+    },
+    "9b4806558a3854662ff7d5af22901618": {
+      "type": "backup",
+      "ctime": 1459443476,
+      "mtime": 1459443476,
+      "name": "salt maple",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b09687b51d5cbcbac3af2daf0fe3645dc2c625e8ab3487acd927dbedd99cb9090a",
+          "key_role": 1,
+          "sig_id": "2add26331393a27a256c4751e70aa8d1908961d4d7b4af73ff6e34b85a67e9940f"
+        },
+        {
+          "kid": "0121d2b74406bd0acd984c14508a0b870d0328f12f2df17cb29fa961cd9b962396220a",
+          "key_role": 2,
+          "sig_id": "15036aa37a873277d1fba8183f0d5ad8e4a6d89a32b5be1ad855f59016e0dec40f"
         }
       ]
     }
