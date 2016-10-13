@@ -4,9 +4,9 @@
     "username": "jeremiahfoster",
     "ctime": 1458388744,
     "mtime": 1458388744,
-    "id_version": 23,
+    "id_version": 30,
     "track_version": 7,
-    "last_id_change": 1458913123,
+    "last_id_change": 1473877132,
     "username_cased": "jeremiahfoster"
   },
   "profile": {
@@ -39,16 +39,20 @@
       "01219a39bb43e5cf02293d6778fd44e1a6efbc8eb000f020b35b4d3ac793f730390f0a",
       "01203e0cc3a84c2da4eb13e789430a7b653db269ac50f5de2404f2aac8e72fd41e040a",
       "01212a4723b1b45eca7f8f87112d8cec47426da2e355e8003e28ce47257aef6a58620a",
-      "01202055bcde03edfc6507ec184082706301f452c64296c4136bb2f217921126a7af0a"
+      "01202055bcde03edfc6507ec184082706301f452c64296c4136bb2f217921126a7af0a",
+      "01217d5b56a394bda7083367250334fb618b994c57fd64da71951489b647511f96640a",
+      "01201c1d15a0619573fc843d553977b1b428672df8fd4cfddc80b865cdc820c8cdfa0a"
     ],
     "subkeys": [
       "01219a39bb43e5cf02293d6778fd44e1a6efbc8eb000f020b35b4d3ac793f730390f0a",
-      "01212a4723b1b45eca7f8f87112d8cec47426da2e355e8003e28ce47257aef6a58620a"
+      "01212a4723b1b45eca7f8f87112d8cec47426da2e355e8003e28ce47257aef6a58620a",
+      "01217d5b56a394bda7083367250334fb618b994c57fd64da71951489b647511f96640a"
     ],
     "sibkeys": [
       "0101472663f4124b3cbc4ea3696ad63dce01c5606fe298e93fd529335362cbd5d63b0a",
       "01203e0cc3a84c2da4eb13e789430a7b653db269ac50f5de2404f2aac8e72fd41e040a",
-      "01202055bcde03edfc6507ec184082706301f452c64296c4136bb2f217921126a7af0a"
+      "01202055bcde03edfc6507ec184082706301f452c64296c4136bb2f217921126a7af0a",
+      "01201c1d15a0619573fc843d553977b1b428672df8fd4cfddc80b865cdc820c8cdfa0a"
     ],
     "families": {
       "0101472663f4124b3cbc4ea3696ad63dce01c5606fe298e93fd529335362cbd5d63b0a": [
@@ -57,7 +61,9 @@
         "01219a39bb43e5cf02293d6778fd44e1a6efbc8eb000f020b35b4d3ac793f730390f0a",
         "01203e0cc3a84c2da4eb13e789430a7b653db269ac50f5de2404f2aac8e72fd41e040a",
         "01212a4723b1b45eca7f8f87112d8cec47426da2e355e8003e28ce47257aef6a58620a",
-        "01202055bcde03edfc6507ec184082706301f452c64296c4136bb2f217921126a7af0a"
+        "01202055bcde03edfc6507ec184082706301f452c64296c4136bb2f217921126a7af0a",
+        "01217d5b56a394bda7083367250334fb618b994c57fd64da71951489b647511f96640a",
+        "01201c1d15a0619573fc843d553977b1b428672df8fd4cfddc80b865cdc820c8cdfa0a"
       ]
     },
     "eldest_kid": "0101472663f4124b3cbc4ea3696ad63dce01c5606fe298e93fd529335362cbd5d63b0a",
@@ -205,12 +211,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f78ca7b3decb4082499ccb5df324ec80ba3d3e5ffe2f5175fffb61aa1bec501e0f",
-      "seqno": 22,
-      "payload_hash": "0961e250a9f07179f6e6f766076e907f6d661ad59a9dd43edcc6127ba0ffc247"
+      "sig_id": "e072f6b5eea8e338911e94499ad2aaa0c23e2ca5814ee7b8226b90cdad637ce70f",
+      "seqno": 24,
+      "payload_hash": "32c1d7d0f1139cb7ad8bd631c055604229886b5582211612749c725eddf16553"
     }
   },
   "devices": {
+    "0ba98ad8b585aace9c8a6c89ed83f118": {
+      "type": "desktop",
+      "ctime": 1472410014,
+      "mtime": 1472410014,
+      "name": "jefo-debian",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201c1d15a0619573fc843d553977b1b428672df8fd4cfddc80b865cdc820c8cdfa0a",
+          "key_role": 1,
+          "sig_id": "cfdf32fdcac9d82cbec0719e44faf894e8b5ef2573bef72408e6eebb2fd759410f"
+        },
+        {
+          "kid": "01217d5b56a394bda7083367250334fb618b994c57fd64da71951489b647511f96640a",
+          "key_role": 2,
+          "sig_id": "e072f6b5eea8e338911e94499ad2aaa0c23e2ca5814ee7b8226b90cdad637ce70f"
+        }
+      ]
+    },
     "59f4ebe89a7f6c9d68a2c97134508918": {
       "type": "backup",
       "ctime": 1458913123,
