@@ -4,9 +4,9 @@
     "username": "clee",
     "ctime": 1397421217,
     "mtime": 1397421217,
-    "id_version": 115,
+    "id_version": 120,
     "track_version": 11,
-    "last_id_change": 1470266119,
+    "last_id_change": 1473814118,
     "username_cased": "clee"
   },
   "profile": {
@@ -98,7 +98,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/slashclee",
+          "nametag": "slashclee",
           "state": 1,
           "proof_url": "https://coinbase.com/slashclee/public-key",
           "sig_id": "f2dbe2809006bbf592794638bc7aea961ed9ed2dd468e5b848d655f8edbb0b190f",
@@ -110,6 +110,18 @@
         }
       ],
       "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "c133.org",
+          "state": 1,
+          "proof_url": "https://c133.org/.well-known/keybase.txt",
+          "sig_id": "f89be997b89d17c5f09330a09060c21e6b2cf90d530405e85b873c85d790f9ad0f",
+          "proof_id": "3f194b4797fd4fd302c05b10",
+          "human_url": "https://c133.org/.well-known/keybase.txt",
+          "service_url": "https://c133.org",
+          "presentation_group": "c133.org",
+          "presentation_tag": "https"
+        },
         {
           "proof_type": "generic_web_site",
           "nametag": "mg8.org",
@@ -208,7 +220,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/slashclee",
+          "nametag": "slashclee",
           "state": 1,
           "proof_url": "https://coinbase.com/slashclee/public-key",
           "sig_id": "f2dbe2809006bbf592794638bc7aea961ed9ed2dd468e5b848d655f8edbb0b190f",
@@ -217,6 +229,32 @@
           "service_url": "https://coinbase.com/slashclee",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "c133.org": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "c133.org",
+          "state": 1,
+          "proof_url": "https://c133.org/.well-known/keybase.txt",
+          "sig_id": "f89be997b89d17c5f09330a09060c21e6b2cf90d530405e85b873c85d790f9ad0f",
+          "proof_id": "3f194b4797fd4fd302c05b10",
+          "human_url": "https://c133.org/.well-known/keybase.txt",
+          "service_url": "https://c133.org",
+          "presentation_group": "c133.org",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "c133.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/clee/sigchain#7bb37d415bb9d7ac144597aa02e0067fd290e2742088c3134644806624544ef60f",
+          "sig_id": "7bb37d415bb9d7ac144597aa02e0067fd290e2742088c3134644806624544ef60f",
+          "proof_id": "63fd91e5c05b90bc56d7ce10",
+          "human_url": "dns://c133.org",
+          "service_url": "http://c133.org",
+          "presentation_group": "c133.org",
+          "presentation_tag": "dns"
         }
       ],
       "mg8.org": [
@@ -242,20 +280,6 @@
           "human_url": "dns://mg8.org",
           "service_url": "http://mg8.org",
           "presentation_group": "mg8.org",
-          "presentation_tag": "dns"
-        }
-      ],
-      "c133.org": [
-        {
-          "proof_type": "dns",
-          "nametag": "c133.org",
-          "state": 1,
-          "proof_url": "https://keybase.io/clee/sigchain#7bb37d415bb9d7ac144597aa02e0067fd290e2742088c3134644806624544ef60f",
-          "sig_id": "7bb37d415bb9d7ac144597aa02e0067fd290e2742088c3134644806624544ef60f",
-          "proof_id": "63fd91e5c05b90bc56d7ce10",
-          "human_url": "dns://c133.org",
-          "service_url": "http://c133.org",
-          "presentation_group": "c133.org",
           "presentation_tag": "dns"
         }
       ],
@@ -313,7 +337,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/slashclee",
+        "nametag": "slashclee",
         "state": 1,
         "proof_url": "https://coinbase.com/slashclee/public-key",
         "sig_id": "f2dbe2809006bbf592794638bc7aea961ed9ed2dd468e5b848d655f8edbb0b190f",
@@ -370,6 +394,18 @@
         "service_url": "http://mg8.org",
         "presentation_group": "mg8.org",
         "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "c133.org",
+        "state": 1,
+        "proof_url": "https://c133.org/.well-known/keybase.txt",
+        "sig_id": "f89be997b89d17c5f09330a09060c21e6b2cf90d530405e85b873c85d790f9ad0f",
+        "proof_id": "3f194b4797fd4fd302c05b10",
+        "human_url": "https://c133.org/.well-known/keybase.txt",
+        "service_url": "https://c133.org",
+        "presentation_group": "c133.org",
+        "presentation_tag": "https"
       }
     ]
   },
