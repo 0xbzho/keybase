@@ -4,9 +4,9 @@
     "username": "andrewcobaugh",
     "ctime": 1438113318,
     "mtime": 1438113318,
-    "id_version": 15,
+    "id_version": 29,
     "track_version": 8,
-    "last_id_change": 1460999493,
+    "last_id_change": 1472823546,
     "username_cased": "andrewcobaugh"
   },
   "profile": {
@@ -41,18 +41,22 @@
       "0120a67f1125bc0dce8d0a2e2c7ca2a9edb7582c7575a666a5f18cd85630337e46610a",
       "01211b159612fa26f9db2362173c55b141c47ce5b0f6d56bb5a5706244b6833ad5340a",
       "0120a8d62c9fb2deaeaba88d0991d98db340b6f819a80419f7f30a03d0ae2a84ccda0a",
-      "012101f4421ae23ffdbe706d1d831044b88a99d601b6d1fe8aaba3b7ee20fd4f0b650a"
+      "012101f4421ae23ffdbe706d1d831044b88a99d601b6d1fe8aaba3b7ee20fd4f0b650a",
+      "0121360ba6558a64ebf2c7aae13e68d565bc7d1d9d1107dff8eab6579f399c9d97240a",
+      "0120c18aa0e6409183c3d30f56235b23fe8b4d68956e203e2a60945b763f6ef3c6a90a"
     ],
     "subkeys": [
       "01219b2815e5180e86310aed4038eb9f8de74dc9ca9063858dd83ca5130871df3e6a0a",
       "01211b159612fa26f9db2362173c55b141c47ce5b0f6d56bb5a5706244b6833ad5340a",
-      "012101f4421ae23ffdbe706d1d831044b88a99d601b6d1fe8aaba3b7ee20fd4f0b650a"
+      "012101f4421ae23ffdbe706d1d831044b88a99d601b6d1fe8aaba3b7ee20fd4f0b650a",
+      "0121360ba6558a64ebf2c7aae13e68d565bc7d1d9d1107dff8eab6579f399c9d97240a"
     ],
     "sibkeys": [
       "0101befa2a572c37a1512a1fe75816c9ddb869621fc3d4c4602d822b1ec057a9596a0a",
       "01206b974d2f5958c363e4cb1e3975286bd564c43d20abd8745b91f6cc5a5202136b0a",
       "0120a67f1125bc0dce8d0a2e2c7ca2a9edb7582c7575a666a5f18cd85630337e46610a",
-      "0120a8d62c9fb2deaeaba88d0991d98db340b6f819a80419f7f30a03d0ae2a84ccda0a"
+      "0120a8d62c9fb2deaeaba88d0991d98db340b6f819a80419f7f30a03d0ae2a84ccda0a",
+      "0120c18aa0e6409183c3d30f56235b23fe8b4d68956e203e2a60945b763f6ef3c6a90a"
     ],
     "families": {
       "0101befa2a572c37a1512a1fe75816c9ddb869621fc3d4c4602d822b1ec057a9596a0a": [
@@ -63,7 +67,9 @@
         "0120a67f1125bc0dce8d0a2e2c7ca2a9edb7582c7575a666a5f18cd85630337e46610a",
         "01211b159612fa26f9db2362173c55b141c47ce5b0f6d56bb5a5706244b6833ad5340a",
         "0120a8d62c9fb2deaeaba88d0991d98db340b6f819a80419f7f30a03d0ae2a84ccda0a",
-        "012101f4421ae23ffdbe706d1d831044b88a99d601b6d1fe8aaba3b7ee20fd4f0b650a"
+        "012101f4421ae23ffdbe706d1d831044b88a99d601b6d1fe8aaba3b7ee20fd4f0b650a",
+        "0121360ba6558a64ebf2c7aae13e68d565bc7d1d9d1107dff8eab6579f399c9d97240a",
+        "0120c18aa0e6409183c3d30f56235b23fe8b4d68956e203e2a60945b763f6ef3c6a90a"
       ]
     },
     "eldest_kid": "0101befa2a572c37a1512a1fe75816c9ddb869621fc3d4c4602d822b1ec057a9596a0a",
@@ -74,20 +80,6 @@
   },
   "proofs_summary": {
     "by_proof_type": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "phalenor",
-          "state": 1,
-          "proof_url": "https://twitter.com/phalenor/status/633739958834978816",
-          "sig_id": "629a03e3ba07d6e53b8a265fb89828ca355a2dda8d3e3497a45893d93ad00cf20f",
-          "proof_id": "49683db4d922fb9f54385010",
-          "human_url": "https://twitter.com/phalenor/status/633739958834978816",
-          "service_url": "https://twitter.com/phalenor",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -100,24 +92,36 @@
           "service_url": "https://github.com/cobaugh",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "kb3ewy.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/andrewcobaugh/sigchain#e74d70baa2bebe80e16cb9d82948f24cab3322a74f5cbb85cde21cb9db737de00f",
+          "sig_id": "e74d70baa2bebe80e16cb9d82948f24cab3322a74f5cbb85cde21cb9db737de00f",
+          "proof_id": "986913c29597f40cb3b16d10",
+          "human_url": "dns://kb3ewy.com",
+          "service_url": "http://kb3ewy.com",
+          "presentation_group": "kb3ewy.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "phalengard.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/andrewcobaugh/sigchain#26d4e33386e6835d196cb477c5da1105022963266e1f42edf7a54c74f72249ef0f",
+          "sig_id": "26d4e33386e6835d196cb477c5da1105022963266e1f42edf7a54c74f72249ef0f",
+          "proof_id": "9d3edd23087b8db1654b8110",
+          "human_url": "dns://phalengard.com",
+          "service_url": "http://phalengard.com",
+          "presentation_group": "phalengard.com",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "phalenor",
-          "state": 1,
-          "proof_url": "https://twitter.com/phalenor/status/633739958834978816",
-          "sig_id": "629a03e3ba07d6e53b8a265fb89828ca355a2dda8d3e3497a45893d93ad00cf20f",
-          "proof_id": "49683db4d922fb9f54385010",
-          "human_url": "https://twitter.com/phalenor/status/633739958834978816",
-          "service_url": "https://twitter.com/phalenor",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -131,21 +135,37 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "kb3ewy.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "kb3ewy.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/andrewcobaugh/sigchain#e74d70baa2bebe80e16cb9d82948f24cab3322a74f5cbb85cde21cb9db737de00f",
+          "sig_id": "e74d70baa2bebe80e16cb9d82948f24cab3322a74f5cbb85cde21cb9db737de00f",
+          "proof_id": "986913c29597f40cb3b16d10",
+          "human_url": "dns://kb3ewy.com",
+          "service_url": "http://kb3ewy.com",
+          "presentation_group": "kb3ewy.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "phalengard.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "phalengard.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/andrewcobaugh/sigchain#26d4e33386e6835d196cb477c5da1105022963266e1f42edf7a54c74f72249ef0f",
+          "sig_id": "26d4e33386e6835d196cb477c5da1105022963266e1f42edf7a54c74f72249ef0f",
+          "proof_id": "9d3edd23087b8db1654b8110",
+          "human_url": "dns://phalengard.com",
+          "service_url": "http://phalengard.com",
+          "presentation_group": "phalengard.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
-      {
-        "proof_type": "twitter",
-        "nametag": "phalenor",
-        "state": 1,
-        "proof_url": "https://twitter.com/phalenor/status/633739958834978816",
-        "sig_id": "629a03e3ba07d6e53b8a265fb89828ca355a2dda8d3e3497a45893d93ad00cf20f",
-        "proof_id": "49683db4d922fb9f54385010",
-        "human_url": "https://twitter.com/phalenor/status/633739958834978816",
-        "service_url": "https://twitter.com/phalenor",
-        "presentation_group": "twitter",
-        "presentation_tag": "tweet"
-      },
       {
         "proof_type": "github",
         "nametag": "cobaugh",
@@ -157,23 +177,47 @@
         "service_url": "https://github.com/cobaugh",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "kb3ewy.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/andrewcobaugh/sigchain#e74d70baa2bebe80e16cb9d82948f24cab3322a74f5cbb85cde21cb9db737de00f",
+        "sig_id": "e74d70baa2bebe80e16cb9d82948f24cab3322a74f5cbb85cde21cb9db737de00f",
+        "proof_id": "986913c29597f40cb3b16d10",
+        "human_url": "dns://kb3ewy.com",
+        "service_url": "http://kb3ewy.com",
+        "presentation_group": "kb3ewy.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "phalengard.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/andrewcobaugh/sigchain#26d4e33386e6835d196cb477c5da1105022963266e1f42edf7a54c74f72249ef0f",
+        "sig_id": "26d4e33386e6835d196cb477c5da1105022963266e1f42edf7a54c74f72249ef0f",
+        "proof_id": "9d3edd23087b8db1654b8110",
+        "human_url": "dns://phalengard.com",
+        "service_url": "http://phalengard.com",
+        "presentation_group": "phalengard.com",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/53ef2d9121e076cba2cc16f7c28a0905_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/92f87277c1b7b1a46cd4c7f7223c2b05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "92938315a162cf72803a5c984e017a6e050ea79daf10c47e8da0c6bd6b0c1e7f0f",
-      "seqno": 17,
-      "payload_hash": "499ab697800e326c0fa444ece356d038140f3260b541751de43888f7be2a4b6b"
+      "sig_id": "26d4e33386e6835d196cb477c5da1105022963266e1f42edf7a54c74f72249ef0f",
+      "seqno": 23,
+      "payload_hash": "0be5b2852ac287a1577a67217aebad73cf42c6272df48812abe5f6bf7ce86f95"
     }
   },
   "devices": {
@@ -231,6 +275,25 @@
           "kid": "01219b2815e5180e86310aed4038eb9f8de74dc9ca9063858dd83ca5130871df3e6a0a",
           "key_role": 2,
           "sig_id": "ceae5106b66cf4ba89ab65ac8064e04360e3bf2ca04fb39e45b177908013fbef0f"
+        }
+      ]
+    },
+    "d7fbce51495dbcf54f0c78d628bafe18": {
+      "type": "desktop",
+      "ctime": 1470681398,
+      "mtime": 1470681398,
+      "name": "kinnaird",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120c18aa0e6409183c3d30f56235b23fe8b4d68956e203e2a60945b763f6ef3c6a90a",
+          "key_role": 1,
+          "sig_id": "8ff9d5170b3736864af6ce4afe5bccf29d2387afa3dc73dbbb8e9da7e03d54b60f"
+        },
+        {
+          "kid": "0121360ba6558a64ebf2c7aae13e68d565bc7d1d9d1107dff8eab6579f399c9d97240a",
+          "key_role": 2,
+          "sig_id": "7efc74bc7042e8e8dbf5d8efab80dde5f492eb806eb70c9f60b7bfc1476c19e70f"
         }
       ]
     }
