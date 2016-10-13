@@ -4,16 +4,16 @@
     "username": "tharoldeus",
     "ctime": 1446521291,
     "mtime": 1446521291,
-    "id_version": 55,
-    "track_version": 1,
-    "last_id_change": 1469065212,
+    "id_version": 65,
+    "track_version": 14,
+    "last_id_change": 1474788058,
     "username_cased": "tharoldeus"
   },
   "profile": {
-    "mtime": 1446521635,
+    "mtime": 1474071227,
     "full_name": "Thaddeus Harold Wood",
-    "location": null,
-    "bio": null
+    "location": "Over there, somewhere.",
+    "bio": "Wherever you go, there you are."
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,20 @@
       "0121ce354ed2012a10d75e1ec789ef7927e07a5503c75cfab610ca774ffa45e64b690a",
       "0120ebc73e8d29e62510ce49c73316f19363b3c8bcc37f057836eb3af5421dfff24d0a",
       "012064cb1c3213dd1bb17127d24c647b55b26a7f785e84c06bd78cb778ed8b32ff3e0a",
-      "01218c0814d8ea7ab88121a8d92c0e9a076727d4e68035378f3a9b2eb90bb98f18150a"
+      "01218c0814d8ea7ab88121a8d92c0e9a076727d4e68035378f3a9b2eb90bb98f18150a",
+      "012003199bb122857df6712dfaa1360c66e91d364aba2b4220494d27f564ead3dec30a",
+      "012199a3745677e0955b53e166690d21df6d06fd44cf256a0ec9741ff768fc100a230a"
     ],
     "subkeys": [
       "0121ce354ed2012a10d75e1ec789ef7927e07a5503c75cfab610ca774ffa45e64b690a",
-      "01218c0814d8ea7ab88121a8d92c0e9a076727d4e68035378f3a9b2eb90bb98f18150a"
+      "01218c0814d8ea7ab88121a8d92c0e9a076727d4e68035378f3a9b2eb90bb98f18150a",
+      "012199a3745677e0955b53e166690d21df6d06fd44cf256a0ec9741ff768fc100a230a"
     ],
     "sibkeys": [
       "01018cce1229aba87f5521f76fcc17b78e3690aca6450c73f1fffa430f0557cb7e580a",
       "0120ebc73e8d29e62510ce49c73316f19363b3c8bcc37f057836eb3af5421dfff24d0a",
-      "012064cb1c3213dd1bb17127d24c647b55b26a7f785e84c06bd78cb778ed8b32ff3e0a"
+      "012064cb1c3213dd1bb17127d24c647b55b26a7f785e84c06bd78cb778ed8b32ff3e0a",
+      "012003199bb122857df6712dfaa1360c66e91d364aba2b4220494d27f564ead3dec30a"
     ],
     "families": {
       "01018cce1229aba87f5521f76fcc17b78e3690aca6450c73f1fffa430f0557cb7e580a": [
@@ -55,7 +59,9 @@
         "0121ce354ed2012a10d75e1ec789ef7927e07a5503c75cfab610ca774ffa45e64b690a",
         "0120ebc73e8d29e62510ce49c73316f19363b3c8bcc37f057836eb3af5421dfff24d0a",
         "012064cb1c3213dd1bb17127d24c647b55b26a7f785e84c06bd78cb778ed8b32ff3e0a",
-        "01218c0814d8ea7ab88121a8d92c0e9a076727d4e68035378f3a9b2eb90bb98f18150a"
+        "01218c0814d8ea7ab88121a8d92c0e9a076727d4e68035378f3a9b2eb90bb98f18150a",
+        "012003199bb122857df6712dfaa1360c66e91d364aba2b4220494d27f564ead3dec30a",
+        "012199a3745677e0955b53e166690d21df6d06fd44cf256a0ec9741ff768fc100a230a"
       ]
     },
     "eldest_kid": "01018cce1229aba87f5521f76fcc17b78e3690aca6450c73f1fffa430f0557cb7e580a",
@@ -111,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/tharoldeus",
+          "nametag": "tharoldeus",
           "state": 1,
           "proof_url": "https://coinbase.com/tharoldeus/public-key",
           "sig_id": "98d54f39083a6f432f34b81c64d8ca4d78bda7a5fc99fddc71122f491897f6a20f",
@@ -120,6 +126,34 @@
           "service_url": "https://coinbase.com/tharoldeus",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "tharoldeus",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=tharoldeus",
+          "sig_id": "71ed6f46c311e98bf985d0923286de835d7da9b831dd302df269c7e1c76d5b3b0f",
+          "proof_id": "5f18a4dbb2da25c7e21b0810",
+          "human_url": "https://news.ycombinator.com/user?id=tharoldeus",
+          "service_url": "https://news.ycombinator.com/user?id=tharoldeus",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "tharolde.us",
+          "state": 1,
+          "proof_url": "https://tharolde.us/.well-known/keybase.txt",
+          "sig_id": "1a3cfd206879461d84daf883c0f9df52ddcd39eeaab773c82a73e452b2b0bd8a0f",
+          "proof_id": "94c12dc88bb188df41f5ce10",
+          "human_url": "https://tharolde.us/.well-known/keybase.txt",
+          "service_url": "https://tharolde.us",
+          "presentation_group": "tharolde.us",
+          "presentation_tag": "https"
         }
       ],
       "dns": [
@@ -183,7 +217,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/tharoldeus",
+          "nametag": "tharoldeus",
           "state": 1,
           "proof_url": "https://coinbase.com/tharoldeus/public-key",
           "sig_id": "98d54f39083a6f432f34b81c64d8ca4d78bda7a5fc99fddc71122f491897f6a20f",
@@ -194,7 +228,33 @@
           "presentation_tag": "post"
         }
       ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "tharoldeus",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=tharoldeus",
+          "sig_id": "71ed6f46c311e98bf985d0923286de835d7da9b831dd302df269c7e1c76d5b3b0f",
+          "proof_id": "5f18a4dbb2da25c7e21b0810",
+          "human_url": "https://news.ycombinator.com/user?id=tharoldeus",
+          "service_url": "https://news.ycombinator.com/user?id=tharoldeus",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
       "tharolde.us": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "tharolde.us",
+          "state": 1,
+          "proof_url": "https://tharolde.us/.well-known/keybase.txt",
+          "sig_id": "1a3cfd206879461d84daf883c0f9df52ddcd39eeaab773c82a73e452b2b0bd8a0f",
+          "proof_id": "94c12dc88bb188df41f5ce10",
+          "human_url": "https://tharolde.us/.well-known/keybase.txt",
+          "service_url": "https://tharolde.us",
+          "presentation_group": "tharolde.us",
+          "presentation_tag": "https"
+        },
         {
           "proof_type": "dns",
           "nametag": "tharolde.us",
@@ -248,7 +308,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/tharoldeus",
+        "nametag": "tharoldeus",
         "state": 1,
         "proof_url": "https://coinbase.com/tharoldeus/public-key",
         "sig_id": "98d54f39083a6f432f34b81c64d8ca4d78bda7a5fc99fddc71122f491897f6a20f",
@@ -257,6 +317,18 @@
         "service_url": "https://coinbase.com/tharoldeus",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "hackernews",
+        "nametag": "tharoldeus",
+        "state": 1,
+        "proof_url": "https://news.ycombinator.com/user?id=tharoldeus",
+        "sig_id": "71ed6f46c311e98bf985d0923286de835d7da9b831dd302df269c7e1c76d5b3b0f",
+        "proof_id": "5f18a4dbb2da25c7e21b0810",
+        "human_url": "https://news.ycombinator.com/user?id=tharoldeus",
+        "service_url": "https://news.ycombinator.com/user?id=tharoldeus",
+        "presentation_group": "hackernews",
+        "presentation_tag": "profile"
       },
       {
         "proof_type": "dns",
@@ -269,6 +341,18 @@
         "service_url": "http://tharolde.us",
         "presentation_group": "tharolde.us",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "tharolde.us",
+        "state": 1,
+        "proof_url": "https://tharolde.us/.well-known/keybase.txt",
+        "sig_id": "1a3cfd206879461d84daf883c0f9df52ddcd39eeaab773c82a73e452b2b0bd8a0f",
+        "proof_id": "94c12dc88bb188df41f5ce10",
+        "human_url": "https://tharolde.us/.well-known/keybase.txt",
+        "service_url": "https://tharolde.us",
+        "presentation_group": "tharolde.us",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -290,12 +374,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "fd71fba0665dcf33f1e54c83880618e330f84d13c5e5acb8d1730af6a08ad6bc0f",
-      "seqno": 14,
-      "payload_hash": "dedf0382b6c47d6082e71aab87f5713c86666407452b064cb8cf12b2383c7173"
+      "sig_id": "74770d36791b12d352f9b79060ff6f999bfbf823700b4805db46f6c8595d62c20f",
+      "seqno": 31,
+      "payload_hash": "c17302683f5860d47311b985801f1cbbefce465cddf6c964727c86f716ebe5ed"
     }
   },
   "devices": {
+    "985ecd58b871792c093fef4cbb266318": {
+      "type": "desktop",
+      "ctime": 1473888387,
+      "mtime": 1473888387,
+      "name": "stp",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012003199bb122857df6712dfaa1360c66e91d364aba2b4220494d27f564ead3dec30a",
+          "key_role": 1,
+          "sig_id": "4c254ed85dd08fde03b9b22dc66f02d2fb5cb30045825f84395b8c9b385dd8500f"
+        },
+        {
+          "kid": "012199a3745677e0955b53e166690d21df6d06fd44cf256a0ec9741ff768fc100a230a",
+          "key_role": 2,
+          "sig_id": "f9e06aa31954bdc4d28bb38d040f529dc22ba52bf15034ad6ae99c5cd1ad01eb0f"
+        }
+      ]
+    },
     "c9327cd56954ca96c2702056cb588e18": {
       "type": "backup",
       "ctime": 1461941080,
