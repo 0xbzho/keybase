@@ -4,9 +4,9 @@
     "username": "benedikt_wi",
     "ctime": 1438631194,
     "mtime": 1438631194,
-    "id_version": 13,
-    "track_version": 3,
-    "last_id_change": 1469215038,
+    "id_version": 19,
+    "track_version": 7,
+    "last_id_change": 1475098178,
     "username_cased": "benedikt_wi"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "012027a3428e19d152accfde859436590b4d5e66ba001a947ca56d6f5351580799f00a",
       "01217f3fa681cbbdd3c81aba751042f9627de737c9c4511dee48f171dc26d5a1db0f0a",
       "0121cdabbf73d691c612f842e45d6d85b5b8d0bc5786bbbcb084cb9ea0d3fcd12b6b0a",
-      "0120507195e175ba5ae55c084e788885da3752059a5280aded2678248295f78f60170a"
+      "0120507195e175ba5ae55c084e788885da3752059a5280aded2678248295f78f60170a",
+      "01219ae9571f80d875622d30469d05443711cece053914f4c43daeebc57ae8c4b43a0a",
+      "012063a4a0859f6d4be652be7e0b0607e5b3d714c685e03fb8bac6963572e346b4f70a"
     ],
     "subkeys": [
       "01217f3fa681cbbdd3c81aba751042f9627de737c9c4511dee48f171dc26d5a1db0f0a",
-      "0121cdabbf73d691c612f842e45d6d85b5b8d0bc5786bbbcb084cb9ea0d3fcd12b6b0a"
+      "0121cdabbf73d691c612f842e45d6d85b5b8d0bc5786bbbcb084cb9ea0d3fcd12b6b0a",
+      "01219ae9571f80d875622d30469d05443711cece053914f4c43daeebc57ae8c4b43a0a"
     ],
     "sibkeys": [
       "01017d8f8e8e14056f48ccb3a5b16643e1bd0ee309911b0cea2d7728d10022f0b7d80a",
       "012027a3428e19d152accfde859436590b4d5e66ba001a947ca56d6f5351580799f00a",
-      "0120507195e175ba5ae55c084e788885da3752059a5280aded2678248295f78f60170a"
+      "0120507195e175ba5ae55c084e788885da3752059a5280aded2678248295f78f60170a",
+      "012063a4a0859f6d4be652be7e0b0607e5b3d714c685e03fb8bac6963572e346b4f70a"
     ],
     "families": {
       "01017d8f8e8e14056f48ccb3a5b16643e1bd0ee309911b0cea2d7728d10022f0b7d80a": [
@@ -55,7 +59,9 @@
         "012027a3428e19d152accfde859436590b4d5e66ba001a947ca56d6f5351580799f00a",
         "01217f3fa681cbbdd3c81aba751042f9627de737c9c4511dee48f171dc26d5a1db0f0a",
         "0121cdabbf73d691c612f842e45d6d85b5b8d0bc5786bbbcb084cb9ea0d3fcd12b6b0a",
-        "0120507195e175ba5ae55c084e788885da3752059a5280aded2678248295f78f60170a"
+        "0120507195e175ba5ae55c084e788885da3752059a5280aded2678248295f78f60170a",
+        "01219ae9571f80d875622d30469d05443711cece053914f4c43daeebc57ae8c4b43a0a",
+        "012063a4a0859f6d4be652be7e0b0607e5b3d714c685e03fb8bac6963572e346b4f70a"
       ]
     },
     "eldest_kid": "01017d8f8e8e14056f48ccb3a5b16643e1bd0ee309911b0cea2d7728d10022f0b7d80a",
@@ -93,6 +99,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.benedikt-wildenhain.de",
+          "state": 1,
+          "proof_url": "http://www.benedikt-wildenhain.de/keybase.txt",
+          "sig_id": "a0db53fc8a538b2ec92f85e80929f450f14bf933f71d7cea6dc474a7b9a9b04b0f",
+          "proof_id": "43cc9b47dad63bc9bfaa6f10",
+          "human_url": "http://www.benedikt-wildenhain.de/keybase.txt",
+          "service_url": "http://www.benedikt-wildenhain.de",
+          "presentation_group": "www.benedikt-wildenhain.de",
+          "presentation_tag": "http"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "benedikt-wildenhain.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/benedikt_wi/sigchain#df9b18c98b524ff688e39b4ddc7338bd40fb1137a3798cd7325ae7a5e0ea5a0c0f",
+          "sig_id": "df9b18c98b524ff688e39b4ddc7338bd40fb1137a3798cd7325ae7a5e0ea5a0c0f",
+          "proof_id": "83b5e27521048b39d89cca10",
+          "human_url": "dns://benedikt-wildenhain.de",
+          "service_url": "http://benedikt-wildenhain.de",
+          "presentation_group": "benedikt-wildenhain.de",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -123,6 +157,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "www.benedikt-wildenhain.de": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.benedikt-wildenhain.de",
+          "state": 1,
+          "proof_url": "http://www.benedikt-wildenhain.de/keybase.txt",
+          "sig_id": "a0db53fc8a538b2ec92f85e80929f450f14bf933f71d7cea6dc474a7b9a9b04b0f",
+          "proof_id": "43cc9b47dad63bc9bfaa6f10",
+          "human_url": "http://www.benedikt-wildenhain.de/keybase.txt",
+          "service_url": "http://www.benedikt-wildenhain.de",
+          "presentation_group": "www.benedikt-wildenhain.de",
+          "presentation_tag": "http"
+        }
+      ],
+      "benedikt-wildenhain.de": [
+        {
+          "proof_type": "dns",
+          "nametag": "benedikt-wildenhain.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/benedikt_wi/sigchain#df9b18c98b524ff688e39b4ddc7338bd40fb1137a3798cd7325ae7a5e0ea5a0c0f",
+          "sig_id": "df9b18c98b524ff688e39b4ddc7338bd40fb1137a3798cd7325ae7a5e0ea5a0c0f",
+          "proof_id": "83b5e27521048b39d89cca10",
+          "human_url": "dns://benedikt-wildenhain.de",
+          "service_url": "http://benedikt-wildenhain.de",
+          "presentation_group": "benedikt-wildenhain.de",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -149,6 +211,30 @@
         "service_url": "https://github.com/bwildenhain",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "benedikt-wildenhain.de",
+        "state": 1,
+        "proof_url": "https://keybase.io/benedikt_wi/sigchain#df9b18c98b524ff688e39b4ddc7338bd40fb1137a3798cd7325ae7a5e0ea5a0c0f",
+        "sig_id": "df9b18c98b524ff688e39b4ddc7338bd40fb1137a3798cd7325ae7a5e0ea5a0c0f",
+        "proof_id": "83b5e27521048b39d89cca10",
+        "human_url": "dns://benedikt-wildenhain.de",
+        "service_url": "http://benedikt-wildenhain.de",
+        "presentation_group": "benedikt-wildenhain.de",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "www.benedikt-wildenhain.de",
+        "state": 1,
+        "proof_url": "http://www.benedikt-wildenhain.de/keybase.txt",
+        "sig_id": "a0db53fc8a538b2ec92f85e80929f450f14bf933f71d7cea6dc474a7b9a9b04b0f",
+        "proof_id": "43cc9b47dad63bc9bfaa6f10",
+        "human_url": "http://www.benedikt-wildenhain.de/keybase.txt",
+        "service_url": "http://www.benedikt-wildenhain.de",
+        "presentation_group": "www.benedikt-wildenhain.de",
+        "presentation_tag": "http"
       }
     ]
   },
@@ -163,12 +249,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c6bf1916373a864411f08c462489774aae357e1fe0cc4237414a38e025d017ce0f",
-      "seqno": 10,
-      "payload_hash": "0f0354c2d5b0c90d6251c6f9078cd252333cc69558d5fa69d4c1a39160b17b4f"
+      "sig_id": "cb4df2612cfea2d1cdf3d8d2d51bcaba07cacc7b8dd6c8d2116e11672d47f4290f",
+      "seqno": 17,
+      "payload_hash": "2da79f30014c42740322dee6d0362b75d4037205f5a881a40e816f2d62d88e6d"
     }
   },
   "devices": {
+    "03e6d0379b7682d49bd480120cf16e18": {
+      "type": "desktop",
+      "ctime": 1475098178,
+      "mtime": 1475098178,
+      "name": "kampo",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012063a4a0859f6d4be652be7e0b0607e5b3d714c685e03fb8bac6963572e346b4f70a",
+          "key_role": 1,
+          "sig_id": "e84b0d97181bfc45af85edbb2e24b6ad046f2ba3404fdcea489ef6fb22ffbba00f"
+        },
+        {
+          "kid": "01219ae9571f80d875622d30469d05443711cece053914f4c43daeebc57ae8c4b43a0a",
+          "key_role": 2,
+          "sig_id": "9ec4398092f4c6788dd6e98671c846223f1236ad3d57ed3fe27b93b8fd4b52690f"
+        }
+      ]
+    },
     "a5ea5070a95f60ab9c01ce7286badc18": {
       "type": "backup",
       "ctime": 1469215038,
