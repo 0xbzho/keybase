@@ -4,9 +4,9 @@
     "username": "webbson",
     "ctime": 1421924435,
     "mtime": 1421924435,
-    "id_version": 68,
-    "track_version": 0,
-    "last_id_change": 1470397472,
+    "id_version": 69,
+    "track_version": 1,
+    "last_id_change": 1476199354,
     "username_cased": "webbson"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "0120e59c7a8f1c4871f9943cca06f6d85fbd8f204b20a1d378cca9cc4990b531bd210a",
       "0121c8e689df5bdf2db3fd00efb3a4f85b8230b8f9527b6fcaf9890799f338d2c70d0a",
       "0120310cbdcbfe5b44e47e8f16a9bcb98e4d7ee0c2381a9c3eec489ef4e5f249a84c0a",
-      "0121b556babbf20947f0a1508c7de3a163f731c909f611d9428aee2f61b40507785b0a"
+      "0121b556babbf20947f0a1508c7de3a163f731c909f611d9428aee2f61b40507785b0a",
+      "0121b5e759d06c4cbd9a4bb836732afb0e89b3b6319d1fe8e6ab1535666da21ac0630a",
+      "012022f54b9068b3eadbe1359b19a0c2ffc793fae3a60fbddd210158e074a5443f290a"
     ],
     "subkeys": [
       "0121c8e689df5bdf2db3fd00efb3a4f85b8230b8f9527b6fcaf9890799f338d2c70d0a",
-      "0121b556babbf20947f0a1508c7de3a163f731c909f611d9428aee2f61b40507785b0a"
+      "0121b556babbf20947f0a1508c7de3a163f731c909f611d9428aee2f61b40507785b0a",
+      "0121b5e759d06c4cbd9a4bb836732afb0e89b3b6319d1fe8e6ab1535666da21ac0630a"
     ],
     "sibkeys": [
       "01016250bc14cd4d4a91b1f7e0acf2d1e415391114d8270483014f6a4d934bf7b1110a",
       "0120e59c7a8f1c4871f9943cca06f6d85fbd8f204b20a1d378cca9cc4990b531bd210a",
-      "0120310cbdcbfe5b44e47e8f16a9bcb98e4d7ee0c2381a9c3eec489ef4e5f249a84c0a"
+      "0120310cbdcbfe5b44e47e8f16a9bcb98e4d7ee0c2381a9c3eec489ef4e5f249a84c0a",
+      "012022f54b9068b3eadbe1359b19a0c2ffc793fae3a60fbddd210158e074a5443f290a"
     ],
     "families": {
       "01016250bc14cd4d4a91b1f7e0acf2d1e415391114d8270483014f6a4d934bf7b1110a": [
@@ -55,7 +59,9 @@
         "0120e59c7a8f1c4871f9943cca06f6d85fbd8f204b20a1d378cca9cc4990b531bd210a",
         "0121c8e689df5bdf2db3fd00efb3a4f85b8230b8f9527b6fcaf9890799f338d2c70d0a",
         "0120310cbdcbfe5b44e47e8f16a9bcb98e4d7ee0c2381a9c3eec489ef4e5f249a84c0a",
-        "0121b556babbf20947f0a1508c7de3a163f731c909f611d9428aee2f61b40507785b0a"
+        "0121b556babbf20947f0a1508c7de3a163f731c909f611d9428aee2f61b40507785b0a",
+        "0121b5e759d06c4cbd9a4bb836732afb0e89b3b6319d1fe8e6ab1535666da21ac0630a",
+        "012022f54b9068b3eadbe1359b19a0c2ffc793fae3a60fbddd210158e074a5443f290a"
       ]
     },
     "eldest_kid": "01016250bc14cd4d4a91b1f7e0acf2d1e415391114d8270483014f6a4d934bf7b1110a",
@@ -111,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/webbson",
+          "nametag": "webbson",
           "state": 1,
           "proof_url": "https://coinbase.com/webbson/public-key",
           "sig_id": "03d8c121101b1ba3c58dea99fd9d9712316e781704773e70374fa4212f0ba7570f",
@@ -195,7 +201,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/webbson",
+          "nametag": "webbson",
           "state": 1,
           "proof_url": "https://coinbase.com/webbson/public-key",
           "sig_id": "03d8c121101b1ba3c58dea99fd9d9712316e781704773e70374fa4212f0ba7570f",
@@ -274,7 +280,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/webbson",
+        "nametag": "webbson",
         "state": 1,
         "proof_url": "https://coinbase.com/webbson/public-key",
         "sig_id": "03d8c121101b1ba3c58dea99fd9d9712316e781704773e70374fa4212f0ba7570f",
@@ -328,12 +334,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "1ce68a0e4df4577b68b3b777595763343663c2533f3cbc657f195cee5a18e0100f",
-      "seqno": 13,
-      "payload_hash": "c28e75f7b1d0f37117f2756781706e66a537414704943a2ce31edbbabeb573ca"
+      "sig_id": "97ffade590a8163ccb2f8dc13576aad00f571b1346b08a22b46fa3d9d9773ca20f",
+      "seqno": 16,
+      "payload_hash": "8ebef0a74975de49ef8b0d928236153d7cd5b9a714c338d254b3bcb1ad27d6f1"
     }
   },
   "devices": {
+    "11f0a1e406aeeea4536b6735351f2918": {
+      "type": "desktop",
+      "ctime": 1476199354,
+      "mtime": 1476199354,
+      "name": "webbson",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012022f54b9068b3eadbe1359b19a0c2ffc793fae3a60fbddd210158e074a5443f290a",
+          "key_role": 1,
+          "sig_id": "e51994d295fa8c4408d50fb05cf116d62f7ebe6676c0d4b54deb3b7a2a6f5f800f"
+        },
+        {
+          "kid": "0121b5e759d06c4cbd9a4bb836732afb0e89b3b6319d1fe8e6ab1535666da21ac0630a",
+          "key_role": 2,
+          "sig_id": "97ffade590a8163ccb2f8dc13576aad00f571b1346b08a22b46fa3d9d9773ca20f"
+        }
+      ]
+    },
     "65b6a39536f41eed0f9ac0a366546118": {
       "type": "backup",
       "ctime": 1470397472,
