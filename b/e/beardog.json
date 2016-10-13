@@ -4,16 +4,16 @@
     "username": "beardog",
     "ctime": 1458236224,
     "mtime": 1458236224,
-    "id_version": 82,
-    "track_version": 13,
-    "last_id_change": 1470456227,
+    "id_version": 207,
+    "track_version": 15,
+    "last_id_change": 1476209593,
     "username_cased": "beardog"
   },
   "profile": {
-    "mtime": 1462616942,
+    "mtime": 1471040564,
     "full_name": "Kevin Froman",
-    "location": "Milky Way",
-    "bio": "Hacker, developer, libertarian, privacy enthusiast @ ChaosWebs.net"
+    "location": "Earth, Sol, Milky Way",
+    "bio": "Hacker & web dev @ ChaosWebs.net"
   },
   "public_keys": {
     "primary": {
@@ -82,20 +82,6 @@
   },
   "proofs_summary": {
     "by_proof_type": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "beardog108",
-          "state": 1,
-          "proof_url": "https://twitter.com/beardog108/status/710526503600021505",
-          "sig_id": "67d437e7050856a29556a5fc5c7fcfb52e38b507c3d1354429b7af83314770320f",
-          "proof_id": "7757c871b655d2fb5fccb310",
-          "human_url": "https://twitter.com/beardog108/status/710526503600021505",
-          "service_url": "https://twitter.com/beardog108",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -127,7 +113,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/beardog108",
+          "nametag": "beardog108",
           "state": 1,
           "proof_url": "https://coinbase.com/beardog108/public-key",
           "sig_id": "8eb84c5df827e3a29ef2d05ab0e96fd8be2645e3a930d0c4ad86db919c4acbd40f",
@@ -179,6 +165,18 @@
         },
         {
           "proof_type": "generic_web_site",
+          "nametag": "kfroman.me",
+          "state": 1,
+          "proof_url": "https://kfroman.me/keybase.txt",
+          "sig_id": "e9087090e65471173e2ccd164e210376431a2797ae99bb830b79a560a3dc50980f",
+          "proof_id": "bc6a60402d228c3d356af210",
+          "human_url": "https://kfroman.me/keybase.txt",
+          "service_url": "https://kfroman.me",
+          "presentation_group": "kfroman.me",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
           "nametag": "mdbin.chaoswebs.net",
           "state": 1,
           "proof_url": "https://mdbin.chaoswebs.net/keybase.txt",
@@ -214,24 +212,22 @@
           "service_url": "http://chaoswebs.net",
           "presentation_group": "chaoswebs.net",
           "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "kfroman.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/beardog/sigchain#048c85be45bc06f709f5363b1a309353851fe7265b360618b087b28a9e36bcd90f",
+          "sig_id": "048c85be45bc06f709f5363b1a309353851fe7265b360618b087b28a9e36bcd90f",
+          "proof_id": "d0a52c0c9cde6cf623c7a810",
+          "human_url": "dns://kfroman.me",
+          "service_url": "http://kfroman.me",
+          "presentation_group": "kfroman.me",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "beardog108",
-          "state": 1,
-          "proof_url": "https://twitter.com/beardog108/status/710526503600021505",
-          "sig_id": "67d437e7050856a29556a5fc5c7fcfb52e38b507c3d1354429b7af83314770320f",
-          "proof_id": "7757c871b655d2fb5fccb310",
-          "human_url": "https://twitter.com/beardog108/status/710526503600021505",
-          "service_url": "https://twitter.com/beardog108",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -263,7 +259,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/beardog108",
+          "nametag": "beardog108",
           "state": 1,
           "proof_url": "https://coinbase.com/beardog108/public-key",
           "sig_id": "8eb84c5df827e3a29ef2d05ab0e96fd8be2645e3a930d0c4ad86db919c4acbd40f",
@@ -328,6 +324,32 @@
           "presentation_tag": "https"
         }
       ],
+      "kfroman.me": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "kfroman.me",
+          "state": 1,
+          "proof_url": "https://kfroman.me/keybase.txt",
+          "sig_id": "e9087090e65471173e2ccd164e210376431a2797ae99bb830b79a560a3dc50980f",
+          "proof_id": "bc6a60402d228c3d356af210",
+          "human_url": "https://kfroman.me/keybase.txt",
+          "service_url": "https://kfroman.me",
+          "presentation_group": "kfroman.me",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "kfroman.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/beardog/sigchain#048c85be45bc06f709f5363b1a309353851fe7265b360618b087b28a9e36bcd90f",
+          "sig_id": "048c85be45bc06f709f5363b1a309353851fe7265b360618b087b28a9e36bcd90f",
+          "proof_id": "d0a52c0c9cde6cf623c7a810",
+          "human_url": "dns://kfroman.me",
+          "service_url": "http://kfroman.me",
+          "presentation_group": "kfroman.me",
+          "presentation_tag": "dns"
+        }
+      ],
       "mdbin.chaoswebs.net": [
         {
           "proof_type": "generic_web_site",
@@ -359,18 +381,6 @@
     },
     "all": [
       {
-        "proof_type": "twitter",
-        "nametag": "beardog108",
-        "state": 1,
-        "proof_url": "https://twitter.com/beardog108/status/710526503600021505",
-        "sig_id": "67d437e7050856a29556a5fc5c7fcfb52e38b507c3d1354429b7af83314770320f",
-        "proof_id": "7757c871b655d2fb5fccb310",
-        "human_url": "https://twitter.com/beardog108/status/710526503600021505",
-        "service_url": "https://twitter.com/beardog108",
-        "presentation_group": "twitter",
-        "presentation_tag": "tweet"
-      },
-      {
         "proof_type": "github",
         "nametag": "beardog108",
         "state": 1,
@@ -383,20 +393,20 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "reddit",
-        "nametag": "beardog108",
+        "proof_type": "dns",
+        "nametag": "kfroman.me",
         "state": 1,
-        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4aubod/my_keybase_proof_redditbeardog108_keybasebeardog/",
-        "sig_id": "cb4d44565543eb61a1c860deb209f21750c50c1e843664b96b03864cc9ae417c0f",
-        "proof_id": "c2da8bdbb7ecdfca3d209a10",
-        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4aubod/my_keybase_proof_redditbeardog108_keybasebeardog/",
-        "service_url": "https://reddit.com/user/beardog108",
-        "presentation_group": "reddit",
-        "presentation_tag": "post"
+        "proof_url": "https://keybase.io/beardog/sigchain#048c85be45bc06f709f5363b1a309353851fe7265b360618b087b28a9e36bcd90f",
+        "sig_id": "048c85be45bc06f709f5363b1a309353851fe7265b360618b087b28a9e36bcd90f",
+        "proof_id": "d0a52c0c9cde6cf623c7a810",
+        "human_url": "dns://kfroman.me",
+        "service_url": "http://kfroman.me",
+        "presentation_group": "kfroman.me",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/beardog108",
+        "nametag": "beardog108",
         "state": 1,
         "proof_url": "https://coinbase.com/beardog108/public-key",
         "sig_id": "8eb84c5df827e3a29ef2d05ab0e96fd8be2645e3a930d0c4ad86db919c4acbd40f",
@@ -431,27 +441,27 @@
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "generic_web_site",
-        "nametag": "chaoswebs.net",
+        "proof_type": "reddit",
+        "nametag": "beardog108",
         "state": 1,
-        "proof_url": "https://chaoswebs.net/keybase.txt",
-        "sig_id": "85520f88bd07f6309efcaee0ddc5fc80ad445642d2188dccdc19e738462ab3f10f",
-        "proof_id": "52b75bce3fcd9c9f3dd0c510",
-        "human_url": "https://chaoswebs.net/keybase.txt",
-        "service_url": "https://chaoswebs.net",
-        "presentation_group": "chaoswebs.net",
-        "presentation_tag": "https"
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4aubod/my_keybase_proof_redditbeardog108_keybasebeardog/",
+        "sig_id": "cb4d44565543eb61a1c860deb209f21750c50c1e843664b96b03864cc9ae417c0f",
+        "proof_id": "c2da8bdbb7ecdfca3d209a10",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4aubod/my_keybase_proof_redditbeardog108_keybasebeardog/",
+        "service_url": "https://reddit.com/user/beardog108",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "generic_web_site",
-        "nametag": "static.chaoswebs.net",
+        "nametag": "kfroman.me",
         "state": 1,
-        "proof_url": "https://static.chaoswebs.net/keybase.txt",
-        "sig_id": "702fe83700f1e649938c90fe5466d61fd95ce4fe93f19b3db41e8f997a16cccc0f",
-        "proof_id": "81ec28f93cec72cafbf3fb10",
-        "human_url": "https://static.chaoswebs.net/keybase.txt",
-        "service_url": "https://static.chaoswebs.net",
-        "presentation_group": "static.chaoswebs.net",
+        "proof_url": "https://kfroman.me/keybase.txt",
+        "sig_id": "e9087090e65471173e2ccd164e210376431a2797ae99bb830b79a560a3dc50980f",
+        "proof_id": "bc6a60402d228c3d356af210",
+        "human_url": "https://kfroman.me/keybase.txt",
+        "service_url": "https://kfroman.me",
+        "presentation_group": "kfroman.me",
         "presentation_tag": "https"
       },
       {
@@ -477,6 +487,30 @@
         "service_url": "https://crypto.chaoswebs.net",
         "presentation_group": "crypto.chaoswebs.net",
         "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "chaoswebs.net",
+        "state": 1,
+        "proof_url": "https://chaoswebs.net/keybase.txt",
+        "sig_id": "85520f88bd07f6309efcaee0ddc5fc80ad445642d2188dccdc19e738462ab3f10f",
+        "proof_id": "52b75bce3fcd9c9f3dd0c510",
+        "human_url": "https://chaoswebs.net/keybase.txt",
+        "service_url": "https://chaoswebs.net",
+        "presentation_group": "chaoswebs.net",
+        "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "static.chaoswebs.net",
+        "state": 1,
+        "proof_url": "https://static.chaoswebs.net/keybase.txt",
+        "sig_id": "702fe83700f1e649938c90fe5466d61fd95ce4fe93f19b3db41e8f997a16cccc0f",
+        "proof_id": "81ec28f93cec72cafbf3fb10",
+        "human_url": "https://static.chaoswebs.net/keybase.txt",
+        "service_url": "https://static.chaoswebs.net",
+        "presentation_group": "static.chaoswebs.net",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -490,17 +524,17 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2d8de5feb85d65aade79e5a7e6295c05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f79ae77f1e38b06f97b7c5b6c7241705_360_360_square_360.png",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "a89e027144cb362e01c9d3b7bb038b60782a92f6095991e8c3d1c38f2811ffcf0f",
-      "seqno": 41,
-      "payload_hash": "4c411a00828b02bd5bc595b85e98bb181e66234187e79950e4e1f9b932774435"
+      "sig_id": "55e756cc2fcb4d9c5ac604451ec7c88c5b01da6c4e99e2bbd245a72419c358a20f",
+      "seqno": 47,
+      "payload_hash": "6223a731b77dfa4077a11203695d555f759e8454860eb66a548680e7ca6152bb"
     }
   },
   "devices": {
