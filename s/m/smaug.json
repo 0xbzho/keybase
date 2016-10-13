@@ -4,9 +4,9 @@
     "username": "smaug",
     "ctime": 1458483205,
     "mtime": 1458483205,
-    "id_version": 52,
-    "track_version": 10,
-    "last_id_change": 1469462483,
+    "id_version": 60,
+    "track_version": 13,
+    "last_id_change": 1474051180,
     "username_cased": "smaug"
   },
   "profile": {
@@ -111,7 +111,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/SmaugDragon",
+          "nametag": "smaugdragon",
           "state": 1,
           "proof_url": "https://coinbase.com/SmaugDragon/public-key",
           "sig_id": "e576fa33a2e5eefc84dc51977bfcf794b98f22cbee1d78b294d0f900fbd610c80f",
@@ -134,6 +134,20 @@
           "service_url": "https://news.ycombinator.com/user?id=SmaugDragon",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "paranoidpress.com",
+          "state": 1,
+          "proof_url": "https://paranoidpress.com/keybase.txt",
+          "sig_id": "0d61815d85f219c14008f16aa2b1e33d15c016126ae47da3bc1c17614f6d13e10f",
+          "proof_id": "a2bb32eee28cc4c27660a510",
+          "human_url": "https://paranoidpress.com/keybase.txt",
+          "service_url": "https://paranoidpress.com",
+          "presentation_group": "paranoidpress.com",
+          "presentation_tag": "https"
         }
       ],
       "dns": [
@@ -171,18 +185,6 @@
           "human_url": "dns://surro.ga",
           "service_url": "http://surro.ga",
           "presentation_group": "surro.ga",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "paranoidpress.com",
-          "state": 1,
-          "proof_url": "https://keybase.io/smaug/sigchain#b6cc9b73916c5b5e6aae7d91ff530068b5aea984ef26cea5d2dfb78a75cc0ca50f",
-          "sig_id": "b6cc9b73916c5b5e6aae7d91ff530068b5aea984ef26cea5d2dfb78a75cc0ca50f",
-          "proof_id": "e9213f1329ed3040b4253e10",
-          "human_url": "dns://paranoidpress.com",
-          "service_url": "http://paranoidpress.com",
-          "presentation_group": "paranoidpress.com",
           "presentation_tag": "dns"
         }
       ]
@@ -233,7 +235,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/SmaugDragon",
+          "nametag": "smaugdragon",
           "state": 1,
           "proof_url": "https://coinbase.com/SmaugDragon/public-key",
           "sig_id": "e576fa33a2e5eefc84dc51977bfcf794b98f22cbee1d78b294d0f900fbd610c80f",
@@ -256,6 +258,20 @@
           "service_url": "https://news.ycombinator.com/user?id=SmaugDragon",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "paranoidpress.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "paranoidpress.com",
+          "state": 1,
+          "proof_url": "https://paranoidpress.com/keybase.txt",
+          "sig_id": "0d61815d85f219c14008f16aa2b1e33d15c016126ae47da3bc1c17614f6d13e10f",
+          "proof_id": "a2bb32eee28cc4c27660a510",
+          "human_url": "https://paranoidpress.com/keybase.txt",
+          "service_url": "https://paranoidpress.com",
+          "presentation_group": "paranoidpress.com",
+          "presentation_tag": "https"
         }
       ],
       "cashproxy.net": [
@@ -299,20 +315,6 @@
           "presentation_group": "surro.ga",
           "presentation_tag": "dns"
         }
-      ],
-      "paranoidpress.com": [
-        {
-          "proof_type": "dns",
-          "nametag": "paranoidpress.com",
-          "state": 1,
-          "proof_url": "https://keybase.io/smaug/sigchain#b6cc9b73916c5b5e6aae7d91ff530068b5aea984ef26cea5d2dfb78a75cc0ca50f",
-          "sig_id": "b6cc9b73916c5b5e6aae7d91ff530068b5aea984ef26cea5d2dfb78a75cc0ca50f",
-          "proof_id": "e9213f1329ed3040b4253e10",
-          "human_url": "dns://paranoidpress.com",
-          "service_url": "http://paranoidpress.com",
-          "presentation_group": "paranoidpress.com",
-          "presentation_tag": "dns"
-        }
       ]
     },
     "all": [
@@ -354,7 +356,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/SmaugDragon",
+        "nametag": "smaugdragon",
         "state": 1,
         "proof_url": "https://coinbase.com/SmaugDragon/public-key",
         "sig_id": "e576fa33a2e5eefc84dc51977bfcf794b98f22cbee1d78b294d0f900fbd610c80f",
@@ -413,16 +415,16 @@
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "dns",
+        "proof_type": "generic_web_site",
         "nametag": "paranoidpress.com",
         "state": 1,
-        "proof_url": "https://keybase.io/smaug/sigchain#b6cc9b73916c5b5e6aae7d91ff530068b5aea984ef26cea5d2dfb78a75cc0ca50f",
-        "sig_id": "b6cc9b73916c5b5e6aae7d91ff530068b5aea984ef26cea5d2dfb78a75cc0ca50f",
-        "proof_id": "e9213f1329ed3040b4253e10",
-        "human_url": "dns://paranoidpress.com",
-        "service_url": "http://paranoidpress.com",
+        "proof_url": "https://paranoidpress.com/keybase.txt",
+        "sig_id": "0d61815d85f219c14008f16aa2b1e33d15c016126ae47da3bc1c17614f6d13e10f",
+        "proof_id": "a2bb32eee28cc4c27660a510",
+        "human_url": "https://paranoidpress.com/keybase.txt",
+        "service_url": "https://paranoidpress.com",
         "presentation_group": "paranoidpress.com",
-        "presentation_tag": "dns"
+        "presentation_tag": "https"
       }
     ]
   },
@@ -444,9 +446,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "da02c9ebc445e8921fa6c65fcc76395e157519b6d2342ff0611a320d2e42f04c0f",
-      "seqno": 30,
-      "payload_hash": "690096d27376b436f5d5363a3ee3680918addd6daa117da9fab51c9938c0fa23"
+      "sig_id": "f6c84e7a6ac2fe21866e4af97d1ccafe3a778d8ffccdebd2de32a5e842876b7f0f",
+      "seqno": 36,
+      "payload_hash": "18362cf82c8f6fea83af28250fc4794ba4f734da5e5f7b8058b3b45298b44258"
     }
   },
   "devices": {
