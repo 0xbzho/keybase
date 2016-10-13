@@ -4,9 +4,9 @@
     "username": "bbbburns",
     "ctime": 1431017223,
     "mtime": 1431017223,
-    "id_version": 42,
-    "track_version": 7,
-    "last_id_change": 1469024211,
+    "id_version": 45,
+    "track_version": 20,
+    "last_id_change": 1471903052,
     "username_cased": "bbbburns"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "012069f3fb726167ff7dcebe9f7f25f18a069d9e9f47c9b234d5a8dc5190b1e49a520a",
       "0121193b0e629243965a321d44a53b8cd5544ac2b599ed1e2da701c8050509dca9340a",
       "012124297b8015a7e63ae6f15713bde975659becf99736b19a9bed1a7d7e1c0879310a",
-      "0120049c059e72b8f84fa4241ad9c7936807e683a6f0e2c7cccc17ff02aba9bae7c00a"
+      "0120049c059e72b8f84fa4241ad9c7936807e683a6f0e2c7cccc17ff02aba9bae7c00a",
+      "0120a126b87d3e8a85bb967c975045f48ffdf7c6573e360a114d5fee272ab87fa40c0a",
+      "01219d094a5efecb48f0a4faba5a7383e2fb201c5363a5b987b7ca790055f00b6f620a"
     ],
     "subkeys": [
       "0121193b0e629243965a321d44a53b8cd5544ac2b599ed1e2da701c8050509dca9340a",
-      "012124297b8015a7e63ae6f15713bde975659becf99736b19a9bed1a7d7e1c0879310a"
+      "012124297b8015a7e63ae6f15713bde975659becf99736b19a9bed1a7d7e1c0879310a",
+      "01219d094a5efecb48f0a4faba5a7383e2fb201c5363a5b987b7ca790055f00b6f620a"
     ],
     "sibkeys": [
       "01013a5f80a27f3c9c0d73ccf9787d9df59eb8ee5c201296e781154056e4df64cb200a",
       "012069f3fb726167ff7dcebe9f7f25f18a069d9e9f47c9b234d5a8dc5190b1e49a520a",
-      "0120049c059e72b8f84fa4241ad9c7936807e683a6f0e2c7cccc17ff02aba9bae7c00a"
+      "0120049c059e72b8f84fa4241ad9c7936807e683a6f0e2c7cccc17ff02aba9bae7c00a",
+      "0120a126b87d3e8a85bb967c975045f48ffdf7c6573e360a114d5fee272ab87fa40c0a"
     ],
     "families": {
       "01013a5f80a27f3c9c0d73ccf9787d9df59eb8ee5c201296e781154056e4df64cb200a": [
@@ -55,7 +59,9 @@
         "012069f3fb726167ff7dcebe9f7f25f18a069d9e9f47c9b234d5a8dc5190b1e49a520a",
         "0121193b0e629243965a321d44a53b8cd5544ac2b599ed1e2da701c8050509dca9340a",
         "012124297b8015a7e63ae6f15713bde975659becf99736b19a9bed1a7d7e1c0879310a",
-        "0120049c059e72b8f84fa4241ad9c7936807e683a6f0e2c7cccc17ff02aba9bae7c00a"
+        "0120049c059e72b8f84fa4241ad9c7936807e683a6f0e2c7cccc17ff02aba9bae7c00a",
+        "0120a126b87d3e8a85bb967c975045f48ffdf7c6573e360a114d5fee272ab87fa40c0a",
+        "01219d094a5efecb48f0a4faba5a7383e2fb201c5363a5b987b7ca790055f00b6f620a"
       ]
     },
     "eldest_kid": "01013a5f80a27f3c9c0d73ccf9787d9df59eb8ee5c201296e781154056e4df64cb200a",
@@ -111,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/bbbburns",
+          "nametag": "bbbburns",
           "state": 1,
           "proof_url": "https://coinbase.com/bbbburns/public-key",
           "sig_id": "ea4cfef436fe823257bb53f694cf19f6d0b3b86bcc3482ff525613d729b821300f",
@@ -183,7 +189,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/bbbburns",
+          "nametag": "bbbburns",
           "state": 1,
           "proof_url": "https://coinbase.com/bbbburns/public-key",
           "sig_id": "ea4cfef436fe823257bb53f694cf19f6d0b3b86bcc3482ff525613d729b821300f",
@@ -248,7 +254,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/bbbburns",
+        "nametag": "bbbburns",
         "state": 1,
         "proof_url": "https://coinbase.com/bbbburns/public-key",
         "sig_id": "ea4cfef436fe823257bb53f694cf19f6d0b3b86bcc3482ff525613d729b821300f",
@@ -290,12 +296,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "27dbadf542046f2673ad6ae80f66628115d4d7a0ccdcd67c502f5969757fe87f0f",
-      "seqno": 18,
-      "payload_hash": "a374c42be64c17bb46a9d356f0b50b37d76001748b767a45918d4e21d8448b4e"
+      "sig_id": "4ad9029f58855aa3208eb4a46a3b55a8de6b73421ac6d9ee49425087539aee9c0f",
+      "seqno": 33,
+      "payload_hash": "f3cbbed77fccc141a987de70335e4372d0ac7d704caf1f4c8baa7281a3a7b0d0"
     }
   },
   "devices": {
+    "0d0aee045fd4127c31f01bded5232218": {
+      "type": "desktop",
+      "ctime": 1471903052,
+      "mtime": 1471903052,
+      "name": "burns-lois",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a126b87d3e8a85bb967c975045f48ffdf7c6573e360a114d5fee272ab87fa40c0a",
+          "key_role": 1,
+          "sig_id": "61f4b0bb12f91257ea1277286742a2bfa43a24611aab76a0b2c64d6d6811d9e40f"
+        },
+        {
+          "kid": "01219d094a5efecb48f0a4faba5a7383e2fb201c5363a5b987b7ca790055f00b6f620a",
+          "key_role": 2,
+          "sig_id": "dd58720529e8150f10bdab70334135eccccc5fbc5424ef7a06d7035775565bd90f"
+        }
+      ]
+    },
     "d3c86ea5c058079acd140a17dec04b18": {
       "type": "desktop",
       "ctime": 1469024210,
