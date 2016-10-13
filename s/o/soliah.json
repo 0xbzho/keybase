@@ -4,16 +4,16 @@
     "username": "soliah",
     "ctime": 1394965171,
     "mtime": 1394965171,
-    "id_version": 106,
+    "id_version": 109,
     "track_version": 6,
-    "last_id_change": 1465830460,
+    "last_id_change": 1474709886,
     "username_cased": "Soliah"
   },
   "profile": {
-    "mtime": 1420457734,
+    "mtime": 1474711026,
     "full_name": "Christopher Chow",
     "location": "Sydney, Australia",
-    "bio": "Head of Technology @ kinesis.org"
+    "bio": null
   },
   "public_keys": {
     "primary": {
@@ -44,18 +44,18 @@
       "012173428452add7b41c72353b2abe38e61dc0faa5005d31e18c04fe04dafa49fb420a",
       "012008f0a9f9d8d88105bd0c207184423b036aeba7ec6bddd431a52d8bc3cece43980a",
       "01213e530056978292ceba5a239cbe5025668c832887d984458bd5b08a1c89b96a2e0a",
-      "0120ed84b920b6d5b0e5109ff658c369895e556845e42df47872782534b053d2ac2b0a"
+      "0120ed84b920b6d5b0e5109ff658c369895e556845e42df47872782534b053d2ac2b0a",
+      "01202ace2dec272ec5b722ba27c964923336efc10cc220d553c970037ae69e4da8900a",
+      "0121212c3442a0af1dd83346602277e76c18fa53e53b41d1fe348f5d233230f93d140a"
     ],
     "subkeys": [
-      "0121c0604ca21dcce72237a6159a6a65c96e3dc9639077f900a660f816e07048602d0a",
       "012173428452add7b41c72353b2abe38e61dc0faa5005d31e18c04fe04dafa49fb420a",
-      "01213e530056978292ceba5a239cbe5025668c832887d984458bd5b08a1c89b96a2e0a"
+      "0121212c3442a0af1dd83346602277e76c18fa53e53b41d1fe348f5d233230f93d140a"
     ],
     "sibkeys": [
       "010112512e25c5117c200b5f599a0d7f573af2f1dd21c34f4fd332e8444c4eb616800a",
-      "01204b89cfab0fa3ef8dc3846099703b37593ea21f4f3568348996cdc79226f409550a",
       "012008f0a9f9d8d88105bd0c207184423b036aeba7ec6bddd431a52d8bc3cece43980a",
-      "0120ed84b920b6d5b0e5109ff658c369895e556845e42df47872782534b053d2ac2b0a"
+      "01202ace2dec272ec5b722ba27c964923336efc10cc220d553c970037ae69e4da8900a"
     ],
     "families": {
       "0101616f32e80d218152b60812f965b9802aa722e9f403b2b911f013520fdb91fc1f0a": [
@@ -71,7 +71,9 @@
         "012173428452add7b41c72353b2abe38e61dc0faa5005d31e18c04fe04dafa49fb420a",
         "012008f0a9f9d8d88105bd0c207184423b036aeba7ec6bddd431a52d8bc3cece43980a",
         "01213e530056978292ceba5a239cbe5025668c832887d984458bd5b08a1c89b96a2e0a",
-        "0120ed84b920b6d5b0e5109ff658c369895e556845e42df47872782534b053d2ac2b0a"
+        "0120ed84b920b6d5b0e5109ff658c369895e556845e42df47872782534b053d2ac2b0a",
+        "01202ace2dec272ec5b722ba27c964923336efc10cc220d553c970037ae69e4da8900a",
+        "0121212c3442a0af1dd83346602277e76c18fa53e53b41d1fe348f5d233230f93d140a"
       ]
     },
     "eldest_kid": "010112512e25c5117c200b5f599a0d7f573af2f1dd21c34f4fd332e8444c4eb616800a",
@@ -127,7 +129,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/soliah",
+          "nametag": "soliah",
           "state": 1,
           "proof_url": "https://coinbase.com/soliah/public-key",
           "sig_id": "e9a7d031294a8024673184145c90f8e4cf58defa4aaf704b727ea9be9358fcaa0f",
@@ -213,7 +215,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/soliah",
+          "nametag": "soliah",
           "state": 1,
           "proof_url": "https://coinbase.com/soliah/public-key",
           "sig_id": "e9a7d031294a8024673184145c90f8e4cf58defa4aaf704b727ea9be9358fcaa0f",
@@ -292,7 +294,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/soliah",
+        "nametag": "soliah",
         "state": 1,
         "proof_url": "https://coinbase.com/soliah/public-key",
         "sig_id": "e9a7d031294a8024673184145c90f8e4cf58defa4aaf704b727ea9be9358fcaa0f",
@@ -346,28 +348,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "00874d4ef05945edc11c819db8a90d0f7fda5840535f9fcbb8e0216bea1fdcbc0f",
-      "seqno": 28,
-      "payload_hash": "e975d4db395654bb12270bcbebfe9b52ff6025b3508e8e804f0dcc885a98a81f"
+      "sig_id": "1fb1bcca8b318a7f29020c0dd56e69e167552f90c3384d620e0d23fe33db5fe40f",
+      "seqno": 32,
+      "payload_hash": "31efee12b41be1cb12a22a88403099157e61924f896f87d53fdb7ce2ec6c1635"
     }
   },
   "devices": {
-    "226559ba4395df2d2585926688920218": {
+    "69866443ac54e5f19ec12427f48fc818": {
       "type": "desktop",
-      "ctime": 1460003808,
-      "mtime": 1460003808,
-      "name": "work",
+      "ctime": 1474709886,
+      "mtime": 1474709886,
+      "name": "macbook",
       "status": 1,
       "keys": [
         {
-          "kid": "0120ed84b920b6d5b0e5109ff658c369895e556845e42df47872782534b053d2ac2b0a",
+          "kid": "01202ace2dec272ec5b722ba27c964923336efc10cc220d553c970037ae69e4da8900a",
           "key_role": 1,
-          "sig_id": "cbc2c9009976f82854ea0670bb2eab2181f80b5f74973134f186a0172e2d865f0f"
+          "sig_id": "7247f8b87fd6d19e24cfa80a68ebdb3aba05ddc917f00e726126be9593212d070f"
         },
         {
-          "kid": "01213e530056978292ceba5a239cbe5025668c832887d984458bd5b08a1c89b96a2e0a",
+          "kid": "0121212c3442a0af1dd83346602277e76c18fa53e53b41d1fe348f5d233230f93d140a",
           "key_role": 2,
-          "sig_id": "00874d4ef05945edc11c819db8a90d0f7fda5840535f9fcbb8e0216bea1fdcbc0f"
+          "sig_id": "6a95cafdca09d86592e57fda7fe9ab0986c4ec9eb067f3ecc6e96b0c885e52780f"
         }
       ]
     },
@@ -387,25 +389,6 @@
           "kid": "012173428452add7b41c72353b2abe38e61dc0faa5005d31e18c04fe04dafa49fb420a",
           "key_role": 2,
           "sig_id": "87f2d648370f2e8996455efe49d9b3ac52facdfc95158f1382e5514ad7b319920f"
-        }
-      ]
-    },
-    "fabe449f0021465ac78b1f63e5fe1c18": {
-      "type": "desktop",
-      "ctime": 1454770968,
-      "mtime": 1454770968,
-      "name": "laptop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01204b89cfab0fa3ef8dc3846099703b37593ea21f4f3568348996cdc79226f409550a",
-          "key_role": 1,
-          "sig_id": "5d2fa8c8c09aa290fc5c5bccb52f4358d3e17cf48a803b8f953233860d6a14a80f"
-        },
-        {
-          "kid": "0121c0604ca21dcce72237a6159a6a65c96e3dc9639077f900a660f816e07048602d0a",
-          "key_role": 2,
-          "sig_id": "3bd8b0287a61e68c8e4072c3e90c62b2ad680d0466ef0ee283a94a7cd5e792c60f"
         }
       ]
     }
