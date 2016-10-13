@@ -4,9 +4,9 @@
     "username": "gant",
     "ctime": 1426625661,
     "mtime": 1426625661,
-    "id_version": 106,
-    "track_version": 13,
-    "last_id_change": 1467667148,
+    "id_version": 133,
+    "track_version": 14,
+    "last_id_change": 1473695739,
     "username_cased": "gant"
   },
   "profile": {
@@ -91,24 +91,417 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "damonganto",
+          "state": 1,
+          "proof_url": "https://twitter.com/damonganto/status/775343915033628672",
+          "sig_id": "bec258403d779b7e4fd7632d8021a2d04652f1c8331d9783e8d671ed58ce75130f",
+          "proof_id": "c93b7a3b150692611d528f10",
+          "human_url": "https://twitter.com/damonganto/status/775343915033628672",
+          "service_url": "https://twitter.com/damonganto",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "damongant",
+          "state": 1,
+          "proof_url": "https://gist.github.com/602581b02ab63345b28eea890261260e",
+          "sig_id": "cb427fbda97e760b788d0b6587e1e38d6db7bec83165e63f26f9cfbea344beca0f",
+          "proof_id": "35399804de34ecf7aa74e710",
+          "human_url": "https://gist.github.com/602581b02ab63345b28eea890261260e",
+          "service_url": "https://github.com/damongant",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "dganto",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/52epeo/my_keybase_proof_redditdganto_keybasegant/",
+          "sig_id": "2b968e026180d611a3bf02c5fbd8ff3a95386dd9e54db4f95994b8a8f86f45420f",
+          "proof_id": "230ac91801e15aa4c49fc510",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/52epeo/my_keybase_proof_redditdganto_keybasegant/",
+          "service_url": "https://reddit.com/user/dganto",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "gant",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=gant",
+          "sig_id": "366476fdd9cc264e5808d9facf95b6abb0a44428c5ec4313a94095fd5b5e96cf0f",
+          "proof_id": "e0c90f6ad9aaacb22d736d10",
+          "human_url": "https://news.ycombinator.com/user?id=gant",
+          "service_url": "https://news.ycombinator.com/user?id=gant",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "av3s.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#617838b52632a98c648a96ea08e527b7bf9b970f458b4113315520bb4ddea96a0f",
+          "sig_id": "617838b52632a98c648a96ea08e527b7bf9b970f458b4113315520bb4ddea96a0f",
+          "proof_id": "01d59ad375670145e2c67210",
+          "human_url": "dns://av3s.net",
+          "service_url": "http://av3s.net",
+          "presentation_group": "av3s.net",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "damongant.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#baa06bd981f84fa2e297f946dbd053cb534077d812a8b93ad5716211a08142160f",
+          "sig_id": "baa06bd981f84fa2e297f946dbd053cb534077d812a8b93ad5716211a08142160f",
+          "proof_id": "4b5991d7508f34f03127f710",
+          "human_url": "dns://damongant.de",
+          "service_url": "http://damongant.de",
+          "presentation_group": "damongant.de",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "deniableplausibility.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#d19826f3a5b142d27aa01815b5547c09361696042fe0f8c32077b6391a939db20f",
+          "sig_id": "d19826f3a5b142d27aa01815b5547c09361696042fe0f8c32077b6391a939db20f",
+          "proof_id": "a4c30b68d773fd4132313510",
+          "human_url": "dns://deniableplausibility.net",
+          "service_url": "http://deniableplausibility.net",
+          "presentation_group": "deniableplausibility.net",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "av3s.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#276cf65a3aa56418a763566be3c584cb49ebeadc4b29b5d81b1ad5fb37eaedd40f",
+          "sig_id": "276cf65a3aa56418a763566be3c584cb49ebeadc4b29b5d81b1ad5fb37eaedd40f",
+          "proof_id": "c7ed36e98fd22b6ca019f810",
+          "human_url": "dns://av3s.org",
+          "service_url": "http://av3s.org",
+          "presentation_group": "av3s.org",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "innovandalism.eu",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#39b2adf0ff0f02ede9cf29384623cfa2cb553706c0c070cb98faff73a55ce3cf0f",
+          "sig_id": "39b2adf0ff0f02ede9cf29384623cfa2cb553706c0c070cb98faff73a55ce3cf0f",
+          "proof_id": "e2cc2bba8a3e09d35eeed310",
+          "human_url": "dns://innovandalism.eu",
+          "service_url": "http://innovandalism.eu",
+          "presentation_group": "innovandalism.eu",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "deadinsi.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#4e5444dc7b9f5720a4dbb0c72e58e82a9bd49effd20e39ad835a80d0e555e95f0f",
+          "sig_id": "4e5444dc7b9f5720a4dbb0c72e58e82a9bd49effd20e39ad835a80d0e555e95f0f",
+          "proof_id": "fffd888eca758aa66f06cb10",
+          "human_url": "dns://deadinsi.de",
+          "service_url": "http://deadinsi.de",
+          "presentation_group": "deadinsi.de",
+          "presentation_tag": "dns"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "damonganto",
+          "state": 1,
+          "proof_url": "https://twitter.com/damonganto/status/775343915033628672",
+          "sig_id": "bec258403d779b7e4fd7632d8021a2d04652f1c8331d9783e8d671ed58ce75130f",
+          "proof_id": "c93b7a3b150692611d528f10",
+          "human_url": "https://twitter.com/damonganto/status/775343915033628672",
+          "service_url": "https://twitter.com/damonganto",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "damongant",
+          "state": 1,
+          "proof_url": "https://gist.github.com/602581b02ab63345b28eea890261260e",
+          "sig_id": "cb427fbda97e760b788d0b6587e1e38d6db7bec83165e63f26f9cfbea344beca0f",
+          "proof_id": "35399804de34ecf7aa74e710",
+          "human_url": "https://gist.github.com/602581b02ab63345b28eea890261260e",
+          "service_url": "https://github.com/damongant",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "dganto",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/52epeo/my_keybase_proof_redditdganto_keybasegant/",
+          "sig_id": "2b968e026180d611a3bf02c5fbd8ff3a95386dd9e54db4f95994b8a8f86f45420f",
+          "proof_id": "230ac91801e15aa4c49fc510",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/52epeo/my_keybase_proof_redditdganto_keybasegant/",
+          "service_url": "https://reddit.com/user/dganto",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "gant",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=gant",
+          "sig_id": "366476fdd9cc264e5808d9facf95b6abb0a44428c5ec4313a94095fd5b5e96cf0f",
+          "proof_id": "e0c90f6ad9aaacb22d736d10",
+          "human_url": "https://news.ycombinator.com/user?id=gant",
+          "service_url": "https://news.ycombinator.com/user?id=gant",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
+      "av3s.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "av3s.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#617838b52632a98c648a96ea08e527b7bf9b970f458b4113315520bb4ddea96a0f",
+          "sig_id": "617838b52632a98c648a96ea08e527b7bf9b970f458b4113315520bb4ddea96a0f",
+          "proof_id": "01d59ad375670145e2c67210",
+          "human_url": "dns://av3s.net",
+          "service_url": "http://av3s.net",
+          "presentation_group": "av3s.net",
+          "presentation_tag": "dns"
+        }
+      ],
+      "damongant.de": [
+        {
+          "proof_type": "dns",
+          "nametag": "damongant.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#baa06bd981f84fa2e297f946dbd053cb534077d812a8b93ad5716211a08142160f",
+          "sig_id": "baa06bd981f84fa2e297f946dbd053cb534077d812a8b93ad5716211a08142160f",
+          "proof_id": "4b5991d7508f34f03127f710",
+          "human_url": "dns://damongant.de",
+          "service_url": "http://damongant.de",
+          "presentation_group": "damongant.de",
+          "presentation_tag": "dns"
+        }
+      ],
+      "deniableplausibility.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "deniableplausibility.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#d19826f3a5b142d27aa01815b5547c09361696042fe0f8c32077b6391a939db20f",
+          "sig_id": "d19826f3a5b142d27aa01815b5547c09361696042fe0f8c32077b6391a939db20f",
+          "proof_id": "a4c30b68d773fd4132313510",
+          "human_url": "dns://deniableplausibility.net",
+          "service_url": "http://deniableplausibility.net",
+          "presentation_group": "deniableplausibility.net",
+          "presentation_tag": "dns"
+        }
+      ],
+      "av3s.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "av3s.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#276cf65a3aa56418a763566be3c584cb49ebeadc4b29b5d81b1ad5fb37eaedd40f",
+          "sig_id": "276cf65a3aa56418a763566be3c584cb49ebeadc4b29b5d81b1ad5fb37eaedd40f",
+          "proof_id": "c7ed36e98fd22b6ca019f810",
+          "human_url": "dns://av3s.org",
+          "service_url": "http://av3s.org",
+          "presentation_group": "av3s.org",
+          "presentation_tag": "dns"
+        }
+      ],
+      "innovandalism.eu": [
+        {
+          "proof_type": "dns",
+          "nametag": "innovandalism.eu",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#39b2adf0ff0f02ede9cf29384623cfa2cb553706c0c070cb98faff73a55ce3cf0f",
+          "sig_id": "39b2adf0ff0f02ede9cf29384623cfa2cb553706c0c070cb98faff73a55ce3cf0f",
+          "proof_id": "e2cc2bba8a3e09d35eeed310",
+          "human_url": "dns://innovandalism.eu",
+          "service_url": "http://innovandalism.eu",
+          "presentation_group": "innovandalism.eu",
+          "presentation_tag": "dns"
+        }
+      ],
+      "deadinsi.de": [
+        {
+          "proof_type": "dns",
+          "nametag": "deadinsi.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/gant/sigchain#4e5444dc7b9f5720a4dbb0c72e58e82a9bd49effd20e39ad835a80d0e555e95f0f",
+          "sig_id": "4e5444dc7b9f5720a4dbb0c72e58e82a9bd49effd20e39ad835a80d0e555e95f0f",
+          "proof_id": "fffd888eca758aa66f06cb10",
+          "human_url": "dns://deadinsi.de",
+          "service_url": "http://deadinsi.de",
+          "presentation_group": "deadinsi.de",
+          "presentation_tag": "dns"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "damonganto",
+        "state": 1,
+        "proof_url": "https://twitter.com/damonganto/status/775343915033628672",
+        "sig_id": "bec258403d779b7e4fd7632d8021a2d04652f1c8331d9783e8d671ed58ce75130f",
+        "proof_id": "c93b7a3b150692611d528f10",
+        "human_url": "https://twitter.com/damonganto/status/775343915033628672",
+        "service_url": "https://twitter.com/damonganto",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
+      {
+        "proof_type": "github",
+        "nametag": "damongant",
+        "state": 1,
+        "proof_url": "https://gist.github.com/602581b02ab63345b28eea890261260e",
+        "sig_id": "cb427fbda97e760b788d0b6587e1e38d6db7bec83165e63f26f9cfbea344beca0f",
+        "proof_id": "35399804de34ecf7aa74e710",
+        "human_url": "https://gist.github.com/602581b02ab63345b28eea890261260e",
+        "service_url": "https://github.com/damongant",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "reddit",
+        "nametag": "dganto",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/52epeo/my_keybase_proof_redditdganto_keybasegant/",
+        "sig_id": "2b968e026180d611a3bf02c5fbd8ff3a95386dd9e54db4f95994b8a8f86f45420f",
+        "proof_id": "230ac91801e15aa4c49fc510",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/52epeo/my_keybase_proof_redditdganto_keybasegant/",
+        "service_url": "https://reddit.com/user/dganto",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "hackernews",
+        "nametag": "gant",
+        "state": 1,
+        "proof_url": "https://news.ycombinator.com/user?id=gant",
+        "sig_id": "366476fdd9cc264e5808d9facf95b6abb0a44428c5ec4313a94095fd5b5e96cf0f",
+        "proof_id": "e0c90f6ad9aaacb22d736d10",
+        "human_url": "https://news.ycombinator.com/user?id=gant",
+        "service_url": "https://news.ycombinator.com/user?id=gant",
+        "presentation_group": "hackernews",
+        "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "av3s.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/gant/sigchain#617838b52632a98c648a96ea08e527b7bf9b970f458b4113315520bb4ddea96a0f",
+        "sig_id": "617838b52632a98c648a96ea08e527b7bf9b970f458b4113315520bb4ddea96a0f",
+        "proof_id": "01d59ad375670145e2c67210",
+        "human_url": "dns://av3s.net",
+        "service_url": "http://av3s.net",
+        "presentation_group": "av3s.net",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "damongant.de",
+        "state": 1,
+        "proof_url": "https://keybase.io/gant/sigchain#baa06bd981f84fa2e297f946dbd053cb534077d812a8b93ad5716211a08142160f",
+        "sig_id": "baa06bd981f84fa2e297f946dbd053cb534077d812a8b93ad5716211a08142160f",
+        "proof_id": "4b5991d7508f34f03127f710",
+        "human_url": "dns://damongant.de",
+        "service_url": "http://damongant.de",
+        "presentation_group": "damongant.de",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "deniableplausibility.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/gant/sigchain#d19826f3a5b142d27aa01815b5547c09361696042fe0f8c32077b6391a939db20f",
+        "sig_id": "d19826f3a5b142d27aa01815b5547c09361696042fe0f8c32077b6391a939db20f",
+        "proof_id": "a4c30b68d773fd4132313510",
+        "human_url": "dns://deniableplausibility.net",
+        "service_url": "http://deniableplausibility.net",
+        "presentation_group": "deniableplausibility.net",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "av3s.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/gant/sigchain#276cf65a3aa56418a763566be3c584cb49ebeadc4b29b5d81b1ad5fb37eaedd40f",
+        "sig_id": "276cf65a3aa56418a763566be3c584cb49ebeadc4b29b5d81b1ad5fb37eaedd40f",
+        "proof_id": "c7ed36e98fd22b6ca019f810",
+        "human_url": "dns://av3s.org",
+        "service_url": "http://av3s.org",
+        "presentation_group": "av3s.org",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "innovandalism.eu",
+        "state": 1,
+        "proof_url": "https://keybase.io/gant/sigchain#39b2adf0ff0f02ede9cf29384623cfa2cb553706c0c070cb98faff73a55ce3cf0f",
+        "sig_id": "39b2adf0ff0f02ede9cf29384623cfa2cb553706c0c070cb98faff73a55ce3cf0f",
+        "proof_id": "e2cc2bba8a3e09d35eeed310",
+        "human_url": "dns://innovandalism.eu",
+        "service_url": "http://innovandalism.eu",
+        "presentation_group": "innovandalism.eu",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "deadinsi.de",
+        "state": 1,
+        "proof_url": "https://keybase.io/gant/sigchain#4e5444dc7b9f5720a4dbb0c72e58e82a9bd49effd20e39ad835a80d0e555e95f0f",
+        "sig_id": "4e5444dc7b9f5720a4dbb0c72e58e82a9bd49effd20e39ad835a80d0e555e95f0f",
+        "proof_id": "fffd888eca758aa66f06cb10",
+        "human_url": "dns://deadinsi.de",
+        "service_url": "http://deadinsi.de",
+        "presentation_group": "deadinsi.de",
+        "presentation_tag": "dns"
+      }
+    ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/87d6b723500fa0941f72ee587827e105_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/ddf794175a62b5d5845d18b3a950ed05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "009d9bd4dbc0858e98253a740d2e8aecb5f0744b9ca15c7306db24ef6f09fac00f",
-      "seqno": 48,
-      "payload_hash": "944769eaf05e8567c667bb8c4b182d27590a9ce5b40cb99e4eb1dabd4a48db19"
+      "sig_id": "366476fdd9cc264e5808d9facf95b6abb0a44428c5ec4313a94095fd5b5e96cf0f",
+      "seqno": 61,
+      "payload_hash": "8f298ff401f13992f065ba802ecae5f0ce071f3dea8331ee90c01d9b9ce279e4"
     }
   },
   "devices": {
