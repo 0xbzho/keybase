@@ -4,9 +4,9 @@
     "username": "offlinehoster",
     "ctime": 1395911693,
     "mtime": 1395911693,
-    "id_version": 51,
+    "id_version": 56,
     "track_version": 14,
-    "last_id_change": 1468815532,
+    "last_id_change": 1473854297,
     "username_cased": "offlinehoster"
   },
   "public_keys": {
@@ -73,6 +73,32 @@
           "service_url": "https://github.com/offlinehoster",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.sarazin.org",
+          "state": 1,
+          "proof_url": "http://www.sarazin.org/keybase.txt",
+          "sig_id": "7861352e75b7e87e2fb0ecfe32b362969938a60f38e082692318a50de6167cc50f",
+          "proof_id": "25454a847e171daa56903a10",
+          "human_url": "http://www.sarazin.org/keybase.txt",
+          "service_url": "http://www.sarazin.org",
+          "presentation_group": "www.sarazin.org",
+          "presentation_tag": "http"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "blog.darkhawk.de",
+          "state": 1,
+          "proof_url": "http://blog.darkhawk.de/keybase.txt",
+          "sig_id": "f00f6e79d13900a8882240dcb1975470939439f32443d03c2bcca4c9951086320f",
+          "proof_id": "4f42dd5202a329b9ed1b8910",
+          "human_url": "http://blog.darkhawk.de/keybase.txt",
+          "service_url": "http://blog.darkhawk.de",
+          "presentation_group": "blog.darkhawk.de",
+          "presentation_tag": "http"
         }
       ],
       "dns": [
@@ -203,6 +229,34 @@
           "presentation_tag": "gist"
         }
       ],
+      "www.sarazin.org": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.sarazin.org",
+          "state": 1,
+          "proof_url": "http://www.sarazin.org/keybase.txt",
+          "sig_id": "7861352e75b7e87e2fb0ecfe32b362969938a60f38e082692318a50de6167cc50f",
+          "proof_id": "25454a847e171daa56903a10",
+          "human_url": "http://www.sarazin.org/keybase.txt",
+          "service_url": "http://www.sarazin.org",
+          "presentation_group": "www.sarazin.org",
+          "presentation_tag": "http"
+        }
+      ],
+      "blog.darkhawk.de": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "blog.darkhawk.de",
+          "state": 1,
+          "proof_url": "http://blog.darkhawk.de/keybase.txt",
+          "sig_id": "f00f6e79d13900a8882240dcb1975470939439f32443d03c2bcca4c9951086320f",
+          "proof_id": "4f42dd5202a329b9ed1b8910",
+          "human_url": "http://blog.darkhawk.de/keybase.txt",
+          "service_url": "http://blog.darkhawk.de",
+          "presentation_group": "blog.darkhawk.de",
+          "presentation_tag": "http"
+        }
+      ],
       "vidamia.de": [
         {
           "proof_type": "dns",
@@ -318,6 +372,18 @@
     },
     "all": [
       {
+        "proof_type": "dns",
+        "nametag": "sarazin.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/offlinehoster/sigchain#abe3c4af8d90ea637a2bfd9ce4d6dc9612bdb8a8f02418154529efc705d974600f",
+        "sig_id": "abe3c4af8d90ea637a2bfd9ce4d6dc9612bdb8a8f02418154529efc705d974600f",
+        "proof_id": "32ea6e4dd18077e034613f10",
+        "human_url": "dns://sarazin.org",
+        "service_url": "http://sarazin.org",
+        "presentation_group": "sarazin.org",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "twitter",
         "nametag": "offlinehoster",
         "state": 1,
@@ -330,16 +396,28 @@
         "presentation_tag": "tweet"
       },
       {
-        "proof_type": "github",
-        "nametag": "offlinehoster",
+        "proof_type": "dns",
+        "nametag": "offlinehoster.de",
         "state": 1,
-        "proof_url": "https://gist.github.com/126262f7b3688558192f",
-        "sig_id": "29cf97911980126e2b2d4a5ff975ad519be799359b29cf22e4933c886a8be8c10f",
-        "proof_id": "62ab785029fc36aa2c7ec810",
-        "human_url": "https://gist.github.com/126262f7b3688558192f",
-        "service_url": "https://github.com/offlinehoster",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
+        "proof_url": "https://keybase.io/offlinehoster/sigchain#c203b452853cb6ed999d659158551f96203aaaff2acba65727dbf459e63cf6660f",
+        "sig_id": "c203b452853cb6ed999d659158551f96203aaaff2acba65727dbf459e63cf6660f",
+        "proof_id": "e929cd1c2695770a16ad8f10",
+        "human_url": "dns://offlinehoster.de",
+        "service_url": "http://offlinehoster.de",
+        "presentation_group": "offlinehoster.de",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "sarazin.eu",
+        "state": 1,
+        "proof_url": "https://keybase.io/offlinehoster/sigchain#f27bbf8a9ccb4fe534c07ac88efd46e9d645b67e8962f314fddf1ee8daf490500f",
+        "sig_id": "f27bbf8a9ccb4fe534c07ac88efd46e9d645b67e8962f314fddf1ee8daf490500f",
+        "proof_id": "d422c9632c2de51331bf3710",
+        "human_url": "dns://sarazin.eu",
+        "service_url": "http://sarazin.eu",
+        "presentation_group": "sarazin.eu",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -366,16 +444,16 @@
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "dns",
-        "nametag": "sarazin.org",
+        "proof_type": "github",
+        "nametag": "offlinehoster",
         "state": 1,
-        "proof_url": "https://keybase.io/offlinehoster/sigchain#abe3c4af8d90ea637a2bfd9ce4d6dc9612bdb8a8f02418154529efc705d974600f",
-        "sig_id": "abe3c4af8d90ea637a2bfd9ce4d6dc9612bdb8a8f02418154529efc705d974600f",
-        "proof_id": "32ea6e4dd18077e034613f10",
-        "human_url": "dns://sarazin.org",
-        "service_url": "http://sarazin.org",
-        "presentation_group": "sarazin.org",
-        "presentation_tag": "dns"
+        "proof_url": "https://gist.github.com/126262f7b3688558192f",
+        "sig_id": "29cf97911980126e2b2d4a5ff975ad519be799359b29cf22e4933c886a8be8c10f",
+        "proof_id": "62ab785029fc36aa2c7ec810",
+        "human_url": "https://gist.github.com/126262f7b3688558192f",
+        "service_url": "https://github.com/offlinehoster",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
       },
       {
         "proof_type": "dns",
@@ -403,30 +481,6 @@
       },
       {
         "proof_type": "dns",
-        "nametag": "sarazin.eu",
-        "state": 1,
-        "proof_url": "https://keybase.io/offlinehoster/sigchain#f27bbf8a9ccb4fe534c07ac88efd46e9d645b67e8962f314fddf1ee8daf490500f",
-        "sig_id": "f27bbf8a9ccb4fe534c07ac88efd46e9d645b67e8962f314fddf1ee8daf490500f",
-        "proof_id": "d422c9632c2de51331bf3710",
-        "human_url": "dns://sarazin.eu",
-        "service_url": "http://sarazin.eu",
-        "presentation_group": "sarazin.eu",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "offlinehoster.de",
-        "state": 1,
-        "proof_url": "https://keybase.io/offlinehoster/sigchain#c203b452853cb6ed999d659158551f96203aaaff2acba65727dbf459e63cf6660f",
-        "sig_id": "c203b452853cb6ed999d659158551f96203aaaff2acba65727dbf459e63cf6660f",
-        "proof_id": "e929cd1c2695770a16ad8f10",
-        "human_url": "dns://offlinehoster.de",
-        "service_url": "http://offlinehoster.de",
-        "presentation_group": "offlinehoster.de",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
         "nametag": "ruhr-netz.de",
         "state": 1,
         "proof_url": "https://keybase.io/offlinehoster/sigchain#747b658e91293643427b8d3de981d0fb83dd40464ded44c00e80fd5e301b06a60f",
@@ -436,6 +490,30 @@
         "service_url": "http://ruhr-netz.de",
         "presentation_group": "ruhr-netz.de",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "blog.darkhawk.de",
+        "state": 1,
+        "proof_url": "http://blog.darkhawk.de/keybase.txt",
+        "sig_id": "f00f6e79d13900a8882240dcb1975470939439f32443d03c2bcca4c9951086320f",
+        "proof_id": "4f42dd5202a329b9ed1b8910",
+        "human_url": "http://blog.darkhawk.de/keybase.txt",
+        "service_url": "http://blog.darkhawk.de",
+        "presentation_group": "blog.darkhawk.de",
+        "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "www.sarazin.org",
+        "state": 1,
+        "proof_url": "http://www.sarazin.org/keybase.txt",
+        "sig_id": "7861352e75b7e87e2fb0ecfe32b362969938a60f38e082692318a50de6167cc50f",
+        "proof_id": "25454a847e171daa56903a10",
+        "human_url": "http://www.sarazin.org/keybase.txt",
+        "service_url": "http://www.sarazin.org",
+        "presentation_group": "www.sarazin.org",
+        "presentation_tag": "http"
       }
     ]
   },
