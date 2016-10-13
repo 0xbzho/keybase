@@ -4,9 +4,9 @@
     "username": "dstuart",
     "ctime": 1397695073,
     "mtime": 1397695073,
-    "id_version": 57,
+    "id_version": 61,
     "track_version": 4,
-    "last_id_change": 1459629475,
+    "last_id_change": 1473174947,
     "username_cased": "dstuart"
   },
   "profile": {
@@ -40,18 +40,20 @@
       "012128f991b12fe06999b1aec4b7fc6b1d6c4220487950b70ca4c3e978ab6d0e41070a",
       "0120bee79f95953909b47d22b544e1d5a9ce03311297a1072c0456e04d9cc8285c750a",
       "01211b2955a838fa00302bd7ea1df2c629c0ef3cc5737a4e3332eefed36208fca4120a",
-      "012005129076eae8c73ac619a99c08aa22eb245bfe759bd4cecfed63d685ce9cf5420a"
+      "012005129076eae8c73ac619a99c08aa22eb245bfe759bd4cecfed63d685ce9cf5420a",
+      "0120ecfa1ef56097910c4e28c89184649fecefdf493af44451cb2241cb7f9c4983c60a",
+      "0121e2f8025ac4f478dfa81091b46a30be38660a4d206057bcda4f1af1cbd264d0500a"
     ],
     "subkeys": [
       "0121e9ca1c33867aaf6d59c38ba0cc21bf0b2d08d2a17ee7ab6681bea9c8e1f783270a",
       "012128f991b12fe06999b1aec4b7fc6b1d6c4220487950b70ca4c3e978ab6d0e41070a",
-      "01211b2955a838fa00302bd7ea1df2c629c0ef3cc5737a4e3332eefed36208fca4120a"
+      "0121e2f8025ac4f478dfa81091b46a30be38660a4d206057bcda4f1af1cbd264d0500a"
     ],
     "sibkeys": [
       "010105836036723f5d18309932e6563f67f50df12dad5999773648186afd54a59c480a",
       "01205b5a4e64ae6e37798ec6fe60fe9aa26ed19516e537495b287f0aeb758f9c5c9f0a",
       "0120bee79f95953909b47d22b544e1d5a9ce03311297a1072c0456e04d9cc8285c750a",
-      "012005129076eae8c73ac619a99c08aa22eb245bfe759bd4cecfed63d685ce9cf5420a"
+      "0120ecfa1ef56097910c4e28c89184649fecefdf493af44451cb2241cb7f9c4983c60a"
     ],
     "families": {
       "010105836036723f5d18309932e6563f67f50df12dad5999773648186afd54a59c480a": [
@@ -61,7 +63,9 @@
         "012128f991b12fe06999b1aec4b7fc6b1d6c4220487950b70ca4c3e978ab6d0e41070a",
         "0120bee79f95953909b47d22b544e1d5a9ce03311297a1072c0456e04d9cc8285c750a",
         "01211b2955a838fa00302bd7ea1df2c629c0ef3cc5737a4e3332eefed36208fca4120a",
-        "012005129076eae8c73ac619a99c08aa22eb245bfe759bd4cecfed63d685ce9cf5420a"
+        "012005129076eae8c73ac619a99c08aa22eb245bfe759bd4cecfed63d685ce9cf5420a",
+        "0120ecfa1ef56097910c4e28c89184649fecefdf493af44451cb2241cb7f9c4983c60a",
+        "0121e2f8025ac4f478dfa81091b46a30be38660a4d206057bcda4f1af1cbd264d0500a"
       ]
     },
     "eldest_kid": "010105836036723f5d18309932e6563f67f50df12dad5999773648186afd54a59c480a",
@@ -249,12 +253,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "cf57a5c4ed0a58b15114f55247e2c2264c16e70524815d3c845e77fbcee5dd110f",
-      "seqno": 17,
-      "payload_hash": "80b2509b6a48c57bf864d36c5d73baaefad889e3b509042d798c4a02373d09f0"
+      "sig_id": "f31286cd68e77c5724bd3d453a1254f83d740a2bf4619c25f674a2a05562d13d0f",
+      "seqno": 20,
+      "payload_hash": "fd4cfc2b0ec709d4f8fd0bb87f4b739801387b86f3344b4917340e638fb7f7af"
     }
   },
   "devices": {
+    "6571f6414adc691afaba1543a0740618": {
+      "type": "desktop",
+      "ctime": 1473174947,
+      "mtime": 1473174947,
+      "name": "DSS SGAS Mac",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ecfa1ef56097910c4e28c89184649fecefdf493af44451cb2241cb7f9c4983c60a",
+          "key_role": 1,
+          "sig_id": "2cfb9ff44c742425c18a5d8f6929f37d938d70bc5ba9eefd996369d4fe050dd60f"
+        },
+        {
+          "kid": "0121e2f8025ac4f478dfa81091b46a30be38660a4d206057bcda4f1af1cbd264d0500a",
+          "key_role": 2,
+          "sig_id": "3e098af6988038f14d4645d99d4acb8bf07bd6f07b91edd83ac878f9aef8eb6a0f"
+        }
+      ]
+    },
     "662e5d7e8e393535394cac1919536a18": {
       "type": "backup",
       "ctime": 1456549432,
@@ -271,25 +294,6 @@
           "kid": "012128f991b12fe06999b1aec4b7fc6b1d6c4220487950b70ca4c3e978ab6d0e41070a",
           "key_role": 2,
           "sig_id": "5c68526eab8fb632765cc63e8b75daffc82746d64cb5b677714caa10a01fc3f90f"
-        }
-      ]
-    },
-    "b99af0eaf8d4631d4dbb5c66413d9318": {
-      "type": "desktop",
-      "ctime": 1456775008,
-      "mtime": 1456775008,
-      "name": "DSS SG Mac",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012005129076eae8c73ac619a99c08aa22eb245bfe759bd4cecfed63d685ce9cf5420a",
-          "key_role": 1,
-          "sig_id": "fe1647d89e2f895f5da70188247e539a78d81f3424f6f6c036b686ebbd035b300f"
-        },
-        {
-          "kid": "01211b2955a838fa00302bd7ea1df2c629c0ef3cc5737a4e3332eefed36208fca4120a",
-          "key_role": 2,
-          "sig_id": "8cb515b32e4e389980d535b23ef83087825749e687c60032306f3ee00860831a0f"
         }
       ]
     },
