@@ -4,10 +4,16 @@
     "username": "cransom",
     "ctime": 1437945505,
     "mtime": 1437945505,
-    "id_version": 21,
+    "id_version": 31,
     "track_version": 0,
-    "last_id_change": 1470436013,
+    "last_id_change": 1475636823,
     "username_cased": "cransom"
+  },
+  "profile": {
+    "mtime": 1475636082,
+    "full_name": "Casey Ransom",
+    "location": "Research Triangle, NC",
+    "bio": "I help make Referential Labs go."
   },
   "public_keys": {
     "primary": {
@@ -32,16 +38,20 @@
       "0120370b5605d782d848679e03f20abb3be05e6e15489471df8b6829e1c790de67290a",
       "01214fafc30aeb63b4195d0321d5fbd710af58eae6b62610e98234e5a3ce875ca47a0a",
       "012170d23c4b236d3fe93a265d17c6e8091058b940794f21bb923e55162c81d76f580a",
-      "012036284662f9326b3ed1fe189366e04cfd59b7648b168fcb85d02350ffcd6945970a"
+      "012036284662f9326b3ed1fe189366e04cfd59b7648b168fcb85d02350ffcd6945970a",
+      "0120242b3d36db14c9de77b615b0811e1a08dd908eadd2aad17a76672732962a0f440a",
+      "0121f31e45085dd40bd49c1155d3e2e94d16a5dc9bb2ff5ee354e44e669020e27c600a"
     ],
     "subkeys": [
       "01214fafc30aeb63b4195d0321d5fbd710af58eae6b62610e98234e5a3ce875ca47a0a",
-      "012170d23c4b236d3fe93a265d17c6e8091058b940794f21bb923e55162c81d76f580a"
+      "012170d23c4b236d3fe93a265d17c6e8091058b940794f21bb923e55162c81d76f580a",
+      "0121f31e45085dd40bd49c1155d3e2e94d16a5dc9bb2ff5ee354e44e669020e27c600a"
     ],
     "sibkeys": [
       "01015110b4c91dd54f27ff9860ffd9e1ba1e12ee8d6e7d171018ef69543458bb00280a",
       "0120370b5605d782d848679e03f20abb3be05e6e15489471df8b6829e1c790de67290a",
-      "012036284662f9326b3ed1fe189366e04cfd59b7648b168fcb85d02350ffcd6945970a"
+      "012036284662f9326b3ed1fe189366e04cfd59b7648b168fcb85d02350ffcd6945970a",
+      "0120242b3d36db14c9de77b615b0811e1a08dd908eadd2aad17a76672732962a0f440a"
     ],
     "families": {
       "01015110b4c91dd54f27ff9860ffd9e1ba1e12ee8d6e7d171018ef69543458bb00280a": [
@@ -49,7 +59,9 @@
         "0120370b5605d782d848679e03f20abb3be05e6e15489471df8b6829e1c790de67290a",
         "01214fafc30aeb63b4195d0321d5fbd710af58eae6b62610e98234e5a3ce875ca47a0a",
         "012170d23c4b236d3fe93a265d17c6e8091058b940794f21bb923e55162c81d76f580a",
-        "012036284662f9326b3ed1fe189366e04cfd59b7648b168fcb85d02350ffcd6945970a"
+        "012036284662f9326b3ed1fe189366e04cfd59b7648b168fcb85d02350ffcd6945970a",
+        "0120242b3d36db14c9de77b615b0811e1a08dd908eadd2aad17a76672732962a0f440a",
+        "0121f31e45085dd40bd49c1155d3e2e94d16a5dc9bb2ff5ee354e44e669020e27c600a"
       ]
     },
     "eldest_kid": "01015110b4c91dd54f27ff9860ffd9e1ba1e12ee8d6e7d171018ef69543458bb00280a",
@@ -88,18 +100,18 @@
           "presentation_tag": "gist"
         }
       ],
-      "generic_web_site": [
+      "dns": [
         {
-          "proof_type": "generic_web_site",
-          "nametag": "deadhookers.biz",
+          "proof_type": "dns",
+          "nametag": "referentiallabs.com",
           "state": 1,
-          "proof_url": "http://deadhookers.biz/keybase.txt",
-          "sig_id": "0a6fbbfb1401d004bc00328e3ebd94cb302f3179ef70b47cd243fa7f5e358acd0f",
-          "proof_id": "e01401710ae9765f03bfbe10",
-          "human_url": "http://deadhookers.biz/keybase.txt",
-          "service_url": "http://deadhookers.biz",
-          "presentation_group": "deadhookers.biz",
-          "presentation_tag": "http"
+          "proof_url": "https://keybase.io/cransom/sigchain#83235c1ac92f279450cb7a1b0fbe39fdaba05aac1547fb1aafc868f5357f3aaa0f",
+          "sig_id": "83235c1ac92f279450cb7a1b0fbe39fdaba05aac1547fb1aafc868f5357f3aaa0f",
+          "proof_id": "9f9ca765156385e10028b210",
+          "human_url": "dns://referentiallabs.com",
+          "service_url": "http://referentiallabs.com",
+          "presentation_group": "referentiallabs.com",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -132,18 +144,18 @@
           "presentation_tag": "gist"
         }
       ],
-      "deadhookers.biz": [
+      "referentiallabs.com": [
         {
-          "proof_type": "generic_web_site",
-          "nametag": "deadhookers.biz",
+          "proof_type": "dns",
+          "nametag": "referentiallabs.com",
           "state": 1,
-          "proof_url": "http://deadhookers.biz/keybase.txt",
-          "sig_id": "0a6fbbfb1401d004bc00328e3ebd94cb302f3179ef70b47cd243fa7f5e358acd0f",
-          "proof_id": "e01401710ae9765f03bfbe10",
-          "human_url": "http://deadhookers.biz/keybase.txt",
-          "service_url": "http://deadhookers.biz",
-          "presentation_group": "deadhookers.biz",
-          "presentation_tag": "http"
+          "proof_url": "https://keybase.io/cransom/sigchain#83235c1ac92f279450cb7a1b0fbe39fdaba05aac1547fb1aafc868f5357f3aaa0f",
+          "sig_id": "83235c1ac92f279450cb7a1b0fbe39fdaba05aac1547fb1aafc868f5357f3aaa0f",
+          "proof_id": "9f9ca765156385e10028b210",
+          "human_url": "dns://referentiallabs.com",
+          "service_url": "http://referentiallabs.com",
+          "presentation_group": "referentiallabs.com",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -173,16 +185,16 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "generic_web_site",
-        "nametag": "deadhookers.biz",
+        "proof_type": "dns",
+        "nametag": "referentiallabs.com",
         "state": 1,
-        "proof_url": "http://deadhookers.biz/keybase.txt",
-        "sig_id": "0a6fbbfb1401d004bc00328e3ebd94cb302f3179ef70b47cd243fa7f5e358acd0f",
-        "proof_id": "e01401710ae9765f03bfbe10",
-        "human_url": "http://deadhookers.biz/keybase.txt",
-        "service_url": "http://deadhookers.biz",
-        "presentation_group": "deadhookers.biz",
-        "presentation_tag": "http"
+        "proof_url": "https://keybase.io/cransom/sigchain#83235c1ac92f279450cb7a1b0fbe39fdaba05aac1547fb1aafc868f5357f3aaa0f",
+        "sig_id": "83235c1ac92f279450cb7a1b0fbe39fdaba05aac1547fb1aafc868f5357f3aaa0f",
+        "proof_id": "9f9ca765156385e10028b210",
+        "human_url": "dns://referentiallabs.com",
+        "service_url": "http://referentiallabs.com",
+        "presentation_group": "referentiallabs.com",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -197,12 +209,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "18d5e2ab1389dd9cad67023d10c8fb89f9c862566b3572deac8d6abd8558e3560f",
-      "seqno": 7,
-      "payload_hash": "3ac8f9a629c11a40e034c6d6a4c59158549ffc28458660710cdbff9e1d0961fc"
+      "sig_id": "83235c1ac92f279450cb7a1b0fbe39fdaba05aac1547fb1aafc868f5357f3aaa0f",
+      "seqno": 11,
+      "payload_hash": "92905ba8756b60b555f56441d5af2bb397a7e8508f976e7839f3dfa00b20ea3b"
     }
   },
   "devices": {
+    "5381cf9d64dacef18f547b86558d4f18": {
+      "type": "desktop",
+      "ctime": 1472161791,
+      "mtime": 1472161791,
+      "name": "ogre",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120242b3d36db14c9de77b615b0811e1a08dd908eadd2aad17a76672732962a0f440a",
+          "key_role": 1,
+          "sig_id": "ef5aef11a50cff96a69b4060bcb224f13de7ee8ebb7415e7a828078b1915c5790f"
+        },
+        {
+          "kid": "0121f31e45085dd40bd49c1155d3e2e94d16a5dc9bb2ff5ee354e44e669020e27c600a",
+          "key_role": 2,
+          "sig_id": "79caca00ea65460ee0e812372c173ce6907135b8839e7267811fda4a33be14e80f"
+        }
+      ]
+    },
     "c354e65895a39bb003a4a5ac9db35b18": {
       "type": "desktop",
       "ctime": 1454696048,
