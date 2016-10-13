@@ -4,16 +4,16 @@
     "username": "llorephie",
     "ctime": 1455905201,
     "mtime": 1455905201,
-    "id_version": 17,
-    "track_version": 5,
-    "last_id_change": 1469099027,
+    "id_version": 20,
+    "track_version": 6,
+    "last_id_change": 1471650632,
     "username_cased": "llorephie"
   },
   "profile": {
-    "mtime": 1455907235,
+    "mtime": 1471654130,
     "full_name": "Maxim Llorephie",
-    "location": "Prague, Czech Republic",
-    "bio": "Demon, Linux system administrator, Open Source entusiast."
+    "location": "Moscow, Russian Federation",
+    "bio": "Russian student, FOSS entusiast, devops (linux)"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,16 @@
       "0120d9a79e639ce54783d7f970c8d9f9e1ee85020240cb9ffa66af3aa82bc6e16d7c0a",
       "0121a39c79d93dde373542df22658f703d1a1a93135f9b28dac6378c1fa61e2a1c2b0a",
       "012124db84ea1447f33378cc010952939d519f6cc7c5f1bc4cca8253483ff0a63c200a",
-      "0120b1bbb7a4493952ac34f66db018abeec1f1171d90bf524098a3e2ac165e4e5eb90a"
+      "0120b1bbb7a4493952ac34f66db018abeec1f1171d90bf524098a3e2ac165e4e5eb90a",
+      "0120e1145f88ddda4e05391a9471936cc8a4344c894c7c8cac37a442dd65bf6c09140a",
+      "0121fa8aaccc6b7a112d73adb5a7ab4dc60384f2771b81f4fe89e9e26742650190120a"
     ],
     "subkeys": [
-      "0121a39c79d93dde373542df22658f703d1a1a93135f9b28dac6378c1fa61e2a1c2b0a",
-      "012124db84ea1447f33378cc010952939d519f6cc7c5f1bc4cca8253483ff0a63c200a"
+      "0121fa8aaccc6b7a112d73adb5a7ab4dc60384f2771b81f4fe89e9e26742650190120a"
     ],
     "sibkeys": [
       "010143b289e7968edb17c7cae10240fdd07b758eea8d3aeee747d0e1ba86749916370a",
-      "0120d9a79e639ce54783d7f970c8d9f9e1ee85020240cb9ffa66af3aa82bc6e16d7c0a",
-      "0120b1bbb7a4493952ac34f66db018abeec1f1171d90bf524098a3e2ac165e4e5eb90a"
+      "0120e1145f88ddda4e05391a9471936cc8a4344c894c7c8cac37a442dd65bf6c09140a"
     ],
     "families": {
       "010143b289e7968edb17c7cae10240fdd07b758eea8d3aeee747d0e1ba86749916370a": [
@@ -55,7 +55,9 @@
         "0120d9a79e639ce54783d7f970c8d9f9e1ee85020240cb9ffa66af3aa82bc6e16d7c0a",
         "0121a39c79d93dde373542df22658f703d1a1a93135f9b28dac6378c1fa61e2a1c2b0a",
         "012124db84ea1447f33378cc010952939d519f6cc7c5f1bc4cca8253483ff0a63c200a",
-        "0120b1bbb7a4493952ac34f66db018abeec1f1171d90bf524098a3e2ac165e4e5eb90a"
+        "0120b1bbb7a4493952ac34f66db018abeec1f1171d90bf524098a3e2ac165e4e5eb90a",
+        "0120e1145f88ddda4e05391a9471936cc8a4344c894c7c8cac37a442dd65bf6c09140a",
+        "0121fa8aaccc6b7a112d73adb5a7ab4dc60384f2771b81f4fe89e9e26742650190120a"
       ]
     },
     "eldest_kid": "010143b289e7968edb17c7cae10240fdd07b758eea8d3aeee747d0e1ba86749916370a",
@@ -111,7 +113,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/llorephie",
+          "nametag": "llorephie",
           "state": 1,
           "proof_url": "https://coinbase.com/llorephie/public-key",
           "sig_id": "11fdfa3a2b6dd5515efbe429ef1e04f6825d29c2aad08a3a0bd00fec05ed1c7b0f",
@@ -183,7 +185,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/llorephie",
+          "nametag": "llorephie",
           "state": 1,
           "proof_url": "https://coinbase.com/llorephie/public-key",
           "sig_id": "11fdfa3a2b6dd5515efbe429ef1e04f6825d29c2aad08a3a0bd00fec05ed1c7b0f",
@@ -248,7 +250,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/llorephie",
+        "nametag": "llorephie",
         "state": 1,
         "proof_url": "https://coinbase.com/llorephie/public-key",
         "sig_id": "11fdfa3a2b6dd5515efbe429ef1e04f6825d29c2aad08a3a0bd00fec05ed1c7b0f",
@@ -290,47 +292,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "50fc070da5515acd5b3fd34ecab4c5685f95c2e938ef5de2de4ccf3c3c7aab300f",
-      "seqno": 16,
-      "payload_hash": "035dff5b33b1e0a640fce9cfcc32f88dafb1c8b431f1b219ff55b6a7d56b2802"
+      "sig_id": "0a6e1deb6b08753f27776fa5ddf90a9ddfe7f30d47dcae031a70f16f98df6c070f",
+      "seqno": 21,
+      "payload_hash": "88b01845d9382393457ea3787b83b0787f6090f0693e420db5ca44fb52515a9b"
     }
   },
   "devices": {
-    "321d8a4a420d18ffef18aec914987918": {
-      "type": "backup",
-      "ctime": 1459102628,
-      "mtime": 1459102628,
-      "name": "chuckle table",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120b1bbb7a4493952ac34f66db018abeec1f1171d90bf524098a3e2ac165e4e5eb90a",
-          "key_role": 1,
-          "sig_id": "05477fd5bc9bb01b6cb810ca66f4834cc2110238b04be4ef3063e720620a23f70f"
-        },
-        {
-          "kid": "012124db84ea1447f33378cc010952939d519f6cc7c5f1bc4cca8253483ff0a63c200a",
-          "key_role": 2,
-          "sig_id": "aac7d026385716eb17736c44da87fe856d049a4d0a3055979c9ab09abd5c90dd0f"
-        }
-      ]
-    },
-    "93c75660f1ea5fed5346381c0a536b18": {
+    "6d4a17ebf6abe7a57f5252d230941918": {
       "type": "desktop",
-      "ctime": 1459102626,
-      "mtime": 1459102626,
-      "name": "Kirito-B5045",
+      "ctime": 1471650632,
+      "mtime": 1471650632,
+      "name": "Kirito",
       "status": 1,
       "keys": [
         {
-          "kid": "0120d9a79e639ce54783d7f970c8d9f9e1ee85020240cb9ffa66af3aa82bc6e16d7c0a",
+          "kid": "0120e1145f88ddda4e05391a9471936cc8a4344c894c7c8cac37a442dd65bf6c09140a",
           "key_role": 1,
-          "sig_id": "44e9eab4982b0477225ed62aa0b518afe4fd41ab678e33d8105858ee660c47170f"
+          "sig_id": "dc6cfa32de31903167691082e91d1574564177db52e52a2c0062bbde95f93c4f0f"
         },
         {
-          "kid": "0121a39c79d93dde373542df22658f703d1a1a93135f9b28dac6378c1fa61e2a1c2b0a",
+          "kid": "0121fa8aaccc6b7a112d73adb5a7ab4dc60384f2771b81f4fe89e9e26742650190120a",
           "key_role": 2,
-          "sig_id": "5d84faf27bdb2e2d83f32cddff2b1e33d4d298360b0e5c0f3694fb49523d8b2e0f"
+          "sig_id": "2a167076988c3698076fd6386907763a34d297ab4e752ef80122398ad6af876e0f"
         }
       ]
     }
