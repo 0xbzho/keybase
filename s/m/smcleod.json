@@ -4,9 +4,9 @@
     "username": "smcleod",
     "ctime": 1423370872,
     "mtime": 1423370872,
-    "id_version": 49,
-    "track_version": 0,
-    "last_id_change": 1456196788,
+    "id_version": 100,
+    "track_version": 7,
+    "last_id_change": 1472157898,
     "username_cased": "smcleod"
   },
   "profile": {
@@ -40,16 +40,20 @@
       "012017f818407e4e477d4a076b079463fcc1b4e004ff9ee9345c96fae4b88ce36ec80a",
       "0121d8fe7ce88e3ae7955f5895ba2e89ec7e2ad40674f54a1a3bed70ae2c0893b3710a",
       "012192bc0b77d46fb94c0879d2b318b9937c7f99b5c10358e2bf950660a5f941457f0a",
-      "0120dc4126bd8f914eda1b9ab021eca6b8fd9c97afd527f275ddf89775c2f0c4c57f0a"
+      "0120dc4126bd8f914eda1b9ab021eca6b8fd9c97afd527f275ddf89775c2f0c4c57f0a",
+      "0120ed238e2a44ff6486dcb048ce4de927d40bcbb88b9c71aa4c5b07aabd31f844d40a",
+      "0121472769e737df6c2fd67ff1365147a72c6b69cbee89f85c594f710c305eef664a0a"
     ],
     "subkeys": [
       "0121d8fe7ce88e3ae7955f5895ba2e89ec7e2ad40674f54a1a3bed70ae2c0893b3710a",
-      "012192bc0b77d46fb94c0879d2b318b9937c7f99b5c10358e2bf950660a5f941457f0a"
+      "012192bc0b77d46fb94c0879d2b318b9937c7f99b5c10358e2bf950660a5f941457f0a",
+      "0121472769e737df6c2fd67ff1365147a72c6b69cbee89f85c594f710c305eef664a0a"
     ],
     "sibkeys": [
       "010135d7571e0f17edfe4b015ff547c550a28eb3aa579bae6885cd2a7e58ea7367280a",
       "012017f818407e4e477d4a076b079463fcc1b4e004ff9ee9345c96fae4b88ce36ec80a",
-      "0120dc4126bd8f914eda1b9ab021eca6b8fd9c97afd527f275ddf89775c2f0c4c57f0a"
+      "0120dc4126bd8f914eda1b9ab021eca6b8fd9c97afd527f275ddf89775c2f0c4c57f0a",
+      "0120ed238e2a44ff6486dcb048ce4de927d40bcbb88b9c71aa4c5b07aabd31f844d40a"
     ],
     "families": {
       "0101b81c99acb82933185790aac29f04b554d29547348b7cb6b6227c849fe78805200a": [
@@ -61,7 +65,9 @@
         "012017f818407e4e477d4a076b079463fcc1b4e004ff9ee9345c96fae4b88ce36ec80a",
         "0121d8fe7ce88e3ae7955f5895ba2e89ec7e2ad40674f54a1a3bed70ae2c0893b3710a",
         "012192bc0b77d46fb94c0879d2b318b9937c7f99b5c10358e2bf950660a5f941457f0a",
-        "0120dc4126bd8f914eda1b9ab021eca6b8fd9c97afd527f275ddf89775c2f0c4c57f0a"
+        "0120dc4126bd8f914eda1b9ab021eca6b8fd9c97afd527f275ddf89775c2f0c4c57f0a",
+        "0120ed238e2a44ff6486dcb048ce4de927d40bcbb88b9c71aa4c5b07aabd31f844d40a",
+        "0121472769e737df6c2fd67ff1365147a72c6b69cbee89f85c594f710c305eef664a0a"
       ]
     },
     "eldest_kid": "010135d7571e0f17edfe4b015ff547c550a28eb3aa579bae6885cd2a7e58ea7367280a",
@@ -72,6 +78,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "s_mcleod",
+          "state": 1,
+          "proof_url": "https://twitter.com/s_mcleod/status/768722685417226241",
+          "sig_id": "9d395f9943b7efa8d19f1471e92993d81207c6ef7bab01e05099e1d5896dd8760f",
+          "proof_id": "46f2f38ea1f766c499383410",
+          "human_url": "https://twitter.com/s_mcleod/status/768722685417226241",
+          "service_url": "https://twitter.com/s_mcleod",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -98,10 +118,206 @@
           "service_url": "https://news.ycombinator.com/user?id=mrmondo",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "fucked.host",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#3a065a05fe2d5411553199bc46fe46ac3a0f4ae4e3400db6844b08e6385a24fd0f",
+          "sig_id": "3a065a05fe2d5411553199bc46fe46ac3a0f4ae4e3400db6844b08e6385a24fd0f",
+          "proof_id": "d5e4b00cfe775dc90e6cba10",
+          "human_url": "dns://fucked.host",
+          "service_url": "http://fucked.host",
+          "presentation_group": "fucked.host",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "clusterfucked.host",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#2c51aed3d90e98c4c8cf08e66dc2e0fd88c01a6750bb5345f748028e97cd73e10f",
+          "sig_id": "2c51aed3d90e98c4c8cf08e66dc2e0fd88c01a6750bb5345f748028e97cd73e10f",
+          "proof_id": "7f17706be639eddb1144ab10",
+          "human_url": "dns://clusterfucked.host",
+          "service_url": "http://clusterfucked.host",
+          "presentation_group": "clusterfucked.host",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "deploy.science",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#e78de579549db896110ebaee8a83e16eeb9d3cb9e96d76017251e83ca58b9d6f0f",
+          "sig_id": "e78de579549db896110ebaee8a83e16eeb9d3cb9e96d76017251e83ca58b9d6f0f",
+          "proof_id": "6782692db236c848eab77f10",
+          "human_url": "dns://deploy.science",
+          "service_url": "http://deploy.science",
+          "presentation_group": "deploy.science",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "dickmove.online",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#a1fec0e0243ac87df215eecb84b01409d14e5c67b948d8ea5ad333cd4f345e150f",
+          "sig_id": "a1fec0e0243ac87df215eecb84b01409d14e5c67b948d8ea5ad333cd4f345e150f",
+          "proof_id": "42830f62decf5a14a13e1e10",
+          "human_url": "dns://dickmove.online",
+          "service_url": "http://dickmove.online",
+          "presentation_group": "dickmove.online",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "dontneed.faith",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#ef225da88381241219f62a8c07266420d20028b36ab4392070129797472de1810f",
+          "sig_id": "ef225da88381241219f62a8c07266420d20028b36ab4392070129797472de1810f",
+          "proof_id": "b34ebfb31bb41a6f29b06f10",
+          "human_url": "dns://dontneed.faith",
+          "service_url": "http://dontneed.faith",
+          "presentation_group": "dontneed.faith",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "easyas.win",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#8c458cc69095bc6dca723c1b8cb32cea72a8a4031700f7fbbd56e1cd918db3a40f",
+          "sig_id": "8c458cc69095bc6dca723c1b8cb32cea72a8a4031700f7fbbd56e1cd918db3a40f",
+          "proof_id": "6a92f588c6728f5a401c4310",
+          "human_url": "dns://easyas.win",
+          "service_url": "http://easyas.win",
+          "presentation_group": "easyas.win",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "facepalm.tech",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#bef084b420609c15891c5d48dc4c4f0dda2b1f5841a9f035b60092b242f2f43e0f",
+          "sig_id": "bef084b420609c15891c5d48dc4c4f0dda2b1f5841a9f035b60092b242f2f43e0f",
+          "proof_id": "5f7d271fc203e59f39caab10",
+          "human_url": "dns://facepalm.tech",
+          "service_url": "http://facepalm.tech",
+          "presentation_group": "facepalm.tech",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "dbag.online",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#68fdbf863e7d74bec516ad3d3efa56927a5c1a7bd2131260e6274305766f868f0f",
+          "sig_id": "68fdbf863e7d74bec516ad3d3efa56927a5c1a7bd2131260e6274305766f868f0f",
+          "proof_id": "5f4945946cd2f832e2338110",
+          "human_url": "dns://dbag.online",
+          "service_url": "http://dbag.online",
+          "presentation_group": "dbag.online",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "generalspecifics.xyz",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#f27c3ce85d40cbb3297f4f07072bcee9bc4ce3a75f2a82f50ea63efe8a66ecf50f",
+          "sig_id": "f27c3ce85d40cbb3297f4f07072bcee9bc4ce3a75f2a82f50ea63efe8a66ecf50f",
+          "proof_id": "c3505a48119a6603fc9da810",
+          "human_url": "dns://generalspecifics.xyz",
+          "service_url": "http://generalspecifics.xyz",
+          "presentation_group": "generalspecifics.xyz",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "goat.host",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#a88f21ca4bda1cd9865d576b7d20b732d4bb8f209923dfe104331d2388b3fbd60f",
+          "sig_id": "a88f21ca4bda1cd9865d576b7d20b732d4bb8f209923dfe104331d2388b3fbd60f",
+          "proof_id": "7c626757c597a0199f941a10",
+          "human_url": "dns://goat.host",
+          "service_url": "http://goat.host",
+          "presentation_group": "goat.host",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "icanhazdream.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#f2d64cd6fc9b2d75bbbe49b9897ac92837a04a7babab61fbb22255a1d759b4930f",
+          "sig_id": "f2d64cd6fc9b2d75bbbe49b9897ac92837a04a7babab61fbb22255a1d759b4930f",
+          "proof_id": "2f10266b4509342e3bd20310",
+          "human_url": "dns://icanhazdream.com",
+          "service_url": "http://icanhazdream.com",
+          "presentation_group": "icanhazdream.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "itsrainingcloud.online",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#51bfde80b83b56fa99d61918aa6315e3cc10fd48c99a9e3423b9dbde757873900f",
+          "sig_id": "51bfde80b83b56fa99d61918aa6315e3cc10fd48c99a9e3423b9dbde757873900f",
+          "proof_id": "0a011e6f9d292c9d3aa04810",
+          "human_url": "dns://itsrainingcloud.online",
+          "service_url": "http://itsrainingcloud.online",
+          "presentation_group": "itsrainingcloud.online",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "mondotunes.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#c026b7558fd3d0fa4e062b760afcbdd224f668a1a30d691782a4609814c935850f",
+          "sig_id": "c026b7558fd3d0fa4e062b760afcbdd224f668a1a30d691782a4609814c935850f",
+          "proof_id": "c8c958e13f3d40c1a0f03110",
+          "human_url": "dns://mondotunes.org",
+          "service_url": "http://mondotunes.org",
+          "presentation_group": "mondotunes.org",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "poo.download",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#eae023df9acb0ecb9330dde0f3d405ed5f75934262eecf7aa5bc69408a4d19160f",
+          "sig_id": "eae023df9acb0ecb9330dde0f3d405ed5f75934262eecf7aa5bc69408a4d19160f",
+          "proof_id": "059fcebb53cb8ee4e4903710",
+          "human_url": "dns://poo.download",
+          "service_url": "http://poo.download",
+          "presentation_group": "poo.download",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "smcleod.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#edf3b35c69f08d2b9747b9f06ef572690b06a62634912be15f7c1ac38fafbe0f0f",
+          "sig_id": "edf3b35c69f08d2b9747b9f06ef572690b06a62634912be15f7c1ac38fafbe0f0f",
+          "proof_id": "4b34556ad90c8d4b183bfa10",
+          "human_url": "dns://smcleod.net",
+          "service_url": "http://smcleod.net",
+          "presentation_group": "smcleod.net",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "s_mcleod",
+          "state": 1,
+          "proof_url": "https://twitter.com/s_mcleod/status/768722685417226241",
+          "sig_id": "9d395f9943b7efa8d19f1471e92993d81207c6ef7bab01e05099e1d5896dd8760f",
+          "proof_id": "46f2f38ea1f766c499383410",
+          "human_url": "https://twitter.com/s_mcleod/status/768722685417226241",
+          "service_url": "https://twitter.com/s_mcleod",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -129,9 +345,327 @@
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
         }
+      ],
+      "clusterfucked.host": [
+        {
+          "proof_type": "dns",
+          "nametag": "clusterfucked.host",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#2c51aed3d90e98c4c8cf08e66dc2e0fd88c01a6750bb5345f748028e97cd73e10f",
+          "sig_id": "2c51aed3d90e98c4c8cf08e66dc2e0fd88c01a6750bb5345f748028e97cd73e10f",
+          "proof_id": "7f17706be639eddb1144ab10",
+          "human_url": "dns://clusterfucked.host",
+          "service_url": "http://clusterfucked.host",
+          "presentation_group": "clusterfucked.host",
+          "presentation_tag": "dns"
+        }
+      ],
+      "dbag.online": [
+        {
+          "proof_type": "dns",
+          "nametag": "dbag.online",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#68fdbf863e7d74bec516ad3d3efa56927a5c1a7bd2131260e6274305766f868f0f",
+          "sig_id": "68fdbf863e7d74bec516ad3d3efa56927a5c1a7bd2131260e6274305766f868f0f",
+          "proof_id": "5f4945946cd2f832e2338110",
+          "human_url": "dns://dbag.online",
+          "service_url": "http://dbag.online",
+          "presentation_group": "dbag.online",
+          "presentation_tag": "dns"
+        }
+      ],
+      "deploy.science": [
+        {
+          "proof_type": "dns",
+          "nametag": "deploy.science",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#e78de579549db896110ebaee8a83e16eeb9d3cb9e96d76017251e83ca58b9d6f0f",
+          "sig_id": "e78de579549db896110ebaee8a83e16eeb9d3cb9e96d76017251e83ca58b9d6f0f",
+          "proof_id": "6782692db236c848eab77f10",
+          "human_url": "dns://deploy.science",
+          "service_url": "http://deploy.science",
+          "presentation_group": "deploy.science",
+          "presentation_tag": "dns"
+        }
+      ],
+      "dickmove.online": [
+        {
+          "proof_type": "dns",
+          "nametag": "dickmove.online",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#a1fec0e0243ac87df215eecb84b01409d14e5c67b948d8ea5ad333cd4f345e150f",
+          "sig_id": "a1fec0e0243ac87df215eecb84b01409d14e5c67b948d8ea5ad333cd4f345e150f",
+          "proof_id": "42830f62decf5a14a13e1e10",
+          "human_url": "dns://dickmove.online",
+          "service_url": "http://dickmove.online",
+          "presentation_group": "dickmove.online",
+          "presentation_tag": "dns"
+        }
+      ],
+      "dontneed.faith": [
+        {
+          "proof_type": "dns",
+          "nametag": "dontneed.faith",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#ef225da88381241219f62a8c07266420d20028b36ab4392070129797472de1810f",
+          "sig_id": "ef225da88381241219f62a8c07266420d20028b36ab4392070129797472de1810f",
+          "proof_id": "b34ebfb31bb41a6f29b06f10",
+          "human_url": "dns://dontneed.faith",
+          "service_url": "http://dontneed.faith",
+          "presentation_group": "dontneed.faith",
+          "presentation_tag": "dns"
+        }
+      ],
+      "easyas.win": [
+        {
+          "proof_type": "dns",
+          "nametag": "easyas.win",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#8c458cc69095bc6dca723c1b8cb32cea72a8a4031700f7fbbd56e1cd918db3a40f",
+          "sig_id": "8c458cc69095bc6dca723c1b8cb32cea72a8a4031700f7fbbd56e1cd918db3a40f",
+          "proof_id": "6a92f588c6728f5a401c4310",
+          "human_url": "dns://easyas.win",
+          "service_url": "http://easyas.win",
+          "presentation_group": "easyas.win",
+          "presentation_tag": "dns"
+        }
+      ],
+      "facepalm.tech": [
+        {
+          "proof_type": "dns",
+          "nametag": "facepalm.tech",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#bef084b420609c15891c5d48dc4c4f0dda2b1f5841a9f035b60092b242f2f43e0f",
+          "sig_id": "bef084b420609c15891c5d48dc4c4f0dda2b1f5841a9f035b60092b242f2f43e0f",
+          "proof_id": "5f7d271fc203e59f39caab10",
+          "human_url": "dns://facepalm.tech",
+          "service_url": "http://facepalm.tech",
+          "presentation_group": "facepalm.tech",
+          "presentation_tag": "dns"
+        }
+      ],
+      "fucked.host": [
+        {
+          "proof_type": "dns",
+          "nametag": "fucked.host",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#3a065a05fe2d5411553199bc46fe46ac3a0f4ae4e3400db6844b08e6385a24fd0f",
+          "sig_id": "3a065a05fe2d5411553199bc46fe46ac3a0f4ae4e3400db6844b08e6385a24fd0f",
+          "proof_id": "d5e4b00cfe775dc90e6cba10",
+          "human_url": "dns://fucked.host",
+          "service_url": "http://fucked.host",
+          "presentation_group": "fucked.host",
+          "presentation_tag": "dns"
+        }
+      ],
+      "generalspecifics.xyz": [
+        {
+          "proof_type": "dns",
+          "nametag": "generalspecifics.xyz",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#f27c3ce85d40cbb3297f4f07072bcee9bc4ce3a75f2a82f50ea63efe8a66ecf50f",
+          "sig_id": "f27c3ce85d40cbb3297f4f07072bcee9bc4ce3a75f2a82f50ea63efe8a66ecf50f",
+          "proof_id": "c3505a48119a6603fc9da810",
+          "human_url": "dns://generalspecifics.xyz",
+          "service_url": "http://generalspecifics.xyz",
+          "presentation_group": "generalspecifics.xyz",
+          "presentation_tag": "dns"
+        }
+      ],
+      "goat.host": [
+        {
+          "proof_type": "dns",
+          "nametag": "goat.host",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#a88f21ca4bda1cd9865d576b7d20b732d4bb8f209923dfe104331d2388b3fbd60f",
+          "sig_id": "a88f21ca4bda1cd9865d576b7d20b732d4bb8f209923dfe104331d2388b3fbd60f",
+          "proof_id": "7c626757c597a0199f941a10",
+          "human_url": "dns://goat.host",
+          "service_url": "http://goat.host",
+          "presentation_group": "goat.host",
+          "presentation_tag": "dns"
+        }
+      ],
+      "icanhazdream.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "icanhazdream.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#f2d64cd6fc9b2d75bbbe49b9897ac92837a04a7babab61fbb22255a1d759b4930f",
+          "sig_id": "f2d64cd6fc9b2d75bbbe49b9897ac92837a04a7babab61fbb22255a1d759b4930f",
+          "proof_id": "2f10266b4509342e3bd20310",
+          "human_url": "dns://icanhazdream.com",
+          "service_url": "http://icanhazdream.com",
+          "presentation_group": "icanhazdream.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "itsrainingcloud.online": [
+        {
+          "proof_type": "dns",
+          "nametag": "itsrainingcloud.online",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#51bfde80b83b56fa99d61918aa6315e3cc10fd48c99a9e3423b9dbde757873900f",
+          "sig_id": "51bfde80b83b56fa99d61918aa6315e3cc10fd48c99a9e3423b9dbde757873900f",
+          "proof_id": "0a011e6f9d292c9d3aa04810",
+          "human_url": "dns://itsrainingcloud.online",
+          "service_url": "http://itsrainingcloud.online",
+          "presentation_group": "itsrainingcloud.online",
+          "presentation_tag": "dns"
+        }
+      ],
+      "mondotunes.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "mondotunes.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#c026b7558fd3d0fa4e062b760afcbdd224f668a1a30d691782a4609814c935850f",
+          "sig_id": "c026b7558fd3d0fa4e062b760afcbdd224f668a1a30d691782a4609814c935850f",
+          "proof_id": "c8c958e13f3d40c1a0f03110",
+          "human_url": "dns://mondotunes.org",
+          "service_url": "http://mondotunes.org",
+          "presentation_group": "mondotunes.org",
+          "presentation_tag": "dns"
+        }
+      ],
+      "poo.download": [
+        {
+          "proof_type": "dns",
+          "nametag": "poo.download",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#eae023df9acb0ecb9330dde0f3d405ed5f75934262eecf7aa5bc69408a4d19160f",
+          "sig_id": "eae023df9acb0ecb9330dde0f3d405ed5f75934262eecf7aa5bc69408a4d19160f",
+          "proof_id": "059fcebb53cb8ee4e4903710",
+          "human_url": "dns://poo.download",
+          "service_url": "http://poo.download",
+          "presentation_group": "poo.download",
+          "presentation_tag": "dns"
+        }
+      ],
+      "smcleod.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "smcleod.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/smcleod/sigchain#edf3b35c69f08d2b9747b9f06ef572690b06a62634912be15f7c1ac38fafbe0f0f",
+          "sig_id": "edf3b35c69f08d2b9747b9f06ef572690b06a62634912be15f7c1ac38fafbe0f0f",
+          "proof_id": "4b34556ad90c8d4b183bfa10",
+          "human_url": "dns://smcleod.net",
+          "service_url": "http://smcleod.net",
+          "presentation_group": "smcleod.net",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "dns",
+        "nametag": "facepalm.tech",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#bef084b420609c15891c5d48dc4c4f0dda2b1f5841a9f035b60092b242f2f43e0f",
+        "sig_id": "bef084b420609c15891c5d48dc4c4f0dda2b1f5841a9f035b60092b242f2f43e0f",
+        "proof_id": "5f7d271fc203e59f39caab10",
+        "human_url": "dns://facepalm.tech",
+        "service_url": "http://facepalm.tech",
+        "presentation_group": "facepalm.tech",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "twitter",
+        "nametag": "s_mcleod",
+        "state": 1,
+        "proof_url": "https://twitter.com/s_mcleod/status/768722685417226241",
+        "sig_id": "9d395f9943b7efa8d19f1471e92993d81207c6ef7bab01e05099e1d5896dd8760f",
+        "proof_id": "46f2f38ea1f766c499383410",
+        "human_url": "https://twitter.com/s_mcleod/status/768722685417226241",
+        "service_url": "https://twitter.com/s_mcleod",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
+      {
+        "proof_type": "hackernews",
+        "nametag": "mrmondo",
+        "state": 1,
+        "proof_url": "https://news.ycombinator.com/user?id=mrmondo",
+        "sig_id": "3332c1a647be9daeecc4759817525a1b10da2cdd7293c02baa417cecaec343fa0f",
+        "proof_id": "7e39a1831dff9c304c3ba110",
+        "human_url": "https://news.ycombinator.com/user?id=mrmondo",
+        "service_url": "https://news.ycombinator.com/user?id=mrmondo",
+        "presentation_group": "hackernews",
+        "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "clusterfucked.host",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#2c51aed3d90e98c4c8cf08e66dc2e0fd88c01a6750bb5345f748028e97cd73e10f",
+        "sig_id": "2c51aed3d90e98c4c8cf08e66dc2e0fd88c01a6750bb5345f748028e97cd73e10f",
+        "proof_id": "7f17706be639eddb1144ab10",
+        "human_url": "dns://clusterfucked.host",
+        "service_url": "http://clusterfucked.host",
+        "presentation_group": "clusterfucked.host",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "dbag.online",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#68fdbf863e7d74bec516ad3d3efa56927a5c1a7bd2131260e6274305766f868f0f",
+        "sig_id": "68fdbf863e7d74bec516ad3d3efa56927a5c1a7bd2131260e6274305766f868f0f",
+        "proof_id": "5f4945946cd2f832e2338110",
+        "human_url": "dns://dbag.online",
+        "service_url": "http://dbag.online",
+        "presentation_group": "dbag.online",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "deploy.science",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#e78de579549db896110ebaee8a83e16eeb9d3cb9e96d76017251e83ca58b9d6f0f",
+        "sig_id": "e78de579549db896110ebaee8a83e16eeb9d3cb9e96d76017251e83ca58b9d6f0f",
+        "proof_id": "6782692db236c848eab77f10",
+        "human_url": "dns://deploy.science",
+        "service_url": "http://deploy.science",
+        "presentation_group": "deploy.science",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "dickmove.online",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#a1fec0e0243ac87df215eecb84b01409d14e5c67b948d8ea5ad333cd4f345e150f",
+        "sig_id": "a1fec0e0243ac87df215eecb84b01409d14e5c67b948d8ea5ad333cd4f345e150f",
+        "proof_id": "42830f62decf5a14a13e1e10",
+        "human_url": "dns://dickmove.online",
+        "service_url": "http://dickmove.online",
+        "presentation_group": "dickmove.online",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "dontneed.faith",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#ef225da88381241219f62a8c07266420d20028b36ab4392070129797472de1810f",
+        "sig_id": "ef225da88381241219f62a8c07266420d20028b36ab4392070129797472de1810f",
+        "proof_id": "b34ebfb31bb41a6f29b06f10",
+        "human_url": "dns://dontneed.faith",
+        "service_url": "http://dontneed.faith",
+        "presentation_group": "dontneed.faith",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "easyas.win",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#8c458cc69095bc6dca723c1b8cb32cea72a8a4031700f7fbbd56e1cd918db3a40f",
+        "sig_id": "8c458cc69095bc6dca723c1b8cb32cea72a8a4031700f7fbbd56e1cd918db3a40f",
+        "proof_id": "6a92f588c6728f5a401c4310",
+        "human_url": "dns://easyas.win",
+        "service_url": "http://easyas.win",
+        "presentation_group": "easyas.win",
+        "presentation_tag": "dns"
+      },
       {
         "proof_type": "github",
         "nametag": "sammcj",
@@ -145,33 +679,117 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "hackernews",
-        "nametag": "mrmondo",
+        "proof_type": "dns",
+        "nametag": "fucked.host",
         "state": 1,
-        "proof_url": "https://news.ycombinator.com/user?id=mrmondo",
-        "sig_id": "3332c1a647be9daeecc4759817525a1b10da2cdd7293c02baa417cecaec343fa0f",
-        "proof_id": "7e39a1831dff9c304c3ba110",
-        "human_url": "https://news.ycombinator.com/user?id=mrmondo",
-        "service_url": "https://news.ycombinator.com/user?id=mrmondo",
-        "presentation_group": "hackernews",
-        "presentation_tag": "profile"
+        "proof_url": "https://keybase.io/smcleod/sigchain#3a065a05fe2d5411553199bc46fe46ac3a0f4ae4e3400db6844b08e6385a24fd0f",
+        "sig_id": "3a065a05fe2d5411553199bc46fe46ac3a0f4ae4e3400db6844b08e6385a24fd0f",
+        "proof_id": "d5e4b00cfe775dc90e6cba10",
+        "human_url": "dns://fucked.host",
+        "service_url": "http://fucked.host",
+        "presentation_group": "fucked.host",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "generalspecifics.xyz",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#f27c3ce85d40cbb3297f4f07072bcee9bc4ce3a75f2a82f50ea63efe8a66ecf50f",
+        "sig_id": "f27c3ce85d40cbb3297f4f07072bcee9bc4ce3a75f2a82f50ea63efe8a66ecf50f",
+        "proof_id": "c3505a48119a6603fc9da810",
+        "human_url": "dns://generalspecifics.xyz",
+        "service_url": "http://generalspecifics.xyz",
+        "presentation_group": "generalspecifics.xyz",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "goat.host",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#a88f21ca4bda1cd9865d576b7d20b732d4bb8f209923dfe104331d2388b3fbd60f",
+        "sig_id": "a88f21ca4bda1cd9865d576b7d20b732d4bb8f209923dfe104331d2388b3fbd60f",
+        "proof_id": "7c626757c597a0199f941a10",
+        "human_url": "dns://goat.host",
+        "service_url": "http://goat.host",
+        "presentation_group": "goat.host",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "icanhazdream.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#f2d64cd6fc9b2d75bbbe49b9897ac92837a04a7babab61fbb22255a1d759b4930f",
+        "sig_id": "f2d64cd6fc9b2d75bbbe49b9897ac92837a04a7babab61fbb22255a1d759b4930f",
+        "proof_id": "2f10266b4509342e3bd20310",
+        "human_url": "dns://icanhazdream.com",
+        "service_url": "http://icanhazdream.com",
+        "presentation_group": "icanhazdream.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "itsrainingcloud.online",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#51bfde80b83b56fa99d61918aa6315e3cc10fd48c99a9e3423b9dbde757873900f",
+        "sig_id": "51bfde80b83b56fa99d61918aa6315e3cc10fd48c99a9e3423b9dbde757873900f",
+        "proof_id": "0a011e6f9d292c9d3aa04810",
+        "human_url": "dns://itsrainingcloud.online",
+        "service_url": "http://itsrainingcloud.online",
+        "presentation_group": "itsrainingcloud.online",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "mondotunes.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#c026b7558fd3d0fa4e062b760afcbdd224f668a1a30d691782a4609814c935850f",
+        "sig_id": "c026b7558fd3d0fa4e062b760afcbdd224f668a1a30d691782a4609814c935850f",
+        "proof_id": "c8c958e13f3d40c1a0f03110",
+        "human_url": "dns://mondotunes.org",
+        "service_url": "http://mondotunes.org",
+        "presentation_group": "mondotunes.org",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "poo.download",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#eae023df9acb0ecb9330dde0f3d405ed5f75934262eecf7aa5bc69408a4d19160f",
+        "sig_id": "eae023df9acb0ecb9330dde0f3d405ed5f75934262eecf7aa5bc69408a4d19160f",
+        "proof_id": "059fcebb53cb8ee4e4903710",
+        "human_url": "dns://poo.download",
+        "service_url": "http://poo.download",
+        "presentation_group": "poo.download",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "smcleod.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/smcleod/sigchain#edf3b35c69f08d2b9747b9f06ef572690b06a62634912be15f7c1ac38fafbe0f0f",
+        "sig_id": "edf3b35c69f08d2b9747b9f06ef572690b06a62634912be15f7c1ac38fafbe0f0f",
+        "proof_id": "4b34556ad90c8d4b183bfa10",
+        "human_url": "dns://smcleod.net",
+        "service_url": "http://smcleod.net",
+        "presentation_group": "smcleod.net",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f83b290327af6df9d8e78a2703cb4905_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/da689ff8b2d2f0e1be20625ed9cb8e05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "b52fc7b075f15f811d96b13bea53a345b03a5cb8def1f595d08a2fa18dcc3a950f",
-      "seqno": 16,
-      "payload_hash": "3566bf6ce33235c03549411c052b3764f67498f3a3a22b2a009143150f005770"
+      "sig_id": "3336ab8163295032714ba2ab2f3149a175ca069c4bab73b5957440069aabc0d80f",
+      "seqno": 47,
+      "payload_hash": "358e6aec8a7d8b321435bf67ccb2aed5f134faf7fa2bc7190b597e123d7a0033"
     }
   },
   "devices": {
@@ -210,6 +828,25 @@
           "kid": "012192bc0b77d46fb94c0879d2b318b9937c7f99b5c10358e2bf950660a5f941457f0a",
           "key_role": 2,
           "sig_id": "35cb2bed41a13cec7a8b5f920816c50623408377c4fa31b57a58dba3badc964f0f"
+        }
+      ]
+    },
+    "7e14e4076827234179379fe45b335918": {
+      "type": "desktop",
+      "ctime": 1472110968,
+      "mtime": 1472110968,
+      "name": "samm-mb",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ed238e2a44ff6486dcb048ce4de927d40bcbb88b9c71aa4c5b07aabd31f844d40a",
+          "key_role": 1,
+          "sig_id": "78878e00eccbefbc0906a02b4146700f6d82e018f3e209043c8803b7d7cb91150f"
+        },
+        {
+          "kid": "0121472769e737df6c2fd67ff1365147a72c6b69cbee89f85c594f710c305eef664a0a",
+          "key_role": 2,
+          "sig_id": "5b9078f98c49d74fe9df07dd5fe8ff65c5f481d9918522775ab467a31322b74d0f"
         }
       ]
     }
