@@ -4,16 +4,16 @@
     "username": "gnosticjade",
     "ctime": 1418619072,
     "mtime": 1418619072,
-    "id_version": 80,
-    "track_version": 5,
-    "last_id_change": 1467662099,
+    "id_version": 85,
+    "track_version": 6,
+    "last_id_change": 1471845085,
     "username_cased": "gnosticjade"
   },
   "profile": {
-    "mtime": 1418621760,
+    "mtime": 1471844917,
     "full_name": "Jade",
-    "location": "Somewhere in the US",
-    "bio": "CompTIA A+ Computer Repair/Networking certified, network/sysadmin."
+    "location": null,
+    "bio": "General technology enthusiast. Aspiring systems administrator."
   },
   "public_keys": {
     "primary": {
@@ -106,7 +106,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/gnosticJade",
+          "nametag": "gnosticjade",
           "state": 1,
           "proof_url": "https://coinbase.com/gnosticJade/public-key",
           "sig_id": "bec79bbacda79cabbd5b1f658f49b077e9febec6fe816c514c1e9dbf66a8cd090f",
@@ -118,6 +118,18 @@
         }
       ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "smol.cat",
+          "state": 1,
+          "proof_url": "https://keybase.io/gnosticjade/sigchain#a8dc1d9f7674bb2c2483d4661e9743f08570c0a7c1fefa27667ea690d7f727c70f",
+          "sig_id": "a8dc1d9f7674bb2c2483d4661e9743f08570c0a7c1fefa27667ea690d7f727c70f",
+          "proof_id": "3a7fc1702c9fb2e6de7ffa10",
+          "human_url": "dns://smol.cat",
+          "service_url": "http://smol.cat",
+          "presentation_group": "smol.cat",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "gnosticjade.net",
@@ -178,7 +190,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/gnosticJade",
+          "nametag": "gnosticjade",
           "state": 1,
           "proof_url": "https://coinbase.com/gnosticJade/public-key",
           "sig_id": "bec79bbacda79cabbd5b1f658f49b077e9febec6fe816c514c1e9dbf66a8cd090f",
@@ -187,6 +199,20 @@
           "service_url": "https://coinbase.com/gnosticJade",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "smol.cat": [
+        {
+          "proof_type": "dns",
+          "nametag": "smol.cat",
+          "state": 1,
+          "proof_url": "https://keybase.io/gnosticjade/sigchain#a8dc1d9f7674bb2c2483d4661e9743f08570c0a7c1fefa27667ea690d7f727c70f",
+          "sig_id": "a8dc1d9f7674bb2c2483d4661e9743f08570c0a7c1fefa27667ea690d7f727c70f",
+          "proof_id": "3a7fc1702c9fb2e6de7ffa10",
+          "human_url": "dns://smol.cat",
+          "service_url": "http://smol.cat",
+          "presentation_group": "smol.cat",
+          "presentation_tag": "dns"
         }
       ],
       "gnosticjade.net": [
@@ -243,7 +269,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/gnosticJade",
+        "nametag": "gnosticjade",
         "state": 1,
         "proof_url": "https://coinbase.com/gnosticJade/public-key",
         "sig_id": "bec79bbacda79cabbd5b1f658f49b077e9febec6fe816c514c1e9dbf66a8cd090f",
@@ -252,6 +278,18 @@
         "service_url": "https://coinbase.com/gnosticJade",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "smol.cat",
+        "state": 1,
+        "proof_url": "https://keybase.io/gnosticjade/sigchain#a8dc1d9f7674bb2c2483d4661e9743f08570c0a7c1fefa27667ea690d7f727c70f",
+        "sig_id": "a8dc1d9f7674bb2c2483d4661e9743f08570c0a7c1fefa27667ea690d7f727c70f",
+        "proof_id": "3a7fc1702c9fb2e6de7ffa10",
+        "human_url": "dns://smol.cat",
+        "service_url": "http://smol.cat",
+        "presentation_group": "smol.cat",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -278,9 +316,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3a7f2de3d236ec10f9054652de57b083f4c84cc1edab110f0d4a87af809a024a0f",
-      "seqno": 19,
-      "payload_hash": "1b73e6c23fbaaa8847c52f6478fd2558f75c3e2f270b200f164168c763d4acd6"
+      "sig_id": "4cedff7361896aece372b527422a55c40f55037e0924b60eccfec9f54cbd6e550f",
+      "seqno": 22,
+      "payload_hash": "dd6d9487a814b6f66a67d351a2e926a0e9063d5041fd05b22a7b0d3205e2b669"
     }
   },
   "devices": {}
