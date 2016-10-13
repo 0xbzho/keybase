@@ -4,16 +4,16 @@
     "username": "taggenblu",
     "ctime": 1459243489,
     "mtime": 1459243489,
-    "id_version": 19,
+    "id_version": 21,
     "track_version": 4,
-    "last_id_change": 1459414436,
+    "last_id_change": 1475764181,
     "username_cased": "taggenblu"
   },
   "profile": {
-    "mtime": 1459244733,
+    "mtime": 1475764227,
     "full_name": "James Friel",
     "location": "Edinburgh, Earth",
-    "bio": "Computers and Shit."
+    "bio": "Computers and Climbing."
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,20 @@
       "0120c8802eb80676348ed5beca915a799fea3dadcda7b77390180420e4a298a87a8a0a",
       "012148ce7df3d69c303aadcb9aaaf36b8cd256677e1b8c47ad563193205b34be34040a",
       "012083bab26402bd1c707edb606d6679475ddf1c2440152f9ef390c921efbf40a0fe0a",
-      "01210970d27c6782b52d94fd912e05c50277679f259c6a9a1658c5fdc09c5bab183b0a"
+      "01210970d27c6782b52d94fd912e05c50277679f259c6a9a1658c5fdc09c5bab183b0a",
+      "01216c647c5db0787002756a9007b56343602fd8527282f9a7e10e69cdfbdd83f25b0a",
+      "012020a0e9ded9702a19bbe84c06ea2e7b90a6f21d3b0559caa576600983e0b32f140a"
     ],
     "subkeys": [
       "012148ce7df3d69c303aadcb9aaaf36b8cd256677e1b8c47ad563193205b34be34040a",
-      "01210970d27c6782b52d94fd912e05c50277679f259c6a9a1658c5fdc09c5bab183b0a"
+      "01210970d27c6782b52d94fd912e05c50277679f259c6a9a1658c5fdc09c5bab183b0a",
+      "01216c647c5db0787002756a9007b56343602fd8527282f9a7e10e69cdfbdd83f25b0a"
     ],
     "sibkeys": [
       "01014f342f609be03a4a525a362d622c8ecb6d5b87369a5d4da93f66e3b98946983b0a",
       "0120c8802eb80676348ed5beca915a799fea3dadcda7b77390180420e4a298a87a8a0a",
-      "012083bab26402bd1c707edb606d6679475ddf1c2440152f9ef390c921efbf40a0fe0a"
+      "012083bab26402bd1c707edb606d6679475ddf1c2440152f9ef390c921efbf40a0fe0a",
+      "012020a0e9ded9702a19bbe84c06ea2e7b90a6f21d3b0559caa576600983e0b32f140a"
     ],
     "families": {
       "01014f342f609be03a4a525a362d622c8ecb6d5b87369a5d4da93f66e3b98946983b0a": [
@@ -55,7 +59,9 @@
         "0120c8802eb80676348ed5beca915a799fea3dadcda7b77390180420e4a298a87a8a0a",
         "012148ce7df3d69c303aadcb9aaaf36b8cd256677e1b8c47ad563193205b34be34040a",
         "012083bab26402bd1c707edb606d6679475ddf1c2440152f9ef390c921efbf40a0fe0a",
-        "01210970d27c6782b52d94fd912e05c50277679f259c6a9a1658c5fdc09c5bab183b0a"
+        "01210970d27c6782b52d94fd912e05c50277679f259c6a9a1658c5fdc09c5bab183b0a",
+        "01216c647c5db0787002756a9007b56343602fd8527282f9a7e10e69cdfbdd83f25b0a",
+        "012020a0e9ded9702a19bbe84c06ea2e7b90a6f21d3b0559caa576600983e0b32f140a"
       ]
     },
     "eldest_kid": "01014f342f609be03a4a525a362d622c8ecb6d5b87369a5d4da93f66e3b98946983b0a",
@@ -192,7 +198,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "16T7wzyYompGfS4paQcuQMNetFoU7D5zWR",
+        "sig_id": "3e7e0ef4a06d29a86957be0e880e9730e4648cd680edb2d571cba51710bdf9850f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/15c4fa99b74ad0d5bb7254af825edc05_360_360_square_360.jpeg",
@@ -203,9 +216,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "06eaea3a4a348867d142505355adb0a812ae1753fe0be7c64bc5290a7b5d6d320f",
-      "seqno": 15,
-      "payload_hash": "06eeb80452833e7d4f59f8e7398d9d3375531033bfe912374a76f75550240628"
+      "sig_id": "3e7e0ef4a06d29a86957be0e880e9730e4648cd680edb2d571cba51710bdf9850f",
+      "seqno": 18,
+      "payload_hash": "4056ac5a1825765149480cae482e283912808fd1692ad3970a40721d7fdad394"
     }
   },
   "devices": {
@@ -244,6 +257,25 @@
           "kid": "01210970d27c6782b52d94fd912e05c50277679f259c6a9a1658c5fdc09c5bab183b0a",
           "key_role": 2,
           "sig_id": "06eaea3a4a348867d142505355adb0a812ae1753fe0be7c64bc5290a7b5d6d320f"
+        }
+      ]
+    },
+    "1eb8b893cc9c78f6f8456b7d69920318": {
+      "type": "desktop",
+      "ctime": 1475746137,
+      "mtime": 1475746137,
+      "name": "Vanya",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012020a0e9ded9702a19bbe84c06ea2e7b90a6f21d3b0559caa576600983e0b32f140a",
+          "key_role": 1,
+          "sig_id": "2b122073ed9d11adf37ae5c4994a3195775b2b86371bf225b9051fad9ea83d480f"
+        },
+        {
+          "kid": "01216c647c5db0787002756a9007b56343602fd8527282f9a7e10e69cdfbdd83f25b0a",
+          "key_role": 2,
+          "sig_id": "ed60f4055e3dc1141d90aaa28a4068310c972c5b51296b76d30f133d96162ac90f"
         }
       ]
     }
