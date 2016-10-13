@@ -4,9 +4,9 @@
     "username": "leocassarani",
     "ctime": 1429029946,
     "mtime": 1429029946,
-    "id_version": 11,
+    "id_version": 12,
     "track_version": 4,
-    "last_id_change": 1450132255,
+    "last_id_change": 1476290780,
     "username_cased": "leocassarani"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "01212dccc50ff876643389390bceb5c3583d174c46ff0146f58096d68a1109fbeb060a",
       "01206c3b84c7e36bcb55ba47732099bba159d8f13116adf2b4249bbb0232f4ef91400a",
       "012149309c852a9f2df0ecd9d93fd7b5bbe1108a5a038eadfb00d3f4c38f01aa680f0a",
-      "012028f1979be2a49e49999806d1f0e003caf8b210d8de140ee600aba7d24792a4ce0a"
+      "012028f1979be2a49e49999806d1f0e003caf8b210d8de140ee600aba7d24792a4ce0a",
+      "01213a0fa3257ab52ae2e5daffa7aff2ddb881cc1e385c79f0a5563284c2d9e7385f0a",
+      "0120b70410aca17b8f0b5540cfbeb8f21b11295a342f1805d498b725437a5da660e10a"
     ],
     "subkeys": [
       "01212dccc50ff876643389390bceb5c3583d174c46ff0146f58096d68a1109fbeb060a",
-      "012149309c852a9f2df0ecd9d93fd7b5bbe1108a5a038eadfb00d3f4c38f01aa680f0a"
+      "012149309c852a9f2df0ecd9d93fd7b5bbe1108a5a038eadfb00d3f4c38f01aa680f0a",
+      "01213a0fa3257ab52ae2e5daffa7aff2ddb881cc1e385c79f0a5563284c2d9e7385f0a"
     ],
     "sibkeys": [
       "0101b425de8680b4730b39e95829c63c143bd0c7d326db303974482c49a9579369940a",
       "01206c3b84c7e36bcb55ba47732099bba159d8f13116adf2b4249bbb0232f4ef91400a",
-      "012028f1979be2a49e49999806d1f0e003caf8b210d8de140ee600aba7d24792a4ce0a"
+      "012028f1979be2a49e49999806d1f0e003caf8b210d8de140ee600aba7d24792a4ce0a",
+      "0120b70410aca17b8f0b5540cfbeb8f21b11295a342f1805d498b725437a5da660e10a"
     ],
     "families": {
       "0101b425de8680b4730b39e95829c63c143bd0c7d326db303974482c49a9579369940a": [
@@ -55,7 +59,9 @@
         "01212dccc50ff876643389390bceb5c3583d174c46ff0146f58096d68a1109fbeb060a",
         "01206c3b84c7e36bcb55ba47732099bba159d8f13116adf2b4249bbb0232f4ef91400a",
         "012149309c852a9f2df0ecd9d93fd7b5bbe1108a5a038eadfb00d3f4c38f01aa680f0a",
-        "012028f1979be2a49e49999806d1f0e003caf8b210d8de140ee600aba7d24792a4ce0a"
+        "012028f1979be2a49e49999806d1f0e003caf8b210d8de140ee600aba7d24792a4ce0a",
+        "01213a0fa3257ab52ae2e5daffa7aff2ddb881cc1e385c79f0a5563284c2d9e7385f0a",
+        "0120b70410aca17b8f0b5540cfbeb8f21b11295a342f1805d498b725437a5da660e10a"
       ]
     },
     "eldest_kid": "0101b425de8680b4730b39e95829c63c143bd0c7d326db303974482c49a9579369940a",
@@ -203,9 +209,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "6f052818876c1be1f70502124f2f928531c4ad2dd9471e5aa2f0b9f979b313030f",
-      "seqno": 11,
-      "payload_hash": "2126c7bd204a3d00c62526a775bcbe978928e3cb3eeb3e2e766435b80640f3bb"
+      "sig_id": "2e1b6a2eff9e1d8806ed7f8f3e81cd78349ba61813036be91498c5add405cc100f",
+      "seqno": 13,
+      "payload_hash": "36fb9ce3c97e734d2920a5fae1a6391b7fa5f4896cc65eb56cd1d60467ecd172"
     }
   },
   "devices": {
@@ -244,6 +250,25 @@
           "kid": "01212dccc50ff876643389390bceb5c3583d174c46ff0146f58096d68a1109fbeb060a",
           "key_role": 2,
           "sig_id": "5a50bd6dfa32b6ed4bd101c2acdfe82605d080aa029903f249bf8e1e1cd88d730f"
+        }
+      ]
+    },
+    "d2c541cebed1c2907430adf9d5874c18": {
+      "type": "desktop",
+      "ctime": 1476290780,
+      "mtime": 1476290780,
+      "name": "Geckoboard MBA",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b70410aca17b8f0b5540cfbeb8f21b11295a342f1805d498b725437a5da660e10a",
+          "key_role": 1,
+          "sig_id": "2e59007ae98cc4a4123b3857c5d1becfdde746f36ef8331432d06637f9cf6dc20f"
+        },
+        {
+          "kid": "01213a0fa3257ab52ae2e5daffa7aff2ddb881cc1e385c79f0a5563284c2d9e7385f0a",
+          "key_role": 2,
+          "sig_id": "2e1b6a2eff9e1d8806ed7f8f3e81cd78349ba61813036be91498c5add405cc100f"
         }
       ]
     }
