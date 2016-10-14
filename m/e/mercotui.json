@@ -4,16 +4,16 @@
     "username": "mercotui",
     "ctime": 1456264620,
     "mtime": 1456264620,
-    "id_version": 7,
-    "track_version": 4,
-    "last_id_change": 1464129503,
+    "id_version": 13,
+    "track_version": 7,
+    "last_id_change": 1473199639,
     "username_cased": "mercotui"
   },
   "profile": {
-    "mtime": 1456265043,
+    "mtime": 1473200983,
     "full_name": "Menno van der Graaf",
     "location": "Netherlands",
-    "bio": "Hey, encryption is like, total magic dude"
+    "bio": "Hey man, encryption is like, total magic, dude"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,20 @@
       "01215508dcc612fa69beba9fb7b14e2041361b40d4ebc99e9e802e7b39468173ff1f0a",
       "0120553b8340aec53fd8681c84111073813efbb88ccbd924e12fbb9ebf0897f6465a0a",
       "0120c668e4165d6a82b71c213729a5f6b965453439529baa05d22fff1b7eb00e48ee0a",
-      "0121a2754132f756fd66c735718898d5c36183765e9ddb5faea0242e7ba26d7785760a"
+      "0121a2754132f756fd66c735718898d5c36183765e9ddb5faea0242e7ba26d7785760a",
+      "0120054617b6187799595c19be6f5eab02f56740ff15e55ac71a1ffe6789320a432c0a",
+      "012192b18e8657251c5cfc75c4f75a1557946232ac74a1f19b7cc3ba52d5a69180450a"
     ],
     "subkeys": [
       "01215508dcc612fa69beba9fb7b14e2041361b40d4ebc99e9e802e7b39468173ff1f0a",
-      "0121a2754132f756fd66c735718898d5c36183765e9ddb5faea0242e7ba26d7785760a"
+      "0121a2754132f756fd66c735718898d5c36183765e9ddb5faea0242e7ba26d7785760a",
+      "012192b18e8657251c5cfc75c4f75a1557946232ac74a1f19b7cc3ba52d5a69180450a"
     ],
     "sibkeys": [
       "01012d26827fe3b50e2389a9279b40992710794b45d068edffaca1f5ea2d3876358c0a",
       "0120553b8340aec53fd8681c84111073813efbb88ccbd924e12fbb9ebf0897f6465a0a",
-      "0120c668e4165d6a82b71c213729a5f6b965453439529baa05d22fff1b7eb00e48ee0a"
+      "0120c668e4165d6a82b71c213729a5f6b965453439529baa05d22fff1b7eb00e48ee0a",
+      "0120054617b6187799595c19be6f5eab02f56740ff15e55ac71a1ffe6789320a432c0a"
     ],
     "families": {
       "01012d26827fe3b50e2389a9279b40992710794b45d068edffaca1f5ea2d3876358c0a": [
@@ -55,7 +59,9 @@
         "01215508dcc612fa69beba9fb7b14e2041361b40d4ebc99e9e802e7b39468173ff1f0a",
         "0120553b8340aec53fd8681c84111073813efbb88ccbd924e12fbb9ebf0897f6465a0a",
         "0120c668e4165d6a82b71c213729a5f6b965453439529baa05d22fff1b7eb00e48ee0a",
-        "0121a2754132f756fd66c735718898d5c36183765e9ddb5faea0242e7ba26d7785760a"
+        "0121a2754132f756fd66c735718898d5c36183765e9ddb5faea0242e7ba26d7785760a",
+        "0120054617b6187799595c19be6f5eab02f56740ff15e55ac71a1ffe6789320a432c0a",
+        "012192b18e8657251c5cfc75c4f75a1557946232ac74a1f19b7cc3ba52d5a69180450a"
       ]
     },
     "eldest_kid": "01012d26827fe3b50e2389a9279b40992710794b45d068edffaca1f5ea2d3876358c0a",
@@ -66,6 +72,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "mercotui",
+          "state": 1,
+          "proof_url": "https://twitter.com/mercotui/status/773281008561029120",
+          "sig_id": "179a2342ba9e59283097bb0f091f768ea7eabd34de1edd96c7ca0d55466533630f",
+          "proof_id": "c8e7c2e7b1c07ed78fbed510",
+          "human_url": "https://twitter.com/mercotui/status/773281008561029120",
+          "service_url": "https://twitter.com/mercotui",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -78,10 +98,38 @@
           "service_url": "https://github.com/mercotui",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "mercotui.com",
+          "state": 1,
+          "proof_url": "http://mercotui.com/.well-known/keybase.txt",
+          "sig_id": "60126a2e32c3b86c58ac4e7d0a7d30909eb0117f69294a3184c8b5c057e40edc0f",
+          "proof_id": "d5e7ea616107b0640cac5610",
+          "human_url": "http://mercotui.com/.well-known/keybase.txt",
+          "service_url": "http://mercotui.com",
+          "presentation_group": "mercotui.com",
+          "presentation_tag": "http"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "mercotui",
+          "state": 1,
+          "proof_url": "https://twitter.com/mercotui/status/773281008561029120",
+          "sig_id": "179a2342ba9e59283097bb0f091f768ea7eabd34de1edd96c7ca0d55466533630f",
+          "proof_id": "c8e7c2e7b1c07ed78fbed510",
+          "human_url": "https://twitter.com/mercotui/status/773281008561029120",
+          "service_url": "https://twitter.com/mercotui",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -95,9 +143,35 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "mercotui.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "mercotui.com",
+          "state": 1,
+          "proof_url": "http://mercotui.com/.well-known/keybase.txt",
+          "sig_id": "60126a2e32c3b86c58ac4e7d0a7d30909eb0117f69294a3184c8b5c057e40edc0f",
+          "proof_id": "d5e7ea616107b0640cac5610",
+          "human_url": "http://mercotui.com/.well-known/keybase.txt",
+          "service_url": "http://mercotui.com",
+          "presentation_group": "mercotui.com",
+          "presentation_tag": "http"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "mercotui",
+        "state": 1,
+        "proof_url": "https://twitter.com/mercotui/status/773281008561029120",
+        "sig_id": "179a2342ba9e59283097bb0f091f768ea7eabd34de1edd96c7ca0d55466533630f",
+        "proof_id": "c8e7c2e7b1c07ed78fbed510",
+        "human_url": "https://twitter.com/mercotui/status/773281008561029120",
+        "service_url": "https://twitter.com/mercotui",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "mercotui",
@@ -109,26 +183,57 @@
         "service_url": "https://github.com/mercotui",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "mercotui.com",
+        "state": 1,
+        "proof_url": "http://mercotui.com/.well-known/keybase.txt",
+        "sig_id": "60126a2e32c3b86c58ac4e7d0a7d30909eb0117f69294a3184c8b5c057e40edc0f",
+        "proof_id": "d5e7ea616107b0640cac5610",
+        "human_url": "http://mercotui.com/.well-known/keybase.txt",
+        "service_url": "http://mercotui.com",
+        "presentation_group": "mercotui.com",
+        "presentation_tag": "http"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/77357ac0dae4d78dee383ddbb7226805_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/76fad2b4d7836fd2ca3ceb4aa812e405_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "7636531327134e8301740ee5c35f38b00d56e3824680f2b97d6f9af31c1f086a0f",
-      "seqno": 10,
-      "payload_hash": "6e2ef468f7a7d42ae2de7945156468defe23a448f347dfd22c9694042ed0bf0a"
+      "sig_id": "0335ae630753984adf710f4394f811593e50d5d23451306783c467b2252a535e0f",
+      "seqno": 17,
+      "payload_hash": "a9e711dbf14c1ac5a6da218bb0a5577c8e11ad696c3ec34f89881b5aa3187bca"
     }
   },
   "devices": {
+    "2c522d01632d6cb6b042d2e290416818": {
+      "type": "desktop",
+      "ctime": 1473193862,
+      "mtime": 1473193862,
+      "name": "Titux",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120054617b6187799595c19be6f5eab02f56740ff15e55ac71a1ffe6789320a432c0a",
+          "key_role": 1,
+          "sig_id": "e31cc906776c4812b4560dbe5d5698c7d8286b81dac287425ab67290ffa7d9260f"
+        },
+        {
+          "kid": "012192b18e8657251c5cfc75c4f75a1557946232ac74a1f19b7cc3ba52d5a69180450a",
+          "key_role": 2,
+          "sig_id": "fc29e949d8bee273a58059005a6e7e36b65b21e0a01fdc77fcb826cac33eff6b0f"
+        }
+      ]
+    },
     "926a2d5dd6cf7f1f65ebaf1464eea818": {
       "type": "desktop",
       "ctime": 1464129502,
