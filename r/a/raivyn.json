@@ -4,9 +4,9 @@
     "username": "raivyn",
     "ctime": 1460924960,
     "mtime": 1460924960,
-    "id_version": 8,
+    "id_version": 9,
     "track_version": 1,
-    "last_id_change": 1466709818,
+    "last_id_change": 1473395090,
     "username_cased": "Raivyn"
   },
   "profile": {
@@ -38,16 +38,16 @@
       "01213d9a6065b6be77bdca82994afe6a1a7061f1ae707f3faa61e576b05336b2e56f0a",
       "01205a39221fc4c015fdb3a5b84081b89f86d28739b3b455b611595ce4e5d6b1995c0a",
       "0120220e018449ec4f3208e40628efae9a88ea75927d7089595c1a19a65c729955740a",
-      "012121912cd5539efe2a5cdfe3112a5d185facb3ae5b1f48a7dd4b3ddb51976ded240a"
+      "012121912cd5539efe2a5cdfe3112a5d185facb3ae5b1f48a7dd4b3ddb51976ded240a",
+      "012165c6a77462f1e832d9d5f8c51a038e909823b69c892095589776d0cf3d97f2020a",
+      "0120559e86b31d025b97a7b9c6189936e7cf22ba700cec4070048f9b88f6fbdf4a970a"
     ],
     "subkeys": [
-      "01213d9a6065b6be77bdca82994afe6a1a7061f1ae707f3faa61e576b05336b2e56f0a",
-      "012121912cd5539efe2a5cdfe3112a5d185facb3ae5b1f48a7dd4b3ddb51976ded240a"
+      "012165c6a77462f1e832d9d5f8c51a038e909823b69c892095589776d0cf3d97f2020a"
     ],
     "sibkeys": [
       "01017c0aa5cffa70d46fbdd79f0cb97f108090e7f7f9941eaee01143d441e73162f60a",
-      "01205a39221fc4c015fdb3a5b84081b89f86d28739b3b455b611595ce4e5d6b1995c0a",
-      "0120220e018449ec4f3208e40628efae9a88ea75927d7089595c1a19a65c729955740a"
+      "0120559e86b31d025b97a7b9c6189936e7cf22ba700cec4070048f9b88f6fbdf4a970a"
     ],
     "families": {
       "01017c0aa5cffa70d46fbdd79f0cb97f108090e7f7f9941eaee01143d441e73162f60a": [
@@ -55,7 +55,9 @@
         "01213d9a6065b6be77bdca82994afe6a1a7061f1ae707f3faa61e576b05336b2e56f0a",
         "01205a39221fc4c015fdb3a5b84081b89f86d28739b3b455b611595ce4e5d6b1995c0a",
         "0120220e018449ec4f3208e40628efae9a88ea75927d7089595c1a19a65c729955740a",
-        "012121912cd5539efe2a5cdfe3112a5d185facb3ae5b1f48a7dd4b3ddb51976ded240a"
+        "012121912cd5539efe2a5cdfe3112a5d185facb3ae5b1f48a7dd4b3ddb51976ded240a",
+        "012165c6a77462f1e832d9d5f8c51a038e909823b69c892095589776d0cf3d97f2020a",
+        "0120559e86b31d025b97a7b9c6189936e7cf22ba700cec4070048f9b88f6fbdf4a970a"
       ]
     },
     "eldest_kid": "01017c0aa5cffa70d46fbdd79f0cb97f108090e7f7f9941eaee01143d441e73162f60a",
@@ -83,7 +85,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/raivyn",
+          "nametag": "raivyn",
           "state": 1,
           "proof_url": "https://coinbase.com/raivyn/public-key",
           "sig_id": "473985f9a5a0086d47c21256c25583d97a725df00f246300ef85aa10698059150f",
@@ -113,7 +115,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/raivyn",
+          "nametag": "raivyn",
           "state": 1,
           "proof_url": "https://coinbase.com/raivyn/public-key",
           "sig_id": "473985f9a5a0086d47c21256c25583d97a725df00f246300ef85aa10698059150f",
@@ -140,7 +142,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/raivyn",
+        "nametag": "raivyn",
         "state": 1,
         "proof_url": "https://coinbase.com/raivyn/public-key",
         "sig_id": "473985f9a5a0086d47c21256c25583d97a725df00f246300ef85aa10698059150f",
@@ -170,47 +172,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "05d2be848dbb2b2340c0f884c21dc171adf7e90e8fde4617bf862c34a7a156240f",
-      "seqno": 9,
-      "payload_hash": "c26dbc379bd0b99b76eacce39eba19a144ac1bc463b430fd4b827751104ad365"
+      "sig_id": "38f61bcf88e8a01df6fde5593d739830f9ab2f61544b4b4e25f8d275b8b9b59f0f",
+      "seqno": 13,
+      "payload_hash": "5b6c73d6b0f9ab7ed6e4c92e01de5e854babcab23522f3246a9efc7af2723e78"
     }
   },
   "devices": {
-    "9be7bd7009e3e82f3624827ee0674218": {
-      "type": "backup",
-      "ctime": 1466709818,
-      "mtime": 1466709818,
-      "name": "twelve entire",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120220e018449ec4f3208e40628efae9a88ea75927d7089595c1a19a65c729955740a",
-          "key_role": 1,
-          "sig_id": "d31e073c9e74dc81b602af66fd0a7d4d0c1cd382257bcf53c7a9168480ebf36c0f"
-        },
-        {
-          "kid": "012121912cd5539efe2a5cdfe3112a5d185facb3ae5b1f48a7dd4b3ddb51976ded240a",
-          "key_role": 2,
-          "sig_id": "05d2be848dbb2b2340c0f884c21dc171adf7e90e8fde4617bf862c34a7a156240f"
-        }
-      ]
-    },
-    "bbc8274619e0bc7b6f2afa4008aa1818": {
+    "6409da624c176bd72a7e108d2e519b18": {
       "type": "desktop",
-      "ctime": 1466709817,
-      "mtime": 1466709817,
-      "name": "linux mint",
+      "ctime": 1473395090,
+      "mtime": 1473395090,
+      "name": "ubuntu",
       "status": 1,
       "keys": [
         {
-          "kid": "01205a39221fc4c015fdb3a5b84081b89f86d28739b3b455b611595ce4e5d6b1995c0a",
+          "kid": "0120559e86b31d025b97a7b9c6189936e7cf22ba700cec4070048f9b88f6fbdf4a970a",
           "key_role": 1,
-          "sig_id": "548a21bf2d09190588cdfcc1457fb31398c31d2c4bb92bbaefab18a0c76ce55d0f"
+          "sig_id": "29fbd081611fe202e0fe0c68f73f9fd6810e4295128e560ceb35e282460f9a380f"
         },
         {
-          "kid": "01213d9a6065b6be77bdca82994afe6a1a7061f1ae707f3faa61e576b05336b2e56f0a",
+          "kid": "012165c6a77462f1e832d9d5f8c51a038e909823b69c892095589776d0cf3d97f2020a",
           "key_role": 2,
-          "sig_id": "fd522a80efbbff45dfafc8f13fbeb903ca5a09a9f4a1271926c1398e4c8bcc380f"
+          "sig_id": "a6f6cb9ae32e8993ad37f44bdf7f8525929f85042618c11691089c9a974d9a750f"
         }
       ]
     }
