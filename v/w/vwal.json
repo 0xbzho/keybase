@@ -4,9 +4,9 @@
     "username": "vwal",
     "ctime": 1452794241,
     "mtime": 1452794241,
-    "id_version": 22,
-    "track_version": 5,
-    "last_id_change": 1469894896,
+    "id_version": 35,
+    "track_version": 6,
+    "last_id_change": 1472859409,
     "username_cased": "vwal"
   },
   "profile": {
@@ -135,7 +135,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/vwal",
+          "nametag": "vwal",
           "state": 1,
           "proof_url": "https://coinbase.com/vwal/public-key",
           "sig_id": "056f9716b2511b9c7ca00cf7c713a0a43505106b43c95b16c861a44ec6d969d30f",
@@ -149,15 +149,53 @@
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
+          "nametag": "www.etusivu.net",
+          "state": 1,
+          "proof_url": "https://www.etusivu.net/.well-known/keybase.txt",
+          "sig_id": "d70be25b41258c8ab99d77912ff8fba2bc95f59c59fd10d8a9408990703601e90f",
+          "proof_id": "291a78481507b5216750c810",
+          "human_url": "https://www.etusivu.net/.well-known/keybase.txt",
+          "service_url": "https://www.etusivu.net",
+          "presentation_group": "www.etusivu.net",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
           "nametag": "www.walveranta.org",
           "state": 1,
-          "proof_url": "http://www.walveranta.org/keybase.txt",
-          "sig_id": "205cbce3f03a9b46edcddee06835cb7c1957097e7b997416349d0aadd61857f50f",
-          "proof_id": "347bfd47865e0b0143c41b10",
-          "human_url": "http://www.walveranta.org/keybase.txt",
+          "proof_url": "http://www.walveranta.org/.well-known/keybase.txt",
+          "sig_id": "a01e02b902b7ad9f7b1af620d24ff1c74283002ea8a7f68d3e629fe713bb0c700f",
+          "proof_id": "0125c9c38bbc169807250510",
+          "human_url": "http://www.walveranta.org/.well-known/keybase.txt",
           "service_url": "http://www.walveranta.org",
           "presentation_group": "www.walveranta.org",
           "presentation_tag": "http"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "random.ac",
+          "state": 1,
+          "proof_url": "http://random.ac/.well-known/keybase.txt",
+          "sig_id": "7e96707fbe02cb531929d5219c8b83752b58bc2c2a8e0459f2b270fd446473640f",
+          "proof_id": "9c4fe2be9d0dc7c640700410",
+          "human_url": "http://random.ac/.well-known/keybase.txt",
+          "service_url": "http://random.ac",
+          "presentation_group": "random.ac",
+          "presentation_tag": "http"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "mind.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/vwal/sigchain#12cd136e7603d92caa13f50065795ce3fb97eaa0ef4a6414b10ff482fa973dbd0f",
+          "sig_id": "12cd136e7603d92caa13f50065795ce3fb97eaa0ef4a6414b10ff482fa973dbd0f",
+          "proof_id": "ac0f1110fb19718cc6844310",
+          "human_url": "dns://mind.io",
+          "service_url": "http://mind.io",
+          "presentation_group": "mind.io",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -207,7 +245,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/vwal",
+          "nametag": "vwal",
           "state": 1,
           "proof_url": "https://coinbase.com/vwal/public-key",
           "sig_id": "056f9716b2511b9c7ca00cf7c713a0a43505106b43c95b16c861a44ec6d969d30f",
@@ -223,13 +261,55 @@
           "proof_type": "generic_web_site",
           "nametag": "www.walveranta.org",
           "state": 1,
-          "proof_url": "http://www.walveranta.org/keybase.txt",
-          "sig_id": "205cbce3f03a9b46edcddee06835cb7c1957097e7b997416349d0aadd61857f50f",
-          "proof_id": "347bfd47865e0b0143c41b10",
-          "human_url": "http://www.walveranta.org/keybase.txt",
+          "proof_url": "http://www.walveranta.org/.well-known/keybase.txt",
+          "sig_id": "a01e02b902b7ad9f7b1af620d24ff1c74283002ea8a7f68d3e629fe713bb0c700f",
+          "proof_id": "0125c9c38bbc169807250510",
+          "human_url": "http://www.walveranta.org/.well-known/keybase.txt",
           "service_url": "http://www.walveranta.org",
           "presentation_group": "www.walveranta.org",
           "presentation_tag": "http"
+        }
+      ],
+      "www.etusivu.net": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.etusivu.net",
+          "state": 1,
+          "proof_url": "https://www.etusivu.net/.well-known/keybase.txt",
+          "sig_id": "d70be25b41258c8ab99d77912ff8fba2bc95f59c59fd10d8a9408990703601e90f",
+          "proof_id": "291a78481507b5216750c810",
+          "human_url": "https://www.etusivu.net/.well-known/keybase.txt",
+          "service_url": "https://www.etusivu.net",
+          "presentation_group": "www.etusivu.net",
+          "presentation_tag": "https"
+        }
+      ],
+      "random.ac": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "random.ac",
+          "state": 1,
+          "proof_url": "http://random.ac/.well-known/keybase.txt",
+          "sig_id": "7e96707fbe02cb531929d5219c8b83752b58bc2c2a8e0459f2b270fd446473640f",
+          "proof_id": "9c4fe2be9d0dc7c640700410",
+          "human_url": "http://random.ac/.well-known/keybase.txt",
+          "service_url": "http://random.ac",
+          "presentation_group": "random.ac",
+          "presentation_tag": "http"
+        }
+      ],
+      "mind.io": [
+        {
+          "proof_type": "dns",
+          "nametag": "mind.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/vwal/sigchain#12cd136e7603d92caa13f50065795ce3fb97eaa0ef4a6414b10ff482fa973dbd0f",
+          "sig_id": "12cd136e7603d92caa13f50065795ce3fb97eaa0ef4a6414b10ff482fa973dbd0f",
+          "proof_id": "ac0f1110fb19718cc6844310",
+          "human_url": "dns://mind.io",
+          "service_url": "http://mind.io",
+          "presentation_group": "mind.io",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -272,7 +352,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/vwal",
+        "nametag": "vwal",
         "state": 1,
         "proof_url": "https://coinbase.com/vwal/public-key",
         "sig_id": "056f9716b2511b9c7ca00cf7c713a0a43505106b43c95b16c861a44ec6d969d30f",
@@ -283,20 +363,63 @@
         "presentation_tag": "post"
       },
       {
+        "proof_type": "dns",
+        "nametag": "mind.io",
+        "state": 1,
+        "proof_url": "https://keybase.io/vwal/sigchain#12cd136e7603d92caa13f50065795ce3fb97eaa0ef4a6414b10ff482fa973dbd0f",
+        "sig_id": "12cd136e7603d92caa13f50065795ce3fb97eaa0ef4a6414b10ff482fa973dbd0f",
+        "proof_id": "ac0f1110fb19718cc6844310",
+        "human_url": "dns://mind.io",
+        "service_url": "http://mind.io",
+        "presentation_group": "mind.io",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "www.walveranta.org",
         "state": 1,
-        "proof_url": "http://www.walveranta.org/keybase.txt",
-        "sig_id": "205cbce3f03a9b46edcddee06835cb7c1957097e7b997416349d0aadd61857f50f",
-        "proof_id": "347bfd47865e0b0143c41b10",
-        "human_url": "http://www.walveranta.org/keybase.txt",
+        "proof_url": "http://www.walveranta.org/.well-known/keybase.txt",
+        "sig_id": "a01e02b902b7ad9f7b1af620d24ff1c74283002ea8a7f68d3e629fe713bb0c700f",
+        "proof_id": "0125c9c38bbc169807250510",
+        "human_url": "http://www.walveranta.org/.well-known/keybase.txt",
         "service_url": "http://www.walveranta.org",
         "presentation_group": "www.walveranta.org",
         "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "random.ac",
+        "state": 1,
+        "proof_url": "http://random.ac/.well-known/keybase.txt",
+        "sig_id": "7e96707fbe02cb531929d5219c8b83752b58bc2c2a8e0459f2b270fd446473640f",
+        "proof_id": "9c4fe2be9d0dc7c640700410",
+        "human_url": "http://random.ac/.well-known/keybase.txt",
+        "service_url": "http://random.ac",
+        "presentation_group": "random.ac",
+        "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "www.etusivu.net",
+        "state": 1,
+        "proof_url": "https://www.etusivu.net/.well-known/keybase.txt",
+        "sig_id": "d70be25b41258c8ab99d77912ff8fba2bc95f59c59fd10d8a9408990703601e90f",
+        "proof_id": "291a78481507b5216750c810",
+        "human_url": "https://www.etusivu.net/.well-known/keybase.txt",
+        "service_url": "https://www.etusivu.net",
+        "presentation_group": "www.etusivu.net",
+        "presentation_tag": "https"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1GCA4EddXhgxCoZWc9EGMvi8XAsPQvFb31",
+        "sig_id": "76dad8552fb388b1416edbf3315adede5c94d14df36797643736de6b1730d0340f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/5fb12adc1215b30c9d700ea1b9bb1605_360_360_square_360.jpeg",
@@ -307,9 +430,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d1aa1bb58d180924f71df2b9ac92ece5fda61611bdecd5d58742e1e1f76520bc0f",
-      "seqno": 28,
-      "payload_hash": "1de935b3c71a4876eb3a8a4f9d13a02e216165fcadcee971b147f5dc403ecbae"
+      "sig_id": "a01e02b902b7ad9f7b1af620d24ff1c74283002ea8a7f68d3e629fe713bb0c700f",
+      "seqno": 34,
+      "payload_hash": "fee41e6bd4370456924b496e6d960c1b4efa35ccade55f0c66f6091091df8cc1"
     }
   },
   "devices": {
