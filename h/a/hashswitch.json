@@ -4,9 +4,9 @@
     "username": "hashswitch",
     "ctime": 1466092602,
     "mtime": 1466092602,
-    "id_version": 16,
+    "id_version": 18,
     "track_version": 2,
-    "last_id_change": 1467138453,
+    "last_id_change": 1470962599,
     "username_cased": "hashswitch"
   },
   "profile": {
@@ -41,12 +41,10 @@
       "0121777741e20098bd13653ad897a552ea55b28134936b74c7182a2bb8350850c1130a"
     ],
     "subkeys": [
-      "0121411dfb12ec9c6771dcf239e7cc39b42adda4863ed1eb2669c8fe505daadc86700a",
       "0121777741e20098bd13653ad897a552ea55b28134936b74c7182a2bb8350850c1130a"
     ],
     "sibkeys": [
       "010136ac22d21cb39282079978ee0d2b67348906754ceebeebc7746b5d93e64ce6410a",
-      "012099510215f1c9673e02e157b7c5290c9b4c51c7639e26ce8904e0a90808807e9f0a",
       "01204d58b57e19a1f4ffd591ffd3bd1556f58ffe5e9dbd46aa1b7891fa2005dfa0160a"
     ],
     "families": {
@@ -111,7 +109,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/hashswitch",
+          "nametag": "hashswitch",
           "state": 1,
           "proof_url": "https://coinbase.com/hashswitch/public-key",
           "sig_id": "f7ae7be8b77820d7cd988f791345c864ed18198267d35379492d8c8f21cd462c0f",
@@ -183,7 +181,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/hashswitch",
+          "nametag": "hashswitch",
           "state": 1,
           "proof_url": "https://coinbase.com/hashswitch/public-key",
           "sig_id": "f7ae7be8b77820d7cd988f791345c864ed18198267d35379492d8c8f21cd462c0f",
@@ -248,7 +246,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/hashswitch",
+        "nametag": "hashswitch",
         "state": 1,
         "proof_url": "https://coinbase.com/hashswitch/public-key",
         "sig_id": "f7ae7be8b77820d7cd988f791345c864ed18198267d35379492d8c8f21cd462c0f",
@@ -272,14 +270,7 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {
-    "bitcoin": [
-      {
-        "address": "13jiFDFUZrSKXYZXRkxG2PZn37WPxsfqA3",
-        "sig_id": "44791a4a940084a0e1eae9b9d01ffc7ffc1fc233ece46fe01d09f268ebf32ac00f"
-      }
-    ]
-  },
+  "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/f192bc8a44d49120248120a5ccd20a05_360_360_square_360.jpeg",
@@ -290,31 +281,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f7ae7be8b77820d7cd988f791345c864ed18198267d35379492d8c8f21cd462c0f",
-      "seqno": 15,
-      "payload_hash": "e777d95a6ad2bf3d124d744583ade38456dc3ff95986a7679e62ac6168da52ba"
+      "sig_id": "7ec74dae0ca75d031adadf966dd4fe3569a280569011beb5a8fe83e22ba9a7440f",
+      "seqno": 16,
+      "payload_hash": "220dbc39b48d81f70c62c9dee8fd41a803eed633d7111c9649a232ca1c747e0e"
     }
   },
   "devices": {
-    "71b8590124d9c700c508da2f1c2f9118": {
-      "type": "desktop",
-      "ctime": 1466104608,
-      "mtime": 1466104608,
-      "name": "laptop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012099510215f1c9673e02e157b7c5290c9b4c51c7639e26ce8904e0a90808807e9f0a",
-          "key_role": 1,
-          "sig_id": "078b879cd85d264d89b9380ac50c208165c01a92e31f1343ef1d6c5d3d52dc1a0f"
-        },
-        {
-          "kid": "0121411dfb12ec9c6771dcf239e7cc39b42adda4863ed1eb2669c8fe505daadc86700a",
-          "key_role": 2,
-          "sig_id": "cbee00a820ba28cbabd03c87e54b81ed77a49b4b89aee43d85810ad30a52e8fc0f"
-        }
-      ]
-    },
     "c61454347ba591d41139ce4694206718": {
       "type": "backup",
       "ctime": 1466104609,
