@@ -4,16 +4,16 @@
     "username": "uberactivist",
     "ctime": 1437289262,
     "mtime": 1437289262,
-    "id_version": 54,
+    "id_version": 58,
     "track_version": 12,
-    "last_id_change": 1462248123,
+    "last_id_change": 1474515236,
     "username_cased": "UberActivist"
   },
   "profile": {
-    "mtime": 1462247317,
+    "mtime": 1474783685,
     "full_name": "Tyler Clements",
     "location": "United States",
-    "bio": "PC Gamer, Dank Memer, Nerd, Agnostic, Professional Procrastinator, iOS Jailbreak Enthusiast, and High School Senior"
+    "bio": "Computer Science Student and Light Gamer."
   },
   "public_keys": {
     "primary": {
@@ -39,16 +39,20 @@
       "0121980f7022f161091e34d5cd1a43268c10a87474ee467b10c76fa8d87d2211f93d0a",
       "012066b12f5ad195ec5bd4ce33d3dc214489d847fa3d624d1a2f5f0d0794c2a81f8a0a",
       "01203e23235132b848666cad94a4157601f453d92977c8ffae287aebef0c3806869b0a",
-      "0121f47393e2b4a692ae775975850bcb0359db2a08bc307be7703ab99827ec2aaa530a"
+      "0121f47393e2b4a692ae775975850bcb0359db2a08bc307be7703ab99827ec2aaa530a",
+      "012150b4239321c061974d541f844570aa80ec199c769aaf20a79f7af25911d760350a",
+      "0120d1014aebe508890350f725e5f69d168abf088a822cdb346cf5c5bac724b46ab00a"
     ],
     "subkeys": [
       "0121980f7022f161091e34d5cd1a43268c10a87474ee467b10c76fa8d87d2211f93d0a",
-      "0121f47393e2b4a692ae775975850bcb0359db2a08bc307be7703ab99827ec2aaa530a"
+      "0121f47393e2b4a692ae775975850bcb0359db2a08bc307be7703ab99827ec2aaa530a",
+      "012150b4239321c061974d541f844570aa80ec199c769aaf20a79f7af25911d760350a"
     ],
     "sibkeys": [
       "010170e2d24c8ad50d04446bbcaa97dcdd0f7d9962ee416972825a4f77c011d32bd40a",
       "012066b12f5ad195ec5bd4ce33d3dc214489d847fa3d624d1a2f5f0d0794c2a81f8a0a",
-      "01203e23235132b848666cad94a4157601f453d92977c8ffae287aebef0c3806869b0a"
+      "01203e23235132b848666cad94a4157601f453d92977c8ffae287aebef0c3806869b0a",
+      "0120d1014aebe508890350f725e5f69d168abf088a822cdb346cf5c5bac724b46ab00a"
     ],
     "families": {
       "0101162636af8d3a66523604e5a5e16e13df9dfb9b75d7a23eb147e9424d8905181f0a": [
@@ -59,7 +63,9 @@
         "0121980f7022f161091e34d5cd1a43268c10a87474ee467b10c76fa8d87d2211f93d0a",
         "012066b12f5ad195ec5bd4ce33d3dc214489d847fa3d624d1a2f5f0d0794c2a81f8a0a",
         "01203e23235132b848666cad94a4157601f453d92977c8ffae287aebef0c3806869b0a",
-        "0121f47393e2b4a692ae775975850bcb0359db2a08bc307be7703ab99827ec2aaa530a"
+        "0121f47393e2b4a692ae775975850bcb0359db2a08bc307be7703ab99827ec2aaa530a",
+        "012150b4239321c061974d541f844570aa80ec199c769aaf20a79f7af25911d760350a",
+        "0120d1014aebe508890350f725e5f69d168abf088a822cdb346cf5c5bac724b46ab00a"
       ]
     },
     "eldest_kid": "010170e2d24c8ad50d04446bbcaa97dcdd0f7d9962ee416972825a4f77c011d32bd40a",
@@ -115,7 +121,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/uberactivist",
+          "nametag": "uberactivist",
           "state": 1,
           "proof_url": "https://coinbase.com/uberactivist/public-key",
           "sig_id": "2b8779db5ed7256baf52e82ccc9b8bd6220a7fd1b98d269d1a0eb1e1ee3153c10f",
@@ -124,6 +130,20 @@
           "service_url": "https://coinbase.com/uberactivist",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "uberactivist.website",
+          "state": 1,
+          "proof_url": "https://keybase.io/uberactivist/sigchain#77300185409e0843226f2f4896dd9d7b9fce6fc4aa847421faef6f237ff32f8b0f",
+          "sig_id": "77300185409e0843226f2f4896dd9d7b9fce6fc4aa847421faef6f237ff32f8b0f",
+          "proof_id": "a942680e271614ef29179b10",
+          "human_url": "dns://uberactivist.website",
+          "service_url": "http://uberactivist.website",
+          "presentation_group": "uberactivist.website",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -173,7 +193,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/uberactivist",
+          "nametag": "uberactivist",
           "state": 1,
           "proof_url": "https://coinbase.com/uberactivist/public-key",
           "sig_id": "2b8779db5ed7256baf52e82ccc9b8bd6220a7fd1b98d269d1a0eb1e1ee3153c10f",
@@ -182,6 +202,20 @@
           "service_url": "https://coinbase.com/uberactivist",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "uberactivist.website": [
+        {
+          "proof_type": "dns",
+          "nametag": "uberactivist.website",
+          "state": 1,
+          "proof_url": "https://keybase.io/uberactivist/sigchain#77300185409e0843226f2f4896dd9d7b9fce6fc4aa847421faef6f237ff32f8b0f",
+          "sig_id": "77300185409e0843226f2f4896dd9d7b9fce6fc4aa847421faef6f237ff32f8b0f",
+          "proof_id": "a942680e271614ef29179b10",
+          "human_url": "dns://uberactivist.website",
+          "service_url": "http://uberactivist.website",
+          "presentation_group": "uberactivist.website",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -224,7 +258,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/uberactivist",
+        "nametag": "uberactivist",
         "state": 1,
         "proof_url": "https://coinbase.com/uberactivist/public-key",
         "sig_id": "2b8779db5ed7256baf52e82ccc9b8bd6220a7fd1b98d269d1a0eb1e1ee3153c10f",
@@ -233,6 +267,18 @@
         "service_url": "https://coinbase.com/uberactivist",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "uberactivist.website",
+        "state": 1,
+        "proof_url": "https://keybase.io/uberactivist/sigchain#77300185409e0843226f2f4896dd9d7b9fce6fc4aa847421faef6f237ff32f8b0f",
+        "sig_id": "77300185409e0843226f2f4896dd9d7b9fce6fc4aa847421faef6f237ff32f8b0f",
+        "proof_id": "a942680e271614ef29179b10",
+        "human_url": "dns://uberactivist.website",
+        "service_url": "http://uberactivist.website",
+        "presentation_group": "uberactivist.website",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -254,12 +300,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "9246cf5cec6ad20eb2c3535ed211869ce2d8635117206995c7010d67e1b6105e0f",
-      "seqno": 27,
-      "payload_hash": "bad7a2f7455c5d25c75ff59f9d2d11fdcbe8242781bd112d59471f7c13f7e109"
+      "sig_id": "77300185409e0843226f2f4896dd9d7b9fce6fc4aa847421faef6f237ff32f8b0f",
+      "seqno": 30,
+      "payload_hash": "a4f8eace6fabd2ba2a70261243b7cbf7b74873b076f86a111887f0a92ececc9f"
     }
   },
   "devices": {
+    "24c76df2818604a68da76fd832803618": {
+      "type": "desktop",
+      "ctime": 1472612859,
+      "mtime": 1472612859,
+      "name": "Acer-PC",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d1014aebe508890350f725e5f69d168abf088a822cdb346cf5c5bac724b46ab00a",
+          "key_role": 1,
+          "sig_id": "bda37d44e98e4f9ea8a942d96bd012cf80e7f113dbe9749f37536f3dc837dcbb0f"
+        },
+        {
+          "kid": "012150b4239321c061974d541f844570aa80ec199c769aaf20a79f7af25911d760350a",
+          "key_role": 2,
+          "sig_id": "fd1a9da4d24d604b2f17f90beda979df16e6b461a9f5a4e1a7b153a5335f210d0f"
+        }
+      ]
+    },
     "36604c38d272bf01f6ba4a8bb64a6618": {
       "type": "backup",
       "ctime": 1462248123,
