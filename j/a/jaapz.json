@@ -4,16 +4,16 @@
     "username": "jaapz",
     "ctime": 1437031818,
     "mtime": 1437031818,
-    "id_version": 66,
-    "track_version": 6,
-    "last_id_change": 1469444490,
+    "id_version": 68,
+    "track_version": 9,
+    "last_id_change": 1474023474,
     "username_cased": "jaapz"
   },
   "profile": {
-    "mtime": 1461834933,
+    "mtime": 1474023307,
     "full_name": "Jaap Broekhuizen",
     "location": "Groningen, The Netherlands",
-    "bio": "Wine- and softwaremaking"
+    "bio": "Brewing and software"
   },
   "public_keys": {
     "primary": {
@@ -50,16 +50,18 @@
       "01219f97ec5a1917943322c505555b7e8a365abc6b1d9251a5842b86a46accbf312f0a",
       "0120e16ae0412286fef28a3ff0d8207bc82f176953c97686421414caca6e469710e20a",
       "0121af686ecd988e425417011eb54954094c45db7a711ae276c42ed80f6508001a620a",
-      "01208afd5ef5f27274327428b6e99c42f63e6b14a8c44017a171ca78c1bbc3fcda490a"
+      "01208afd5ef5f27274327428b6e99c42f63e6b14a8c44017a171ca78c1bbc3fcda490a",
+      "01202f98bf24015ec3f68dca962f56b236ad4867fc7a301e772222639931f6c59b350a",
+      "012160798fe8be7841f2d8db584484ef1f648a0f82b6fa3b8db2f94b6d644c646e790a"
     ],
     "subkeys": [
-      "01219f97ec5a1917943322c505555b7e8a365abc6b1d9251a5842b86a46accbf312f0a",
-      "0121af686ecd988e425417011eb54954094c45db7a711ae276c42ed80f6508001a620a"
+      "0121af686ecd988e425417011eb54954094c45db7a711ae276c42ed80f6508001a620a",
+      "012160798fe8be7841f2d8db584484ef1f648a0f82b6fa3b8db2f94b6d644c646e790a"
     ],
     "sibkeys": [
       "010139795f4193f353959bcd18270ca4cb180be300cfa281ee977388a83c3c46b4c80a",
-      "0120e16ae0412286fef28a3ff0d8207bc82f176953c97686421414caca6e469710e20a",
-      "01208afd5ef5f27274327428b6e99c42f63e6b14a8c44017a171ca78c1bbc3fcda490a"
+      "01208afd5ef5f27274327428b6e99c42f63e6b14a8c44017a171ca78c1bbc3fcda490a",
+      "01202f98bf24015ec3f68dca962f56b236ad4867fc7a301e772222639931f6c59b350a"
     ],
     "families": {
       "0101a08008c59c0d594e235b0f03856fabaeeb573e7c5fbb094f4a4f208224c4b66b0a": [
@@ -89,7 +91,9 @@
         "01219f97ec5a1917943322c505555b7e8a365abc6b1d9251a5842b86a46accbf312f0a",
         "0120e16ae0412286fef28a3ff0d8207bc82f176953c97686421414caca6e469710e20a",
         "0121af686ecd988e425417011eb54954094c45db7a711ae276c42ed80f6508001a620a",
-        "01208afd5ef5f27274327428b6e99c42f63e6b14a8c44017a171ca78c1bbc3fcda490a"
+        "01208afd5ef5f27274327428b6e99c42f63e6b14a8c44017a171ca78c1bbc3fcda490a",
+        "01202f98bf24015ec3f68dca962f56b236ad4867fc7a301e772222639931f6c59b350a",
+        "012160798fe8be7841f2d8db584484ef1f648a0f82b6fa3b8db2f94b6d644c646e790a"
       ]
     },
     "eldest_kid": "010139795f4193f353959bcd18270ca4cb180be300cfa281ee977388a83c3c46b4c80a",
@@ -189,7 +193,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/af4dd3dd247592e806a1f71512221805_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/d95e6391a2961a61bcb20f0c2a009505_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -197,12 +201,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "883d02aa3b76dc6feb2f9bfb5c2915bc91d29557d9c13f24e371045ce1da01100f",
-      "seqno": 23,
-      "payload_hash": "5b2b497f2e4de891d4d4bc835d99afcff529c1aeebc2385971da57dfbee9908a"
+      "sig_id": "90ec97119c271a92949ec489e74d6da0924e83f87e7b6b55aff2f0f9054d28590f",
+      "seqno": 29,
+      "payload_hash": "6ed3ef2370bc0864d8c87791765ee6db5a6e15dba0901929a28e2d4f349b4409"
     }
   },
   "devices": {
+    "21f499a620aa4a71f87b6bb44e293d18": {
+      "type": "desktop",
+      "ctime": 1474023474,
+      "mtime": 1474023474,
+      "name": "Work Arch",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01202f98bf24015ec3f68dca962f56b236ad4867fc7a301e772222639931f6c59b350a",
+          "key_role": 1,
+          "sig_id": "2140be976d018e803ab5891632147aef6c56ee8010ff06e973b67fe41fc7d72f0f"
+        },
+        {
+          "kid": "012160798fe8be7841f2d8db584484ef1f648a0f82b6fa3b8db2f94b6d644c646e790a",
+          "key_role": 2,
+          "sig_id": "0eeb9a323ded6e130e853dfeeac8803365dc676be472d178848265425b4379af0f"
+        }
+      ]
+    },
     "2a585f90438f4ee86cc2a4819c7e4d18": {
       "type": "backup",
       "ctime": 1461834962,
@@ -219,25 +242,6 @@
           "kid": "0121af686ecd988e425417011eb54954094c45db7a711ae276c42ed80f6508001a620a",
           "key_role": 2,
           "sig_id": "7cebb7a53c2eabd8d4fa9fc541eea96db97a4c1a66cd2c474ed065371bcb27d60f"
-        }
-      ]
-    },
-    "46e6b37cfb8348849aa8335f1312c418": {
-      "type": "desktop",
-      "ctime": 1461834961,
-      "mtime": 1461834961,
-      "name": "Work",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120e16ae0412286fef28a3ff0d8207bc82f176953c97686421414caca6e469710e20a",
-          "key_role": 1,
-          "sig_id": "d1deb98d5e1e303b0fda5f8cbbb80b9f94a31bd751f4b8fcdba0b9012f7cc4510f"
-        },
-        {
-          "kid": "01219f97ec5a1917943322c505555b7e8a365abc6b1d9251a5842b86a46accbf312f0a",
-          "key_role": 2,
-          "sig_id": "74cea9716c48485db4a4f066b7499296b60510f587e38becc3394dcb3cd498cd0f"
         }
       ]
     }
