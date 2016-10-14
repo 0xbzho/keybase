@@ -4,9 +4,9 @@
     "username": "ntietz",
     "ctime": 1461725635,
     "mtime": 1461725635,
-    "id_version": 22,
-    "track_version": 8,
-    "last_id_change": 1469626393,
+    "id_version": 23,
+    "track_version": 11,
+    "last_id_change": 1471895900,
     "username_cased": "ntietz"
   },
   "profile": {
@@ -50,7 +50,6 @@
       "01218415116ae9c1232a2fef8cd7ee7a50b9acc13f0178b1a438d61098da2f12c0010a",
       "0121dc3badfd3cb04402cb28fe6d04c90d967d528fb60d4346e281b9e6bf4dffd5400a",
       "0121e28b15639007b5524f93956c5cabb2cbde60e40b3037ab2eff76fbeda3cbfb780a",
-      "0121d0c267fe3da28c594f2249f14551bccd46d321e60156cd8f9ad8bc960916fc6f0a",
       "0121f4b1c5758ca58dcae31bdf1a84bf043de1bffc08d6b2627532356475a9d657460a"
     ],
     "sibkeys": [
@@ -58,7 +57,6 @@
       "0120588ae4fefe6742b32ae6f06885dc8d29782e271575249abf2cc0a7aaca2f6fe30a",
       "0101bf6eb1faafaaf85564eb18f106886651bf6a84ca6e41637338f635a912757b950a",
       "012070d775727d8ac4c1d9101abc071b137efa3895050422452ee3e1bc191990a4f60a",
-      "01205acffb446d5c9b4692e9d19aa5607c377c9715b6b58b866a294e87087f982c9b0a",
       "012036e2933ce38a68d51fe893dd7f927b6e9c614097cd1308168cbf985d5a793ee00a"
     ],
     "families": {
@@ -126,20 +124,6 @@
           "presentation_tag": "profile"
         }
       ],
-      "generic_web_site": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "ntietz.com",
-          "state": 1,
-          "proof_url": "http://ntietz.com/keybase.txt",
-          "sig_id": "7d9c3f7a97772abef68e82cf23e66e76795192d2d9ed961b852f4a28dcd3d3440f",
-          "proof_id": "7ccf0066495a4d7403309610",
-          "human_url": "http://ntietz.com/keybase.txt",
-          "service_url": "http://ntietz.com",
-          "presentation_group": "ntietz.com",
-          "presentation_tag": "http"
-        }
-      ],
       "dns": [
         {
           "proof_type": "dns",
@@ -199,18 +183,6 @@
         }
       ],
       "ntietz.com": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "ntietz.com",
-          "state": 1,
-          "proof_url": "http://ntietz.com/keybase.txt",
-          "sig_id": "7d9c3f7a97772abef68e82cf23e66e76795192d2d9ed961b852f4a28dcd3d3440f",
-          "proof_id": "7ccf0066495a4d7403309610",
-          "human_url": "http://ntietz.com/keybase.txt",
-          "service_url": "http://ntietz.com",
-          "presentation_group": "ntietz.com",
-          "presentation_tag": "http"
-        },
         {
           "proof_type": "dns",
           "nametag": "ntietz.com",
@@ -273,18 +245,6 @@
         "service_url": "http://ntietz.com",
         "presentation_group": "ntietz.com",
         "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "generic_web_site",
-        "nametag": "ntietz.com",
-        "state": 1,
-        "proof_url": "http://ntietz.com/keybase.txt",
-        "sig_id": "7d9c3f7a97772abef68e82cf23e66e76795192d2d9ed961b852f4a28dcd3d3440f",
-        "proof_id": "7ccf0066495a4d7403309610",
-        "human_url": "http://ntietz.com/keybase.txt",
-        "service_url": "http://ntietz.com",
-        "presentation_group": "ntietz.com",
-        "presentation_tag": "http"
       }
     ]
   },
@@ -299,9 +259,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "eb12a5eb3e4875cf724a44e5b482a5932525b50861ec7e6a3cd6cfbf109cdaa00f",
-      "seqno": 25,
-      "payload_hash": "18802495db71ed7e1e861b95b04a1057314847398f3acf4ade5392b1d0daa99d"
+      "sig_id": "0579ae55d723b50d9540cb8ba04f6c61733b7f597028e5c6c3664633ce83a84f0f",
+      "seqno": 30,
+      "payload_hash": "f7fb6ce8f809ccec30b2d3c38e1fe6de9b550bfa227b873413eb836701324e3c"
     }
   },
   "devices": {
@@ -340,25 +300,6 @@
           "kid": "0121e28b15639007b5524f93956c5cabb2cbde60e40b3037ab2eff76fbeda3cbfb780a",
           "key_role": 2,
           "sig_id": "e6a7c007c812c9563e388e4bccbfc65b82745de38b1ef43ebf67b8fd278997670f"
-        }
-      ]
-    },
-    "504134ef4dc8aa5c8d292a8b7572b418": {
-      "type": "desktop",
-      "ctime": 1468869548,
-      "mtime": 1468869548,
-      "name": "crosschx-macbook",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01205acffb446d5c9b4692e9d19aa5607c377c9715b6b58b866a294e87087f982c9b0a",
-          "key_role": 1,
-          "sig_id": "3a4767ba5663c125fb6b599a5373aa5250d1dd0aa66a661f24e8da27a440f01f0f"
-        },
-        {
-          "kid": "0121d0c267fe3da28c594f2249f14551bccd46d321e60156cd8f9ad8bc960916fc6f0a",
-          "key_role": 2,
-          "sig_id": "bb165fd69ea06ce1dbddd91410a3c540b021164ce741bb0b66ddf65b8483ac9a0f"
         }
       ]
     },
