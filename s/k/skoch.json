@@ -4,9 +4,9 @@
     "username": "skoch",
     "ctime": 1428497066,
     "mtime": 1428497066,
-    "id_version": 17,
-    "track_version": 6,
-    "last_id_change": 1456858132,
+    "id_version": 23,
+    "track_version": 8,
+    "last_id_change": 1474019515,
     "username_cased": "skoch"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "01208eece9e6205af5e31777419a3aef3937eb85b1f5d66a0981189dddb6ddca05380a",
       "012177f8282ee0823cac7aa51ce0bc4c11397750e001be4571f3adaba6d2a5ba2e4c0a",
       "0121eef314c0e08b396b38817bf47c736e3ad2bf63f3e1e505d705542ab5269b1d2a0a",
-      "01206d0352b6d68dd0d2deb08fcce5ff75c38ff04eec9e140006b33847e8e19e2a520a"
+      "01206d0352b6d68dd0d2deb08fcce5ff75c38ff04eec9e140006b33847e8e19e2a520a",
+      "012090f7ad8be7328cff4fe077de783bd6ad6ed40ce7c104703f27b6d8f8548429900a",
+      "01216690dd82d7da5b1960efe882d6ca35dcfda4d814fd8a21e86f523c738d77a32b0a"
     ],
     "subkeys": [
       "012177f8282ee0823cac7aa51ce0bc4c11397750e001be4571f3adaba6d2a5ba2e4c0a",
-      "0121eef314c0e08b396b38817bf47c736e3ad2bf63f3e1e505d705542ab5269b1d2a0a"
+      "0121eef314c0e08b396b38817bf47c736e3ad2bf63f3e1e505d705542ab5269b1d2a0a",
+      "01216690dd82d7da5b1960efe882d6ca35dcfda4d814fd8a21e86f523c738d77a32b0a"
     ],
     "sibkeys": [
       "0101c439b2136c80b8b1cd599067187e21466b99fcfab65968bf3c70f78b9df944600a",
       "01208eece9e6205af5e31777419a3aef3937eb85b1f5d66a0981189dddb6ddca05380a",
-      "01206d0352b6d68dd0d2deb08fcce5ff75c38ff04eec9e140006b33847e8e19e2a520a"
+      "01206d0352b6d68dd0d2deb08fcce5ff75c38ff04eec9e140006b33847e8e19e2a520a",
+      "012090f7ad8be7328cff4fe077de783bd6ad6ed40ce7c104703f27b6d8f8548429900a"
     ],
     "families": {
       "0101c439b2136c80b8b1cd599067187e21466b99fcfab65968bf3c70f78b9df944600a": [
@@ -55,7 +59,9 @@
         "01208eece9e6205af5e31777419a3aef3937eb85b1f5d66a0981189dddb6ddca05380a",
         "012177f8282ee0823cac7aa51ce0bc4c11397750e001be4571f3adaba6d2a5ba2e4c0a",
         "0121eef314c0e08b396b38817bf47c736e3ad2bf63f3e1e505d705542ab5269b1d2a0a",
-        "01206d0352b6d68dd0d2deb08fcce5ff75c38ff04eec9e140006b33847e8e19e2a520a"
+        "01206d0352b6d68dd0d2deb08fcce5ff75c38ff04eec9e140006b33847e8e19e2a520a",
+        "012090f7ad8be7328cff4fe077de783bd6ad6ed40ce7c104703f27b6d8f8548429900a",
+        "01216690dd82d7da5b1960efe882d6ca35dcfda4d814fd8a21e86f523c738d77a32b0a"
       ]
     },
     "eldest_kid": "0101c439b2136c80b8b1cd599067187e21466b99fcfab65968bf3c70f78b9df944600a",
@@ -92,6 +98,20 @@
           "service_url": "https://github.com/skoch",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "skoch",
+          "state": 1,
+          "proof_url": "https://coinbase.com/skoch/public-key",
+          "sig_id": "6cad02be3952a76bec1389633ee01d07ad3e6c70ce4b7871b7893a5a1a4b2b140f",
+          "proof_id": "6131333ad7a7cfa30461bd10",
+          "human_url": "https://coinbase.com/skoch/public-key",
+          "service_url": "https://coinbase.com/skoch",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
         }
       ],
       "generic_web_site": [
@@ -138,6 +158,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "skoch",
+          "state": 1,
+          "proof_url": "https://coinbase.com/skoch/public-key",
+          "sig_id": "6cad02be3952a76bec1389633ee01d07ad3e6c70ce4b7871b7893a5a1a4b2b140f",
+          "proof_id": "6131333ad7a7cfa30461bd10",
+          "human_url": "https://coinbase.com/skoch/public-key",
+          "service_url": "https://coinbase.com/skoch",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "komielan.com": [
         {
           "proof_type": "generic_web_site",
@@ -179,6 +213,18 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "coinbase",
+        "nametag": "skoch",
+        "state": 1,
+        "proof_url": "https://coinbase.com/skoch/public-key",
+        "sig_id": "6cad02be3952a76bec1389633ee01d07ad3e6c70ce4b7871b7893a5a1a4b2b140f",
+        "proof_id": "6131333ad7a7cfa30461bd10",
+        "human_url": "https://coinbase.com/skoch/public-key",
+        "service_url": "https://coinbase.com/skoch",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "komielan.com",
         "state": 1,
@@ -192,7 +238,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1EDLGeXSbk7pAjwpTLd8Bbrx1hYBmrEDgS",
+        "sig_id": "031c4f679285cdf0abefc5503a679305bdfa7a4c5b1824b91ab6540432ba0d300f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/a82cef683d0214226bbb990a46545b05_360_360_square_360.jpeg",
@@ -203,9 +256,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "93524b8d4717e86bfd1b92fe37b92db7e3503a2a6d3a6ffb107ba6e1b723213d0f",
-      "seqno": 13,
-      "payload_hash": "031bc53a84062e76a19521de7d5ab75a214008cc6957025f85228bf4944a1697"
+      "sig_id": "28d8a7caaa424e1412e18b7cf118ba0b7c66b45b76f3b70ca56a74652f28d1910f",
+      "seqno": 19,
+      "payload_hash": "6d314ee91e57815cdde3b5f27350fd6d571cc412293cdf44ba83b14a25d49a66"
     }
   },
   "devices": {
@@ -244,6 +297,25 @@
           "kid": "012177f8282ee0823cac7aa51ce0bc4c11397750e001be4571f3adaba6d2a5ba2e4c0a",
           "key_role": 2,
           "sig_id": "14c433fda926cedfb3aac331c6b8faaa0c04f815773e6417d0d937c8d6cc4d760f"
+        }
+      ]
+    },
+    "b11fbbc6209cace8ecc25db6cb30d418": {
+      "type": "backup",
+      "ctime": 1473650079,
+      "mtime": 1473650079,
+      "name": "pen scout",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012090f7ad8be7328cff4fe077de783bd6ad6ed40ce7c104703f27b6d8f8548429900a",
+          "key_role": 1,
+          "sig_id": "103cb85e020e8cfaf8d8282879c58d79673051834d16b9dc142e4ed04da375150f"
+        },
+        {
+          "kid": "01216690dd82d7da5b1960efe882d6ca35dcfda4d814fd8a21e86f523c738d77a32b0a",
+          "key_role": 2,
+          "sig_id": "8acab1b0a8ec600dda8abd316b1d19abb14a3ef8559e1f3254b063475fc227710f"
         }
       ]
     }
