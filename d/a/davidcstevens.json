@@ -4,9 +4,9 @@
     "username": "davidcstevens",
     "ctime": 1418958607,
     "mtime": 1418958607,
-    "id_version": 65,
+    "id_version": 70,
     "track_version": 3,
-    "last_id_change": 1468626975,
+    "last_id_change": 1475389952,
     "username_cased": "davidcstevens"
   },
   "profile": {
@@ -40,16 +40,18 @@
       "01209f303deab6db74153f582766a0b6444edb3f521c83cfc955b3e55e4cb1bf6edb0a",
       "01211b2cb0fbcd4956fcb81d7051623928238d43371fd7c4287b0df6a22c9c85df370a",
       "01209180f1a1390f4bb9ff0b40888e46f72a9af163670f4cd958b1ff88b882edf9220a",
-      "01218fd38a541128e8e9411d5535c53cea68a6f69a5cf18a2f7335caf2ebd0b1e9470a"
+      "01218fd38a541128e8e9411d5535c53cea68a6f69a5cf18a2f7335caf2ebd0b1e9470a",
+      "01214295be391057b003cf137443da2b1b69d85d155aefc3f0e71844cf30b44a4f730a",
+      "01204e7f3083a618b22b5410f0fa29a90fb84ef04e13d13440f53e27716cf6fd758b0a"
     ],
     "subkeys": [
-      "0121d9f9a72b29d76b9b9d47082105673b8d70f994821750b8a2ffd45e28bed2be540a",
-      "01211b2cb0fbcd4956fcb81d7051623928238d43371fd7c4287b0df6a22c9c85df370a"
+      "01211b2cb0fbcd4956fcb81d7051623928238d43371fd7c4287b0df6a22c9c85df370a",
+      "01214295be391057b003cf137443da2b1b69d85d155aefc3f0e71844cf30b44a4f730a"
     ],
     "sibkeys": [
       "0101dc3b5f4190983c455c1f1c2ed3d1f84469e07c976f5024fe59aad1b6420944ef0a",
-      "0120209a4c07075f9314234c920b1cb181f8c766da930721dac7ccaa45de0e52ee6d0a",
-      "01209f303deab6db74153f582766a0b6444edb3f521c83cfc955b3e55e4cb1bf6edb0a"
+      "01209f303deab6db74153f582766a0b6444edb3f521c83cfc955b3e55e4cb1bf6edb0a",
+      "01204e7f3083a618b22b5410f0fa29a90fb84ef04e13d13440f53e27716cf6fd758b0a"
     ],
     "families": {
       "0101dc3b5f4190983c455c1f1c2ed3d1f84469e07c976f5024fe59aad1b6420944ef0a": [
@@ -59,7 +61,9 @@
         "01209f303deab6db74153f582766a0b6444edb3f521c83cfc955b3e55e4cb1bf6edb0a",
         "01211b2cb0fbcd4956fcb81d7051623928238d43371fd7c4287b0df6a22c9c85df370a",
         "01209180f1a1390f4bb9ff0b40888e46f72a9af163670f4cd958b1ff88b882edf9220a",
-        "01218fd38a541128e8e9411d5535c53cea68a6f69a5cf18a2f7335caf2ebd0b1e9470a"
+        "01218fd38a541128e8e9411d5535c53cea68a6f69a5cf18a2f7335caf2ebd0b1e9470a",
+        "01214295be391057b003cf137443da2b1b69d85d155aefc3f0e71844cf30b44a4f730a",
+        "01204e7f3083a618b22b5410f0fa29a90fb84ef04e13d13440f53e27716cf6fd758b0a"
       ]
     },
     "eldest_kid": "0101dc3b5f4190983c455c1f1c2ed3d1f84469e07c976f5024fe59aad1b6420944ef0a",
@@ -115,7 +119,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/davidcstevens",
+          "nametag": "davidcstevens",
           "state": 1,
           "proof_url": "https://coinbase.com/davidcstevens/public-key",
           "sig_id": "1812d6d853cd915d724a75e03dd96f0ebd9a5e6b9226284d45e7cc901caa1c870f",
@@ -199,7 +203,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/davidcstevens",
+          "nametag": "davidcstevens",
           "state": 1,
           "proof_url": "https://coinbase.com/davidcstevens/public-key",
           "sig_id": "1812d6d853cd915d724a75e03dd96f0ebd9a5e6b9226284d45e7cc901caa1c870f",
@@ -278,7 +282,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/davidcstevens",
+        "nametag": "davidcstevens",
         "state": 1,
         "proof_url": "https://coinbase.com/davidcstevens/public-key",
         "sig_id": "1812d6d853cd915d724a75e03dd96f0ebd9a5e6b9226284d45e7cc901caa1c870f",
@@ -325,12 +329,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "494fed89f24caa08055de33c0be7f7ac7363ba1a242da08b7d4a9504684bcce50f",
-      "seqno": 29,
-      "payload_hash": "eeb79b20b1d0439a1b6293ebed69ac7b35d93241e1713497bf536121dd9f7a1a"
+      "sig_id": "7c658b147d9e23ca4175e4edb37530feaf13ad0286eaa16f7ca31d0a5aff3b550f",
+      "seqno": 32,
+      "payload_hash": "098e3292ebb8784d1503c0a27220d38f28891cedcd66b442cd1154743b0d3602"
     }
   },
   "devices": {
+    "04792cfc23b82743093c659a05ac5318": {
+      "type": "desktop",
+      "ctime": 1470763627,
+      "mtime": 1470763627,
+      "name": "Cricut Mac",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204e7f3083a618b22b5410f0fa29a90fb84ef04e13d13440f53e27716cf6fd758b0a",
+          "key_role": 1,
+          "sig_id": "e07576dde452cedd871a2290088c31e518ab14538a21a6b89c7a9b10fbc8c7ad0f"
+        },
+        {
+          "kid": "01214295be391057b003cf137443da2b1b69d85d155aefc3f0e71844cf30b44a4f730a",
+          "key_role": 2,
+          "sig_id": "aa42e508e7cf5768e87a816c14ddd3f3233a10d015252ac59a9676de82439a980f"
+        }
+      ]
+    },
     "c4540dc1cdd1d5e47282d56f4e45ef18": {
       "type": "backup",
       "ctime": 1466452392,
@@ -347,25 +370,6 @@
           "kid": "01211b2cb0fbcd4956fcb81d7051623928238d43371fd7c4287b0df6a22c9c85df370a",
           "key_role": 2,
           "sig_id": "f82d0575c8d4de5f13dd0be796c7e7898b22f7d082aeb472b0fcf2457d3e62e90f"
-        }
-      ]
-    },
-    "e310d3b9152db52f48bfa92124cccc18": {
-      "type": "desktop",
-      "ctime": 1466452391,
-      "mtime": 1466452391,
-      "name": "ICS Mac",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120209a4c07075f9314234c920b1cb181f8c766da930721dac7ccaa45de0e52ee6d0a",
-          "key_role": 1,
-          "sig_id": "6b323f467ca4c3c2ccb3fd556813a7308a7971d03a0bef91a2a3d073dc40cbc70f"
-        },
-        {
-          "kid": "0121d9f9a72b29d76b9b9d47082105673b8d70f994821750b8a2ffd45e28bed2be540a",
-          "key_role": 2,
-          "sig_id": "c23952bda9dd7402afa86f0c665905e7938db2197eac99028c3ee85d4b7954da0f"
         }
       ]
     }
