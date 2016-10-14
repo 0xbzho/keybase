@@ -4,9 +4,9 @@
     "username": "cornexo",
     "ctime": 1394564285,
     "mtime": 1394564285,
-    "id_version": 8,
-    "track_version": 0,
-    "last_id_change": 1431061037,
+    "id_version": 14,
+    "track_version": 6,
+    "last_id_change": 1472570404,
     "username_cased": "cornexo"
   },
   "profile": {
@@ -80,6 +80,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "cornexo",
+          "state": 1,
+          "proof_url": "https://coinbase.com/cornexo/public-key",
+          "sig_id": "2b29c3a3226545aebb7e92c5188dfba657c156615e3e1115b5bb20f97586e6a70f",
+          "proof_id": "86b6f2758240590e09ca8310",
+          "human_url": "https://coinbase.com/cornexo/public-key",
+          "service_url": "https://coinbase.com/cornexo",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "cornexo.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/cornexo/sigchain#bd42b717c04bcc4cda1a42d56a5c76d7303bc8bf1abb26adc8ff0537066550240f",
+          "sig_id": "bd42b717c04bcc4cda1a42d56a5c76d7303bc8bf1abb26adc8ff0537066550240f",
+          "proof_id": "065945afbd9920249c68d710",
+          "human_url": "dns://cornexo.com",
+          "service_url": "http://cornexo.com",
+          "presentation_group": "cornexo.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -110,6 +138,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "cornexo",
+          "state": 1,
+          "proof_url": "https://coinbase.com/cornexo/public-key",
+          "sig_id": "2b29c3a3226545aebb7e92c5188dfba657c156615e3e1115b5bb20f97586e6a70f",
+          "proof_id": "86b6f2758240590e09ca8310",
+          "human_url": "https://coinbase.com/cornexo/public-key",
+          "service_url": "https://coinbase.com/cornexo",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "cornexo.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "cornexo.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/cornexo/sigchain#bd42b717c04bcc4cda1a42d56a5c76d7303bc8bf1abb26adc8ff0537066550240f",
+          "sig_id": "bd42b717c04bcc4cda1a42d56a5c76d7303bc8bf1abb26adc8ff0537066550240f",
+          "proof_id": "065945afbd9920249c68d710",
+          "human_url": "dns://cornexo.com",
+          "service_url": "http://cornexo.com",
+          "presentation_group": "cornexo.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -136,10 +192,41 @@
         "service_url": "https://github.com/cornexo",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "coinbase",
+        "nametag": "cornexo",
+        "state": 1,
+        "proof_url": "https://coinbase.com/cornexo/public-key",
+        "sig_id": "2b29c3a3226545aebb7e92c5188dfba657c156615e3e1115b5bb20f97586e6a70f",
+        "proof_id": "86b6f2758240590e09ca8310",
+        "human_url": "https://coinbase.com/cornexo/public-key",
+        "service_url": "https://coinbase.com/cornexo",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "cornexo.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/cornexo/sigchain#bd42b717c04bcc4cda1a42d56a5c76d7303bc8bf1abb26adc8ff0537066550240f",
+        "sig_id": "bd42b717c04bcc4cda1a42d56a5c76d7303bc8bf1abb26adc8ff0537066550240f",
+        "proof_id": "065945afbd9920249c68d710",
+        "human_url": "dns://cornexo.com",
+        "service_url": "http://cornexo.com",
+        "presentation_group": "cornexo.com",
+        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1PzfsgUh17zRE621uycyWH7nJJS1PGgMfW",
+        "sig_id": "90d4c48fe3d5590a43ef75cd4081ea0ae7054683687f9b98288fa714ed64e7f10f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/57cf020c820fe4eaa3247e1277f8a105_360_360_square_360.jpeg",
@@ -150,9 +237,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "525ae14564e3f958bdc717f5433b736a956d2b0d78db152f848bb8ae3eb878f70f",
-      "seqno": 13,
-      "payload_hash": "db53093122c618f85d7daec95258b1232fcd5b227189cd97500a1011dc4d672f"
+      "sig_id": "bd42b717c04bcc4cda1a42d56a5c76d7303bc8bf1abb26adc8ff0537066550240f",
+      "seqno": 23,
+      "payload_hash": "72f99ed91e7a6083a4442dce68b90dbe49f79afff992758f06cb8e5b8dbcc669"
     }
   },
   "devices": {}
