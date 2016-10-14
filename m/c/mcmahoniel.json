@@ -4,16 +4,16 @@
     "username": "mcmahoniel",
     "ctime": 1433960850,
     "mtime": 1433960850,
-    "id_version": 62,
-    "track_version": 5,
-    "last_id_change": 1469540868,
+    "id_version": 65,
+    "track_version": 21,
+    "last_id_change": 1472510169,
     "username_cased": "mcmahoniel"
   },
   "profile": {
-    "mtime": 1433960868,
+    "mtime": 1474238892,
     "full_name": "Daniel James McMahon",
-    "location": "127.0.0.1",
-    "bio": null
+    "location": "127.0.0.1 | PDX",
+    "bio": "NGGNPXNGQNJA"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,20 @@
       "01206f4ef8196773363ccc46815518bf7b3c4aa9f21fc8c618e081c197f5a8f21d4e0a",
       "0121560c2c27baa28d5a1fa9a280573cdb36603ffaffafe6589da20abeb0779b82480a",
       "012043de0230deea6a81e244f481a83740449ef2eaa57f309a151b56c8163d0af6020a",
-      "0121baec85a80d501099cefc4355d67362eed9f1e4e0f2ad672938f3f04635a329080a"
+      "0121baec85a80d501099cefc4355d67362eed9f1e4e0f2ad672938f3f04635a329080a",
+      "01207c59bebfdc6215a3e5e8fe515d0b2b6e81be6ab383d02b8c2dae90b7027980b80a",
+      "012118d7e7f4c9d17144acdff2b60642992463844cbc8af3f09b267644c497d383260a"
     ],
     "subkeys": [
       "0121560c2c27baa28d5a1fa9a280573cdb36603ffaffafe6589da20abeb0779b82480a",
-      "0121baec85a80d501099cefc4355d67362eed9f1e4e0f2ad672938f3f04635a329080a"
+      "0121baec85a80d501099cefc4355d67362eed9f1e4e0f2ad672938f3f04635a329080a",
+      "012118d7e7f4c9d17144acdff2b60642992463844cbc8af3f09b267644c497d383260a"
     ],
     "sibkeys": [
       "010156b05074b7824bbf4e777940e59f07d1484186c36561ffe3b66b0214651a5cfc0a",
       "01206f4ef8196773363ccc46815518bf7b3c4aa9f21fc8c618e081c197f5a8f21d4e0a",
-      "012043de0230deea6a81e244f481a83740449ef2eaa57f309a151b56c8163d0af6020a"
+      "012043de0230deea6a81e244f481a83740449ef2eaa57f309a151b56c8163d0af6020a",
+      "01207c59bebfdc6215a3e5e8fe515d0b2b6e81be6ab383d02b8c2dae90b7027980b80a"
     ],
     "families": {
       "010156b05074b7824bbf4e777940e59f07d1484186c36561ffe3b66b0214651a5cfc0a": [
@@ -55,7 +59,9 @@
         "01206f4ef8196773363ccc46815518bf7b3c4aa9f21fc8c618e081c197f5a8f21d4e0a",
         "0121560c2c27baa28d5a1fa9a280573cdb36603ffaffafe6589da20abeb0779b82480a",
         "012043de0230deea6a81e244f481a83740449ef2eaa57f309a151b56c8163d0af6020a",
-        "0121baec85a80d501099cefc4355d67362eed9f1e4e0f2ad672938f3f04635a329080a"
+        "0121baec85a80d501099cefc4355d67362eed9f1e4e0f2ad672938f3f04635a329080a",
+        "01207c59bebfdc6215a3e5e8fe515d0b2b6e81be6ab383d02b8c2dae90b7027980b80a",
+        "012118d7e7f4c9d17144acdff2b60642992463844cbc8af3f09b267644c497d383260a"
       ]
     },
     "eldest_kid": "010156b05074b7824bbf4e777940e59f07d1484186c36561ffe3b66b0214651a5cfc0a",
@@ -111,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/mcmahoniel",
+          "nametag": "mcmahoniel",
           "state": 1,
           "proof_url": "https://coinbase.com/mcmahoniel/public-key",
           "sig_id": "90ed762696c3a22bcdb1a1a1e3c7e91da530e5f09f85eeb10f84e311205918cd0f",
@@ -197,7 +203,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/mcmahoniel",
+          "nametag": "mcmahoniel",
           "state": 1,
           "proof_url": "https://coinbase.com/mcmahoniel/public-key",
           "sig_id": "90ed762696c3a22bcdb1a1a1e3c7e91da530e5f09f85eeb10f84e311205918cd0f",
@@ -276,7 +282,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/mcmahoniel",
+        "nametag": "mcmahoniel",
         "state": 1,
         "proof_url": "https://coinbase.com/mcmahoniel/public-key",
         "sig_id": "90ed762696c3a22bcdb1a1a1e3c7e91da530e5f09f85eeb10f84e311205918cd0f",
@@ -330,9 +336,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "05c0d5c855f39f480b8e736e536c1855c8b48569eca4eb4caf9bd51750ea31460f",
-      "seqno": 16,
-      "payload_hash": "0e532a1a29d3cfc63a9a7b48f1fcd47bf70fc4ceb91fedd5ada894b8707bf04c"
+      "sig_id": "26a552c7f646423602d3fb32ce56308cb02dc51a08b7fea7dbb25703fc14c48e0f",
+      "seqno": 34,
+      "payload_hash": "928163f4c31eca765985151ea2bdefcfd76b75aa42df7b36fe19f5e24b6b276d"
     }
   },
   "devices": {
@@ -371,6 +377,25 @@
           "kid": "0121560c2c27baa28d5a1fa9a280573cdb36603ffaffafe6589da20abeb0779b82480a",
           "key_role": 2,
           "sig_id": "c4f9e9c801bfcdc239e68e8d535c6189e018e99f9d95e05576cef13e270a47ef0f"
+        }
+      ]
+    },
+    "62be06f9f9e1e1c38b9b8991f7801018": {
+      "type": "desktop",
+      "ctime": 1472510169,
+      "mtime": 1472510169,
+      "name": "black",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207c59bebfdc6215a3e5e8fe515d0b2b6e81be6ab383d02b8c2dae90b7027980b80a",
+          "key_role": 1,
+          "sig_id": "2b79cae8cec3a15f9289a159ac630454532c87f6874f6d9b7a920aacd060d0b20f"
+        },
+        {
+          "kid": "012118d7e7f4c9d17144acdff2b60642992463844cbc8af3f09b267644c497d383260a",
+          "key_role": 2,
+          "sig_id": "60f88b5376e26a7b1acaa7928aeff153feb3b5639c6beafd9ab52094a6c2be430f"
         }
       ]
     }
