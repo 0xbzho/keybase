@@ -4,16 +4,16 @@
     "username": "unleashed",
     "ctime": 1464826025,
     "mtime": 1464826025,
-    "id_version": 12,
-    "track_version": 1,
-    "last_id_change": 1466243766,
+    "id_version": 20,
+    "track_version": 2,
+    "last_id_change": 1474644663,
     "username_cased": "unleashed"
   },
   "profile": {
-    "mtime": 1464826132,
+    "mtime": 1474644294,
     "full_name": "Alejandro Martinez Ruiz",
-    "location": "Barcelona, Catalunya",
-    "bio": "Human being. Code crafter."
+    "location": "Barcelona",
+    "bio": "Human being. Code crafter. Talk me Linux kernel, FreeBSD, F2FS, SELinux, aMule, Gentoo, Rubinius, Puma, UEFI, Rust, Pony, OO design. Or skiing. Well, or anything really, but better if it's over a beer."
   },
   "public_keys": {
     "primary": {
@@ -97,7 +97,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/unleashed",
+          "nametag": "unleashed",
           "state": 1,
           "proof_url": "https://coinbase.com/unleashed/public-key",
           "sig_id": "39e4e04316744306265a38e061e0b5ed2442fcfd53d86c55f852335026121eec0f",
@@ -106,6 +106,32 @@
           "service_url": "https://coinbase.com/unleashed",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "kernelhacker.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/unleashed/sigchain#057a9081b309b589ca8d334691a5d35d1d4e12b7beceed7ab3640475d7fb57260f",
+          "sig_id": "057a9081b309b589ca8d334691a5d35d1d4e12b7beceed7ab3640475d7fb57260f",
+          "proof_id": "307d44f6c66e518064512910",
+          "human_url": "dns://kernelhacker.org",
+          "service_url": "http://kernelhacker.org",
+          "presentation_group": "kernelhacker.org",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "flawedcode.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/unleashed/sigchain#a5dea1e96f113c63b25a784aef01b8565dd525b9a4e952ec782661a42d69cb5d0f",
+          "sig_id": "a5dea1e96f113c63b25a784aef01b8565dd525b9a4e952ec782661a42d69cb5d0f",
+          "proof_id": "6014531ddeb3d4c2ae50d710",
+          "human_url": "dns://flawedcode.org",
+          "service_url": "http://flawedcode.org",
+          "presentation_group": "flawedcode.org",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -141,7 +167,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/unleashed",
+          "nametag": "unleashed",
           "state": 1,
           "proof_url": "https://coinbase.com/unleashed/public-key",
           "sig_id": "39e4e04316744306265a38e061e0b5ed2442fcfd53d86c55f852335026121eec0f",
@@ -150,6 +176,34 @@
           "service_url": "https://coinbase.com/unleashed",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "kernelhacker.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "kernelhacker.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/unleashed/sigchain#057a9081b309b589ca8d334691a5d35d1d4e12b7beceed7ab3640475d7fb57260f",
+          "sig_id": "057a9081b309b589ca8d334691a5d35d1d4e12b7beceed7ab3640475d7fb57260f",
+          "proof_id": "307d44f6c66e518064512910",
+          "human_url": "dns://kernelhacker.org",
+          "service_url": "http://kernelhacker.org",
+          "presentation_group": "kernelhacker.org",
+          "presentation_tag": "dns"
+        }
+      ],
+      "flawedcode.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "flawedcode.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/unleashed/sigchain#a5dea1e96f113c63b25a784aef01b8565dd525b9a4e952ec782661a42d69cb5d0f",
+          "sig_id": "a5dea1e96f113c63b25a784aef01b8565dd525b9a4e952ec782661a42d69cb5d0f",
+          "proof_id": "6014531ddeb3d4c2ae50d710",
+          "human_url": "dns://flawedcode.org",
+          "service_url": "http://flawedcode.org",
+          "presentation_group": "flawedcode.org",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -180,7 +234,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/unleashed",
+        "nametag": "unleashed",
         "state": 1,
         "proof_url": "https://coinbase.com/unleashed/public-key",
         "sig_id": "39e4e04316744306265a38e061e0b5ed2442fcfd53d86c55f852335026121eec0f",
@@ -189,13 +243,37 @@
         "service_url": "https://coinbase.com/unleashed",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "kernelhacker.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/unleashed/sigchain#057a9081b309b589ca8d334691a5d35d1d4e12b7beceed7ab3640475d7fb57260f",
+        "sig_id": "057a9081b309b589ca8d334691a5d35d1d4e12b7beceed7ab3640475d7fb57260f",
+        "proof_id": "307d44f6c66e518064512910",
+        "human_url": "dns://kernelhacker.org",
+        "service_url": "http://kernelhacker.org",
+        "presentation_group": "kernelhacker.org",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "flawedcode.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/unleashed/sigchain#a5dea1e96f113c63b25a784aef01b8565dd525b9a4e952ec782661a42d69cb5d0f",
+        "sig_id": "a5dea1e96f113c63b25a784aef01b8565dd525b9a4e952ec782661a42d69cb5d0f",
+        "proof_id": "6014531ddeb3d4c2ae50d710",
+        "human_url": "dns://flawedcode.org",
+        "service_url": "http://flawedcode.org",
+        "presentation_group": "flawedcode.org",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/451b85e11e6a8f41f0c108e96390a505_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f906df03f18cee949b61eee9a4689105_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -203,9 +281,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "cfe7ef058a93a15504662536883d48c6cb3b9ab3fc6c5fd403507b041edd7e0a0f",
-      "seqno": 9,
-      "payload_hash": "d5b41a48ba1d53d408e82f46097a3d965a5b7d050b57898b94e50fb6bb8b5095"
+      "sig_id": "a5dea1e96f113c63b25a784aef01b8565dd525b9a4e952ec782661a42d69cb5d0f",
+      "seqno": 12,
+      "payload_hash": "7964c28f55011cd9d2d7b9c1522c0cf9b0649b7e84a168eacae60a52ee93725f"
     }
   },
   "devices": {
