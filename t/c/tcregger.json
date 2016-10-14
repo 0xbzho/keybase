@@ -5,7 +5,7 @@
     "ctime": 1458568559,
     "mtime": 1458568559,
     "id_version": 39,
-    "track_version": 2,
+    "track_version": 3,
     "last_id_change": 1468589691,
     "username_cased": "tcregger"
   },
@@ -50,13 +50,11 @@
       "0120f6e2fdbe0057adbb9c993e115af0d6280b0dcf79c77372e599c9d5ea481080040a"
     ],
     "subkeys": [
-      "01214da8f1b93d4ef0717c075fe1156f523b779a3b59127211a21e3bcbf4ba7fd11f0a",
       "0121ea5d6a908fd1847ad634a08fb1492860c8b18156ac9b02a705066485f7c7784a0a",
       "012104cb0dc2892eb41eb49287ec5fede4d1ba5d3e43cfc225e90eb9a1e3c7e83c240a"
     ],
     "sibkeys": [
       "010140d3825735a4eeb7f94f6a5af26aaed9eb297740c2d3d68953727f2a7c006c9c0a",
-      "0120605cdabe4bdbda18e1612262161a80120ccb66a5773cde9a0be5f5c0546a27e40a",
       "0120430c0e0a62a57ee202d9a19efc72c9172324095b8eec7ad42d0646545bfb814a0a",
       "0120f6e2fdbe0057adbb9c993e115af0d6280b0dcf79c77372e599c9d5ea481080040a"
     ],
@@ -119,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/trizz",
+          "nametag": "trizz",
           "state": 1,
           "proof_url": "https://coinbase.com/trizz/public-key",
           "sig_id": "26b8056532ec5a7a46288c3de6ec078a47f84bf9140d8e2aba7be83fb18b7fda0f",
@@ -163,7 +161,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/trizz",
+          "nametag": "trizz",
           "state": 1,
           "proof_url": "https://coinbase.com/trizz/public-key",
           "sig_id": "26b8056532ec5a7a46288c3de6ec078a47f84bf9140d8e2aba7be83fb18b7fda0f",
@@ -202,7 +200,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/trizz",
+        "nametag": "trizz",
         "state": 1,
         "proof_url": "https://coinbase.com/trizz/public-key",
         "sig_id": "26b8056532ec5a7a46288c3de6ec078a47f84bf9140d8e2aba7be83fb18b7fda0f",
@@ -225,9 +223,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "336efcd180105c35e9c54018e3641be9635caeda83428598b869e9193dceb5a10f",
-      "seqno": 27,
-      "payload_hash": "114f8f4f2159037b3175a7dbc82354ea599280e8702eb742754afff53b35d51c"
+      "sig_id": "c6c649ad8efecfd035b72586f90ef42d4b4fa3ef1da4f408293ea0cbc1cc394b0f",
+      "seqno": 29,
+      "payload_hash": "401bcca2f7382e70d9c4ff3a7b1ca60c56f5934290996654fd1dcdf719b6cc4b"
     }
   },
   "devices": {
@@ -247,25 +245,6 @@
           "kid": "012104cb0dc2892eb41eb49287ec5fede4d1ba5d3e43cfc225e90eb9a1e3c7e83c240a",
           "key_role": 2,
           "sig_id": "336efcd180105c35e9c54018e3641be9635caeda83428598b869e9193dceb5a10f"
-        }
-      ]
-    },
-    "c5a67a3e48fb6fb2a79f1b5dfcacbe18": {
-      "type": "desktop",
-      "ctime": 1467732800,
-      "mtime": 1467732800,
-      "name": "w3rk",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120605cdabe4bdbda18e1612262161a80120ccb66a5773cde9a0be5f5c0546a27e40a",
-          "key_role": 1,
-          "sig_id": "7f31b9c9ed93b8e98de6d9cecf621f651fdfaf443b218822b36f8d4a0a37b8620f"
-        },
-        {
-          "kid": "01214da8f1b93d4ef0717c075fe1156f523b779a3b59127211a21e3bcbf4ba7fd11f0a",
-          "key_role": 2,
-          "sig_id": "2b28390d48d5e775f18325706baa3c5f033d8cc419d31b92192d6562fce8b7970f"
         }
       ]
     },
