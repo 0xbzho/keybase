@@ -4,9 +4,9 @@
     "username": "balupton",
     "ctime": 1458063560,
     "mtime": 1458063560,
-    "id_version": 32,
+    "id_version": 33,
     "track_version": 2,
-    "last_id_change": 1469598418,
+    "last_id_change": 1473356641,
     "username_cased": "balupton"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "0120d466f32e8347684a011837c3039416c30bb58990098cb152599982b99e9113490a",
       "0121609a55e01c4ddc5398c64b89638ce0cd311b487b0e8e96a778c8fa98bc5c754e0a",
       "01209174f759c1f024a694961d22a7b80f68dd27894c5df184fda3c15459c26b4d7c0a",
-      "012135b93b9d85e94d70b757e51f820762a0993e7b491057bc4eeee7a915f68e327d0a"
+      "012135b93b9d85e94d70b757e51f820762a0993e7b491057bc4eeee7a915f68e327d0a",
+      "012006fdb3aa2766921fd735b3ffe55f51bdb1eab5027811f44f345b0e1e6eb199720a",
+      "0121155a964986b465a74416a6388a7893ed431c586556b4e9e5ce6cf62cd6d7e30b0a"
     ],
     "subkeys": [
       "0121609a55e01c4ddc5398c64b89638ce0cd311b487b0e8e96a778c8fa98bc5c754e0a",
-      "012135b93b9d85e94d70b757e51f820762a0993e7b491057bc4eeee7a915f68e327d0a"
+      "012135b93b9d85e94d70b757e51f820762a0993e7b491057bc4eeee7a915f68e327d0a",
+      "0121155a964986b465a74416a6388a7893ed431c586556b4e9e5ce6cf62cd6d7e30b0a"
     ],
     "sibkeys": [
       "010150a49626508bb386db2fa84897c5c304cc55f42b29fbea95586e0a3da75484e40a",
       "0120d466f32e8347684a011837c3039416c30bb58990098cb152599982b99e9113490a",
-      "01209174f759c1f024a694961d22a7b80f68dd27894c5df184fda3c15459c26b4d7c0a"
+      "01209174f759c1f024a694961d22a7b80f68dd27894c5df184fda3c15459c26b4d7c0a",
+      "012006fdb3aa2766921fd735b3ffe55f51bdb1eab5027811f44f345b0e1e6eb199720a"
     ],
     "families": {
       "010150a49626508bb386db2fa84897c5c304cc55f42b29fbea95586e0a3da75484e40a": [
@@ -55,7 +59,9 @@
         "0120d466f32e8347684a011837c3039416c30bb58990098cb152599982b99e9113490a",
         "0121609a55e01c4ddc5398c64b89638ce0cd311b487b0e8e96a778c8fa98bc5c754e0a",
         "01209174f759c1f024a694961d22a7b80f68dd27894c5df184fda3c15459c26b4d7c0a",
-        "012135b93b9d85e94d70b757e51f820762a0993e7b491057bc4eeee7a915f68e327d0a"
+        "012135b93b9d85e94d70b757e51f820762a0993e7b491057bc4eeee7a915f68e327d0a",
+        "012006fdb3aa2766921fd735b3ffe55f51bdb1eab5027811f44f345b0e1e6eb199720a",
+        "0121155a964986b465a74416a6388a7893ed431c586556b4e9e5ce6cf62cd6d7e30b0a"
       ]
     },
     "eldest_kid": "010150a49626508bb386db2fa84897c5c304cc55f42b29fbea95586e0a3da75484e40a",
@@ -111,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/balupton",
+          "nametag": "balupton",
           "state": 1,
           "proof_url": "https://coinbase.com/balupton/public-key",
           "sig_id": "58c9ba5647f525ef217c232cb1eb3138dcdb63762c705c10e91f9bb0301cb6450f",
@@ -209,7 +215,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/balupton",
+          "nametag": "balupton",
           "state": 1,
           "proof_url": "https://coinbase.com/balupton/public-key",
           "sig_id": "58c9ba5647f525ef217c232cb1eb3138dcdb63762c705c10e91f9bb0301cb6450f",
@@ -302,7 +308,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/balupton",
+        "nametag": "balupton",
         "state": 1,
         "proof_url": "https://coinbase.com/balupton/public-key",
         "sig_id": "58c9ba5647f525ef217c232cb1eb3138dcdb63762c705c10e91f9bb0301cb6450f",
@@ -368,12 +374,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2cf671ccaa06464c17a145ef2c94cd3a3b49957c53bfd48f88ae07d94ac891750f",
-      "seqno": 15,
-      "payload_hash": "8614bf56e01dcee57653375493fc33aac96b471ad9eb4d67bda96fc7ef5e237a"
+      "sig_id": "0997023a82029a7d1a36e9c16c70a894f2e7e4131c82535cddc38bbfcc650cad0f",
+      "seqno": 17,
+      "payload_hash": "684e1c25bfd4d645b11a010324c0cdce160cfdab31ce4baa64ec7b3d2e386c61"
     }
   },
   "devices": {
+    "5182444f838a26a1a23069a58280ca18": {
+      "type": "desktop",
+      "ctime": 1473356641,
+      "mtime": 1473356641,
+      "name": "balbook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012006fdb3aa2766921fd735b3ffe55f51bdb1eab5027811f44f345b0e1e6eb199720a",
+          "key_role": 1,
+          "sig_id": "5dd76fa61480f0d3e8052944e4b43b1a2969e28d5624802ea55906f7be617d330f"
+        },
+        {
+          "kid": "0121155a964986b465a74416a6388a7893ed431c586556b4e9e5ce6cf62cd6d7e30b0a",
+          "key_role": 2,
+          "sig_id": "0997023a82029a7d1a36e9c16c70a894f2e7e4131c82535cddc38bbfcc650cad0f"
+        }
+      ]
+    },
     "65c18e0a7dbbfc857c2c1cfefc612418": {
       "type": "backup",
       "ctime": 1459917544,
