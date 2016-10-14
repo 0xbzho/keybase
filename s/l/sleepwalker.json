@@ -1,0 +1,92 @@
+{
+  "id": "b8eb0921e9a6e6f7cda3983a09a93019",
+  "basics": {
+    "username": "sleepwalker",
+    "ctime": 1470578404,
+    "mtime": 1470578404,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1470578407,
+    "username_cased": "sleepwalker"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "012077ae051ac001942c89c5ad37572fee5c87ffb49b28cf6f75420b23d83b69041c0a",
+      "01216510888073388dd77628ad34411cb09203ef7ecf1a8aef99ee396ac1b18c19450a",
+      "0120117a21a29d49541c17ee1f791f102fc77f4c5cb014441ac5abdba41a465a92470a",
+      "01219d18f91dd895a6363c50f55e22485efe45349f874925d903783f17807ccd00710a"
+    ],
+    "subkeys": [
+      "01216510888073388dd77628ad34411cb09203ef7ecf1a8aef99ee396ac1b18c19450a",
+      "01219d18f91dd895a6363c50f55e22485efe45349f874925d903783f17807ccd00710a"
+    ],
+    "sibkeys": [
+      "012077ae051ac001942c89c5ad37572fee5c87ffb49b28cf6f75420b23d83b69041c0a",
+      "0120117a21a29d49541c17ee1f791f102fc77f4c5cb014441ac5abdba41a465a92470a"
+    ],
+    "families": {
+      "012077ae051ac001942c89c5ad37572fee5c87ffb49b28cf6f75420b23d83b69041c0a": [
+        "012077ae051ac001942c89c5ad37572fee5c87ffb49b28cf6f75420b23d83b69041c0a",
+        "01216510888073388dd77628ad34411cb09203ef7ecf1a8aef99ee396ac1b18c19450a",
+        "0120117a21a29d49541c17ee1f791f102fc77f4c5cb014441ac5abdba41a465a92470a",
+        "01219d18f91dd895a6363c50f55e22485efe45349f874925d903783f17807ccd00710a"
+      ]
+    },
+    "eldest_kid": "012077ae051ac001942c89c5ad37572fee5c87ffb49b28cf6f75420b23d83b69041c0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "6340300bd57b13d36c4eec3d4f3d6cc9bd034f2bf4f27db18c5a7311dcbf80c10f",
+      "seqno": 4,
+      "payload_hash": "88d4b73c6b31eabb27d3615b38a983cb13fb33ba6d309f38e72f932c0cea1390"
+    }
+  },
+  "devices": {
+    "4b9f6401b5e2da41f730d721d1018818": {
+      "type": "backup",
+      "ctime": 1470578407,
+      "mtime": 1470578407,
+      "name": "mass stove",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120117a21a29d49541c17ee1f791f102fc77f4c5cb014441ac5abdba41a465a92470a",
+          "key_role": 1,
+          "sig_id": "1138b54ad079e304b73072600584b6e7d78c40b8559400192e1b426bba5b5dd60f"
+        },
+        {
+          "kid": "01219d18f91dd895a6363c50f55e22485efe45349f874925d903783f17807ccd00710a",
+          "key_role": 2,
+          "sig_id": "6340300bd57b13d36c4eec3d4f3d6cc9bd034f2bf4f27db18c5a7311dcbf80c10f"
+        }
+      ]
+    },
+    "8996bf54708faff3bfecc7311faaf418": {
+      "type": "desktop",
+      "ctime": 1470578406,
+      "mtime": 1470578406,
+      "name": "Home Computer",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012077ae051ac001942c89c5ad37572fee5c87ffb49b28cf6f75420b23d83b69041c0a",
+          "key_role": 1,
+          "sig_id": "c93de1f6f23b8d92b13d55ccf4c82b9afb6c0e3c5e5bed2dd6d343e4ae339ebd0f"
+        },
+        {
+          "kid": "01216510888073388dd77628ad34411cb09203ef7ecf1a8aef99ee396ac1b18c19450a",
+          "key_role": 2,
+          "sig_id": "3d9dcaa93eb1da2b4fb377987dd71562d32108377a655d2187cf5ccc28acdfdc0f"
+        }
+      ]
+    }
+  }
+}
