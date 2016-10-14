@@ -4,9 +4,9 @@
     "username": "etcinit",
     "ctime": 1422774679,
     "mtime": 1422774679,
-    "id_version": 111,
+    "id_version": 120,
     "track_version": 2,
-    "last_id_change": 1470254710,
+    "last_id_change": 1475568529,
     "username_cased": "etcinit"
   },
   "profile": {
@@ -44,18 +44,16 @@
       "0121215e614938a305dbb93de9af7914d57c8ad0ec82f0b0a67229a7b78225365a040a",
       "012099cb8a7e9e6a724786e1975ff726ce17ff3292a1fe07930c55b6b4b5dd95f5640a",
       "0120d3876ddfa126b1afea35cbffd919fe5b7de3eb186be325474a46e6567de8bccc0a",
-      "01219fb1921fc477202ff3945450cf8f281ec54fa54aa5f3a3d285b70ea5279f004c0a"
+      "01219fb1921fc477202ff3945450cf8f281ec54fa54aa5f3a3d285b70ea5279f004c0a",
+      "0120e7ed3a8ba6f1d66723aa5d81eb1f95a9128f17f4c2e5f674244380874d0f65f10a",
+      "0121188d34ba523f8cb072a9e39d0259ac2a718c6f57150bdaeb187f9d099b27a77f0a"
     ],
     "subkeys": [
-      "0121b0d18ccb60151d9ec33ae75ad8f0e9dd3b9fe7d125a8fb73300c91165698882d0a",
-      "0121215e614938a305dbb93de9af7914d57c8ad0ec82f0b0a67229a7b78225365a040a",
-      "01219fb1921fc477202ff3945450cf8f281ec54fa54aa5f3a3d285b70ea5279f004c0a"
+      "0121188d34ba523f8cb072a9e39d0259ac2a718c6f57150bdaeb187f9d099b27a77f0a"
     ],
     "sibkeys": [
       "010119f89699ce112fe2208d8d035d4eeb746c57bb093ca2b406e94e79cd63a975850a",
-      "01201b229105cdb2263d8c4eaaebe13fe19ab7094f5ebda9ce9a6c3f030006fed5550a",
-      "012099cb8a7e9e6a724786e1975ff726ce17ff3292a1fe07930c55b6b4b5dd95f5640a",
-      "0120d3876ddfa126b1afea35cbffd919fe5b7de3eb186be325474a46e6567de8bccc0a"
+      "0120e7ed3a8ba6f1d66723aa5d81eb1f95a9128f17f4c2e5f674244380874d0f65f10a"
     ],
     "families": {
       "010119f89699ce112fe2208d8d035d4eeb746c57bb093ca2b406e94e79cd63a975850a": [
@@ -69,7 +67,9 @@
         "0121215e614938a305dbb93de9af7914d57c8ad0ec82f0b0a67229a7b78225365a040a",
         "012099cb8a7e9e6a724786e1975ff726ce17ff3292a1fe07930c55b6b4b5dd95f5640a",
         "0120d3876ddfa126b1afea35cbffd919fe5b7de3eb186be325474a46e6567de8bccc0a",
-        "01219fb1921fc477202ff3945450cf8f281ec54fa54aa5f3a3d285b70ea5279f004c0a"
+        "01219fb1921fc477202ff3945450cf8f281ec54fa54aa5f3a3d285b70ea5279f004c0a",
+        "0120e7ed3a8ba6f1d66723aa5d81eb1f95a9128f17f4c2e5f674244380874d0f65f10a",
+        "0121188d34ba523f8cb072a9e39d0259ac2a718c6f57150bdaeb187f9d099b27a77f0a"
       ]
     },
     "eldest_kid": "010119f89699ce112fe2208d8d035d4eeb746c57bb093ca2b406e94e79cd63a975850a",
@@ -125,7 +125,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/etcinit",
+          "nametag": "etcinit",
           "state": 1,
           "proof_url": "https://coinbase.com/etcinit/public-key",
           "sig_id": "209ec5e5dd14e1cd49b2033831bbd4f3fee3592a29b98ab0a0ac4061269c7ff90f",
@@ -225,7 +225,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/etcinit",
+          "nametag": "etcinit",
           "state": 1,
           "proof_url": "https://coinbase.com/etcinit/public-key",
           "sig_id": "209ec5e5dd14e1cd49b2033831bbd4f3fee3592a29b98ab0a0ac4061269c7ff90f",
@@ -316,7 +316,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/etcinit",
+        "nametag": "etcinit",
         "state": 1,
         "proof_url": "https://coinbase.com/etcinit/public-key",
         "sig_id": "209ec5e5dd14e1cd49b2033831bbd4f3fee3592a29b98ab0a0ac4061269c7ff90f",
@@ -382,66 +382,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "8c428f74734e8cdb687245fb4e620ac99fa0f0cf328e3dd74767680048f0ebc30f",
-      "seqno": 33,
-      "payload_hash": "f72b4dc4c5557defdc58cc8a2a111e190b65d87d159e31bfcdc0a0963b328134"
+      "sig_id": "57445a1e3fa7383a3853e9aae9b725b1cd6cdda61683a9a769c05f9a367a998b0f",
+      "seqno": 38,
+      "payload_hash": "351853efd054297c6854fb481b0d150133bad485180418e8b1f7905d5986a41f"
     }
   },
   "devices": {
-    "74e4c7d170b5d71449a0a7db8cc16c18": {
+    "4e3a65c98139ef84527b8703ad477018": {
       "type": "desktop",
-      "ctime": 1470254620,
-      "mtime": 1470254620,
-      "name": "phobos-osx-2",
+      "ctime": 1475568529,
+      "mtime": 1475568529,
+      "name": "nomadic-phobos",
       "status": 1,
       "keys": [
         {
-          "kid": "012099cb8a7e9e6a724786e1975ff726ce17ff3292a1fe07930c55b6b4b5dd95f5640a",
+          "kid": "0120e7ed3a8ba6f1d66723aa5d81eb1f95a9128f17f4c2e5f674244380874d0f65f10a",
           "key_role": 1,
-          "sig_id": "1cfbe4c26e5e948b291cb1d57ed61381a721bfa2c48150bbf04b83a9def40a000f"
+          "sig_id": "f3907916bc0a532fbf7b9f2b46b20016053fde3ec642e344392c78bc2db150320f"
         },
         {
-          "kid": "0121215e614938a305dbb93de9af7914d57c8ad0ec82f0b0a67229a7b78225365a040a",
+          "kid": "0121188d34ba523f8cb072a9e39d0259ac2a718c6f57150bdaeb187f9d099b27a77f0a",
           "key_role": 2,
-          "sig_id": "db76085ad39f95754a611fb08ead7b87d6f2eaa7bd461600393d0fd0dfce0c620f"
-        }
-      ]
-    },
-    "9eb5a81415d17afafaa0ef4ff9787718": {
-      "type": "backup",
-      "ctime": 1451258372,
-      "mtime": 1451258372,
-      "name": "vital include",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01201b229105cdb2263d8c4eaaebe13fe19ab7094f5ebda9ce9a6c3f030006fed5550a",
-          "key_role": 1,
-          "sig_id": "5a55a7399c431b6ac9a20e2f36c9f9d9ab6d7917fe4d2dad58c1a3ef1d441fcb0f"
-        },
-        {
-          "kid": "0121b0d18ccb60151d9ec33ae75ad8f0e9dd3b9fe7d125a8fb73300c91165698882d0a",
-          "key_role": 2,
-          "sig_id": "298d73d6aa4e2085e77061807e097abcb4275e02fcb848f7398d17146a5f54510f"
-        }
-      ]
-    },
-    "d43c2c971052510a64f00a3f38604f18": {
-      "type": "backup",
-      "ctime": 1470254710,
-      "mtime": 1470254710,
-      "name": "lazy hub",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120d3876ddfa126b1afea35cbffd919fe5b7de3eb186be325474a46e6567de8bccc0a",
-          "key_role": 1,
-          "sig_id": "70963458c70c8789e22d731351bdf94beb44b25fb9283a163dc0d06511de2ea40f"
-        },
-        {
-          "kid": "01219fb1921fc477202ff3945450cf8f281ec54fa54aa5f3a3d285b70ea5279f004c0a",
-          "key_role": 2,
-          "sig_id": "8c428f74734e8cdb687245fb4e620ac99fa0f0cf328e3dd74767680048f0ebc30f"
+          "sig_id": "7af22fe05b72c3ad0e4c7caf30c1d027af883f21e179560e2fb29b2cc1c4f5870f"
         }
       ]
     }
