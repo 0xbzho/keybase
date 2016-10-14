@@ -4,16 +4,16 @@
     "username": "kwiztas",
     "ctime": 1458682045,
     "mtime": 1458682045,
-    "id_version": 14,
+    "id_version": 23,
     "track_version": 1,
-    "last_id_change": 1467411475,
+    "last_id_change": 1472709886,
     "username_cased": "kwiztas"
   },
   "profile": {
-    "mtime": 1466962702,
+    "mtime": 1474100824,
     "full_name": "Jeffrey Minter",
-    "location": "Los Angeles",
-    "bio": null
+    "location": "Reseda is a part of Los Angeles",
+    "bio": "I am me."
   },
   "public_keys": {
     "primary": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "kwiztas",
+          "state": 1,
+          "proof_url": "https://twitter.com/kwiztas/status/770407630372114432",
+          "sig_id": "1ffea1edd38e68d87d0bf9fe27fd8667c5ac58812a5f9be6f7b04ec5d5970d6d0f",
+          "proof_id": "00e218d662c2eca265692510",
+          "human_url": "https://twitter.com/kwiztas/status/770407630372114432",
+          "service_url": "https://twitter.com/kwiztas",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "reddit": [
         {
           "proof_type": "reddit",
@@ -65,10 +79,38 @@
           "service_url": "https://reddit.com/user/kwiztas",
           "presentation_group": "reddit",
           "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "kwiztas.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/kwiztas/sigchain#f82b7a094b6f0e5272135068d743e16a91e05370a10aafae95506361bba86ac40f",
+          "sig_id": "f82b7a094b6f0e5272135068d743e16a91e05370a10aafae95506361bba86ac40f",
+          "proof_id": "f1e6c23cc2bc5a51c1bbf010",
+          "human_url": "dns://kwiztas.com",
+          "service_url": "http://kwiztas.com",
+          "presentation_group": "kwiztas.com",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "kwiztas",
+          "state": 1,
+          "proof_url": "https://twitter.com/kwiztas/status/770407630372114432",
+          "sig_id": "1ffea1edd38e68d87d0bf9fe27fd8667c5ac58812a5f9be6f7b04ec5d5970d6d0f",
+          "proof_id": "00e218d662c2eca265692510",
+          "human_url": "https://twitter.com/kwiztas/status/770407630372114432",
+          "service_url": "https://twitter.com/kwiztas",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "reddit": [
         {
           "proof_type": "reddit",
@@ -82,9 +124,35 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "kwiztas.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "kwiztas.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/kwiztas/sigchain#f82b7a094b6f0e5272135068d743e16a91e05370a10aafae95506361bba86ac40f",
+          "sig_id": "f82b7a094b6f0e5272135068d743e16a91e05370a10aafae95506361bba86ac40f",
+          "proof_id": "f1e6c23cc2bc5a51c1bbf010",
+          "human_url": "dns://kwiztas.com",
+          "service_url": "http://kwiztas.com",
+          "presentation_group": "kwiztas.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "kwiztas",
+        "state": 1,
+        "proof_url": "https://twitter.com/kwiztas/status/770407630372114432",
+        "sig_id": "1ffea1edd38e68d87d0bf9fe27fd8667c5ac58812a5f9be6f7b04ec5d5970d6d0f",
+        "proof_id": "00e218d662c2eca265692510",
+        "human_url": "https://twitter.com/kwiztas/status/770407630372114432",
+        "service_url": "https://twitter.com/kwiztas",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "reddit",
         "nametag": "kwiztas",
@@ -96,15 +164,35 @@
         "service_url": "https://reddit.com/user/kwiztas",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "kwiztas.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/kwiztas/sigchain#f82b7a094b6f0e5272135068d743e16a91e05370a10aafae95506361bba86ac40f",
+        "sig_id": "f82b7a094b6f0e5272135068d743e16a91e05370a10aafae95506361bba86ac40f",
+        "proof_id": "f1e6c23cc2bc5a51c1bbf010",
+        "human_url": "dns://kwiztas.com",
+        "service_url": "http://kwiztas.com",
+        "presentation_group": "kwiztas.com",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/c237b0cad27ca2925b94191ee0fbfb05_360_360_square_360.jpeg",
+      "width": 360,
+      "height": 360,
+      "source": "twitter"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "beabdf33b2ab9407b43b917d8c0529717a1f2a9882a5632a64f231952e50025d0f",
-      "seqno": 5,
-      "payload_hash": "42bb42c4312e21b6e655d62a6810950fd9671c5f87058482fea0cc7fee610cec"
+      "sig_id": "f82b7a094b6f0e5272135068d743e16a91e05370a10aafae95506361bba86ac40f",
+      "seqno": 7,
+      "payload_hash": "dc23bd900a306a84da8f3b69834df3a44860c5828b267ea895b77c5e04edec8f"
     }
   },
   "devices": {}
