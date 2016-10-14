@@ -4,16 +4,16 @@
     "username": "getraf",
     "ctime": 1469572504,
     "mtime": 1469572504,
-    "id_version": 51,
-    "track_version": 2,
-    "last_id_change": 1470247882,
+    "id_version": 314,
+    "track_version": 6,
+    "last_id_change": 1476377676,
     "username_cased": "getraf"
   },
   "profile": {
-    "mtime": 1469575879,
+    "mtime": 1470827592,
     "full_name": "Rafael Elizalde",
-    "location": null,
-    "bio": null
+    "location": "Wisconsin, USA",
+    "bio": "Living a graciously epic life."
   },
   "public_keys": {
     "primary": {
@@ -42,20 +42,22 @@
       "01209b3c7264196776577f2581f56ca20e3fac64cbbbd55928a4e5baf87d959527370a",
       "01219fb50e3c108b158624c9828dd342539b269ba414db2daf9e0438e59ba065b54b0a",
       "0120e7f64b38674d97532fd8a3be0c2b0ff9c9fe12e51e46333e26e2c38a7e92e66e0a",
-      "0121673a3cb17210131598a3df159dbdbceda397daa2c7b4770881486e69829269570a"
+      "0121673a3cb17210131598a3df159dbdbceda397daa2c7b4770881486e69829269570a",
+      "01219b5b6bf7aba698a543a35da1068e9cafaa0b8f24b9f3320a795a753aabe82f200a",
+      "0120fe73cc4f26b6497d013e202a799c60fbd642da86cc6da60efc021d42923ffc650a"
     ],
     "subkeys": [
       "0121927db4ad0f4eb22f3e80050713d29596d21c246635f2bd2cbce0cd58cd6f320f0a",
       "0121d9e5b861d24fb81a7aef7b5615a4ebe566f466306543557d528ff09da9d5f1150a",
       "01219fb50e3c108b158624c9828dd342539b269ba414db2daf9e0438e59ba065b54b0a",
-      "0121673a3cb17210131598a3df159dbdbceda397daa2c7b4770881486e69829269570a"
+      "01219b5b6bf7aba698a543a35da1068e9cafaa0b8f24b9f3320a795a753aabe82f200a"
     ],
     "sibkeys": [
       "0120f36358f3a1f76da0fb978bef352c27ce07b6c2ecfd64bd1c1f33819eae7bae850a",
       "01206d99512ad9d7ebe438b4c0f924b8f734de452d272e4ce24e31d8ed5033e2c5f30a",
       "010137e4fa2de04f8f284bf0679f7139be37346c7720cdadab47633ffab1b439ddce0a",
       "01209b3c7264196776577f2581f56ca20e3fac64cbbbd55928a4e5baf87d959527370a",
-      "0120e7f64b38674d97532fd8a3be0c2b0ff9c9fe12e51e46333e26e2c38a7e92e66e0a"
+      "0120fe73cc4f26b6497d013e202a799c60fbd642da86cc6da60efc021d42923ffc650a"
     ],
     "families": {
       "0120f36358f3a1f76da0fb978bef352c27ce07b6c2ecfd64bd1c1f33819eae7bae850a": [
@@ -67,7 +69,9 @@
         "01209b3c7264196776577f2581f56ca20e3fac64cbbbd55928a4e5baf87d959527370a",
         "01219fb50e3c108b158624c9828dd342539b269ba414db2daf9e0438e59ba065b54b0a",
         "0120e7f64b38674d97532fd8a3be0c2b0ff9c9fe12e51e46333e26e2c38a7e92e66e0a",
-        "0121673a3cb17210131598a3df159dbdbceda397daa2c7b4770881486e69829269570a"
+        "0121673a3cb17210131598a3df159dbdbceda397daa2c7b4770881486e69829269570a",
+        "01219b5b6bf7aba698a543a35da1068e9cafaa0b8f24b9f3320a795a753aabe82f200a",
+        "0120fe73cc4f26b6497d013e202a799c60fbd642da86cc6da60efc021d42923ffc650a"
       ]
     },
     "eldest_kid": "0120f36358f3a1f76da0fb978bef352c27ce07b6c2ecfd64bd1c1f33819eae7bae850a",
@@ -123,7 +127,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/getraf",
+          "nametag": "getraf",
           "state": 1,
           "proof_url": "https://coinbase.com/getraf/public-key",
           "sig_id": "292b590b590a78ce62516fd593d5c188a0cd454ea9cc0a996487d01d25df8f3d0f",
@@ -221,7 +225,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/getraf",
+          "nametag": "getraf",
           "state": 1,
           "proof_url": "https://coinbase.com/getraf/public-key",
           "sig_id": "292b590b590a78ce62516fd593d5c188a0cd454ea9cc0a996487d01d25df8f3d0f",
@@ -314,7 +318,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/getraf",
+        "nametag": "getraf",
         "state": 1,
         "proof_url": "https://coinbase.com/getraf/public-key",
         "sig_id": "292b590b590a78ce62516fd593d5c188a0cd454ea9cc0a996487d01d25df8f3d0f",
@@ -362,7 +366,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1A53jYrJrbXfuTGPycaqt8zvqB96BLN1Sh",
+        "sig_id": "c83c62ecef751000cc86b1c70eaa8fe722e2afaf84cb846142c045734c1fe0b70f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/963abd4aa5364111b72994652b048b05_360_360_square_360.jpeg",
@@ -373,9 +384,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "97df22e512a205c172f1f6939688804a09f1b2a2994d653f8751a47c036c63c20f",
-      "seqno": 18,
-      "payload_hash": "deb7c02c9b9b0949aa8309bb2c93040701af08fd53cc86f931c1e4b07381a8b4"
+      "sig_id": "fd52d1ebaf3d7a1b3be2db3834689a3766fd622b0294a298e682ffb039da13410f",
+      "seqno": 26,
+      "payload_hash": "5a84b5ac45d0d6ace9358c52d6544d9ebca61c2b3db6cb93dc4ab7577f169a79"
     }
   },
   "devices": {
@@ -417,22 +428,22 @@
         }
       ]
     },
-    "e516c840aa8eae2b0c83818728c13118": {
+    "a24da5de893a526b2c88dc3ce9299b18": {
       "type": "desktop",
-      "ctime": 1469597234,
-      "mtime": 1469597234,
-      "name": "Mobile-One",
+      "ctime": 1476298920,
+      "mtime": 1476298920,
+      "name": "Mobile-One-Redux",
       "status": 1,
       "keys": [
         {
-          "kid": "0120e7f64b38674d97532fd8a3be0c2b0ff9c9fe12e51e46333e26e2c38a7e92e66e0a",
+          "kid": "0120fe73cc4f26b6497d013e202a799c60fbd642da86cc6da60efc021d42923ffc650a",
           "key_role": 1,
-          "sig_id": "285b9ac37765f504df1f58cd2bd336ab0070226f673ef34f03df591f82ed8daf0f"
+          "sig_id": "1cb0f451e4c4f6d5b220263b19c7d194998ddd8e3519ed96b9819889a98a43700f"
         },
         {
-          "kid": "0121673a3cb17210131598a3df159dbdbceda397daa2c7b4770881486e69829269570a",
+          "kid": "01219b5b6bf7aba698a543a35da1068e9cafaa0b8f24b9f3320a795a753aabe82f200a",
           "key_role": 2,
-          "sig_id": "2c33cb17c876828fd05363b62d1634bdee37b2e770e56fdc4f43a9b2d811bdc90f"
+          "sig_id": "fd52d1ebaf3d7a1b3be2db3834689a3766fd622b0294a298e682ffb039da13410f"
         }
       ]
     },
