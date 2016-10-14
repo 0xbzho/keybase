@@ -4,16 +4,16 @@
     "username": "mike",
     "ctime": 1392842930,
     "mtime": 1392842930,
-    "id_version": 34,
-    "track_version": 14,
-    "last_id_change": 1453830342,
+    "id_version": 44,
+    "track_version": 16,
+    "last_id_change": 1472685257,
     "username_cased": "mike"
   },
   "profile": {
-    "mtime": 1443547655,
+    "mtime": 1471042204,
     "full_name": "Mike Kusold",
-    "location": "Boulder",
-    "bio": "Full Stack Javascript and Go Developer"
+    "location": "Denver",
+    "bio": "Full Stack Javascript/NodeJS and Go Developer"
   },
   "public_keys": {
     "primary": {
@@ -93,6 +93,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "mikekusold",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=MikeKusold",
+          "sig_id": "ef62ce9a6eaa33a221d452ec1aac3801469bc9822cb238e69dfe8d688ff823d00f",
+          "proof_id": "312d56630b7c61642c0ad110",
+          "human_url": "https://news.ycombinator.com/user?id=MikeKusold",
+          "service_url": "https://news.ycombinator.com/user?id=MikeKusold",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "mikekusold.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/mike/sigchain#d6d7559e0bf66c6c6a5bcabf57d27d273c57db8c2b948ca87241c885d704a0d60f",
+          "sig_id": "d6d7559e0bf66c6c6a5bcabf57d27d273c57db8c2b948ca87241c885d704a0d60f",
+          "proof_id": "01a9cede0edb3de02c5b1310",
+          "human_url": "dns://mikekusold.com",
+          "service_url": "http://mikekusold.com",
+          "presentation_group": "mikekusold.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -123,6 +151,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "mikekusold",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=MikeKusold",
+          "sig_id": "ef62ce9a6eaa33a221d452ec1aac3801469bc9822cb238e69dfe8d688ff823d00f",
+          "proof_id": "312d56630b7c61642c0ad110",
+          "human_url": "https://news.ycombinator.com/user?id=MikeKusold",
+          "service_url": "https://news.ycombinator.com/user?id=MikeKusold",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
+      "mikekusold.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "mikekusold.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/mike/sigchain#d6d7559e0bf66c6c6a5bcabf57d27d273c57db8c2b948ca87241c885d704a0d60f",
+          "sig_id": "d6d7559e0bf66c6c6a5bcabf57d27d273c57db8c2b948ca87241c885d704a0d60f",
+          "proof_id": "01a9cede0edb3de02c5b1310",
+          "human_url": "dns://mikekusold.com",
+          "service_url": "http://mikekusold.com",
+          "presentation_group": "mikekusold.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -149,6 +205,30 @@
         "service_url": "https://github.com/kusold",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "hackernews",
+        "nametag": "mikekusold",
+        "state": 1,
+        "proof_url": "https://news.ycombinator.com/user?id=MikeKusold",
+        "sig_id": "ef62ce9a6eaa33a221d452ec1aac3801469bc9822cb238e69dfe8d688ff823d00f",
+        "proof_id": "312d56630b7c61642c0ad110",
+        "human_url": "https://news.ycombinator.com/user?id=MikeKusold",
+        "service_url": "https://news.ycombinator.com/user?id=MikeKusold",
+        "presentation_group": "hackernews",
+        "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "mikekusold.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/mike/sigchain#d6d7559e0bf66c6c6a5bcabf57d27d273c57db8c2b948ca87241c885d704a0d60f",
+        "sig_id": "d6d7559e0bf66c6c6a5bcabf57d27d273c57db8c2b948ca87241c885d704a0d60f",
+        "proof_id": "01a9cede0edb3de02c5b1310",
+        "human_url": "dns://mikekusold.com",
+        "service_url": "http://mikekusold.com",
+        "presentation_group": "mikekusold.com",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -163,9 +243,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2ff1d136437d971e1ea21e6cbfb54e90ff84bab27bbacd1102d1fa2cfd8738ea0f",
-      "seqno": 29,
-      "payload_hash": "5ec4b2914e2c0834d92906e56eaddb8333c19924bd86703e8c151508085b67d7"
+      "sig_id": "7f7fc9a4b1cd68721420bc8c9ec80cf1772d49dda8e71fae895e2e84ef4dc24a0f",
+      "seqno": 34,
+      "payload_hash": "11200e4c2d4da884e34d70622009f5b8f1b641e5ad0a4b51187e463968974ae8"
     }
   },
   "devices": {
