@@ -4,9 +4,9 @@
     "username": "jlindsk",
     "ctime": 1399283402,
     "mtime": 1399283402,
-    "id_version": 58,
+    "id_version": 59,
     "track_version": 15,
-    "last_id_change": 1460382431,
+    "last_id_change": 1474406008,
     "username_cased": "jlindsk"
   },
   "profile": {
@@ -39,16 +39,18 @@
       "01219b14b8b2c7ba097f30111d436ed995f94999be1329c4b44b2d2f73e6d29dee590a",
       "01207c1ba2618dd4866e3529fdd994d3dd60c4db9f7323b651ceb9e465330de912220a",
       "0121c7adc4918c45ebd5643fca5c52633002f9b32307b2e41a0b48f92e9fcad8355f0a",
-      "01203037728f6071833aede30236a87f92c6a89e98233f15ac052936ddf59bc831880a"
+      "01203037728f6071833aede30236a87f92c6a89e98233f15ac052936ddf59bc831880a",
+      "0121d706eb5d85b4aac2620768748ee98fa3306230da7d5a77abee57813f106698450a",
+      "0120052ff02b8485508abe1fa21c04102624af83f3b05a994a1ca4dbc728bcdfe7b70a"
     ],
     "subkeys": [
-      "01219b14b8b2c7ba097f30111d436ed995f94999be1329c4b44b2d2f73e6d29dee590a",
-      "0121c7adc4918c45ebd5643fca5c52633002f9b32307b2e41a0b48f92e9fcad8355f0a"
+      "0121c7adc4918c45ebd5643fca5c52633002f9b32307b2e41a0b48f92e9fcad8355f0a",
+      "0121d706eb5d85b4aac2620768748ee98fa3306230da7d5a77abee57813f106698450a"
     ],
     "sibkeys": [
       "01016ab143c82aa502a973fdf805a2ac5706d5ab019517bff84ef6856479d9a0c9600a",
-      "01207c1ba2618dd4866e3529fdd994d3dd60c4db9f7323b651ceb9e465330de912220a",
-      "01203037728f6071833aede30236a87f92c6a89e98233f15ac052936ddf59bc831880a"
+      "01203037728f6071833aede30236a87f92c6a89e98233f15ac052936ddf59bc831880a",
+      "0120052ff02b8485508abe1fa21c04102624af83f3b05a994a1ca4dbc728bcdfe7b70a"
     ],
     "families": {
       "0101bf6cd7471a98f22b9c983cfa2542043516fc566ec210df612d3e2f663e5ec0220a": [
@@ -59,7 +61,9 @@
         "01219b14b8b2c7ba097f30111d436ed995f94999be1329c4b44b2d2f73e6d29dee590a",
         "01207c1ba2618dd4866e3529fdd994d3dd60c4db9f7323b651ceb9e465330de912220a",
         "0121c7adc4918c45ebd5643fca5c52633002f9b32307b2e41a0b48f92e9fcad8355f0a",
-        "01203037728f6071833aede30236a87f92c6a89e98233f15ac052936ddf59bc831880a"
+        "01203037728f6071833aede30236a87f92c6a89e98233f15ac052936ddf59bc831880a",
+        "0121d706eb5d85b4aac2620768748ee98fa3306230da7d5a77abee57813f106698450a",
+        "0120052ff02b8485508abe1fa21c04102624af83f3b05a994a1ca4dbc728bcdfe7b70a"
       ]
     },
     "eldest_kid": "01016ab143c82aa502a973fdf805a2ac5706d5ab019517bff84ef6856479d9a0c9600a",
@@ -214,12 +218,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "67855e21f0d490dcbb8136ae124ad662d9215e16d37dd8360a93dc1a320e0ef80f",
-      "seqno": 35,
-      "payload_hash": "aee2ae5917f01e2c2a4128d151e9610b12892243e19a2c1c34da763b16d3efab"
+      "sig_id": "cfb9e8cf14c826117e32567bfe37a990afc1178436e330d795272f0c660444d40f",
+      "seqno": 38,
+      "payload_hash": "e1d4c87d6e62483b51392301f2faebf840837162356b58414c0e66cc32431f4d"
     }
   },
   "devices": {
+    "278739314d1b0e7926519f9a72943418": {
+      "type": "desktop",
+      "ctime": 1474406008,
+      "mtime": 1474406008,
+      "name": "Johans-MBP2",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120052ff02b8485508abe1fa21c04102624af83f3b05a994a1ca4dbc728bcdfe7b70a",
+          "key_role": 1,
+          "sig_id": "960520e634a9371933b567e4341fc39f6ace9acf2ca3d5051147dba6467a75920f"
+        },
+        {
+          "kid": "0121d706eb5d85b4aac2620768748ee98fa3306230da7d5a77abee57813f106698450a",
+          "key_role": 2,
+          "sig_id": "960c4953300af79bd722806f8149500a085592aeb85879ce2e62a23219ea70250f"
+        }
+      ]
+    },
     "e8a0102e4c6108fbda71bbc481390b18": {
       "type": "backup",
       "ctime": 1460382431,
@@ -236,25 +259,6 @@
           "kid": "0121c7adc4918c45ebd5643fca5c52633002f9b32307b2e41a0b48f92e9fcad8355f0a",
           "key_role": 2,
           "sig_id": "9726502e7668e95e437231fb7a93eeee9767850ad3d80976c3ecf99503973dcf0f"
-        }
-      ]
-    },
-    "eeefdb3aea827835234a50624f411218": {
-      "type": "desktop",
-      "ctime": 1460382430,
-      "mtime": 1460382430,
-      "name": "Johans-MBP",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01207c1ba2618dd4866e3529fdd994d3dd60c4db9f7323b651ceb9e465330de912220a",
-          "key_role": 1,
-          "sig_id": "c004cc4693834017fb67d3679669fb0e9f7243eb27c1e1d73b39bc9869fd5fa30f"
-        },
-        {
-          "kid": "01219b14b8b2c7ba097f30111d436ed995f94999be1329c4b44b2d2f73e6d29dee590a",
-          "key_role": 2,
-          "sig_id": "c914ac83100be0cbe7c28d74fc6c82b5387844c0b8e2fd79f4eab95e7fd77b860f"
         }
       ]
     }
