@@ -4,9 +4,9 @@
     "username": "nicholasb",
     "ctime": 1432145887,
     "mtime": 1432145887,
-    "id_version": 43,
-    "track_version": 11,
-    "last_id_change": 1466174909,
+    "id_version": 50,
+    "track_version": 12,
+    "last_id_change": 1474740493,
     "username_cased": "nicholasb"
   },
   "profile": {
@@ -41,16 +41,20 @@
       "012033e35ff9f768a79fb9e5788e192ba146aae695f8d0e11eaf8da5c19b5cb98e820a",
       "01214a1c946045da65da024f87ef10bdcb3c60b9fc19e9433b0f3436f5a14d21e8190a",
       "0121a1f8476bd37f73450d8c0cf717b3955af23cfafbca57b7b0566eb4ec8e8e397a0a",
-      "0120667453f300b52ce85d5596b8623cdc4699fbe3a480c2e6368f8c2f39bc23c87b0a"
+      "0120667453f300b52ce85d5596b8623cdc4699fbe3a480c2e6368f8c2f39bc23c87b0a",
+      "0120ed1c701fc9f29bbbee7a0cb74b30d2c33222de81a79a7df319fa0f371342934e0a",
+      "0121a352874beef49d92914b8ab84005e7750cd65e70b9cc23c6e0fd73a5ddb80a470a"
     ],
     "subkeys": [
       "01214a1c946045da65da024f87ef10bdcb3c60b9fc19e9433b0f3436f5a14d21e8190a",
-      "0121a1f8476bd37f73450d8c0cf717b3955af23cfafbca57b7b0566eb4ec8e8e397a0a"
+      "0121a1f8476bd37f73450d8c0cf717b3955af23cfafbca57b7b0566eb4ec8e8e397a0a",
+      "0121a352874beef49d92914b8ab84005e7750cd65e70b9cc23c6e0fd73a5ddb80a470a"
     ],
     "sibkeys": [
       "010193b98342ef8f7ba28b28e4ed1c3715ac3b80eca104f0a5d59a903d3389a67e540a",
       "012033e35ff9f768a79fb9e5788e192ba146aae695f8d0e11eaf8da5c19b5cb98e820a",
-      "0120667453f300b52ce85d5596b8623cdc4699fbe3a480c2e6368f8c2f39bc23c87b0a"
+      "0120667453f300b52ce85d5596b8623cdc4699fbe3a480c2e6368f8c2f39bc23c87b0a",
+      "0120ed1c701fc9f29bbbee7a0cb74b30d2c33222de81a79a7df319fa0f371342934e0a"
     ],
     "families": {
       "01010b8ec612f9134921055ed9d8979f6c4adc155e2025047b774f20c922ae5d76600a": [
@@ -63,7 +67,9 @@
         "012033e35ff9f768a79fb9e5788e192ba146aae695f8d0e11eaf8da5c19b5cb98e820a",
         "01214a1c946045da65da024f87ef10bdcb3c60b9fc19e9433b0f3436f5a14d21e8190a",
         "0121a1f8476bd37f73450d8c0cf717b3955af23cfafbca57b7b0566eb4ec8e8e397a0a",
-        "0120667453f300b52ce85d5596b8623cdc4699fbe3a480c2e6368f8c2f39bc23c87b0a"
+        "0120667453f300b52ce85d5596b8623cdc4699fbe3a480c2e6368f8c2f39bc23c87b0a",
+        "0120ed1c701fc9f29bbbee7a0cb74b30d2c33222de81a79a7df319fa0f371342934e0a",
+        "0121a352874beef49d92914b8ab84005e7750cd65e70b9cc23c6e0fd73a5ddb80a470a"
       ]
     },
     "eldest_kid": "010193b98342ef8f7ba28b28e4ed1c3715ac3b80eca104f0a5d59a903d3389a67e540a",
@@ -119,7 +125,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/vannick",
+          "nametag": "vannick",
           "state": 1,
           "proof_url": "https://coinbase.com/vannick/public-key",
           "sig_id": "4955c6e5424a5b0a736cc6b618bc5c0bc9dff11d09b6ea684b006fb2becbbced0f",
@@ -191,7 +197,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/vannick",
+          "nametag": "vannick",
           "state": 1,
           "proof_url": "https://coinbase.com/vannick/public-key",
           "sig_id": "4955c6e5424a5b0a736cc6b618bc5c0bc9dff11d09b6ea684b006fb2becbbced0f",
@@ -256,7 +262,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/vannick",
+        "nametag": "vannick",
         "state": 1,
         "proof_url": "https://coinbase.com/vannick/public-key",
         "sig_id": "4955c6e5424a5b0a736cc6b618bc5c0bc9dff11d09b6ea684b006fb2becbbced0f",
@@ -298,9 +304,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "190485273740ebc8596e3a57b223cba9fab754392e390cc5adc3f2e840b7e1910f",
-      "seqno": 22,
-      "payload_hash": "66ca8ae1f25fd0591824246b9b42ed658bff3876f7c48459b4792914bb0b33dc"
+      "sig_id": "102e1c5b2383e67d74eb32cbf498bac8cf57e712cbe214114cdee18f8ab2a8360f",
+      "seqno": 25,
+      "payload_hash": "d072a4a33385d7544fc6262832bd5372b8ae0c1409dbe6114d8ca8053aef9400"
     }
   },
   "devices": {
@@ -339,6 +345,25 @@
           "kid": "01214a1c946045da65da024f87ef10bdcb3c60b9fc19e9433b0f3436f5a14d21e8190a",
           "key_role": 2,
           "sig_id": "b9fcdefb9b9f0433914f63a7cb5752d2e69f3dfb4a49522a3125294b2022ba680f"
+        }
+      ]
+    },
+    "b7d4a79b793cbd494f3e6d0ec850bc18": {
+      "type": "desktop",
+      "ctime": 1471378171,
+      "mtime": 1471378171,
+      "name": "Megathron",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ed1c701fc9f29bbbee7a0cb74b30d2c33222de81a79a7df319fa0f371342934e0a",
+          "key_role": 1,
+          "sig_id": "22053bdae6a4776cc05b2679e00012ac857aa1a1b19e2f8f5f4adccd557a3a160f"
+        },
+        {
+          "kid": "0121a352874beef49d92914b8ab84005e7750cd65e70b9cc23c6e0fd73a5ddb80a470a",
+          "key_role": 2,
+          "sig_id": "d48bee794d5fb23f0b42b6bc2b74e96c3f8464233bb84d18aa054e9ad9780f2f0f"
         }
       ]
     }
