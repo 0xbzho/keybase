@@ -4,9 +4,9 @@
     "username": "rdillen",
     "ctime": 1445071560,
     "mtime": 1445071560,
-    "id_version": 15,
-    "track_version": 1,
-    "last_id_change": 1466265992,
+    "id_version": 34,
+    "track_version": 2,
+    "last_id_change": 1473954585,
     "username_cased": "rdillen"
   },
   "public_keys": {
@@ -83,6 +83,30 @@
       "dns": [
         {
           "proof_type": "dns",
+          "nametag": "claradillen.be",
+          "state": 1,
+          "proof_url": "https://keybase.io/rdillen/sigchain#841a02d5ca9d79675961fe538166c439ab42e716038547450ea19af783cabeec0f",
+          "sig_id": "841a02d5ca9d79675961fe538166c439ab42e716038547450ea19af783cabeec0f",
+          "proof_id": "59c074c9910d66a62350e410",
+          "human_url": "dns://claradillen.be",
+          "service_url": "http://claradillen.be",
+          "presentation_group": "claradillen.be",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "claradillen.eu",
+          "state": 1,
+          "proof_url": "https://keybase.io/rdillen/sigchain#a7b2633a674706bc4b95f524c56d4adcbc878da22c5c95b429666df7a8de9d580f",
+          "sig_id": "a7b2633a674706bc4b95f524c56d4adcbc878da22c5c95b429666df7a8de9d580f",
+          "proof_id": "8b5151018d5267e37992b910",
+          "human_url": "dns://claradillen.eu",
+          "service_url": "http://claradillen.eu",
+          "presentation_group": "claradillen.eu",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "dodeka.be",
           "state": 1,
           "proof_url": "https://keybase.io/rdillen/sigchain#c5297e2e5baa1a6d395b09c2e2c0c0889211a08710c0b792ae65dd583e0da14d0f",
@@ -108,6 +132,34 @@
           "service_url": "https://github.com/rradillen",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "claradillen.be": [
+        {
+          "proof_type": "dns",
+          "nametag": "claradillen.be",
+          "state": 1,
+          "proof_url": "https://keybase.io/rdillen/sigchain#841a02d5ca9d79675961fe538166c439ab42e716038547450ea19af783cabeec0f",
+          "sig_id": "841a02d5ca9d79675961fe538166c439ab42e716038547450ea19af783cabeec0f",
+          "proof_id": "59c074c9910d66a62350e410",
+          "human_url": "dns://claradillen.be",
+          "service_url": "http://claradillen.be",
+          "presentation_group": "claradillen.be",
+          "presentation_tag": "dns"
+        }
+      ],
+      "claradillen.eu": [
+        {
+          "proof_type": "dns",
+          "nametag": "claradillen.eu",
+          "state": 1,
+          "proof_url": "https://keybase.io/rdillen/sigchain#a7b2633a674706bc4b95f524c56d4adcbc878da22c5c95b429666df7a8de9d580f",
+          "sig_id": "a7b2633a674706bc4b95f524c56d4adcbc878da22c5c95b429666df7a8de9d580f",
+          "proof_id": "8b5151018d5267e37992b910",
+          "human_url": "dns://claradillen.eu",
+          "service_url": "http://claradillen.eu",
+          "presentation_group": "claradillen.eu",
+          "presentation_tag": "dns"
         }
       ],
       "dodeka.be": [
@@ -140,6 +192,30 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "claradillen.be",
+        "state": 1,
+        "proof_url": "https://keybase.io/rdillen/sigchain#841a02d5ca9d79675961fe538166c439ab42e716038547450ea19af783cabeec0f",
+        "sig_id": "841a02d5ca9d79675961fe538166c439ab42e716038547450ea19af783cabeec0f",
+        "proof_id": "59c074c9910d66a62350e410",
+        "human_url": "dns://claradillen.be",
+        "service_url": "http://claradillen.be",
+        "presentation_group": "claradillen.be",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "claradillen.eu",
+        "state": 1,
+        "proof_url": "https://keybase.io/rdillen/sigchain#a7b2633a674706bc4b95f524c56d4adcbc878da22c5c95b429666df7a8de9d580f",
+        "sig_id": "a7b2633a674706bc4b95f524c56d4adcbc878da22c5c95b429666df7a8de9d580f",
+        "proof_id": "8b5151018d5267e37992b910",
+        "human_url": "dns://claradillen.eu",
+        "service_url": "http://claradillen.eu",
+        "presentation_group": "claradillen.eu",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "dodeka.be",
         "state": 1,
         "proof_url": "https://keybase.io/rdillen/sigchain#c5297e2e5baa1a6d395b09c2e2c0c0889211a08710c0b792ae65dd583e0da14d0f",
@@ -163,9 +239,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "07815469ece8ca8d481ba8321dd829552b06e22332317d41b3e093f5f60a20230f",
-      "seqno": 11,
-      "payload_hash": "f0d5e2a8d5cac76a0ff6a67a61d41c8f7cb6805726a0c3d71db3f69210adcb01"
+      "sig_id": "a7b2633a674706bc4b95f524c56d4adcbc878da22c5c95b429666df7a8de9d580f",
+      "seqno": 14,
+      "payload_hash": "572b3a02e323ea7d9685d4e74f909c6bd43a401e2fe038b758ac5e86d547deee"
     }
   },
   "devices": {
