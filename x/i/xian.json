@@ -4,10 +4,16 @@
     "username": "xian",
     "ctime": 1467785615,
     "mtime": 1467785615,
-    "id_version": 22,
+    "id_version": 26,
     "track_version": 4,
-    "last_id_change": 1467832976,
+    "last_id_change": 1472089081,
     "username_cased": "xian"
+  },
+  "profile": {
+    "mtime": 1472093716,
+    "full_name": "Christian Gunning",
+    "location": "USA",
+    "bio": "Quantitative Population & Disease Ecology;\nStochastic, dynamical, & non-linear systems ;\nData Nerd specializing in R, SQL, C++"
   },
   "public_keys": {
     "all_bundles": [
@@ -79,6 +85,20 @@
           "presentation_group": "www.x14n.org",
           "presentation_tag": "http"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "x14n.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/xian/sigchain#45642e88ff4b6b4655076e1063b7d3cd32701e6291898cdf82bbacf32aa43f770f",
+          "sig_id": "45642e88ff4b6b4655076e1063b7d3cd32701e6291898cdf82bbacf32aa43f770f",
+          "proof_id": "92064829977dbc637afdf110",
+          "human_url": "dns://x14n.org",
+          "service_url": "http://x14n.org",
+          "presentation_group": "x14n.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -123,6 +143,20 @@
           "presentation_group": "www.x14n.org",
           "presentation_tag": "http"
         }
+      ],
+      "x14n.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "x14n.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/xian/sigchain#45642e88ff4b6b4655076e1063b7d3cd32701e6291898cdf82bbacf32aa43f770f",
+          "sig_id": "45642e88ff4b6b4655076e1063b7d3cd32701e6291898cdf82bbacf32aa43f770f",
+          "proof_id": "92064829977dbc637afdf110",
+          "human_url": "dns://x14n.org",
+          "service_url": "http://x14n.org",
+          "presentation_group": "x14n.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -151,6 +185,18 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "dns",
+        "nametag": "x14n.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/xian/sigchain#45642e88ff4b6b4655076e1063b7d3cd32701e6291898cdf82bbacf32aa43f770f",
+        "sig_id": "45642e88ff4b6b4655076e1063b7d3cd32701e6291898cdf82bbacf32aa43f770f",
+        "proof_id": "92064829977dbc637afdf110",
+        "human_url": "dns://x14n.org",
+        "service_url": "http://x14n.org",
+        "presentation_group": "x14n.org",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "www.x14n.org",
         "state": 1,
@@ -175,9 +221,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "bc2fc5f60ed60e507464ccbd0c8e042e9b7d833e90dfef638bb459ca7a1197050f",
-      "seqno": 16,
-      "payload_hash": "68861e731e449706111f14837280bd67106d3ba5a77d6f127607304ae5f7a060"
+      "sig_id": "45642e88ff4b6b4655076e1063b7d3cd32701e6291898cdf82bbacf32aa43f770f",
+      "seqno": 18,
+      "payload_hash": "35cec681cac81bd001d2405d12d8ad3ebb8b1e1389d2b6ae3350a471f4229812"
     }
   },
   "devices": {
