@@ -97,7 +97,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/troyswanson",
+          "nametag": "troyswanson",
           "state": 1,
           "proof_url": "https://coinbase.com/troyswanson/public-key",
           "sig_id": "5d3289d87f98e074e8ff1b8675b8653118a7e16c2bb25151f79414acaa9974260f",
@@ -155,7 +155,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/troyswanson",
+          "nametag": "troyswanson",
           "state": 1,
           "proof_url": "https://coinbase.com/troyswanson/public-key",
           "sig_id": "5d3289d87f98e074e8ff1b8675b8653118a7e16c2bb25151f79414acaa9974260f",
@@ -208,7 +208,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/troyswanson",
+        "nametag": "troyswanson",
         "state": 1,
         "proof_url": "https://coinbase.com/troyswanson/public-key",
         "sig_id": "5d3289d87f98e074e8ff1b8675b8653118a7e16c2bb25151f79414acaa9974260f",
@@ -256,25 +256,6 @@
     }
   },
   "devices": {
-    "3e04912799325daf9f37a9b09b6e3918": {
-      "type": "desktop",
-      "ctime": 1459974418,
-      "mtime": 1459974419,
-      "name": "RAX MacBook Air",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120278b33a9034f8ef036e05560b8d884f1f18705b12dcf29091c53f1c76f44a2000a",
-          "key_role": 1,
-          "sig_id": "ac948f2d7af18fb2dbc205bc32dc65c13579159395309675982c3cf8c625d1d20f"
-        },
-        {
-          "kid": "01213d7975255aeb029ef7577b1c7a56f8574a6828f3cc11510517a1d308dd16425f0a",
-          "key_role": 2,
-          "sig_id": "84659250353b20ea9733c33652b6c5f7c14c925ee662efae4a5d7124e5f021c30f"
-        }
-      ]
-    },
     "5681e2e15375d00711798f5e288a6818": {
       "type": "backup",
       "ctime": 1459974419,
@@ -291,6 +272,25 @@
           "kid": "01216ff947cfe17e7ec29d86e3219fb7a19400a5993af5057f355b06ff1e49641f5d0a",
           "key_role": 2,
           "sig_id": "0c7fbc9b8ec8acc58479b84a2a42076ec05e08de43392e77f5b18c31f69ce7d40f"
+        }
+      ]
+    },
+    "3e04912799325daf9f37a9b09b6e3918": {
+      "type": "desktop",
+      "ctime": 1459974418,
+      "mtime": 1459974419,
+      "name": "RAX MacBook Air",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120278b33a9034f8ef036e05560b8d884f1f18705b12dcf29091c53f1c76f44a2000a",
+          "key_role": 1,
+          "sig_id": "ac948f2d7af18fb2dbc205bc32dc65c13579159395309675982c3cf8c625d1d20f"
+        },
+        {
+          "kid": "01213d7975255aeb029ef7577b1c7a56f8574a6828f3cc11510517a1d308dd16425f0a",
+          "key_role": 2,
+          "sig_id": "84659250353b20ea9733c33652b6c5f7c14c925ee662efae4a5d7124e5f021c30f"
         }
       ]
     }
