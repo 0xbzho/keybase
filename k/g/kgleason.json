@@ -4,16 +4,16 @@
     "username": "kgleason",
     "ctime": 1411432074,
     "mtime": 1411432074,
-    "id_version": 98,
-    "track_version": 6,
-    "last_id_change": 1469894145,
+    "id_version": 107,
+    "track_version": 11,
+    "last_id_change": 1472167928,
     "username_cased": "kgleason"
   },
   "profile": {
-    "mtime": 1411830452,
+    "mtime": 1471344654,
     "full_name": "Kirk Gleason",
-    "location": "Siting on my couch",
-    "bio": "I'm one of those guys that has an Android phone but secretly covets a windows phone. I carry an iPad with me. I use a Mac for most of my day to day computing, but I do all of my personal stuff in Linux. I pretend to write Python. Interested in privacy."
+    "location": "Standing at my desk",
+    "bio": "I'm one of those guys that has an Android phone but covets a windows phone. I'm currently using a couple of different Linux distros, but only because I can't seem to get FreeBSD working on anything. I pretend to write Python, and am interested in privacy."
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,20 @@
       "01201ebe8907ef34354361254afc224f8a32bb61ee50b00fb5757a49fb4aa9babef60a",
       "0121e9ffbe8e330e03aa1c96fad8d61c188f7e17e5fd789e658b12327f6fdfa4cf650a",
       "0120170f91c699e3c4ce46ee43025e045a8a3957df9a6ac75df6e1744ac52e5789870a",
-      "01210bc0e943961a96fd78cc3cb96a4b53ce7a6530f4ede688edda440818fd23d6150a"
+      "01210bc0e943961a96fd78cc3cb96a4b53ce7a6530f4ede688edda440818fd23d6150a",
+      "012014b84c4e4822f20f9708254fcc7eae7f97bed99653d3bfca172b874220bfddbd0a",
+      "01217fd8538bc84cb8211a247c045d9f4d1e30095266e2a0b192c6ecfa0c334710550a"
     ],
     "subkeys": [
       "0121e9ffbe8e330e03aa1c96fad8d61c188f7e17e5fd789e658b12327f6fdfa4cf650a",
-      "01210bc0e943961a96fd78cc3cb96a4b53ce7a6530f4ede688edda440818fd23d6150a"
+      "01210bc0e943961a96fd78cc3cb96a4b53ce7a6530f4ede688edda440818fd23d6150a",
+      "01217fd8538bc84cb8211a247c045d9f4d1e30095266e2a0b192c6ecfa0c334710550a"
     ],
     "sibkeys": [
       "01011a006f52b19866dac362e0f6723a33a99a03d84e5dc9ab60dd1ecfef3c66fca90a",
       "01201ebe8907ef34354361254afc224f8a32bb61ee50b00fb5757a49fb4aa9babef60a",
-      "0120170f91c699e3c4ce46ee43025e045a8a3957df9a6ac75df6e1744ac52e5789870a"
+      "0120170f91c699e3c4ce46ee43025e045a8a3957df9a6ac75df6e1744ac52e5789870a",
+      "012014b84c4e4822f20f9708254fcc7eae7f97bed99653d3bfca172b874220bfddbd0a"
     ],
     "families": {
       "01011a006f52b19866dac362e0f6723a33a99a03d84e5dc9ab60dd1ecfef3c66fca90a": [
@@ -55,7 +59,9 @@
         "01201ebe8907ef34354361254afc224f8a32bb61ee50b00fb5757a49fb4aa9babef60a",
         "0121e9ffbe8e330e03aa1c96fad8d61c188f7e17e5fd789e658b12327f6fdfa4cf650a",
         "0120170f91c699e3c4ce46ee43025e045a8a3957df9a6ac75df6e1744ac52e5789870a",
-        "01210bc0e943961a96fd78cc3cb96a4b53ce7a6530f4ede688edda440818fd23d6150a"
+        "01210bc0e943961a96fd78cc3cb96a4b53ce7a6530f4ede688edda440818fd23d6150a",
+        "012014b84c4e4822f20f9708254fcc7eae7f97bed99653d3bfca172b874220bfddbd0a",
+        "01217fd8538bc84cb8211a247c045d9f4d1e30095266e2a0b192c6ecfa0c334710550a"
       ]
     },
     "eldest_kid": "01011a006f52b19866dac362e0f6723a33a99a03d84e5dc9ab60dd1ecfef3c66fca90a",
@@ -111,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/kgleason",
+          "nametag": "kgleason",
           "state": 1,
           "proof_url": "https://coinbase.com/kgleason/public-key",
           "sig_id": "476cdbe36e59153932462c6469f0bb9693df3cf90ae1ce731f2c42557421cd5c0f",
@@ -197,7 +203,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/kgleason",
+          "nametag": "kgleason",
           "state": 1,
           "proof_url": "https://coinbase.com/kgleason/public-key",
           "sig_id": "476cdbe36e59153932462c6469f0bb9693df3cf90ae1ce731f2c42557421cd5c0f",
@@ -276,7 +282,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/kgleason",
+        "nametag": "kgleason",
         "state": 1,
         "proof_url": "https://coinbase.com/kgleason/public-key",
         "sig_id": "476cdbe36e59153932462c6469f0bb9693df3cf90ae1ce731f2c42557421cd5c0f",
@@ -330,9 +336,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "834630d7cc2eedfe4dcb8a9f28ef3a4c010180b0cf1378c25b5fdc6693908c030f",
-      "seqno": 23,
-      "payload_hash": "aac13adaa65aef52bfcee7293b1a3abaffb2e3bb0a62e10aace0aeb2eb47883c"
+      "sig_id": "8fa7031d8c9443ddcd7bc2b98f692f369f53751f57d772f53d5f8371efef7fbe0f",
+      "seqno": 30,
+      "payload_hash": "16cdf961583ab0a9b2fc5fb995d2555202810c739b5707fe83b345c5867e30ba"
     }
   },
   "devices": {
@@ -371,6 +377,25 @@
           "kid": "01210bc0e943961a96fd78cc3cb96a4b53ce7a6530f4ede688edda440818fd23d6150a",
           "key_role": 2,
           "sig_id": "834630d7cc2eedfe4dcb8a9f28ef3a4c010180b0cf1378c25b5fdc6693908c030f"
+        }
+      ]
+    },
+    "e327488cb6f4af0015d980512c4b5318": {
+      "type": "desktop",
+      "ctime": 1471344040,
+      "mtime": 1471344040,
+      "name": "Work-Arch-DT",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012014b84c4e4822f20f9708254fcc7eae7f97bed99653d3bfca172b874220bfddbd0a",
+          "key_role": 1,
+          "sig_id": "06df02603f8624f7e3543ab62e630e496fdb82cca2af2a88cddb116fb199684f0f"
+        },
+        {
+          "kid": "01217fd8538bc84cb8211a247c045d9f4d1e30095266e2a0b192c6ecfa0c334710550a",
+          "key_role": 2,
+          "sig_id": "55fd82044a6a92e9157c0bcb88f8e699b5b7c41dd120cebfb625c5686e38745b0f"
         }
       ]
     }
