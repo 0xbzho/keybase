@@ -4,9 +4,9 @@
     "username": "doulos",
     "ctime": 1459034417,
     "mtime": 1459034417,
-    "id_version": 12,
+    "id_version": 13,
     "track_version": 1,
-    "last_id_change": 1470082635,
+    "last_id_change": 1474418891,
     "username_cased": "doulos"
   },
   "profile": {
@@ -45,18 +45,22 @@
       "01213e5ca7b6779fc8d29777c7e58f40cc6051d9800536b456f85e8f63b006fea1320a",
       "01200b375fb2d14c639d17c663ba44914c0c8cd28de477ff18e5ed6b54db32ecd01a0a",
       "01206568284b816d481fb07d840870e4fcf8cd05c5321bf89cfdfa15d36f381389980a",
-      "012168ac4dd19d0139c001fe861f8e9168aab138bce13c772afcdef0170dd00988290a"
+      "012168ac4dd19d0139c001fe861f8e9168aab138bce13c772afcdef0170dd00988290a",
+      "01203b0687897508415456f1dd6dbbe5b6b0401b3d7655dbaf114e464cad12fda4090a",
+      "01219d5b667a17484bd9dc227d21909b673d455e9ef7699e7a81f608a542ab9e8b2b0a"
     ],
     "subkeys": [
       "01210c83474c22a20ad72f291b03f7d5aca81b3a892bab558b5c7fba01d445f82b5a0a",
       "01213e5ca7b6779fc8d29777c7e58f40cc6051d9800536b456f85e8f63b006fea1320a",
-      "012168ac4dd19d0139c001fe861f8e9168aab138bce13c772afcdef0170dd00988290a"
+      "012168ac4dd19d0139c001fe861f8e9168aab138bce13c772afcdef0170dd00988290a",
+      "01219d5b667a17484bd9dc227d21909b673d455e9ef7699e7a81f608a542ab9e8b2b0a"
     ],
     "sibkeys": [
       "01016fdb2e8dd7bd35d88b2ea998d87fe3df2f651ea71aeb5d5d70f922b937236dcf0a",
       "01205f68531012d9ee1a6c6ee0cb719e32f76389ff28c9c81f3ccabbef0376eec7bd0a",
       "01200b375fb2d14c639d17c663ba44914c0c8cd28de477ff18e5ed6b54db32ecd01a0a",
-      "01206568284b816d481fb07d840870e4fcf8cd05c5321bf89cfdfa15d36f381389980a"
+      "01206568284b816d481fb07d840870e4fcf8cd05c5321bf89cfdfa15d36f381389980a",
+      "01203b0687897508415456f1dd6dbbe5b6b0401b3d7655dbaf114e464cad12fda4090a"
     ],
     "families": {
       "0101b82db93f39fd5be7f849ed21deedfe2e1767ffc830b2950da354467d4c396f650a": [
@@ -73,7 +77,9 @@
         "01213e5ca7b6779fc8d29777c7e58f40cc6051d9800536b456f85e8f63b006fea1320a",
         "01200b375fb2d14c639d17c663ba44914c0c8cd28de477ff18e5ed6b54db32ecd01a0a",
         "01206568284b816d481fb07d840870e4fcf8cd05c5321bf89cfdfa15d36f381389980a",
-        "012168ac4dd19d0139c001fe861f8e9168aab138bce13c772afcdef0170dd00988290a"
+        "012168ac4dd19d0139c001fe861f8e9168aab138bce13c772afcdef0170dd00988290a",
+        "01203b0687897508415456f1dd6dbbe5b6b0401b3d7655dbaf114e464cad12fda4090a",
+        "01219d5b667a17484bd9dc227d21909b673d455e9ef7699e7a81f608a542ab9e8b2b0a"
       ]
     },
     "eldest_kid": "01016fdb2e8dd7bd35d88b2ea998d87fe3df2f651ea71aeb5d5d70f922b937236dcf0a",
@@ -181,12 +187,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "86ff64cbb78bd4a97375ad9813f13140c9979a1ac19a9c0a1a0f16be6cd62e7a0f",
-      "seqno": 17,
-      "payload_hash": "67177f86c91b0505c8ca7cb6074f8e02cecfee4f007d942502f91bd5d76875ad"
+      "sig_id": "5072520724fb9b725a67bfc7dc9a2e347ce6404be24a8bcc21b9d46c8ce6fe8e0f",
+      "seqno": 19,
+      "payload_hash": "232e5f6b448b827e5e512c75eb4396b296c4d8428b60ee06fdee12a33fdab32d"
     }
   },
   "devices": {
+    "0f39d1df5029774c15d90623d435e618": {
+      "type": "desktop",
+      "ctime": 1474418891,
+      "mtime": 1474418891,
+      "name": "kali-hm-dt",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01203b0687897508415456f1dd6dbbe5b6b0401b3d7655dbaf114e464cad12fda4090a",
+          "key_role": 1,
+          "sig_id": "dfd928046ffe1c381caf1f6616460ed4619867a1c2f5179da4c3e0456ac984eb0f"
+        },
+        {
+          "kid": "01219d5b667a17484bd9dc227d21909b673d455e9ef7699e7a81f608a542ab9e8b2b0a",
+          "key_role": 2,
+          "sig_id": "5072520724fb9b725a67bfc7dc9a2e347ce6404be24a8bcc21b9d46c8ce6fe8e0f"
+        }
+      ]
+    },
     "14c708b4ef45065e0b34f6c013f28c18": {
       "type": "backup",
       "ctime": 1459525788,
