@@ -4,9 +4,9 @@
     "username": "johanbove",
     "ctime": 1428479731,
     "mtime": 1428479731,
-    "id_version": 26,
-    "track_version": 1,
-    "last_id_change": 1464708571,
+    "id_version": 32,
+    "track_version": 5,
+    "last_id_change": 1476418697,
     "username_cased": "johanbove"
   },
   "profile": {
@@ -100,6 +100,34 @@
           "presentation_tag": "gist"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "johanbove",
+          "state": 1,
+          "proof_url": "https://coinbase.com/johanbove/public-key",
+          "sig_id": "5d0fc12e1d7e71b920dc97f258bdf7abd1d4b0bad8cb56e8cb114fe95faa146c0f",
+          "proof_id": "8c544d29e90824840a3bae10",
+          "human_url": "https://coinbase.com/johanbove/public-key",
+          "service_url": "https://coinbase.com/johanbove",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "johanbove.info",
+          "state": 1,
+          "proof_url": "https://johanbove.info/.well-known/keybase.txt",
+          "sig_id": "3282ffcc8c61f48d598cf2f9f76a2a5b6fd52cd3b6f8c2b5602b1c1ef33484bd0f",
+          "proof_id": "8bcd3a4d4acf54571565ef10",
+          "human_url": "https://johanbove.info/.well-known/keybase.txt",
+          "service_url": "https://johanbove.info",
+          "presentation_group": "johanbove.info",
+          "presentation_tag": "https"
+        }
+      ],
       "dns": [
         {
           "proof_type": "dns",
@@ -144,7 +172,33 @@
           "presentation_tag": "gist"
         }
       ],
+      "coinbase": [
+        {
+          "proof_type": "coinbase",
+          "nametag": "johanbove",
+          "state": 1,
+          "proof_url": "https://coinbase.com/johanbove/public-key",
+          "sig_id": "5d0fc12e1d7e71b920dc97f258bdf7abd1d4b0bad8cb56e8cb114fe95faa146c0f",
+          "proof_id": "8c544d29e90824840a3bae10",
+          "human_url": "https://coinbase.com/johanbove/public-key",
+          "service_url": "https://coinbase.com/johanbove",
+          "presentation_group": "coinbase",
+          "presentation_tag": "post"
+        }
+      ],
       "johanbove.info": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "johanbove.info",
+          "state": 1,
+          "proof_url": "https://johanbove.info/.well-known/keybase.txt",
+          "sig_id": "3282ffcc8c61f48d598cf2f9f76a2a5b6fd52cd3b6f8c2b5602b1c1ef33484bd0f",
+          "proof_id": "8bcd3a4d4acf54571565ef10",
+          "human_url": "https://johanbove.info/.well-known/keybase.txt",
+          "service_url": "https://johanbove.info",
+          "presentation_group": "johanbove.info",
+          "presentation_tag": "https"
+        },
         {
           "proof_type": "dns",
           "nametag": "johanbove.info",
@@ -185,6 +239,18 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "coinbase",
+        "nametag": "johanbove",
+        "state": 1,
+        "proof_url": "https://coinbase.com/johanbove/public-key",
+        "sig_id": "5d0fc12e1d7e71b920dc97f258bdf7abd1d4b0bad8cb56e8cb114fe95faa146c0f",
+        "proof_id": "8c544d29e90824840a3bae10",
+        "human_url": "https://coinbase.com/johanbove/public-key",
+        "service_url": "https://coinbase.com/johanbove",
+        "presentation_group": "coinbase",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "dns",
         "nametag": "johanbove.info",
         "state": 1,
@@ -195,10 +261,29 @@
         "service_url": "http://johanbove.info",
         "presentation_group": "johanbove.info",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "johanbove.info",
+        "state": 1,
+        "proof_url": "https://johanbove.info/.well-known/keybase.txt",
+        "sig_id": "3282ffcc8c61f48d598cf2f9f76a2a5b6fd52cd3b6f8c2b5602b1c1ef33484bd0f",
+        "proof_id": "8bcd3a4d4acf54571565ef10",
+        "human_url": "https://johanbove.info/.well-known/keybase.txt",
+        "service_url": "https://johanbove.info",
+        "presentation_group": "johanbove.info",
+        "presentation_tag": "https"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "14YZh1UAJoX7gpgfnEibmoiV1HFdGWSnVj",
+        "sig_id": "af4ff5280e00049b60e97a8acaf07ad047eaff46220dc93a81869f90043a37fd0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/0b24ba0a83ce2f3586785f639675bf05_360_360_square_360.jpeg",
@@ -209,9 +294,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "166c1bca06c7da5adc4a54e2031c95b587235f52765f9e9e0311fe8aff3ab9c50f",
-      "seqno": 10,
-      "payload_hash": "ad38aea8ed1802d22f1da596d5a78da5f5e1803682d3c8276f8320c7b9556648"
+      "sig_id": "9a21198725f47321cec36c10549182e8606cb6c4337403535afc06967ddb561c0f",
+      "seqno": 17,
+      "payload_hash": "32ebf20483b1f0d90a94f7ab1a40c84519f656589a158b74ba17da774390ca6b"
     }
   },
   "devices": {

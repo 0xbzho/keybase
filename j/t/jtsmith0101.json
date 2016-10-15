@@ -4,9 +4,9 @@
     "username": "jtsmith0101",
     "ctime": 1440239969,
     "mtime": 1440239969,
-    "id_version": 24,
-    "track_version": 7,
-    "last_id_change": 1470047072,
+    "id_version": 25,
+    "track_version": 11,
+    "last_id_change": 1472537975,
     "username_cased": "jtsmith0101"
   },
   "profile": {
@@ -48,16 +48,20 @@
       "0120f6348ea53356a0a370d9e75c30c5edfaebc6ee18ebde1a806005e87c89a91c940a",
       "012140fb27386585758305ca4b5311483af453b2e6f5164e7915a18f0b1c2470195c0a",
       "01209f7f7d5cd06a1ddf98ef34f85822766908d0982b91afdf17b62cc3ef182dccaa0a",
-      "012150eb914ca7561fe69a19d76fa014baab61bff82f6a00a17403a3570d384825760a"
+      "012150eb914ca7561fe69a19d76fa014baab61bff82f6a00a17403a3570d384825760a",
+      "0121409b8c307a283e24d9281568886ffa870097ed426a3bb7a97f5b44e2b5e6eb1e0a",
+      "0120d104bb11da8ea051796024c2272d238c3ab43063212824a60dfc66cf53305e220a"
     ],
     "subkeys": [
       "012140fb27386585758305ca4b5311483af453b2e6f5164e7915a18f0b1c2470195c0a",
-      "012150eb914ca7561fe69a19d76fa014baab61bff82f6a00a17403a3570d384825760a"
+      "012150eb914ca7561fe69a19d76fa014baab61bff82f6a00a17403a3570d384825760a",
+      "0121409b8c307a283e24d9281568886ffa870097ed426a3bb7a97f5b44e2b5e6eb1e0a"
     ],
     "sibkeys": [
       "01012bc631d08168a00d08292f923ce10fb6913825995f2bd750c091f26cd46dd04b0a",
       "0120f6348ea53356a0a370d9e75c30c5edfaebc6ee18ebde1a806005e87c89a91c940a",
-      "01209f7f7d5cd06a1ddf98ef34f85822766908d0982b91afdf17b62cc3ef182dccaa0a"
+      "01209f7f7d5cd06a1ddf98ef34f85822766908d0982b91afdf17b62cc3ef182dccaa0a",
+      "0120d104bb11da8ea051796024c2272d238c3ab43063212824a60dfc66cf53305e220a"
     ],
     "families": {
       "01010c9a8fca6d63105ce107805c75871628f518693d943e1a771b5a2ae36206c8950a": [
@@ -81,7 +85,9 @@
         "0120f6348ea53356a0a370d9e75c30c5edfaebc6ee18ebde1a806005e87c89a91c940a",
         "012140fb27386585758305ca4b5311483af453b2e6f5164e7915a18f0b1c2470195c0a",
         "01209f7f7d5cd06a1ddf98ef34f85822766908d0982b91afdf17b62cc3ef182dccaa0a",
-        "012150eb914ca7561fe69a19d76fa014baab61bff82f6a00a17403a3570d384825760a"
+        "012150eb914ca7561fe69a19d76fa014baab61bff82f6a00a17403a3570d384825760a",
+        "0121409b8c307a283e24d9281568886ffa870097ed426a3bb7a97f5b44e2b5e6eb1e0a",
+        "0120d104bb11da8ea051796024c2272d238c3ab43063212824a60dfc66cf53305e220a"
       ]
     },
     "eldest_kid": "01012bc631d08168a00d08292f923ce10fb6913825995f2bd750c091f26cd46dd04b0a",
@@ -123,7 +129,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/jtsmith0101",
+          "nametag": "jtsmith0101",
           "state": 1,
           "proof_url": "https://coinbase.com/jtsmith0101/public-key",
           "sig_id": "dad48a5948bb65285a915c0c3548a665469eb9e6d70a4a254ef41470dc4d50270f",
@@ -167,7 +173,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/jtsmith0101",
+          "nametag": "jtsmith0101",
           "state": 1,
           "proof_url": "https://coinbase.com/jtsmith0101/public-key",
           "sig_id": "dad48a5948bb65285a915c0c3548a665469eb9e6d70a4a254ef41470dc4d50270f",
@@ -206,7 +212,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/jtsmith0101",
+        "nametag": "jtsmith0101",
         "state": 1,
         "proof_url": "https://coinbase.com/jtsmith0101/public-key",
         "sig_id": "dad48a5948bb65285a915c0c3548a665469eb9e6d70a4a254ef41470dc4d50270f",
@@ -229,12 +235,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "43a649aee31cfaebf1c37e7c6d483788df0139a1786a81ec8e5efe66282ff87a0f",
-      "seqno": 26,
-      "payload_hash": "8c376c043c02e563526c4bbc58f31e2da6d161eb79dd9230b2aa99ac9053af05"
+      "sig_id": "05e3052a241b3c637dca44e31332b969f3fd438fabc7fe9cc38af326e861ec580f",
+      "seqno": 32,
+      "payload_hash": "4b6a221ef79de11d8a00441feb007b82fe432ebf8c33f42a882bf50e047ad4b4"
     }
   },
   "devices": {
+    "a7f970ce2f77ef2b23e056706eeaeb18": {
+      "type": "desktop",
+      "ctime": 1472537975,
+      "mtime": 1472537975,
+      "name": "Lenovo X1 Carbon Linux",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d104bb11da8ea051796024c2272d238c3ab43063212824a60dfc66cf53305e220a",
+          "key_role": 1,
+          "sig_id": "644fc99e2fce2c03f1d94eb329c8b346df561465034c8f5ffe62423ee60afaea0f"
+        },
+        {
+          "kid": "0121409b8c307a283e24d9281568886ffa870097ed426a3bb7a97f5b44e2b5e6eb1e0a",
+          "key_role": 2,
+          "sig_id": "351f282bffac233f067cd4a221776cdb92756e47dc7d01c70b271d39ee23401a0f"
+        }
+      ]
+    },
     "eb6574599ca2966ad6a4e9a862b9ad18": {
       "type": "backup",
       "ctime": 1468920315,
