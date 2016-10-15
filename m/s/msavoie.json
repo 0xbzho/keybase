@@ -4,10 +4,16 @@
     "username": "msavoie",
     "ctime": 1466521738,
     "mtime": 1466521738,
-    "id_version": 8,
-    "track_version": 2,
-    "last_id_change": 1466541127,
+    "id_version": 9,
+    "track_version": 4,
+    "last_id_change": 1473989795,
     "username_cased": "msavoie"
+  },
+  "profile": {
+    "mtime": 1473989975,
+    "full_name": "Marc-Andre Savoie",
+    "location": null,
+    "bio": null
   },
   "public_keys": {
     "primary": {
@@ -34,18 +40,22 @@
       "012125d5f79b2e9d0cd3fabf52fecaf5ad1f220a9cdb0842e26c10452034f58b14780a",
       "0120c9e504c38f254542eef75e440ad5958350731b69d6ea352d46b52a0b02cefc170a",
       "01204ba41e5fa0c6815b2b0b1313316a6fec2111a2b1823cc6241bde24a79ccdbc640a",
-      "01218491696797c6938f42b20ff8554e8047c097dc20e135bb004f7aa2d045f0d13d0a"
+      "01218491696797c6938f42b20ff8554e8047c097dc20e135bb004f7aa2d045f0d13d0a",
+      "01201eabb7bd708f51e3268fc0364d80bf3323f6747a6f8404bf8ec44bd5cdb2d2400a",
+      "0121fb262088f5c232cecf211957015cb90e73676ffbad60c447f580fda5d6ed57390a"
     ],
     "subkeys": [
       "0121f6c20c114a489eeb6fb0eb5c3d1d493eb98a63578f953791fc48edbf05e09d500a",
       "012125d5f79b2e9d0cd3fabf52fecaf5ad1f220a9cdb0842e26c10452034f58b14780a",
-      "01218491696797c6938f42b20ff8554e8047c097dc20e135bb004f7aa2d045f0d13d0a"
+      "01218491696797c6938f42b20ff8554e8047c097dc20e135bb004f7aa2d045f0d13d0a",
+      "0121fb262088f5c232cecf211957015cb90e73676ffbad60c447f580fda5d6ed57390a"
     ],
     "sibkeys": [
       "01018654ce07745a9e2c95ab00302bb2cb7627cb8f09a411184a66e993def8e601f90a",
       "012080b51ee9b0605287d7a513cfae5b1d31b494fe41fcb0d8f25674b8ec27a5a21b0a",
       "0120c9e504c38f254542eef75e440ad5958350731b69d6ea352d46b52a0b02cefc170a",
-      "01204ba41e5fa0c6815b2b0b1313316a6fec2111a2b1823cc6241bde24a79ccdbc640a"
+      "01204ba41e5fa0c6815b2b0b1313316a6fec2111a2b1823cc6241bde24a79ccdbc640a",
+      "01201eabb7bd708f51e3268fc0364d80bf3323f6747a6f8404bf8ec44bd5cdb2d2400a"
     ],
     "families": {
       "01018654ce07745a9e2c95ab00302bb2cb7627cb8f09a411184a66e993def8e601f90a": [
@@ -55,7 +65,9 @@
         "012125d5f79b2e9d0cd3fabf52fecaf5ad1f220a9cdb0842e26c10452034f58b14780a",
         "0120c9e504c38f254542eef75e440ad5958350731b69d6ea352d46b52a0b02cefc170a",
         "01204ba41e5fa0c6815b2b0b1313316a6fec2111a2b1823cc6241bde24a79ccdbc640a",
-        "01218491696797c6938f42b20ff8554e8047c097dc20e135bb004f7aa2d045f0d13d0a"
+        "01218491696797c6938f42b20ff8554e8047c097dc20e135bb004f7aa2d045f0d13d0a",
+        "01201eabb7bd708f51e3268fc0364d80bf3323f6747a6f8404bf8ec44bd5cdb2d2400a",
+        "0121fb262088f5c232cecf211957015cb90e73676ffbad60c447f580fda5d6ed57390a"
       ]
     },
     "eldest_kid": "01018654ce07745a9e2c95ab00302bb2cb7627cb8f09a411184a66e993def8e601f90a",
@@ -83,7 +95,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/msavoie",
+          "nametag": "msavoie",
           "state": 1,
           "proof_url": "https://coinbase.com/msavoie/public-key",
           "sig_id": "ba925e48cde2b1fac7dbb8e2fae44895715a7678f70f0b1bf68999829f115e980f",
@@ -113,7 +125,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/msavoie",
+          "nametag": "msavoie",
           "state": 1,
           "proof_url": "https://coinbase.com/msavoie/public-key",
           "sig_id": "ba925e48cde2b1fac7dbb8e2fae44895715a7678f70f0b1bf68999829f115e980f",
@@ -140,7 +152,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/msavoie",
+        "nametag": "msavoie",
         "state": 1,
         "proof_url": "https://coinbase.com/msavoie/public-key",
         "sig_id": "ba925e48cde2b1fac7dbb8e2fae44895715a7678f70f0b1bf68999829f115e980f",
@@ -170,12 +182,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "e0945ef537e5f02089d138a19d979c29d9c12a0f8c63716f45ce02a8b1cc23510f",
-      "seqno": 12,
-      "payload_hash": "dd5351107cc561420e502b8a9de2935adbbeb8822211a75a547230e587a6c21b"
+      "sig_id": "34a5ce5c57f5b4ca0d296de83b28f5a2cef26c65a2f679a9a6ea672e6d7d94550f",
+      "seqno": 16,
+      "payload_hash": "beabe1846f9af7db03aeb1d125c4db13f3758526ae7a2f2210b3b179b91053ea"
     }
   },
   "devices": {
+    "137e8a5d57446d7ced9c9eabd06b3518": {
+      "type": "desktop",
+      "ctime": 1473989795,
+      "mtime": 1473989795,
+      "name": "Home",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201eabb7bd708f51e3268fc0364d80bf3323f6747a6f8404bf8ec44bd5cdb2d2400a",
+          "key_role": 1,
+          "sig_id": "61d8842291f3e786aee9140cd8aa00ad940149ddea27235555a2ffefbb76ea1f0f"
+        },
+        {
+          "kid": "0121fb262088f5c232cecf211957015cb90e73676ffbad60c447f580fda5d6ed57390a",
+          "key_role": 2,
+          "sig_id": "1961dab28bf34ad72f14f09649c1846c669a33c9599b01949924911fbd0b67dd0f"
+        }
+      ]
+    },
     "861b69910ded17ac3bf519e4846efd18": {
       "type": "desktop",
       "ctime": 1466523043,
