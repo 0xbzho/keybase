@@ -4,16 +4,16 @@
     "username": "esset",
     "ctime": 1400438681,
     "mtime": 1400438681,
-    "id_version": 1,
-    "track_version": 0,
-    "last_id_change": 1467206277,
+    "id_version": 3,
+    "track_version": 1,
+    "last_id_change": 1474439510,
     "username_cased": "esset"
   },
   "profile": {
-    "mtime": 1467206264,
+    "mtime": 1474439549,
     "full_name": "Kristofer Sommestad",
-    "location": null,
-    "bio": null
+    "location": "Stockholm, Sweden",
+    "bio": "CTO @ Springworks"
   },
   "public_keys": {
     "primary": {
@@ -52,16 +52,67 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "sommestad",
+          "state": 1,
+          "proof_url": "https://gist.github.com/06a950102949247b725fef9298c24485",
+          "sig_id": "7983453cb2c59e64c5694da5fc4d9e5b9bde7920ccd7235a0985bc86749e73b90f",
+          "proof_id": "9b9d3334da179742ec1be410",
+          "human_url": "https://gist.github.com/06a950102949247b725fef9298c24485",
+          "service_url": "https://github.com/sommestad",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "sommestad",
+          "state": 1,
+          "proof_url": "https://gist.github.com/06a950102949247b725fef9298c24485",
+          "sig_id": "7983453cb2c59e64c5694da5fc4d9e5b9bde7920ccd7235a0985bc86749e73b90f",
+          "proof_id": "9b9d3334da179742ec1be410",
+          "human_url": "https://gist.github.com/06a950102949247b725fef9298c24485",
+          "service_url": "https://github.com/sommestad",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "github",
+        "nametag": "sommestad",
+        "state": 1,
+        "proof_url": "https://gist.github.com/06a950102949247b725fef9298c24485",
+        "sig_id": "7983453cb2c59e64c5694da5fc4d9e5b9bde7920ccd7235a0985bc86749e73b90f",
+        "proof_id": "9b9d3334da179742ec1be410",
+        "human_url": "https://gist.github.com/06a950102949247b725fef9298c24485",
+        "service_url": "https://github.com/sommestad",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      }
+    ]
   },
   "cryptocurrency_addresses": {},
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e2b45488e03455c0574389ef83741105_360_360_square_360.jpeg",
+      "width": 360,
+      "height": 360,
+      "source": "github"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "70c648bb40d64d5a15ee2e8b27004f44b69dae6c0f46eb7ebcbe59b697614ef40f",
-      "seqno": 1,
-      "payload_hash": "db0f008e54c1dae53a1a46b4b1f583c042afa7b5af8f8a3573d7e0a2c9739a67"
+      "sig_id": "9b22d3389554f7b76e714b8400ca7d376829f3c9313f74cbff3a160e10bf360a0f",
+      "seqno": 3,
+      "payload_hash": "0a544c4aed06eceac09c5d101fe82ccee0141fd8a9008700e82d6ec1d7cb8347"
     }
   },
   "devices": {}
