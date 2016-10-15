@@ -4,16 +4,16 @@
     "username": "nootrope",
     "ctime": 1414362484,
     "mtime": 1414362484,
-    "id_version": 87,
-    "track_version": 4,
-    "last_id_change": 1461581910,
+    "id_version": 91,
+    "track_version": 8,
+    "last_id_change": 1473779032,
     "username_cased": "nootrope"
   },
   "profile": {
-    "mtime": 1414535365,
+    "mtime": 1470198882,
     "full_name": "Alberto Gaitán",
     "location": "Terra",
-    "bio": "Curtain puller at the stimulacrum."
+    "bio": "More fox than hedgehog."
   },
   "public_keys": {
     "primary": {
@@ -42,20 +42,28 @@
       "0120c004d485cb2b7b5e952821b4d7200aaafb49bbbad824e99a7221942554877bf50a",
       "01218d7f46358b2bd7625d91f21a70a8a2ffd114c747b4cdde49cbadcd2c0dcab8010a",
       "01208e04f86cd5a614e3a7e30bc003391f4bdf68ef8a1b120cf1546e283e1fc469be0a",
-      "01210ed87336cf8dc005d83d7f1d03ecdca2c31dc115d4f9e8564832d64cfbb41d450a"
+      "01210ed87336cf8dc005d83d7f1d03ecdca2c31dc115d4f9e8564832d64cfbb41d450a",
+      "0121b57282658e6bfea1a412bda4659281526bd0996df81094a02d7a328275a6ce2f0a",
+      "0120432c66919a18119330e26c7e185eb7b6720352e874f2339aaef0b48be6a2143c0a",
+      "01207a37bc0ef1bac91074840ed5805da01535f249972cbd53d5524255e28ebabd1b0a",
+      "01218f475b22f4256e511476ee982e7f12f2aa779a4b5c669bd7b94d979be42554360a"
     ],
     "subkeys": [
       "0121ed1392394f0837f721f3932201448e0c3790526a4ac4629e8ddd94d3d794d9290a",
       "0121cfdc7d298a4decd15e6153be1b1cd9cc1d15ed724cebd13b0f28a29d96ff64710a",
       "01218d7f46358b2bd7625d91f21a70a8a2ffd114c747b4cdde49cbadcd2c0dcab8010a",
-      "01210ed87336cf8dc005d83d7f1d03ecdca2c31dc115d4f9e8564832d64cfbb41d450a"
+      "01210ed87336cf8dc005d83d7f1d03ecdca2c31dc115d4f9e8564832d64cfbb41d450a",
+      "0121b57282658e6bfea1a412bda4659281526bd0996df81094a02d7a328275a6ce2f0a",
+      "01218f475b22f4256e511476ee982e7f12f2aa779a4b5c669bd7b94d979be42554360a"
     ],
     "sibkeys": [
       "010151b636b49a9a727827d83f18416afe63f4fb61d9c18d76f626d1e937409f519b0a",
       "0120a6241178c45cce0a087db7105d114d796fa7e68b73ed52e423582be57c1c39570a",
       "01208c9f148316c8599f09b934888fda701c2e306dfb664cb21aa0412a2e9bd668c60a",
       "0120c004d485cb2b7b5e952821b4d7200aaafb49bbbad824e99a7221942554877bf50a",
-      "01208e04f86cd5a614e3a7e30bc003391f4bdf68ef8a1b120cf1546e283e1fc469be0a"
+      "01208e04f86cd5a614e3a7e30bc003391f4bdf68ef8a1b120cf1546e283e1fc469be0a",
+      "0120432c66919a18119330e26c7e185eb7b6720352e874f2339aaef0b48be6a2143c0a",
+      "01207a37bc0ef1bac91074840ed5805da01535f249972cbd53d5524255e28ebabd1b0a"
     ],
     "families": {
       "010151b636b49a9a727827d83f18416afe63f4fb61d9c18d76f626d1e937409f519b0a": [
@@ -67,7 +75,11 @@
         "0120c004d485cb2b7b5e952821b4d7200aaafb49bbbad824e99a7221942554877bf50a",
         "01218d7f46358b2bd7625d91f21a70a8a2ffd114c747b4cdde49cbadcd2c0dcab8010a",
         "01208e04f86cd5a614e3a7e30bc003391f4bdf68ef8a1b120cf1546e283e1fc469be0a",
-        "01210ed87336cf8dc005d83d7f1d03ecdca2c31dc115d4f9e8564832d64cfbb41d450a"
+        "01210ed87336cf8dc005d83d7f1d03ecdca2c31dc115d4f9e8564832d64cfbb41d450a",
+        "0121b57282658e6bfea1a412bda4659281526bd0996df81094a02d7a328275a6ce2f0a",
+        "0120432c66919a18119330e26c7e185eb7b6720352e874f2339aaef0b48be6a2143c0a",
+        "01207a37bc0ef1bac91074840ed5805da01535f249972cbd53d5524255e28ebabd1b0a",
+        "01218f475b22f4256e511476ee982e7f12f2aa779a4b5c669bd7b94d979be42554360a"
       ]
     },
     "eldest_kid": "010151b636b49a9a727827d83f18416afe63f4fb61d9c18d76f626d1e937409f519b0a",
@@ -123,7 +135,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/nootrope",
+          "nametag": "nootrope",
           "state": 1,
           "proof_url": "https://coinbase.com/nootrope/public-key",
           "sig_id": "f76d7018564609230bb04e951454609c93cc96223a1fda2426c01174bc0b4c1c0f",
@@ -181,7 +193,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/nootrope",
+          "nametag": "nootrope",
           "state": 1,
           "proof_url": "https://coinbase.com/nootrope/public-key",
           "sig_id": "f76d7018564609230bb04e951454609c93cc96223a1fda2426c01174bc0b4c1c0f",
@@ -232,7 +244,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/nootrope",
+        "nametag": "nootrope",
         "state": 1,
         "proof_url": "https://coinbase.com/nootrope/public-key",
         "sig_id": "f76d7018564609230bb04e951454609c93cc96223a1fda2426c01174bc0b4c1c0f",
@@ -262,9 +274,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3911151ba25848042df680125e2de5cae58bbd2ae6675f44d55fbd26d41714e50f",
-      "seqno": 41,
-      "payload_hash": "2e585309d704c3a817d8c36d7e84ea579050bdbea35f09c5bc5fa049b1a811ec"
+      "sig_id": "6c07e6dc28be8823b3741a7c41a38e1debf8b0a629d84265119a38bcdb6301330f",
+      "seqno": 49,
+      "payload_hash": "7d5671fcdb55b5793d6a67685e936754c64b56be21bea4a690b7c6c7751b30a0"
     }
   },
   "devices": {
@@ -284,6 +296,25 @@
           "kid": "0121ed1392394f0837f721f3932201448e0c3790526a4ac4629e8ddd94d3d794d9290a",
           "key_role": 2,
           "sig_id": "53c15afe619769b007001e6c30c4d3b80491a2a75c3122b023df8f28aba823290f"
+        }
+      ]
+    },
+    "3e68fa474d6618c672ff842e53455d18": {
+      "type": "backup",
+      "ctime": 1470196153,
+      "mtime": 1470196153,
+      "name": "envelope gallery",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207a37bc0ef1bac91074840ed5805da01535f249972cbd53d5524255e28ebabd1b0a",
+          "key_role": 1,
+          "sig_id": "88b4e3feb61656d86be832bbcc18fe4f1817fa2ca83f018bf4f36585c198ee1c0f"
+        },
+        {
+          "kid": "01218f475b22f4256e511476ee982e7f12f2aa779a4b5c669bd7b94d979be42554360a",
+          "key_role": 2,
+          "sig_id": "848039d7da9ef3e75e5dfd7f7540ed7f6d6b52958b3a6cb5bc0072ca013b7e380f"
         }
       ]
     },
@@ -322,6 +353,25 @@
           "kid": "01210ed87336cf8dc005d83d7f1d03ecdca2c31dc115d4f9e8564832d64cfbb41d450a",
           "key_role": 2,
           "sig_id": "3911151ba25848042df680125e2de5cae58bbd2ae6675f44d55fbd26d41714e50f"
+        }
+      ]
+    },
+    "d9e8eb6876eb1695d35a32d441ca9318": {
+      "type": "desktop",
+      "ctime": 1470195785,
+      "mtime": 1470195785,
+      "name": "seldon",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120432c66919a18119330e26c7e185eb7b6720352e874f2339aaef0b48be6a2143c0a",
+          "key_role": 1,
+          "sig_id": "7f9caa67887a2fd0cc3647943b3d56c77ae0cb26e58f25eaa4a8988f0a3e9d020f"
+        },
+        {
+          "kid": "0121b57282658e6bfea1a412bda4659281526bd0996df81094a02d7a328275a6ce2f0a",
+          "key_role": 2,
+          "sig_id": "909decf45b6b641f779b00fe11f563047e75dc1d74342566a8ac3601a61fd2980f"
         }
       ]
     },
