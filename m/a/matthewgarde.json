@@ -4,9 +4,9 @@
     "username": "matthewgarde",
     "ctime": 1467835276,
     "mtime": 1467835276,
-    "id_version": 12,
+    "id_version": 14,
     "track_version": 1,
-    "last_id_change": 1469290004,
+    "last_id_change": 1471046777,
     "username_cased": "matthewgarde"
   },
   "profile": {
@@ -40,14 +40,9 @@
       "012182ff19dc00cbfa1fe5491832a46576bfcec894067b9391d28560d22f9cdaf46e0a",
       "0120b498f58a4a6c17cb2b8c2791c064d7a977469a776ddc0a971b32676a538edb9a0a"
     ],
-    "subkeys": [
-      "01216bdd8af43cc69ad8b2824f9c04a7e94b1602ccb784904a7ae87a14ab754545090a",
-      "012182ff19dc00cbfa1fe5491832a46576bfcec894067b9391d28560d22f9cdaf46e0a"
-    ],
+    "subkeys": [],
     "sibkeys": [
-      "0101f10a91145b45605120e293e9fa8bd055b29ce0590b926e97d7ff16155f342e2c0a",
-      "01203120abf95185e03de7eb2686b062468456b90aa8f4ab67426186cd8f6cc5737c0a",
-      "0120b498f58a4a6c17cb2b8c2791c064d7a977469a776ddc0a971b32676a538edb9a0a"
+      "0101f10a91145b45605120e293e9fa8bd055b29ce0590b926e97d7ff16155f342e2c0a"
     ],
     "families": {
       "0101f10a91145b45605120e293e9fa8bd055b29ce0590b926e97d7ff16155f342e2c0a": [
@@ -93,6 +88,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.matthewgarde.co.uk",
+          "state": 1,
+          "proof_url": "http://www.matthewgarde.co.uk/keybase.txt",
+          "sig_id": "6e73665e29a759d6b865ba7b28994bc1bd9d7d0f5deaf047291040fe4b3ffc2c0f",
+          "proof_id": "10421da5393add1c9b68e910",
+          "human_url": "http://www.matthewgarde.co.uk/keybase.txt",
+          "service_url": "http://www.matthewgarde.co.uk",
+          "presentation_group": "www.matthewgarde.co.uk",
+          "presentation_tag": "http"
+        }
       ]
     },
     "by_presentation_group": {
@@ -123,6 +132,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "www.matthewgarde.co.uk": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.matthewgarde.co.uk",
+          "state": 1,
+          "proof_url": "http://www.matthewgarde.co.uk/keybase.txt",
+          "sig_id": "6e73665e29a759d6b865ba7b28994bc1bd9d7d0f5deaf047291040fe4b3ffc2c0f",
+          "proof_id": "10421da5393add1c9b68e910",
+          "human_url": "http://www.matthewgarde.co.uk/keybase.txt",
+          "service_url": "http://www.matthewgarde.co.uk",
+          "presentation_group": "www.matthewgarde.co.uk",
+          "presentation_tag": "http"
+        }
       ]
     },
     "all": [
@@ -149,6 +172,18 @@
         "service_url": "https://github.com/matthewgarde",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "www.matthewgarde.co.uk",
+        "state": 1,
+        "proof_url": "http://www.matthewgarde.co.uk/keybase.txt",
+        "sig_id": "6e73665e29a759d6b865ba7b28994bc1bd9d7d0f5deaf047291040fe4b3ffc2c0f",
+        "proof_id": "10421da5393add1c9b68e910",
+        "human_url": "http://www.matthewgarde.co.uk/keybase.txt",
+        "service_url": "http://www.matthewgarde.co.uk",
+        "presentation_group": "www.matthewgarde.co.uk",
+        "presentation_tag": "http"
       }
     ]
   },
@@ -163,49 +198,10 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c6b263295ae447ad744ab136915ef79bbcd81e0a7c33a018b1ccef6c2d77bf580f",
-      "seqno": 9,
-      "payload_hash": "7dd928011d1167f0e3b9fccb1102514876a8c156ecd9b8854d1937581e0dbcee"
+      "sig_id": "1aecb020eaae6748d07e8dad627c0e24b0277c1aa0a0c3965d8c3ae67355c5ef0f",
+      "seqno": 12,
+      "payload_hash": "41a0452eb2aed114cfe46f891459e294b532786b9c64d32abd293cbf369d4db5"
     }
   },
-  "devices": {
-    "368db45b1da742c18b3ab74ce92cbb18": {
-      "type": "backup",
-      "ctime": 1467932605,
-      "mtime": 1467932605,
-      "name": "dust cry",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120b498f58a4a6c17cb2b8c2791c064d7a977469a776ddc0a971b32676a538edb9a0a",
-          "key_role": 1,
-          "sig_id": "802fc434774ba1e3797766f28e126d5309f5ea89f27dafc30cd31ea8df86dd0d0f"
-        },
-        {
-          "kid": "012182ff19dc00cbfa1fe5491832a46576bfcec894067b9391d28560d22f9cdaf46e0a",
-          "key_role": 2,
-          "sig_id": "c6b263295ae447ad744ab136915ef79bbcd81e0a7c33a018b1ccef6c2d77bf580f"
-        }
-      ]
-    },
-    "498662176d1117df78e299ba6c7b2c18": {
-      "type": "desktop",
-      "ctime": 1467932604,
-      "mtime": 1467932604,
-      "name": "MacBook",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01203120abf95185e03de7eb2686b062468456b90aa8f4ab67426186cd8f6cc5737c0a",
-          "key_role": 1,
-          "sig_id": "c7ba5a8f2e0182cc462b02d93d0ab343e6953e660a5b943f13612e873178122a0f"
-        },
-        {
-          "kid": "01216bdd8af43cc69ad8b2824f9c04a7e94b1602ccb784904a7ae87a14ab754545090a",
-          "key_role": 2,
-          "sig_id": "f296e7c2e2f71d81c56a8ba26b598857390134028d28f1c0d7bfeed76df51a410f"
-        }
-      ]
-    }
-  }
+  "devices": {}
 }
