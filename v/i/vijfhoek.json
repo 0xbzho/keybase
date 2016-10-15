@@ -4,9 +4,9 @@
     "username": "vijfhoek",
     "ctime": 1398284401,
     "mtime": 1398284401,
-    "id_version": 42,
-    "track_version": 2,
-    "last_id_change": 1469720188,
+    "id_version": 55,
+    "track_version": 5,
+    "last_id_change": 1476133138,
     "username_cased": "vijfhoek"
   },
   "profile": {
@@ -39,16 +39,20 @@
       "01212c9aa47d6c9c5d850b8a6e865800939975ce4e37f6bd221e189d71f1e410543d0a",
       "012085ec67240dc4175a9f662651eaabac6a13ce74c255b11991370500739aa8f7d70a",
       "0120f48df146988064dbbd3ab7dd28814883985319a8dc4cf01886c4bfd97cfeb7590a",
-      "0121307058a3489c8aab7a4e94e635f741a4307b2b65985040db7b60834ce0923a3c0a"
+      "0121307058a3489c8aab7a4e94e635f741a4307b2b65985040db7b60834ce0923a3c0a",
+      "01214bdeb9623c5de630467b88b89af959a955a31859be527ddd9a9c82d609d912670a",
+      "0120e8c82abda9c99f35cdd9b15646e7de22a0a025b5f6e752db7476c38b09ada9810a"
     ],
     "subkeys": [
       "01212c9aa47d6c9c5d850b8a6e865800939975ce4e37f6bd221e189d71f1e410543d0a",
-      "0121307058a3489c8aab7a4e94e635f741a4307b2b65985040db7b60834ce0923a3c0a"
+      "0121307058a3489c8aab7a4e94e635f741a4307b2b65985040db7b60834ce0923a3c0a",
+      "01214bdeb9623c5de630467b88b89af959a955a31859be527ddd9a9c82d609d912670a"
     ],
     "sibkeys": [
       "0101dbeed7e98a2a1b0463b8805a1335b16a01fab0d1bc85bd6d7e896a5b87e71d710a",
       "012085ec67240dc4175a9f662651eaabac6a13ce74c255b11991370500739aa8f7d70a",
-      "0120f48df146988064dbbd3ab7dd28814883985319a8dc4cf01886c4bfd97cfeb7590a"
+      "0120f48df146988064dbbd3ab7dd28814883985319a8dc4cf01886c4bfd97cfeb7590a",
+      "0120e8c82abda9c99f35cdd9b15646e7de22a0a025b5f6e752db7476c38b09ada9810a"
     ],
     "families": {
       "0101284edee3ccb01cdea00db15ba3a60f4038314904a816d489ef647f540ddf79b50a": [
@@ -59,7 +63,9 @@
         "01212c9aa47d6c9c5d850b8a6e865800939975ce4e37f6bd221e189d71f1e410543d0a",
         "012085ec67240dc4175a9f662651eaabac6a13ce74c255b11991370500739aa8f7d70a",
         "0120f48df146988064dbbd3ab7dd28814883985319a8dc4cf01886c4bfd97cfeb7590a",
-        "0121307058a3489c8aab7a4e94e635f741a4307b2b65985040db7b60834ce0923a3c0a"
+        "0121307058a3489c8aab7a4e94e635f741a4307b2b65985040db7b60834ce0923a3c0a",
+        "01214bdeb9623c5de630467b88b89af959a955a31859be527ddd9a9c82d609d912670a",
+        "0120e8c82abda9c99f35cdd9b15646e7de22a0a025b5f6e752db7476c38b09ada9810a"
       ]
     },
     "eldest_kid": "0101dbeed7e98a2a1b0463b8805a1335b16a01fab0d1bc85bd6d7e896a5b87e71d710a",
@@ -101,7 +107,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/SijmenSchoon",
+          "nametag": "sijmenschoon",
           "state": 1,
           "proof_url": "https://coinbase.com/SijmenSchoon/public-key",
           "sig_id": "19510fe2c194056a4785faacfd1f89505d48ad3d5164b8c121af19ed8de5769f0f",
@@ -124,6 +130,20 @@
           "service_url": "https://sijmenschoon.nl",
           "presentation_group": "sijmenschoon.nl",
           "presentation_tag": "https"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "sijmenschoon.nl",
+          "state": 1,
+          "proof_url": "https://keybase.io/vijfhoek/sigchain#9742d70cb62e7ea6ae3630883acd82eb3843a8f4b09f7c81089abe674a356da50f",
+          "sig_id": "9742d70cb62e7ea6ae3630883acd82eb3843a8f4b09f7c81089abe674a356da50f",
+          "proof_id": "38f1b358c198d8f06f2a1d10",
+          "human_url": "dns://sijmenschoon.nl",
+          "service_url": "http://sijmenschoon.nl",
+          "presentation_group": "sijmenschoon.nl",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -159,7 +179,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/SijmenSchoon",
+          "nametag": "sijmenschoon",
           "state": 1,
           "proof_url": "https://coinbase.com/SijmenSchoon/public-key",
           "sig_id": "19510fe2c194056a4785faacfd1f89505d48ad3d5164b8c121af19ed8de5769f0f",
@@ -182,6 +202,18 @@
           "service_url": "https://sijmenschoon.nl",
           "presentation_group": "sijmenschoon.nl",
           "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "sijmenschoon.nl",
+          "state": 1,
+          "proof_url": "https://keybase.io/vijfhoek/sigchain#9742d70cb62e7ea6ae3630883acd82eb3843a8f4b09f7c81089abe674a356da50f",
+          "sig_id": "9742d70cb62e7ea6ae3630883acd82eb3843a8f4b09f7c81089abe674a356da50f",
+          "proof_id": "38f1b358c198d8f06f2a1d10",
+          "human_url": "dns://sijmenschoon.nl",
+          "service_url": "http://sijmenschoon.nl",
+          "presentation_group": "sijmenschoon.nl",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -212,7 +244,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/SijmenSchoon",
+        "nametag": "sijmenschoon",
         "state": 1,
         "proof_url": "https://coinbase.com/SijmenSchoon/public-key",
         "sig_id": "19510fe2c194056a4785faacfd1f89505d48ad3d5164b8c121af19ed8de5769f0f",
@@ -221,6 +253,18 @@
         "service_url": "https://coinbase.com/SijmenSchoon",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "sijmenschoon.nl",
+        "state": 1,
+        "proof_url": "https://keybase.io/vijfhoek/sigchain#9742d70cb62e7ea6ae3630883acd82eb3843a8f4b09f7c81089abe674a356da50f",
+        "sig_id": "9742d70cb62e7ea6ae3630883acd82eb3843a8f4b09f7c81089abe674a356da50f",
+        "proof_id": "38f1b358c198d8f06f2a1d10",
+        "human_url": "dns://sijmenschoon.nl",
+        "service_url": "http://sijmenschoon.nl",
+        "presentation_group": "sijmenschoon.nl",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "generic_web_site",
@@ -236,14 +280,7 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {
-    "bitcoin": [
-      {
-        "address": "1P7fj3Pq578b3k744JyT5cE2kAKs8EfKHa",
-        "sig_id": "1aaf7efb2ddd71b8fa15195cb4e820a16cfff18fc6bbac1e04e969d4c6b5ae320f"
-      }
-    ]
-  },
+  "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/5d6dff9bc7c8af6b763609e968f29805_360_360_square_360.png",
@@ -254,9 +291,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "6e2d4208d2b91997bf1c16c784bd267ee360ae1dd0e0e440d680d118de24b7730f",
-      "seqno": 17,
-      "payload_hash": "885d00ad28637334ea32f5715635556f9d458c2e77a9f4a5d6068c2d429d28b5"
+      "sig_id": "0c676ed1c539141e68363cd32d342a51810faa5102b25311ab5e529c3581b2740f",
+      "seqno": 24,
+      "payload_hash": "dacfa7162210cfdf80f54f9f03f6e9fc685167fb7b99bc1a34aea464dead4a24"
     }
   },
   "devices": {
@@ -276,6 +313,25 @@
           "kid": "0121307058a3489c8aab7a4e94e635f741a4307b2b65985040db7b60834ce0923a3c0a",
           "key_role": 2,
           "sig_id": "19ca55b9909aa1c8b71426508ee26bef57620e78c201204569bf3db49de50f7e0f"
+        }
+      ]
+    },
+    "86c1cf94b08f279eaf9146c6f85dbb18": {
+      "type": "desktop",
+      "ctime": 1476128209,
+      "mtime": 1476128209,
+      "name": "sijmen-desktop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120e8c82abda9c99f35cdd9b15646e7de22a0a025b5f6e752db7476c38b09ada9810a",
+          "key_role": 1,
+          "sig_id": "f9499697c22906ac1b5aaa6041c5216c6669a9fccc4793d310516a278a92b9ba0f"
+        },
+        {
+          "kid": "01214bdeb9623c5de630467b88b89af959a955a31859be527ddd9a9c82d609d912670a",
+          "key_role": 2,
+          "sig_id": "831daff2510d17f7ab743f901496cb2feb0209107a3702bea098d6cee8a554530f"
         }
       ]
     },
