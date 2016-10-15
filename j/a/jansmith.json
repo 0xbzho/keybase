@@ -1,0 +1,92 @@
+{
+  "id": "97e75a1fd6a86946d822185622be9619",
+  "basics": {
+    "username": "jansmith",
+    "ctime": 1470053019,
+    "mtime": 1470053019,
+    "id_version": 2,
+    "track_version": 1,
+    "last_id_change": 1470053021,
+    "username_cased": "jansmith"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121a4cc66ea6524cf5084bdb1f94216c3b54a714c22084bd02aa334448f386eea7a0a",
+      "0120740b9dfbd8d2199e3e9ab30d62a8eef6ee9d97b2b3451c456a26a6dd9b09417a0a",
+      "01203caafc00ff3033e96e962578b887c2fe8b66ac26dfcca292ae49641e944601cb0a",
+      "0121a6b1016a963c9205dc0c280ae29dc7c4e02ee4ebbaaea86a19be7bbe30da5c340a"
+    ],
+    "subkeys": [
+      "0121a4cc66ea6524cf5084bdb1f94216c3b54a714c22084bd02aa334448f386eea7a0a",
+      "0121a6b1016a963c9205dc0c280ae29dc7c4e02ee4ebbaaea86a19be7bbe30da5c340a"
+    ],
+    "sibkeys": [
+      "0120740b9dfbd8d2199e3e9ab30d62a8eef6ee9d97b2b3451c456a26a6dd9b09417a0a",
+      "01203caafc00ff3033e96e962578b887c2fe8b66ac26dfcca292ae49641e944601cb0a"
+    ],
+    "families": {
+      "01203caafc00ff3033e96e962578b887c2fe8b66ac26dfcca292ae49641e944601cb0a": [
+        "0121a4cc66ea6524cf5084bdb1f94216c3b54a714c22084bd02aa334448f386eea7a0a",
+        "0120740b9dfbd8d2199e3e9ab30d62a8eef6ee9d97b2b3451c456a26a6dd9b09417a0a",
+        "01203caafc00ff3033e96e962578b887c2fe8b66ac26dfcca292ae49641e944601cb0a",
+        "0121a6b1016a963c9205dc0c280ae29dc7c4e02ee4ebbaaea86a19be7bbe30da5c340a"
+      ]
+    },
+    "eldest_kid": "01203caafc00ff3033e96e962578b887c2fe8b66ac26dfcca292ae49641e944601cb0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "79f8ab28b16ab0f86f3b534c157e66d73eae223a20be7788bf2616d146bf734b0f",
+      "seqno": 5,
+      "payload_hash": "0a1d3ab7f1291342e3a5836b344209914e7af541fb3f0dd5f514f07ca1514391"
+    }
+  },
+  "devices": {
+    "24506e5baa0d69a636c732035e42d018": {
+      "type": "backup",
+      "ctime": 1470053021,
+      "mtime": 1470053021,
+      "name": "symptom ghost",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120740b9dfbd8d2199e3e9ab30d62a8eef6ee9d97b2b3451c456a26a6dd9b09417a0a",
+          "key_role": 1,
+          "sig_id": "e73154e2aafd7c69057dad64f2f0943983e7826bd38f97622c80c4089045b00e0f"
+        },
+        {
+          "kid": "0121a4cc66ea6524cf5084bdb1f94216c3b54a714c22084bd02aa334448f386eea7a0a",
+          "key_role": 2,
+          "sig_id": "e875a887c41833b740e511581ed6ef197de605db9fe7daef45b2532a0ee386660f"
+        }
+      ]
+    },
+    "4d0561ce561d75bfc0d9ccd566fd0c18": {
+      "type": "desktop",
+      "ctime": 1470053021,
+      "mtime": 1470053021,
+      "name": "JSmithHome",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01203caafc00ff3033e96e962578b887c2fe8b66ac26dfcca292ae49641e944601cb0a",
+          "key_role": 1,
+          "sig_id": "f9f43b2caf307036a00503d782f88543afd02d9e0cfeab8d2734a079e0e448100f"
+        },
+        {
+          "kid": "0121a6b1016a963c9205dc0c280ae29dc7c4e02ee4ebbaaea86a19be7bbe30da5c340a",
+          "key_role": 2,
+          "sig_id": "26f3ff4a1cf233ad72764f89bf648c2f97347b3718ba5d26bccc4518f2d6d3920f"
+        }
+      ]
+    }
+  }
+}
