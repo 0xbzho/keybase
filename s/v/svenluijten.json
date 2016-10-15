@@ -4,16 +4,16 @@
     "username": "svenluijten",
     "ctime": 1451938098,
     "mtime": 1451938098,
-    "id_version": 28,
-    "track_version": 20,
-    "last_id_change": 1469303047,
+    "id_version": 32,
+    "track_version": 24,
+    "last_id_change": 1476189379,
     "username_cased": "svenluijten"
   },
   "profile": {
-    "mtime": 1467066900,
+    "mtime": 1476457586,
     "full_name": "Sven Luijten",
     "location": "The Netherlands",
-    "bio": "⚡ PHP developer ⚡"
+    "bio": "🐘  PHP developer ⚡"
   },
   "public_keys": {
     "primary": {
@@ -48,13 +48,11 @@
     ],
     "subkeys": [
       "01215c9bbb5012fe0add7a49a4f58f539b5b27ab78b0d5d5c8dddb30b967be01183e0a",
-      "012119c036aa92de41966c91f4fcb79ba48dc2e3e199afddbaaff98fdc6ae6e1eb290a",
       "01213e19443d0d50c6adec4242bb91bb926fe0ed5e1f477090dd9ac20885ad0a6c5c0a"
     ],
     "sibkeys": [
       "0101fa0f48339a2519b100eee056b80823ba727a0438a293f50e3aa9acccb9da58e40a",
       "012054e7b39910585369fabcd2392566a2a583f533cdd9c792a0f339b1f12f63640a0a",
-      "0120145b1fa018e0428dad3b805ace513880da6b3625efdfe44d55199c2012eeb7250a",
       "0120f8263b7a62c58f038b34c7187551251d0a6eeebb5382522dac24b4a8e9c3f2990a"
     ],
     "families": {
@@ -111,7 +109,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/svenluijten",
+          "nametag": "svenluijten",
           "state": 1,
           "proof_url": "https://coinbase.com/svenluijten/public-key",
           "sig_id": "c936d66650639a27141bd76d4879c4ba8fb0f44b27b7a17ba4c5f1f82f6d23250f",
@@ -181,7 +179,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/svenluijten",
+          "nametag": "svenluijten",
           "state": 1,
           "proof_url": "https://coinbase.com/svenluijten/public-key",
           "sig_id": "c936d66650639a27141bd76d4879c4ba8fb0f44b27b7a17ba4c5f1f82f6d23250f",
@@ -248,7 +246,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/svenluijten",
+        "nametag": "svenluijten",
         "state": 1,
         "proof_url": "https://coinbase.com/svenluijten/public-key",
         "sig_id": "c936d66650639a27141bd76d4879c4ba8fb0f44b27b7a17ba4c5f1f82f6d23250f",
@@ -287,14 +285,14 @@
   "cryptocurrency_addresses": {
     "bitcoin": [
       {
-        "address": "19x1WfnCt5iEorVesWGMToyLpPvzXRoDw3",
-        "sig_id": "14fd86a96c54392078c1a12d0f917b6f87985aebf5b741312588e214406f61de0f"
+        "address": "1D8NTm6kQvTDAoNtpoUQuo5iVFBnBbTy8a",
+        "sig_id": "3c416618bb7e3faea23f253434c5b0e93309dc282bb09817ea2fd3aeb769f3090f"
       }
     ]
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e15fd0a8440bfa62f74da39eda944605_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/766ef06eaebfa1c3201b75cf8e6b9505_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -302,9 +300,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c3859239a88157210bf99d8c665c9d3ea9ee712971f0d902d790a61d43dc643f0f",
-      "seqno": 46,
-      "payload_hash": "843f32ffd57209af81942258a76430e482b8145a6cf769973dcd8229c7c303f9"
+      "sig_id": "3c416618bb7e3faea23f253434c5b0e93309dc282bb09817ea2fd3aeb769f3090f",
+      "seqno": 54,
+      "payload_hash": "821536e76bdc33c702ce6cd6bde594d0ca45327d5570e495f8a580bfaf3f121b"
     }
   },
   "devices": {
@@ -324,25 +322,6 @@
           "kid": "01213e19443d0d50c6adec4242bb91bb926fe0ed5e1f477090dd9ac20885ad0a6c5c0a",
           "key_role": 2,
           "sig_id": "ea1dfc8a2ebf4a6d2021c64851a614638361a7889b427acb6cb8f46f8feaccda0f"
-        }
-      ]
-    },
-    "2c698df22240d609cf7399626b09bf18": {
-      "type": "desktop",
-      "ctime": 1464855138,
-      "mtime": 1464855138,
-      "name": "SchoolPC",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120145b1fa018e0428dad3b805ace513880da6b3625efdfe44d55199c2012eeb7250a",
-          "key_role": 1,
-          "sig_id": "01f52e435a376b3802ab527d178343526623c1239998272242ed455bff3e25240f"
-        },
-        {
-          "kid": "012119c036aa92de41966c91f4fcb79ba48dc2e3e199afddbaaff98fdc6ae6e1eb290a",
-          "key_role": 2,
-          "sig_id": "1db8cc38eee91546ac76db0ec3caa12bc0b8a4cc0dbe14a08b21c98d23b397c60f"
         }
       ]
     },
