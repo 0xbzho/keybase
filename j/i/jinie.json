@@ -4,9 +4,9 @@
     "username": "jinie",
     "ctime": 1421148353,
     "mtime": 1421148353,
-    "id_version": 61,
+    "id_version": 62,
     "track_version": 0,
-    "last_id_change": 1469049555,
+    "last_id_change": 1474664897,
     "username_cased": "jinie"
   },
   "profile": {
@@ -38,16 +38,20 @@
       "0121665deb33b8d2786420629a47a9be9058e95458f4cf84cbc97937e3441ede26780a",
       "0120c5e7753c851f7b36258de587c03aa575ec75784025371f10b3edfc0d3547b5060a",
       "012074fde77b6545b843762b0fce471912ddcb7f294b6e5fad518bed57a9422c58d60a",
-      "012173fc64e9fb6a4715cbdb56f389d0dfce770aba504c4b8d25ed67cbeb967d3d3c0a"
+      "012173fc64e9fb6a4715cbdb56f389d0dfce770aba504c4b8d25ed67cbeb967d3d3c0a",
+      "012087037a43f6e37b8e137be931df90b006d66c3528bdc9ee301cd00580979c9c290a",
+      "01210288dd6dcfa2dfddcfb1194426ab04b44847e8bbef8505881ea3c01974b08d2f0a"
     ],
     "subkeys": [
       "0121665deb33b8d2786420629a47a9be9058e95458f4cf84cbc97937e3441ede26780a",
-      "012173fc64e9fb6a4715cbdb56f389d0dfce770aba504c4b8d25ed67cbeb967d3d3c0a"
+      "012173fc64e9fb6a4715cbdb56f389d0dfce770aba504c4b8d25ed67cbeb967d3d3c0a",
+      "01210288dd6dcfa2dfddcfb1194426ab04b44847e8bbef8505881ea3c01974b08d2f0a"
     ],
     "sibkeys": [
       "0101daf20aea22794a328542f5590306bdc7f5524ccd1ec4246defc569177c0a15ae0a",
       "0120c5e7753c851f7b36258de587c03aa575ec75784025371f10b3edfc0d3547b5060a",
-      "012074fde77b6545b843762b0fce471912ddcb7f294b6e5fad518bed57a9422c58d60a"
+      "012074fde77b6545b843762b0fce471912ddcb7f294b6e5fad518bed57a9422c58d60a",
+      "012087037a43f6e37b8e137be931df90b006d66c3528bdc9ee301cd00580979c9c290a"
     ],
     "families": {
       "0101daf20aea22794a328542f5590306bdc7f5524ccd1ec4246defc569177c0a15ae0a": [
@@ -55,7 +59,9 @@
         "0121665deb33b8d2786420629a47a9be9058e95458f4cf84cbc97937e3441ede26780a",
         "0120c5e7753c851f7b36258de587c03aa575ec75784025371f10b3edfc0d3547b5060a",
         "012074fde77b6545b843762b0fce471912ddcb7f294b6e5fad518bed57a9422c58d60a",
-        "012173fc64e9fb6a4715cbdb56f389d0dfce770aba504c4b8d25ed67cbeb967d3d3c0a"
+        "012173fc64e9fb6a4715cbdb56f389d0dfce770aba504c4b8d25ed67cbeb967d3d3c0a",
+        "012087037a43f6e37b8e137be931df90b006d66c3528bdc9ee301cd00580979c9c290a",
+        "01210288dd6dcfa2dfddcfb1194426ab04b44847e8bbef8505881ea3c01974b08d2f0a"
       ]
     },
     "eldest_kid": "0101daf20aea22794a328542f5590306bdc7f5524ccd1ec4246defc569177c0a15ae0a",
@@ -232,7 +238,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "17kwUK5n2o1F44p5C6SKRtkFvsRCVpwq2U",
+        "sig_id": "eeaf86ddbfd26eee407f5411c5e8d565829616b7910550054265ef1765ba69600f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/1526a635a54e22337d147e673245f505_360_360_square_360.jpeg",
@@ -243,9 +256,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "1aa55d596702ef9139eadc8caa2fcc130fdfedc06b368d412adfb0cba0021dc40f",
-      "seqno": 14,
-      "payload_hash": "29ebc2ba4f0ecd69d71e023a63329570dd0f14210f4312cf504052639ac6f0b9"
+      "sig_id": "a5ee6395b174b7c3f6d5e27b1f70a0a4a2946b5a6a45013b1a2e2e23a559c7900f",
+      "seqno": 17,
+      "payload_hash": "2c89c51659b52571d0c7f0ef7f50e19d7bd74d970b596643c2e88d78c86604de"
     }
   },
   "devices": {
@@ -265,6 +278,25 @@
           "kid": "0121665deb33b8d2786420629a47a9be9058e95458f4cf84cbc97937e3441ede26780a",
           "key_role": 2,
           "sig_id": "b7155934e83bda7ee21ae68f31cf429cd993e461b40ec15936af95f00f8fe97a0f"
+        }
+      ]
+    },
+    "66f058f4af6d6d371db5fa3778691018": {
+      "type": "desktop",
+      "ctime": 1474664897,
+      "mtime": 1474664897,
+      "name": "Frej",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012087037a43f6e37b8e137be931df90b006d66c3528bdc9ee301cd00580979c9c290a",
+          "key_role": 1,
+          "sig_id": "04e7f1321c50974627769adc862dec263cbc89563c2ac696214ea389b37699040f"
+        },
+        {
+          "kid": "01210288dd6dcfa2dfddcfb1194426ab04b44847e8bbef8505881ea3c01974b08d2f0a",
+          "key_role": 2,
+          "sig_id": "a5ee6395b174b7c3f6d5e27b1f70a0a4a2946b5a6a45013b1a2e2e23a559c7900f"
         }
       ]
     },
