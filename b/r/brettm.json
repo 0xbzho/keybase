@@ -1,0 +1,92 @@
+{
+  "id": "3824cec6888e7cc289e0188866e5df19",
+  "basics": {
+    "username": "brettm",
+    "ctime": 1469629360,
+    "mtime": 1469629360,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1469633406,
+    "username_cased": "brettm"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "01206ce2dd20c2bffd54a66f91d996f2ef08c807dade6ef14f34ff93fe7af4382a630a",
+      "0121398160f1cc5d903feda6f2510bd018a2870fdbfd1a876f3c7823df3b16584a130a",
+      "0121af4f927a1ad86949c13d4116877b99338df1f7e6a123d16323acd3d43854b86e0a",
+      "01207aac4cb0211a6f5d5343e8811d2acb33f1451693387387cb2fe8b86eb25fdc080a"
+    ],
+    "subkeys": [
+      "0121398160f1cc5d903feda6f2510bd018a2870fdbfd1a876f3c7823df3b16584a130a",
+      "0121af4f927a1ad86949c13d4116877b99338df1f7e6a123d16323acd3d43854b86e0a"
+    ],
+    "sibkeys": [
+      "01206ce2dd20c2bffd54a66f91d996f2ef08c807dade6ef14f34ff93fe7af4382a630a",
+      "01207aac4cb0211a6f5d5343e8811d2acb33f1451693387387cb2fe8b86eb25fdc080a"
+    ],
+    "families": {
+      "01207aac4cb0211a6f5d5343e8811d2acb33f1451693387387cb2fe8b86eb25fdc080a": [
+        "01206ce2dd20c2bffd54a66f91d996f2ef08c807dade6ef14f34ff93fe7af4382a630a",
+        "0121398160f1cc5d903feda6f2510bd018a2870fdbfd1a876f3c7823df3b16584a130a",
+        "0121af4f927a1ad86949c13d4116877b99338df1f7e6a123d16323acd3d43854b86e0a",
+        "01207aac4cb0211a6f5d5343e8811d2acb33f1451693387387cb2fe8b86eb25fdc080a"
+      ]
+    },
+    "eldest_kid": "01207aac4cb0211a6f5d5343e8811d2acb33f1451693387387cb2fe8b86eb25fdc080a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "9e41d792973c79a5d274b316ebff2a524e4cb84a8171f1e682fdfe1ea859b3cf0f",
+      "seqno": 4,
+      "payload_hash": "ca6392812997e53a5c9482daaa6f9e5a084ac547022e275c395d67efc2780f59"
+    }
+  },
+  "devices": {
+    "17bd63230d5788dad0f13858fba68c18": {
+      "type": "backup",
+      "ctime": 1469633406,
+      "mtime": 1469633406,
+      "name": "clown engage",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01206ce2dd20c2bffd54a66f91d996f2ef08c807dade6ef14f34ff93fe7af4382a630a",
+          "key_role": 1,
+          "sig_id": "6bc71adce48bc56e39818a9d61354bf37f9ef3bec3d29cdfabf518f3917769ac0f"
+        },
+        {
+          "kid": "0121af4f927a1ad86949c13d4116877b99338df1f7e6a123d16323acd3d43854b86e0a",
+          "key_role": 2,
+          "sig_id": "9e41d792973c79a5d274b316ebff2a524e4cb84a8171f1e682fdfe1ea859b3cf0f"
+        }
+      ]
+    },
+    "59fcb6703264b6063b80a2c2c1f1b618": {
+      "type": "desktop",
+      "ctime": 1469633406,
+      "mtime": 1469633406,
+      "name": "w-mb",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207aac4cb0211a6f5d5343e8811d2acb33f1451693387387cb2fe8b86eb25fdc080a",
+          "key_role": 1,
+          "sig_id": "9c90634c6f69aa768a1385f889c0ef757e129fb84f945c7930af36b1f018689b0f"
+        },
+        {
+          "kid": "0121398160f1cc5d903feda6f2510bd018a2870fdbfd1a876f3c7823df3b16584a130a",
+          "key_role": 2,
+          "sig_id": "c4c6464b3d88f581263c9d0b2f35d6c34e5b30873e8dc6bae94846af3ca193340f"
+        }
+      ]
+    }
+  }
+}
