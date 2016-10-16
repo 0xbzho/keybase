@@ -4,9 +4,9 @@
     "username": "jaydm",
     "ctime": 1397056834,
     "mtime": 1397056834,
-    "id_version": 28,
-    "track_version": 8,
-    "last_id_change": 1464461936,
+    "id_version": 35,
+    "track_version": 10,
+    "last_id_change": 1471387391,
     "username_cased": "JayDM"
   },
   "profile": {
@@ -38,16 +38,18 @@
       "0121d682b65e6607eeff5a6b694b7c5d120c707da9d632e7d82fdd56f1a005bd671e0a",
       "0120611217a5b052a7a334f6b4c8426402d765663ab3067ac47d78e310a52422460a0a",
       "0121b1c767c55fe4ff84fb03132de39e80e93395152afbe1a59f23ed6bf93f5ef31e0a",
-      "01206de37852a5f0bc026fc65d29e50c6ac62ef50786331aca637a6cd6995af2f48e0a"
+      "01206de37852a5f0bc026fc65d29e50c6ac62ef50786331aca637a6cd6995af2f48e0a",
+      "0121544e3b5d0966c15c9a4f8679bd639c36f84ddb09bfb92694ea952cdd70c522150a",
+      "0120b555b53e2bc27aa01f483c99543397cc5a30409d5fd2855c75c54384073c7fb10a"
     ],
     "subkeys": [
       "0121d682b65e6607eeff5a6b694b7c5d120c707da9d632e7d82fdd56f1a005bd671e0a",
-      "0121b1c767c55fe4ff84fb03132de39e80e93395152afbe1a59f23ed6bf93f5ef31e0a"
+      "0121544e3b5d0966c15c9a4f8679bd639c36f84ddb09bfb92694ea952cdd70c522150a"
     ],
     "sibkeys": [
       "0101bb07d3fe0d514f34a9c3dfe5b3ec86ee38151e3a25a796e3cc6c64274e666fc60a",
       "0120611217a5b052a7a334f6b4c8426402d765663ab3067ac47d78e310a52422460a0a",
-      "01206de37852a5f0bc026fc65d29e50c6ac62ef50786331aca637a6cd6995af2f48e0a"
+      "0120b555b53e2bc27aa01f483c99543397cc5a30409d5fd2855c75c54384073c7fb10a"
     ],
     "families": {
       "0101bb07d3fe0d514f34a9c3dfe5b3ec86ee38151e3a25a796e3cc6c64274e666fc60a": [
@@ -55,7 +57,9 @@
         "0121d682b65e6607eeff5a6b694b7c5d120c707da9d632e7d82fdd56f1a005bd671e0a",
         "0120611217a5b052a7a334f6b4c8426402d765663ab3067ac47d78e310a52422460a0a",
         "0121b1c767c55fe4ff84fb03132de39e80e93395152afbe1a59f23ed6bf93f5ef31e0a",
-        "01206de37852a5f0bc026fc65d29e50c6ac62ef50786331aca637a6cd6995af2f48e0a"
+        "01206de37852a5f0bc026fc65d29e50c6ac62ef50786331aca637a6cd6995af2f48e0a",
+        "0121544e3b5d0966c15c9a4f8679bd639c36f84ddb09bfb92694ea952cdd70c522150a",
+        "0120b555b53e2bc27aa01f483c99543397cc5a30409d5fd2855c75c54384073c7fb10a"
       ]
     },
     "eldest_kid": "0101bb07d3fe0d514f34a9c3dfe5b3ec86ee38151e3a25a796e3cc6c64274e666fc60a",
@@ -94,7 +98,33 @@
           "presentation_tag": "gist"
         }
       ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "jay_dm",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4y2bxk/my_keybase_proof_redditjay_dm_keybasejaydm/",
+          "sig_id": "f187f6109569c888f41191f03a30994b9a0e217006782ed06861ade3013e6aeb0f",
+          "proof_id": "966e50087e08db1c350e4210",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4y2bxk/my_keybase_proof_redditjay_dm_keybasejaydm/",
+          "service_url": "https://reddit.com/user/jay_dm",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "bhindsight.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaydm/sigchain#2b3cc1c1e31aef6b9d5bda7ee3e3657ec6421a0aafd04ac27a8f44533e02f20f0f",
+          "sig_id": "2b3cc1c1e31aef6b9d5bda7ee3e3657ec6421a0aafd04ac27a8f44533e02f20f0f",
+          "proof_id": "1be0987e2bd0011fcd78a710",
+          "human_url": "dns://bhindsight.com",
+          "service_url": "http://bhindsight.com",
+          "presentation_group": "bhindsight.com",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "jnwd.net",
@@ -105,6 +135,18 @@
           "human_url": "dns://jnwd.net",
           "service_url": "http://jnwd.net",
           "presentation_group": "jnwd.net",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "joyfulnoisewebdesign.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaydm/sigchain#7c6d059ad713fed61d1bb922cc308d5b9207c879ea59a9342e66150d095d85e70f",
+          "sig_id": "7c6d059ad713fed61d1bb922cc308d5b9207c879ea59a9342e66150d095d85e70f",
+          "proof_id": "e2a8adfc134ac5ab21be1e10",
+          "human_url": "dns://joyfulnoisewebdesign.com",
+          "service_url": "http://joyfulnoisewebdesign.com",
+          "presentation_group": "joyfulnoisewebdesign.com",
           "presentation_tag": "dns"
         }
       ]
@@ -138,6 +180,34 @@
           "presentation_tag": "gist"
         }
       ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "jay_dm",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4y2bxk/my_keybase_proof_redditjay_dm_keybasejaydm/",
+          "sig_id": "f187f6109569c888f41191f03a30994b9a0e217006782ed06861ade3013e6aeb0f",
+          "proof_id": "966e50087e08db1c350e4210",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4y2bxk/my_keybase_proof_redditjay_dm_keybasejaydm/",
+          "service_url": "https://reddit.com/user/jay_dm",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "bhindsight.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "bhindsight.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaydm/sigchain#2b3cc1c1e31aef6b9d5bda7ee3e3657ec6421a0aafd04ac27a8f44533e02f20f0f",
+          "sig_id": "2b3cc1c1e31aef6b9d5bda7ee3e3657ec6421a0aafd04ac27a8f44533e02f20f0f",
+          "proof_id": "1be0987e2bd0011fcd78a710",
+          "human_url": "dns://bhindsight.com",
+          "service_url": "http://bhindsight.com",
+          "presentation_group": "bhindsight.com",
+          "presentation_tag": "dns"
+        }
+      ],
       "jnwd.net": [
         {
           "proof_type": "dns",
@@ -149,6 +219,20 @@
           "human_url": "dns://jnwd.net",
           "service_url": "http://jnwd.net",
           "presentation_group": "jnwd.net",
+          "presentation_tag": "dns"
+        }
+      ],
+      "joyfulnoisewebdesign.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "joyfulnoisewebdesign.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/jaydm/sigchain#7c6d059ad713fed61d1bb922cc308d5b9207c879ea59a9342e66150d095d85e70f",
+          "sig_id": "7c6d059ad713fed61d1bb922cc308d5b9207c879ea59a9342e66150d095d85e70f",
+          "proof_id": "e2a8adfc134ac5ab21be1e10",
+          "human_url": "dns://joyfulnoisewebdesign.com",
+          "service_url": "http://joyfulnoisewebdesign.com",
+          "presentation_group": "joyfulnoisewebdesign.com",
           "presentation_tag": "dns"
         }
       ]
@@ -179,6 +263,30 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "reddit",
+        "nametag": "jay_dm",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/4y2bxk/my_keybase_proof_redditjay_dm_keybasejaydm/",
+        "sig_id": "f187f6109569c888f41191f03a30994b9a0e217006782ed06861ade3013e6aeb0f",
+        "proof_id": "966e50087e08db1c350e4210",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/4y2bxk/my_keybase_proof_redditjay_dm_keybasejaydm/",
+        "service_url": "https://reddit.com/user/jay_dm",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "bhindsight.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/jaydm/sigchain#2b3cc1c1e31aef6b9d5bda7ee3e3657ec6421a0aafd04ac27a8f44533e02f20f0f",
+        "sig_id": "2b3cc1c1e31aef6b9d5bda7ee3e3657ec6421a0aafd04ac27a8f44533e02f20f0f",
+        "proof_id": "1be0987e2bd0011fcd78a710",
+        "human_url": "dns://bhindsight.com",
+        "service_url": "http://bhindsight.com",
+        "presentation_group": "bhindsight.com",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "dns",
         "nametag": "jnwd.net",
         "state": 1,
@@ -188,6 +296,18 @@
         "human_url": "dns://jnwd.net",
         "service_url": "http://jnwd.net",
         "presentation_group": "jnwd.net",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "joyfulnoisewebdesign.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/jaydm/sigchain#7c6d059ad713fed61d1bb922cc308d5b9207c879ea59a9342e66150d095d85e70f",
+        "sig_id": "7c6d059ad713fed61d1bb922cc308d5b9207c879ea59a9342e66150d095d85e70f",
+        "proof_id": "e2a8adfc134ac5ab21be1e10",
+        "human_url": "dns://joyfulnoisewebdesign.com",
+        "service_url": "http://joyfulnoisewebdesign.com",
+        "presentation_group": "joyfulnoisewebdesign.com",
         "presentation_tag": "dns"
       }
     ]
@@ -210,12 +330,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2cd7a0a34065b6a72287713b1b1503046ab307de7801b3e6349f1907ad28282c0f",
-      "seqno": 19,
-      "payload_hash": "41dafdc4481620c67769b93f6c91f8fc445e0defdf4c1845693596982e83d55c"
+      "sig_id": "7cc15c946b8f8b7823cbd2c757d40a545be450d6ac73dc4c05c881d65e42f7330f",
+      "seqno": 25,
+      "payload_hash": "fdf324f9a99294b0d18640b17151d1590e967a7e71412f9698c4af83de4c7e4d"
     }
   },
   "devices": {
+    "25453a6bcfd1144de902385950c3e418": {
+      "type": "backup",
+      "ctime": 1471363766,
+      "mtime": 1471363766,
+      "name": "journey arm",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b555b53e2bc27aa01f483c99543397cc5a30409d5fd2855c75c54384073c7fb10a",
+          "key_role": 1,
+          "sig_id": "1f3f2765ab57140cdc1f92b66521ad04b7522c9da91b204ab1dc7aa796a1cc960f"
+        },
+        {
+          "kid": "0121544e3b5d0966c15c9a4f8679bd639c36f84ddb09bfb92694ea952cdd70c522150a",
+          "key_role": 2,
+          "sig_id": "075b208d972934ccc581d5d7dd8154c004a9b72cde5acc3c86dfdfa78bf082bd0f"
+        }
+      ]
+    },
     "6168f32efb11e5b1c573fb80637d5918": {
       "type": "desktop",
       "ctime": 1464461936,
@@ -232,25 +371,6 @@
           "kid": "0121d682b65e6607eeff5a6b694b7c5d120c707da9d632e7d82fdd56f1a005bd671e0a",
           "key_role": 2,
           "sig_id": "dde7564f194dc2a4c8bd6c9fdddd0bfdbc5e03d9aed69246d5155d792c634f0e0f"
-        }
-      ]
-    },
-    "eb0689178a2ad5f74a2d920455235c18": {
-      "type": "backup",
-      "ctime": 1464461936,
-      "mtime": 1464461936,
-      "name": "lounge below",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01206de37852a5f0bc026fc65d29e50c6ac62ef50786331aca637a6cd6995af2f48e0a",
-          "key_role": 1,
-          "sig_id": "05719803d489eb4efd3fc1c1724d6fa296f0490025a09c133f86dcac82f48f8e0f"
-        },
-        {
-          "kid": "0121b1c767c55fe4ff84fb03132de39e80e93395152afbe1a59f23ed6bf93f5ef31e0a",
-          "key_role": 2,
-          "sig_id": "2cd7a0a34065b6a72287713b1b1503046ab307de7801b3e6349f1907ad28282c0f"
         }
       ]
     }
