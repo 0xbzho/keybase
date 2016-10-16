@@ -4,9 +4,9 @@
     "username": "jabley",
     "ctime": 1399762311,
     "mtime": 1399762311,
-    "id_version": 100,
+    "id_version": 101,
     "track_version": 36,
-    "last_id_change": 1476551055,
+    "last_id_change": 1476584020,
     "username_cased": "jabley"
   },
   "profile": {
@@ -169,18 +169,6 @@
         },
         {
           "proof_type": "dns",
-          "nametag": "flapdoodle.org",
-          "state": 1,
-          "proof_url": "https://keybase.io/jabley/sigchain#550c60f9cb58eaf461a6d4d6a6b420b34c00dd830f3561ab3c7926bbdb7eaeed0f",
-          "sig_id": "550c60f9cb58eaf461a6d4d6a6b420b34c00dd830f3561ab3c7926bbdb7eaeed0f",
-          "proof_id": "a4b35349e4e3cdb7bcf46910",
-          "human_url": "dns://flapdoodle.org",
-          "service_url": "http://flapdoodle.org",
-          "presentation_group": "flapdoodle.org",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
           "nametag": "dnssec-servers.net",
           "state": 1,
           "proof_url": "https://keybase.io/jabley/sigchain#560c93d8487e7202c1d3d13f7c1a71485dd2d9524c74f67c5e06225e453cf2350f",
@@ -316,20 +304,6 @@
           "presentation_tag": "dns"
         }
       ],
-      "flapdoodle.org": [
-        {
-          "proof_type": "dns",
-          "nametag": "flapdoodle.org",
-          "state": 1,
-          "proof_url": "https://keybase.io/jabley/sigchain#550c60f9cb58eaf461a6d4d6a6b420b34c00dd830f3561ab3c7926bbdb7eaeed0f",
-          "sig_id": "550c60f9cb58eaf461a6d4d6a6b420b34c00dd830f3561ab3c7926bbdb7eaeed0f",
-          "proof_id": "a4b35349e4e3cdb7bcf46910",
-          "human_url": "dns://flapdoodle.org",
-          "service_url": "http://flapdoodle.org",
-          "presentation_group": "flapdoodle.org",
-          "presentation_tag": "dns"
-        }
-      ],
       "dnssec-servers.net": [
         {
           "proof_type": "dns",
@@ -375,18 +349,6 @@
     },
     "all": [
       {
-        "proof_type": "dns",
-        "nametag": "snarkhunter.org",
-        "state": 1,
-        "proof_url": "https://keybase.io/jabley/sigchain#a52b304a6f78599fc9a8236f6624d69ecabad71386ccdfd61fd873917e1624180f",
-        "sig_id": "a52b304a6f78599fc9a8236f6624d69ecabad71386ccdfd61fd873917e1624180f",
-        "proof_id": "4145f1bbf11f170cf422ff10",
-        "human_url": "dns://snarkhunter.org",
-        "service_url": "http://snarkhunter.org",
-        "presentation_group": "snarkhunter.org",
-        "presentation_tag": "dns"
-      },
-      {
         "proof_type": "twitter",
         "nametag": "ableyjoe",
         "state": 1,
@@ -397,6 +359,18 @@
         "service_url": "https://twitter.com/ableyjoe",
         "presentation_group": "twitter",
         "presentation_tag": "tweet"
+      },
+      {
+        "proof_type": "github",
+        "nametag": "ableyjoe",
+        "state": 1,
+        "proof_url": "https://gist.github.com/948cbb1346722f7718db",
+        "sig_id": "c9579fe82d95a1a7484568cfbc27a86555564bff9b4ab4846989ad88223c84110f",
+        "proof_id": "46b2c85993d03d7dcbc6fa10",
+        "human_url": "https://gist.github.com/948cbb1346722f7718db",
+        "service_url": "https://github.com/ableyjoe",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
       },
       {
         "proof_type": "reddit",
@@ -435,16 +409,16 @@
         "presentation_tag": "dns"
       },
       {
-        "proof_type": "github",
-        "nametag": "ableyjoe",
+        "proof_type": "dns",
+        "nametag": "snarkhunter.org",
         "state": 1,
-        "proof_url": "https://gist.github.com/948cbb1346722f7718db",
-        "sig_id": "c9579fe82d95a1a7484568cfbc27a86555564bff9b4ab4846989ad88223c84110f",
-        "proof_id": "46b2c85993d03d7dcbc6fa10",
-        "human_url": "https://gist.github.com/948cbb1346722f7718db",
-        "service_url": "https://github.com/ableyjoe",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
+        "proof_url": "https://keybase.io/jabley/sigchain#a52b304a6f78599fc9a8236f6624d69ecabad71386ccdfd61fd873917e1624180f",
+        "sig_id": "a52b304a6f78599fc9a8236f6624d69ecabad71386ccdfd61fd873917e1624180f",
+        "proof_id": "4145f1bbf11f170cf422ff10",
+        "human_url": "dns://snarkhunter.org",
+        "service_url": "http://snarkhunter.org",
+        "presentation_group": "snarkhunter.org",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -456,18 +430,6 @@
         "human_url": "dns://troublemaking.geek.nz",
         "service_url": "http://troublemaking.geek.nz",
         "presentation_group": "troublemaking.geek.nz",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "flapdoodle.org",
-        "state": 1,
-        "proof_url": "https://keybase.io/jabley/sigchain#550c60f9cb58eaf461a6d4d6a6b420b34c00dd830f3561ab3c7926bbdb7eaeed0f",
-        "sig_id": "550c60f9cb58eaf461a6d4d6a6b420b34c00dd830f3561ab3c7926bbdb7eaeed0f",
-        "proof_id": "a4b35349e4e3cdb7bcf46910",
-        "human_url": "dns://flapdoodle.org",
-        "service_url": "http://flapdoodle.org",
-        "presentation_group": "flapdoodle.org",
         "presentation_tag": "dns"
       },
       {
