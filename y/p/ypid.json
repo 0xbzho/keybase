@@ -4,16 +4,16 @@
     "username": "ypid",
     "ctime": 1433605788,
     "mtime": 1433605788,
-    "id_version": 11,
-    "track_version": 0,
-    "last_id_change": 1467417179,
+    "id_version": 16,
+    "track_version": 1,
+    "last_id_change": 1474580388,
     "username_cased": "ypid"
   },
   "profile": {
-    "mtime": 1433605852,
+    "mtime": 1473109843,
     "full_name": "Robin Schneider",
-    "location": "Germany",
-    "bio": null
+    "location": "BW, Germany, Earth && Cipherspace",
+    "bio": "Working on Free Software as in Freedom.  Linux system administrator,  DebOps Developer and OSM opening_hours developer."
   },
   "public_keys": {
     "primary": {
@@ -66,6 +66,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ypid.de",
+          "state": 1,
+          "proof_url": "http://ypid.de/keybase.txt",
+          "sig_id": "546037411255497027f6f6ce2bfb43c8693e2f083084f4da8d9a0a5194cb0c840f",
+          "proof_id": "b06f7e6967ae66721371c610",
+          "human_url": "http://ypid.de/keybase.txt",
+          "service_url": "http://ypid.de",
+          "presentation_group": "ypid.de",
+          "presentation_tag": "http"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "ypid.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/ypid/sigchain#08db2f330e9370d3e05d5af4c954c0442dd62d48931402985fa1a5ad628fe3860f",
+          "sig_id": "08db2f330e9370d3e05d5af4c954c0442dd62d48931402985fa1a5ad628fe3860f",
+          "proof_id": "26a990ad323012ece5012510",
+          "human_url": "dns://ypid.de",
+          "service_url": "http://ypid.de",
+          "presentation_group": "ypid.de",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -82,6 +110,32 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "ypid.de": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ypid.de",
+          "state": 1,
+          "proof_url": "http://ypid.de/keybase.txt",
+          "sig_id": "546037411255497027f6f6ce2bfb43c8693e2f083084f4da8d9a0a5194cb0c840f",
+          "proof_id": "b06f7e6967ae66721371c610",
+          "human_url": "http://ypid.de/keybase.txt",
+          "service_url": "http://ypid.de",
+          "presentation_group": "ypid.de",
+          "presentation_tag": "http"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "ypid.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/ypid/sigchain#08db2f330e9370d3e05d5af4c954c0442dd62d48931402985fa1a5ad628fe3860f",
+          "sig_id": "08db2f330e9370d3e05d5af4c954c0442dd62d48931402985fa1a5ad628fe3860f",
+          "proof_id": "26a990ad323012ece5012510",
+          "human_url": "dns://ypid.de",
+          "service_url": "http://ypid.de",
+          "presentation_group": "ypid.de",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -96,6 +150,30 @@
         "service_url": "https://github.com/ypid",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "ypid.de",
+        "state": 1,
+        "proof_url": "https://keybase.io/ypid/sigchain#08db2f330e9370d3e05d5af4c954c0442dd62d48931402985fa1a5ad628fe3860f",
+        "sig_id": "08db2f330e9370d3e05d5af4c954c0442dd62d48931402985fa1a5ad628fe3860f",
+        "proof_id": "26a990ad323012ece5012510",
+        "human_url": "dns://ypid.de",
+        "service_url": "http://ypid.de",
+        "presentation_group": "ypid.de",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "ypid.de",
+        "state": 1,
+        "proof_url": "http://ypid.de/keybase.txt",
+        "sig_id": "546037411255497027f6f6ce2bfb43c8693e2f083084f4da8d9a0a5194cb0c840f",
+        "proof_id": "b06f7e6967ae66721371c610",
+        "human_url": "http://ypid.de/keybase.txt",
+        "service_url": "http://ypid.de",
+        "presentation_group": "ypid.de",
+        "presentation_tag": "http"
       }
     ]
   },
@@ -117,9 +195,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "546037411255497027f6f6ce2bfb43c8693e2f083084f4da8d9a0a5194cb0c840f",
-      "seqno": 4,
-      "payload_hash": "dfc560c6e18c23971e06297b1f846f0883c7a307dc73b97270c338be66e26126"
+      "sig_id": "08db2f330e9370d3e05d5af4c954c0442dd62d48931402985fa1a5ad628fe3860f",
+      "seqno": 6,
+      "payload_hash": "b4249868aa073379207d27912f4792f26a0b47d5bdac22c47a41a52c0a32a493"
     }
   },
   "devices": {}
