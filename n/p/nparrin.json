@@ -1,0 +1,92 @@
+{
+  "id": "2e2c6140c746a66b9410bc4478a66b19",
+  "basics": {
+    "username": "nparrin",
+    "ctime": 1467101275,
+    "mtime": 1467101275,
+    "id_version": 5,
+    "track_version": 0,
+    "last_id_change": 1467104714,
+    "username_cased": "nparrin"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "012115dd84ce1af83c45f162f108690606d6e5fcb887fb4364645354b95c4ddf607e0a",
+      "012010fd4028eb0db60e0157ef63fab02216a9c886b51667ab1c52f0e85355a9ad880a",
+      "01203cd058a603bc896a7c105176ed7798407784a948db10218b070ecbbc9d2ace960a",
+      "012184a1d2ee5c9dd7750ded097916b83159dac22733417cb1a7e1d37296fa17e20f0a"
+    ],
+    "subkeys": [
+      "012115dd84ce1af83c45f162f108690606d6e5fcb887fb4364645354b95c4ddf607e0a",
+      "012184a1d2ee5c9dd7750ded097916b83159dac22733417cb1a7e1d37296fa17e20f0a"
+    ],
+    "sibkeys": [
+      "012010fd4028eb0db60e0157ef63fab02216a9c886b51667ab1c52f0e85355a9ad880a",
+      "01203cd058a603bc896a7c105176ed7798407784a948db10218b070ecbbc9d2ace960a"
+    ],
+    "families": {
+      "012010fd4028eb0db60e0157ef63fab02216a9c886b51667ab1c52f0e85355a9ad880a": [
+        "012115dd84ce1af83c45f162f108690606d6e5fcb887fb4364645354b95c4ddf607e0a",
+        "012010fd4028eb0db60e0157ef63fab02216a9c886b51667ab1c52f0e85355a9ad880a",
+        "01203cd058a603bc896a7c105176ed7798407784a948db10218b070ecbbc9d2ace960a",
+        "012184a1d2ee5c9dd7750ded097916b83159dac22733417cb1a7e1d37296fa17e20f0a"
+      ]
+    },
+    "eldest_kid": "012010fd4028eb0db60e0157ef63fab02216a9c886b51667ab1c52f0e85355a9ad880a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "c0b48f9dc221b7071671ab3d8bcd7d7875bb6780bbef4a38f36ec67f09fb05100f",
+      "seqno": 5,
+      "payload_hash": "67c26f60334c1554c3bfaee285fac34b173e5ae5663e5459828c101c4f8921ac"
+    }
+  },
+  "devices": {
+    "040e8b989ff8abeee9dbc35114f4dd18": {
+      "type": "backup",
+      "ctime": 1467102043,
+      "mtime": 1467102043,
+      "name": "shy romance",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01203cd058a603bc896a7c105176ed7798407784a948db10218b070ecbbc9d2ace960a",
+          "key_role": 1,
+          "sig_id": "9a792a6621c50776f250e799233401db481367e69ec2f8577233fbe95201810a0f"
+        },
+        {
+          "kid": "012184a1d2ee5c9dd7750ded097916b83159dac22733417cb1a7e1d37296fa17e20f0a",
+          "key_role": 2,
+          "sig_id": "96ba1d26f0dad6950146336c8446f60b455dcb7aa278332c27a44703981cc8620f"
+        }
+      ]
+    },
+    "ef9a85d356cec026d40efd7194a39e18": {
+      "type": "desktop",
+      "ctime": 1467102042,
+      "mtime": 1467102042,
+      "name": "macbook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012010fd4028eb0db60e0157ef63fab02216a9c886b51667ab1c52f0e85355a9ad880a",
+          "key_role": 1,
+          "sig_id": "fb5958afc3176051239ce307634e2c6293b72b8d547990f37b8487727d8db3570f"
+        },
+        {
+          "kid": "012115dd84ce1af83c45f162f108690606d6e5fcb887fb4364645354b95c4ddf607e0a",
+          "key_role": 2,
+          "sig_id": "f0414f21a6e9c30a576ff50460140f60e16c8c872e6174fc271a636d5d76b2420f"
+        }
+      ]
+    }
+  }
+}
