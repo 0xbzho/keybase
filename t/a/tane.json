@@ -4,9 +4,9 @@
     "username": "tane",
     "ctime": 1429039329,
     "mtime": 1429039329,
-    "id_version": 51,
+    "id_version": 54,
     "track_version": 0,
-    "last_id_change": 1458541833,
+    "last_id_change": 1470989972,
     "username_cased": "tane"
   },
   "profile": {
@@ -70,7 +70,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/tane",
+          "nametag": "tane",
           "state": 1,
           "proof_url": "https://coinbase.com/tane/public-key",
           "sig_id": "c81aeafce7cf6b1f53d3ff2567a65ad684022034ee7de7cebeec229b4b37564f0f",
@@ -79,6 +79,20 @@
           "service_url": "https://coinbase.com/tane",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "tane.nz",
+          "state": 1,
+          "proof_url": "https://keybase.io/tane/sigchain#9d3053f11488d7e37a54329fd31616ab9092477c51d3c6339af685fba701c0130f",
+          "sig_id": "9d3053f11488d7e37a54329fd31616ab9092477c51d3c6339af685fba701c0130f",
+          "proof_id": "e5e04ddbcddb31e334c0f710",
+          "human_url": "dns://tane.nz",
+          "service_url": "http://tane.nz",
+          "presentation_group": "tane.nz",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -100,7 +114,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/tane",
+          "nametag": "tane",
           "state": 1,
           "proof_url": "https://coinbase.com/tane/public-key",
           "sig_id": "c81aeafce7cf6b1f53d3ff2567a65ad684022034ee7de7cebeec229b4b37564f0f",
@@ -109,6 +123,20 @@
           "service_url": "https://coinbase.com/tane",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "tane.nz": [
+        {
+          "proof_type": "dns",
+          "nametag": "tane.nz",
+          "state": 1,
+          "proof_url": "https://keybase.io/tane/sigchain#9d3053f11488d7e37a54329fd31616ab9092477c51d3c6339af685fba701c0130f",
+          "sig_id": "9d3053f11488d7e37a54329fd31616ab9092477c51d3c6339af685fba701c0130f",
+          "proof_id": "e5e04ddbcddb31e334c0f710",
+          "human_url": "dns://tane.nz",
+          "service_url": "http://tane.nz",
+          "presentation_group": "tane.nz",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -127,7 +155,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/tane",
+        "nametag": "tane",
         "state": 1,
         "proof_url": "https://coinbase.com/tane/public-key",
         "sig_id": "c81aeafce7cf6b1f53d3ff2567a65ad684022034ee7de7cebeec229b4b37564f0f",
@@ -136,6 +164,18 @@
         "service_url": "https://coinbase.com/tane",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "tane.nz",
+        "state": 1,
+        "proof_url": "https://keybase.io/tane/sigchain#9d3053f11488d7e37a54329fd31616ab9092477c51d3c6339af685fba701c0130f",
+        "sig_id": "9d3053f11488d7e37a54329fd31616ab9092477c51d3c6339af685fba701c0130f",
+        "proof_id": "e5e04ddbcddb31e334c0f710",
+        "human_url": "dns://tane.nz",
+        "service_url": "http://tane.nz",
+        "presentation_group": "tane.nz",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -157,9 +197,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "1091b27ac60a57a6fcd6797000d36ea1538c60e125b4a23ed1ce782c1858c1ec0f",
-      "seqno": 11,
-      "payload_hash": "b9f3924b5c7940fa67ce40126e9ef86ee2a1130290e6feb76badac249ee08ddf"
+      "sig_id": "9d3053f11488d7e37a54329fd31616ab9092477c51d3c6339af685fba701c0130f",
+      "seqno": 12,
+      "payload_hash": "a4ef5edb8612ea6ed9a2c64a05db60682bf571d07e2e44c08ea4624ce2be7974"
     }
   },
   "devices": {}
