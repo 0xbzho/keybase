@@ -4,16 +4,16 @@
     "username": "ryanlester",
     "ctime": 1433666890,
     "mtime": 1433666890,
-    "id_version": 4,
+    "id_version": 12,
     "track_version": 2,
-    "last_id_change": 1433667295,
+    "last_id_change": 1472429394,
     "username_cased": "ryanlester"
   },
   "profile": {
-    "mtime": 1433667235,
+    "mtime": 1472429599,
     "full_name": "Ryan Lester",
     "location": "Washington, DC",
-    "bio": "Cyph, SpaceX, Napster.fm"
+    "bio": "CEO @ Cyph, former SpaceXer, speaker @ Black Hat 2016 & DEF CON 24, first person ever sued by Napster\n————————————————\nContact: hacker@linux.com\n————————————————"
   },
   "public_keys": {
     "primary": {
@@ -53,6 +53,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "theryanlester",
+          "state": 1,
+          "proof_url": "https://twitter.com/theryanlester/status/769218900810604544",
+          "sig_id": "ed413d681c93fe79e0d2469f4fc73ec5dece21dfb2886bdec6b5e458b79345860f",
+          "proof_id": "fb2e2e853a31faa9691ef710",
+          "human_url": "https://twitter.com/theryanlester/status/769218900810604544",
+          "service_url": "https://twitter.com/theryanlester",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -65,10 +79,52 @@
           "service_url": "https://github.com/buu700",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "buu700",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/50281r/my_keybase_proof_redditbuu700_keybaseryanlester/",
+          "sig_id": "b2c1fd4e25707414b09bc188250e6674ad0c4e06349496954668cc7dc273a9580f",
+          "proof_id": "6cb1857d99ed64560b18b610",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/50281r/my_keybase_proof_redditbuu700_keybaseryanlester/",
+          "service_url": "https://reddit.com/user/buu700",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "cyph.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/ryanlester/sigchain#bbc2ea3d1760562773932f3fb09fe5d82a88f6d0f7aadb4e42a8f2e10aafc2740f",
+          "sig_id": "bbc2ea3d1760562773932f3fb09fe5d82a88f6d0f7aadb4e42a8f2e10aafc2740f",
+          "proof_id": "b9d3e1016f60fe33e08a0d10",
+          "human_url": "dns://cyph.com",
+          "service_url": "http://cyph.com",
+          "presentation_group": "cyph.com",
+          "presentation_tag": "dns"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "theryanlester",
+          "state": 1,
+          "proof_url": "https://twitter.com/theryanlester/status/769218900810604544",
+          "sig_id": "ed413d681c93fe79e0d2469f4fc73ec5dece21dfb2886bdec6b5e458b79345860f",
+          "proof_id": "fb2e2e853a31faa9691ef710",
+          "human_url": "https://twitter.com/theryanlester/status/769218900810604544",
+          "service_url": "https://twitter.com/theryanlester",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -82,9 +138,49 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "buu700",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/50281r/my_keybase_proof_redditbuu700_keybaseryanlester/",
+          "sig_id": "b2c1fd4e25707414b09bc188250e6674ad0c4e06349496954668cc7dc273a9580f",
+          "proof_id": "6cb1857d99ed64560b18b610",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/50281r/my_keybase_proof_redditbuu700_keybaseryanlester/",
+          "service_url": "https://reddit.com/user/buu700",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "cyph.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "cyph.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/ryanlester/sigchain#bbc2ea3d1760562773932f3fb09fe5d82a88f6d0f7aadb4e42a8f2e10aafc2740f",
+          "sig_id": "bbc2ea3d1760562773932f3fb09fe5d82a88f6d0f7aadb4e42a8f2e10aafc2740f",
+          "proof_id": "b9d3e1016f60fe33e08a0d10",
+          "human_url": "dns://cyph.com",
+          "service_url": "http://cyph.com",
+          "presentation_group": "cyph.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "theryanlester",
+        "state": 1,
+        "proof_url": "https://twitter.com/theryanlester/status/769218900810604544",
+        "sig_id": "ed413d681c93fe79e0d2469f4fc73ec5dece21dfb2886bdec6b5e458b79345860f",
+        "proof_id": "fb2e2e853a31faa9691ef710",
+        "human_url": "https://twitter.com/theryanlester/status/769218900810604544",
+        "service_url": "https://twitter.com/theryanlester",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "buu700",
@@ -96,23 +192,47 @@
         "service_url": "https://github.com/buu700",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "reddit",
+        "nametag": "buu700",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/50281r/my_keybase_proof_redditbuu700_keybaseryanlester/",
+        "sig_id": "b2c1fd4e25707414b09bc188250e6674ad0c4e06349496954668cc7dc273a9580f",
+        "proof_id": "6cb1857d99ed64560b18b610",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/50281r/my_keybase_proof_redditbuu700_keybaseryanlester/",
+        "service_url": "https://reddit.com/user/buu700",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "cyph.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/ryanlester/sigchain#bbc2ea3d1760562773932f3fb09fe5d82a88f6d0f7aadb4e42a8f2e10aafc2740f",
+        "sig_id": "bbc2ea3d1760562773932f3fb09fe5d82a88f6d0f7aadb4e42a8f2e10aafc2740f",
+        "proof_id": "b9d3e1016f60fe33e08a0d10",
+        "human_url": "dns://cyph.com",
+        "service_url": "http://cyph.com",
+        "presentation_group": "cyph.com",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/0caed87a1131838a7f67825dbfc6cb05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/6fc1c7443b27005b9f5e5c0667898c05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "63cdafdc145cdf221247b425cc855691ec939d2c650507a9c1903b2064d3065e0f",
-      "seqno": 4,
-      "payload_hash": "b5344b0cf3b8033e57a0bc68b3f7038279860031c6d02f6384521522806ddb9d"
+      "sig_id": "b2c1fd4e25707414b09bc188250e6674ad0c4e06349496954668cc7dc273a9580f",
+      "seqno": 7,
+      "payload_hash": "3745a09607b7350258587f8457d45e788e89c92ea7d4bd65bdd77c55860f7b67"
     }
   },
   "devices": {}
