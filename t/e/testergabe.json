@@ -4,9 +4,9 @@
     "username": "testergabe",
     "ctime": 1461606964,
     "mtime": 1461606964,
-    "id_version": 5,
+    "id_version": 6,
     "track_version": 1,
-    "last_id_change": 1467841531,
+    "last_id_change": 1473713498,
     "username_cased": "testergabe"
   },
   "public_keys": {
@@ -20,19 +20,23 @@
       "0120eaf6bdeede857daece849109fe47ecc159f3043247358623c565fdb5f7e2ca280a",
       "0121a47ca2e5eb251bc8afe82dc9ce6696f2ee2f718e5366f56bc3b8478cb64822770a",
       "012087d0d824fc762877a94561d1f7bb6e789b91580e0aac424b5435895616e63a050a",
-      "01218cce1740307572b2c1b3265189ca1cef0d1a729db7389595ab342c4b86bc5d300a"
+      "01218cce1740307572b2c1b3265189ca1cef0d1a729db7389595ab342c4b86bc5d300a",
+      "0120175ccc3d81aa209e5870923f140843fd84286efe373a5cf61207243cff4ed9df0a",
+      "01210c5a4fca0940ed20dd2030668edce247ee1d72250ecb68e978fd354bc9a043160a"
     ],
     "subkeys": [
       "0121a76d90cd4ae18fe061eda47c4afc46847ab44773ef360d8fe184b6606d51e7410a",
       "01210ee93ffd1727d7c579c02e4d33c3965f5a7626374ce3e8ca1f5f06c88de20d090a",
       "0121a47ca2e5eb251bc8afe82dc9ce6696f2ee2f718e5366f56bc3b8478cb64822770a",
-      "01218cce1740307572b2c1b3265189ca1cef0d1a729db7389595ab342c4b86bc5d300a"
+      "01218cce1740307572b2c1b3265189ca1cef0d1a729db7389595ab342c4b86bc5d300a",
+      "01210c5a4fca0940ed20dd2030668edce247ee1d72250ecb68e978fd354bc9a043160a"
     ],
     "sibkeys": [
       "0120f941d66cface9011b3082a52e6d8310c78a6ac63f16e10637df51afe56f11acb0a",
       "0120e0db069c69e0577e557f456aad53670aeb1b85343ab8fc43bfef133738b4ea310a",
       "0120eaf6bdeede857daece849109fe47ecc159f3043247358623c565fdb5f7e2ca280a",
-      "012087d0d824fc762877a94561d1f7bb6e789b91580e0aac424b5435895616e63a050a"
+      "012087d0d824fc762877a94561d1f7bb6e789b91580e0aac424b5435895616e63a050a",
+      "0120175ccc3d81aa209e5870923f140843fd84286efe373a5cf61207243cff4ed9df0a"
     ],
     "families": {
       "0120f941d66cface9011b3082a52e6d8310c78a6ac63f16e10637df51afe56f11acb0a": [
@@ -45,7 +49,9 @@
         "0120eaf6bdeede857daece849109fe47ecc159f3043247358623c565fdb5f7e2ca280a",
         "0121a47ca2e5eb251bc8afe82dc9ce6696f2ee2f718e5366f56bc3b8478cb64822770a",
         "012087d0d824fc762877a94561d1f7bb6e789b91580e0aac424b5435895616e63a050a",
-        "01218cce1740307572b2c1b3265189ca1cef0d1a729db7389595ab342c4b86bc5d300a"
+        "01218cce1740307572b2c1b3265189ca1cef0d1a729db7389595ab342c4b86bc5d300a",
+        "0120175ccc3d81aa209e5870923f140843fd84286efe373a5cf61207243cff4ed9df0a",
+        "01210c5a4fca0940ed20dd2030668edce247ee1d72250ecb68e978fd354bc9a043160a"
       ]
     },
     "eldest_kid": "0120f941d66cface9011b3082a52e6d8310c78a6ac63f16e10637df51afe56f11acb0a",
@@ -60,9 +66,9 @@
   "cryptocurrency_addresses": {},
   "sigs": {
     "last": {
-      "sig_id": "29aceb448a5e7e661d79abce651337d11dfa9c98cc73181a75451b6be185eaef0f",
-      "seqno": 12,
-      "payload_hash": "dd777b7b51aaab4357410b89cb18be8d038bef5e09c83a61451f505963624b1e"
+      "sig_id": "47598c5d26faeb27d9331035f541773640de40d5be3df0cff409be70ea244cc70f",
+      "seqno": 14,
+      "payload_hash": "bffbfa6af16b0afb5616edc843c9c0316bc6459e7aad636c54a637a698b0de85"
     }
   },
   "devices": {
@@ -101,6 +107,25 @@
           "kid": "01210ee93ffd1727d7c579c02e4d33c3965f5a7626374ce3e8ca1f5f06c88de20d090a",
           "key_role": 2,
           "sig_id": "b165d3a03ced9e5bd07955fdad5a9ab135df599bc0eba03523cc7db87f8fa1ea0f"
+        }
+      ]
+    },
+    "4e7a5eec67d21e5c8ccdaa2ff2605d18": {
+      "type": "desktop",
+      "ctime": 1473713498,
+      "mtime": 1473713498,
+      "name": "Sierra VM",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120175ccc3d81aa209e5870923f140843fd84286efe373a5cf61207243cff4ed9df0a",
+          "key_role": 1,
+          "sig_id": "16693af5d825a7943537b28f883ed69975324b9b712ca618a0690c9786f2b3460f"
+        },
+        {
+          "kid": "01210c5a4fca0940ed20dd2030668edce247ee1d72250ecb68e978fd354bc9a043160a",
+          "key_role": 2,
+          "sig_id": "47598c5d26faeb27d9331035f541773640de40d5be3df0cff409be70ea244cc70f"
         }
       ]
     },
