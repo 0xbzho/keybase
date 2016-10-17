@@ -4,15 +4,15 @@
     "username": "bai",
     "ctime": 1411018061,
     "mtime": 1411018061,
-    "id_version": 17,
+    "id_version": 20,
     "track_version": 0,
-    "last_id_change": 1467214399,
+    "last_id_change": 1470202816,
     "username_cased": "bai"
   },
   "profile": {
-    "mtime": 1411022748,
+    "mtime": 1473232193,
     "full_name": "Vlad Gorodetsky",
-    "location": "Wherever, Earth",
+    "location": null,
     "bio": null
   },
   "public_keys": {
@@ -70,7 +70,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/bai",
+          "nametag": "bai",
           "state": 1,
           "proof_url": "https://coinbase.com/bai/public-key",
           "sig_id": "088cf28e4096de3f2892166aaf7ba29ef1b1d16c8750851ecaa2d836945f50480f",
@@ -79,6 +79,20 @@
           "service_url": "https://coinbase.com/bai",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "gorodetsky",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=gorodetsky",
+          "sig_id": "b9db3106049dc0c0659d0a94046e0191714872e845cb60bdb62a68e125fe998c0f",
+          "proof_id": "6c56d76b5f3de127f0769510",
+          "human_url": "https://news.ycombinator.com/user?id=gorodetsky",
+          "service_url": "https://news.ycombinator.com/user?id=gorodetsky",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
         }
       ]
     },
@@ -100,7 +114,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/bai",
+          "nametag": "bai",
           "state": 1,
           "proof_url": "https://coinbase.com/bai/public-key",
           "sig_id": "088cf28e4096de3f2892166aaf7ba29ef1b1d16c8750851ecaa2d836945f50480f",
@@ -109,6 +123,20 @@
           "service_url": "https://coinbase.com/bai",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "gorodetsky",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=gorodetsky",
+          "sig_id": "b9db3106049dc0c0659d0a94046e0191714872e845cb60bdb62a68e125fe998c0f",
+          "proof_id": "6c56d76b5f3de127f0769510",
+          "human_url": "https://news.ycombinator.com/user?id=gorodetsky",
+          "service_url": "https://news.ycombinator.com/user?id=gorodetsky",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
         }
       ]
     },
@@ -127,7 +155,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/bai",
+        "nametag": "bai",
         "state": 1,
         "proof_url": "https://coinbase.com/bai/public-key",
         "sig_id": "088cf28e4096de3f2892166aaf7ba29ef1b1d16c8750851ecaa2d836945f50480f",
@@ -136,6 +164,18 @@
         "service_url": "https://coinbase.com/bai",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "hackernews",
+        "nametag": "gorodetsky",
+        "state": 1,
+        "proof_url": "https://news.ycombinator.com/user?id=gorodetsky",
+        "sig_id": "b9db3106049dc0c0659d0a94046e0191714872e845cb60bdb62a68e125fe998c0f",
+        "proof_id": "6c56d76b5f3de127f0769510",
+        "human_url": "https://news.ycombinator.com/user?id=gorodetsky",
+        "service_url": "https://news.ycombinator.com/user?id=gorodetsky",
+        "presentation_group": "hackernews",
+        "presentation_tag": "profile"
       }
     ]
   },
@@ -157,9 +197,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "a5be0902300c60892f9a3e56d2625ddfa5353a0dbc5ac3a9aa9ae118237648d70f",
-      "seqno": 5,
-      "payload_hash": "9b44ea58dcdddc4fc9b663b0bc6d7084aa26867cffee1110c2ffe9390b4abb87"
+      "sig_id": "b9db3106049dc0c0659d0a94046e0191714872e845cb60bdb62a68e125fe998c0f",
+      "seqno": 6,
+      "payload_hash": "f5bb13f144c8541bb9148820330e0ba905be2fda52e15aed1e1b01d043fa4b8d"
     }
   },
   "devices": {}
