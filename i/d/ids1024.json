@@ -4,9 +4,9 @@
     "username": "ids1024",
     "ctime": 1442961662,
     "mtime": 1442961662,
-    "id_version": 15,
-    "track_version": 3,
-    "last_id_change": 1453772382,
+    "id_version": 18,
+    "track_version": 4,
+    "last_id_change": 1473977682,
     "username_cased": "ids1024"
   },
   "profile": {
@@ -39,16 +39,20 @@
       "0121de96b697eb7f10862c398e9899225529588cbcf8ed27891e509723c6f3f1176c0a",
       "0120506460395f5865517f62865244fc4b7c76e2bbbff6e1034b9401ba43316c7a640a",
       "0121c087071b8578b043c2a3765c604e4716a1ce8f47089e44b32f8173597bf6841f0a",
-      "01203ad8b7e0e8676857ef8920f01b95624026b9e289fc0ca14aab57d029b325b15f0a"
+      "01203ad8b7e0e8676857ef8920f01b95624026b9e289fc0ca14aab57d029b325b15f0a",
+      "01200b25d4c00c98c2061ddc0275dc18d4bea073048fd9bf403b3af95d3da71d5a4d0a",
+      "012144d049d1b9494c20969a9512a40501ac2eee4a01f4da431ccf7db5914660fc670a"
     ],
     "subkeys": [
       "0121de96b697eb7f10862c398e9899225529588cbcf8ed27891e509723c6f3f1176c0a",
-      "0121c087071b8578b043c2a3765c604e4716a1ce8f47089e44b32f8173597bf6841f0a"
+      "0121c087071b8578b043c2a3765c604e4716a1ce8f47089e44b32f8173597bf6841f0a",
+      "012144d049d1b9494c20969a9512a40501ac2eee4a01f4da431ccf7db5914660fc670a"
     ],
     "sibkeys": [
       "01019faaeb0b9053086ee56598e05b83bde07cb133e664e44588111a40e4ba53055b0a",
       "0120506460395f5865517f62865244fc4b7c76e2bbbff6e1034b9401ba43316c7a640a",
-      "01203ad8b7e0e8676857ef8920f01b95624026b9e289fc0ca14aab57d029b325b15f0a"
+      "01203ad8b7e0e8676857ef8920f01b95624026b9e289fc0ca14aab57d029b325b15f0a",
+      "01200b25d4c00c98c2061ddc0275dc18d4bea073048fd9bf403b3af95d3da71d5a4d0a"
     ],
     "families": {
       "01019faaeb0b9053086ee56598e05b83bde07cb133e664e44588111a40e4ba53055b0a": [
@@ -57,7 +61,9 @@
         "0121de96b697eb7f10862c398e9899225529588cbcf8ed27891e509723c6f3f1176c0a",
         "0120506460395f5865517f62865244fc4b7c76e2bbbff6e1034b9401ba43316c7a640a",
         "0121c087071b8578b043c2a3765c604e4716a1ce8f47089e44b32f8173597bf6841f0a",
-        "01203ad8b7e0e8676857ef8920f01b95624026b9e289fc0ca14aab57d029b325b15f0a"
+        "01203ad8b7e0e8676857ef8920f01b95624026b9e289fc0ca14aab57d029b325b15f0a",
+        "01200b25d4c00c98c2061ddc0275dc18d4bea073048fd9bf403b3af95d3da71d5a4d0a",
+        "012144d049d1b9494c20969a9512a40501ac2eee4a01f4da431ccf7db5914660fc670a"
       ]
     },
     "eldest_kid": "01019faaeb0b9053086ee56598e05b83bde07cb133e664e44588111a40e4ba53055b0a",
@@ -85,7 +91,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/ids1024",
+          "nametag": "ids1024",
           "state": 1,
           "proof_url": "https://coinbase.com/ids1024/public-key",
           "sig_id": "a379f93bd4afcbe4d2b87323ab68871b835266485bc6fe72dadd12d85cc7e5170f",
@@ -97,6 +103,18 @@
         }
       ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "ian.ee",
+          "state": 1,
+          "proof_url": "https://keybase.io/ids1024/sigchain#8326dcb5e811852719809fff2434b07aa1f2ca6ba125248c17de00f38448083e0f",
+          "sig_id": "8326dcb5e811852719809fff2434b07aa1f2ca6ba125248c17de00f38448083e0f",
+          "proof_id": "27f65851bd942b24518d0710",
+          "human_url": "dns://ian.ee",
+          "service_url": "http://ian.ee",
+          "presentation_group": "ian.ee",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "iandouglasscott.com",
@@ -129,7 +147,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/ids1024",
+          "nametag": "ids1024",
           "state": 1,
           "proof_url": "https://coinbase.com/ids1024/public-key",
           "sig_id": "a379f93bd4afcbe4d2b87323ab68871b835266485bc6fe72dadd12d85cc7e5170f",
@@ -138,6 +156,20 @@
           "service_url": "https://coinbase.com/ids1024",
           "presentation_group": "coinbase",
           "presentation_tag": "post"
+        }
+      ],
+      "ian.ee": [
+        {
+          "proof_type": "dns",
+          "nametag": "ian.ee",
+          "state": 1,
+          "proof_url": "https://keybase.io/ids1024/sigchain#8326dcb5e811852719809fff2434b07aa1f2ca6ba125248c17de00f38448083e0f",
+          "sig_id": "8326dcb5e811852719809fff2434b07aa1f2ca6ba125248c17de00f38448083e0f",
+          "proof_id": "27f65851bd942b24518d0710",
+          "human_url": "dns://ian.ee",
+          "service_url": "http://ian.ee",
+          "presentation_group": "ian.ee",
+          "presentation_tag": "dns"
         }
       ],
       "iandouglasscott.com": [
@@ -170,7 +202,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/ids1024",
+        "nametag": "ids1024",
         "state": 1,
         "proof_url": "https://coinbase.com/ids1024/public-key",
         "sig_id": "a379f93bd4afcbe4d2b87323ab68871b835266485bc6fe72dadd12d85cc7e5170f",
@@ -179,6 +211,18 @@
         "service_url": "https://coinbase.com/ids1024",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "ian.ee",
+        "state": 1,
+        "proof_url": "https://keybase.io/ids1024/sigchain#8326dcb5e811852719809fff2434b07aa1f2ca6ba125248c17de00f38448083e0f",
+        "sig_id": "8326dcb5e811852719809fff2434b07aa1f2ca6ba125248c17de00f38448083e0f",
+        "proof_id": "27f65851bd942b24518d0710",
+        "human_url": "dns://ian.ee",
+        "service_url": "http://ian.ee",
+        "presentation_group": "ian.ee",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -212,12 +256,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "a4ee7c9fae4cf1e236f9305f821a505a12bc5abc20f60ce49574aef4cda797e60f",
-      "seqno": 12,
-      "payload_hash": "b659ce4a9551fee608f96ffe774b0caa42ccc21ce0112f2a62c7d82f227f29ea"
+      "sig_id": "8326dcb5e811852719809fff2434b07aa1f2ca6ba125248c17de00f38448083e0f",
+      "seqno": 16,
+      "payload_hash": "d2c74bef32d05f89797cbd6fe861f75cd03bab3f88fe9d9573b485ce4668e493"
     }
   },
   "devices": {
+    "b4db2dcc6003b8fdb2a9ef3774653118": {
+      "type": "desktop",
+      "ctime": 1473977601,
+      "mtime": 1473977601,
+      "name": "Yoga",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01200b25d4c00c98c2061ddc0275dc18d4bea073048fd9bf403b3af95d3da71d5a4d0a",
+          "key_role": 1,
+          "sig_id": "7c96e38ef76bd1d8c07441ae310d636617f3b85cf9e4d088feb6f9fd9015c6e70f"
+        },
+        {
+          "kid": "012144d049d1b9494c20969a9512a40501ac2eee4a01f4da431ccf7db5914660fc670a",
+          "key_role": 2,
+          "sig_id": "9893d97e1c296b1fef0b51f9ab257dec4f03a172fab651a0b5430af0ff42dacd0f"
+        }
+      ]
+    },
     "c3a6838723060ab95697647df9128c18": {
       "type": "desktop",
       "ctime": 1453771333,
