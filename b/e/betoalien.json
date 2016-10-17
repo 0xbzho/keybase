@@ -4,9 +4,9 @@
     "username": "betoalien",
     "ctime": 1462674833,
     "mtime": 1462674833,
-    "id_version": 3,
-    "track_version": 0,
-    "last_id_change": 1462685387,
+    "id_version": 8,
+    "track_version": 3,
+    "last_id_change": 1474085247,
     "username_cased": "betoalien"
   },
   "profile": {
@@ -38,16 +38,16 @@
       "0120dc5cae572aa50efe08896df7cfb310427539975acfda0d375823db29c06363cb0a",
       "01205113c5c7c1f894cb9af56f61af0913c533d53f22bcd3b724e0f70f501474e7480a",
       "01219c878547ec3aaada5ccaa04207b6e74689941f003643cc1cbe5e4f9e53bf04550a",
-      "0121c057038c977e40e45d12387bf1d9beecbefa148237dd66d1da5b160051cb4d430a"
+      "0121c057038c977e40e45d12387bf1d9beecbefa148237dd66d1da5b160051cb4d430a",
+      "0120c63ecea3f9367eef97aa89876429ba59e6bb7e9ccdd8239377fd9bc4476c6bdc0a",
+      "0121ea51a5a56ca81b793c27b3f842ba4f2a9abc4a0e67a4aed8b36c0b8659aaf34b0a"
     ],
     "subkeys": [
-      "01219c878547ec3aaada5ccaa04207b6e74689941f003643cc1cbe5e4f9e53bf04550a",
-      "0121c057038c977e40e45d12387bf1d9beecbefa148237dd66d1da5b160051cb4d430a"
+      "0121ea51a5a56ca81b793c27b3f842ba4f2a9abc4a0e67a4aed8b36c0b8659aaf34b0a"
     ],
     "sibkeys": [
       "01011a0a1a0f35b059986cb6116e9cf5830f140a751dfa623062ca42ba7e65d5cedf0a",
-      "0120dc5cae572aa50efe08896df7cfb310427539975acfda0d375823db29c06363cb0a",
-      "01205113c5c7c1f894cb9af56f61af0913c533d53f22bcd3b724e0f70f501474e7480a"
+      "0120c63ecea3f9367eef97aa89876429ba59e6bb7e9ccdd8239377fd9bc4476c6bdc0a"
     ],
     "families": {
       "01011a0a1a0f35b059986cb6116e9cf5830f140a751dfa623062ca42ba7e65d5cedf0a": [
@@ -55,7 +55,9 @@
         "0120dc5cae572aa50efe08896df7cfb310427539975acfda0d375823db29c06363cb0a",
         "01205113c5c7c1f894cb9af56f61af0913c533d53f22bcd3b724e0f70f501474e7480a",
         "01219c878547ec3aaada5ccaa04207b6e74689941f003643cc1cbe5e4f9e53bf04550a",
-        "0121c057038c977e40e45d12387bf1d9beecbefa148237dd66d1da5b160051cb4d430a"
+        "0121c057038c977e40e45d12387bf1d9beecbefa148237dd66d1da5b160051cb4d430a",
+        "0120c63ecea3f9367eef97aa89876429ba59e6bb7e9ccdd8239377fd9bc4476c6bdc0a",
+        "0121ea51a5a56ca81b793c27b3f842ba4f2a9abc4a0e67a4aed8b36c0b8659aaf34b0a"
       ]
     },
     "eldest_kid": "01011a0a1a0f35b059986cb6116e9cf5830f140a751dfa623062ca42ba7e65d5cedf0a",
@@ -65,54 +67,93 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
-  },
-  "cryptocurrency_addresses": {},
-  "sigs": {
-    "last": {
-      "sig_id": "1792de3ca2ae9de88909a28ff3df9f8f29d3b75efbacc88f3133f6507f83dac80f",
-      "seqno": 5,
-      "payload_hash": "6e0f268b8fd3ddccb413620a84d30137e7222c3db4741d0b6fbb74a2de1ef57a"
-    }
-  },
-  "devices": {
-    "da68706f091d3412f1273b37d3783c18": {
-      "type": "desktop",
-      "ctime": 1462685386,
-      "mtime": 1462685386,
-      "name": "Nebirus1",
-      "status": 1,
-      "keys": [
+    "by_proof_type": {
+      "github": [
         {
-          "kid": "0120dc5cae572aa50efe08896df7cfb310427539975acfda0d375823db29c06363cb0a",
-          "key_role": 1,
-          "sig_id": "42798cda03af495e19a1d7a5371809e17015248fae038513c672b3a17dac7e440f"
-        },
-        {
-          "kid": "0121c057038c977e40e45d12387bf1d9beecbefa148237dd66d1da5b160051cb4d430a",
-          "key_role": 2,
-          "sig_id": "893e4a4560bec1d4fbf1315b1a2ace0437f623d9f28844df71c08cdb93fa28fe0f"
+          "proof_type": "github",
+          "nametag": "extramex",
+          "state": 1,
+          "proof_url": "https://gist.github.com/d1fef87eeac3057cf9ecfba8bdbfee32",
+          "sig_id": "88e5ed796cbb24b56535e04e5dd9ff99ce79cc30057075f06f246e4246fa09c40f",
+          "proof_id": "deef7b33622874924f270210",
+          "human_url": "https://gist.github.com/d1fef87eeac3057cf9ecfba8bdbfee32",
+          "service_url": "https://github.com/extramex",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
         }
       ]
     },
-    "dec90eef20aeb8e911b99bdf5f7b7a18": {
-      "type": "backup",
-      "ctime": 1462685387,
-      "mtime": 1462685387,
-      "name": "rib wrist",
+    "by_presentation_group": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "extramex",
+          "state": 1,
+          "proof_url": "https://gist.github.com/d1fef87eeac3057cf9ecfba8bdbfee32",
+          "sig_id": "88e5ed796cbb24b56535e04e5dd9ff99ce79cc30057075f06f246e4246fa09c40f",
+          "proof_id": "deef7b33622874924f270210",
+          "human_url": "https://gist.github.com/d1fef87eeac3057cf9ecfba8bdbfee32",
+          "service_url": "https://github.com/extramex",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "github",
+        "nametag": "extramex",
+        "state": 1,
+        "proof_url": "https://gist.github.com/d1fef87eeac3057cf9ecfba8bdbfee32",
+        "sig_id": "88e5ed796cbb24b56535e04e5dd9ff99ce79cc30057075f06f246e4246fa09c40f",
+        "proof_id": "deef7b33622874924f270210",
+        "human_url": "https://gist.github.com/d1fef87eeac3057cf9ecfba8bdbfee32",
+        "service_url": "https://github.com/extramex",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      }
+    ]
+  },
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "16WyxwQfpqDheHDe8siBQSohYFxLmoK5Q8",
+        "sig_id": "613b89aeae99c298d2ac1bfa82e3283f584dad7a32553908e061e8a5c9b41bbe0f"
+      }
+    ]
+  },
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/c4de1bb41018fb3c03dbc4d962863605_360_360_square_360.jpeg",
+      "width": 360,
+      "height": 360,
+      "source": "github"
+    }
+  },
+  "sigs": {
+    "last": {
+      "sig_id": "88e5ed796cbb24b56535e04e5dd9ff99ce79cc30057075f06f246e4246fa09c40f",
+      "seqno": 14,
+      "payload_hash": "b027cbe81983a7bc7d07eb64f0d48af16898c21fa23a125587555c2126fc1d04"
+    }
+  },
+  "devices": {
+    "a8f1eb223211b5ffe5046ac86e0ee718": {
+      "type": "desktop",
+      "ctime": 1470882497,
+      "mtime": 1470882497,
+      "name": "Nebirus6",
       "status": 1,
       "keys": [
         {
-          "kid": "01205113c5c7c1f894cb9af56f61af0913c533d53f22bcd3b724e0f70f501474e7480a",
+          "kid": "0120c63ecea3f9367eef97aa89876429ba59e6bb7e9ccdd8239377fd9bc4476c6bdc0a",
           "key_role": 1,
-          "sig_id": "21117658492136020974175618f0d7dc20cbe2ca89b7926bfcfdef622467b8a40f"
+          "sig_id": "2efa28be79e3bce88b48d7f90c89b5692781144c188a7a5edd69812deb3d1f780f"
         },
         {
-          "kid": "01219c878547ec3aaada5ccaa04207b6e74689941f003643cc1cbe5e4f9e53bf04550a",
+          "kid": "0121ea51a5a56ca81b793c27b3f842ba4f2a9abc4a0e67a4aed8b36c0b8659aaf34b0a",
           "key_role": 2,
-          "sig_id": "1792de3ca2ae9de88909a28ff3df9f8f29d3b75efbacc88f3133f6507f83dac80f"
+          "sig_id": "4a3df10e10931273f911f6d717fe1167e36e1f477b35796a5504b41677b371b90f"
         }
       ]
     }
