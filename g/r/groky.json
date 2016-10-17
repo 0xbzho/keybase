@@ -1,0 +1,92 @@
+{
+  "id": "2c30d563809f660da29108ad812cff19",
+  "basics": {
+    "username": "groky",
+    "ctime": 1470102039,
+    "mtime": 1470102039,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1470102056,
+    "username_cased": "groky"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121ca9e1ae4e96df48c3c7885d12d61c85e58ce9597a72ea59cd9ab1caf13c3a2520a",
+      "01203c13cc61d5bd7a381800348329312ee5ee75fbeb9224699880e917e1525c4ff10a",
+      "0121bb304a17b5ddb4967c5aebb0b0c9b027ca3ea882de751852286f141eaedc7c310a",
+      "01209870ab031a608fbdff81d3ec337a118509a0268301e56ada56b4df769b7bb3ee0a"
+    ],
+    "subkeys": [
+      "0121ca9e1ae4e96df48c3c7885d12d61c85e58ce9597a72ea59cd9ab1caf13c3a2520a",
+      "0121bb304a17b5ddb4967c5aebb0b0c9b027ca3ea882de751852286f141eaedc7c310a"
+    ],
+    "sibkeys": [
+      "01203c13cc61d5bd7a381800348329312ee5ee75fbeb9224699880e917e1525c4ff10a",
+      "01209870ab031a608fbdff81d3ec337a118509a0268301e56ada56b4df769b7bb3ee0a"
+    ],
+    "families": {
+      "01203c13cc61d5bd7a381800348329312ee5ee75fbeb9224699880e917e1525c4ff10a": [
+        "0121ca9e1ae4e96df48c3c7885d12d61c85e58ce9597a72ea59cd9ab1caf13c3a2520a",
+        "01203c13cc61d5bd7a381800348329312ee5ee75fbeb9224699880e917e1525c4ff10a",
+        "0121bb304a17b5ddb4967c5aebb0b0c9b027ca3ea882de751852286f141eaedc7c310a",
+        "01209870ab031a608fbdff81d3ec337a118509a0268301e56ada56b4df769b7bb3ee0a"
+      ]
+    },
+    "eldest_kid": "01203c13cc61d5bd7a381800348329312ee5ee75fbeb9224699880e917e1525c4ff10a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "af5799e88ab560d2dbdcff1ca90afd0415e428e345e014692657b3e906961ca70f",
+      "seqno": 4,
+      "payload_hash": "332e7ab6834140fddb4fe88a96ebcb86bacd904353c70b7804197b9f96d163ee"
+    }
+  },
+  "devices": {
+    "0625c3894c2f9ff180dc08e436b8b518": {
+      "type": "backup",
+      "ctime": 1470102056,
+      "mtime": 1470102056,
+      "name": "menu suffer",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209870ab031a608fbdff81d3ec337a118509a0268301e56ada56b4df769b7bb3ee0a",
+          "key_role": 1,
+          "sig_id": "6a438cdaa3246efcd67f68c19df502ab8380919e7441ba74ec36682e4376e2360f"
+        },
+        {
+          "kid": "0121bb304a17b5ddb4967c5aebb0b0c9b027ca3ea882de751852286f141eaedc7c310a",
+          "key_role": 2,
+          "sig_id": "af5799e88ab560d2dbdcff1ca90afd0415e428e345e014692657b3e906961ca70f"
+        }
+      ]
+    },
+    "71f7dfa4fd486dadc75dd2fdd2619718": {
+      "type": "desktop",
+      "ctime": 1470102050,
+      "mtime": 1470102050,
+      "name": "lightning",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01203c13cc61d5bd7a381800348329312ee5ee75fbeb9224699880e917e1525c4ff10a",
+          "key_role": 1,
+          "sig_id": "9b6e55780378ce88d4b39a1c869ede02ae462a952dc9c04ea2b8621ed5239e2b0f"
+        },
+        {
+          "kid": "0121ca9e1ae4e96df48c3c7885d12d61c85e58ce9597a72ea59cd9ab1caf13c3a2520a",
+          "key_role": 2,
+          "sig_id": "d499df5607a999532944e368bfa761e7e917d4dbcccc1481da3ee9f22a6ad6c60f"
+        }
+      ]
+    }
+  }
+}
