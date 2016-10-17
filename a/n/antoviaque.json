@@ -1,0 +1,92 @@
+{
+  "id": "51975c29f295b8be1885639b8145f619",
+  "basics": {
+    "username": "antoviaque",
+    "ctime": 1474636333,
+    "mtime": 1474636333,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1474636468,
+    "username_cased": "antoviaque"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0120589654558b7e4566a644a98e16720574071cf95de955ada8f15c4c7cc01b1bc50a",
+      "012175ffd6de8f55d9ddef22692bebfc3ab0e1f777d047b013716c3970c9fc0f20060a",
+      "01219606ebbdf6e003079da7efe1397cf4ba2dcfd1216e081a02a0c0b8532acee5780a",
+      "0120ccce9776768e1ec370072017184a406783ae8964ed92c761318215a56e6768fb0a"
+    ],
+    "subkeys": [
+      "012175ffd6de8f55d9ddef22692bebfc3ab0e1f777d047b013716c3970c9fc0f20060a",
+      "01219606ebbdf6e003079da7efe1397cf4ba2dcfd1216e081a02a0c0b8532acee5780a"
+    ],
+    "sibkeys": [
+      "0120589654558b7e4566a644a98e16720574071cf95de955ada8f15c4c7cc01b1bc50a",
+      "0120ccce9776768e1ec370072017184a406783ae8964ed92c761318215a56e6768fb0a"
+    ],
+    "families": {
+      "0120589654558b7e4566a644a98e16720574071cf95de955ada8f15c4c7cc01b1bc50a": [
+        "0120589654558b7e4566a644a98e16720574071cf95de955ada8f15c4c7cc01b1bc50a",
+        "012175ffd6de8f55d9ddef22692bebfc3ab0e1f777d047b013716c3970c9fc0f20060a",
+        "01219606ebbdf6e003079da7efe1397cf4ba2dcfd1216e081a02a0c0b8532acee5780a",
+        "0120ccce9776768e1ec370072017184a406783ae8964ed92c761318215a56e6768fb0a"
+      ]
+    },
+    "eldest_kid": "0120589654558b7e4566a644a98e16720574071cf95de955ada8f15c4c7cc01b1bc50a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "6e71533135f2a55ceb6284b127443a9e8888590ea0779540c159f214dd51767d0f",
+      "seqno": 4,
+      "payload_hash": "88f61eeefaf4b60eb72f71b5e620836d431fcb560e142112a6f9c42f6f0ab56c"
+    }
+  },
+  "devices": {
+    "65d32c68d1b4a0ab753bc08c41f58e18": {
+      "type": "backup",
+      "ctime": 1474636468,
+      "mtime": 1474636468,
+      "name": "mixed frost",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ccce9776768e1ec370072017184a406783ae8964ed92c761318215a56e6768fb0a",
+          "key_role": 1,
+          "sig_id": "2d095bc23f98ac5d51c68fc6227666efd68918d5b76a4c7c4dee876c37ba4efb0f"
+        },
+        {
+          "kid": "01219606ebbdf6e003079da7efe1397cf4ba2dcfd1216e081a02a0c0b8532acee5780a",
+          "key_role": 2,
+          "sig_id": "6e71533135f2a55ceb6284b127443a9e8888590ea0779540c159f214dd51767d0f"
+        }
+      ]
+    },
+    "c58b8f5ee3c7e554e9bc5f8247a79918": {
+      "type": "desktop",
+      "ctime": 1474636467,
+      "mtime": 1474636467,
+      "name": "antoviaque-laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120589654558b7e4566a644a98e16720574071cf95de955ada8f15c4c7cc01b1bc50a",
+          "key_role": 1,
+          "sig_id": "640187b96ffab1ebe9c2a173c76d8204855f99651188fc6fadb185a55f019ba60f"
+        },
+        {
+          "kid": "012175ffd6de8f55d9ddef22692bebfc3ab0e1f777d047b013716c3970c9fc0f20060a",
+          "key_role": 2,
+          "sig_id": "e1a5ccaab3ad39604878867bfc4c936c4496d027076260023454dbafca4f4fc20f"
+        }
+      ]
+    }
+  }
+}
