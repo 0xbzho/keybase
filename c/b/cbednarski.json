@@ -1,0 +1,92 @@
+{
+  "id": "5873d7d6e65c4705225074183d1d4519",
+  "basics": {
+    "username": "cbednarski",
+    "ctime": 1470081238,
+    "mtime": 1470081238,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1470081240,
+    "username_cased": "cbednarski"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121d44d1e5e00abd0c28ad0dea743ffb04ec225896d4826637081550fa9c4a671730a",
+      "01209240cb599123de5efae656206dc2817708923c9b39a7c5c6c963edae6af071920a",
+      "0120fe70edf27a111bb80a78117a86fb85087ce3bae97d1e6c91aa886f246b5f38030a",
+      "0121e6a884cf9f1c73ccf127e131ba6bb22b631f96da966779807704c19e5b3524630a"
+    ],
+    "subkeys": [
+      "0121d44d1e5e00abd0c28ad0dea743ffb04ec225896d4826637081550fa9c4a671730a",
+      "0121e6a884cf9f1c73ccf127e131ba6bb22b631f96da966779807704c19e5b3524630a"
+    ],
+    "sibkeys": [
+      "01209240cb599123de5efae656206dc2817708923c9b39a7c5c6c963edae6af071920a",
+      "0120fe70edf27a111bb80a78117a86fb85087ce3bae97d1e6c91aa886f246b5f38030a"
+    ],
+    "families": {
+      "01209240cb599123de5efae656206dc2817708923c9b39a7c5c6c963edae6af071920a": [
+        "0121d44d1e5e00abd0c28ad0dea743ffb04ec225896d4826637081550fa9c4a671730a",
+        "01209240cb599123de5efae656206dc2817708923c9b39a7c5c6c963edae6af071920a",
+        "0120fe70edf27a111bb80a78117a86fb85087ce3bae97d1e6c91aa886f246b5f38030a",
+        "0121e6a884cf9f1c73ccf127e131ba6bb22b631f96da966779807704c19e5b3524630a"
+      ]
+    },
+    "eldest_kid": "01209240cb599123de5efae656206dc2817708923c9b39a7c5c6c963edae6af071920a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "f36517ab4b7046703ed51d596ae9fba46a07b0b879c36a8e05a97986604c16370f",
+      "seqno": 4,
+      "payload_hash": "237c47042215e219bf74ed8cbfe616785dc21a004fcc79587067a553fb0e2f53"
+    }
+  },
+  "devices": {
+    "6bbcf01aa2f02a7cd8dc841232b66618": {
+      "type": "backup",
+      "ctime": 1470081240,
+      "mtime": 1470081240,
+      "name": "lecture book",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120fe70edf27a111bb80a78117a86fb85087ce3bae97d1e6c91aa886f246b5f38030a",
+          "key_role": 1,
+          "sig_id": "1df5af4fed07072c7ccf3db7e9f40dc50550648b17c0dc08e3887aac3fa30bf70f"
+        },
+        {
+          "kid": "0121e6a884cf9f1c73ccf127e131ba6bb22b631f96da966779807704c19e5b3524630a",
+          "key_role": 2,
+          "sig_id": "f36517ab4b7046703ed51d596ae9fba46a07b0b879c36a8e05a97986604c16370f"
+        }
+      ]
+    },
+    "7225ee3423c480948f68f87a4ef4a318": {
+      "type": "desktop",
+      "ctime": 1470081239,
+      "mtime": 1470081239,
+      "name": "stormchaser",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209240cb599123de5efae656206dc2817708923c9b39a7c5c6c963edae6af071920a",
+          "key_role": 1,
+          "sig_id": "38197f87a309369e7367a2ff4409f63dae5d280d1bc31e766e35c8a6aa13b9120f"
+        },
+        {
+          "kid": "0121d44d1e5e00abd0c28ad0dea743ffb04ec225896d4826637081550fa9c4a671730a",
+          "key_role": 2,
+          "sig_id": "fca65d8e38d8b9c616b42bb683f15e1611eb54c05055216d8c83b1df636ea3420f"
+        }
+      ]
+    }
+  }
+}
