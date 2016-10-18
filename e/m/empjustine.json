@@ -4,9 +4,9 @@
     "username": "empjustine",
     "ctime": 1468535545,
     "mtime": 1468535545,
-    "id_version": 12,
+    "id_version": 13,
     "track_version": 2,
-    "last_id_change": 1468624087,
+    "last_id_change": 1471268639,
     "username_cased": "empjustine"
   },
   "profile": {
@@ -23,14 +23,8 @@
       "0120186a3ba863acc8e5b8c8b46692baccd605e396d99d86308d7b7924b03cb4bd270a",
       "0121d7b4757e38a8096065dd9c1c0191a723ddc91054ce07e52220458d04d575e7600a"
     ],
-    "subkeys": [
-      "01218598451e61f7affd5a8d3727fec3108565e1095d0d112358e61247d4510505340a",
-      "0121d7b4757e38a8096065dd9c1c0191a723ddc91054ce07e52220458d04d575e7600a"
-    ],
-    "sibkeys": [
-      "0120cc68dd3126220bcf7ff5cbb72234676ee1c16771b34cd5bb7127e0b9837908380a",
-      "0120186a3ba863acc8e5b8c8b46692baccd605e396d99d86308d7b7924b03cb4bd270a"
-    ],
+    "subkeys": [],
+    "sibkeys": [],
     "families": {
       "0101cbea3f0835743a39b13908ea7e7bfac05e32e685417637d099d714fc441eca530a": [
         "0101cbea3f0835743a39b13908ea7e7bfac05e32e685417637d099d714fc441eca530a",
@@ -40,8 +34,8 @@
         "0121d7b4757e38a8096065dd9c1c0191a723ddc91054ce07e52220458d04d575e7600a"
       ]
     },
-    "eldest_kid": "0101cbea3f0835743a39b13908ea7e7bfac05e32e685417637d099d714fc441eca530a",
-    "eldest_key_fingerprint": "7e8e652d951cb3393b3be0af03e463e9351c72d0",
+    "eldest_kid": null,
+    "eldest_key_fingerprint": null,
     "pgp_public_keys": []
   },
   "proofs_summary": {
@@ -57,44 +51,5 @@
       "payload_hash": "290e92d37b9ac89a7189bf40212a1daf66711f285cd004f0fd65f7898044fea0"
     }
   },
-  "devices": {
-    "c1c95f5a18f1eef0dd13fc641fd06318": {
-      "type": "desktop",
-      "ctime": 1468544184,
-      "mtime": 1468544184,
-      "name": "chernobog-valkyrja",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120cc68dd3126220bcf7ff5cbb72234676ee1c16771b34cd5bb7127e0b9837908380a",
-          "key_role": 1,
-          "sig_id": "ceab56c76b7a7328ecc4a475c32c88d2f447b2cc9c2c4d676b49ccae7bcca3140f"
-        },
-        {
-          "kid": "01218598451e61f7affd5a8d3727fec3108565e1095d0d112358e61247d4510505340a",
-          "key_role": 2,
-          "sig_id": "ae76a8e0a45f5f76c915eb5a259bd4b79537c3d590b507cfc3f03fe3f16e25510f"
-        }
-      ]
-    },
-    "f6a0bd5958d0cbd118dd8b52def29318": {
-      "type": "backup",
-      "ctime": 1468544186,
-      "mtime": 1468544186,
-      "name": "game sting",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120186a3ba863acc8e5b8c8b46692baccd605e396d99d86308d7b7924b03cb4bd270a",
-          "key_role": 1,
-          "sig_id": "d5f159aa6baba0d3a8afaaa43aa9ac5e6452ea98ff07516be648d49ff12a69000f"
-        },
-        {
-          "kid": "0121d7b4757e38a8096065dd9c1c0191a723ddc91054ce07e52220458d04d575e7600a",
-          "key_role": 2,
-          "sig_id": "224e02b91fea7b9d917cde155d0f2b0ed0fc761dc2007799a68e4e50c4b9918c0f"
-        }
-      ]
-    }
-  }
+  "devices": {}
 }
