@@ -4,16 +4,16 @@
     "username": "jwaldrip",
     "ctime": 1410789874,
     "mtime": 1410789874,
-    "id_version": 18,
+    "id_version": 21,
     "track_version": 1,
-    "last_id_change": 1469124067,
+    "last_id_change": 1474034820,
     "username_cased": "jwaldrip"
   },
   "profile": {
-    "mtime": 1465968456,
+    "mtime": 1474036088,
     "full_name": "Jason Waldrip",
     "location": "Denver, CO",
-    "bio": "CTO @ Brandfolder.com"
+    "bio": null
   },
   "public_keys": {
     "primary": {
@@ -38,16 +38,20 @@
       "01206db58b944ebb5ab6b0b4399bcd43a7f24362bc2a5528ec268bcb6dfeda68f8310a",
       "0121391c794c035e692473e70fe592e2abb321d0a3eb402f5228ce7fd89f889b8e110a",
       "01201e985bb2c490ee101acddfcf7bf221b1e6fdadfb3b66ec8cfd0075a2517938cc0a",
-      "0121600b251bd161ef320e27d4427e194707113723fa40a2f757461619e81be6cb1e0a"
+      "0121600b251bd161ef320e27d4427e194707113723fa40a2f757461619e81be6cb1e0a",
+      "0120e2f0b5f3f47afd96a6d5029151f3e1c1afe5e9afbdc8679bbcd981582ff89ee10a",
+      "0121a74978402e3420ebe0455b3f466b671cd9588418b163f7b321becb7e4cde94240a"
     ],
     "subkeys": [
       "0121391c794c035e692473e70fe592e2abb321d0a3eb402f5228ce7fd89f889b8e110a",
-      "0121600b251bd161ef320e27d4427e194707113723fa40a2f757461619e81be6cb1e0a"
+      "0121600b251bd161ef320e27d4427e194707113723fa40a2f757461619e81be6cb1e0a",
+      "0121a74978402e3420ebe0455b3f466b671cd9588418b163f7b321becb7e4cde94240a"
     ],
     "sibkeys": [
       "01010b191a7e7dadfe5574ebdb3879b7f891ae0481a1c5646b8c2beb81a5e973f3040a",
       "01206db58b944ebb5ab6b0b4399bcd43a7f24362bc2a5528ec268bcb6dfeda68f8310a",
-      "01201e985bb2c490ee101acddfcf7bf221b1e6fdadfb3b66ec8cfd0075a2517938cc0a"
+      "01201e985bb2c490ee101acddfcf7bf221b1e6fdadfb3b66ec8cfd0075a2517938cc0a",
+      "0120e2f0b5f3f47afd96a6d5029151f3e1c1afe5e9afbdc8679bbcd981582ff89ee10a"
     ],
     "families": {
       "01010b191a7e7dadfe5574ebdb3879b7f891ae0481a1c5646b8c2beb81a5e973f3040a": [
@@ -55,7 +59,9 @@
         "01206db58b944ebb5ab6b0b4399bcd43a7f24362bc2a5528ec268bcb6dfeda68f8310a",
         "0121391c794c035e692473e70fe592e2abb321d0a3eb402f5228ce7fd89f889b8e110a",
         "01201e985bb2c490ee101acddfcf7bf221b1e6fdadfb3b66ec8cfd0075a2517938cc0a",
-        "0121600b251bd161ef320e27d4427e194707113723fa40a2f757461619e81be6cb1e0a"
+        "0121600b251bd161ef320e27d4427e194707113723fa40a2f757461619e81be6cb1e0a",
+        "0120e2f0b5f3f47afd96a6d5029151f3e1c1afe5e9afbdc8679bbcd981582ff89ee10a",
+        "0121a74978402e3420ebe0455b3f466b671cd9588418b163f7b321becb7e4cde94240a"
       ]
     },
     "eldest_kid": "01010b191a7e7dadfe5574ebdb3879b7f891ae0481a1c5646b8c2beb81a5e973f3040a",
@@ -111,7 +117,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/jwaldrip",
+          "nametag": "jwaldrip",
           "state": 1,
           "proof_url": "https://coinbase.com/jwaldrip/public-key",
           "sig_id": "05e8c555751fb3779a2b832956e286146062b4139d2387619ef78da69722a6a80f",
@@ -197,7 +203,7 @@
       "coinbase": [
         {
           "proof_type": "coinbase",
-          "nametag": "coinbase/jwaldrip",
+          "nametag": "jwaldrip",
           "state": 1,
           "proof_url": "https://coinbase.com/jwaldrip/public-key",
           "sig_id": "05e8c555751fb3779a2b832956e286146062b4139d2387619ef78da69722a6a80f",
@@ -276,7 +282,7 @@
       },
       {
         "proof_type": "coinbase",
-        "nametag": "coinbase/jwaldrip",
+        "nametag": "jwaldrip",
         "state": 1,
         "proof_url": "https://coinbase.com/jwaldrip/public-key",
         "sig_id": "05e8c555751fb3779a2b832956e286146062b4139d2387619ef78da69722a6a80f",
@@ -330,12 +336,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5cd10d47ac441685eca1dc1a94c618a84376b44e6c250c29088b58f7866ed20f0f",
-      "seqno": 13,
-      "payload_hash": "2a0c66dc64c4360b24057e9d0f257b5d21fee806201c13c56cb85bd898e9e55b"
+      "sig_id": "4c1419d8908224856fc994b4e87720411e569ffcda817240ea3d2d50e39f39600f",
+      "seqno": 15,
+      "payload_hash": "77d21c2549285c32e3826131867e9f002b77121c0f6aa9329e9448bdf39ffd9a"
     }
   },
   "devices": {
+    "064d9d6551ff883b945b3bf465195218": {
+      "type": "desktop",
+      "ctime": 1474034820,
+      "mtime": 1474034820,
+      "name": "Jason Waldrip's CT MacBook Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120e2f0b5f3f47afd96a6d5029151f3e1c1afe5e9afbdc8679bbcd981582ff89ee10a",
+          "key_role": 1,
+          "sig_id": "f5e60b5ebc8bfa7cb1b89c24c15f148b92d5c51d83d3b84fb7ea8c50bb5db0770f"
+        },
+        {
+          "kid": "0121a74978402e3420ebe0455b3f466b671cd9588418b163f7b321becb7e4cde94240a",
+          "key_role": 2,
+          "sig_id": "4c1419d8908224856fc994b4e87720411e569ffcda817240ea3d2d50e39f39600f"
+        }
+      ]
+    },
     "2825da3587f2f6d10d30e03c0455f618": {
       "type": "backup",
       "ctime": 1465969136,
