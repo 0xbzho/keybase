@@ -1,0 +1,92 @@
+{
+  "id": "889b79c49a7f550223ff4a076100b919",
+  "basics": {
+    "username": "valta",
+    "ctime": 1471821016,
+    "mtime": 1471821016,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1471821020,
+    "username_cased": "valta"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121250f6fa9d9018f4abdc5a55df6cf9deeef8e6f6506aaadf96c01bbc2fd0c77080a",
+      "01207deb6198d01b85be54f677234220f082da662eff6c891a7113539c30f0ec1be90a",
+      "0121daf5934ccc8b4a33f3308f9054ad910781199a42943634f957f12fcb7d357d710a",
+      "01209cb3da20ceeaa1d07523b63aa12856ce4363be78fdda57f6db5f3f5445cb8e770a"
+    ],
+    "subkeys": [
+      "0121250f6fa9d9018f4abdc5a55df6cf9deeef8e6f6506aaadf96c01bbc2fd0c77080a",
+      "0121daf5934ccc8b4a33f3308f9054ad910781199a42943634f957f12fcb7d357d710a"
+    ],
+    "sibkeys": [
+      "01207deb6198d01b85be54f677234220f082da662eff6c891a7113539c30f0ec1be90a",
+      "01209cb3da20ceeaa1d07523b63aa12856ce4363be78fdda57f6db5f3f5445cb8e770a"
+    ],
+    "families": {
+      "01207deb6198d01b85be54f677234220f082da662eff6c891a7113539c30f0ec1be90a": [
+        "0121250f6fa9d9018f4abdc5a55df6cf9deeef8e6f6506aaadf96c01bbc2fd0c77080a",
+        "01207deb6198d01b85be54f677234220f082da662eff6c891a7113539c30f0ec1be90a",
+        "0121daf5934ccc8b4a33f3308f9054ad910781199a42943634f957f12fcb7d357d710a",
+        "01209cb3da20ceeaa1d07523b63aa12856ce4363be78fdda57f6db5f3f5445cb8e770a"
+      ]
+    },
+    "eldest_kid": "01207deb6198d01b85be54f677234220f082da662eff6c891a7113539c30f0ec1be90a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "0a2b748c03eb125349446c17ffbf43b052ad791b5b4567cb67742eec53d75df40f",
+      "seqno": 4,
+      "payload_hash": "a625cd3c24bd427618e1ee2fecbf9f58d2d6f27b2bb8330f02edc87222cee3a0"
+    }
+  },
+  "devices": {
+    "0cbb037c9bab933a5f2bfee895d8e218": {
+      "type": "backup",
+      "ctime": 1471821020,
+      "mtime": 1471821020,
+      "name": "ice slow",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209cb3da20ceeaa1d07523b63aa12856ce4363be78fdda57f6db5f3f5445cb8e770a",
+          "key_role": 1,
+          "sig_id": "43791206eb62176fc6c1b5229a8e26526c90da729b8ec27d2ad8b3ffcbcbd0080f"
+        },
+        {
+          "kid": "0121daf5934ccc8b4a33f3308f9054ad910781199a42943634f957f12fcb7d357d710a",
+          "key_role": 2,
+          "sig_id": "0a2b748c03eb125349446c17ffbf43b052ad791b5b4567cb67742eec53d75df40f"
+        }
+      ]
+    },
+    "77d1f1ccb00aab1367e075c4fd95fc18": {
+      "type": "desktop",
+      "ctime": 1471821019,
+      "mtime": 1471821019,
+      "name": "Versent's Mac",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207deb6198d01b85be54f677234220f082da662eff6c891a7113539c30f0ec1be90a",
+          "key_role": 1,
+          "sig_id": "00a16ec04cdd895f16c86f560d445d118c96044b49348c9c8ce447506b18daf80f"
+        },
+        {
+          "kid": "0121250f6fa9d9018f4abdc5a55df6cf9deeef8e6f6506aaadf96c01bbc2fd0c77080a",
+          "key_role": 2,
+          "sig_id": "5aded7a3263250120703594f8492813d1febdc041747f4fdd427d52e943eff200f"
+        }
+      ]
+    }
+  }
+}
