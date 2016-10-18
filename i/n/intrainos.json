@@ -4,9 +4,9 @@
     "username": "intrainos",
     "ctime": 1437728837,
     "mtime": 1437728837,
-    "id_version": 95,
+    "id_version": 97,
     "track_version": 7,
-    "last_id_change": 1476223588,
+    "last_id_change": 1476788555,
     "username_cased": "Intrainos"
   },
   "profile": {
@@ -63,18 +63,20 @@
       "01202cfe86fb2db88cf435c7bc28781d754385f9c3095c45f0138859fe1fe061992c0a",
       "01217731d91ee81cf54cf85cb16ac69985ae9abe34968380541d1982b416636f597a0a",
       "0120843e9291f8a2b7c2c4d6f0af70374b33c2e924cb14a26497217b6e24d21bf5710a",
-      "012140f7fbfb421d4ca928bf5446cc08e8255f37ef88a9045bb8b57aa605fbcb474d0a"
+      "012140f7fbfb421d4ca928bf5446cc08e8255f37ef88a9045bb8b57aa605fbcb474d0a",
+      "01206eaee2e30c7b50e4171113e186cd80e9a81d8f63f2bff79c2a496435131626da0a",
+      "012167b4cb1915eacc9060580027fe9e8928dcf8465589ac912d7a458bc0a46d5b160a"
     ],
     "subkeys": [
       "01213ce856edbe243e88b4a67fea92c3d282806922a57ed0863431b18f56d0e99c440a",
       "01217731d91ee81cf54cf85cb16ac69985ae9abe34968380541d1982b416636f597a0a",
-      "012140f7fbfb421d4ca928bf5446cc08e8255f37ef88a9045bb8b57aa605fbcb474d0a"
+      "012167b4cb1915eacc9060580027fe9e8928dcf8465589ac912d7a458bc0a46d5b160a"
     ],
     "sibkeys": [
       "0101ff04977a8333bd94eaf2d19b7385d8d78cf68107459606d358d310efdea7c3ad0a",
       "01209cdc1188d44361c3edf712c368a5bdf0d7eea683aba19c8afd7fbce11e6287350a",
       "01202cfe86fb2db88cf435c7bc28781d754385f9c3095c45f0138859fe1fe061992c0a",
-      "0120843e9291f8a2b7c2c4d6f0af70374b33c2e924cb14a26497217b6e24d21bf5710a"
+      "01206eaee2e30c7b50e4171113e186cd80e9a81d8f63f2bff79c2a496435131626da0a"
     ],
     "families": {
       "0101ff04977a8333bd94eaf2d19b7385d8d78cf68107459606d358d310efdea7c3ad0a": [
@@ -107,7 +109,9 @@
         "01202cfe86fb2db88cf435c7bc28781d754385f9c3095c45f0138859fe1fe061992c0a",
         "01217731d91ee81cf54cf85cb16ac69985ae9abe34968380541d1982b416636f597a0a",
         "0120843e9291f8a2b7c2c4d6f0af70374b33c2e924cb14a26497217b6e24d21bf5710a",
-        "012140f7fbfb421d4ca928bf5446cc08e8255f37ef88a9045bb8b57aa605fbcb474d0a"
+        "012140f7fbfb421d4ca928bf5446cc08e8255f37ef88a9045bb8b57aa605fbcb474d0a",
+        "01206eaee2e30c7b50e4171113e186cd80e9a81d8f63f2bff79c2a496435131626da0a",
+        "012167b4cb1915eacc9060580027fe9e8928dcf8465589ac912d7a458bc0a46d5b160a"
       ]
     },
     "eldest_kid": "0101ff04977a8333bd94eaf2d19b7385d8d78cf68107459606d358d310efdea7c3ad0a",
@@ -173,6 +177,20 @@
           "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "intrainos.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/intrainos/sigchain#f5a5b579a9676d2a3ddce51200bbcf4369541cf9c9059b13801b4fbd99a720550f",
+          "sig_id": "f5a5b579a9676d2a3ddce51200bbcf4369541cf9c9059b13801b4fbd99a720550f",
+          "proof_id": "dabcc258b206b6fb4a46f710",
+          "human_url": "dns://intrainos.net",
+          "service_url": "http://intrainos.net",
+          "presentation_group": "intrainos.net",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -231,6 +249,20 @@
           "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
+      ],
+      "intrainos.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "intrainos.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/intrainos/sigchain#f5a5b579a9676d2a3ddce51200bbcf4369541cf9c9059b13801b4fbd99a720550f",
+          "sig_id": "f5a5b579a9676d2a3ddce51200bbcf4369541cf9c9059b13801b4fbd99a720550f",
+          "proof_id": "dabcc258b206b6fb4a46f710",
+          "human_url": "dns://intrainos.net",
+          "service_url": "http://intrainos.net",
+          "presentation_group": "intrainos.net",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -281,6 +313,18 @@
         "service_url": "https://coinbase.com/intrainos",
         "presentation_group": "coinbase",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "intrainos.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/intrainos/sigchain#f5a5b579a9676d2a3ddce51200bbcf4369541cf9c9059b13801b4fbd99a720550f",
+        "sig_id": "f5a5b579a9676d2a3ddce51200bbcf4369541cf9c9059b13801b4fbd99a720550f",
+        "proof_id": "dabcc258b206b6fb4a46f710",
+        "human_url": "dns://intrainos.net",
+        "service_url": "http://intrainos.net",
+        "presentation_group": "intrainos.net",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -295,9 +339,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "153d1c8524a2fc7ade4fff68543c1ec62b58f795af2eaaa6bc1aa942746945470f",
-      "seqno": 45,
-      "payload_hash": "94fd3e7ca75c88c69ca2aab8b2539a3fe223563a56a8b3c90f800a56ab88ebff"
+      "sig_id": "33f4575912995932884232764564281add754f02b1dbaefca485f2442005dccf0f",
+      "seqno": 48,
+      "payload_hash": "ba4e40cedc11b3859dd60bbf8ab33375dcde6a8c32a48cde40d82820d4d96117"
     }
   },
   "devices": {
@@ -339,22 +383,22 @@
         }
       ]
     },
-    "620bc0735c12430c19b3185d3f9fdf18": {
+    "f6ea88935d04aaa88d3b8b7a1861fb18": {
       "type": "desktop",
-      "ctime": 1468504867,
-      "mtime": 1468504867,
-      "name": "HP_ProBook",
+      "ctime": 1476780265,
+      "mtime": 1476780265,
+      "name": "HP_Gentoo",
       "status": 1,
       "keys": [
         {
-          "kid": "0120843e9291f8a2b7c2c4d6f0af70374b33c2e924cb14a26497217b6e24d21bf5710a",
+          "kid": "01206eaee2e30c7b50e4171113e186cd80e9a81d8f63f2bff79c2a496435131626da0a",
           "key_role": 1,
-          "sig_id": "46de2aa190ddf8f7b59f6dd05ff40b7e17853d4b819c3f0519f9cee7498ceb450f"
+          "sig_id": "0a65243cd06b0a146d5deb611ae795cb0d1c846ab048570ca70d8777489dc0ac0f"
         },
         {
-          "kid": "012140f7fbfb421d4ca928bf5446cc08e8255f37ef88a9045bb8b57aa605fbcb474d0a",
+          "kid": "012167b4cb1915eacc9060580027fe9e8928dcf8465589ac912d7a458bc0a46d5b160a",
           "key_role": 2,
-          "sig_id": "153d1c8524a2fc7ade4fff68543c1ec62b58f795af2eaaa6bc1aa942746945470f"
+          "sig_id": "79c75429a3f85d8d9f265fb767ddc4d8d8cfff1e1b3ed3033695056ce60f1a580f"
         }
       ]
     }
