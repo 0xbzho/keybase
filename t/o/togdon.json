@@ -1,0 +1,92 @@
+{
+  "id": "a72398483a524bdf6b0af519eb8b1119",
+  "basics": {
+    "username": "togdon",
+    "ctime": 1474570992,
+    "mtime": 1474570992,
+    "id_version": 3,
+    "track_version": 0,
+    "last_id_change": 1474647235,
+    "username_cased": "togdon"
+  },
+  "public_keys": {
+    "all_bundles": [
+      "012058b9c8ecb7952057c2b9f97ca1abe800ab28ecd010a00187d4ef41f12167d9790a",
+      "0121aa49ceb3afd3ad5ba156371abfd87481527809c031e844ef0ab5897310b9f6230a",
+      "0120e472a39db61d9fb88ae54c8a6cc1b85a058721e6858a11f71d1631af7448c4b80a",
+      "01213b42ec5f502021e39946bade36bb5908670ca42c6434b5f9c6ffd2f89655d24b0a"
+    ],
+    "subkeys": [
+      "0121aa49ceb3afd3ad5ba156371abfd87481527809c031e844ef0ab5897310b9f6230a",
+      "01213b42ec5f502021e39946bade36bb5908670ca42c6434b5f9c6ffd2f89655d24b0a"
+    ],
+    "sibkeys": [
+      "012058b9c8ecb7952057c2b9f97ca1abe800ab28ecd010a00187d4ef41f12167d9790a",
+      "0120e472a39db61d9fb88ae54c8a6cc1b85a058721e6858a11f71d1631af7448c4b80a"
+    ],
+    "families": {
+      "0120e472a39db61d9fb88ae54c8a6cc1b85a058721e6858a11f71d1631af7448c4b80a": [
+        "012058b9c8ecb7952057c2b9f97ca1abe800ab28ecd010a00187d4ef41f12167d9790a",
+        "0121aa49ceb3afd3ad5ba156371abfd87481527809c031e844ef0ab5897310b9f6230a",
+        "0120e472a39db61d9fb88ae54c8a6cc1b85a058721e6858a11f71d1631af7448c4b80a",
+        "01213b42ec5f502021e39946bade36bb5908670ca42c6434b5f9c6ffd2f89655d24b0a"
+      ]
+    },
+    "eldest_kid": "0120e472a39db61d9fb88ae54c8a6cc1b85a058721e6858a11f71d1631af7448c4b80a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "d6615142654c83fc98636c2da2f8903dcca9634d2fee8e5e0b09b26487e941800f",
+      "seqno": 4,
+      "payload_hash": "015be2655f6d51a6d2d7790f7e352c0fb72b9fdc3077fc21fc9f7b1734676d76"
+    }
+  },
+  "devices": {
+    "3724516319f1950d99f46b7298e9ac18": {
+      "type": "desktop",
+      "ctime": 1474570993,
+      "mtime": 1474570993,
+      "name": "Work Laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120e472a39db61d9fb88ae54c8a6cc1b85a058721e6858a11f71d1631af7448c4b80a",
+          "key_role": 1,
+          "sig_id": "c59195efa15d83998421c84cf3641bfe90c611930d427ac67315a4a27f4223170f"
+        },
+        {
+          "kid": "0121aa49ceb3afd3ad5ba156371abfd87481527809c031e844ef0ab5897310b9f6230a",
+          "key_role": 2,
+          "sig_id": "13a5ea1a7b92afb22e54c47997f64d4c12a4441624f9e4a59fa28d1a258821df0f"
+        }
+      ]
+    },
+    "43299afd1233102c758865474131f618": {
+      "type": "backup",
+      "ctime": 1474570993,
+      "mtime": 1474570993,
+      "name": "sad breeze",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012058b9c8ecb7952057c2b9f97ca1abe800ab28ecd010a00187d4ef41f12167d9790a",
+          "key_role": 1,
+          "sig_id": "fd011ed6bc41e3d727e2cec310861c377f5b53f05690e1c669fe3915fcbd1a0a0f"
+        },
+        {
+          "kid": "01213b42ec5f502021e39946bade36bb5908670ca42c6434b5f9c6ffd2f89655d24b0a",
+          "key_role": 2,
+          "sig_id": "d6615142654c83fc98636c2da2f8903dcca9634d2fee8e5e0b09b26487e941800f"
+        }
+      ]
+    }
+  }
+}
