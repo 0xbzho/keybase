@@ -4,9 +4,9 @@
     "username": "bromanko",
     "ctime": 1396998320,
     "mtime": 1396998320,
-    "id_version": 19,
+    "id_version": 20,
     "track_version": 38,
-    "last_id_change": 1467386351,
+    "last_id_change": 1476833844,
     "username_cased": "bromanko"
   },
   "profile": {
@@ -39,16 +39,18 @@
       "0120099ca1a23a3584324cfbbd0b5cc926d69b38bf4949f93bf5b860f36cefaebeda0a",
       "01214724d3b6b3c1e46a89850210a3d2219f6c16f35068696b1a9ec6ad5584e6027f0a",
       "01200778be4502e6d8a53dc09827b49807c174332811ecb159a8988cd3f4cef3c6360a",
-      "0121d3bd30e0d272f125764989993389f63df233d9f6db038699f053bd8dedceb9600a"
+      "0121d3bd30e0d272f125764989993389f63df233d9f6db038699f053bd8dedceb9600a",
+      "0120397ba6e25360284057776b7a8c7a978caafbde31f774bf665e58592f2fe3ca890a",
+      "01216987d985091c5aab99e628f032ddca90eb118491a53b7f585b8574d545d0033f0a"
     ],
     "subkeys": [
-      "01214724d3b6b3c1e46a89850210a3d2219f6c16f35068696b1a9ec6ad5584e6027f0a",
-      "0121d3bd30e0d272f125764989993389f63df233d9f6db038699f053bd8dedceb9600a"
+      "0121d3bd30e0d272f125764989993389f63df233d9f6db038699f053bd8dedceb9600a",
+      "01216987d985091c5aab99e628f032ddca90eb118491a53b7f585b8574d545d0033f0a"
     ],
     "sibkeys": [
       "01019ddac81c4085a97aa200ff777e8670fc0ffd07c5aea0599a3a117fcc8db933d80a",
       "0120099ca1a23a3584324cfbbd0b5cc926d69b38bf4949f93bf5b860f36cefaebeda0a",
-      "01200778be4502e6d8a53dc09827b49807c174332811ecb159a8988cd3f4cef3c6360a"
+      "0120397ba6e25360284057776b7a8c7a978caafbde31f774bf665e58592f2fe3ca890a"
     ],
     "families": {
       "01019ddac81c4085a97aa200ff777e8670fc0ffd07c5aea0599a3a117fcc8db933d80a": [
@@ -57,7 +59,9 @@
         "0120099ca1a23a3584324cfbbd0b5cc926d69b38bf4949f93bf5b860f36cefaebeda0a",
         "01214724d3b6b3c1e46a89850210a3d2219f6c16f35068696b1a9ec6ad5584e6027f0a",
         "01200778be4502e6d8a53dc09827b49807c174332811ecb159a8988cd3f4cef3c6360a",
-        "0121d3bd30e0d272f125764989993389f63df233d9f6db038699f053bd8dedceb9600a"
+        "0121d3bd30e0d272f125764989993389f63df233d9f6db038699f053bd8dedceb9600a",
+        "0120397ba6e25360284057776b7a8c7a978caafbde31f774bf665e58592f2fe3ca890a",
+        "01216987d985091c5aab99e628f032ddca90eb118491a53b7f585b8574d545d0033f0a"
       ]
     },
     "eldest_kid": "01019ddac81c4085a97aa200ff777e8670fc0ffd07c5aea0599a3a117fcc8db933d80a",
@@ -205,12 +209,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3531b7e02b52493a52faaf08f31af4122092504b35c669d9a8e939b8eb7808db0f",
-      "seqno": 51,
-      "payload_hash": "3b9e44c783d59536fac68135c46176603f70f6d1d12543622095d1d0de1089f7"
+      "sig_id": "c626983e4e88cb82b07ac08394dec7e0b659abe6bf24702dfe150bb392371a380f",
+      "seqno": 54,
+      "payload_hash": "2d3adc9f801da8354f357d786aae9de8fdf8d2f6e9f0dc9dc4e455bd802853d4"
     }
   },
   "devices": {
+    "49284a20bcbc8ec6bf06586b7cd87918": {
+      "type": "desktop",
+      "ctime": 1476833844,
+      "mtime": 1476833844,
+      "name": "Earnest Macbook Air 2",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120397ba6e25360284057776b7a8c7a978caafbde31f774bf665e58592f2fe3ca890a",
+          "key_role": 1,
+          "sig_id": "1fbbd06aef05369a36e63e099da34d9d9bba2ec0cda5b6dbee79da89c0035ad70f"
+        },
+        {
+          "kid": "01216987d985091c5aab99e628f032ddca90eb118491a53b7f585b8574d545d0033f0a",
+          "key_role": 2,
+          "sig_id": "024e44886064db73d4540f129da864886ab7916161a7f32d09fd74dde95482360f"
+        }
+      ]
+    },
     "f2bf90fe94a9d8962c2b0a798035b118": {
       "type": "backup",
       "ctime": 1467386351,
@@ -227,25 +250,6 @@
           "kid": "0121d3bd30e0d272f125764989993389f63df233d9f6db038699f053bd8dedceb9600a",
           "key_role": 2,
           "sig_id": "3531b7e02b52493a52faaf08f31af4122092504b35c669d9a8e939b8eb7808db0f"
-        }
-      ]
-    },
-    "f9b9dc04981dc5e54439eb555952a918": {
-      "type": "desktop",
-      "ctime": 1467386350,
-      "mtime": 1467386351,
-      "name": "Earnest Macbook Air",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01200778be4502e6d8a53dc09827b49807c174332811ecb159a8988cd3f4cef3c6360a",
-          "key_role": 1,
-          "sig_id": "cedc6ea11dfb835623f5d3817c8e6efabfce1a60623d915c22c0b45c5ef9fb850f"
-        },
-        {
-          "kid": "01214724d3b6b3c1e46a89850210a3d2219f6c16f35068696b1a9ec6ad5584e6027f0a",
-          "key_role": 2,
-          "sig_id": "fbae20d4f4dedeb0baf2176f2c7ca91067f1d65cdd542776f475bcabfce90b8a0f"
         }
       ]
     }
