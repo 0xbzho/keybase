@@ -4,9 +4,9 @@
     "username": "diogot",
     "ctime": 1460565348,
     "mtime": 1460565348,
-    "id_version": 17,
+    "id_version": 18,
     "track_version": 12,
-    "last_id_change": 1461026361,
+    "last_id_change": 1476796078,
     "username_cased": "diogot"
   },
   "profile": {
@@ -38,16 +38,18 @@
       "0121c9408b31eea4505e8bfd97c76c053c881f3ac69b5ac06094b5a26561a90cf4660a",
       "0120ac084740e612faa1ce641f5beaa1697d6c4938dbe72e44bd88cc00d281551bc30a",
       "0120c6810ab95ead71b00794f834ecae93562b41efc7a22fcdc8b67b5951afc1db030a",
-      "012130be65e94fc9d816c8c750fa3992de66955a137ac1792a9071ce00435ad20d140a"
+      "012130be65e94fc9d816c8c750fa3992de66955a137ac1792a9071ce00435ad20d140a",
+      "0121458fae10c7a4f702293063e7ecaf39a9d281566c391a87b5cc545c621b5505060a",
+      "0120a7c821c2a0534e8769f52b197ea32486dac15d2b2ebc6b7238f023b3728d5fca0a"
     ],
     "subkeys": [
-      "0121c9408b31eea4505e8bfd97c76c053c881f3ac69b5ac06094b5a26561a90cf4660a",
-      "012130be65e94fc9d816c8c750fa3992de66955a137ac1792a9071ce00435ad20d140a"
+      "012130be65e94fc9d816c8c750fa3992de66955a137ac1792a9071ce00435ad20d140a",
+      "0121458fae10c7a4f702293063e7ecaf39a9d281566c391a87b5cc545c621b5505060a"
     ],
     "sibkeys": [
       "0101a57ec2d5e3cd09ddaf440a313c9b28134285fe7dd06fa56098ca7898615795c30a",
-      "0120ac084740e612faa1ce641f5beaa1697d6c4938dbe72e44bd88cc00d281551bc30a",
-      "0120c6810ab95ead71b00794f834ecae93562b41efc7a22fcdc8b67b5951afc1db030a"
+      "0120c6810ab95ead71b00794f834ecae93562b41efc7a22fcdc8b67b5951afc1db030a",
+      "0120a7c821c2a0534e8769f52b197ea32486dac15d2b2ebc6b7238f023b3728d5fca0a"
     ],
     "families": {
       "0101a57ec2d5e3cd09ddaf440a313c9b28134285fe7dd06fa56098ca7898615795c30a": [
@@ -55,7 +57,9 @@
         "0121c9408b31eea4505e8bfd97c76c053c881f3ac69b5ac06094b5a26561a90cf4660a",
         "0120ac084740e612faa1ce641f5beaa1697d6c4938dbe72e44bd88cc00d281551bc30a",
         "0120c6810ab95ead71b00794f834ecae93562b41efc7a22fcdc8b67b5951afc1db030a",
-        "012130be65e94fc9d816c8c750fa3992de66955a137ac1792a9071ce00435ad20d140a"
+        "012130be65e94fc9d816c8c750fa3992de66955a137ac1792a9071ce00435ad20d140a",
+        "0121458fae10c7a4f702293063e7ecaf39a9d281566c391a87b5cc545c621b5505060a",
+        "0120a7c821c2a0534e8769f52b197ea32486dac15d2b2ebc6b7238f023b3728d5fca0a"
       ]
     },
     "eldest_kid": "0101a57ec2d5e3cd09ddaf440a313c9b28134285fe7dd06fa56098ca7898615795c30a",
@@ -241,31 +245,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7fd57ca404ef63f4934ca54316fc319d158976fb1111dc3046c11b2d98aea10f0f",
-      "seqno": 22,
-      "payload_hash": "3d33d1bf31206911628969a2a1207b7ae0ea725da07595a2aa77d077fee3258d"
+      "sig_id": "d28778032c2c96ead77bdbcd596f41449e610b82e2072f7ff12c0a6b8164cd1b0f",
+      "seqno": 25,
+      "payload_hash": "26e27e9a19e3ab22c424addf8cede521030ec369e7d9d7b44184b6dde7410ee0"
     }
   },
   "devices": {
-    "8bc2546a73620d70be1597c078005b18": {
-      "type": "desktop",
-      "ctime": 1460565720,
-      "mtime": 1460565720,
-      "name": "DeLorean",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120ac084740e612faa1ce641f5beaa1697d6c4938dbe72e44bd88cc00d281551bc30a",
-          "key_role": 1,
-          "sig_id": "84aaaa394dca257178f260979bfaf0ee55b023b8b83aa4e9359b1dd0f7ef85760f"
-        },
-        {
-          "kid": "0121c9408b31eea4505e8bfd97c76c053c881f3ac69b5ac06094b5a26561a90cf4660a",
-          "key_role": 2,
-          "sig_id": "4a487cee187c5cd7b43fa71c7488536db659d4aa3672a5ab93058748663687820f"
-        }
-      ]
-    },
     "cfc9767bcff34954ec3e23c15621fd18": {
       "type": "backup",
       "ctime": 1460565722,
@@ -282,6 +267,25 @@
           "kid": "012130be65e94fc9d816c8c750fa3992de66955a137ac1792a9071ce00435ad20d140a",
           "key_role": 2,
           "sig_id": "c26a4fa0024e4ac59573262880d6e39ccaf0f66a96b94c9d1e0fd008a2e72ee20f"
+        }
+      ]
+    },
+    "e78f8f4c11265fd5ddc55aaaa13a3618": {
+      "type": "desktop",
+      "ctime": 1476796078,
+      "mtime": 1476796078,
+      "name": "DeLorean16",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a7c821c2a0534e8769f52b197ea32486dac15d2b2ebc6b7238f023b3728d5fca0a",
+          "key_role": 1,
+          "sig_id": "bc2b445fef4ab0323f56f6be6198ec0fa88ac233c6392b3226bf4ca15fdbc1440f"
+        },
+        {
+          "kid": "0121458fae10c7a4f702293063e7ecaf39a9d281566c391a87b5cc545c621b5505060a",
+          "key_role": 2,
+          "sig_id": "56ff2201c0c7d0944ddb8320b23a927a905d8136138cb868bd46b41bf129fefb0f"
         }
       ]
     }
