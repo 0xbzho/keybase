@@ -4,9 +4,9 @@
     "username": "skylarsch",
     "ctime": 1396451647,
     "mtime": 1396451647,
-    "id_version": 64,
+    "id_version": 67,
     "track_version": 8,
-    "last_id_change": 1459464136,
+    "last_id_change": 1477004391,
     "username_cased": "skylarsch"
   },
   "profile": {
@@ -38,16 +38,18 @@
       "0121437b92494bf85973760879eb9e90ac404374f47baaac07d0b60e6c4d013174090a",
       "0120b7c9d3cc10a0bcff0277129c63c9c96309500ebbedd95cbbef6496a8d3b829750a",
       "0120de828282a240b43c9cc81ac5f50d2157d0f2e41ac56924e18527d62b0b82cb910a",
-      "012115137f68b26b1e3a35ace60436306aa5757f7058ac579b05cbadaf38833ff92b0a"
+      "012115137f68b26b1e3a35ace60436306aa5757f7058ac579b05cbadaf38833ff92b0a",
+      "0120ccd263b0f29579de1e24bfa46910a87f071fe51c7d6bfea89f66e44b1caebb670a",
+      "0121e50c73fc478946c3759e338d16c74fc99449cf81c324b88b95b848b57e57fd030a"
     ],
     "subkeys": [
-      "0121437b92494bf85973760879eb9e90ac404374f47baaac07d0b60e6c4d013174090a",
-      "012115137f68b26b1e3a35ace60436306aa5757f7058ac579b05cbadaf38833ff92b0a"
+      "012115137f68b26b1e3a35ace60436306aa5757f7058ac579b05cbadaf38833ff92b0a",
+      "0121e50c73fc478946c3759e338d16c74fc99449cf81c324b88b95b848b57e57fd030a"
     ],
     "sibkeys": [
       "0101d7064e557ca8531271d52a56b7309c145e56d7a1c893b78eea9ccdb2f013df860a",
-      "0120b7c9d3cc10a0bcff0277129c63c9c96309500ebbedd95cbbef6496a8d3b829750a",
-      "0120de828282a240b43c9cc81ac5f50d2157d0f2e41ac56924e18527d62b0b82cb910a"
+      "0120de828282a240b43c9cc81ac5f50d2157d0f2e41ac56924e18527d62b0b82cb910a",
+      "0120ccd263b0f29579de1e24bfa46910a87f071fe51c7d6bfea89f66e44b1caebb670a"
     ],
     "families": {
       "0101d7064e557ca8531271d52a56b7309c145e56d7a1c893b78eea9ccdb2f013df860a": [
@@ -55,7 +57,9 @@
         "0121437b92494bf85973760879eb9e90ac404374f47baaac07d0b60e6c4d013174090a",
         "0120b7c9d3cc10a0bcff0277129c63c9c96309500ebbedd95cbbef6496a8d3b829750a",
         "0120de828282a240b43c9cc81ac5f50d2157d0f2e41ac56924e18527d62b0b82cb910a",
-        "012115137f68b26b1e3a35ace60436306aa5757f7058ac579b05cbadaf38833ff92b0a"
+        "012115137f68b26b1e3a35ace60436306aa5757f7058ac579b05cbadaf38833ff92b0a",
+        "0120ccd263b0f29579de1e24bfa46910a87f071fe51c7d6bfea89f66e44b1caebb670a",
+        "0121e50c73fc478946c3759e338d16c74fc99449cf81c324b88b95b848b57e57fd030a"
       ]
     },
     "eldest_kid": "0101d7064e557ca8531271d52a56b7309c145e56d7a1c893b78eea9ccdb2f013df860a",
@@ -134,6 +138,18 @@
           "service_url": "http://schipp.co",
           "presentation_group": "schipp.co",
           "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "hyperlane.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/skylarsch/sigchain#baddacfb69618ae79a6c904aed0740107058dda3d91805cc083a710b088768910f",
+          "sig_id": "baddacfb69618ae79a6c904aed0740107058dda3d91805cc083a710b088768910f",
+          "proof_id": "847a321ffb9f67c3eb118610",
+          "human_url": "dns://hyperlane.net",
+          "service_url": "http://hyperlane.net",
+          "presentation_group": "hyperlane.net",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -207,6 +223,20 @@
           "presentation_group": "schipp.co",
           "presentation_tag": "dns"
         }
+      ],
+      "hyperlane.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "hyperlane.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/skylarsch/sigchain#baddacfb69618ae79a6c904aed0740107058dda3d91805cc083a710b088768910f",
+          "sig_id": "baddacfb69618ae79a6c904aed0740107058dda3d91805cc083a710b088768910f",
+          "proof_id": "847a321ffb9f67c3eb118610",
+          "human_url": "dns://hyperlane.net",
+          "service_url": "http://hyperlane.net",
+          "presentation_group": "hyperlane.net",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -259,6 +289,18 @@
         "presentation_tag": "dns"
       },
       {
+        "proof_type": "dns",
+        "nametag": "hyperlane.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/skylarsch/sigchain#baddacfb69618ae79a6c904aed0740107058dda3d91805cc083a710b088768910f",
+        "sig_id": "baddacfb69618ae79a6c904aed0740107058dda3d91805cc083a710b088768910f",
+        "proof_id": "847a321ffb9f67c3eb118610",
+        "human_url": "dns://hyperlane.net",
+        "service_url": "http://hyperlane.net",
+        "presentation_group": "hyperlane.net",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "skylarsch.com",
         "state": 1,
@@ -283,12 +325,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "02d01594bb67ef335a70d4b30707eb4c1b352fdeea276241cdd884c599dd4f6d0f",
-      "seqno": 17,
-      "payload_hash": "c608be3b4612e971f065b3134fbf1e3747b49f12c8b4d8e00a0d18b3ee2ce7be"
+      "sig_id": "baddacfb69618ae79a6c904aed0740107058dda3d91805cc083a710b088768910f",
+      "seqno": 21,
+      "payload_hash": "ac0d79eca01e9c964a790e573c4afd129b93ca49979ec0dde5ed0f7a847da9da"
     }
   },
   "devices": {
+    "59ff8bd0d6e865c5f0c1ea042deca218": {
+      "type": "desktop",
+      "ctime": 1477003731,
+      "mtime": 1477003731,
+      "name": "laptop 2_0",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ccd263b0f29579de1e24bfa46910a87f071fe51c7d6bfea89f66e44b1caebb670a",
+          "key_role": 1,
+          "sig_id": "4156ec16ac12aecdbbc4d98792c61743bf0c5a5ed04c27cbe6e1465b1bdd829f0f"
+        },
+        {
+          "kid": "0121e50c73fc478946c3759e338d16c74fc99449cf81c324b88b95b848b57e57fd030a",
+          "key_role": 2,
+          "sig_id": "fd2e3a0ab5287c12bdf5eb758ac0365eb7efa7b2c88642adbdae2f2f6f7a78ac0f"
+        }
+      ]
+    },
     "95742e83eb2c6501a94f303720987418": {
       "type": "backup",
       "ctime": 1459464136,
@@ -305,25 +366,6 @@
           "kid": "012115137f68b26b1e3a35ace60436306aa5757f7058ac579b05cbadaf38833ff92b0a",
           "key_role": 2,
           "sig_id": "02d01594bb67ef335a70d4b30707eb4c1b352fdeea276241cdd884c599dd4f6d0f"
-        }
-      ]
-    },
-    "e90ed5012f09eaa83ceb73d6cc37ec18": {
-      "type": "desktop",
-      "ctime": 1459464135,
-      "mtime": 1459464135,
-      "name": "Laptop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120b7c9d3cc10a0bcff0277129c63c9c96309500ebbedd95cbbef6496a8d3b829750a",
-          "key_role": 1,
-          "sig_id": "853f7603ac93b33850d62da8fbdd96ba3f1fafb53c5384c22c9c2f60ef063e500f"
-        },
-        {
-          "kid": "0121437b92494bf85973760879eb9e90ac404374f47baaac07d0b60e6c4d013174090a",
-          "key_role": 2,
-          "sig_id": "298ca89c06d23652df7bd4d8c478f3747cff837ce5401ebf320ce222eb98fc730f"
         }
       ]
     }
