@@ -4,10 +4,11 @@
     "username": "uncled1023",
     "ctime": 1456250475,
     "mtime": 1456250475,
-    "id_version": 41,
-    "track_version": 8,
-    "last_id_change": 1473400956,
-    "username_cased": "uncled1023"
+    "id_version": 51,
+    "track_version": 24,
+    "last_id_change": 1506892575,
+    "username_cased": "uncled1023",
+    "status": 0
   },
   "profile": {
     "mtime": 1456266775,
@@ -40,18 +41,22 @@
       "01212611483dcd003c65ab069d6363a3f20bcf6046c533463eea775d29052957d70b0a",
       "01202a2c9de92584ffed68e21728656ea145200a77ebc916586b199133c77902b81d0a",
       "01206b5ff24bce9e7549f64a4dbe051081a2412d52b89837eccf0b23060ff69c58130a",
-      "012181e55b3519f042abc0a03877f3d774115a5fce0b4ca52a21f9a404e0254672730a"
+      "012181e55b3519f042abc0a03877f3d774115a5fce0b4ca52a21f9a404e0254672730a",
+      "0120ebf9a904a39f68a82ce82c7b6c1cfb2c29dcf3fd34cf2f1552adf5c46ab8bf620a",
+      "0121d5c68601764f4b41b06ddc9c8200200567c89f22459d78b214ac6719159258380a"
     ],
     "subkeys": [
       "0121fa9103cfa608658db13b77e0f505cae1526a2083d12c5e90f5081b86ee7d154b0a",
       "01212611483dcd003c65ab069d6363a3f20bcf6046c533463eea775d29052957d70b0a",
-      "012181e55b3519f042abc0a03877f3d774115a5fce0b4ca52a21f9a404e0254672730a"
+      "012181e55b3519f042abc0a03877f3d774115a5fce0b4ca52a21f9a404e0254672730a",
+      "0121d5c68601764f4b41b06ddc9c8200200567c89f22459d78b214ac6719159258380a"
     ],
     "sibkeys": [
       "01019a0f0c62b6af6ea080b7c799782a71db5a071f4c4fec93732071d00c85d517580a",
       "0120c39ec82c2bcb51911ec0551cab21d501e0ce30cb6628f8875e1b98b8592a4c680a",
       "01202a2c9de92584ffed68e21728656ea145200a77ebc916586b199133c77902b81d0a",
-      "01206b5ff24bce9e7549f64a4dbe051081a2412d52b89837eccf0b23060ff69c58130a"
+      "01206b5ff24bce9e7549f64a4dbe051081a2412d52b89837eccf0b23060ff69c58130a",
+      "0120ebf9a904a39f68a82ce82c7b6c1cfb2c29dcf3fd34cf2f1552adf5c46ab8bf620a"
     ],
     "families": {
       "01019a0f0c62b6af6ea080b7c799782a71db5a071f4c4fec93732071d00c85d517580a": [
@@ -61,7 +66,9 @@
         "01212611483dcd003c65ab069d6363a3f20bcf6046c533463eea775d29052957d70b0a",
         "01202a2c9de92584ffed68e21728656ea145200a77ebc916586b199133c77902b81d0a",
         "01206b5ff24bce9e7549f64a4dbe051081a2412d52b89837eccf0b23060ff69c58130a",
-        "012181e55b3519f042abc0a03877f3d774115a5fce0b4ca52a21f9a404e0254672730a"
+        "012181e55b3519f042abc0a03877f3d774115a5fce0b4ca52a21f9a404e0254672730a",
+        "0120ebf9a904a39f68a82ce82c7b6c1cfb2c29dcf3fd34cf2f1552adf5c46ab8bf620a",
+        "0121d5c68601764f4b41b06ddc9c8200200567c89f22459d78b214ac6719159258380a"
       ]
     },
     "eldest_kid": "01019a0f0c62b6af6ea080b7c799782a71db5a071f4c4fec93732071d00c85d517580a",
@@ -114,19 +121,21 @@
           "presentation_tag": "post"
         }
       ],
-      "dns": [
+      "hackernews": [
         {
-          "proof_type": "dns",
-          "nametag": "tknk.io",
+          "proof_type": "hackernews",
+          "nametag": "uncled1023",
           "state": 1,
-          "proof_url": "https://keybase.io/uncled1023/sigchain#ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
-          "sig_id": "ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
-          "proof_id": "59db9999e4ebdda02abb3110",
-          "human_url": "dns://tknk.io",
-          "service_url": "http://tknk.io",
-          "presentation_group": "tknk.io",
-          "presentation_tag": "dns"
-        },
+          "proof_url": "https://news.ycombinator.com/user?id=uncled1023",
+          "sig_id": "1994e23b33aee8fa902004f5099ee36bf7ee4d0f6b8a156a0a1fc484bd399a3d0f",
+          "proof_id": "b8e8bb233456696ac5c20f10",
+          "human_url": "https://news.ycombinator.com/user?id=uncled1023",
+          "service_url": "https://news.ycombinator.com/user?id=uncled1023",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
+      "dns": [
         {
           "proof_type": "dns",
           "nametag": "teknik.io",
@@ -137,6 +146,18 @@
           "human_url": "dns://teknik.io",
           "service_url": "http://teknik.io",
           "presentation_group": "teknik.io",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "tknk.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/uncled1023/sigchain#ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
+          "sig_id": "ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
+          "proof_id": "59db9999e4ebdda02abb3110",
+          "human_url": "dns://tknk.io",
+          "service_url": "http://tknk.io",
+          "presentation_group": "tknk.io",
           "presentation_tag": "dns"
         }
       ]
@@ -184,18 +205,18 @@
           "presentation_tag": "post"
         }
       ],
-      "tknk.io": [
+      "hackernews": [
         {
-          "proof_type": "dns",
-          "nametag": "tknk.io",
+          "proof_type": "hackernews",
+          "nametag": "uncled1023",
           "state": 1,
-          "proof_url": "https://keybase.io/uncled1023/sigchain#ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
-          "sig_id": "ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
-          "proof_id": "59db9999e4ebdda02abb3110",
-          "human_url": "dns://tknk.io",
-          "service_url": "http://tknk.io",
-          "presentation_group": "tknk.io",
-          "presentation_tag": "dns"
+          "proof_url": "https://news.ycombinator.com/user?id=uncled1023",
+          "sig_id": "1994e23b33aee8fa902004f5099ee36bf7ee4d0f6b8a156a0a1fc484bd399a3d0f",
+          "proof_id": "b8e8bb233456696ac5c20f10",
+          "human_url": "https://news.ycombinator.com/user?id=uncled1023",
+          "service_url": "https://news.ycombinator.com/user?id=uncled1023",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
         }
       ],
       "teknik.io": [
@@ -209,6 +230,20 @@
           "human_url": "dns://teknik.io",
           "service_url": "http://teknik.io",
           "presentation_group": "teknik.io",
+          "presentation_tag": "dns"
+        }
+      ],
+      "tknk.io": [
+        {
+          "proof_type": "dns",
+          "nametag": "tknk.io",
+          "state": 1,
+          "proof_url": "https://keybase.io/uncled1023/sigchain#ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
+          "sig_id": "ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
+          "proof_id": "59db9999e4ebdda02abb3110",
+          "human_url": "dns://tknk.io",
+          "service_url": "http://tknk.io",
+          "presentation_group": "tknk.io",
           "presentation_tag": "dns"
         }
       ]
@@ -251,16 +286,16 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "dns",
-        "nametag": "tknk.io",
+        "proof_type": "hackernews",
+        "nametag": "uncled1023",
         "state": 1,
-        "proof_url": "https://keybase.io/uncled1023/sigchain#ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
-        "sig_id": "ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
-        "proof_id": "59db9999e4ebdda02abb3110",
-        "human_url": "dns://tknk.io",
-        "service_url": "http://tknk.io",
-        "presentation_group": "tknk.io",
-        "presentation_tag": "dns"
+        "proof_url": "https://news.ycombinator.com/user?id=uncled1023",
+        "sig_id": "1994e23b33aee8fa902004f5099ee36bf7ee4d0f6b8a156a0a1fc484bd399a3d0f",
+        "proof_id": "b8e8bb233456696ac5c20f10",
+        "human_url": "https://news.ycombinator.com/user?id=uncled1023",
+        "service_url": "https://news.ycombinator.com/user?id=uncled1023",
+        "presentation_group": "hackernews",
+        "presentation_tag": "profile"
       },
       {
         "proof_type": "dns",
@@ -273,20 +308,32 @@
         "service_url": "http://teknik.io",
         "presentation_group": "teknik.io",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "tknk.io",
+        "state": 1,
+        "proof_url": "https://keybase.io/uncled1023/sigchain#ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
+        "sig_id": "ac39b1e535efaa85be396cbaeb9fd0f763a1634d4338447c439a900a10423a4a0f",
+        "proof_id": "59db9999e4ebdda02abb3110",
+        "human_url": "dns://tknk.io",
+        "service_url": "http://tknk.io",
+        "presentation_group": "tknk.io",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {
     "bitcoin": [
       {
-        "address": "1KtqFEt3cyb3VY134ZfivThaP73JLoStLh",
-        "sig_id": "500e2b1a0052de8b50972f431e938d14ba426aafff03055dd08b2e6a455905170f"
+        "address": "1AMHcMHvq68M6eu2z8A6L1bStMKgCHQ4R3",
+        "sig_id": "2058c3509318fb0c71b0a7125ab41adbf35371d40becf1a24a44f0b005b414d80f"
       }
     ]
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/030e3a280cee10cccaba6f345bccd405_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/4dfc6cb081effbd1f3b7d5d79a71e205_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -294,9 +341,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5d34925a1d26cf660efc6b0e29ce9d0eef7124288822767c19b5a95760f331850f",
-      "seqno": 25,
-      "payload_hash": "f731afb707eee571ffe7c488221c41093f5c79d488c8a21c44c537ccc649b2d7"
+      "sig_id": "c35860404fd1c3a0144195c2ffa47067d9c8616501cd82994d3a0cdf3c340f700f",
+      "seqno": 46,
+      "payload_hash": "ba28ffcff1c679ea31894cffb20dfff1baf359bf20f85dd552be6893d7e26633"
     }
   },
   "devices": {
@@ -321,8 +368,8 @@
     },
     "92865c3b47366886d5e29fc0c6bdf318": {
       "type": "desktop",
-      "ctime": 1467522649,
-      "mtime": 1467522649,
+      "ctime": 1467526249,
+      "mtime": 1467526249,
       "name": "Workstation",
       "status": 1,
       "keys": [
@@ -335,6 +382,25 @@
           "kid": "012181e55b3519f042abc0a03877f3d774115a5fce0b4ca52a21f9a404e0254672730a",
           "key_role": 2,
           "sig_id": "ddf996fe78112e9ea60740ffe6835ca789853aeb733d2ccca37e18b36021c3ba0f"
+        }
+      ]
+    },
+    "c33da23e69a11f802452728521d77218": {
+      "type": "mobile",
+      "ctime": 1504302019,
+      "mtime": 1504302019,
+      "name": "Essential PH-1",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ebf9a904a39f68a82ce82c7b6c1cfb2c29dcf3fd34cf2f1552adf5c46ab8bf620a",
+          "key_role": 1,
+          "sig_id": "e012a8cb6183cb4da49a2c66cb90624724f82fd5c66c0247912b69c044e8b4ae0f"
+        },
+        {
+          "kid": "0121d5c68601764f4b41b06ddc9c8200200567c89f22459d78b214ac6719159258380a",
+          "key_role": 2,
+          "sig_id": "8e3326b1b128a61c29525587abca7e42b604f8cdd90b57b04b330bb9e5cbadac0f"
         }
       ]
     },
