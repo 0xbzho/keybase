@@ -2,18 +2,19 @@
   "id": "c1b4328791df6ad36d1f6d114147e400",
   "basics": {
     "username": "franziroesner",
-    "ctime": 1401346336,
-    "mtime": 1401346336,
-    "id_version": 41,
-    "track_version": 10,
-    "last_id_change": 1458407026,
-    "username_cased": "franziroesner"
+    "ctime": 1401349936,
+    "mtime": 1401349936,
+    "id_version": 48,
+    "track_version": 16,
+    "last_id_change": 1499812787,
+    "username_cased": "franziroesner",
+    "status": 0
   },
   "profile": {
-    "mtime": 1403428272,
+    "mtime": 1494698624,
     "full_name": "Franzi Roesner",
     "location": "Seattle, WA",
-    "bio": "Assistant professor in Computer Science & Engineering at the University of Washington, researching security & privacy."
+    "bio": "Assistant professor in Computer Science & Engineering at the University of Washington, researching security & privacy.\n\nCheck out our encrypted email client built on Keybase: https://confidante.cs.washington.edu"
   },
   "public_keys": {
     "primary": {
@@ -41,16 +42,20 @@
       "012127f69ebf43041fa20f9d4f32406527bf55023d6e65b91c357966d78bc54dd0080a",
       "0120b3a34fe0a5e7c5ab492a332217617aa586e54ec2301b557c9d20c8b4217b31c70a",
       "012178281425a9d8b1542dfdb2c282f6e0b6d518e18de740b10a664ff6a5f52285450a",
-      "012031ce10c1c6cf12828f2f91f750dec5eace813c47a37979bb7984cdf63817ce710a"
+      "012031ce10c1c6cf12828f2f91f750dec5eace813c47a37979bb7984cdf63817ce710a",
+      "0120f99d1a726d32a089ab55dbdd8adcd96ed9637b5d8a820fd6a76e958a9415a8ea0a",
+      "01214035a9ce0d1a5e7751e0cbf7597177b840f267c22e6267f6180b0c64897a0a490a"
     ],
     "subkeys": [
       "012127f69ebf43041fa20f9d4f32406527bf55023d6e65b91c357966d78bc54dd0080a",
-      "012178281425a9d8b1542dfdb2c282f6e0b6d518e18de740b10a664ff6a5f52285450a"
+      "012178281425a9d8b1542dfdb2c282f6e0b6d518e18de740b10a664ff6a5f52285450a",
+      "01214035a9ce0d1a5e7751e0cbf7597177b840f267c22e6267f6180b0c64897a0a490a"
     ],
     "sibkeys": [
       "0101a2a6566bb980543065eef6796a4587961475e0afc936b594d21bf1df5c19b4ce0a",
       "0120b3a34fe0a5e7c5ab492a332217617aa586e54ec2301b557c9d20c8b4217b31c70a",
-      "012031ce10c1c6cf12828f2f91f750dec5eace813c47a37979bb7984cdf63817ce710a"
+      "012031ce10c1c6cf12828f2f91f750dec5eace813c47a37979bb7984cdf63817ce710a",
+      "0120f99d1a726d32a089ab55dbdd8adcd96ed9637b5d8a820fd6a76e958a9415a8ea0a"
     ],
     "families": {
       "010114d30a829822e799636ab6355105c774f54caebfff3c1f5be2674e9891d8712b0a": [
@@ -65,7 +70,9 @@
         "012127f69ebf43041fa20f9d4f32406527bf55023d6e65b91c357966d78bc54dd0080a",
         "0120b3a34fe0a5e7c5ab492a332217617aa586e54ec2301b557c9d20c8b4217b31c70a",
         "012178281425a9d8b1542dfdb2c282f6e0b6d518e18de740b10a664ff6a5f52285450a",
-        "012031ce10c1c6cf12828f2f91f750dec5eace813c47a37979bb7984cdf63817ce710a"
+        "012031ce10c1c6cf12828f2f91f750dec5eace813c47a37979bb7984cdf63817ce710a",
+        "0120f99d1a726d32a089ab55dbdd8adcd96ed9637b5d8a820fd6a76e958a9415a8ea0a",
+        "01214035a9ce0d1a5e7751e0cbf7597177b840f267c22e6267f6180b0c64897a0a490a"
       ]
     },
     "eldest_kid": "0101a2a6566bb980543065eef6796a4587961475e0afc936b594d21bf1df5c19b4ce0a",
@@ -213,16 +220,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f9b5ec07c84be1fdc756549c024f30d9ac443f17afbf92ce2b32c223536cda3a0f",
-      "seqno": 31,
-      "payload_hash": "f0fad1f5e9c5e7850b4732a44da10d7214374faac8ddf85e694be9b142d4e686"
+      "sig_id": "26b673249d3fbd7e7a6a34992805504801c62048d8bcafd28dadfa978d4073440f",
+      "seqno": 42,
+      "payload_hash": "d0a52b4f75ff10cce65a224fbd3d31d9c732e6b7d70f6372749b443887d37269"
     }
   },
   "devices": {
     "4dfc6aef93581e6e204ebb4a2e734218": {
       "type": "backup",
-      "ctime": 1458407026,
-      "mtime": 1458407026,
+      "ctime": 1458410626,
+      "mtime": 1458410626,
       "name": "ketchup connect",
       "status": 1,
       "keys": [
@@ -238,10 +245,29 @@
         }
       ]
     },
+    "96245ac53831cdb94cb04827bf1ea618": {
+      "type": "mobile",
+      "ctime": 1499812787,
+      "mtime": 1499812787,
+      "name": "FranziPhone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120f99d1a726d32a089ab55dbdd8adcd96ed9637b5d8a820fd6a76e958a9415a8ea0a",
+          "key_role": 1,
+          "sig_id": "c3c528d88314f77e7097a71564e7b6cd504e650b8c580c20ea6e9c542eb040d00f"
+        },
+        {
+          "kid": "01214035a9ce0d1a5e7751e0cbf7597177b840f267c22e6267f6180b0c64897a0a490a",
+          "key_role": 2,
+          "sig_id": "9d17c08d3c949f4a9d945fafffbe9cec44d8e90dc9bf4040e903496c090881200f"
+        }
+      ]
+    },
     "c5829d5b87cdc8c9bbd4f368ba69ca18": {
       "type": "desktop",
-      "ctime": 1458407025,
-      "mtime": 1458407025,
+      "ctime": 1458410625,
+      "mtime": 1458410625,
       "name": "FranziBook",
       "status": 1,
       "keys": [
