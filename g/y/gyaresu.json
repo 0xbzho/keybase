@@ -4,10 +4,11 @@
     "username": "gyaresu",
     "ctime": 1423258902,
     "mtime": 1423258902,
-    "id_version": 145,
-    "track_version": 85,
-    "last_id_change": 1472425850,
-    "username_cased": "gyaresu"
+    "id_version": 179,
+    "track_version": 108,
+    "last_id_change": 1503887198,
+    "username_cased": "gyaresu",
+    "status": 0
   },
   "profile": {
     "mtime": 1455260477,
@@ -40,16 +41,20 @@
       "01202db4f255eb58f3655c029f6af2d95765feb6ec97d053eb6ee340448e7cbabc640a",
       "012180d06dde6ec0fb91f532b1852de321bb1d9ab7e37fb9c6284e2862691d47146d0a",
       "0120e32f890e3a0b5c11fe87be7a080d176e4423dcdcef91be9424b0af9f5182ff690a",
-      "0121bfd429a9285a947b567f2c55f4466d0904dfc6957f04043d637186147542f2350a"
+      "0121bfd429a9285a947b567f2c55f4466d0904dfc6957f04043d637186147542f2350a",
+      "0121acdc28082a891324521cd6eac9c3c9bb007f8f7ce50e95a92af598617d6ef83b0a",
+      "0120fd558fff3a02833ef022718ea00782212e8c17543f2f58e5c38a09834d5f18090a"
     ],
     "subkeys": [
       "012180d06dde6ec0fb91f532b1852de321bb1d9ab7e37fb9c6284e2862691d47146d0a",
-      "0121bfd429a9285a947b567f2c55f4466d0904dfc6957f04043d637186147542f2350a"
+      "0121bfd429a9285a947b567f2c55f4466d0904dfc6957f04043d637186147542f2350a",
+      "0121acdc28082a891324521cd6eac9c3c9bb007f8f7ce50e95a92af598617d6ef83b0a"
     ],
     "sibkeys": [
       "010135442e315ebab4195dffcf374c4336d7716a44eb872e8d1640fd300899e40ab10a",
       "01202db4f255eb58f3655c029f6af2d95765feb6ec97d053eb6ee340448e7cbabc640a",
-      "0120e32f890e3a0b5c11fe87be7a080d176e4423dcdcef91be9424b0af9f5182ff690a"
+      "0120e32f890e3a0b5c11fe87be7a080d176e4423dcdcef91be9424b0af9f5182ff690a",
+      "0120fd558fff3a02833ef022718ea00782212e8c17543f2f58e5c38a09834d5f18090a"
     ],
     "families": {
       "010135442e315ebab4195dffcf374c4336d7716a44eb872e8d1640fd300899e40ab10a": [
@@ -59,7 +64,9 @@
         "01202db4f255eb58f3655c029f6af2d95765feb6ec97d053eb6ee340448e7cbabc640a",
         "012180d06dde6ec0fb91f532b1852de321bb1d9ab7e37fb9c6284e2862691d47146d0a",
         "0120e32f890e3a0b5c11fe87be7a080d176e4423dcdcef91be9424b0af9f5182ff690a",
-        "0121bfd429a9285a947b567f2c55f4466d0904dfc6957f04043d637186147542f2350a"
+        "0121bfd429a9285a947b567f2c55f4466d0904dfc6957f04043d637186147542f2350a",
+        "0121acdc28082a891324521cd6eac9c3c9bb007f8f7ce50e95a92af598617d6ef83b0a",
+        "0120fd558fff3a02833ef022718ea00782212e8c17543f2f58e5c38a09834d5f18090a"
       ]
     },
     "eldest_kid": "010135442e315ebab4195dffcf374c4336d7716a44eb872e8d1640fd300899e40ab10a",
@@ -112,20 +119,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "gyaresu",
-          "state": 1,
-          "proof_url": "https://coinbase.com/gyaresu/public-key",
-          "sig_id": "73bace900f6c8e5aded3c1de48031f6fe95032a065ab0b59d7557fc89322a9490f",
-          "proof_id": "cc9121fc1538256b213cd510",
-          "human_url": "https://coinbase.com/gyaresu/public-key",
-          "service_url": "https://coinbase.com/gyaresu",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -138,6 +131,20 @@
           "service_url": "https://news.ycombinator.com/user?id=gyaresu",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "gyaresu",
+          "state": 1,
+          "proof_url": "https://www.facebook.com/gyaresu/posts/10214075037736044",
+          "sig_id": "85127f1c909fd0e311e241de7eb1002f6ac7f4c0fbd23cd4e069f358b39eee400f",
+          "proof_id": "ab6d8de118fda60114831d10",
+          "human_url": "https://www.facebook.com/gyaresu/posts/10214075037736044",
+          "service_url": "https://www.facebook.com/gyaresu",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "generic_web_site": [
@@ -157,18 +164,6 @@
       "dns": [
         {
           "proof_type": "dns",
-          "nametag": "gareth.codes",
-          "state": 1,
-          "proof_url": "https://keybase.io/gyaresu/sigchain#c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
-          "sig_id": "c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
-          "proof_id": "fa9700e2b8045629d7fa3b10",
-          "human_url": "dns://gareth.codes",
-          "service_url": "http://gareth.codes",
-          "presentation_group": "gareth.codes",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
           "nametag": "gareth.com.au",
           "state": 1,
           "proof_url": "https://keybase.io/gyaresu/sigchain#6f71ee203027a4db11ca851b538e8f305d0e16d5bc0ffe1eb3b04ee976999b6c0f",
@@ -177,6 +172,18 @@
           "human_url": "dns://gareth.com.au",
           "service_url": "http://gareth.com.au",
           "presentation_group": "gareth.com.au",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "gareth.codes",
+          "state": 1,
+          "proof_url": "https://keybase.io/gyaresu/sigchain#c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
+          "sig_id": "c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
+          "proof_id": "fa9700e2b8045629d7fa3b10",
+          "human_url": "dns://gareth.codes",
+          "service_url": "http://gareth.codes",
+          "presentation_group": "gareth.codes",
           "presentation_tag": "dns"
         }
       ]
@@ -224,20 +231,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "gyaresu",
-          "state": 1,
-          "proof_url": "https://coinbase.com/gyaresu/public-key",
-          "sig_id": "73bace900f6c8e5aded3c1de48031f6fe95032a065ab0b59d7557fc89322a9490f",
-          "proof_id": "cc9121fc1538256b213cd510",
-          "human_url": "https://coinbase.com/gyaresu/public-key",
-          "service_url": "https://coinbase.com/gyaresu",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -250,6 +243,20 @@
           "service_url": "https://news.ycombinator.com/user?id=gyaresu",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "gyaresu",
+          "state": 1,
+          "proof_url": "https://www.facebook.com/gyaresu/posts/10214075037736044",
+          "sig_id": "85127f1c909fd0e311e241de7eb1002f6ac7f4c0fbd23cd4e069f358b39eee400f",
+          "proof_id": "ab6d8de118fda60114831d10",
+          "human_url": "https://www.facebook.com/gyaresu/posts/10214075037736044",
+          "service_url": "https://www.facebook.com/gyaresu",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "gyaresu.org": [
@@ -266,20 +273,6 @@
           "presentation_tag": "http"
         }
       ],
-      "gareth.codes": [
-        {
-          "proof_type": "dns",
-          "nametag": "gareth.codes",
-          "state": 1,
-          "proof_url": "https://keybase.io/gyaresu/sigchain#c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
-          "sig_id": "c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
-          "proof_id": "fa9700e2b8045629d7fa3b10",
-          "human_url": "dns://gareth.codes",
-          "service_url": "http://gareth.codes",
-          "presentation_group": "gareth.codes",
-          "presentation_tag": "dns"
-        }
-      ],
       "gareth.com.au": [
         {
           "proof_type": "dns",
@@ -291,6 +284,20 @@
           "human_url": "dns://gareth.com.au",
           "service_url": "http://gareth.com.au",
           "presentation_group": "gareth.com.au",
+          "presentation_tag": "dns"
+        }
+      ],
+      "gareth.codes": [
+        {
+          "proof_type": "dns",
+          "nametag": "gareth.codes",
+          "state": 1,
+          "proof_url": "https://keybase.io/gyaresu/sigchain#c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
+          "sig_id": "c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
+          "proof_id": "fa9700e2b8045629d7fa3b10",
+          "human_url": "dns://gareth.codes",
+          "service_url": "http://gareth.codes",
+          "presentation_group": "gareth.codes",
           "presentation_tag": "dns"
         }
       ]
@@ -333,18 +340,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "gyaresu",
-        "state": 1,
-        "proof_url": "https://coinbase.com/gyaresu/public-key",
-        "sig_id": "73bace900f6c8e5aded3c1de48031f6fe95032a065ab0b59d7557fc89322a9490f",
-        "proof_id": "cc9121fc1538256b213cd510",
-        "human_url": "https://coinbase.com/gyaresu/public-key",
-        "service_url": "https://coinbase.com/gyaresu",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "gyaresu",
         "state": 1,
@@ -357,16 +352,16 @@
         "presentation_tag": "profile"
       },
       {
-        "proof_type": "dns",
-        "nametag": "gareth.codes",
+        "proof_type": "facebook",
+        "nametag": "gyaresu",
         "state": 1,
-        "proof_url": "https://keybase.io/gyaresu/sigchain#c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
-        "sig_id": "c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
-        "proof_id": "fa9700e2b8045629d7fa3b10",
-        "human_url": "dns://gareth.codes",
-        "service_url": "http://gareth.codes",
-        "presentation_group": "gareth.codes",
-        "presentation_tag": "dns"
+        "proof_url": "https://www.facebook.com/gyaresu/posts/10214075037736044",
+        "sig_id": "85127f1c909fd0e311e241de7eb1002f6ac7f4c0fbd23cd4e069f358b39eee400f",
+        "proof_id": "ab6d8de118fda60114831d10",
+        "human_url": "https://www.facebook.com/gyaresu/posts/10214075037736044",
+        "service_url": "https://www.facebook.com/gyaresu",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -378,6 +373,18 @@
         "human_url": "dns://gareth.com.au",
         "service_url": "http://gareth.com.au",
         "presentation_group": "gareth.com.au",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "gareth.codes",
+        "state": 1,
+        "proof_url": "https://keybase.io/gyaresu/sigchain#c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
+        "sig_id": "c0463fc1e0126758d2245528d875d1c96f2aac36fac28398e66637003f52f6dc0f",
+        "proof_id": "fa9700e2b8045629d7fa3b10",
+        "human_url": "dns://gareth.codes",
+        "service_url": "http://gareth.codes",
+        "presentation_group": "gareth.codes",
         "presentation_tag": "dns"
       },
       {
@@ -394,10 +401,17 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "zcash": [
+      {
+        "address": "t1KMJ6ExLGSspV7nbKEEQmaZ3qUSAsMAiQq",
+        "sig_id": "134754a32529da63b026e84ccf85e0dbbfd38f5aec96c295af38bf1d8cb07b3c0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/383923535a2d5cb13bf1fee7e8e10805_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/dd6d84f6dd049997a368ff5786aeb105_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -405,16 +419,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "83a4428242656291065468c8e5ccb17aa576d411d2d59b6c4c91585ab833ce3e0f",
-      "seqno": 117,
-      "payload_hash": "2aa62d5037f7fc39dbd2e8dd8505a84d53abd6e739bfca1e7d1be45731b89fc6"
+      "sig_id": "bb13572fc2f3ab13710d531429d7707b362b95ed391579e0412e39f0720894ce0f",
+      "seqno": 151,
+      "payload_hash": "9479c5359376e10d34980f0427e383a57d8e5b338cf3fca0a044bb68adc344ff"
     }
   },
   "devices": {
     "25d9a7c0e73be626eb891edb4923a018": {
       "type": "desktop",
-      "ctime": 1467775816,
-      "mtime": 1467775816,
+      "ctime": 1467779416,
+      "mtime": 1467779416,
       "name": "zaphod",
       "status": 1,
       "keys": [
@@ -430,10 +444,29 @@
         }
       ]
     },
+    "6ea5c118c0841b8442ba1abfc0439018": {
+      "type": "mobile",
+      "ctime": 1501576113,
+      "mtime": 1501576113,
+      "name": "iphone 6 plus",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120fd558fff3a02833ef022718ea00782212e8c17543f2f58e5c38a09834d5f18090a",
+          "key_role": 1,
+          "sig_id": "66bc4673939ada8ffd3945cbadb22adc85a14cec5cf18ed2afc5393bb0d6ed370f"
+        },
+        {
+          "kid": "0121acdc28082a891324521cd6eac9c3c9bb007f8f7ce50e95a92af598617d6ef83b0a",
+          "key_role": 2,
+          "sig_id": "423365476672fcfb05b8d446fa0ac2744a46fd4a4464a7dd9c64ac244ddd210f0f"
+        }
+      ]
+    },
     "7eec5230558f8ca561d2e0935f6e0b18": {
       "type": "backup",
-      "ctime": 1467775817,
-      "mtime": 1467775817,
+      "ctime": 1467779417,
+      "mtime": 1467779417,
       "name": "have only",
       "status": 1,
       "keys": [
