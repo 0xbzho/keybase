@@ -4,10 +4,11 @@
     "username": "mrlesmithjr",
     "ctime": 1455716653,
     "mtime": 1455716653,
-    "id_version": 24,
-    "track_version": 0,
-    "last_id_change": 1469876752,
-    "username_cased": "mrlesmithjr"
+    "id_version": 43,
+    "track_version": 9,
+    "last_id_change": 1512567636,
+    "username_cased": "mrlesmithjr",
+    "status": 0
   },
   "profile": {
     "mtime": 1455716742,
@@ -39,16 +40,24 @@
       "0120c3a904df3402730da1ca694096b793097a8884c164ba84b86bcf7ed074d41de00a",
       "01202072afc61e7f6847ad89dcfe7952f186123b7739f76d322171651dab14909e5c0a",
       "0121b70e3014013f912b012b9e791b347d602de0a0a80f5b7f933acf75928107f31b0a",
-      "012175630bcf64f104cc7a836dd47e83e495e226c7303e030deed54dac107faaf6710a"
+      "012175630bcf64f104cc7a836dd47e83e495e226c7303e030deed54dac107faaf6710a",
+      "0121b9f9e262f506abbdf05427ab0f3612006ddab0eb394735180dc041c5f112405b0a",
+      "0120729c80ac72670bad815bdee9227352e5caf547083c74bc29cb30a3f16656ed1b0a",
+      "0120f2efa6a8aec41d80688c55798c769209ca9b1a788fa34305084470754a70a8930a",
+      "012144ca9fdf515a0ed6a7cd59169a498b4a751c99d843c62d90a6f610a48e953d640a",
+      "0121a6aef20cdc9e2deec089c43c065d79a2d428902e16f0b0c7aa62cce0650cb91f0a",
+      "01207489f8b9f265344e4d6f75acb37478e3b08f8b2365bf49e084d8c41962ad4f4b0a"
     ],
     "subkeys": [
-      "0121b70e3014013f912b012b9e791b347d602de0a0a80f5b7f933acf75928107f31b0a",
-      "012175630bcf64f104cc7a836dd47e83e495e226c7303e030deed54dac107faaf6710a"
+      "012175630bcf64f104cc7a836dd47e83e495e226c7303e030deed54dac107faaf6710a",
+      "012144ca9fdf515a0ed6a7cd59169a498b4a751c99d843c62d90a6f610a48e953d640a",
+      "0121a6aef20cdc9e2deec089c43c065d79a2d428902e16f0b0c7aa62cce0650cb91f0a"
     ],
     "sibkeys": [
       "01017ba847c549ed7982765982debf0c9c49383658de310390f9aa0a1ca88d1f416b0a",
-      "0120c3a904df3402730da1ca694096b793097a8884c164ba84b86bcf7ed074d41de00a",
-      "01202072afc61e7f6847ad89dcfe7952f186123b7739f76d322171651dab14909e5c0a"
+      "01202072afc61e7f6847ad89dcfe7952f186123b7739f76d322171651dab14909e5c0a",
+      "0120f2efa6a8aec41d80688c55798c769209ca9b1a788fa34305084470754a70a8930a",
+      "01207489f8b9f265344e4d6f75acb37478e3b08f8b2365bf49e084d8c41962ad4f4b0a"
     ],
     "families": {
       "01017e026223ecf3121897119c00223beb220375fc2c2bb7a0179a1b3822aac1e1490a": [
@@ -59,7 +68,13 @@
         "0120c3a904df3402730da1ca694096b793097a8884c164ba84b86bcf7ed074d41de00a",
         "01202072afc61e7f6847ad89dcfe7952f186123b7739f76d322171651dab14909e5c0a",
         "0121b70e3014013f912b012b9e791b347d602de0a0a80f5b7f933acf75928107f31b0a",
-        "012175630bcf64f104cc7a836dd47e83e495e226c7303e030deed54dac107faaf6710a"
+        "012175630bcf64f104cc7a836dd47e83e495e226c7303e030deed54dac107faaf6710a",
+        "0121b9f9e262f506abbdf05427ab0f3612006ddab0eb394735180dc041c5f112405b0a",
+        "0120729c80ac72670bad815bdee9227352e5caf547083c74bc29cb30a3f16656ed1b0a",
+        "0120f2efa6a8aec41d80688c55798c769209ca9b1a788fa34305084470754a70a8930a",
+        "012144ca9fdf515a0ed6a7cd59169a498b4a751c99d843c62d90a6f610a48e953d640a",
+        "0121a6aef20cdc9e2deec089c43c065d79a2d428902e16f0b0c7aa62cce0650cb91f0a",
+        "01207489f8b9f265344e4d6f75acb37478e3b08f8b2365bf49e084d8c41962ad4f4b0a"
       ]
     },
     "eldest_kid": "01017ba847c549ed7982765982debf0c9c49383658de310390f9aa0a1ca88d1f416b0a",
@@ -112,18 +127,32 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
-          "nametag": "mrlesmithjr",
+          "proof_type": "facebook",
+          "nametag": "larry.e.smith.jr",
           "state": 1,
-          "proof_url": "https://coinbase.com/mrlesmithjr/public-key",
-          "sig_id": "817775a4c130b7e60aed7c24825608784075ec9f1f47f0e5ecf2f4e49d2f99630f",
-          "proof_id": "e4cd3209943389c573071910",
-          "human_url": "https://coinbase.com/mrlesmithjr/public-key",
-          "service_url": "https://coinbase.com/mrlesmithjr",
-          "presentation_group": "coinbase",
+          "proof_url": "https://www.facebook.com/larry.e.smith.jr/posts/10210484273526332",
+          "sig_id": "5f0266bfbff3b66f032b3585214cd8b88a24afb7a23932ec242771b3d9455be30f",
+          "proof_id": "a301e411776f948f6d556910",
+          "human_url": "https://www.facebook.com/larry.e.smith.jr/posts/10210484273526332",
+          "service_url": "https://www.facebook.com/larry.e.smith.jr",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "everythingshouldbevirtual.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/mrlesmithjr/sigchain#f6330f1d276790bcb83cae29383c0dd819c6ce2da61f6350f2248a329d2443320f",
+          "sig_id": "f6330f1d276790bcb83cae29383c0dd819c6ce2da61f6350f2248a329d2443320f",
+          "proof_id": "34828142e3b6e6e64662e410",
+          "human_url": "dns://everythingshouldbevirtual.com",
+          "service_url": "http://everythingshouldbevirtual.com",
+          "presentation_group": "everythingshouldbevirtual.com",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -170,18 +199,32 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
-          "nametag": "mrlesmithjr",
+          "proof_type": "facebook",
+          "nametag": "larry.e.smith.jr",
           "state": 1,
-          "proof_url": "https://coinbase.com/mrlesmithjr/public-key",
-          "sig_id": "817775a4c130b7e60aed7c24825608784075ec9f1f47f0e5ecf2f4e49d2f99630f",
-          "proof_id": "e4cd3209943389c573071910",
-          "human_url": "https://coinbase.com/mrlesmithjr/public-key",
-          "service_url": "https://coinbase.com/mrlesmithjr",
-          "presentation_group": "coinbase",
+          "proof_url": "https://www.facebook.com/larry.e.smith.jr/posts/10210484273526332",
+          "sig_id": "5f0266bfbff3b66f032b3585214cd8b88a24afb7a23932ec242771b3d9455be30f",
+          "proof_id": "a301e411776f948f6d556910",
+          "human_url": "https://www.facebook.com/larry.e.smith.jr/posts/10210484273526332",
+          "service_url": "https://www.facebook.com/larry.e.smith.jr",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
+        }
+      ],
+      "everythingshouldbevirtual.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "everythingshouldbevirtual.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/mrlesmithjr/sigchain#f6330f1d276790bcb83cae29383c0dd819c6ce2da61f6350f2248a329d2443320f",
+          "sig_id": "f6330f1d276790bcb83cae29383c0dd819c6ce2da61f6350f2248a329d2443320f",
+          "proof_id": "34828142e3b6e6e64662e410",
+          "human_url": "dns://everythingshouldbevirtual.com",
+          "service_url": "http://everythingshouldbevirtual.com",
+          "presentation_group": "everythingshouldbevirtual.com",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -223,16 +266,28 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "mrlesmithjr",
+        "proof_type": "facebook",
+        "nametag": "larry.e.smith.jr",
         "state": 1,
-        "proof_url": "https://coinbase.com/mrlesmithjr/public-key",
-        "sig_id": "817775a4c130b7e60aed7c24825608784075ec9f1f47f0e5ecf2f4e49d2f99630f",
-        "proof_id": "e4cd3209943389c573071910",
-        "human_url": "https://coinbase.com/mrlesmithjr/public-key",
-        "service_url": "https://coinbase.com/mrlesmithjr",
-        "presentation_group": "coinbase",
+        "proof_url": "https://www.facebook.com/larry.e.smith.jr/posts/10210484273526332",
+        "sig_id": "5f0266bfbff3b66f032b3585214cd8b88a24afb7a23932ec242771b3d9455be30f",
+        "proof_id": "a301e411776f948f6d556910",
+        "human_url": "https://www.facebook.com/larry.e.smith.jr/posts/10210484273526332",
+        "service_url": "https://www.facebook.com/larry.e.smith.jr",
+        "presentation_group": "facebook",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "everythingshouldbevirtual.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/mrlesmithjr/sigchain#f6330f1d276790bcb83cae29383c0dd819c6ce2da61f6350f2248a329d2443320f",
+        "sig_id": "f6330f1d276790bcb83cae29383c0dd819c6ce2da61f6350f2248a329d2443320f",
+        "proof_id": "34828142e3b6e6e64662e410",
+        "human_url": "dns://everythingshouldbevirtual.com",
+        "service_url": "http://everythingshouldbevirtual.com",
+        "presentation_group": "everythingshouldbevirtual.com",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -247,28 +302,47 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "09b9ab648f743677732325452917cba5260978b90d35b2024369e3afa0e871980f",
-      "seqno": 12,
-      "payload_hash": "4ade321aa17175fb619a942f538403df2a4c2a27451ffac00f22b9e9e5e9f8c6"
+      "sig_id": "f6330f1d276790bcb83cae29383c0dd819c6ce2da61f6350f2248a329d2443320f",
+      "seqno": 36,
+      "payload_hash": "f70ccd9561cae90fc8cccdd93f326eec8daa42185bdcaaf4628b0e1cadf7d58a"
     }
   },
   "devices": {
-    "1db63b99c18b43c1d71306fc655a4e18": {
+    "0e8c49e1ab068cce68aa4b3b9777df18": {
       "type": "desktop",
-      "ctime": 1455718209,
-      "mtime": 1455718209,
-      "name": "Macbook Pro",
+      "ctime": 1512538749,
+      "mtime": 1512538749,
+      "name": "Larrys-MBP",
       "status": 1,
       "keys": [
         {
-          "kid": "0120c3a904df3402730da1ca694096b793097a8884c164ba84b86bcf7ed074d41de00a",
+          "kid": "01207489f8b9f265344e4d6f75acb37478e3b08f8b2365bf49e084d8c41962ad4f4b0a",
           "key_role": 1,
-          "sig_id": "fdcfd4287bd5dd0fecd3b92dca1a136707d560a10080694bf36fb3a5ee87357f0f"
+          "sig_id": "a6190d514e68eadf893e59fe747cbd67de7dfba99363a5e112f3c5f783934e920f"
         },
         {
-          "kid": "0121b70e3014013f912b012b9e791b347d602de0a0a80f5b7f933acf75928107f31b0a",
+          "kid": "0121a6aef20cdc9e2deec089c43c065d79a2d428902e16f0b0c7aa62cce0650cb91f0a",
           "key_role": 2,
-          "sig_id": "559a717d626314b69cee463ea00fe190354e4585a343cac193a427760565d7600f"
+          "sig_id": "b39b697916de5b42125083b10f6e76ee4a191890b3aebb0fd78ad0a85fbbcd1f0f"
+        }
+      ]
+    },
+    "7cde95457000dfa6c0388030f6313118": {
+      "type": "mobile",
+      "ctime": 1509734557,
+      "mtime": 1509734557,
+      "name": "pixel xl",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120f2efa6a8aec41d80688c55798c769209ca9b1a788fa34305084470754a70a8930a",
+          "key_role": 1,
+          "sig_id": "33501763fc89e386a59d0d8fb84aea7d831677a383b6cd9b00c368a89ae57c6c0f"
+        },
+        {
+          "kid": "012144ca9fdf515a0ed6a7cd59169a498b4a751c99d843c62d90a6f610a48e953d640a",
+          "key_role": 2,
+          "sig_id": "b693ba47604d498a7c095dcf41c9ce94d1d226584dcb383ec8c3abe95d80fe200f"
         }
       ]
     },
