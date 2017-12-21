@@ -2,12 +2,13 @@
   "id": "68b7db00d2af3b8eac78fd69fc15a600",
   "basics": {
     "username": "matschaffer",
-    "ctime": 1395381973,
-    "mtime": 1395381973,
-    "id_version": 39,
-    "track_version": 4,
-    "last_id_change": 1473907679,
-    "username_cased": "matschaffer"
+    "ctime": 1395385573,
+    "mtime": 1395385573,
+    "id_version": 55,
+    "track_version": 20,
+    "last_id_change": 1508402847,
+    "username_cased": "matschaffer",
+    "status": 0
   },
   "profile": {
     "mtime": 1452292910,
@@ -40,16 +41,24 @@
       "0120c74ba3e71c441287d75791d0c68d51f3a8c0481398d8999b0ca4d9690c19c0c00a",
       "0121f84c46aec72dafeef6107e54d432d1902e8f385fdfc285b26ae937cc82665d040a",
       "01217f2825b0f9b94ef97babde7a626accf5ec31554eca35260dbaad6cb3c97ec9290a",
-      "0120b31c1fc2a711f0d52ce7120a8784f233cad8b59912c69832dc324fcad3b3ce090a"
+      "0120b31c1fc2a711f0d52ce7120a8784f233cad8b59912c69832dc324fcad3b3ce090a",
+      "0120d249b1b84270d7a27dbb984ac078bc802a29589716eb934263af625256f60ee50a",
+      "0121091025ebbc7ce481af20d1a208964abfc93cae7d07ce88298425c4eb4c19c0370a",
+      "0121fb3778b91c9cd8c19864df12a60850b0beddbc5061c33a45557dec631ef526530a",
+      "0120481301e0282095b842461f9f40b8ccd1c4aa3c34a2bddc3505ba04ad6050c5260a"
     ],
     "subkeys": [
       "0121f84c46aec72dafeef6107e54d432d1902e8f385fdfc285b26ae937cc82665d040a",
-      "01217f2825b0f9b94ef97babde7a626accf5ec31554eca35260dbaad6cb3c97ec9290a"
+      "01217f2825b0f9b94ef97babde7a626accf5ec31554eca35260dbaad6cb3c97ec9290a",
+      "0121091025ebbc7ce481af20d1a208964abfc93cae7d07ce88298425c4eb4c19c0370a",
+      "0121fb3778b91c9cd8c19864df12a60850b0beddbc5061c33a45557dec631ef526530a"
     ],
     "sibkeys": [
       "01013af290f70c6bf92e39a6379ad1ee1e6678c83dbd4aa480b7b2d3e75f2664ab6f0a",
       "0120c74ba3e71c441287d75791d0c68d51f3a8c0481398d8999b0ca4d9690c19c0c00a",
-      "0120b31c1fc2a711f0d52ce7120a8784f233cad8b59912c69832dc324fcad3b3ce090a"
+      "0120b31c1fc2a711f0d52ce7120a8784f233cad8b59912c69832dc324fcad3b3ce090a",
+      "0120d249b1b84270d7a27dbb984ac078bc802a29589716eb934263af625256f60ee50a",
+      "0120481301e0282095b842461f9f40b8ccd1c4aa3c34a2bddc3505ba04ad6050c5260a"
     ],
     "families": {
       "010154d6106e0065082cc94e607784f7a09172649966a33beee75cbf0cddae44bec10a": [
@@ -61,7 +70,11 @@
         "0120c74ba3e71c441287d75791d0c68d51f3a8c0481398d8999b0ca4d9690c19c0c00a",
         "0121f84c46aec72dafeef6107e54d432d1902e8f385fdfc285b26ae937cc82665d040a",
         "01217f2825b0f9b94ef97babde7a626accf5ec31554eca35260dbaad6cb3c97ec9290a",
-        "0120b31c1fc2a711f0d52ce7120a8784f233cad8b59912c69832dc324fcad3b3ce090a"
+        "0120b31c1fc2a711f0d52ce7120a8784f233cad8b59912c69832dc324fcad3b3ce090a",
+        "0120d249b1b84270d7a27dbb984ac078bc802a29589716eb934263af625256f60ee50a",
+        "0121091025ebbc7ce481af20d1a208964abfc93cae7d07ce88298425c4eb4c19c0370a",
+        "0121fb3778b91c9cd8c19864df12a60850b0beddbc5061c33a45557dec631ef526530a",
+        "0120481301e0282095b842461f9f40b8ccd1c4aa3c34a2bddc3505ba04ad6050c5260a"
       ]
     },
     "eldest_kid": "01013af290f70c6bf92e39a6379ad1ee1e6678c83dbd4aa480b7b2d3e75f2664ab6f0a",
@@ -114,6 +127,20 @@
           "presentation_tag": "profile"
         }
       ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "matschaffer",
+          "state": 1,
+          "proof_url": "https://facebook.com/10102004887516246_10102004887745786",
+          "sig_id": "cc66edc89c70409218b7e1c9e8971f369243b8e6bccdfc617c316e88a4a300fa0f",
+          "proof_id": "095e66d25b48922165c9c310",
+          "human_url": "https://facebook.com/10102004887516246_10102004887745786",
+          "service_url": "https://www.facebook.com/matschaffer",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
+        }
+      ],
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
@@ -131,18 +158,6 @@
       "dns": [
         {
           "proof_type": "dns",
-          "nametag": "schaffer.me",
-          "state": 1,
-          "proof_url": "https://keybase.io/matschaffer/sigchain#2ac55906000872db5df0d75077c319076473bc0e24e632b1bdf7f1bdb2ef45630f",
-          "sig_id": "2ac55906000872db5df0d75077c319076473bc0e24e632b1bdf7f1bdb2ef45630f",
-          "proof_id": "3867c1b8d729d2983e644910",
-          "human_url": "dns://schaffer.me",
-          "service_url": "http://schaffer.me",
-          "presentation_group": "schaffer.me",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
           "nametag": "matschaffer.com",
           "state": 1,
           "proof_url": "https://keybase.io/matschaffer/sigchain#c3265cc4df4b8f3375fe79dd570aa1f581d79b22a34d550dffd97c8ffd900f9d0f",
@@ -151,6 +166,18 @@
           "human_url": "dns://matschaffer.com",
           "service_url": "http://matschaffer.com",
           "presentation_group": "matschaffer.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "schaffer.me",
+          "state": 1,
+          "proof_url": "https://keybase.io/matschaffer/sigchain#2ac55906000872db5df0d75077c319076473bc0e24e632b1bdf7f1bdb2ef45630f",
+          "sig_id": "2ac55906000872db5df0d75077c319076473bc0e24e632b1bdf7f1bdb2ef45630f",
+          "proof_id": "3867c1b8d729d2983e644910",
+          "human_url": "dns://schaffer.me",
+          "service_url": "http://schaffer.me",
+          "presentation_group": "schaffer.me",
           "presentation_tag": "dns"
         }
       ]
@@ -196,6 +223,20 @@
           "service_url": "https://news.ycombinator.com/user?id=matschaffer",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "matschaffer",
+          "state": 1,
+          "proof_url": "https://facebook.com/10102004887516246_10102004887745786",
+          "sig_id": "cc66edc89c70409218b7e1c9e8971f369243b8e6bccdfc617c316e88a4a300fa0f",
+          "proof_id": "095e66d25b48922165c9c310",
+          "human_url": "https://facebook.com/10102004887516246_10102004887745786",
+          "service_url": "https://www.facebook.com/matschaffer",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "matschaffer.com": [
@@ -277,16 +318,16 @@
         "presentation_tag": "profile"
       },
       {
-        "proof_type": "dns",
-        "nametag": "schaffer.me",
+        "proof_type": "facebook",
+        "nametag": "matschaffer",
         "state": 1,
-        "proof_url": "https://keybase.io/matschaffer/sigchain#2ac55906000872db5df0d75077c319076473bc0e24e632b1bdf7f1bdb2ef45630f",
-        "sig_id": "2ac55906000872db5df0d75077c319076473bc0e24e632b1bdf7f1bdb2ef45630f",
-        "proof_id": "3867c1b8d729d2983e644910",
-        "human_url": "dns://schaffer.me",
-        "service_url": "http://schaffer.me",
-        "presentation_group": "schaffer.me",
-        "presentation_tag": "dns"
+        "proof_url": "https://facebook.com/10102004887516246_10102004887745786",
+        "sig_id": "cc66edc89c70409218b7e1c9e8971f369243b8e6bccdfc617c316e88a4a300fa0f",
+        "proof_id": "095e66d25b48922165c9c310",
+        "human_url": "https://facebook.com/10102004887516246_10102004887745786",
+        "service_url": "https://www.facebook.com/matschaffer",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -298,6 +339,18 @@
         "human_url": "dns://matschaffer.com",
         "service_url": "http://matschaffer.com",
         "presentation_group": "matschaffer.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "schaffer.me",
+        "state": 1,
+        "proof_url": "https://keybase.io/matschaffer/sigchain#2ac55906000872db5df0d75077c319076473bc0e24e632b1bdf7f1bdb2ef45630f",
+        "sig_id": "2ac55906000872db5df0d75077c319076473bc0e24e632b1bdf7f1bdb2ef45630f",
+        "proof_id": "3867c1b8d729d2983e644910",
+        "human_url": "dns://schaffer.me",
+        "service_url": "http://schaffer.me",
+        "presentation_group": "schaffer.me",
         "presentation_tag": "dns"
       },
       {
@@ -332,16 +385,54 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "2ac55906000872db5df0d75077c319076473bc0e24e632b1bdf7f1bdb2ef45630f",
-      "seqno": 22,
-      "payload_hash": "6dac6d10a66dd59c362282690dd3e54f737ac229dbe755a768ebd37ef57e0616"
+      "sig_id": "e76efbaf868c4339b5bceccdfba55b20f984fe521c68609abcb83fd4781d0a280f",
+      "seqno": 44,
+      "payload_hash": "dd0f6e0d807aa9a128d1b181823fae9d9b57ee27e8d2120e8616ac91203ed5a5"
     }
   },
   "devices": {
+    "3663183e807c79eec5a931ed19de9518": {
+      "type": "desktop",
+      "ctime": 1483016397,
+      "mtime": 1483016397,
+      "name": "mbp2016",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d249b1b84270d7a27dbb984ac078bc802a29589716eb934263af625256f60ee50a",
+          "key_role": 1,
+          "sig_id": "8346a2e8bf304b62fb32e61f4b703cc88992e235016d1c2f06b862c78473637f0f"
+        },
+        {
+          "kid": "0121091025ebbc7ce481af20d1a208964abfc93cae7d07ce88298425c4eb4c19c0370a",
+          "key_role": 2,
+          "sig_id": "fe5bd7b03428b72e865b6fc17f7f5199fe4e134d527c74a37ce8a95b11b283b80f"
+        }
+      ]
+    },
+    "462c3c65b96ef0e73fbca4c5e7184c18": {
+      "type": "mobile",
+      "ctime": 1508402847,
+      "mtime": 1508402847,
+      "name": "iphone7",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120481301e0282095b842461f9f40b8ccd1c4aa3c34a2bddc3505ba04ad6050c5260a",
+          "key_role": 1,
+          "sig_id": "45a46d0ca624e0116f7b00f631cfc9de69c29b497f4cd4b0e64d830292e7dc210f"
+        },
+        {
+          "kid": "0121fb3778b91c9cd8c19864df12a60850b0beddbc5061c33a45557dec631ef526530a",
+          "key_role": 2,
+          "sig_id": "0257310f59acae0ea3787028f3ee1b4766e48ae4d15b07acccac6bd8b5a36a640f"
+        }
+      ]
+    },
     "a961ea7ca0c31f4c2267a50fc28f8918": {
       "type": "backup",
-      "ctime": 1472457715,
-      "mtime": 1472457715,
+      "ctime": 1472461315,
+      "mtime": 1472461315,
       "name": "bid spare",
       "status": 1,
       "keys": [
@@ -359,8 +450,8 @@
     },
     "d98ebe9266e4acfddb7a53722221a018": {
       "type": "desktop",
-      "ctime": 1472457713,
-      "mtime": 1472457713,
+      "ctime": 1472461313,
+      "mtime": 1472461313,
       "name": "mbp2015",
       "status": 1,
       "keys": [
