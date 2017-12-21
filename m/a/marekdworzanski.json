@@ -1,0 +1,93 @@
+{
+  "id": "9ca566af9a9921164016561a2ea2ff19",
+  "basics": {
+    "username": "marekdworzanski",
+    "ctime": 1493105553,
+    "mtime": 1493105553,
+    "id_version": 2,
+    "track_version": 27,
+    "last_id_change": 1493105776,
+    "username_cased": "marekdworzanski",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121862998b3b708b65ce085f6d25327d1a3c8ed6f1cc0321dd94d49b4e094a24f130a",
+      "0120bf169ded16912101c30fa590780210e4c594d24f0d1003fa4c725e20e85af0ca0a",
+      "0120b531d72e6f25a1405457f581b58acc003da543d5d2f1c96d2df9811af48a67170a",
+      "012185c0c94acc649ba92188a8b72b2bda652afc25322b563bc7807dfa2df494a7390a"
+    ],
+    "subkeys": [
+      "0121862998b3b708b65ce085f6d25327d1a3c8ed6f1cc0321dd94d49b4e094a24f130a",
+      "012185c0c94acc649ba92188a8b72b2bda652afc25322b563bc7807dfa2df494a7390a"
+    ],
+    "sibkeys": [
+      "0120bf169ded16912101c30fa590780210e4c594d24f0d1003fa4c725e20e85af0ca0a",
+      "0120b531d72e6f25a1405457f581b58acc003da543d5d2f1c96d2df9811af48a67170a"
+    ],
+    "families": {
+      "0120bf169ded16912101c30fa590780210e4c594d24f0d1003fa4c725e20e85af0ca0a": [
+        "0121862998b3b708b65ce085f6d25327d1a3c8ed6f1cc0321dd94d49b4e094a24f130a",
+        "0120bf169ded16912101c30fa590780210e4c594d24f0d1003fa4c725e20e85af0ca0a",
+        "0120b531d72e6f25a1405457f581b58acc003da543d5d2f1c96d2df9811af48a67170a",
+        "012185c0c94acc649ba92188a8b72b2bda652afc25322b563bc7807dfa2df494a7390a"
+      ]
+    },
+    "eldest_kid": "0120bf169ded16912101c30fa590780210e4c594d24f0d1003fa4c725e20e85af0ca0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "9cf3f7447d7cd43bb10dd0de2ee4d2fbfc96224696bea0f327abcb279f1c8c600f",
+      "seqno": 32,
+      "payload_hash": "459d430103ead1d8adbc5bb7469168329876fb508cfdd1ffe394be8c0289a1d6"
+    }
+  },
+  "devices": {
+    "77eb3497c9da74cf8593847ca42e5f18": {
+      "type": "backup",
+      "ctime": 1493105776,
+      "mtime": 1493105776,
+      "name": "spawn tiny",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b531d72e6f25a1405457f581b58acc003da543d5d2f1c96d2df9811af48a67170a",
+          "key_role": 1,
+          "sig_id": "ed8d21d45cf12a32ab7f53027878f148681a1c4802bb908a1ffc12597d69174f0f"
+        },
+        {
+          "kid": "012185c0c94acc649ba92188a8b72b2bda652afc25322b563bc7807dfa2df494a7390a",
+          "key_role": 2,
+          "sig_id": "9adbaf602e639fa5e8e83094ea781f3679ab9242f613d94ba4e8a54c069e39720f"
+        }
+      ]
+    },
+    "e454259174fdcd507a198b02c3b09918": {
+      "type": "desktop",
+      "ctime": 1493105775,
+      "mtime": 1493105775,
+      "name": "marekdworzanski",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120bf169ded16912101c30fa590780210e4c594d24f0d1003fa4c725e20e85af0ca0a",
+          "key_role": 1,
+          "sig_id": "ded8321150a13d60c358907f2872c6975921926195cd7068a73fd493d47ecb5d0f"
+        },
+        {
+          "kid": "0121862998b3b708b65ce085f6d25327d1a3c8ed6f1cc0321dd94d49b4e094a24f130a",
+          "key_role": 2,
+          "sig_id": "cc2da9cfa0c9adbd4e00d6d2099d0313ac7c89cd646299b575bbcaf3f54a98980f"
+        }
+      ]
+    }
+  }
+}
