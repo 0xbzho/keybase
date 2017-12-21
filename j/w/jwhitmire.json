@@ -4,10 +4,11 @@
     "username": "jwhitmire",
     "ctime": 1423797880,
     "mtime": 1423797880,
-    "id_version": 48,
-    "track_version": 13,
-    "last_id_change": 1465769262,
-    "username_cased": "jwhitmire"
+    "id_version": 53,
+    "track_version": 15,
+    "last_id_change": 1502123262,
+    "username_cased": "jwhitmire",
+    "status": 0
   },
   "profile": {
     "mtime": 1423799481,
@@ -38,16 +39,24 @@
       "0121b0d34bf1923ba5847c3dfa45aa88570b8eeb78e1b03bfd88e4f603c2737d1d030a",
       "012053335fc658acdfeb85b63a6ad109718bc2bf01c7bb8309a72fe1d6641fe561ce0a",
       "01208a3f621e7a76cfb3da542a90b8dd8d65ed27df4534ac7cf7405f8073b61580390a",
-      "0121f21fedf127faef4c8db9475d44177139b0445bc7c9ab0a08c2f527fac700f1140a"
+      "0121f21fedf127faef4c8db9475d44177139b0445bc7c9ab0a08c2f527fac700f1140a",
+      "01201cb9327f7e8dbdb9e3ec7e4fcf22c369f937cbcd979dce0778c260f141b117520a",
+      "0121364100c31d371b6d9e355459b30d3c3037848ac40900d3813c02c01eb2e094480a",
+      "0120f833a0f9f809f69f7de6266c9da4eaef2a33b2b9d43b82e91dbc42b2df183ba30a",
+      "01212e13c6d737566584580ec13e04a924b284f144d5a8f0d7c7831620e544029c1c0a"
     ],
     "subkeys": [
       "0121b0d34bf1923ba5847c3dfa45aa88570b8eeb78e1b03bfd88e4f603c2737d1d030a",
-      "0121f21fedf127faef4c8db9475d44177139b0445bc7c9ab0a08c2f527fac700f1140a"
+      "0121f21fedf127faef4c8db9475d44177139b0445bc7c9ab0a08c2f527fac700f1140a",
+      "0121364100c31d371b6d9e355459b30d3c3037848ac40900d3813c02c01eb2e094480a",
+      "01212e13c6d737566584580ec13e04a924b284f144d5a8f0d7c7831620e544029c1c0a"
     ],
     "sibkeys": [
       "01011ffb52a3c103b81b5fc5c4fdb6442e2fcaa24ac9816c29fd0b8a85f6465587dd0a",
       "012053335fc658acdfeb85b63a6ad109718bc2bf01c7bb8309a72fe1d6641fe561ce0a",
-      "01208a3f621e7a76cfb3da542a90b8dd8d65ed27df4534ac7cf7405f8073b61580390a"
+      "01208a3f621e7a76cfb3da542a90b8dd8d65ed27df4534ac7cf7405f8073b61580390a",
+      "01201cb9327f7e8dbdb9e3ec7e4fcf22c369f937cbcd979dce0778c260f141b117520a",
+      "0120f833a0f9f809f69f7de6266c9da4eaef2a33b2b9d43b82e91dbc42b2df183ba30a"
     ],
     "families": {
       "01011ffb52a3c103b81b5fc5c4fdb6442e2fcaa24ac9816c29fd0b8a85f6465587dd0a": [
@@ -55,7 +64,11 @@
         "0121b0d34bf1923ba5847c3dfa45aa88570b8eeb78e1b03bfd88e4f603c2737d1d030a",
         "012053335fc658acdfeb85b63a6ad109718bc2bf01c7bb8309a72fe1d6641fe561ce0a",
         "01208a3f621e7a76cfb3da542a90b8dd8d65ed27df4534ac7cf7405f8073b61580390a",
-        "0121f21fedf127faef4c8db9475d44177139b0445bc7c9ab0a08c2f527fac700f1140a"
+        "0121f21fedf127faef4c8db9475d44177139b0445bc7c9ab0a08c2f527fac700f1140a",
+        "01201cb9327f7e8dbdb9e3ec7e4fcf22c369f937cbcd979dce0778c260f141b117520a",
+        "0121364100c31d371b6d9e355459b30d3c3037848ac40900d3813c02c01eb2e094480a",
+        "0120f833a0f9f809f69f7de6266c9da4eaef2a33b2b9d43b82e91dbc42b2df183ba30a",
+        "01212e13c6d737566584580ec13e04a924b284f144d5a8f0d7c7831620e544029c1c0a"
       ]
     },
     "eldest_kid": "01011ffb52a3c103b81b5fc5c4fdb6442e2fcaa24ac9816c29fd0b8a85f6465587dd0a",
@@ -243,12 +256,50 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "ef88ca5721f440390ecb1dfb8a6848ffcfe4f6aa3850c23a3a93008ddef7f95c0f",
-      "seqno": 61,
-      "payload_hash": "a7b00380704e38a41a80a43c8d81491c9210f195982f06042058655ed0968302"
+      "sig_id": "4f0b0154139becd9471fd1c34776732c529a44813499dd41250351f81dbbb1b60f",
+      "seqno": 69,
+      "payload_hash": "ee015b1d5e50e940b247a50bf1497e846b9f66bab34d8a3f7541f32def929087"
     }
   },
   "devices": {
+    "18a6958ad84c44d4eb4827e139b4a318": {
+      "type": "desktop",
+      "ctime": 1483117703,
+      "mtime": 1483117703,
+      "name": "twistypassages",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201cb9327f7e8dbdb9e3ec7e4fcf22c369f937cbcd979dce0778c260f141b117520a",
+          "key_role": 1,
+          "sig_id": "c8ab3a2ffe3d02c2c92082ce0bd71eb0e7cdc17db2de21f653a613489b19dd2d0f"
+        },
+        {
+          "kid": "0121364100c31d371b6d9e355459b30d3c3037848ac40900d3813c02c01eb2e094480a",
+          "key_role": 2,
+          "sig_id": "7f324bcc8103a9a844bd84fbe6a2fcda7c545b737c9324ae39829d2dad660c850f"
+        }
+      ]
+    },
+    "cff13ceb2ae4b7f22f41fef6fbb4f818": {
+      "type": "desktop",
+      "ctime": 1483550661,
+      "mtime": 1483550661,
+      "name": "stitchfix",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120f833a0f9f809f69f7de6266c9da4eaef2a33b2b9d43b82e91dbc42b2df183ba30a",
+          "key_role": 1,
+          "sig_id": "8068d6f4a4c96b32b8977ee439db0dc8c82982b83ee07804f3652c3391efeb310f"
+        },
+        {
+          "kid": "01212e13c6d737566584580ec13e04a924b284f144d5a8f0d7c7831620e544029c1c0a",
+          "key_role": 2,
+          "sig_id": "7ef24a24aad3ca5bd3e2e46be59e796de834b60376541f16e4311647939d9c9a0f"
+        }
+      ]
+    },
     "e2e3285d3882330e39a0d87ec6281918": {
       "type": "desktop",
       "ctime": 1455647400,
