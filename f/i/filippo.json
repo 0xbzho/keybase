@@ -4,16 +4,17 @@
     "username": "filippo",
     "ctime": 1392863278,
     "mtime": 1392863278,
-    "id_version": 99,
+    "id_version": 112,
     "track_version": 5,
-    "last_id_change": 1469161215,
-    "username_cased": "filippo"
+    "last_id_change": 1503887149,
+    "username_cased": "filippo",
+    "status": 0
   },
   "profile": {
-    "mtime": 1418833420,
+    "mtime": 1501094988,
     "full_name": "Filippo Valsorda",
-    "location": "London",
-    "bio": "Italian. CloudFlare Security Team (but opinions bla bla) That Heartbleed guy. Public speaker. Motorbike rider. Frequent flyer. I mess with cryptography. HS F'13"
+    "location": "IT ✈︎ London ✈︎ NYC",
+    "bio": "I mess with cryptography. HS/RC F'13."
   },
   "public_keys": {
     "primary": {
@@ -40,14 +41,24 @@
       "01215e490577374e5827870e54bd9cd3499e238cd8069b827809b9dff59726315b440a",
       "0120f79a04f7aef0781ed989ad0bb4ac40b5ece0d68c75eea5cc4b2851918d82934d0a",
       "012065c31c2680723f30e9b44af1cb31baee380d8db5ef9996586fcb121424e096f70a",
-      "0121b3f1085290331fb9b4da23ede5ed677c1b0bcf56dde155da11a1284ec6cb53580a"
+      "0121b3f1085290331fb9b4da23ede5ed677c1b0bcf56dde155da11a1284ec6cb53580a",
+      "01218f34b7aafa34fa4b5bc532bff134190e29f8ec9eb1cb38a5284cec03012d654c0a",
+      "01201e724f9fa5f05cef6913d0b721f514b6f3e07f8ddb75692fb2084e715480af320a",
+      "01204d6f32b814480e3e2cf0116a6641010643b87cc6fa0ee3fff3a61d247bf150510a",
+      "0121ffc8a9dda071aa1f4faf2d7b4a764d992f15a325b203f429c0abfbed8bc541610a",
+      "0121d6d9a715ccf25ac599d5ca9ec4ea4ed0be9da67793cb4b05b450489b937555780a",
+      "0120fffd169fbe6512363983ddf3879eee62e27e64c1979fbe16ac526cc884c4fab90a"
     ],
     "subkeys": [
-      "01215e490577374e5827870e54bd9cd3499e238cd8069b827809b9dff59726315b440a"
+      "01215e490577374e5827870e54bd9cd3499e238cd8069b827809b9dff59726315b440a",
+      "0121ffc8a9dda071aa1f4faf2d7b4a764d992f15a325b203f429c0abfbed8bc541610a",
+      "0121d6d9a715ccf25ac599d5ca9ec4ea4ed0be9da67793cb4b05b450489b937555780a"
     ],
     "sibkeys": [
       "0101a452411930efc87aa6a298f927fdaccc0e29bcb1c01cdb49676fe95dd900ca250a",
-      "0120f79a04f7aef0781ed989ad0bb4ac40b5ece0d68c75eea5cc4b2851918d82934d0a"
+      "0120f79a04f7aef0781ed989ad0bb4ac40b5ece0d68c75eea5cc4b2851918d82934d0a",
+      "01204d6f32b814480e3e2cf0116a6641010643b87cc6fa0ee3fff3a61d247bf150510a",
+      "0120fffd169fbe6512363983ddf3879eee62e27e64c1979fbe16ac526cc884c4fab90a"
     ],
     "families": {
       "0101a452411930efc87aa6a298f927fdaccc0e29bcb1c01cdb49676fe95dd900ca250a": [
@@ -57,7 +68,13 @@
         "01215e490577374e5827870e54bd9cd3499e238cd8069b827809b9dff59726315b440a",
         "0120f79a04f7aef0781ed989ad0bb4ac40b5ece0d68c75eea5cc4b2851918d82934d0a",
         "012065c31c2680723f30e9b44af1cb31baee380d8db5ef9996586fcb121424e096f70a",
-        "0121b3f1085290331fb9b4da23ede5ed677c1b0bcf56dde155da11a1284ec6cb53580a"
+        "0121b3f1085290331fb9b4da23ede5ed677c1b0bcf56dde155da11a1284ec6cb53580a",
+        "01218f34b7aafa34fa4b5bc532bff134190e29f8ec9eb1cb38a5284cec03012d654c0a",
+        "01201e724f9fa5f05cef6913d0b721f514b6f3e07f8ddb75692fb2084e715480af320a",
+        "01204d6f32b814480e3e2cf0116a6641010643b87cc6fa0ee3fff3a61d247bf150510a",
+        "0121ffc8a9dda071aa1f4faf2d7b4a764d992f15a325b203f429c0abfbed8bc541610a",
+        "0121d6d9a715ccf25ac599d5ca9ec4ea4ed0be9da67793cb4b05b450489b937555780a",
+        "0120fffd169fbe6512363983ddf3879eee62e27e64c1979fbe16ac526cc884c4fab90a"
       ]
     },
     "eldest_kid": "0101a452411930efc87aa6a298f927fdaccc0e29bcb1c01cdb49676fe95dd900ca250a",
@@ -107,20 +124,6 @@
           "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/2pn0tm/my_keybase_proof_redditfilosottile_keybasefilippo/",
           "service_url": "https://reddit.com/user/filosottile",
           "presentation_group": "reddit",
-          "presentation_tag": "post"
-        }
-      ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "filosottile",
-          "state": 1,
-          "proof_url": "https://coinbase.com/filosottile/public-key",
-          "sig_id": "aec01f1d726133d0e77b9c9d372fe0d5e91e0c07fd48dbb86a4b46f0e63cf6a10f",
-          "proof_id": "dc82d0226f23a4e535b4a410",
-          "human_url": "https://coinbase.com/filosottile/public-key",
-          "service_url": "https://coinbase.com/filosottile",
-          "presentation_group": "coinbase",
           "presentation_tag": "post"
         }
       ],
@@ -196,20 +199,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "filosottile",
-          "state": 1,
-          "proof_url": "https://coinbase.com/filosottile/public-key",
-          "sig_id": "aec01f1d726133d0e77b9c9d372fe0d5e91e0c07fd48dbb86a4b46f0e63cf6a10f",
-          "proof_id": "dc82d0226f23a4e535b4a410",
-          "human_url": "https://coinbase.com/filosottile/public-key",
-          "service_url": "https://coinbase.com/filosottile",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -277,18 +266,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "filosottile",
-        "state": 1,
-        "proof_url": "https://coinbase.com/filosottile/public-key",
-        "sig_id": "aec01f1d726133d0e77b9c9d372fe0d5e91e0c07fd48dbb86a4b46f0e63cf6a10f",
-        "proof_id": "dc82d0226f23a4e535b4a410",
-        "human_url": "https://coinbase.com/filosottile/public-key",
-        "service_url": "https://coinbase.com/filosottile",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "filosottile",
         "state": 1,
@@ -324,7 +301,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/9dadfe5cbc7d23f8f83029cc2ee2db05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/028dac94e53b7e5a432b44a7a1261805_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -332,16 +309,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "441fcef8963f9bdcaa2b197e58a848740b98190fef341bbc1695b746703239fd0f",
-      "seqno": 36,
-      "payload_hash": "cb462184fff0bae1cea4f4867b4f9ca5bf85d917b925ac710d7548609ad20685"
+      "sig_id": "37a77128ff25e03a10e3f342abf8b597e169135a5e9e0cabe5cea04810b49f800f",
+      "seqno": 44,
+      "payload_hash": "8f50efb372ca13464b36104e17e55cd30996215aa5e6cd7e3b2d312f02c2cfbe"
     }
   },
   "devices": {
+    "060444e49c7a8e2186aa1abc1fac6018": {
+      "type": "mobile",
+      "ctime": 1501095420,
+      "mtime": 1501095420,
+      "name": "iPhone SE",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120fffd169fbe6512363983ddf3879eee62e27e64c1979fbe16ac526cc884c4fab90a",
+          "key_role": 1,
+          "sig_id": "a37ac218ed8237f996fa03f9a1bf8154cb69beefdf2fb6bf81650a43b9bf9a040f"
+        },
+        {
+          "kid": "0121d6d9a715ccf25ac599d5ca9ec4ea4ed0be9da67793cb4b05b450489b937555780a",
+          "key_role": 2,
+          "sig_id": "04a8e8c5cd4ce7397085838163f91dd4c7c4a48e8558623e6a0e5dd341a5198d0f"
+        }
+      ]
+    },
     "599377b8cc57c8032e9eabe460fdde18": {
       "type": "backup",
-      "ctime": 1458060007,
-      "mtime": 1458060007,
+      "ctime": 1458063607,
+      "mtime": 1458063607,
       "name": "umbrella maze",
       "status": 1,
       "keys": [
@@ -354,6 +350,25 @@
           "kid": "01215e490577374e5827870e54bd9cd3499e238cd8069b827809b9dff59726315b440a",
           "key_role": 2,
           "sig_id": "35685b5c8930fa3daeba7fb0a527d9e3931298965605d05a48eaf4958a42f3040f"
+        }
+      ]
+    },
+    "77662aa0b8df5628dbd8b11d21721f18": {
+      "type": "desktop",
+      "ctime": 1501093894,
+      "mtime": 1501093894,
+      "name": "Personal MacBook 2017",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204d6f32b814480e3e2cf0116a6641010643b87cc6fa0ee3fff3a61d247bf150510a",
+          "key_role": 1,
+          "sig_id": "cf6cf0ce78823c05d38c0ea0c505ce0fb1ad31ce0cd51cc29666be57ed6cbd430f"
+        },
+        {
+          "kid": "0121ffc8a9dda071aa1f4faf2d7b4a764d992f15a325b203f429c0abfbed8bc541610a",
+          "key_role": 2,
+          "sig_id": "29dda2c8079c453a55473fe20c4c96e0f63f6ac7dac13a9d2242376d71e31f5a0f"
         }
       ]
     }
