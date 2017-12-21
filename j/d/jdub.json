@@ -4,16 +4,17 @@
     "username": "jdub",
     "ctime": 1454635714,
     "mtime": 1454635714,
-    "id_version": 11,
+    "id_version": 19,
     "track_version": 0,
-    "last_id_change": 1459480715,
-    "username_cased": "jdub"
+    "last_id_change": 1507357197,
+    "username_cased": "jdub",
+    "status": 0
   },
   "profile": {
-    "mtime": 1454636473,
+    "mtime": 1507177338,
     "full_name": "Jeff Waugh",
     "location": "Sydney, Australia",
-    "bio": null
+    "bio": "I build castles* in the sky* made of fairy floss*. ☁️"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +39,26 @@
       "0121e9b47907e6775a00897c3921d24af8b523f2b5b3f6d251bb50d95d23d0417a6b0a",
       "0120c2a97de59957b4202aa4630ff83a23c6aa660b30ad1c8dd3386c7d7ec165b0d20a",
       "0120d20ea800777c9df290c3ae761a9d6e7f8b5bd01a9abe64fc9a8510547f5532790a",
-      "012155edc9151158edc9f924040cf355588935fe992fe6164403351538b325eef63e0a"
+      "012155edc9151158edc9f924040cf355588935fe992fe6164403351538b325eef63e0a",
+      "012163e4ffc39a35d5758eb295c4bde6c99395db7b94732479cc8714e87540b4585f0a",
+      "0120b74fed89e94f544a8a3e877968f5036add11a5439205405630a17a21d7bef8d50a",
+      "012194c0245b05f2a242b6e79c3df848618af0370c5932c392f1f23292d5dfdfa63f0a",
+      "01207ca94f91063c57ed4a35987c7fba19c4d8bb56182e4b220f28ad54df178521990a",
+      "0120fd506077476a98dfe9a11c8ecb93e46d6c899af60590b4aa36d0bb407aeac6f00a",
+      "0121a26b11b12218d1545fe045b13efabe1fc3d99933039995e0c49965e0c94bf45f0a"
     ],
     "subkeys": [
-      "0121e9b47907e6775a00897c3921d24af8b523f2b5b3f6d251bb50d95d23d0417a6b0a",
-      "012155edc9151158edc9f924040cf355588935fe992fe6164403351538b325eef63e0a"
+      "012155edc9151158edc9f924040cf355588935fe992fe6164403351538b325eef63e0a",
+      "012163e4ffc39a35d5758eb295c4bde6c99395db7b94732479cc8714e87540b4585f0a",
+      "012194c0245b05f2a242b6e79c3df848618af0370c5932c392f1f23292d5dfdfa63f0a",
+      "0121a26b11b12218d1545fe045b13efabe1fc3d99933039995e0c49965e0c94bf45f0a"
     ],
     "sibkeys": [
       "011125f7f2be2d3408799b007ad1cac556291ff1c16f774130b7a7bb5d13883436250a",
-      "0120c2a97de59957b4202aa4630ff83a23c6aa660b30ad1c8dd3386c7d7ec165b0d20a",
-      "0120d20ea800777c9df290c3ae761a9d6e7f8b5bd01a9abe64fc9a8510547f5532790a"
+      "0120d20ea800777c9df290c3ae761a9d6e7f8b5bd01a9abe64fc9a8510547f5532790a",
+      "0120b74fed89e94f544a8a3e877968f5036add11a5439205405630a17a21d7bef8d50a",
+      "01207ca94f91063c57ed4a35987c7fba19c4d8bb56182e4b220f28ad54df178521990a",
+      "0120fd506077476a98dfe9a11c8ecb93e46d6c899af60590b4aa36d0bb407aeac6f00a"
     ],
     "families": {
       "011125f7f2be2d3408799b007ad1cac556291ff1c16f774130b7a7bb5d13883436250a": [
@@ -55,7 +66,13 @@
         "0121e9b47907e6775a00897c3921d24af8b523f2b5b3f6d251bb50d95d23d0417a6b0a",
         "0120c2a97de59957b4202aa4630ff83a23c6aa660b30ad1c8dd3386c7d7ec165b0d20a",
         "0120d20ea800777c9df290c3ae761a9d6e7f8b5bd01a9abe64fc9a8510547f5532790a",
-        "012155edc9151158edc9f924040cf355588935fe992fe6164403351538b325eef63e0a"
+        "012155edc9151158edc9f924040cf355588935fe992fe6164403351538b325eef63e0a",
+        "012163e4ffc39a35d5758eb295c4bde6c99395db7b94732479cc8714e87540b4585f0a",
+        "0120b74fed89e94f544a8a3e877968f5036add11a5439205405630a17a21d7bef8d50a",
+        "012194c0245b05f2a242b6e79c3df848618af0370c5932c392f1f23292d5dfdfa63f0a",
+        "01207ca94f91063c57ed4a35987c7fba19c4d8bb56182e4b220f28ad54df178521990a",
+        "0120fd506077476a98dfe9a11c8ecb93e46d6c899af60590b4aa36d0bb407aeac6f00a",
+        "0121a26b11b12218d1545fe045b13efabe1fc3d99933039995e0c49965e0c94bf45f0a"
       ]
     },
     "eldest_kid": "011125f7f2be2d3408799b007ad1cac556291ff1c16f774130b7a7bb5d13883436250a",
@@ -203,12 +220,50 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "8dd28e21a2aa702261d8596fa1f80de8f1cafecc35311a93612afb1d84b782cd0f",
-      "seqno": 8,
-      "payload_hash": "b7d9a2559c665a4e44837af67a8aaf20859bb87ff0696b428ac00cae691b1548"
+      "sig_id": "23bcace568d60c477e8458dde692736ba826ac0fcbcd94ac40e60200ff76b04d0f",
+      "seqno": 17,
+      "payload_hash": "6cc1e4c3dbe5e014d864107e614e9f529c699b6f8e5405589110ee4d78091982"
     }
   },
   "devices": {
+    "2fad923be891dd725b3fde83ae919518": {
+      "type": "desktop",
+      "ctime": 1507357197,
+      "mtime": 1507357197,
+      "name": "sliver",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120fd506077476a98dfe9a11c8ecb93e46d6c899af60590b4aa36d0bb407aeac6f00a",
+          "key_role": 1,
+          "sig_id": "8a93981f7a8c4d8ab2e0835455ed64123c736671f1ec7947999d52a71c2a8f880f"
+        },
+        {
+          "kid": "0121a26b11b12218d1545fe045b13efabe1fc3d99933039995e0c49965e0c94bf45f0a",
+          "key_role": 2,
+          "sig_id": "23bcace568d60c477e8458dde692736ba826ac0fcbcd94ac40e60200ff76b04d0f"
+        }
+      ]
+    },
+    "47ea8fcca0d90d9ecfb2d1582a4fe318": {
+      "type": "desktop",
+      "ctime": 1507193382,
+      "mtime": 1507193382,
+      "name": "space",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207ca94f91063c57ed4a35987c7fba19c4d8bb56182e4b220f28ad54df178521990a",
+          "key_role": 1,
+          "sig_id": "a2876248b987f44ba6f97033f48551ca0cf55f47feb8c075a5cfdef10fc14f340f"
+        },
+        {
+          "kid": "012194c0245b05f2a242b6e79c3df848618af0370c5932c392f1f23292d5dfdfa63f0a",
+          "key_role": 2,
+          "sig_id": "c51a9ece8c7ff8ab0e9c58948902645990c7fe94aa2df47e0a0de0b62de9666d0f"
+        }
+      ]
+    },
     "a705169720d8f432459a9c818bf48218": {
       "type": "backup",
       "ctime": 1454637541,
@@ -228,22 +283,22 @@
         }
       ]
     },
-    "ef99c699a53aaf0abf2313a3457cbe18": {
+    "b309158b81e59311d25470d01c234518": {
       "type": "desktop",
-      "ctime": 1454637540,
-      "mtime": 1454637540,
-      "name": "slender",
+      "ctime": 1507177134,
+      "mtime": 1507177134,
+      "name": "workimac",
       "status": 1,
       "keys": [
         {
-          "kid": "0120c2a97de59957b4202aa4630ff83a23c6aa660b30ad1c8dd3386c7d7ec165b0d20a",
+          "kid": "0120b74fed89e94f544a8a3e877968f5036add11a5439205405630a17a21d7bef8d50a",
           "key_role": 1,
-          "sig_id": "98bb137d7b8b05c7cba9deac7664a7c95f299fb2af98fa120f5c811bc587987a0f"
+          "sig_id": "94fe5ee6167368b2dd662340ede8d43f13f6a41b764cd28d565c149d38bde8d20f"
         },
         {
-          "kid": "0121e9b47907e6775a00897c3921d24af8b523f2b5b3f6d251bb50d95d23d0417a6b0a",
+          "kid": "012163e4ffc39a35d5758eb295c4bde6c99395db7b94732479cc8714e87540b4585f0a",
           "key_role": 2,
-          "sig_id": "583e3914ff373534434bb8b3271f127ff36cdd9d86ae63c65fad0428415fb9cb0f"
+          "sig_id": "3c8ad67d80d432633c830addc42f6fd2ed6fc52cc6d4e0592b1e9bf901b791230f"
         }
       ]
     }
