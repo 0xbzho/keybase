@@ -2,15 +2,16 @@
   "id": "764ab7a46e95ac9fe18cbffb77a4bb00",
   "basics": {
     "username": "yous",
-    "ctime": 1405500908,
-    "mtime": 1405500908,
+    "ctime": 1405504508,
+    "mtime": 1405504508,
     "id_version": 78,
-    "track_version": 8,
-    "last_id_change": 1463137293,
-    "username_cased": "yous"
+    "track_version": 10,
+    "last_id_change": 1463140893,
+    "username_cased": "yous",
+    "status": 0
   },
   "profile": {
-    "mtime": 1436660676,
+    "mtime": 1436664276,
     "full_name": "Chayoung You",
     "location": "Republic of Korea",
     "bio": "Software Engineer"
@@ -56,17 +57,13 @@
     ],
     "subkeys": [
       "0121f240e4d319ba363ef4fa3aba0647b90ac9b5b7054843c21b16eaecc4bed7e2340a",
-      "01214624b8260cabf187d6eec76a2a61cf7c983baab323e93287b3d70f1ecfcd4f2e0a",
       "01217a9618e4fe235d1d182a9817b8dfa52b4c868eb662bfbea8f7d9b5c88a6d5b300a",
-      "01216525cbf533bce22bb7b94d223a6e8a58aabf26d5a3489198f75a1bfa303f2a150a",
       "0121c6a13824e8eacb98e5e8069643257b90e338fc5c598a424c85682f220070624a0a"
     ],
     "sibkeys": [
       "0120331c356bd0b9fe9ed7d28dcee10a29b4956d202a32d8a16fc87a29981ccda3dc0a",
-      "0120397e9b02b3b9fa519c60302e993f947a12e05094cf5cec36f5073f673b67b8de0a",
       "0120bc7a204aec32cb0b6d1cf6e06663427ec4f1dad8310daead3cf99ca4f68db0b60a",
       "01016c9b245995eec4f091e0341e8b5a28fefae282d7ca66fa02880ecda7241cce190a",
-      "01200cfc666ecb10b4c3c137154d9997ad2041963da6b93f33f1ad930cd96514458f0a",
       "0120717f0f0399aca135f937bea96a8ae5d46016c500ff7339eda55addc9c08196580a"
     ],
     "families": {
@@ -275,31 +272,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "28459d2970ee0d440b923efa4e0295bb2e539b3baf332a57059b0541c1426fb70f",
-      "seqno": 44,
-      "payload_hash": "b39c90fa7b996e4ebc75fe32a6b63ee29e1da9ae165ded92d17ff4fe3131c53b"
+      "sig_id": "b4c11e6e739c11b3347084e42bd28adc2eab965baf222fda2c0a264177d29de50f",
+      "seqno": 49,
+      "payload_hash": "8748b87e8c7db9281ff6bef33ef0a5f5eead573b95eec3720bebadf345b314f5"
     }
   },
   "devices": {
-    "1ee03f519910b030fce1137df32eec18": {
-      "type": "desktop",
-      "ctime": 1456971988,
-      "mtime": 1456971988,
-      "name": "Arch VM",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01200cfc666ecb10b4c3c137154d9997ad2041963da6b93f33f1ad930cd96514458f0a",
-          "key_role": 1,
-          "sig_id": "1ad6f1db1a30bdfb59f516d5038a6df50faa9e8c28945ce2cfb6aa6c94f7fa590f"
-        },
-        {
-          "kid": "01216525cbf533bce22bb7b94d223a6e8a58aabf26d5a3489198f75a1bfa303f2a150a",
-          "key_role": 2,
-          "sig_id": "44f3fb3b58773b2e4b0bbfd5465e64d3c4ceb04fb1561ec07458302f558bf35e0f"
-        }
-      ]
-    },
     "a68e31c13932dec7f6ddefdf12270218": {
       "type": "desktop",
       "ctime": 1453541681,
@@ -316,25 +294,6 @@
           "kid": "01217a9618e4fe235d1d182a9817b8dfa52b4c868eb662bfbea8f7d9b5c88a6d5b300a",
           "key_role": 2,
           "sig_id": "8e760043f4f217b085be8e7af3b8648111852e68cae540a83aad9e5eb552928f0f"
-        }
-      ]
-    },
-    "afedbf515abab340a19f45aedeb7c818": {
-      "type": "desktop",
-      "ctime": 1451115462,
-      "mtime": 1451115462,
-      "name": "Ubuntu VM",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120397e9b02b3b9fa519c60302e993f947a12e05094cf5cec36f5073f673b67b8de0a",
-          "key_role": 1,
-          "sig_id": "613edfbab01b7656e31e07d095dfbb88ce74d25b309e16f92f3c78eceba3f26d0f"
-        },
-        {
-          "kid": "01214624b8260cabf187d6eec76a2a61cf7c983baab323e93287b3d70f1ecfcd4f2e0a",
-          "key_role": 2,
-          "sig_id": "ce9bc62de4969d7c4435724e392aef92a5bdc5ce56de31db586cf92458315da30f"
         }
       ]
     },
@@ -359,8 +318,8 @@
     },
     "e297a3a32b684fb7aa34831def1bcb18": {
       "type": "desktop",
-      "ctime": 1460014196,
-      "mtime": 1460014196,
+      "ctime": 1460017796,
+      "mtime": 1460017796,
       "name": "Yous MacBook Air 2016-04-07",
       "status": 1,
       "keys": [
