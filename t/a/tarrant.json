@@ -4,16 +4,17 @@
     "username": "tarrant",
     "ctime": 1415993197,
     "mtime": 1415993197,
-    "id_version": 10,
-    "track_version": 9,
-    "last_id_change": 1462485534,
-    "username_cased": "tarrant"
+    "id_version": 27,
+    "track_version": 16,
+    "last_id_change": 1497024598,
+    "username_cased": "tarrant",
+    "status": 0
   },
   "profile": {
-    "mtime": 1429038019,
+    "mtime": 1480231720,
     "full_name": "Tarrant Rollins",
-    "location": "San Francisco Bay Area",
-    "bio": "Twitch Software Engineer"
+    "location": "West Seattle",
+    "bio": "Video-Network Software Engineer for https://twitch.tv. We do our best to keep the video system running smoothly."
   },
   "public_keys": {
     "primary": {
@@ -38,16 +39,22 @@
       "01202f5060ffaa3c353e62ea345e0c6bdd728e409889eeff042d1cb18777b57036420a",
       "0121490bb203e62265a9ea21ee812b5acf727722646ea6f2c901f87eb6dc3d590e280a",
       "01213c353b44c75103c34ef590d0582152e054345e9bab449cc50c9219b3d6342a5e0a",
-      "01203958be44b7f5779c43637cca703eb1fd487ef81cebe169752cb29b86c7ac22a40a"
+      "01203958be44b7f5779c43637cca703eb1fd487ef81cebe169752cb29b86c7ac22a40a",
+      "012178ab15194f2057f9d122f1b59e4a29933414b5589c642b6036249c7b725c645e0a",
+      "012065273caa2d4e5c77157ab527326cb15fcb4f478afab11eb1c716608104e665520a",
+      "01212d09e5b368343e42147127dd2f93fbc754cd16b1456f166a3cced914159b45340a",
+      "0120149031085babfe30456ce977e8b704d4c7f4831f26afe8ec76e5373eccae33e30a"
     ],
     "subkeys": [
-      "0121490bb203e62265a9ea21ee812b5acf727722646ea6f2c901f87eb6dc3d590e280a",
-      "01213c353b44c75103c34ef590d0582152e054345e9bab449cc50c9219b3d6342a5e0a"
+      "01213c353b44c75103c34ef590d0582152e054345e9bab449cc50c9219b3d6342a5e0a",
+      "012178ab15194f2057f9d122f1b59e4a29933414b5589c642b6036249c7b725c645e0a",
+      "01212d09e5b368343e42147127dd2f93fbc754cd16b1456f166a3cced914159b45340a"
     ],
     "sibkeys": [
       "010137f1f76044dda941d1ee9121ffa53e14ee5e91f280b19f2fc09463eb52ac11c30a",
-      "01202f5060ffaa3c353e62ea345e0c6bdd728e409889eeff042d1cb18777b57036420a",
-      "01203958be44b7f5779c43637cca703eb1fd487ef81cebe169752cb29b86c7ac22a40a"
+      "01203958be44b7f5779c43637cca703eb1fd487ef81cebe169752cb29b86c7ac22a40a",
+      "012065273caa2d4e5c77157ab527326cb15fcb4f478afab11eb1c716608104e665520a",
+      "0120149031085babfe30456ce977e8b704d4c7f4831f26afe8ec76e5373eccae33e30a"
     ],
     "families": {
       "010137f1f76044dda941d1ee9121ffa53e14ee5e91f280b19f2fc09463eb52ac11c30a": [
@@ -55,7 +62,11 @@
         "01202f5060ffaa3c353e62ea345e0c6bdd728e409889eeff042d1cb18777b57036420a",
         "0121490bb203e62265a9ea21ee812b5acf727722646ea6f2c901f87eb6dc3d590e280a",
         "01213c353b44c75103c34ef590d0582152e054345e9bab449cc50c9219b3d6342a5e0a",
-        "01203958be44b7f5779c43637cca703eb1fd487ef81cebe169752cb29b86c7ac22a40a"
+        "01203958be44b7f5779c43637cca703eb1fd487ef81cebe169752cb29b86c7ac22a40a",
+        "012178ab15194f2057f9d122f1b59e4a29933414b5589c642b6036249c7b725c645e0a",
+        "012065273caa2d4e5c77157ab527326cb15fcb4f478afab11eb1c716608104e665520a",
+        "01212d09e5b368343e42147127dd2f93fbc754cd16b1456f166a3cced914159b45340a",
+        "0120149031085babfe30456ce977e8b704d4c7f4831f26afe8ec76e5373eccae33e30a"
       ]
     },
     "eldest_kid": "010137f1f76044dda941d1ee9121ffa53e14ee5e91f280b19f2fc09463eb52ac11c30a",
@@ -83,6 +94,18 @@
       "dns": [
         {
           "proof_type": "dns",
+          "nametag": "keyneston.co.uk",
+          "state": 1,
+          "proof_url": "https://keybase.io/tarrant/sigchain#1420b5a52b74a4037be6c0804051f0c1450c7d8808cf185dd75a51953d0af3660f",
+          "sig_id": "1420b5a52b74a4037be6c0804051f0c1450c7d8808cf185dd75a51953d0af3660f",
+          "proof_id": "64a68677a8e40fe788115710",
+          "human_url": "dns://keyneston.co.uk",
+          "service_url": "http://keyneston.co.uk",
+          "presentation_group": "keyneston.co.uk",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "keyneston.com",
           "state": 1,
           "proof_url": "https://keybase.io/tarrant/sigchain#f2bbef23813e363ebcbef11a6148a50b6526d4a1aaa35e99ec4e52ba696f60240f",
@@ -91,6 +114,18 @@
           "human_url": "dns://keyneston.com",
           "service_url": "http://keyneston.com",
           "presentation_group": "keyneston.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "keyneston.uk",
+          "state": 1,
+          "proof_url": "https://keybase.io/tarrant/sigchain#5bfbce3cea1a4d41d7958e023957286c7e9bebbf55683ca492ba63094723853c0f",
+          "sig_id": "5bfbce3cea1a4d41d7958e023957286c7e9bebbf55683ca492ba63094723853c0f",
+          "proof_id": "062a38b02eae5d9891494d10",
+          "human_url": "dns://keyneston.uk",
+          "service_url": "http://keyneston.uk",
+          "presentation_group": "keyneston.uk",
           "presentation_tag": "dns"
         }
       ]
@@ -110,6 +145,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "keyneston.co.uk": [
+        {
+          "proof_type": "dns",
+          "nametag": "keyneston.co.uk",
+          "state": 1,
+          "proof_url": "https://keybase.io/tarrant/sigchain#1420b5a52b74a4037be6c0804051f0c1450c7d8808cf185dd75a51953d0af3660f",
+          "sig_id": "1420b5a52b74a4037be6c0804051f0c1450c7d8808cf185dd75a51953d0af3660f",
+          "proof_id": "64a68677a8e40fe788115710",
+          "human_url": "dns://keyneston.co.uk",
+          "service_url": "http://keyneston.co.uk",
+          "presentation_group": "keyneston.co.uk",
+          "presentation_tag": "dns"
+        }
+      ],
       "keyneston.com": [
         {
           "proof_type": "dns",
@@ -121,6 +170,20 @@
           "human_url": "dns://keyneston.com",
           "service_url": "http://keyneston.com",
           "presentation_group": "keyneston.com",
+          "presentation_tag": "dns"
+        }
+      ],
+      "keyneston.uk": [
+        {
+          "proof_type": "dns",
+          "nametag": "keyneston.uk",
+          "state": 1,
+          "proof_url": "https://keybase.io/tarrant/sigchain#5bfbce3cea1a4d41d7958e023957286c7e9bebbf55683ca492ba63094723853c0f",
+          "sig_id": "5bfbce3cea1a4d41d7958e023957286c7e9bebbf55683ca492ba63094723853c0f",
+          "proof_id": "062a38b02eae5d9891494d10",
+          "human_url": "dns://keyneston.uk",
+          "service_url": "http://keyneston.uk",
+          "presentation_group": "keyneston.uk",
           "presentation_tag": "dns"
         }
       ]
@@ -140,6 +203,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "keyneston.co.uk",
+        "state": 1,
+        "proof_url": "https://keybase.io/tarrant/sigchain#1420b5a52b74a4037be6c0804051f0c1450c7d8808cf185dd75a51953d0af3660f",
+        "sig_id": "1420b5a52b74a4037be6c0804051f0c1450c7d8808cf185dd75a51953d0af3660f",
+        "proof_id": "64a68677a8e40fe788115710",
+        "human_url": "dns://keyneston.co.uk",
+        "service_url": "http://keyneston.co.uk",
+        "presentation_group": "keyneston.co.uk",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "keyneston.com",
         "state": 1,
         "proof_url": "https://keybase.io/tarrant/sigchain#f2bbef23813e363ebcbef11a6148a50b6526d4a1aaa35e99ec4e52ba696f60240f",
@@ -149,13 +224,25 @@
         "service_url": "http://keyneston.com",
         "presentation_group": "keyneston.com",
         "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "keyneston.uk",
+        "state": 1,
+        "proof_url": "https://keybase.io/tarrant/sigchain#5bfbce3cea1a4d41d7958e023957286c7e9bebbf55683ca492ba63094723853c0f",
+        "sig_id": "5bfbce3cea1a4d41d7958e023957286c7e9bebbf55683ca492ba63094723853c0f",
+        "proof_id": "062a38b02eae5d9891494d10",
+        "human_url": "dns://keyneston.uk",
+        "service_url": "http://keyneston.uk",
+        "presentation_group": "keyneston.uk",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/34e753de0bbfd8b9d2ee29890dc7c705_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/cea4e01bbf815db46702dced295fcd05_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -163,35 +250,54 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b1d76cedcf76051ccf4f152495b91c62bcedb7d8cbc99266d843dbfbc5fc55010f",
-      "seqno": 15,
-      "payload_hash": "0d9cdf215210d743d1338a1c3393c502755902ceeeb65a0dba1885c0a11e1068"
+      "sig_id": "9cede015d4ca98b3d93ada152c36af4392574d4152bf7e2a1c11fe078880f20e0f",
+      "seqno": 33,
+      "payload_hash": "b29c9472649daf50c54e13d5ffbd7c0694b3aad4897cbb621c932857f25ebd45"
     }
   },
   "devices": {
-    "875a606fdd56d86438f56952d8041218": {
+    "6d7a12ceb7faa09bb6ab215f2857be18": {
       "type": "desktop",
-      "ctime": 1462485533,
-      "mtime": 1462485533,
-      "name": "Aldgate",
+      "ctime": 1497024598,
+      "mtime": 1497024598,
+      "name": "Islington",
       "status": 1,
       "keys": [
         {
-          "kid": "01202f5060ffaa3c353e62ea345e0c6bdd728e409889eeff042d1cb18777b57036420a",
+          "kid": "0120149031085babfe30456ce977e8b704d4c7f4831f26afe8ec76e5373eccae33e30a",
           "key_role": 1,
-          "sig_id": "41c6638a91c99570ab2beef5759fbf0c660a658685eff967ec530ed7f2b684fc0f"
+          "sig_id": "f3c6dd5cfb44de998f75cc46f7aebd199b88d2abe1d4a2486c718fff45a349ed0f"
         },
         {
-          "kid": "0121490bb203e62265a9ea21ee812b5acf727722646ea6f2c901f87eb6dc3d590e280a",
+          "kid": "01212d09e5b368343e42147127dd2f93fbc754cd16b1456f166a3cced914159b45340a",
           "key_role": 2,
-          "sig_id": "894927f21d15afd7cdb9d2e2798336010bbf6c7bcc0ec42618d150a847a4845e0f"
+          "sig_id": "f09ea28b1caf2c4909eee4ad0799d9ef4eb59cdb24db87ad1001b432d95c97ae0f"
+        }
+      ]
+    },
+    "d01543c86ee0925fe89fc06c237b4f18": {
+      "type": "desktop",
+      "ctime": 1480172540,
+      "mtime": 1480172540,
+      "name": "Whitechapel",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012065273caa2d4e5c77157ab527326cb15fcb4f478afab11eb1c716608104e665520a",
+          "key_role": 1,
+          "sig_id": "b3d3011505940bb18a986070956d61a79fbf32e1bf93763d14296fb4f9dda9530f"
+        },
+        {
+          "kid": "012178ab15194f2057f9d122f1b59e4a29933414b5589c642b6036249c7b725c645e0a",
+          "key_role": 2,
+          "sig_id": "44b80606194b1e9a0d00644ba7f8c4e4f4506bb5447c27f0f18b3710e92c09f80f"
         }
       ]
     },
     "dabd59bcfec6d3ebac68afa84c8ffa18": {
       "type": "backup",
-      "ctime": 1462485534,
-      "mtime": 1462485534,
+      "ctime": 1462489134,
+      "mtime": 1462489134,
       "name": "congress involve",
       "status": 1,
       "keys": [
