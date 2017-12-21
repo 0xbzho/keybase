@@ -4,16 +4,17 @@
     "username": "ghostbar",
     "ctime": 1417479642,
     "mtime": 1417479642,
-    "id_version": 34,
-    "track_version": 8,
-    "last_id_change": 1465841030,
-    "username_cased": "ghostbar"
+    "id_version": 40,
+    "track_version": 21,
+    "last_id_change": 1509011738,
+    "username_cased": "ghostbar",
+    "status": 0
   },
   "profile": {
-    "mtime": 1421165840,
-    "full_name": "Jose-Luis Rivas",
-    "location": null,
-    "bio": "Open Web & Debian Developer, activist on @AccesoLibreRed"
+    "mtime": 1509011553,
+    "full_name": "ghostbar",
+    "location": "µtty, inet",
+    "bio": "cryptoanarchist"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +39,24 @@
       "0120f10c9f1b9815b024a7a01ace977b3d814e4e9528dd8379c4b0dffe793428d6270a",
       "0121ac2c9e2ea6545d8c72c867d4478a1027b6c3e300a93fbc9f3e52fd83f9a050390a",
       "01212f1bcd7937ddafb66e5cd78f57a7386eee505ed8bbe98bbc913bb9307dbc86210a",
-      "012009dc26c35b3bf681602cd9cb3afa04e31887b88478b11988ca0e8694015ff63f0a"
+      "012009dc26c35b3bf681602cd9cb3afa04e31887b88478b11988ca0e8694015ff63f0a",
+      "0120762280906f37fc692bad1f3066bcf8b0fc4ddbad7f3bf4ecabc93d2b45c6461e0a",
+      "012112a07c1ece651dcce4c6325c9e80735a77b76d19eef21eef85127dbfc1b40a790a",
+      "0120d951a6dbbbb8e0b522b50446e86cef590a1bedcb981f9568922a0066b0588f6d0a",
+      "0121cda2ebc983c336ffd9c0f2c9c31fa588197b2f0551e4f126601bcba00130a2010a",
+      "0121b7a788dd4453ae8bba44c80cc721b39aa76622633c2186e796f781072d91451f0a",
+      "01202d38f668095ad552f06bdb95fea79a9b65f9013c5602782cd710904c343b47dc0a"
     ],
     "subkeys": [
-      "0121ac2c9e2ea6545d8c72c867d4478a1027b6c3e300a93fbc9f3e52fd83f9a050390a",
-      "01212f1bcd7937ddafb66e5cd78f57a7386eee505ed8bbe98bbc913bb9307dbc86210a"
+      "01212f1bcd7937ddafb66e5cd78f57a7386eee505ed8bbe98bbc913bb9307dbc86210a",
+      "0121cda2ebc983c336ffd9c0f2c9c31fa588197b2f0551e4f126601bcba00130a2010a",
+      "0121b7a788dd4453ae8bba44c80cc721b39aa76622633c2186e796f781072d91451f0a"
     ],
     "sibkeys": [
       "01018513e9f63374e1d8bb9333fde72bfd61233467459917f4063af67d7f2049f95c0a",
-      "0120f10c9f1b9815b024a7a01ace977b3d814e4e9528dd8379c4b0dffe793428d6270a",
-      "012009dc26c35b3bf681602cd9cb3afa04e31887b88478b11988ca0e8694015ff63f0a"
+      "012009dc26c35b3bf681602cd9cb3afa04e31887b88478b11988ca0e8694015ff63f0a",
+      "0120d951a6dbbbb8e0b522b50446e86cef590a1bedcb981f9568922a0066b0588f6d0a",
+      "01202d38f668095ad552f06bdb95fea79a9b65f9013c5602782cd710904c343b47dc0a"
     ],
     "families": {
       "01018513e9f63374e1d8bb9333fde72bfd61233467459917f4063af67d7f2049f95c0a": [
@@ -55,7 +64,13 @@
         "0120f10c9f1b9815b024a7a01ace977b3d814e4e9528dd8379c4b0dffe793428d6270a",
         "0121ac2c9e2ea6545d8c72c867d4478a1027b6c3e300a93fbc9f3e52fd83f9a050390a",
         "01212f1bcd7937ddafb66e5cd78f57a7386eee505ed8bbe98bbc913bb9307dbc86210a",
-        "012009dc26c35b3bf681602cd9cb3afa04e31887b88478b11988ca0e8694015ff63f0a"
+        "012009dc26c35b3bf681602cd9cb3afa04e31887b88478b11988ca0e8694015ff63f0a",
+        "0120762280906f37fc692bad1f3066bcf8b0fc4ddbad7f3bf4ecabc93d2b45c6461e0a",
+        "012112a07c1ece651dcce4c6325c9e80735a77b76d19eef21eef85127dbfc1b40a790a",
+        "0120d951a6dbbbb8e0b522b50446e86cef590a1bedcb981f9568922a0066b0588f6d0a",
+        "0121cda2ebc983c336ffd9c0f2c9c31fa588197b2f0551e4f126601bcba00130a2010a",
+        "0121b7a788dd4453ae8bba44c80cc721b39aa76622633c2186e796f781072d91451f0a",
+        "01202d38f668095ad552f06bdb95fea79a9b65f9013c5602782cd710904c343b47dc0a"
       ]
     },
     "eldest_kid": "01018513e9f63374e1d8bb9333fde72bfd61233467459917f4063af67d7f2049f95c0a",
@@ -92,20 +107,6 @@
           "service_url": "https://github.com/ghostbar",
           "presentation_group": "github",
           "presentation_tag": "gist"
-        }
-      ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "ghostbar",
-          "state": 1,
-          "proof_url": "https://coinbase.com/ghostbar/public-key",
-          "sig_id": "eb0b5e44c29cee1a944b145e0106603dc651df9b4ff37c60ce777a8e14cdaecf0f",
-          "proof_id": "affaf8c3d7e124365e955d10",
-          "human_url": "https://coinbase.com/ghostbar/public-key",
-          "service_url": "https://coinbase.com/ghostbar",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
         }
       ],
       "dns": [
@@ -164,20 +165,6 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "ghostbar",
-          "state": 1,
-          "proof_url": "https://coinbase.com/ghostbar/public-key",
-          "sig_id": "eb0b5e44c29cee1a944b145e0106603dc651df9b4ff37c60ce777a8e14cdaecf0f",
-          "proof_id": "affaf8c3d7e124365e955d10",
-          "human_url": "https://coinbase.com/ghostbar/public-key",
-          "service_url": "https://coinbase.com/ghostbar",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "joseluisrivas.net": [
         {
           "proof_type": "dns",
@@ -233,18 +220,6 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "ghostbar",
-        "state": 1,
-        "proof_url": "https://coinbase.com/ghostbar/public-key",
-        "sig_id": "eb0b5e44c29cee1a944b145e0106603dc651df9b4ff37c60ce777a8e14cdaecf0f",
-        "proof_id": "affaf8c3d7e124365e955d10",
-        "human_url": "https://coinbase.com/ghostbar/public-key",
-        "service_url": "https://coinbase.com/ghostbar",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "dns",
         "nametag": "joseluisrivas.net",
         "state": 1,
@@ -271,16 +246,22 @@
     ]
   },
   "cryptocurrency_addresses": {
+    "zcash": [
+      {
+        "address": "zcKXARMk3fJKq79dxHZCAZJHwkoqmWz4nrWBEGHyWhEwTbN8Lk8FdMgJvvsAX7BKdfNJGzHnzpfEUPsGEwu3mZ7eKmrBuss",
+        "sig_id": "4eafc88f8c3804d271dbbf84d5ff47725fdfa08901231b1d6d9753887d7ec3660f"
+      }
+    ],
     "bitcoin": [
       {
-        "address": "1As8C1tBt9f52Mo5EAGFBEaERLG8nQ5kq4",
-        "sig_id": "73c6fe45965a8152b76b80f18046098bbdafcfdeb2f2d765f306c74fc594a2320f"
+        "address": "139KWYU5hPqznZh5wxsiQq7FQhGh3qvH6j",
+        "sig_id": "abf379cb4db049168bca38a5470262b9415171d60f3fa1074ea86aa2cfc250ae0f"
       }
     ]
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/0f075da6d30d77d7e14802e87c593005_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/253ccd9ff5fecc8bc7ea6cc100a8de05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -288,12 +269,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "bc0dac13d5677d58674b15f7148b259ed73511e59b26eac095aa1610514c98ff0f",
-      "seqno": 45,
-      "payload_hash": "cbd33134bed5e5d1cf74598d8e89264adf15a4bcf595c8dc6f125984005f6600"
+      "sig_id": "4eafc88f8c3804d271dbbf84d5ff47725fdfa08901231b1d6d9753887d7ec3660f",
+      "seqno": 71,
+      "payload_hash": "1d9f28f85f271f97a62e9f7573685488f1ddb620a1f043e2855be25e17ddba2d"
     }
   },
   "devices": {
+    "4af8e03cfca81cb4e95f0043d6e85018": {
+      "type": "mobile",
+      "ctime": 1496072917,
+      "mtime": 1496072917,
+      "name": "olivia",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d951a6dbbbb8e0b522b50446e86cef590a1bedcb981f9568922a0066b0588f6d0a",
+          "key_role": 1,
+          "sig_id": "6a530b6ee8b2c90810870323ab737db053cc83dccae08411751f9d0e86588fce0f"
+        },
+        {
+          "kid": "0121cda2ebc983c336ffd9c0f2c9c31fa588197b2f0551e4f126601bcba00130a2010a",
+          "key_role": 2,
+          "sig_id": "e5e939a30e5339c14512047a2f6e7ee57063ed4181fae62d2c492f5ada009f1e0f"
+        }
+      ]
+    },
     "c09e799a7810c71131dcc201340d9d18": {
       "type": "backup",
       "ctime": 1454641891,
@@ -313,22 +313,22 @@
         }
       ]
     },
-    "dde4efa6cb09028c8b195eea1bc1b718": {
+    "c48d330eb617c976d1e4b66c38c90c18": {
       "type": "desktop",
-      "ctime": 1454641890,
-      "mtime": 1454641890,
-      "name": "ur-mac",
+      "ctime": 1501676027,
+      "mtime": 1501676027,
+      "name": "mirzakhani",
       "status": 1,
       "keys": [
         {
-          "kid": "0120f10c9f1b9815b024a7a01ace977b3d814e4e9528dd8379c4b0dffe793428d6270a",
+          "kid": "01202d38f668095ad552f06bdb95fea79a9b65f9013c5602782cd710904c343b47dc0a",
           "key_role": 1,
-          "sig_id": "83046bb6beb16521fbe27f506b6ef777d44c0eeac3c97c2ddba1850eea4de4120f"
+          "sig_id": "34fad28ca43fdc11644cabfab2a1ac0053268ac28b15fbe478ef89c6c64156f70f"
         },
         {
-          "kid": "0121ac2c9e2ea6545d8c72c867d4478a1027b6c3e300a93fbc9f3e52fd83f9a050390a",
+          "kid": "0121b7a788dd4453ae8bba44c80cc721b39aa76622633c2186e796f781072d91451f0a",
           "key_role": 2,
-          "sig_id": "bf0da348e3baae14eed6ef43b1043cea624aa0642928c67855baf40d6d5e5a1d0f"
+          "sig_id": "9beb6fc79d8957723e54948b66659b2dfcce4fe4892c2e17f1e1f28f7a672e290f"
         }
       ]
     }
