@@ -4,10 +4,17 @@
     "username": "soulshake",
     "ctime": 1421782347,
     "mtime": 1421782347,
-    "id_version": 15,
-    "track_version": 7,
-    "last_id_change": 1474410922,
-    "username_cased": "soulshake"
+    "id_version": 30,
+    "track_version": 35,
+    "last_id_change": 1503666165,
+    "username_cased": "soulshake",
+    "status": 0
+  },
+  "profile": {
+    "mtime": 1501578450,
+    "full_name": "AJ Bowen",
+    "location": "Berlin, Germany",
+    "bio": "As in a milkshake made out of soul(s)"
   },
   "public_keys": {
     "primary": {
@@ -33,16 +40,20 @@
       "01201b37ac16420d337bc29af6a73df3d90db7d12039564a1bcb739a037ed71393980a",
       "01213d0a88f1481fb0a44c9fe2923bec19543a6e35ebf2cfac22bbf3f236b80a242e0a",
       "01212cebe239e166cabf30d649a430bb0fbeb4502262103799c0a34d97978eece3280a",
-      "0120c52954cedcc8237bf8724f3cacd37099c6557f3cae6b0afa03e8649f71a1c6790a"
+      "0120c52954cedcc8237bf8724f3cacd37099c6557f3cae6b0afa03e8649f71a1c6790a",
+      "01211db27dc1fc13d37e6bd52fde773dbda27222e68f94b593f52dd18ba0c45c31540a",
+      "01204163a232255b7db2e28deaf8c330a98891fca164cc8344cac48a16a353e42ec30a"
     ],
     "subkeys": [
       "01213d0a88f1481fb0a44c9fe2923bec19543a6e35ebf2cfac22bbf3f236b80a242e0a",
-      "01212cebe239e166cabf30d649a430bb0fbeb4502262103799c0a34d97978eece3280a"
+      "01212cebe239e166cabf30d649a430bb0fbeb4502262103799c0a34d97978eece3280a",
+      "01211db27dc1fc13d37e6bd52fde773dbda27222e68f94b593f52dd18ba0c45c31540a"
     ],
     "sibkeys": [
       "0101b418d83f9035dbb35f95c413f3c37e98377c8481ef88f3211e9f8ba0e321e0600a",
       "01201b37ac16420d337bc29af6a73df3d90db7d12039564a1bcb739a037ed71393980a",
-      "0120c52954cedcc8237bf8724f3cacd37099c6557f3cae6b0afa03e8649f71a1c6790a"
+      "0120c52954cedcc8237bf8724f3cacd37099c6557f3cae6b0afa03e8649f71a1c6790a",
+      "01204163a232255b7db2e28deaf8c330a98891fca164cc8344cac48a16a353e42ec30a"
     ],
     "families": {
       "0101b418d83f9035dbb35f95c413f3c37e98377c8481ef88f3211e9f8ba0e321e0600a": [
@@ -51,7 +62,9 @@
         "01201b37ac16420d337bc29af6a73df3d90db7d12039564a1bcb739a037ed71393980a",
         "01213d0a88f1481fb0a44c9fe2923bec19543a6e35ebf2cfac22bbf3f236b80a242e0a",
         "01212cebe239e166cabf30d649a430bb0fbeb4502262103799c0a34d97978eece3280a",
-        "0120c52954cedcc8237bf8724f3cacd37099c6557f3cae6b0afa03e8649f71a1c6790a"
+        "0120c52954cedcc8237bf8724f3cacd37099c6557f3cae6b0afa03e8649f71a1c6790a",
+        "01211db27dc1fc13d37e6bd52fde773dbda27222e68f94b593f52dd18ba0c45c31540a",
+        "01204163a232255b7db2e28deaf8c330a98891fca164cc8344cac48a16a353e42ec30a"
       ]
     },
     "eldest_kid": "0101b418d83f9035dbb35f95c413f3c37e98377c8481ef88f3211e9f8ba0e321e0600a",
@@ -90,18 +103,46 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
+      "reddit": [
         {
-          "proof_type": "coinbase",
+          "proof_type": "reddit",
+          "nametag": "pheelin_eerie",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5sfxxr/my_keybase_proof_redditpheelin_eerie/",
+          "sig_id": "bc6e465cd09a14ed5c2a8dd02f0e95be9de99edff547f7845bba2474cff2ee8d0f",
+          "proof_id": "46bcf0a8d24627b2f7e3af10",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5sfxxr/my_keybase_proof_redditpheelin_eerie/",
+          "service_url": "https://reddit.com/user/pheelin_eerie",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
           "nametag": "soulshake",
           "state": 1,
-          "proof_url": "https://coinbase.com/soulshake/public-key",
-          "sig_id": "126544682c3a3437e8872b5f6c2cc1092946eba77abe59a89aa09d596ee140120f",
-          "proof_id": "eb9dd3dd436c527a9c99c510",
-          "human_url": "https://coinbase.com/soulshake/public-key",
-          "service_url": "https://coinbase.com/soulshake",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
+          "proof_url": "https://news.ycombinator.com/user?id=soulshake",
+          "sig_id": "792e9ec8b6941f2ed78dfe5054c9e3a09e7e51d9e72792666ec832c973194e110f",
+          "proof_id": "a399c3e1ab2496568c36a010",
+          "human_url": "https://news.ycombinator.com/user?id=soulshake",
+          "service_url": "https://news.ycombinator.com/user?id=soulshake",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "soulshake.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/soulshake/sigchain#4137a9fbc51b9633ec52b9cac2a59f254e41cfd9e91354a527d76feea6ee225b0f",
+          "sig_id": "4137a9fbc51b9633ec52b9cac2a59f254e41cfd9e91354a527d76feea6ee225b0f",
+          "proof_id": "42cea1d566e8d44d8fb03610",
+          "human_url": "dns://soulshake.net",
+          "service_url": "http://soulshake.net",
+          "presentation_group": "soulshake.net",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -134,18 +175,46 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
+      "reddit": [
         {
-          "proof_type": "coinbase",
+          "proof_type": "reddit",
+          "nametag": "pheelin_eerie",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5sfxxr/my_keybase_proof_redditpheelin_eerie/",
+          "sig_id": "bc6e465cd09a14ed5c2a8dd02f0e95be9de99edff547f7845bba2474cff2ee8d0f",
+          "proof_id": "46bcf0a8d24627b2f7e3af10",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5sfxxr/my_keybase_proof_redditpheelin_eerie/",
+          "service_url": "https://reddit.com/user/pheelin_eerie",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
           "nametag": "soulshake",
           "state": 1,
-          "proof_url": "https://coinbase.com/soulshake/public-key",
-          "sig_id": "126544682c3a3437e8872b5f6c2cc1092946eba77abe59a89aa09d596ee140120f",
-          "proof_id": "eb9dd3dd436c527a9c99c510",
-          "human_url": "https://coinbase.com/soulshake/public-key",
-          "service_url": "https://coinbase.com/soulshake",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
+          "proof_url": "https://news.ycombinator.com/user?id=soulshake",
+          "sig_id": "792e9ec8b6941f2ed78dfe5054c9e3a09e7e51d9e72792666ec832c973194e110f",
+          "proof_id": "a399c3e1ab2496568c36a010",
+          "human_url": "https://news.ycombinator.com/user?id=soulshake",
+          "service_url": "https://news.ycombinator.com/user?id=soulshake",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
+      "soulshake.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "soulshake.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/soulshake/sigchain#4137a9fbc51b9633ec52b9cac2a59f254e41cfd9e91354a527d76feea6ee225b0f",
+          "sig_id": "4137a9fbc51b9633ec52b9cac2a59f254e41cfd9e91354a527d76feea6ee225b0f",
+          "proof_id": "42cea1d566e8d44d8fb03610",
+          "human_url": "dns://soulshake.net",
+          "service_url": "http://soulshake.net",
+          "presentation_group": "soulshake.net",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -175,20 +244,51 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
+        "proof_type": "reddit",
+        "nametag": "pheelin_eerie",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5sfxxr/my_keybase_proof_redditpheelin_eerie/",
+        "sig_id": "bc6e465cd09a14ed5c2a8dd02f0e95be9de99edff547f7845bba2474cff2ee8d0f",
+        "proof_id": "46bcf0a8d24627b2f7e3af10",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5sfxxr/my_keybase_proof_redditpheelin_eerie/",
+        "service_url": "https://reddit.com/user/pheelin_eerie",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "hackernews",
         "nametag": "soulshake",
         "state": 1,
-        "proof_url": "https://coinbase.com/soulshake/public-key",
-        "sig_id": "126544682c3a3437e8872b5f6c2cc1092946eba77abe59a89aa09d596ee140120f",
-        "proof_id": "eb9dd3dd436c527a9c99c510",
-        "human_url": "https://coinbase.com/soulshake/public-key",
-        "service_url": "https://coinbase.com/soulshake",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
+        "proof_url": "https://news.ycombinator.com/user?id=soulshake",
+        "sig_id": "792e9ec8b6941f2ed78dfe5054c9e3a09e7e51d9e72792666ec832c973194e110f",
+        "proof_id": "a399c3e1ab2496568c36a010",
+        "human_url": "https://news.ycombinator.com/user?id=soulshake",
+        "service_url": "https://news.ycombinator.com/user?id=soulshake",
+        "presentation_group": "hackernews",
+        "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "soulshake.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/soulshake/sigchain#4137a9fbc51b9633ec52b9cac2a59f254e41cfd9e91354a527d76feea6ee225b0f",
+        "sig_id": "4137a9fbc51b9633ec52b9cac2a59f254e41cfd9e91354a527d76feea6ee225b0f",
+        "proof_id": "42cea1d566e8d44d8fb03610",
+        "human_url": "dns://soulshake.net",
+        "service_url": "http://soulshake.net",
+        "presentation_group": "soulshake.net",
+        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1Kf47ThLBdo9dkFd3d1iSt27x5fLEryGse",
+        "sig_id": "ff14aca3c0309e216c774a9953f5cd19643f3d529b71e0115f592958d78b77030f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/92daa8e9d149dc155a3e2fa8b508a005_360_360_square_360.png",
@@ -199,16 +299,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "126544682c3a3437e8872b5f6c2cc1092946eba77abe59a89aa09d596ee140120f",
-      "seqno": 17,
-      "payload_hash": "77b7f957310c37ee0ad83030a2eb53a41c55478bc9465fd6fae136fe78799cab"
+      "sig_id": "94f025f73290d01b15be8bb8f611dbcb51fd1795bef7837a25dcd04b105911400f",
+      "seqno": 52,
+      "payload_hash": "94a09e0ca1234b07de5ef38c10befb7499726c54873dfddea2f19b2bae24a857"
     }
   },
   "devices": {
     "4bc5872d3fadb9e326d8aa8425096618": {
       "type": "desktop",
-      "ctime": 1474405337,
-      "mtime": 1474405337,
+      "ctime": 1474408937,
+      "mtime": 1474408937,
       "name": "keybase-docker",
       "status": 1,
       "keys": [
@@ -226,8 +326,8 @@
     },
     "57275444af30b40cbd674d0fb97c6118": {
       "type": "backup",
-      "ctime": 1474405338,
-      "mtime": 1474405338,
+      "ctime": 1474408938,
+      "mtime": 1474408938,
       "name": "can yellow",
       "status": 1,
       "keys": [
@@ -240,6 +340,25 @@
           "kid": "01212cebe239e166cabf30d649a430bb0fbeb4502262103799c0a34d97978eece3280a",
           "key_role": 2,
           "sig_id": "a354976ecaf1261c3145474078f44e1c637ccc5f85b635ab6a5f7024c0941bd10f"
+        }
+      ]
+    },
+    "b29949a8d427adfb9282b5456d524718": {
+      "type": "desktop",
+      "ctime": 1503666165,
+      "mtime": 1503666165,
+      "name": "zagreb",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204163a232255b7db2e28deaf8c330a98891fca164cc8344cac48a16a353e42ec30a",
+          "key_role": 1,
+          "sig_id": "45e312053d7f9ad8a8275d443c9adc0fba2caf5c15d0ad5880405996e158aa830f"
+        },
+        {
+          "kid": "01211db27dc1fc13d37e6bd52fde773dbda27222e68f94b593f52dd18ba0c45c31540a",
+          "key_role": 2,
+          "sig_id": "6df76762bfa018a10c84c50647a0eb6e2b6b3384ebd9f93126ba6ced381e3be50f"
         }
       ]
     }
