@@ -4,16 +4,17 @@
     "username": "robyoder",
     "ctime": 1417223102,
     "mtime": 1417223102,
-    "id_version": 45,
-    "track_version": 24,
-    "last_id_change": 1471310965,
-    "username_cased": "robyoder"
+    "id_version": 62,
+    "track_version": 29,
+    "last_id_change": 1511570547,
+    "username_cased": "robyoder",
+    "status": 0
   },
   "profile": {
-    "mtime": 1417226895,
+    "mtime": 1511564580,
     "full_name": "Rob Yoder",
     "location": "Colorado // USA",
-    "bio": "Weaver of Webs @ AgileBits, Inc. (https://agilebits.com)"
+    "bio": "Weaver of Webs @ AgileBits, Inc. https://1password.com"
   },
   "public_keys": {
     "primary": {
@@ -42,16 +43,20 @@
       "01205d4e58d9563e58b535a022f7c64aaaa60780fae81d2601518c409d6e37c08a720a",
       "0121e7e611bc57fa78efd76bd2a4b148c3cc85901dbb005d5c63fb7de7819b8c965c0a",
       "0121289a1cbf7a1efb5aecca3c1e22b34fcfa14ec780dc4d122c6ac0a5948513f1720a",
-      "01201ee0fc62851cf63fc33210737c09ccaed06b08049de8ce3d2a141e44add573fc0a"
+      "01201ee0fc62851cf63fc33210737c09ccaed06b08049de8ce3d2a141e44add573fc0a",
+      "0121d23f75c6d08d76be6d0147411974b97518a6d21f1e16702696e968d87b45f72c0a",
+      "01200fcf7ea4fe1f2fcd1d80b3c2ebac6f31a5bc3087a7c0a0c85dbceb90666c05f80a"
     ],
     "subkeys": [
       "0121e7e611bc57fa78efd76bd2a4b148c3cc85901dbb005d5c63fb7de7819b8c965c0a",
-      "0121289a1cbf7a1efb5aecca3c1e22b34fcfa14ec780dc4d122c6ac0a5948513f1720a"
+      "0121289a1cbf7a1efb5aecca3c1e22b34fcfa14ec780dc4d122c6ac0a5948513f1720a",
+      "0121d23f75c6d08d76be6d0147411974b97518a6d21f1e16702696e968d87b45f72c0a"
     ],
     "sibkeys": [
       "01010c09d9cf0e63b0fa0ac13f65e200a5e2d1ffb887dabfd0fe44954d32cd5891a90a",
       "01205d4e58d9563e58b535a022f7c64aaaa60780fae81d2601518c409d6e37c08a720a",
-      "01201ee0fc62851cf63fc33210737c09ccaed06b08049de8ce3d2a141e44add573fc0a"
+      "01201ee0fc62851cf63fc33210737c09ccaed06b08049de8ce3d2a141e44add573fc0a",
+      "01200fcf7ea4fe1f2fcd1d80b3c2ebac6f31a5bc3087a7c0a0c85dbceb90666c05f80a"
     ],
     "families": {
       "0101700b5f9c7ac4bf9479c1d9f9b22bb08fab4fcc0b4794ecb2f2ba97eeb1ed9b130a": [
@@ -65,7 +70,9 @@
         "01205d4e58d9563e58b535a022f7c64aaaa60780fae81d2601518c409d6e37c08a720a",
         "0121e7e611bc57fa78efd76bd2a4b148c3cc85901dbb005d5c63fb7de7819b8c965c0a",
         "0121289a1cbf7a1efb5aecca3c1e22b34fcfa14ec780dc4d122c6ac0a5948513f1720a",
-        "01201ee0fc62851cf63fc33210737c09ccaed06b08049de8ce3d2a141e44add573fc0a"
+        "01201ee0fc62851cf63fc33210737c09ccaed06b08049de8ce3d2a141e44add573fc0a",
+        "0121d23f75c6d08d76be6d0147411974b97518a6d21f1e16702696e968d87b45f72c0a",
+        "01200fcf7ea4fe1f2fcd1d80b3c2ebac6f31a5bc3087a7c0a0c85dbceb90666c05f80a"
       ]
     },
     "eldest_kid": "01010c09d9cf0e63b0fa0ac13f65e200a5e2d1ffb887dabfd0fe44954d32cd5891a90a",
@@ -76,20 +83,6 @@
   },
   "proofs_summary": {
     "by_proof_type": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "rob_yoder",
-          "state": 1,
-          "proof_url": "https://twitter.com/rob_yoder/status/538507316409401344",
-          "sig_id": "9d8bf4bcdbb1892caf502e13889a97bb484e7e63022b71a6d7f704389ff75fde0f",
-          "proof_id": "6842bb705ba0d436aab65510",
-          "human_url": "https://twitter.com/rob_yoder/status/538507316409401344",
-          "service_url": "https://twitter.com/rob_yoder",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -117,23 +110,23 @@
           "presentation_group": "robyoder.com",
           "presentation_tag": "http"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "robyoder.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/robyoder/sigchain#d3c80cbfa11b67cafccd4d818671ac0594ecab7d27f3944c5d32587957b8cc8f0f",
+          "sig_id": "d3c80cbfa11b67cafccd4d818671ac0594ecab7d27f3944c5d32587957b8cc8f0f",
+          "proof_id": "dfd16ebf8e609c3c10705b10",
+          "human_url": "dns://robyoder.com",
+          "service_url": "http://robyoder.com",
+          "presentation_group": "robyoder.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "rob_yoder",
-          "state": 1,
-          "proof_url": "https://twitter.com/rob_yoder/status/538507316409401344",
-          "sig_id": "9d8bf4bcdbb1892caf502e13889a97bb484e7e63022b71a6d7f704389ff75fde0f",
-          "proof_id": "6842bb705ba0d436aab65510",
-          "human_url": "https://twitter.com/rob_yoder/status/538507316409401344",
-          "service_url": "https://twitter.com/rob_yoder",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -160,22 +153,22 @@
           "service_url": "http://robyoder.com",
           "presentation_group": "robyoder.com",
           "presentation_tag": "http"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "robyoder.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/robyoder/sigchain#d3c80cbfa11b67cafccd4d818671ac0594ecab7d27f3944c5d32587957b8cc8f0f",
+          "sig_id": "d3c80cbfa11b67cafccd4d818671ac0594ecab7d27f3944c5d32587957b8cc8f0f",
+          "proof_id": "dfd16ebf8e609c3c10705b10",
+          "human_url": "dns://robyoder.com",
+          "service_url": "http://robyoder.com",
+          "presentation_group": "robyoder.com",
+          "presentation_tag": "dns"
         }
       ]
     },
     "all": [
-      {
-        "proof_type": "twitter",
-        "nametag": "rob_yoder",
-        "state": 1,
-        "proof_url": "https://twitter.com/rob_yoder/status/538507316409401344",
-        "sig_id": "9d8bf4bcdbb1892caf502e13889a97bb484e7e63022b71a6d7f704389ff75fde0f",
-        "proof_id": "6842bb705ba0d436aab65510",
-        "human_url": "https://twitter.com/rob_yoder/status/538507316409401344",
-        "service_url": "https://twitter.com/rob_yoder",
-        "presentation_group": "twitter",
-        "presentation_tag": "tweet"
-      },
       {
         "proof_type": "github",
         "nametag": "robyoder",
@@ -187,6 +180,18 @@
         "service_url": "https://github.com/robyoder",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "robyoder.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/robyoder/sigchain#d3c80cbfa11b67cafccd4d818671ac0594ecab7d27f3944c5d32587957b8cc8f0f",
+        "sig_id": "d3c80cbfa11b67cafccd4d818671ac0594ecab7d27f3944c5d32587957b8cc8f0f",
+        "proof_id": "dfd16ebf8e609c3c10705b10",
+        "human_url": "dns://robyoder.com",
+        "service_url": "http://robyoder.com",
+        "presentation_group": "robyoder.com",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "generic_web_site",
@@ -205,20 +210,39 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/1029b6f694f739b8b3b182c40d9e9105_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/167cdc88f50f73db8e001667361c1705_360_360_square_360.png",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "93180cf467109e3228b74b63564d60811ae7f01aad6b31223f2e16e1d9b523360f",
-      "seqno": 44,
-      "payload_hash": "9b44009b9d50bcf58aa3ddb459f6c5d7ca0a9ba704120af67dbdb8da189865a0"
+      "sig_id": "faea0e4df2f3e14040e575490e6dfc73b240a903b4e0310dc876e8e20715137e0f",
+      "seqno": 56,
+      "payload_hash": "1f14989e96358b12ac4e9cf4897576373f5de1466563b1948da0f319b6aeb6fa"
     }
   },
   "devices": {
+    "32d0aa4f2f6e09a44e8da3ccca8a5418": {
+      "type": "mobile",
+      "ctime": 1511562554,
+      "mtime": 1511562554,
+      "name": "pug",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01200fcf7ea4fe1f2fcd1d80b3c2ebac6f31a5bc3087a7c0a0c85dbceb90666c05f80a",
+          "key_role": 1,
+          "sig_id": "bea7af75dae040f77efdcdc2c5ebf1a1a11114ba5bb036176967f583836afc4e0f"
+        },
+        {
+          "kid": "0121d23f75c6d08d76be6d0147411974b97518a6d21f1e16702696e968d87b45f72c0a",
+          "key_role": 2,
+          "sig_id": "66665e1c811d6f94a601fe0042929c92b770de00987750ab0af23feaac2fe3c80f"
+        }
+      ]
+    },
     "3d538884bb9335c4907cc1fd53b32e18": {
       "type": "desktop",
       "ctime": 1450126502,
