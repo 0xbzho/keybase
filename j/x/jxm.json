@@ -4,16 +4,17 @@
     "username": "jxm",
     "ctime": 1425407425,
     "mtime": 1425407425,
-    "id_version": 67,
-    "track_version": 18,
-    "last_id_change": 1469175432,
-    "username_cased": "jxm"
+    "id_version": 78,
+    "track_version": 22,
+    "last_id_change": 1508247723,
+    "username_cased": "jxm",
+    "status": 0
   },
   "profile": {
-    "mtime": 1442090779,
+    "mtime": 1508241765,
     "full_name": "Aidan Mitchell",
-    "location": "Leeds, UK",
-    "bio": "Systems Administrator @ Mandalorian"
+    "location": "UK",
+    "bio": "Do-er of many things @ Mandalorian, Raw Hex, and 44CON"
   },
   "public_keys": {
     "primary": {
@@ -49,14 +50,18 @@
       "0121a067da82139d2c2450a94cea7625b59e113ff6bd54aa0af58a1ea46b144172320a",
       "0120613ad4bd05d83f62f8c1c31ba5e51aa7247f5044c843b7a99128a7622d6219960a",
       "01213d1d04be44be580c98703238354a33d68060a7ae964438c8b797bc494e4440770a",
-      "0120de5ba6d187cb5cc4cd309efeb109b21ad16c6b3dd3722d7f44777e81d86f3e5c0a"
+      "0120de5ba6d187cb5cc4cd309efeb109b21ad16c6b3dd3722d7f44777e81d86f3e5c0a",
+      "0121c500a5897785d8d883ca9c3aa7698b25b1b11c39cc86a91796856d11dea514340a",
+      "01202cd0fccb9b59c8b5cf0e6064bc24c7338e383d282e700913797f39522269c3880a"
     ],
     "subkeys": [
-      "01213d1d04be44be580c98703238354a33d68060a7ae964438c8b797bc494e4440770a"
+      "01213d1d04be44be580c98703238354a33d68060a7ae964438c8b797bc494e4440770a",
+      "0121c500a5897785d8d883ca9c3aa7698b25b1b11c39cc86a91796856d11dea514340a"
     ],
     "sibkeys": [
       "01017e9fe1f6f0836145e574e1bcc712f25b8b60d1e5242e488810792d10e959c77f0a",
-      "0120de5ba6d187cb5cc4cd309efeb109b21ad16c6b3dd3722d7f44777e81d86f3e5c0a"
+      "0120de5ba6d187cb5cc4cd309efeb109b21ad16c6b3dd3722d7f44777e81d86f3e5c0a",
+      "01202cd0fccb9b59c8b5cf0e6064bc24c7338e383d282e700913797f39522269c3880a"
     ],
     "families": {
       "01017e9fe1f6f0836145e574e1bcc712f25b8b60d1e5242e488810792d10e959c77f0a": [
@@ -75,7 +80,9 @@
         "0121a067da82139d2c2450a94cea7625b59e113ff6bd54aa0af58a1ea46b144172320a",
         "0120613ad4bd05d83f62f8c1c31ba5e51aa7247f5044c843b7a99128a7622d6219960a",
         "01213d1d04be44be580c98703238354a33d68060a7ae964438c8b797bc494e4440770a",
-        "0120de5ba6d187cb5cc4cd309efeb109b21ad16c6b3dd3722d7f44777e81d86f3e5c0a"
+        "0120de5ba6d187cb5cc4cd309efeb109b21ad16c6b3dd3722d7f44777e81d86f3e5c0a",
+        "0121c500a5897785d8d883ca9c3aa7698b25b1b11c39cc86a91796856d11dea514340a",
+        "01202cd0fccb9b59c8b5cf0e6064bc24c7338e383d282e700913797f39522269c3880a"
       ]
     },
     "eldest_kid": "01017e9fe1f6f0836145e574e1bcc712f25b8b60d1e5242e488810792d10e959c77f0a",
@@ -86,6 +93,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "nimxj",
+          "state": 1,
+          "proof_url": "https://twitter.com/nimxj/status/831187354484408320",
+          "sig_id": "4c9e43b3dd98c04e11d4784039d2699ee0168dd2e192bdc860386586809bb7000f",
+          "proof_id": "1fbbb994b6820f7487631610",
+          "human_url": "https://twitter.com/nimxj/status/831187354484408320",
+          "service_url": "https://twitter.com/nimxj",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -98,20 +119,6 @@
           "service_url": "https://github.com/nimxj",
           "presentation_group": "github",
           "presentation_tag": "gist"
-        }
-      ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "jxm",
-          "state": 1,
-          "proof_url": "https://coinbase.com/jxm/public-key",
-          "sig_id": "db8c70d514f099004b289a63bbd42181c8a8e1d23e65cac6d3ef7cc555de73410f",
-          "proof_id": "d0ed72b16a77516fc5ee6a10",
-          "human_url": "https://coinbase.com/jxm/public-key",
-          "service_url": "https://coinbase.com/jxm",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
         }
       ],
       "hackernews": [
@@ -144,6 +151,20 @@
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "nimxj",
+          "state": 1,
+          "proof_url": "https://twitter.com/nimxj/status/831187354484408320",
+          "sig_id": "4c9e43b3dd98c04e11d4784039d2699ee0168dd2e192bdc860386586809bb7000f",
+          "proof_id": "1fbbb994b6820f7487631610",
+          "human_url": "https://twitter.com/nimxj/status/831187354484408320",
+          "service_url": "https://twitter.com/nimxj",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -156,20 +177,6 @@
           "service_url": "https://github.com/nimxj",
           "presentation_group": "github",
           "presentation_tag": "gist"
-        }
-      ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "jxm",
-          "state": 1,
-          "proof_url": "https://coinbase.com/jxm/public-key",
-          "sig_id": "db8c70d514f099004b289a63bbd42181c8a8e1d23e65cac6d3ef7cc555de73410f",
-          "proof_id": "d0ed72b16a77516fc5ee6a10",
-          "human_url": "https://coinbase.com/jxm/public-key",
-          "service_url": "https://coinbase.com/jxm",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
         }
       ],
       "hackernews": [
@@ -203,6 +210,18 @@
     },
     "all": [
       {
+        "proof_type": "twitter",
+        "nametag": "nimxj",
+        "state": 1,
+        "proof_url": "https://twitter.com/nimxj/status/831187354484408320",
+        "sig_id": "4c9e43b3dd98c04e11d4784039d2699ee0168dd2e192bdc860386586809bb7000f",
+        "proof_id": "1fbbb994b6820f7487631610",
+        "human_url": "https://twitter.com/nimxj/status/831187354484408320",
+        "service_url": "https://twitter.com/nimxj",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
+      {
         "proof_type": "github",
         "nametag": "nimxj",
         "state": 1,
@@ -213,18 +232,6 @@
         "service_url": "https://github.com/nimxj",
         "presentation_group": "github",
         "presentation_tag": "gist"
-      },
-      {
-        "proof_type": "coinbase",
-        "nametag": "jxm",
-        "state": 1,
-        "proof_url": "https://coinbase.com/jxm/public-key",
-        "sig_id": "db8c70d514f099004b289a63bbd42181c8a8e1d23e65cac6d3ef7cc555de73410f",
-        "proof_id": "d0ed72b16a77516fc5ee6a10",
-        "human_url": "https://coinbase.com/jxm/public-key",
-        "service_url": "https://coinbase.com/jxm",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
       },
       {
         "proof_type": "hackernews",
@@ -262,7 +269,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/c3043e85dfbf669098315871fa99df05_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/a9e90f10438770ba288857fd4ddf3305_360_360.png",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -270,16 +277,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c135e5b10be65b5ed967329f07181cd26b6924c25994ae240e97a7dcc78927ed0f",
-      "seqno": 52,
-      "payload_hash": "a318ded1372f9f3ffef3b58b7912fe29e4f7978a594c92988c17666416ab0d51"
+      "sig_id": "8cc77570f2e6f08d5d8563d382bad4b2f6ada3f449b873d5309009dbaa46ead30f",
+      "seqno": 60,
+      "payload_hash": "6d7c732fd853de6785c977e789b6236a191c0ea216eef1b8f63715f0299740c6"
     }
   },
   "devices": {
     "68845c60baa359d7a8901ba4a188fc18": {
       "type": "backup",
-      "ctime": 1467721031,
-      "mtime": 1467721031,
+      "ctime": 1467724631,
+      "mtime": 1467724631,
       "name": "security frozen",
       "status": 1,
       "keys": [
@@ -292,6 +299,25 @@
           "kid": "01213d1d04be44be580c98703238354a33d68060a7ae964438c8b797bc494e4440770a",
           "key_role": 2,
           "sig_id": "3ff89c1a41d25d58f0acd15ab8159b669b112928625fb2c291014215acadb18a0f"
+        }
+      ]
+    },
+    "fcf8fe579b0813da810a9f16fe9c2118": {
+      "type": "desktop",
+      "ctime": 1508247723,
+      "mtime": 1508247723,
+      "name": "nunya",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01202cd0fccb9b59c8b5cf0e6064bc24c7338e383d282e700913797f39522269c3880a",
+          "key_role": 1,
+          "sig_id": "db19636c45ca88c671d73c219edf6fdbfbbe54fc0a32f620cf39c3d21b2757890f"
+        },
+        {
+          "kid": "0121c500a5897785d8d883ca9c3aa7698b25b1b11c39cc86a91796856d11dea514340a",
+          "key_role": 2,
+          "sig_id": "4c0ce6b51930d0678d0840029bc1a5957e7f66caa2186cfd39e32f03fbbe230a0f"
         }
       ]
     }
