@@ -2,12 +2,13 @@
   "id": "d48ffbd767eea9729794bdc806c5d000",
   "basics": {
     "username": "weppos",
-    "ctime": 1394967163,
-    "mtime": 1394967163,
-    "id_version": 32,
-    "track_version": 0,
-    "last_id_change": 1473618344,
-    "username_cased": "weppos"
+    "ctime": 1394970763,
+    "mtime": 1394970763,
+    "id_version": 48,
+    "track_version": 2,
+    "last_id_change": 1512630865,
+    "username_cased": "weppos",
+    "status": 0
   },
   "profile": {
     "mtime": 1420034345,
@@ -39,16 +40,18 @@
       "0121d622105504f13cd2f9faed029cb800c48d31e690f2eba180c04097fa40ab94070a",
       "01204bc169f8db9e7d7893a80753bf4a8453bfa10231aaef67295f8c9b5a813efede0a",
       "01201057dc0700e61c391553ef374bf819512a59df7fe93635248121d52be1c2f8560a",
-      "012109a790d451463508546a1c58d366eb42d5088252f2455681599d06961ef9ce740a"
+      "012109a790d451463508546a1c58d366eb42d5088252f2455681599d06961ef9ce740a",
+      "0121b734473f37a4c29e6dabd0b36af9ced4652d815b2ad09c0cf86f1182bc050d690a",
+      "0120db7b0b8a9f6caf35c65f8c0f3f471f5ce49eb7b347dba9ab2ef2a45fbe1f832e0a"
     ],
     "subkeys": [
-      "0121d622105504f13cd2f9faed029cb800c48d31e690f2eba180c04097fa40ab94070a",
-      "012109a790d451463508546a1c58d366eb42d5088252f2455681599d06961ef9ce740a"
+      "012109a790d451463508546a1c58d366eb42d5088252f2455681599d06961ef9ce740a",
+      "0121b734473f37a4c29e6dabd0b36af9ced4652d815b2ad09c0cf86f1182bc050d690a"
     ],
     "sibkeys": [
       "0101da165c28aa92981e5403c01659f3c2bae09908d780fdc1f60cae888ed71f7a740a",
-      "01204bc169f8db9e7d7893a80753bf4a8453bfa10231aaef67295f8c9b5a813efede0a",
-      "01201057dc0700e61c391553ef374bf819512a59df7fe93635248121d52be1c2f8560a"
+      "01201057dc0700e61c391553ef374bf819512a59df7fe93635248121d52be1c2f8560a",
+      "0120db7b0b8a9f6caf35c65f8c0f3f471f5ce49eb7b347dba9ab2ef2a45fbe1f832e0a"
     ],
     "families": {
       "0101da165c28aa92981e5403c01659f3c2bae09908d780fdc1f60cae888ed71f7a740a": [
@@ -57,7 +60,9 @@
         "0121d622105504f13cd2f9faed029cb800c48d31e690f2eba180c04097fa40ab94070a",
         "01204bc169f8db9e7d7893a80753bf4a8453bfa10231aaef67295f8c9b5a813efede0a",
         "01201057dc0700e61c391553ef374bf819512a59df7fe93635248121d52be1c2f8560a",
-        "012109a790d451463508546a1c58d366eb42d5088252f2455681599d06961ef9ce740a"
+        "012109a790d451463508546a1c58d366eb42d5088252f2455681599d06961ef9ce740a",
+        "0121b734473f37a4c29e6dabd0b36af9ced4652d815b2ad09c0cf86f1182bc050d690a",
+        "0120db7b0b8a9f6caf35c65f8c0f3f471f5ce49eb7b347dba9ab2ef2a45fbe1f832e0a"
       ]
     },
     "eldest_kid": "0101da165c28aa92981e5403c01659f3c2bae09908d780fdc1f60cae888ed71f7a740a",
@@ -96,18 +101,18 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
+      "hackernews": [
         {
-          "proof_type": "coinbase",
+          "proof_type": "hackernews",
           "nametag": "weppos",
           "state": 1,
-          "proof_url": "https://coinbase.com/weppos/public-key",
-          "sig_id": "38da0dbd1dc94cdd1c6029bf295e716dc27d547f302152be183d521fbd7da1440f",
-          "proof_id": "2c7899f6923349ec2080d810",
-          "human_url": "https://coinbase.com/weppos/public-key",
-          "service_url": "https://coinbase.com/weppos",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
+          "proof_url": "https://news.ycombinator.com/user?id=weppos",
+          "sig_id": "5aa4f48e7cc027b66bec6046e30e332a5917cabf285a29b3a21875a54a0bb9980f",
+          "proof_id": "46c3836a2728755fa6d47c10",
+          "human_url": "https://news.ycombinator.com/user?id=weppos",
+          "service_url": "https://news.ycombinator.com/user?id=weppos",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
         }
       ],
       "generic_web_site": [
@@ -154,18 +159,18 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
+      "hackernews": [
         {
-          "proof_type": "coinbase",
+          "proof_type": "hackernews",
           "nametag": "weppos",
           "state": 1,
-          "proof_url": "https://coinbase.com/weppos/public-key",
-          "sig_id": "38da0dbd1dc94cdd1c6029bf295e716dc27d547f302152be183d521fbd7da1440f",
-          "proof_id": "2c7899f6923349ec2080d810",
-          "human_url": "https://coinbase.com/weppos/public-key",
-          "service_url": "https://coinbase.com/weppos",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
+          "proof_url": "https://news.ycombinator.com/user?id=weppos",
+          "sig_id": "5aa4f48e7cc027b66bec6046e30e332a5917cabf285a29b3a21875a54a0bb9980f",
+          "proof_id": "46c3836a2728755fa6d47c10",
+          "human_url": "https://news.ycombinator.com/user?id=weppos",
+          "service_url": "https://news.ycombinator.com/user?id=weppos",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
         }
       ],
       "simonecarletti.com": [
@@ -209,16 +214,16 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
+        "proof_type": "hackernews",
         "nametag": "weppos",
         "state": 1,
-        "proof_url": "https://coinbase.com/weppos/public-key",
-        "sig_id": "38da0dbd1dc94cdd1c6029bf295e716dc27d547f302152be183d521fbd7da1440f",
-        "proof_id": "2c7899f6923349ec2080d810",
-        "human_url": "https://coinbase.com/weppos/public-key",
-        "service_url": "https://coinbase.com/weppos",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
+        "proof_url": "https://news.ycombinator.com/user?id=weppos",
+        "sig_id": "5aa4f48e7cc027b66bec6046e30e332a5917cabf285a29b3a21875a54a0bb9980f",
+        "proof_id": "46c3836a2728755fa6d47c10",
+        "human_url": "https://news.ycombinator.com/user?id=weppos",
+        "service_url": "https://news.ycombinator.com/user?id=weppos",
+        "presentation_group": "hackernews",
+        "presentation_tag": "profile"
       },
       {
         "proof_type": "generic_web_site",
@@ -245,35 +250,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c2c93c42ad2ecec074d47fbc6cd845007dddb00d2c91b7aafeb2fba5b579629a0f",
-      "seqno": 14,
-      "payload_hash": "a810a965b60a789ff1479cbc7be48e619ee3656f2d9cf4701b1070703fc9fa47"
+      "sig_id": "34ab427351bd742d8b6258f049947b380558b98aaca6e2438d5747a44beaae930f",
+      "seqno": 26,
+      "payload_hash": "d96e58980876e002b2a06340555e9e665f9b06e37f6d67272cafa16de79e2cdf"
     }
   },
   "devices": {
-    "125cdec0ee9714d0ac097c2903745b18": {
+    "50e7268659140697a3b214e9c39d6518": {
       "type": "desktop",
-      "ctime": 1473618070,
-      "mtime": 1473618070,
-      "name": "macair",
+      "ctime": 1512630865,
+      "mtime": 1512630865,
+      "name": "weppos-macbook",
       "status": 1,
       "keys": [
         {
-          "kid": "01204bc169f8db9e7d7893a80753bf4a8453bfa10231aaef67295f8c9b5a813efede0a",
+          "kid": "0120db7b0b8a9f6caf35c65f8c0f3f471f5ce49eb7b347dba9ab2ef2a45fbe1f832e0a",
           "key_role": 1,
-          "sig_id": "01e8315908a949164ca09004b9f7eab15ef44fca067b7e56e6d1d1c5bb68f3500f"
+          "sig_id": "2f0003aa144d76512db310171af17e545375758a839b13220e76d4ad134391c90f"
         },
         {
-          "kid": "0121d622105504f13cd2f9faed029cb800c48d31e690f2eba180c04097fa40ab94070a",
+          "kid": "0121b734473f37a4c29e6dabd0b36af9ced4652d815b2ad09c0cf86f1182bc050d690a",
           "key_role": 2,
-          "sig_id": "9915633cbb7ab5aaad6646304cd922be921ab9f6b4a585f7908531f50075dfd00f"
+          "sig_id": "add72ae5ffa8392d9bea2eaeed557014b9428bce3d7b3a69bbee74296eb66e210f"
         }
       ]
     },
     "9c9d6c22dd3f6de56e59d81675b35718": {
       "type": "backup",
-      "ctime": 1473618071,
-      "mtime": 1473618071,
+      "ctime": 1473621671,
+      "mtime": 1473621671,
       "name": "soccer lawn",
       "status": 1,
       "keys": [
