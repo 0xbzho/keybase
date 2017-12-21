@@ -4,10 +4,11 @@
     "username": "ged",
     "ctime": 1424920927,
     "mtime": 1424920927,
-    "id_version": 88,
-    "track_version": 12,
-    "last_id_change": 1474482688,
-    "username_cased": "ged"
+    "id_version": 102,
+    "track_version": 22,
+    "last_id_change": 1495838657,
+    "username_cased": "ged",
+    "status": 0
   },
   "profile": {
     "mtime": 1424968403,
@@ -43,16 +44,22 @@
       "012140a4a18e011f9292555bede2eefe9967017681e865b6e48e857f318c656d0b700a",
       "0120b05661b218b46ec2308ab7a912274672f3d5438ab517b1af2447cbfce260d8820a",
       "01215054507dd4bd114577757be5373064b9d3aee6a809eecb93790cdb48f9c90c490a",
-      "0120faaa50d33c7d1fc51d78e280be6ac32e2812f8d4f8c657d06f632daa8b61df850a"
+      "0120faaa50d33c7d1fc51d78e280be6ac32e2812f8d4f8c657d06f632daa8b61df850a",
+      "01204f7897701b08868ac6ed046d9379f175f70d89ac422c70f551f60cc4e2a3b8c50a",
+      "012176528411688b99baa233a961970c29ea2295bf4fa9de2402bb55850ac1823d1b0a",
+      "012163be5914c8d540525441ed6b01e1ba41f7f55a82226e49277a5c808785d5582b0a",
+      "0120c04030749d15277e67b49c4d97ec27b8e4a2417e1173bb533bdcd6c06ca2f9a20a"
     ],
     "subkeys": [
       "012140a4a18e011f9292555bede2eefe9967017681e865b6e48e857f318c656d0b700a",
-      "01215054507dd4bd114577757be5373064b9d3aee6a809eecb93790cdb48f9c90c490a"
+      "012176528411688b99baa233a961970c29ea2295bf4fa9de2402bb55850ac1823d1b0a",
+      "012163be5914c8d540525441ed6b01e1ba41f7f55a82226e49277a5c808785d5582b0a"
     ],
     "sibkeys": [
       "01010563b96daa57e3c49b5c4e215aa4fca34ce7612879f78bfd23acfb98d702025f0a",
       "0120b05661b218b46ec2308ab7a912274672f3d5438ab517b1af2447cbfce260d8820a",
-      "0120faaa50d33c7d1fc51d78e280be6ac32e2812f8d4f8c657d06f632daa8b61df850a"
+      "01204f7897701b08868ac6ed046d9379f175f70d89ac422c70f551f60cc4e2a3b8c50a",
+      "0120c04030749d15277e67b49c4d97ec27b8e4a2417e1173bb533bdcd6c06ca2f9a20a"
     ],
     "families": {
       "01110a367d750eb939048e42a26aab1a52a860ed0ebff46b715f561a7728dbfe24be0a": [
@@ -67,7 +74,11 @@
         "012140a4a18e011f9292555bede2eefe9967017681e865b6e48e857f318c656d0b700a",
         "0120b05661b218b46ec2308ab7a912274672f3d5438ab517b1af2447cbfce260d8820a",
         "01215054507dd4bd114577757be5373064b9d3aee6a809eecb93790cdb48f9c90c490a",
-        "0120faaa50d33c7d1fc51d78e280be6ac32e2812f8d4f8c657d06f632daa8b61df850a"
+        "0120faaa50d33c7d1fc51d78e280be6ac32e2812f8d4f8c657d06f632daa8b61df850a",
+        "01204f7897701b08868ac6ed046d9379f175f70d89ac422c70f551f60cc4e2a3b8c50a",
+        "012176528411688b99baa233a961970c29ea2295bf4fa9de2402bb55850ac1823d1b0a",
+        "012163be5914c8d540525441ed6b01e1ba41f7f55a82226e49277a5c808785d5582b0a",
+        "0120c04030749d15277e67b49c4d97ec27b8e4a2417e1173bb533bdcd6c06ca2f9a20a"
       ]
     },
     "eldest_kid": "01010563b96daa57e3c49b5c4e215aa4fca34ce7612879f78bfd23acfb98d702025f0a",
@@ -120,33 +131,21 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
-          "nametag": "rubymage",
+          "proof_type": "facebook",
+          "nametag": "deveiant",
           "state": 1,
-          "proof_url": "https://coinbase.com/rubymage/public-key",
-          "sig_id": "a85b3f593f63fc4c5a6d2ed489102a044bf46af9b3b7c623e21733be2e31a9600f",
-          "proof_id": "67afd0ae830aab443254a810",
-          "human_url": "https://coinbase.com/rubymage/public-key",
-          "service_url": "https://coinbase.com/rubymage",
-          "presentation_group": "coinbase",
+          "proof_url": "https://facebook.com/10210389808117075_10210389811757166",
+          "sig_id": "252e9d3c3acdb66cb0ec0539c57ef75d21303cf1ba2bbb25eba1536ebd732ecb0f",
+          "proof_id": "3c82198206cdb612eadbf310",
+          "human_url": "https://facebook.com/10210389808117075_10210389811757166",
+          "service_url": "https://www.facebook.com/deveiant",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
         }
       ],
       "dns": [
-        {
-          "proof_type": "dns",
-          "nametag": "faeriemud.org",
-          "state": 1,
-          "proof_url": "https://keybase.io/ged/sigchain#e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
-          "sig_id": "e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
-          "proof_id": "8d8e7c2458bf4dfe40bbd810",
-          "human_url": "dns://faeriemud.org",
-          "service_url": "http://faeriemud.org",
-          "presentation_group": "faeriemud.org",
-          "presentation_tag": "dns"
-        },
         {
           "proof_type": "dns",
           "nametag": "deveiate.org",
@@ -157,6 +156,18 @@
           "human_url": "dns://deveiate.org",
           "service_url": "http://deveiate.org",
           "presentation_group": "deveiate.org",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "faeriemud.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/ged/sigchain#e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
+          "sig_id": "e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
+          "proof_id": "8d8e7c2458bf4dfe40bbd810",
+          "human_url": "dns://faeriemud.org",
+          "service_url": "http://faeriemud.org",
+          "presentation_group": "faeriemud.org",
           "presentation_tag": "dns"
         }
       ]
@@ -204,32 +215,18 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
-          "nametag": "rubymage",
+          "proof_type": "facebook",
+          "nametag": "deveiant",
           "state": 1,
-          "proof_url": "https://coinbase.com/rubymage/public-key",
-          "sig_id": "a85b3f593f63fc4c5a6d2ed489102a044bf46af9b3b7c623e21733be2e31a9600f",
-          "proof_id": "67afd0ae830aab443254a810",
-          "human_url": "https://coinbase.com/rubymage/public-key",
-          "service_url": "https://coinbase.com/rubymage",
-          "presentation_group": "coinbase",
+          "proof_url": "https://facebook.com/10210389808117075_10210389811757166",
+          "sig_id": "252e9d3c3acdb66cb0ec0539c57ef75d21303cf1ba2bbb25eba1536ebd732ecb0f",
+          "proof_id": "3c82198206cdb612eadbf310",
+          "human_url": "https://facebook.com/10210389808117075_10210389811757166",
+          "service_url": "https://www.facebook.com/deveiant",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
-        }
-      ],
-      "faeriemud.org": [
-        {
-          "proof_type": "dns",
-          "nametag": "faeriemud.org",
-          "state": 1,
-          "proof_url": "https://keybase.io/ged/sigchain#e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
-          "sig_id": "e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
-          "proof_id": "8d8e7c2458bf4dfe40bbd810",
-          "human_url": "dns://faeriemud.org",
-          "service_url": "http://faeriemud.org",
-          "presentation_group": "faeriemud.org",
-          "presentation_tag": "dns"
         }
       ],
       "deveiate.org": [
@@ -243,6 +240,20 @@
           "human_url": "dns://deveiate.org",
           "service_url": "http://deveiate.org",
           "presentation_group": "deveiate.org",
+          "presentation_tag": "dns"
+        }
+      ],
+      "faeriemud.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "faeriemud.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/ged/sigchain#e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
+          "sig_id": "e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
+          "proof_id": "8d8e7c2458bf4dfe40bbd810",
+          "human_url": "dns://faeriemud.org",
+          "service_url": "http://faeriemud.org",
+          "presentation_group": "faeriemud.org",
           "presentation_tag": "dns"
         }
       ]
@@ -285,28 +296,16 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "rubymage",
+        "proof_type": "facebook",
+        "nametag": "deveiant",
         "state": 1,
-        "proof_url": "https://coinbase.com/rubymage/public-key",
-        "sig_id": "a85b3f593f63fc4c5a6d2ed489102a044bf46af9b3b7c623e21733be2e31a9600f",
-        "proof_id": "67afd0ae830aab443254a810",
-        "human_url": "https://coinbase.com/rubymage/public-key",
-        "service_url": "https://coinbase.com/rubymage",
-        "presentation_group": "coinbase",
+        "proof_url": "https://facebook.com/10210389808117075_10210389811757166",
+        "sig_id": "252e9d3c3acdb66cb0ec0539c57ef75d21303cf1ba2bbb25eba1536ebd732ecb0f",
+        "proof_id": "3c82198206cdb612eadbf310",
+        "human_url": "https://facebook.com/10210389808117075_10210389811757166",
+        "service_url": "https://www.facebook.com/deveiant",
+        "presentation_group": "facebook",
         "presentation_tag": "post"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "faeriemud.org",
-        "state": 1,
-        "proof_url": "https://keybase.io/ged/sigchain#e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
-        "sig_id": "e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
-        "proof_id": "8d8e7c2458bf4dfe40bbd810",
-        "human_url": "dns://faeriemud.org",
-        "service_url": "http://faeriemud.org",
-        "presentation_group": "faeriemud.org",
-        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -318,6 +317,18 @@
         "human_url": "dns://deveiate.org",
         "service_url": "http://deveiate.org",
         "presentation_group": "deveiate.org",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "faeriemud.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/ged/sigchain#e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
+        "sig_id": "e90af5a6e261346a12ea0b37b1f8f5ac14c13720d649f538a786a1cc121e73560f",
+        "proof_id": "8d8e7c2458bf4dfe40bbd810",
+        "human_url": "dns://faeriemud.org",
+        "service_url": "http://faeriemud.org",
+        "presentation_group": "faeriemud.org",
         "presentation_tag": "dns"
       }
     ]
@@ -340,28 +351,47 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "294dc613cad33408e8f146d2c48b4f9755a4e935585cd44ef3f814fdda6ba60a0f",
-      "seqno": 42,
-      "payload_hash": "32fb6acf1604332b7848f03f611b21aa13314bccd0b6d9ceb78a3bd60a67a584"
+      "sig_id": "c9a8541244521db08a08c266b7b19bb8634fdc71f1bef399dce998d850fd2b4a0f",
+      "seqno": 59,
+      "payload_hash": "efa7a2847a9ce074f8f4122902591f2ccb5e441d77f3b06477300d8c3bfae4aa"
     }
   },
   "devices": {
-    "7487d33c9ac49c547012c6e0c7d9e118": {
-      "type": "backup",
-      "ctime": 1454959479,
-      "mtime": 1454959479,
-      "name": "pet dolphin",
+    "44fee374730987d8eee3905347b73d18": {
+      "type": "desktop",
+      "ctime": 1492468184,
+      "mtime": 1492468184,
+      "name": "Netrehesh",
       "status": 1,
       "keys": [
         {
-          "kid": "0120faaa50d33c7d1fc51d78e280be6ac32e2812f8d4f8c657d06f632daa8b61df850a",
+          "kid": "01204f7897701b08868ac6ed046d9379f175f70d89ac422c70f551f60cc4e2a3b8c50a",
           "key_role": 1,
-          "sig_id": "025a0d705fea6652d6357b69a030b2b7eb122391fa33c173f6ae0969daf0e2bb0f"
+          "sig_id": "dc54eddc3ef1c3ca5eeeeb8ad266d1d8245d24ceeb6c8497db6b1a9f8cdf91200f"
         },
         {
-          "kid": "01215054507dd4bd114577757be5373064b9d3aee6a809eecb93790cdb48f9c90c490a",
+          "kid": "012176528411688b99baa233a961970c29ea2295bf4fa9de2402bb55850ac1823d1b0a",
           "key_role": 2,
-          "sig_id": "fdc56c83661b0eb1d6177467b490a4cafea8e9c5b0867bc29e74b2724fb16e540f"
+          "sig_id": "5f3f58b24121aa454452a83b78fe72cd7edc948aa7051f5bf0f6a8f56e18aa4b0f"
+        }
+      ]
+    },
+    "7a8e23484b4c4a8273df57e536992218": {
+      "type": "backup",
+      "ctime": 1493154522,
+      "mtime": 1493154522,
+      "name": "amateur gap",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120c04030749d15277e67b49c4d97ec27b8e4a2417e1173bb533bdcd6c06ca2f9a20a",
+          "key_role": 1,
+          "sig_id": "da967c5fab7517def0d8ae1ccd135260e9eff6e88728d99335121c82903ba7850f"
+        },
+        {
+          "kid": "012163be5914c8d540525441ed6b01e1ba41f7f55a82226e49277a5c808785d5582b0a",
+          "key_role": 2,
+          "sig_id": "fa303609f2b8c2131c391e75b9e8305d5c249e74816a1aed9a8487d622341cdf0f"
         }
       ]
     },
