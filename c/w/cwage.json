@@ -4,10 +4,11 @@
     "username": "cwage",
     "ctime": 1423261006,
     "mtime": 1423261006,
-    "id_version": 27,
-    "track_version": 20,
-    "last_id_change": 1469851697,
-    "username_cased": "cwage"
+    "id_version": 38,
+    "track_version": 29,
+    "last_id_change": 1511388424,
+    "username_cased": "cwage",
+    "status": 0
   },
   "profile": {
     "mtime": 1423262524,
@@ -39,16 +40,20 @@
       "0121570bea538317d83e9527511e3c027921a2013675668a45481b04168a5fb8591f0a",
       "01202411f47212f2e7445358e1b5cbf195d385e7c74bcdb407acf153a1accfcff9270a",
       "01218b99267b27243ae4d7bea33ed2e9cbe138d82c65dae15f669d31a34b6906501d0a",
-      "01204f146ba30aec88d791f976ce0c5e8074b7f0071e5b192d094db2a6a73ee17e1b0a"
+      "01204f146ba30aec88d791f976ce0c5e8074b7f0071e5b192d094db2a6a73ee17e1b0a",
+      "0121865ea2b6ad190c18ec8c6da0e1ed6f697edd984a6de82833fc82fa71a384a7280a",
+      "0120c6ff0fdb2c190c5b588046cc0655898637affebe43514b3099d08ac93f0890570a"
     ],
     "subkeys": [
       "0121570bea538317d83e9527511e3c027921a2013675668a45481b04168a5fb8591f0a",
-      "01218b99267b27243ae4d7bea33ed2e9cbe138d82c65dae15f669d31a34b6906501d0a"
+      "01218b99267b27243ae4d7bea33ed2e9cbe138d82c65dae15f669d31a34b6906501d0a",
+      "0121865ea2b6ad190c18ec8c6da0e1ed6f697edd984a6de82833fc82fa71a384a7280a"
     ],
     "sibkeys": [
       "0101eb613adc667389dbc421b02047ffd57c4e4a093b73d3f0b0f65a2454385ca63f0a",
       "01202411f47212f2e7445358e1b5cbf195d385e7c74bcdb407acf153a1accfcff9270a",
-      "01204f146ba30aec88d791f976ce0c5e8074b7f0071e5b192d094db2a6a73ee17e1b0a"
+      "01204f146ba30aec88d791f976ce0c5e8074b7f0071e5b192d094db2a6a73ee17e1b0a",
+      "0120c6ff0fdb2c190c5b588046cc0655898637affebe43514b3099d08ac93f0890570a"
     ],
     "families": {
       "01016054daa41bb4a578bcd48d6192dabc3da51d74a0a9bc720c1c6fb6ab6cd4ebc20a": [
@@ -59,7 +64,9 @@
         "0121570bea538317d83e9527511e3c027921a2013675668a45481b04168a5fb8591f0a",
         "01202411f47212f2e7445358e1b5cbf195d385e7c74bcdb407acf153a1accfcff9270a",
         "01218b99267b27243ae4d7bea33ed2e9cbe138d82c65dae15f669d31a34b6906501d0a",
-        "01204f146ba30aec88d791f976ce0c5e8074b7f0071e5b192d094db2a6a73ee17e1b0a"
+        "01204f146ba30aec88d791f976ce0c5e8074b7f0071e5b192d094db2a6a73ee17e1b0a",
+        "0121865ea2b6ad190c18ec8c6da0e1ed6f697edd984a6de82833fc82fa71a384a7280a",
+        "0120c6ff0fdb2c190c5b588046cc0655898637affebe43514b3099d08ac93f0890570a"
       ]
     },
     "eldest_kid": "0101eb613adc667389dbc421b02047ffd57c4e4a093b73d3f0b0f65a2454385ca63f0a",
@@ -244,7 +251,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/3c2d7f8eb561199a4cec057149738005_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/c631566039dfe889b31c6f4433e52605_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -252,12 +259,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "88f9732e606b5da6556803368ab1d4bdb679d4cbda0454e554f971c4d2737a420f",
-      "seqno": 34,
-      "payload_hash": "dfde82a4e9c5914835fafd66446b2ccb5af6a79763360f9fefe15d3f3bdec250"
+      "sig_id": "9182d42e44b3da51b14b2ce276f06326671d132e56dc8b63d3721a4f10aea9120f",
+      "seqno": 46,
+      "payload_hash": "5942dd85622dcf92341c9b9ccacd114faaaad79bdc87738a8113fa2982fc54e0"
     }
   },
   "devices": {
+    "a1d8f6f69ead54e229cf645e972a1318": {
+      "type": "desktop",
+      "ctime": 1511388424,
+      "mtime": 1511388424,
+      "name": "portaplotz",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120c6ff0fdb2c190c5b588046cc0655898637affebe43514b3099d08ac93f0890570a",
+          "key_role": 1,
+          "sig_id": "ff795f631d24fcc832942c4ad5fc848b700b24103c530fca18990e9e0c6dccc30f"
+        },
+        {
+          "kid": "0121865ea2b6ad190c18ec8c6da0e1ed6f697edd984a6de82833fc82fa71a384a7280a",
+          "key_role": 2,
+          "sig_id": "9182d42e44b3da51b14b2ce276f06326671d132e56dc8b63d3721a4f10aea9120f"
+        }
+      ]
+    },
     "cd36c4407ff3f808135cf604d85b9c18": {
       "type": "desktop",
       "ctime": 1453871630,
