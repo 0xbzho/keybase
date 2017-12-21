@@ -1,0 +1,93 @@
+{
+  "id": "7c12a87f2944fae06edea8a89304c919",
+  "basics": {
+    "username": "nodefiles",
+    "ctime": 1481447628,
+    "mtime": 1481447628,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1481447911,
+    "username_cased": "nodefiles",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "01201f92e76d1eb04d81b39ba40a4fc75a1e783d3343334e91dd822aa64d4cf94f6e0a",
+      "01215aca219169eb74b9cd11a3822b0df5f9f014144322cefd1281895ac5fbe572770a",
+      "0120b556aea7c3d81d81eef57628ebbbf5619b00c7cf306a35c663f74b03dc7dc5860a",
+      "0121fb34898615a2042e5175cc640af3c6e2e4d1ee3a8464b70728c0ce827c2604040a"
+    ],
+    "subkeys": [
+      "01215aca219169eb74b9cd11a3822b0df5f9f014144322cefd1281895ac5fbe572770a",
+      "0121fb34898615a2042e5175cc640af3c6e2e4d1ee3a8464b70728c0ce827c2604040a"
+    ],
+    "sibkeys": [
+      "01201f92e76d1eb04d81b39ba40a4fc75a1e783d3343334e91dd822aa64d4cf94f6e0a",
+      "0120b556aea7c3d81d81eef57628ebbbf5619b00c7cf306a35c663f74b03dc7dc5860a"
+    ],
+    "families": {
+      "01201f92e76d1eb04d81b39ba40a4fc75a1e783d3343334e91dd822aa64d4cf94f6e0a": [
+        "01201f92e76d1eb04d81b39ba40a4fc75a1e783d3343334e91dd822aa64d4cf94f6e0a",
+        "01215aca219169eb74b9cd11a3822b0df5f9f014144322cefd1281895ac5fbe572770a",
+        "0120b556aea7c3d81d81eef57628ebbbf5619b00c7cf306a35c663f74b03dc7dc5860a",
+        "0121fb34898615a2042e5175cc640af3c6e2e4d1ee3a8464b70728c0ce827c2604040a"
+      ]
+    },
+    "eldest_kid": "01201f92e76d1eb04d81b39ba40a4fc75a1e783d3343334e91dd822aa64d4cf94f6e0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "abc781c2759a19fec52789d33763df8e5281957da5966e66fbce05ebc5df88fe0f",
+      "seqno": 4,
+      "payload_hash": "03ca137a85105bb6709eae2537aa4e45d257cb691d294bb6b04106f442373cd3"
+    }
+  },
+  "devices": {
+    "a3d3ef34f80eee31191fd6b23c5aac18": {
+      "type": "desktop",
+      "ctime": 1481447909,
+      "mtime": 1481447909,
+      "name": "backup",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201f92e76d1eb04d81b39ba40a4fc75a1e783d3343334e91dd822aa64d4cf94f6e0a",
+          "key_role": 1,
+          "sig_id": "68d99ab0d2ee9ce5b582cae618784b37273187710766b8c3e998e1b2c652fe8b0f"
+        },
+        {
+          "kid": "01215aca219169eb74b9cd11a3822b0df5f9f014144322cefd1281895ac5fbe572770a",
+          "key_role": 2,
+          "sig_id": "f90707b49600252839db775961f6b5955bf2c56e289e8dd052e59dde97b0c18b0f"
+        }
+      ]
+    },
+    "d92b2b4d2279f80e2e9aee3ed0d53018": {
+      "type": "backup",
+      "ctime": 1481447911,
+      "mtime": 1481447911,
+      "name": "comfort document",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b556aea7c3d81d81eef57628ebbbf5619b00c7cf306a35c663f74b03dc7dc5860a",
+          "key_role": 1,
+          "sig_id": "84099fbcc3598c07bc41816bc25bd51763ed5b6061ccbecd76af3294e78afb860f"
+        },
+        {
+          "kid": "0121fb34898615a2042e5175cc640af3c6e2e4d1ee3a8464b70728c0ce827c2604040a",
+          "key_role": 2,
+          "sig_id": "abc781c2759a19fec52789d33763df8e5281957da5966e66fbce05ebc5df88fe0f"
+        }
+      ]
+    }
+  }
+}
