@@ -4,16 +4,17 @@
     "username": "scsi",
     "ctime": 1448915136,
     "mtime": 1448915136,
-    "id_version": 45,
-    "track_version": 24,
-    "last_id_change": 1467209432,
-    "username_cased": "scsi"
+    "id_version": 70,
+    "track_version": 35,
+    "last_id_change": 1512860882,
+    "username_cased": "scsi",
+    "status": 0
   },
   "profile": {
-    "mtime": 1461129097,
+    "mtime": 1502218258,
     "full_name": "Frank Precissi",
     "location": "Stockton, California, USA",
-    "bio": "Pharmacist, tabletop RPG nerd, founder of Deadjournal.com, burnt out Linux admin, amateur radio geek [KG6EYC], awesome husband, father, all around asshole."
+    "bio": "Pharmacist, tabletop RPG nerd, founder of Deadjournal.com, burnt out Linux admin, amateur radio geek [N6QB], awesome husband, father, all around asshole."
   },
   "public_keys": {
     "primary": {
@@ -53,20 +54,24 @@
       "01205aacce6da52b3e6a4b82be776029ed8a9427326dbdff24a891131e789619c1470a",
       "012199a929af1028b8a7b4ca07dd8fd5d9303706456b3fd8c6c4c23d09d49f51b8600a",
       "0120d5d63c21f043ec4d77cfb5796e1285eb4c3b9db57089de5c048f99f2e8bc01d80a",
-      "012199c0ecfabe654b3c716baff65c9b4acd048e0615eafcc4e0514c83b60293ad280a"
+      "012199c0ecfabe654b3c716baff65c9b4acd048e0615eafcc4e0514c83b60293ad280a",
+      "012049b66103e891dd815efc0d70e04d25ce241b2d59d6f10e113168da3dd2c83b990a",
+      "01217a4b589473cc02b29778c976652d82b51b435cdd6ed15889c3d7ba8581b250580a",
+      "0121da3704b604c675918b7406fc7dcc4bba710a928f18d35bfe79954f14ec2c68730a",
+      "01205d46c49603dcf1478573d280ddda00beeb78878551d9e69dd5b71c3a2403a7470a"
     ],
     "subkeys": [
-      "0121d27f613060aa0bc81e298a830803de572b6347988499fd382f9cec47818610670a",
       "0121cc33917f9b7f434d9438be9b8e29829529ebca8a9eacddf6b3a597b80089e3370a",
       "012199a929af1028b8a7b4ca07dd8fd5d9303706456b3fd8c6c4c23d09d49f51b8600a",
-      "012199c0ecfabe654b3c716baff65c9b4acd048e0615eafcc4e0514c83b60293ad280a"
+      "012199c0ecfabe654b3c716baff65c9b4acd048e0615eafcc4e0514c83b60293ad280a",
+      "0121da3704b604c675918b7406fc7dcc4bba710a928f18d35bfe79954f14ec2c68730a"
     ],
     "sibkeys": [
-      "01209db9f669f7383359973b910b3cb63387b73d3c18d8b01d2b8782c041960bd1ba0a",
       "010155aed3911525cd88895badd1f6be87d1d6048e908f073542d525e073460a33040a",
       "01209a92b5b7d10946101df278c9eeccfda5bce93840141765698712722d77bfae970a",
       "01205aacce6da52b3e6a4b82be776029ed8a9427326dbdff24a891131e789619c1470a",
-      "0120d5d63c21f043ec4d77cfb5796e1285eb4c3b9db57089de5c048f99f2e8bc01d80a"
+      "0120d5d63c21f043ec4d77cfb5796e1285eb4c3b9db57089de5c048f99f2e8bc01d80a",
+      "01205d46c49603dcf1478573d280ddda00beeb78878551d9e69dd5b71c3a2403a7470a"
     ],
     "families": {
       "010155aed3911525cd88895badd1f6be87d1d6048e908f073542d525e073460a33040a": [
@@ -89,7 +94,11 @@
         "01205aacce6da52b3e6a4b82be776029ed8a9427326dbdff24a891131e789619c1470a",
         "012199a929af1028b8a7b4ca07dd8fd5d9303706456b3fd8c6c4c23d09d49f51b8600a",
         "0120d5d63c21f043ec4d77cfb5796e1285eb4c3b9db57089de5c048f99f2e8bc01d80a",
-        "012199c0ecfabe654b3c716baff65c9b4acd048e0615eafcc4e0514c83b60293ad280a"
+        "012199c0ecfabe654b3c716baff65c9b4acd048e0615eafcc4e0514c83b60293ad280a",
+        "012049b66103e891dd815efc0d70e04d25ce241b2d59d6f10e113168da3dd2c83b990a",
+        "01217a4b589473cc02b29778c976652d82b51b435cdd6ed15889c3d7ba8581b250580a",
+        "0121da3704b604c675918b7406fc7dcc4bba710a928f18d35bfe79954f14ec2c68730a",
+        "01205d46c49603dcf1478573d280ddda00beeb78878551d9e69dd5b71c3a2403a7470a"
       ]
     },
     "eldest_kid": "010155aed3911525cd88895badd1f6be87d1d6048e908f073542d525e073460a33040a",
@@ -142,17 +151,17 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
-          "nametag": "virtualadept",
+          "proof_type": "facebook",
+          "nametag": "frank.precissi",
           "state": 1,
-          "proof_url": "https://coinbase.com/virtualadept/public-key",
-          "sig_id": "fc18bb24534eff77218f26509f6e77b4361c93c7c5dd16665f1be40e3af0e18b0f",
-          "proof_id": "600d42d19e93fc16e7a0fc10",
-          "human_url": "https://coinbase.com/virtualadept/public-key",
-          "service_url": "https://coinbase.com/virtualadept",
-          "presentation_group": "coinbase",
+          "proof_url": "https://facebook.com/10155130203617502_10155130203862502",
+          "sig_id": "9de73ccad3fb407db6544b0c1047d3b3902d9340fd5895a7d19c47808f66a35c0f",
+          "proof_id": "6c2b6b635596c620fd120510",
+          "human_url": "https://facebook.com/10155130203617502_10155130203862502",
+          "service_url": "https://www.facebook.com/frank.precissi",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
         }
       ],
@@ -161,13 +170,13 @@
           "proof_type": "generic_web_site",
           "nametag": "vadept.com",
           "state": 1,
-          "proof_url": "http://vadept.com/keybase.txt",
-          "sig_id": "701d54f5173ec430f3362d27769bde08978699a0dd2b4d1a714af34b6eb843610f",
-          "proof_id": "7484e84ce4df9231b31b3310",
-          "human_url": "http://vadept.com/keybase.txt",
-          "service_url": "http://vadept.com",
+          "proof_url": "https://vadept.com/keybase.txt",
+          "sig_id": "59fb9d1dc78214ee76c3518b22268460d4defb0318d427e4c3c3565b859a65370f",
+          "proof_id": "c0e44032512123290f410310",
+          "human_url": "https://vadept.com/keybase.txt",
+          "service_url": "https://vadept.com",
           "presentation_group": "vadept.com",
-          "presentation_tag": "http"
+          "presentation_tag": "https"
         }
       ]
     },
@@ -214,17 +223,17 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
-          "nametag": "virtualadept",
+          "proof_type": "facebook",
+          "nametag": "frank.precissi",
           "state": 1,
-          "proof_url": "https://coinbase.com/virtualadept/public-key",
-          "sig_id": "fc18bb24534eff77218f26509f6e77b4361c93c7c5dd16665f1be40e3af0e18b0f",
-          "proof_id": "600d42d19e93fc16e7a0fc10",
-          "human_url": "https://coinbase.com/virtualadept/public-key",
-          "service_url": "https://coinbase.com/virtualadept",
-          "presentation_group": "coinbase",
+          "proof_url": "https://facebook.com/10155130203617502_10155130203862502",
+          "sig_id": "9de73ccad3fb407db6544b0c1047d3b3902d9340fd5895a7d19c47808f66a35c0f",
+          "proof_id": "6c2b6b635596c620fd120510",
+          "human_url": "https://facebook.com/10155130203617502_10155130203862502",
+          "service_url": "https://www.facebook.com/frank.precissi",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
         }
       ],
@@ -233,13 +242,13 @@
           "proof_type": "generic_web_site",
           "nametag": "vadept.com",
           "state": 1,
-          "proof_url": "http://vadept.com/keybase.txt",
-          "sig_id": "701d54f5173ec430f3362d27769bde08978699a0dd2b4d1a714af34b6eb843610f",
-          "proof_id": "7484e84ce4df9231b31b3310",
-          "human_url": "http://vadept.com/keybase.txt",
-          "service_url": "http://vadept.com",
+          "proof_url": "https://vadept.com/keybase.txt",
+          "sig_id": "59fb9d1dc78214ee76c3518b22268460d4defb0318d427e4c3c3565b859a65370f",
+          "proof_id": "c0e44032512123290f410310",
+          "human_url": "https://vadept.com/keybase.txt",
+          "service_url": "https://vadept.com",
           "presentation_group": "vadept.com",
-          "presentation_tag": "http"
+          "presentation_tag": "https"
         }
       ]
     },
@@ -281,36 +290,42 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "virtualadept",
+        "proof_type": "facebook",
+        "nametag": "frank.precissi",
         "state": 1,
-        "proof_url": "https://coinbase.com/virtualadept/public-key",
-        "sig_id": "fc18bb24534eff77218f26509f6e77b4361c93c7c5dd16665f1be40e3af0e18b0f",
-        "proof_id": "600d42d19e93fc16e7a0fc10",
-        "human_url": "https://coinbase.com/virtualadept/public-key",
-        "service_url": "https://coinbase.com/virtualadept",
-        "presentation_group": "coinbase",
+        "proof_url": "https://facebook.com/10155130203617502_10155130203862502",
+        "sig_id": "9de73ccad3fb407db6544b0c1047d3b3902d9340fd5895a7d19c47808f66a35c0f",
+        "proof_id": "6c2b6b635596c620fd120510",
+        "human_url": "https://facebook.com/10155130203617502_10155130203862502",
+        "service_url": "https://www.facebook.com/frank.precissi",
+        "presentation_group": "facebook",
         "presentation_tag": "post"
       },
       {
         "proof_type": "generic_web_site",
         "nametag": "vadept.com",
         "state": 1,
-        "proof_url": "http://vadept.com/keybase.txt",
-        "sig_id": "701d54f5173ec430f3362d27769bde08978699a0dd2b4d1a714af34b6eb843610f",
-        "proof_id": "7484e84ce4df9231b31b3310",
-        "human_url": "http://vadept.com/keybase.txt",
-        "service_url": "http://vadept.com",
+        "proof_url": "https://vadept.com/keybase.txt",
+        "sig_id": "59fb9d1dc78214ee76c3518b22268460d4defb0318d427e4c3c3565b859a65370f",
+        "proof_id": "c0e44032512123290f410310",
+        "human_url": "https://vadept.com/keybase.txt",
+        "service_url": "https://vadept.com",
         "presentation_group": "vadept.com",
-        "presentation_tag": "http"
+        "presentation_tag": "https"
       }
     ]
   },
   "cryptocurrency_addresses": {
     "bitcoin": [
       {
-        "address": "17c1Ev9ZUKDVCuA9Es1QJVfQAqCxaYgLMq",
-        "sig_id": "18a06e55e02a38f5d01ea40a7f879acfd4a35fefd86456e312819a2b7044f4530f"
+        "address": "1KNeW3u5khxmTYBGbfN2f9fy8iJNnECMGu",
+        "sig_id": "a417763d356b29af1e359c8b57a577be314bdb94a26f3a039d53fb7d36ea2b1f0f"
+      }
+    ],
+    "zcash": [
+      {
+        "address": "t1XuFNuBycP6YRgDZUL2cpzzK4mcPcQkTj4",
+        "sig_id": "f95e629841ea39657a95e430dfa6a8fdbd2d0363abc433297305457aada89fe40f"
       }
     ]
   },
@@ -324,9 +339,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b2652ca4aad08e46c9eeaf884a7571d6d273c2b11a4e3b44de938a1d3a1c1cef0f",
-      "seqno": 56,
-      "payload_hash": "2c29288e675f893484689e08cf3bd2d5b7176a62af29f911d872e5d573b52caf"
+      "sig_id": "a417763d356b29af1e359c8b57a577be314bdb94a26f3a039d53fb7d36ea2b1f0f",
+      "seqno": 79,
+      "payload_hash": "182c67c2b93bab98599ea8854259ccfe34889306944233ceaa260d41733cbaea"
     }
   },
   "devices": {
@@ -368,29 +383,29 @@
         }
       ]
     },
-    "6cddb74bfb265906fa50f581bd730218": {
-      "type": "desktop",
-      "ctime": 1449000868,
-      "mtime": 1449000868,
-      "name": "Gearbox",
+    "8c9ccaa62a739de145377c223253e118": {
+      "type": "mobile",
+      "ctime": 1511636083,
+      "mtime": 1511636083,
+      "name": "Pixel XL",
       "status": 1,
       "keys": [
         {
-          "kid": "01209db9f669f7383359973b910b3cb63387b73d3c18d8b01d2b8782c041960bd1ba0a",
+          "kid": "01205d46c49603dcf1478573d280ddda00beeb78878551d9e69dd5b71c3a2403a7470a",
           "key_role": 1,
-          "sig_id": "d8d59d2212bb46740b476ae872de23b7c557526468439173a0f393807c63e77e0f"
+          "sig_id": "ccbea5785d34ce58a9cf8c9930fcfe33847fc15b723fc041f48ed7d3698cb40b0f"
         },
         {
-          "kid": "0121d27f613060aa0bc81e298a830803de572b6347988499fd382f9cec47818610670a",
+          "kid": "0121da3704b604c675918b7406fc7dcc4bba710a928f18d35bfe79954f14ec2c68730a",
           "key_role": 2,
-          "sig_id": "1f5068e36555da78f5ccc13c59b9c20894600a91c12528aa79ca2e906b4955290f"
+          "sig_id": "3ebf4140ba68906b5c014375811e5396605adebdbcbe9d353a413bba862834bf0f"
         }
       ]
     },
     "99234de23860e97d7793cd2329339618": {
       "type": "desktop",
-      "ctime": 1460183289,
-      "mtime": 1460183289,
+      "ctime": 1460186889,
+      "mtime": 1460186889,
       "name": "kg6eyc-hambook",
       "status": 1,
       "keys": [
