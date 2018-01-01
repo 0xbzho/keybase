@@ -4,13 +4,14 @@
     "username": "toby",
     "ctime": 1394230289,
     "mtime": 1394230289,
-    "id_version": 78,
-    "track_version": 20,
-    "last_id_change": 1477104452,
-    "username_cased": "toby"
+    "id_version": 93,
+    "track_version": 38,
+    "last_id_change": 1514068986,
+    "username_cased": "toby",
+    "status": 0
   },
   "profile": {
-    "mtime": 1474122211,
+    "mtime": 1474125811,
     "full_name": "Toby Padilla",
     "location": "New Orleans",
     "bio": "Hacking and stuff"
@@ -44,22 +45,28 @@
       "0120ebdc6723ed70af38f367aa08b940c50cbbb006068a83292111d7e2054665947c0a",
       "01219738771b70a041d4441e0bffae59e943937874f9af64903e662ea2f9c3b86d4a0a",
       "01218342d3f838755db96fa961523426fc9d43224276f09834e6fcbee8601d1620230a",
-      "0120edf4502cb345ecd470681ad5d09bb4dd833ecfbb8f7f695ef50a89be8eb6992c0a"
+      "0120edf4502cb345ecd470681ad5d09bb4dd833ecfbb8f7f695ef50a89be8eb6992c0a",
+      "0121dfc660f614b644f11e4b0fe3643daee28b394eb9707bba81a14384b8266397270a",
+      "0120fac298ee92b73aee476edec476102fbfe5dbebfc0000dc33489adad2e8519c5f0a",
+      "012097e3473deab39f58274e8f189a2fcdf4159fb0853052084503c07094a0c2dbe60a",
+      "01219f3fda45b33d6d1c6e6842a96910c5d290711eefbe18054db4d3e958e77044600a"
     ],
     "subkeys": [
       "0121808ac72d93f76448a00ef5cfde8cee12acf8324d3ee2185d68ec5b04b059b0760a",
-      "01213dd32dced1d55a387d7b764e9d7643714d34eda7e4c308e9d6e8b6ea27983c410a",
       "01218c64df5ac9eb35babccc7af5b0f555ebf7cb60776f1b5a49e33b3b8a48b7a01b0a",
       "01219738771b70a041d4441e0bffae59e943937874f9af64903e662ea2f9c3b86d4a0a",
-      "01218342d3f838755db96fa961523426fc9d43224276f09834e6fcbee8601d1620230a"
+      "01218342d3f838755db96fa961523426fc9d43224276f09834e6fcbee8601d1620230a",
+      "0121dfc660f614b644f11e4b0fe3643daee28b394eb9707bba81a14384b8266397270a",
+      "01219f3fda45b33d6d1c6e6842a96910c5d290711eefbe18054db4d3e958e77044600a"
     ],
     "sibkeys": [
       "0101c7eb40aed94c5a6fcf198eeb1368a968d27fc8269963797e7e022881038c4f6e0a",
       "01208ef3e62909d277ebe45e813215f48d183fdaf2ecb05f9b29e7160f3f7d54ff580a",
-      "01204e327c63132c685c2cf15a6fe475873000afeb8f025d58cbb1f30efa8ee49df80a",
       "0120acb3b194f788aac70d9d37ad94f3a5bbe5f16a6d874c6783e7a2b6c4a41f5f660a",
       "0120ebdc6723ed70af38f367aa08b940c50cbbb006068a83292111d7e2054665947c0a",
-      "0120edf4502cb345ecd470681ad5d09bb4dd833ecfbb8f7f695ef50a89be8eb6992c0a"
+      "0120edf4502cb345ecd470681ad5d09bb4dd833ecfbb8f7f695ef50a89be8eb6992c0a",
+      "0120fac298ee92b73aee476edec476102fbfe5dbebfc0000dc33489adad2e8519c5f0a",
+      "012097e3473deab39f58274e8f189a2fcdf4159fb0853052084503c07094a0c2dbe60a"
     ],
     "families": {
       "0101c7eb40aed94c5a6fcf198eeb1368a968d27fc8269963797e7e022881038c4f6e0a": [
@@ -73,7 +80,11 @@
         "0120ebdc6723ed70af38f367aa08b940c50cbbb006068a83292111d7e2054665947c0a",
         "01219738771b70a041d4441e0bffae59e943937874f9af64903e662ea2f9c3b86d4a0a",
         "01218342d3f838755db96fa961523426fc9d43224276f09834e6fcbee8601d1620230a",
-        "0120edf4502cb345ecd470681ad5d09bb4dd833ecfbb8f7f695ef50a89be8eb6992c0a"
+        "0120edf4502cb345ecd470681ad5d09bb4dd833ecfbb8f7f695ef50a89be8eb6992c0a",
+        "0121dfc660f614b644f11e4b0fe3643daee28b394eb9707bba81a14384b8266397270a",
+        "0120fac298ee92b73aee476edec476102fbfe5dbebfc0000dc33489adad2e8519c5f0a",
+        "012097e3473deab39f58274e8f189a2fcdf4159fb0853052084503c07094a0c2dbe60a",
+        "01219f3fda45b33d6d1c6e6842a96910c5d290711eefbe18054db4d3e958e77044600a"
       ]
     },
     "eldest_kid": "0101c7eb40aed94c5a6fcf198eeb1368a968d27fc8269963797e7e022881038c4f6e0a",
@@ -126,28 +137,14 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "toby",
-          "state": 1,
-          "proof_url": "https://coinbase.com/toby/public-key",
-          "sig_id": "22df6e9788ef60e5991561e4cbc381aacf1f6485ae57d0ffa084ad7809b5054e0f",
-          "proof_id": "20ea3be40ad0f35629f4a210",
-          "human_url": "https://coinbase.com/toby/public-key",
-          "service_url": "https://coinbase.com/toby",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "dns": [
         {
           "proof_type": "dns",
           "nametag": "playgrub.com",
           "state": 1,
-          "proof_url": "https://keybase.io/toby/sigchain#8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
-          "sig_id": "8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
-          "proof_id": "0bb8991ed430372f58025110",
+          "proof_url": "https://keybase.io/toby/sigchain#b292cca3cc967f3552464f000ae9e226b81c9d3ac4f51293b32ee0bcba30b8a40f",
+          "sig_id": "b292cca3cc967f3552464f000ae9e226b81c9d3ac4f51293b32ee0bcba30b8a40f",
+          "proof_id": "12060831bf605cf4a1870f10",
           "human_url": "dns://playgrub.com",
           "service_url": "http://playgrub.com",
           "presentation_group": "playgrub.com",
@@ -198,28 +195,14 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "toby",
-          "state": 1,
-          "proof_url": "https://coinbase.com/toby/public-key",
-          "sig_id": "22df6e9788ef60e5991561e4cbc381aacf1f6485ae57d0ffa084ad7809b5054e0f",
-          "proof_id": "20ea3be40ad0f35629f4a210",
-          "human_url": "https://coinbase.com/toby/public-key",
-          "service_url": "https://coinbase.com/toby",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "playgrub.com": [
         {
           "proof_type": "dns",
           "nametag": "playgrub.com",
           "state": 1,
-          "proof_url": "https://keybase.io/toby/sigchain#8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
-          "sig_id": "8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
-          "proof_id": "0bb8991ed430372f58025110",
+          "proof_url": "https://keybase.io/toby/sigchain#b292cca3cc967f3552464f000ae9e226b81c9d3ac4f51293b32ee0bcba30b8a40f",
+          "sig_id": "b292cca3cc967f3552464f000ae9e226b81c9d3ac4f51293b32ee0bcba30b8a40f",
+          "proof_id": "12060831bf605cf4a1870f10",
           "human_url": "dns://playgrub.com",
           "service_url": "http://playgrub.com",
           "presentation_group": "playgrub.com",
@@ -265,24 +248,12 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "toby",
-        "state": 1,
-        "proof_url": "https://coinbase.com/toby/public-key",
-        "sig_id": "22df6e9788ef60e5991561e4cbc381aacf1f6485ae57d0ffa084ad7809b5054e0f",
-        "proof_id": "20ea3be40ad0f35629f4a210",
-        "human_url": "https://coinbase.com/toby/public-key",
-        "service_url": "https://coinbase.com/toby",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "dns",
         "nametag": "playgrub.com",
         "state": 1,
-        "proof_url": "https://keybase.io/toby/sigchain#8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
-        "sig_id": "8ca06f6efa08268df289a7345f9cd2d0c06e951d494498dc813d7c4d523aff4b0f",
-        "proof_id": "0bb8991ed430372f58025110",
+        "proof_url": "https://keybase.io/toby/sigchain#b292cca3cc967f3552464f000ae9e226b81c9d3ac4f51293b32ee0bcba30b8a40f",
+        "sig_id": "b292cca3cc967f3552464f000ae9e226b81c9d3ac4f51293b32ee0bcba30b8a40f",
+        "proof_id": "12060831bf605cf4a1870f10",
         "human_url": "dns://playgrub.com",
         "service_url": "http://playgrub.com",
         "presentation_group": "playgrub.com",
@@ -291,10 +262,16 @@
     ]
   },
   "cryptocurrency_addresses": {
+    "zcash": [
+      {
+        "address": "zcQLTyhifGABdPBDj83fivHbrJos2ra4p4iyJLgkxi2XF6E1RGhxTfzUgydZxgULexy2nbYULjFs3LLHpU91yMryHFsbAQ4",
+        "sig_id": "8cb7590480faf77c40f20fbd504902cba09afecf5c4c211b96777f27a10276bb0f"
+      }
+    ],
     "bitcoin": [
       {
-        "address": "1MwqPmzrt3q7uDpLSctFZa8epFrgJo3pAA",
-        "sig_id": "144929adeb365f776152c781cdf5ac4c7b797a0fb9cf0bc91cf5317533cca3610f"
+        "address": "14hUaSZwduqvEiiLUS8HLBhUtK3U6wdN5c",
+        "sig_id": "ae43bcd54696e44da7e038a3c6ccea4d10464bd64f97dcf90b80d21d381b14060f"
       }
     ]
   },
@@ -308,35 +285,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3f12f0461716ab5f999264861a150b896219bdf7e035dd679f3ec12393a71b5b0f",
-      "seqno": 40,
-      "payload_hash": "2fef8f04b2121be31b3a1d03731f0b0d927753232695d8f4e8e676b036f64207"
+      "sig_id": "b292cca3cc967f3552464f000ae9e226b81c9d3ac4f51293b32ee0bcba30b8a40f",
+      "seqno": 68,
+      "payload_hash": "9cf6d2ec1ad713e209b51dad835d64a51dcde783b7faa46ca2f938ebe956f032"
     }
   },
   "devices": {
-    "3726b2b83b4bcdc37bd25e4e8b517218": {
+    "057e34b1086718b5ae9a1cf163d52418": {
       "type": "backup",
-      "ctime": 1461601215,
-      "mtime": 1461601215,
-      "name": "warrior path",
+      "ctime": 1513025109,
+      "mtime": 1513025109,
+      "name": "primary thank",
       "status": 1,
       "keys": [
         {
-          "kid": "01204e327c63132c685c2cf15a6fe475873000afeb8f025d58cbb1f30efa8ee49df80a",
+          "kid": "012097e3473deab39f58274e8f189a2fcdf4159fb0853052084503c07094a0c2dbe60a",
           "key_role": 1,
-          "sig_id": "1578056bbab552a0340a29df3ec6c1d327c21b892a4ee63324c80867cb9cb8260f"
+          "sig_id": "a51c1f0ca825e7ca3814a3e003418e6567c8f6c51a26fc3dcd0e6f52d719343f0f"
         },
         {
-          "kid": "01213dd32dced1d55a387d7b764e9d7643714d34eda7e4c308e9d6e8b6ea27983c410a",
+          "kid": "01219f3fda45b33d6d1c6e6842a96910c5d290711eefbe18054db4d3e958e77044600a",
           "key_role": 2,
-          "sig_id": "21a672c11d5bcb62fd813f9bb581fc6692b3d7087bad3bc9861247bf8e4b78940f"
+          "sig_id": "b937af862dbc5da177106ff8672abf341cbe11217c0af11a2fb613cff505f8010f"
         }
       ]
     },
     "689a258ca7aa423f4fcf4f1ce7f44c18": {
       "type": "desktop",
-      "ctime": 1461601214,
-      "mtime": 1461601214,
+      "ctime": 1461604814,
+      "mtime": 1461604814,
       "name": "Lucid Mac",
       "status": 1,
       "keys": [
@@ -354,8 +331,8 @@
     },
     "aba267c561150475572b8acd5dbe7e18": {
       "type": "desktop",
-      "ctime": 1470684044,
-      "mtime": 1470684044,
+      "ctime": 1470687644,
+      "mtime": 1470687644,
       "name": "playgrub",
       "status": 1,
       "keys": [
@@ -373,8 +350,8 @@
     },
     "bea24bdcd9082693af97a4617983b918": {
       "type": "desktop",
-      "ctime": 1469120283,
-      "mtime": 1469120283,
+      "ctime": 1469123883,
+      "mtime": 1469123883,
       "name": "Toby iMac",
       "status": 1,
       "keys": [
@@ -392,8 +369,8 @@
     },
     "eb7170f590da4e07bce88dd856ebe218": {
       "type": "desktop",
-      "ctime": 1473812821,
-      "mtime": 1473812821,
+      "ctime": 1473816421,
+      "mtime": 1473816421,
       "name": "arkanoid",
       "status": 1,
       "keys": [
@@ -406,6 +383,25 @@
           "kid": "01218342d3f838755db96fa961523426fc9d43224276f09834e6fcbee8601d1620230a",
           "key_role": 2,
           "sig_id": "5b2dd71a47372d941a3f6eb19015d677d3c1d28f4b728814a823c2b2659657f10f"
+        }
+      ]
+    },
+    "eccfae0e5b8def81edf7f5fe29895e18": {
+      "type": "mobile",
+      "ctime": 1494535991,
+      "mtime": 1494535991,
+      "name": "iPhone 6s",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120fac298ee92b73aee476edec476102fbfe5dbebfc0000dc33489adad2e8519c5f0a",
+          "key_role": 1,
+          "sig_id": "83d77624f6956bf339eaed3626151da00571e0f14fd213dc94f0927950fc7fcf0f"
+        },
+        {
+          "kid": "0121dfc660f614b644f11e4b0fe3643daee28b394eb9707bba81a14384b8266397270a",
+          "key_role": 2,
+          "sig_id": "94b79272ccb689f6d64af05e1e0b32821c6a16795f9de4bc9c04bf6d1fae757a0f"
         }
       ]
     }
