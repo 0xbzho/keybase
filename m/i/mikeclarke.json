@@ -4,13 +4,14 @@
     "username": "mikeclarke",
     "ctime": 1394145565,
     "mtime": 1394145565,
-    "id_version": 24,
+    "id_version": 29,
     "track_version": 2,
-    "last_id_change": 1459538134,
-    "username_cased": "mikeclarke"
+    "last_id_change": 1496051319,
+    "username_cased": "mikeclarke",
+    "status": 0
   },
   "profile": {
-    "mtime": 1459539215,
+    "mtime": 1459542815,
     "full_name": "Mike Clarke",
     "location": "San Francisco, CA",
     "bio": "Building APIs at Silicon Valley Bank"
@@ -38,16 +39,20 @@
       "0121cda1381308ad9ce3b40d6e29da9a0c499946ee4ed90a206eb9646f38276c41580a",
       "012067a89fe43c215c1c325dddbc386869bedd60ed2409948d73f61cf51735e2cc560a",
       "01211e6c332978c9c4e02671642fbfb028f4e7f32725c045bf304fb2622f66ab5f350a",
-      "0120c3123abd5d3260d8aaed5a84cd3e66246111446e841a31fd8377b53e534205b70a"
+      "0120c3123abd5d3260d8aaed5a84cd3e66246111446e841a31fd8377b53e534205b70a",
+      "01219a9da825b0a6295b1bb83fd33f47a12938cf39605969e03b9faf4a3e0c0215630a",
+      "0120f53a0a987705390a507a101917b5851d4e443fb3672723ce392c942a5e1602b90a"
     ],
     "subkeys": [
       "0121cda1381308ad9ce3b40d6e29da9a0c499946ee4ed90a206eb9646f38276c41580a",
-      "01211e6c332978c9c4e02671642fbfb028f4e7f32725c045bf304fb2622f66ab5f350a"
+      "01211e6c332978c9c4e02671642fbfb028f4e7f32725c045bf304fb2622f66ab5f350a",
+      "01219a9da825b0a6295b1bb83fd33f47a12938cf39605969e03b9faf4a3e0c0215630a"
     ],
     "sibkeys": [
       "0101f3da797fb14b3b9319951b98700687c89d1c0be8285b76f57b1893fbc8c495160a",
       "012067a89fe43c215c1c325dddbc386869bedd60ed2409948d73f61cf51735e2cc560a",
-      "0120c3123abd5d3260d8aaed5a84cd3e66246111446e841a31fd8377b53e534205b70a"
+      "0120c3123abd5d3260d8aaed5a84cd3e66246111446e841a31fd8377b53e534205b70a",
+      "0120f53a0a987705390a507a101917b5851d4e443fb3672723ce392c942a5e1602b90a"
     ],
     "families": {
       "0101f3da797fb14b3b9319951b98700687c89d1c0be8285b76f57b1893fbc8c495160a": [
@@ -55,7 +60,9 @@
         "0121cda1381308ad9ce3b40d6e29da9a0c499946ee4ed90a206eb9646f38276c41580a",
         "012067a89fe43c215c1c325dddbc386869bedd60ed2409948d73f61cf51735e2cc560a",
         "01211e6c332978c9c4e02671642fbfb028f4e7f32725c045bf304fb2622f66ab5f350a",
-        "0120c3123abd5d3260d8aaed5a84cd3e66246111446e841a31fd8377b53e534205b70a"
+        "0120c3123abd5d3260d8aaed5a84cd3e66246111446e841a31fd8377b53e534205b70a",
+        "01219a9da825b0a6295b1bb83fd33f47a12938cf39605969e03b9faf4a3e0c0215630a",
+        "0120f53a0a987705390a507a101917b5851d4e443fb3672723ce392c942a5e1602b90a"
       ]
     },
     "eldest_kid": "0101f3da797fb14b3b9319951b98700687c89d1c0be8285b76f57b1893fbc8c495160a",
@@ -155,7 +162,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e188ffde5c2b77d67c839f2069bcb805_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/9b567648930897def8153210e0bf2705_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -163,16 +170,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "74b62fb9125b66c7c13bb76f2a96e9727d6976e841c2266499fec865b0c78dfd0f",
-      "seqno": 8,
-      "payload_hash": "2ab490c26373339a7f1c1cf96aa2c98aa620631faf1c4e1dca0b6abb6a39194f"
+      "sig_id": "59592aba798bbf2e7fb3399bc3679a8491774ff2531f562591d49eb15085082a0f",
+      "seqno": 11,
+      "payload_hash": "904c3352f7906220be5b2a7144f96d16ab590af64c994f82af1c9e69f78ea242"
     }
   },
   "devices": {
     "0e7d42b3e948480575b36d2fa9f18a18": {
       "type": "backup",
-      "ctime": 1459538134,
-      "mtime": 1459538134,
+      "ctime": 1459541734,
+      "mtime": 1459541734,
       "name": "faint guitar",
       "status": 1,
       "keys": [
@@ -188,10 +195,29 @@
         }
       ]
     },
+    "0f647bae597dba2d1afdf20aca394218": {
+      "type": "desktop",
+      "ctime": 1489465209,
+      "mtime": 1489465209,
+      "name": "Personal MBP",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120f53a0a987705390a507a101917b5851d4e443fb3672723ce392c942a5e1602b90a",
+          "key_role": 1,
+          "sig_id": "7683610964fc13324b32422d1eb6d4c7bb874df3e9891c8af2557c0f74a6580a0f"
+        },
+        {
+          "kid": "01219a9da825b0a6295b1bb83fd33f47a12938cf39605969e03b9faf4a3e0c0215630a",
+          "key_role": 2,
+          "sig_id": "e7ec2665070f8bc3d07e6919f0021a2f133aedc21ef3c4b4d9ef0008b4005fa60f"
+        }
+      ]
+    },
     "79103db4aaa8bf12ab1e324ad8f4fe18": {
       "type": "desktop",
-      "ctime": 1459538133,
-      "mtime": 1459538133,
+      "ctime": 1459541733,
+      "mtime": 1459541733,
       "name": "SVB MacBook Pro",
       "status": 1,
       "keys": [
