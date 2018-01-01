@@ -2,15 +2,16 @@
   "id": "b4be6ea777b0aa3d0f236138bc3d5619",
   "basics": {
     "username": "wsx",
-    "ctime": 1444232256,
-    "mtime": 1444232256,
-    "id_version": 12,
+    "ctime": 1444235856,
+    "mtime": 1444235856,
+    "id_version": 18,
     "track_version": 0,
-    "last_id_change": 1455068411,
-    "username_cased": "wsx"
+    "last_id_change": 1507251075,
+    "username_cased": "wsx",
+    "status": 0
   },
   "profile": {
-    "mtime": 1444232288,
+    "mtime": 1444235888,
     "full_name": "Marco Bartoli",
     "location": "Italy",
     "bio": "Security Researcher"
@@ -93,20 +94,6 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
-      ],
-      "dns": [
-        {
-          "proof_type": "dns",
-          "nametag": "wsx.io",
-          "state": 1,
-          "proof_url": "https://keybase.io/wsx/sigchain#d900fc1f5d362991838ed179a6d7508b2ca7a888550f1c65b52f2bb1b6eb9c2f0f",
-          "sig_id": "d900fc1f5d362991838ed179a6d7508b2ca7a888550f1c65b52f2bb1b6eb9c2f0f",
-          "proof_id": "fdcbc81fdaccf892efac8710",
-          "human_url": "dns://wsx.io",
-          "service_url": "http://wsx.io",
-          "presentation_group": "wsx.io",
-          "presentation_tag": "dns"
-        }
       ]
     },
     "by_presentation_group": {
@@ -137,20 +124,6 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
-      ],
-      "wsx.io": [
-        {
-          "proof_type": "dns",
-          "nametag": "wsx.io",
-          "state": 1,
-          "proof_url": "https://keybase.io/wsx/sigchain#d900fc1f5d362991838ed179a6d7508b2ca7a888550f1c65b52f2bb1b6eb9c2f0f",
-          "sig_id": "d900fc1f5d362991838ed179a6d7508b2ca7a888550f1c65b52f2bb1b6eb9c2f0f",
-          "proof_id": "fdcbc81fdaccf892efac8710",
-          "human_url": "dns://wsx.io",
-          "service_url": "http://wsx.io",
-          "presentation_group": "wsx.io",
-          "presentation_tag": "dns"
-        }
       ]
     },
     "all": [
@@ -177,25 +150,13 @@
         "service_url": "https://github.com/wsxarcher",
         "presentation_group": "github",
         "presentation_tag": "gist"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "wsx.io",
-        "state": 1,
-        "proof_url": "https://keybase.io/wsx/sigchain#d900fc1f5d362991838ed179a6d7508b2ca7a888550f1c65b52f2bb1b6eb9c2f0f",
-        "sig_id": "d900fc1f5d362991838ed179a6d7508b2ca7a888550f1c65b52f2bb1b6eb9c2f0f",
-        "proof_id": "fdcbc81fdaccf892efac8710",
-        "human_url": "dns://wsx.io",
-        "service_url": "http://wsx.io",
-        "presentation_group": "wsx.io",
-        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/08ca9a5a50926eb943eecc2cf1b29105_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/cb574b357f4f8e26939a2ec4be685705_360_360_square_360.png",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -209,25 +170,6 @@
     }
   },
   "devices": {
-    "9e647763e3713c8a7d200e313d24d018": {
-      "type": "desktop",
-      "ctime": 1455067412,
-      "mtime": 1455067412,
-      "name": "sky",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120a2dde718ab8462abd21eeff9a156987ab574a66a350d9507d178e2b4a276f1fb0a",
-          "key_role": 1,
-          "sig_id": "86689c692c4d134f5164f71fb59a553b38eff07200030e2dcdac1193eea108960f"
-        },
-        {
-          "kid": "0121666c3e448a27d9a06175f3549733cbd303a64ea780480483c7ceb0bfd823780c0a",
-          "key_role": 2,
-          "sig_id": "8b4a383549952dcddc1c2fb541dbb783d685b8d0d2e159505a030532f9f4008a0f"
-        }
-      ]
-    },
     "ea0691cfcd8e8a2b4408b3fc15c1ee18": {
       "type": "backup",
       "ctime": 1455067413,
@@ -244,6 +186,25 @@
           "kid": "012166a33331745ac486268188a8b0e8c7eb9fbb1aef586c3cab9f835f3a7409cf490a",
           "key_role": 2,
           "sig_id": "641eaa404f2f1e7b9a45794be58e3fb2a6b13381677f7d381fec29923577c1fc0f"
+        }
+      ]
+    },
+    "9e647763e3713c8a7d200e313d24d018": {
+      "type": "desktop",
+      "ctime": 1455067412,
+      "mtime": 1455067412,
+      "name": "sky",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a2dde718ab8462abd21eeff9a156987ab574a66a350d9507d178e2b4a276f1fb0a",
+          "key_role": 1,
+          "sig_id": "86689c692c4d134f5164f71fb59a553b38eff07200030e2dcdac1193eea108960f"
+        },
+        {
+          "kid": "0121666c3e448a27d9a06175f3549733cbd303a64ea780480483c7ceb0bfd823780c0a",
+          "key_role": 2,
+          "sig_id": "8b4a383549952dcddc1c2fb541dbb783d685b8d0d2e159505a030532f9f4008a0f"
         }
       ]
     }
