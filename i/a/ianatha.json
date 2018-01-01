@@ -4,13 +4,14 @@
     "username": "ianatha",
     "ctime": 1452735398,
     "mtime": 1452735398,
-    "id_version": 30,
-    "track_version": 9,
-    "last_id_change": 1476626208,
-    "username_cased": "ianatha"
+    "id_version": 67,
+    "track_version": 13,
+    "last_id_change": 1506303507,
+    "username_cased": "ianatha",
+    "status": 0
   },
   "profile": {
-    "mtime": 1463621985,
+    "mtime": 1463625585,
     "full_name": "Ian Atha",
     "location": null,
     "bio": null
@@ -38,16 +39,20 @@
       "01208722d048c552151a3cf77617d5cd9e35c79b83d58166a3b941b8d27bcdf614370a",
       "0121931ee771ae08ae4688ca867536d0933faf6541d7f2492188e012bccd3984e67e0a",
       "0121ffb0659dc98aab665a911bb2d677178241acec745bc9459de9588b7a5be3a5780a",
-      "0120c73a4cb14a56d9ba40ca57701b8cda11fa75a688d93d2aeac64121bb977d64d40a"
+      "0120c73a4cb14a56d9ba40ca57701b8cda11fa75a688d93d2aeac64121bb977d64d40a",
+      "01209fca040eeae55f90b9eec7752e6631b4e4018e7dea8633421354ab91a16c73b20a",
+      "0121a32f1df09de728f9bfa94d67e718ecb51cabd547b9f84127fde80d86b79ed7420a"
     ],
     "subkeys": [
       "0121931ee771ae08ae4688ca867536d0933faf6541d7f2492188e012bccd3984e67e0a",
-      "0121ffb0659dc98aab665a911bb2d677178241acec745bc9459de9588b7a5be3a5780a"
+      "0121ffb0659dc98aab665a911bb2d677178241acec745bc9459de9588b7a5be3a5780a",
+      "0121a32f1df09de728f9bfa94d67e718ecb51cabd547b9f84127fde80d86b79ed7420a"
     ],
     "sibkeys": [
       "01010b059fd4a3e2a705d1b47b7e962d05c220ce85e4d12ca93791180451d01459bd0a",
       "01208722d048c552151a3cf77617d5cd9e35c79b83d58166a3b941b8d27bcdf614370a",
-      "0120c73a4cb14a56d9ba40ca57701b8cda11fa75a688d93d2aeac64121bb977d64d40a"
+      "0120c73a4cb14a56d9ba40ca57701b8cda11fa75a688d93d2aeac64121bb977d64d40a",
+      "01209fca040eeae55f90b9eec7752e6631b4e4018e7dea8633421354ab91a16c73b20a"
     ],
     "families": {
       "01010b059fd4a3e2a705d1b47b7e962d05c220ce85e4d12ca93791180451d01459bd0a": [
@@ -55,7 +60,9 @@
         "01208722d048c552151a3cf77617d5cd9e35c79b83d58166a3b941b8d27bcdf614370a",
         "0121931ee771ae08ae4688ca867536d0933faf6541d7f2492188e012bccd3984e67e0a",
         "0121ffb0659dc98aab665a911bb2d677178241acec745bc9459de9588b7a5be3a5780a",
-        "0120c73a4cb14a56d9ba40ca57701b8cda11fa75a688d93d2aeac64121bb977d64d40a"
+        "0120c73a4cb14a56d9ba40ca57701b8cda11fa75a688d93d2aeac64121bb977d64d40a",
+        "01209fca040eeae55f90b9eec7752e6631b4e4018e7dea8633421354ab91a16c73b20a",
+        "0121a32f1df09de728f9bfa94d67e718ecb51cabd547b9f84127fde80d86b79ed7420a"
       ]
     },
     "eldest_kid": "01010b059fd4a3e2a705d1b47b7e962d05c220ce85e4d12ca93791180451d01459bd0a",
@@ -66,20 +73,6 @@
   },
   "proofs_summary": {
     "by_proof_type": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "ianatha",
-          "state": 1,
-          "proof_url": "https://twitter.com/ianatha/status/687448997091348480",
-          "sig_id": "0e891b6e8d2cd238dd5d3aae978f3eca7500e9cb8368262e20ec9a1b2981336f0f",
-          "proof_id": "f33746dad14ac2a9b7ef2710",
-          "human_url": "https://twitter.com/ianatha/status/687448997091348480",
-          "service_url": "https://twitter.com/ianatha",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -120,24 +113,34 @@
           "service_url": "https://atha.io",
           "presentation_group": "atha.io",
           "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "wolf.cat",
+          "state": 1,
+          "proof_url": "https://wolf.cat/.well-known/keybase.txt",
+          "sig_id": "fb065990edf87c38d3728cdac3af62de7d2108d51403d160f1b997921a3100470f",
+          "proof_id": "a94047699249dfee414f1610",
+          "human_url": "https://wolf.cat/.well-known/keybase.txt",
+          "service_url": "https://wolf.cat",
+          "presentation_group": "wolf.cat",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ianatha.com",
+          "state": 1,
+          "proof_url": "http://ianatha.com/.well-known/keybase.txt",
+          "sig_id": "aa4d00f6ae9dc89558d6e00c0b9694cc69147eaa3288eaff910a1b6ecbf34a370f",
+          "proof_id": "877471d0a046c8832b1c5d10",
+          "human_url": "http://ianatha.com/.well-known/keybase.txt",
+          "service_url": "http://ianatha.com",
+          "presentation_group": "ianatha.com",
+          "presentation_tag": "http"
         }
       ]
     },
     "by_presentation_group": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "ianatha",
-          "state": 1,
-          "proof_url": "https://twitter.com/ianatha/status/687448997091348480",
-          "sig_id": "0e891b6e8d2cd238dd5d3aae978f3eca7500e9cb8368262e20ec9a1b2981336f0f",
-          "proof_id": "f33746dad14ac2a9b7ef2710",
-          "human_url": "https://twitter.com/ianatha/status/687448997091348480",
-          "service_url": "https://twitter.com/ianatha",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -166,6 +169,20 @@
           "presentation_tag": "profile"
         }
       ],
+      "ianatha.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "ianatha.com",
+          "state": 1,
+          "proof_url": "http://ianatha.com/.well-known/keybase.txt",
+          "sig_id": "aa4d00f6ae9dc89558d6e00c0b9694cc69147eaa3288eaff910a1b6ecbf34a370f",
+          "proof_id": "877471d0a046c8832b1c5d10",
+          "human_url": "http://ianatha.com/.well-known/keybase.txt",
+          "service_url": "http://ianatha.com",
+          "presentation_group": "ianatha.com",
+          "presentation_tag": "http"
+        }
+      ],
       "atha.io": [
         {
           "proof_type": "generic_web_site",
@@ -179,21 +196,23 @@
           "presentation_group": "atha.io",
           "presentation_tag": "https"
         }
+      ],
+      "wolf.cat": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "wolf.cat",
+          "state": 1,
+          "proof_url": "https://wolf.cat/.well-known/keybase.txt",
+          "sig_id": "fb065990edf87c38d3728cdac3af62de7d2108d51403d160f1b997921a3100470f",
+          "proof_id": "a94047699249dfee414f1610",
+          "human_url": "https://wolf.cat/.well-known/keybase.txt",
+          "service_url": "https://wolf.cat",
+          "presentation_group": "wolf.cat",
+          "presentation_tag": "https"
+        }
       ]
     },
     "all": [
-      {
-        "proof_type": "twitter",
-        "nametag": "ianatha",
-        "state": 1,
-        "proof_url": "https://twitter.com/ianatha/status/687448997091348480",
-        "sig_id": "0e891b6e8d2cd238dd5d3aae978f3eca7500e9cb8368262e20ec9a1b2981336f0f",
-        "proof_id": "f33746dad14ac2a9b7ef2710",
-        "human_url": "https://twitter.com/ianatha/status/687448997091348480",
-        "service_url": "https://twitter.com/ianatha",
-        "presentation_group": "twitter",
-        "presentation_tag": "tweet"
-      },
       {
         "proof_type": "github",
         "nametag": "ianatha",
@@ -220,6 +239,18 @@
       },
       {
         "proof_type": "generic_web_site",
+        "nametag": "ianatha.com",
+        "state": 1,
+        "proof_url": "http://ianatha.com/.well-known/keybase.txt",
+        "sig_id": "aa4d00f6ae9dc89558d6e00c0b9694cc69147eaa3288eaff910a1b6ecbf34a370f",
+        "proof_id": "877471d0a046c8832b1c5d10",
+        "human_url": "http://ianatha.com/.well-known/keybase.txt",
+        "service_url": "http://ianatha.com",
+        "presentation_group": "ianatha.com",
+        "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
         "nametag": "atha.io",
         "state": 1,
         "proof_url": "https://atha.io/.well-known/keybase.txt",
@@ -229,30 +260,68 @@
         "service_url": "https://atha.io",
         "presentation_group": "atha.io",
         "presentation_tag": "https"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "wolf.cat",
+        "state": 1,
+        "proof_url": "https://wolf.cat/.well-known/keybase.txt",
+        "sig_id": "fb065990edf87c38d3728cdac3af62de7d2108d51403d160f1b997921a3100470f",
+        "proof_id": "a94047699249dfee414f1610",
+        "human_url": "https://wolf.cat/.well-known/keybase.txt",
+        "service_url": "https://wolf.cat",
+        "presentation_group": "wolf.cat",
+        "presentation_tag": "https"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "17H92Uz3bQ3oDULwxXTzyj7PZMevLVQHdh",
+        "sig_id": "3ece5aa7eb1c9c431f9bdb41c9da18e14b71a043649a916841e565f7d66baedd0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/a94ac8a9b346dee5904fde0d218f9605_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/3d831ecfa66815d547fb9d371a411d05_360_360.png",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "91587349b7e73e9b7dae4799ce3a2a9418df929d25710ab69a723091e9cd1e960f",
-      "seqno": 19,
-      "payload_hash": "fb698412f22f6d662b2a720caeac09f680b25e272917571d016e3c94f4b40bfb"
+      "sig_id": "2fe8eaa76e90dd19e8cc5e64b91bfe9fb1ebc0281031aa0541cfe023863d42480f",
+      "seqno": 31,
+      "payload_hash": "24a5dd95c8eef24317a3ca568367c8782c492866efe2641ec278f49e68b3f2bb"
     }
   },
   "devices": {
+    "0345fe0187e0669edea8272925f0b918": {
+      "type": "mobile",
+      "ctime": 1497056725,
+      "mtime": 1497056725,
+      "name": "divine-jimmy",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209fca040eeae55f90b9eec7752e6631b4e4018e7dea8633421354ab91a16c73b20a",
+          "key_role": 1,
+          "sig_id": "38d6c21aa92db210e60930eb1cc35fc39c4949d10ba39a8199333473086827100f"
+        },
+        {
+          "kid": "0121a32f1df09de728f9bfa94d67e718ecb51cabd547b9f84127fde80d86b79ed7420a",
+          "key_role": 2,
+          "sig_id": "16b81f64866644bbec1c5dcb9a00906526b4d13211872da99b79b8dfd71766470f"
+        }
+      ]
+    },
     "a5988d04f90bc545f47ffb1d26670e18": {
       "type": "backup",
-      "ctime": 1463621750,
-      "mtime": 1463621750,
+      "ctime": 1463625350,
+      "mtime": 1463625350,
       "name": "demand goose",
       "status": 1,
       "keys": [
@@ -270,8 +339,8 @@
     },
     "ecd3343be13f93d5b6a23a2abd920b18": {
       "type": "desktop",
-      "ctime": 1463621750,
-      "mtime": 1463621750,
+      "ctime": 1463625350,
+      "mtime": 1463625350,
       "name": "enlightened-winnie",
       "status": 1,
       "keys": [
