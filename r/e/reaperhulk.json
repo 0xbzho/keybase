@@ -4,10 +4,11 @@
     "username": "reaperhulk",
     "ctime": 1394143970,
     "mtime": 1394143970,
-    "id_version": 27,
+    "id_version": 28,
     "track_version": 19,
-    "last_id_change": 1465067133,
-    "username_cased": "reaperhulk"
+    "last_id_change": 1494986140,
+    "username_cased": "reaperhulk",
+    "status": 0
   },
   "profile": {
     "mtime": 1394202312,
@@ -38,16 +39,20 @@
       "012033a9d7d7fbefbc577cb3d315f00fd84a462f0bd2ef5c10acc3638d17aa7a65c10a",
       "0121454148dc526ea7f905ea54944946d5e48c1ccad5a6e411f0d6211eae016a55220a",
       "0121a6f654f9b30418713db10f3b703ab30a204927a55d9d01155f22641c281d08220a",
-      "0120c604aefcb6192118693f797841efb5c08d58af036b507bda534db657cd54724d0a"
+      "0120c604aefcb6192118693f797841efb5c08d58af036b507bda534db657cd54724d0a",
+      "012152eb678c4c4a76dfbf1fca5cc8e289621a9147c0f4b2e696f0a55a725446f5470a",
+      "0120e617a85e7656d9f478f53253c64ae9ed1f45e9d7e93c116ece828de03eeecec60a"
     ],
     "subkeys": [
       "0121454148dc526ea7f905ea54944946d5e48c1ccad5a6e411f0d6211eae016a55220a",
-      "0121a6f654f9b30418713db10f3b703ab30a204927a55d9d01155f22641c281d08220a"
+      "0121a6f654f9b30418713db10f3b703ab30a204927a55d9d01155f22641c281d08220a",
+      "012152eb678c4c4a76dfbf1fca5cc8e289621a9147c0f4b2e696f0a55a725446f5470a"
     ],
     "sibkeys": [
       "0101b33a8ff92a75232d20867e9a79fe63d7126f7c830d36d4af17e6299ff4f336310a",
       "012033a9d7d7fbefbc577cb3d315f00fd84a462f0bd2ef5c10acc3638d17aa7a65c10a",
-      "0120c604aefcb6192118693f797841efb5c08d58af036b507bda534db657cd54724d0a"
+      "0120c604aefcb6192118693f797841efb5c08d58af036b507bda534db657cd54724d0a",
+      "0120e617a85e7656d9f478f53253c64ae9ed1f45e9d7e93c116ece828de03eeecec60a"
     ],
     "families": {
       "0101b33a8ff92a75232d20867e9a79fe63d7126f7c830d36d4af17e6299ff4f336310a": [
@@ -55,7 +60,9 @@
         "012033a9d7d7fbefbc577cb3d315f00fd84a462f0bd2ef5c10acc3638d17aa7a65c10a",
         "0121454148dc526ea7f905ea54944946d5e48c1ccad5a6e411f0d6211eae016a55220a",
         "0121a6f654f9b30418713db10f3b703ab30a204927a55d9d01155f22641c281d08220a",
-        "0120c604aefcb6192118693f797841efb5c08d58af036b507bda534db657cd54724d0a"
+        "0120c604aefcb6192118693f797841efb5c08d58af036b507bda534db657cd54724d0a",
+        "012152eb678c4c4a76dfbf1fca5cc8e289621a9147c0f4b2e696f0a55a725446f5470a",
+        "0120e617a85e7656d9f478f53253c64ae9ed1f45e9d7e93c116ece828de03eeecec60a"
       ]
     },
     "eldest_kid": "0101b33a8ff92a75232d20867e9a79fe63d7126f7c830d36d4af17e6299ff4f336310a",
@@ -203,16 +210,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b54db75659b20749ead4bc94fa86e8bf9099590ad6afc413934001adae7478d30f",
-      "seqno": 29,
-      "payload_hash": "0adcb110b0d5d6c8ba5e799890f44102e2548a0e4ff4fb45e968692c354cd703"
+      "sig_id": "333bebff2ef4da7a96142989635b6caa311e22d08c3c52e2c24128216dc902ff0f",
+      "seqno": 31,
+      "payload_hash": "8b3bcd04ddb5d2204faa1ad2c5434ccda13d191e2fc33a7cd5be1784d2c361b5"
     }
   },
   "devices": {
+    "25627a2bdea39b1ed1f0346129431018": {
+      "type": "desktop",
+      "ctime": 1494986140,
+      "mtime": 1494986140,
+      "name": "fenrir",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120e617a85e7656d9f478f53253c64ae9ed1f45e9d7e93c116ece828de03eeecec60a",
+          "key_role": 1,
+          "sig_id": "723bc0203bd3ee4be90c0482e0e48e12a6a3abc503b8e9b4665d3060fb8351350f"
+        },
+        {
+          "kid": "012152eb678c4c4a76dfbf1fca5cc8e289621a9147c0f4b2e696f0a55a725446f5470a",
+          "key_role": 2,
+          "sig_id": "333bebff2ef4da7a96142989635b6caa311e22d08c3c52e2c24128216dc902ff0f"
+        }
+      ]
+    },
     "51235d48d271279a5f903e8b0bb57418": {
       "type": "backup",
-      "ctime": 1465067133,
-      "mtime": 1465067133,
+      "ctime": 1465070733,
+      "mtime": 1465070733,
       "name": "initial tuition",
       "status": 1,
       "keys": [
@@ -230,8 +256,8 @@
     },
     "6098d57240853de66f2f511804266418": {
       "type": "desktop",
-      "ctime": 1465067133,
-      "mtime": 1465067133,
+      "ctime": 1465070733,
+      "mtime": 1465070733,
       "name": "atlas",
       "status": 1,
       "keys": [
