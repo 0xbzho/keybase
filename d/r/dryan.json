@@ -2,12 +2,13 @@
   "id": "319be935d854080c75c29cefd3c55c00",
   "basics": {
     "username": "dryan",
-    "ctime": 1395883591,
-    "mtime": 1395883591,
-    "id_version": 192,
-    "track_version": 34,
-    "last_id_change": 1477055409,
-    "username_cased": "dryan"
+    "ctime": 1395887191,
+    "mtime": 1395887191,
+    "id_version": 210,
+    "track_version": 36,
+    "last_id_change": 1512694601,
+    "username_cased": "dryan",
+    "status": 0
   },
   "profile": {
     "mtime": 1456161412,
@@ -39,16 +40,18 @@
       "012133c5235d54f41689debb72090d65491feb3b87e7ee86a126cf65bbf42cc9d9410a",
       "0120c6670dada8a5706243e5cc389cbcf220d1f39387f92a4ddc451d63902dc00c240a",
       "012013c0c7b6880aec245ed96c00283715f89b6105cdd3e3128a933c61d0000e8e7c0a",
-      "012197204be965595d02776c345a07325c3d04fcd15266ace4030153b918ca5cc57a0a"
+      "012197204be965595d02776c345a07325c3d04fcd15266ace4030153b918ca5cc57a0a",
+      "01211fce63c7e8068da572544dd65c4e0a79c5eba62fccfc62ccf99052d593542c2b0a",
+      "01200c9e9070bfe8085e4ecfc6632e78419e4cc2d00ce260e79e3163966bfdb0c8a70a"
     ],
     "subkeys": [
-      "012133c5235d54f41689debb72090d65491feb3b87e7ee86a126cf65bbf42cc9d9410a",
-      "012197204be965595d02776c345a07325c3d04fcd15266ace4030153b918ca5cc57a0a"
+      "012197204be965595d02776c345a07325c3d04fcd15266ace4030153b918ca5cc57a0a",
+      "01211fce63c7e8068da572544dd65c4e0a79c5eba62fccfc62ccf99052d593542c2b0a"
     ],
     "sibkeys": [
       "0101bb73ddfb9b3c8cc0fbbac384ecc73ec5f8d3133d17cc1eef9d8729deb54ea7270a",
-      "0120c6670dada8a5706243e5cc389cbcf220d1f39387f92a4ddc451d63902dc00c240a",
-      "012013c0c7b6880aec245ed96c00283715f89b6105cdd3e3128a933c61d0000e8e7c0a"
+      "012013c0c7b6880aec245ed96c00283715f89b6105cdd3e3128a933c61d0000e8e7c0a",
+      "01200c9e9070bfe8085e4ecfc6632e78419e4cc2d00ce260e79e3163966bfdb0c8a70a"
     ],
     "families": {
       "0101a8ef8864679e27d159e587b80a3342cf6f90f97652b649e992b41c51ec37aa320a": [
@@ -59,7 +62,9 @@
         "012133c5235d54f41689debb72090d65491feb3b87e7ee86a126cf65bbf42cc9d9410a",
         "0120c6670dada8a5706243e5cc389cbcf220d1f39387f92a4ddc451d63902dc00c240a",
         "012013c0c7b6880aec245ed96c00283715f89b6105cdd3e3128a933c61d0000e8e7c0a",
-        "012197204be965595d02776c345a07325c3d04fcd15266ace4030153b918ca5cc57a0a"
+        "012197204be965595d02776c345a07325c3d04fcd15266ace4030153b918ca5cc57a0a",
+        "01211fce63c7e8068da572544dd65c4e0a79c5eba62fccfc62ccf99052d593542c2b0a",
+        "01200c9e9070bfe8085e4ecfc6632e78419e4cc2d00ce260e79e3163966bfdb0c8a70a"
       ]
     },
     "eldest_kid": "0101bb73ddfb9b3c8cc0fbbac384ecc73ec5f8d3133d17cc1eef9d8729deb54ea7270a",
@@ -112,20 +117,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "dryan",
-          "state": 1,
-          "proof_url": "https://coinbase.com/dryan/public-key",
-          "sig_id": "271c2b567223ce5762d12a526f43ab26f3de4c8b9111e26e213738b49dda01e80f",
-          "proof_id": "9580b72dbb4f03a0ca484b10",
-          "human_url": "https://coinbase.com/dryan/public-key",
-          "service_url": "https://coinbase.com/dryan",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -155,18 +146,6 @@
         }
       ],
       "dns": [
-        {
-          "proof_type": "dns",
-          "nametag": "ryan.family",
-          "state": 1,
-          "proof_url": "https://keybase.io/dryan/sigchain#808d5aaf3ec4e73a24dbd091f95decaf47e9c5aabeeec1a41d2593d3c4ad7bb60f",
-          "sig_id": "808d5aaf3ec4e73a24dbd091f95decaf47e9c5aabeeec1a41d2593d3c4ad7bb60f",
-          "proof_id": "144b57bcdf608c91e6440210",
-          "human_url": "dns://ryan.family",
-          "service_url": "http://ryan.family",
-          "presentation_group": "ryan.family",
-          "presentation_tag": "dns"
-        },
         {
           "proof_type": "dns",
           "nametag": "attack.watch",
@@ -260,20 +239,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "dryan",
-          "state": 1,
-          "proof_url": "https://coinbase.com/dryan/public-key",
-          "sig_id": "271c2b567223ce5762d12a526f43ab26f3de4c8b9111e26e213738b49dda01e80f",
-          "proof_id": "9580b72dbb4f03a0ca484b10",
-          "human_url": "https://coinbase.com/dryan/public-key",
-          "service_url": "https://coinbase.com/dryan",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -311,20 +276,6 @@
           "human_url": "dns://dryan.com",
           "service_url": "http://dryan.com",
           "presentation_group": "dryan.com",
-          "presentation_tag": "dns"
-        }
-      ],
-      "ryan.family": [
-        {
-          "proof_type": "dns",
-          "nametag": "ryan.family",
-          "state": 1,
-          "proof_url": "https://keybase.io/dryan/sigchain#808d5aaf3ec4e73a24dbd091f95decaf47e9c5aabeeec1a41d2593d3c4ad7bb60f",
-          "sig_id": "808d5aaf3ec4e73a24dbd091f95decaf47e9c5aabeeec1a41d2593d3c4ad7bb60f",
-          "proof_id": "144b57bcdf608c91e6440210",
-          "human_url": "dns://ryan.family",
-          "service_url": "http://ryan.family",
-          "presentation_group": "ryan.family",
           "presentation_tag": "dns"
         }
       ],
@@ -385,16 +336,16 @@
         "presentation_tag": "tweet"
       },
       {
-        "proof_type": "dns",
-        "nametag": "dryan.com",
+        "proof_type": "github",
+        "nametag": "dryan",
         "state": 1,
-        "proof_url": "https://keybase.io/dryan/sigchain#6e003e64acedbcb133eaa5b97b54d6b61be700cf3f181413d8ad2e30d501d4290f",
-        "sig_id": "6e003e64acedbcb133eaa5b97b54d6b61be700cf3f181413d8ad2e30d501d4290f",
-        "proof_id": "fffcfbd099db6035eca58010",
-        "human_url": "dns://dryan.com",
-        "service_url": "http://dryan.com",
-        "presentation_group": "dryan.com",
-        "presentation_tag": "dns"
+        "proof_url": "https://gist.github.com/36b04776cf8c6eb19170",
+        "sig_id": "753bb0531e8a40b3b58acba66d65ffdc8f15a67b7db405a68f7ea8bdd7add4070f",
+        "proof_id": "7bca01eeb058a41bccb51e10",
+        "human_url": "https://gist.github.com/36b04776cf8c6eb19170",
+        "service_url": "https://github.com/dryan",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
       },
       {
         "proof_type": "reddit",
@@ -409,18 +360,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "dryan",
-        "state": 1,
-        "proof_url": "https://coinbase.com/dryan/public-key",
-        "sig_id": "271c2b567223ce5762d12a526f43ab26f3de4c8b9111e26e213738b49dda01e80f",
-        "proof_id": "9580b72dbb4f03a0ca484b10",
-        "human_url": "https://coinbase.com/dryan/public-key",
-        "service_url": "https://coinbase.com/dryan",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "d_ryan",
         "state": 1,
@@ -431,30 +370,6 @@
         "service_url": "https://news.ycombinator.com/user?id=d_ryan",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
-      },
-      {
-        "proof_type": "github",
-        "nametag": "dryan",
-        "state": 1,
-        "proof_url": "https://gist.github.com/36b04776cf8c6eb19170",
-        "sig_id": "753bb0531e8a40b3b58acba66d65ffdc8f15a67b7db405a68f7ea8bdd7add4070f",
-        "proof_id": "7bca01eeb058a41bccb51e10",
-        "human_url": "https://gist.github.com/36b04776cf8c6eb19170",
-        "service_url": "https://github.com/dryan",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "ryan.family",
-        "state": 1,
-        "proof_url": "https://keybase.io/dryan/sigchain#808d5aaf3ec4e73a24dbd091f95decaf47e9c5aabeeec1a41d2593d3c4ad7bb60f",
-        "sig_id": "808d5aaf3ec4e73a24dbd091f95decaf47e9c5aabeeec1a41d2593d3c4ad7bb60f",
-        "proof_id": "144b57bcdf608c91e6440210",
-        "human_url": "dns://ryan.family",
-        "service_url": "http://ryan.family",
-        "presentation_group": "ryan.family",
-        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -493,6 +408,18 @@
         "presentation_tag": "dns"
       },
       {
+        "proof_type": "dns",
+        "nametag": "dryan.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/dryan/sigchain#6e003e64acedbcb133eaa5b97b54d6b61be700cf3f181413d8ad2e30d501d4290f",
+        "sig_id": "6e003e64acedbcb133eaa5b97b54d6b61be700cf3f181413d8ad2e30d501d4290f",
+        "proof_id": "fffcfbd099db6035eca58010",
+        "human_url": "dns://dryan.com",
+        "service_url": "http://dryan.com",
+        "presentation_group": "dryan.com",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "dryan.com",
         "state": 1,
@@ -509,7 +436,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/547f5a675a0561537fd00345edf16205_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f5fd48325f080dd5a3dde3daf783e205_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -517,28 +444,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d510652c36a6d78f9c8e6490075920bcf406d1ce1f7b7ef883f40349614ad67e0f",
-      "seqno": 79,
-      "payload_hash": "94d36b4d96608892ce6a8a2084b7a6b0aa3eedf7ced830c5ba6a7658544829bb"
+      "sig_id": "84f69bb274db301c256b4e55314f0a594de07d0f26fc8101eafe99d6df6322bc0f",
+      "seqno": 86,
+      "payload_hash": "e56a0f2f2e4aa5a6459e11d55d59ab8ee939c4c8665a954387ef722f76221134"
     }
   },
   "devices": {
-    "0d6b821599a4be934df23ebe4e00bc18": {
+    "8ba10e846202d85e86b870cc6340ce18": {
       "type": "desktop",
-      "ctime": 1456161442,
-      "mtime": 1456161442,
-      "name": "macbook-pro",
+      "ctime": 1481322709,
+      "mtime": 1481322709,
+      "name": "mbp",
       "status": 1,
       "keys": [
         {
-          "kid": "0120c6670dada8a5706243e5cc389cbcf220d1f39387f92a4ddc451d63902dc00c240a",
+          "kid": "01200c9e9070bfe8085e4ecfc6632e78419e4cc2d00ce260e79e3163966bfdb0c8a70a",
           "key_role": 1,
-          "sig_id": "93d9a2e59026c3b7c5eaf7bbc74a220f217118d11706a274694efd2d2e1814700f"
+          "sig_id": "4e1b9703a4eacac0df40b54a50b1f229e831e8938b7cdb872b5ee086535977000f"
         },
         {
-          "kid": "012133c5235d54f41689debb72090d65491feb3b87e7ee86a126cf65bbf42cc9d9410a",
+          "kid": "01211fce63c7e8068da572544dd65c4e0a79c5eba62fccfc62ccf99052d593542c2b0a",
           "key_role": 2,
-          "sig_id": "f58202cc7f0c494857579926ce97275f195bd8ef34143b4bf09ff97e406973120f"
+          "sig_id": "a930232788aa3d39d48df96b93e7c107d2e7e7a6a7f7ef6459b5763283b894b50f"
         }
       ]
     },
