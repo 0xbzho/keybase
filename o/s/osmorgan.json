@@ -1,0 +1,93 @@
+{
+  "id": "d1c5c4e4e924266e7c4da4426b961d19",
+  "basics": {
+    "username": "osmorgan",
+    "ctime": 1491236347,
+    "mtime": 1491236347,
+    "id_version": 2,
+    "track_version": 9,
+    "last_id_change": 1491236397,
+    "username_cased": "osmorgan",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121b06c452565f1044246f486843d506c39b7366357f520fc786bd55e4fd64d74650a",
+      "012049b979d37cea2c796a9ffb84108d5f99e1e07599b236d34a4dab3cad6af95abf0a",
+      "01219b3194bf2ef8f856fd6921fb3c4987bb5346b62132f130b79d837a3504a9e2320a",
+      "0120ad96731bd8e922127860671e679cd7e00fb02c8314cf922e39ac3bdde7beaa0d0a"
+    ],
+    "subkeys": [
+      "0121b06c452565f1044246f486843d506c39b7366357f520fc786bd55e4fd64d74650a",
+      "01219b3194bf2ef8f856fd6921fb3c4987bb5346b62132f130b79d837a3504a9e2320a"
+    ],
+    "sibkeys": [
+      "012049b979d37cea2c796a9ffb84108d5f99e1e07599b236d34a4dab3cad6af95abf0a",
+      "0120ad96731bd8e922127860671e679cd7e00fb02c8314cf922e39ac3bdde7beaa0d0a"
+    ],
+    "families": {
+      "012049b979d37cea2c796a9ffb84108d5f99e1e07599b236d34a4dab3cad6af95abf0a": [
+        "0121b06c452565f1044246f486843d506c39b7366357f520fc786bd55e4fd64d74650a",
+        "012049b979d37cea2c796a9ffb84108d5f99e1e07599b236d34a4dab3cad6af95abf0a",
+        "01219b3194bf2ef8f856fd6921fb3c4987bb5346b62132f130b79d837a3504a9e2320a",
+        "0120ad96731bd8e922127860671e679cd7e00fb02c8314cf922e39ac3bdde7beaa0d0a"
+      ]
+    },
+    "eldest_kid": "012049b979d37cea2c796a9ffb84108d5f99e1e07599b236d34a4dab3cad6af95abf0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "0c21d4015de96cb6b58ed961a1fe5558c9f76fa7fb102393882e23c8b16c4ce50f",
+      "seqno": 14,
+      "payload_hash": "1cd895d8c5f782f438e58873fde05d92862f93cf5ddc215ef0239f123da23f52"
+    }
+  },
+  "devices": {
+    "8b09f0f68b03b45699849e2609f13518": {
+      "type": "backup",
+      "ctime": 1491236397,
+      "mtime": 1491236397,
+      "name": "cram rent",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ad96731bd8e922127860671e679cd7e00fb02c8314cf922e39ac3bdde7beaa0d0a",
+          "key_role": 1,
+          "sig_id": "e64bc182fbf7e575588c699f0fa31541125cab26608725e024838ce67989a6cd0f"
+        },
+        {
+          "kid": "01219b3194bf2ef8f856fd6921fb3c4987bb5346b62132f130b79d837a3504a9e2320a",
+          "key_role": 2,
+          "sig_id": "0571e45b85ebad46c87c74e22a76cd3dffef52d1680ad592a3334b3e9dc7ccea0f"
+        }
+      ]
+    },
+    "d28bf406151693d7a86262ab4bd0b618": {
+      "type": "desktop",
+      "ctime": 1491236396,
+      "mtime": 1491236396,
+      "name": "mac",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012049b979d37cea2c796a9ffb84108d5f99e1e07599b236d34a4dab3cad6af95abf0a",
+          "key_role": 1,
+          "sig_id": "40b15519d5714161274a6b43c3fc0993dc352021c4278b8172a045cce02c46380f"
+        },
+        {
+          "kid": "0121b06c452565f1044246f486843d506c39b7366357f520fc786bd55e4fd64d74650a",
+          "key_role": 2,
+          "sig_id": "d3618360d6bfc6be67986d3b5f989dec4f29406a3838daddf012f448ff4cf4180f"
+        }
+      ]
+    }
+  }
+}
