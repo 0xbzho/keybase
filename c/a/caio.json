@@ -2,15 +2,16 @@
   "id": "85b973f168941b967c0c90b18b0bdd00",
   "basics": {
     "username": "caio",
-    "ctime": 1394705539,
-    "mtime": 1394705539,
-    "id_version": 28,
+    "ctime": 1394709139,
+    "mtime": 1394709139,
+    "id_version": 29,
     "track_version": 5,
-    "last_id_change": 1465554372,
-    "username_cased": "caio"
+    "last_id_change": 1486726424,
+    "username_cased": "caio",
+    "status": 0
   },
   "profile": {
-    "mtime": 1394705586,
+    "mtime": 1394709186,
     "full_name": "Caio Filipini",
     "location": "Berlin, Germany",
     "bio": "Software developer and musician."
@@ -40,16 +41,18 @@
       "012002edc30590345279c5ea11007869bea0429a2a149082ae87fe10b419302ee6080a",
       "0121bb0b2b2a382e1d2c6db6301c38573e4d6bed32eedfed17552ca2c790e79b76480a",
       "0121780f8a54a86df014687331651e13119f45b11edc921639ed504e6d5c0348e42a0a",
-      "0120e6ca069817b8b6b763dc2bd129fcaef1464e49c80ceb7df8872e4aa9e635649c0a"
+      "0120e6ca069817b8b6b763dc2bd129fcaef1464e49c80ceb7df8872e4aa9e635649c0a",
+      "01215d9da14ec69a9b9e3499c83a762d84598841b85d5360347cbe973537cc20d7290a",
+      "01209ea2071aadb48c48ce1c8b70a83acfc275ae470fb8958c4f348e6c6c77be28ca0a"
     ],
     "subkeys": [
-      "0121bb0b2b2a382e1d2c6db6301c38573e4d6bed32eedfed17552ca2c790e79b76480a",
-      "0121780f8a54a86df014687331651e13119f45b11edc921639ed504e6d5c0348e42a0a"
+      "0121780f8a54a86df014687331651e13119f45b11edc921639ed504e6d5c0348e42a0a",
+      "01215d9da14ec69a9b9e3499c83a762d84598841b85d5360347cbe973537cc20d7290a"
     ],
     "sibkeys": [
       "0101cd7aece53aeac4cdcd7003d5503d659d7c9424b879013e18b00fedeb8f52d4000a",
-      "012002edc30590345279c5ea11007869bea0429a2a149082ae87fe10b419302ee6080a",
-      "0120e6ca069817b8b6b763dc2bd129fcaef1464e49c80ceb7df8872e4aa9e635649c0a"
+      "0120e6ca069817b8b6b763dc2bd129fcaef1464e49c80ceb7df8872e4aa9e635649c0a",
+      "01209ea2071aadb48c48ce1c8b70a83acfc275ae470fb8958c4f348e6c6c77be28ca0a"
     ],
     "families": {
       "0101f179b245325192ed75f849a2caedf5d7ba792811cf7197bb3e317beb77902e850a": [
@@ -63,7 +66,9 @@
         "012002edc30590345279c5ea11007869bea0429a2a149082ae87fe10b419302ee6080a",
         "0121bb0b2b2a382e1d2c6db6301c38573e4d6bed32eedfed17552ca2c790e79b76480a",
         "0121780f8a54a86df014687331651e13119f45b11edc921639ed504e6d5c0348e42a0a",
-        "0120e6ca069817b8b6b763dc2bd129fcaef1464e49c80ceb7df8872e4aa9e635649c0a"
+        "0120e6ca069817b8b6b763dc2bd129fcaef1464e49c80ceb7df8872e4aa9e635649c0a",
+        "01215d9da14ec69a9b9e3499c83a762d84598841b85d5360347cbe973537cc20d7290a",
+        "01209ea2071aadb48c48ce1c8b70a83acfc275ae470fb8958c4f348e6c6c77be28ca0a"
       ]
     },
     "eldest_kid": "0101cd7aece53aeac4cdcd7003d5503d659d7c9424b879013e18b00fedeb8f52d4000a",
@@ -211,12 +216,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "ea3b93a88f43dcc666f7bd5271533e7dbaeebd53e59029ef0bcd8c3f07a6329e0f",
-      "seqno": 17,
-      "payload_hash": "63562c75cadf1346b52f2483b0a525dc6456dde4947a66a245330658d1407a6b"
+      "sig_id": "b66a4ea13da4c9bf53b369eabf65dcdfd3497a7db3d76425699e8866eecc1faf0f",
+      "seqno": 20,
+      "payload_hash": "9cad8dfe6b6abd510d8a91505b28c62a876861edfea6400f41500c51c6d66e0a"
     }
   },
   "devices": {
+    "418eb3bbaa60d535872ca7d8b2b8e718": {
+      "type": "desktop",
+      "ctime": 1486726424,
+      "mtime": 1486726424,
+      "name": "caios-personal-laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209ea2071aadb48c48ce1c8b70a83acfc275ae470fb8958c4f348e6c6c77be28ca0a",
+          "key_role": 1,
+          "sig_id": "846eac60be648b8917280be86ebe6e1a346c2e36b375709fcb837cd41e27a02a0f"
+        },
+        {
+          "kid": "01215d9da14ec69a9b9e3499c83a762d84598841b85d5360347cbe973537cc20d7290a",
+          "key_role": 2,
+          "sig_id": "289477d52713f5a71c1676dc0d0127f110d03ae897a03b0e1b034a53585d89c10f"
+        }
+      ]
+    },
     "83559174c0168f8d68d95d2a25378f18": {
       "type": "backup",
       "ctime": 1454665185,
@@ -233,25 +257,6 @@
           "kid": "0121780f8a54a86df014687331651e13119f45b11edc921639ed504e6d5c0348e42a0a",
           "key_role": 2,
           "sig_id": "79a8ff61beaec636c627b60de32c932e1860f8b10a41738d3ad77dc87a5f5c080f"
-        }
-      ]
-    },
-    "b0f2cee2fb1b5bb43326e7a9cf40ba18": {
-      "type": "desktop",
-      "ctime": 1454665184,
-      "mtime": 1454665184,
-      "name": "work-laptop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012002edc30590345279c5ea11007869bea0429a2a149082ae87fe10b419302ee6080a",
-          "key_role": 1,
-          "sig_id": "94f66ab0e1471829654dad5662e6672399984166ad05b9586ec65d5196fc756f0f"
-        },
-        {
-          "kid": "0121bb0b2b2a382e1d2c6db6301c38573e4d6bed32eedfed17552ca2c790e79b76480a",
-          "key_role": 2,
-          "sig_id": "c5619c311a01a54b4cf554cf1db3b06de35af94a658b1aacdb8243de281055960f"
         }
       ]
     }
