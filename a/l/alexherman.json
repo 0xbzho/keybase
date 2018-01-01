@@ -4,10 +4,11 @@
     "username": "alexherman",
     "ctime": 1420584517,
     "mtime": 1420584517,
-    "id_version": 3,
+    "id_version": 4,
     "track_version": 0,
-    "last_id_change": 1473781444,
-    "username_cased": "alexherman"
+    "last_id_change": 1503946371,
+    "username_cased": "alexherman",
+    "status": 0
   },
   "profile": {
     "mtime": 1420584783,
@@ -38,16 +39,20 @@
       "0121a2cff51072f2f5546b6bac0058ab6b0ec2aaf32dbc67c7cf799ce509ac7b8f030a",
       "01209bbec1c37cae339e30714dd8b9d257803e503614c6838452ea35e1fd759641280a",
       "01210655fe32bfaa240e9b2ffcbdeb1b59240e7dfde5e16fb5a9213d9c05597d26630a",
-      "01208cbd4e2b911386e34eda8c7dd344d142f82dd99c0aec9072acc3e1ca5894191e0a"
+      "01208cbd4e2b911386e34eda8c7dd344d142f82dd99c0aec9072acc3e1ca5894191e0a",
+      "0120ea62b84f9ba1017d1cb4dbf64f840cf25d5e8ab41e52bc14bdf4c0eb35513bb00a",
+      "0121cf87053d9e9c493d5be08f951b2b9aec64c296419bd0bff7c4eca5c53d34d22d0a"
     ],
     "subkeys": [
       "0121a2cff51072f2f5546b6bac0058ab6b0ec2aaf32dbc67c7cf799ce509ac7b8f030a",
-      "01210655fe32bfaa240e9b2ffcbdeb1b59240e7dfde5e16fb5a9213d9c05597d26630a"
+      "01210655fe32bfaa240e9b2ffcbdeb1b59240e7dfde5e16fb5a9213d9c05597d26630a",
+      "0121cf87053d9e9c493d5be08f951b2b9aec64c296419bd0bff7c4eca5c53d34d22d0a"
     ],
     "sibkeys": [
       "010146aa6c4e3aece37222d5945f1705b8cae82f25a6554b0c5cadfd508a4d5f5e4e0a",
       "01209bbec1c37cae339e30714dd8b9d257803e503614c6838452ea35e1fd759641280a",
-      "01208cbd4e2b911386e34eda8c7dd344d142f82dd99c0aec9072acc3e1ca5894191e0a"
+      "01208cbd4e2b911386e34eda8c7dd344d142f82dd99c0aec9072acc3e1ca5894191e0a",
+      "0120ea62b84f9ba1017d1cb4dbf64f840cf25d5e8ab41e52bc14bdf4c0eb35513bb00a"
     ],
     "families": {
       "010146aa6c4e3aece37222d5945f1705b8cae82f25a6554b0c5cadfd508a4d5f5e4e0a": [
@@ -55,7 +60,9 @@
         "0121a2cff51072f2f5546b6bac0058ab6b0ec2aaf32dbc67c7cf799ce509ac7b8f030a",
         "01209bbec1c37cae339e30714dd8b9d257803e503614c6838452ea35e1fd759641280a",
         "01210655fe32bfaa240e9b2ffcbdeb1b59240e7dfde5e16fb5a9213d9c05597d26630a",
-        "01208cbd4e2b911386e34eda8c7dd344d142f82dd99c0aec9072acc3e1ca5894191e0a"
+        "01208cbd4e2b911386e34eda8c7dd344d142f82dd99c0aec9072acc3e1ca5894191e0a",
+        "0120ea62b84f9ba1017d1cb4dbf64f840cf25d5e8ab41e52bc14bdf4c0eb35513bb00a",
+        "0121cf87053d9e9c493d5be08f951b2b9aec64c296419bd0bff7c4eca5c53d34d22d0a"
       ]
     },
     "eldest_kid": "010146aa6c4e3aece37222d5945f1705b8cae82f25a6554b0c5cadfd508a4d5f5e4e0a",
@@ -72,16 +79,16 @@
   "cryptocurrency_addresses": {},
   "sigs": {
     "last": {
-      "sig_id": "a4eb26a191a157ef77937af7dc15b1275434ba014c494e83bc93e575619a29dc0f",
-      "seqno": 4,
-      "payload_hash": "4b5dbc839baa5c6f598595acb45b2184c7ae5e0816f19441dfc7b7d9f969f289"
+      "sig_id": "4db19c2bb36d3031d23a275d75912f0db932c74c8611c4db59dac4284ff9cf580f",
+      "seqno": 7,
+      "payload_hash": "0d14d92373ed5a6bcc355dca0d410e16cedfabebf53d494518603ca565f575ff"
     }
   },
   "devices": {
     "44253f0ba9d88c8e3c11305fa955af18": {
       "type": "backup",
-      "ctime": 1473781444,
-      "mtime": 1473781444,
+      "ctime": 1473785044,
+      "mtime": 1473785044,
       "name": "three easy",
       "status": 1,
       "keys": [
@@ -97,10 +104,29 @@
         }
       ]
     },
+    "4de30d8ea8059a0144ae28d30d678b18": {
+      "type": "desktop",
+      "ctime": 1503946371,
+      "mtime": 1503946371,
+      "name": "Macbook Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ea62b84f9ba1017d1cb4dbf64f840cf25d5e8ab41e52bc14bdf4c0eb35513bb00a",
+          "key_role": 1,
+          "sig_id": "8dc412df02cb05fcc7a05a6fbbd3093753d239d2ec158948212d1aff7d5aed940f"
+        },
+        {
+          "kid": "0121cf87053d9e9c493d5be08f951b2b9aec64c296419bd0bff7c4eca5c53d34d22d0a",
+          "key_role": 2,
+          "sig_id": "93820190bc7c99d24fd7b35c43e09887fdd93eb158b2506b4a3b4003da05f9440f"
+        }
+      ]
+    },
     "51a73825be106212e3072df43a281e18": {
       "type": "desktop",
-      "ctime": 1473781443,
-      "mtime": 1473781443,
+      "ctime": 1473785043,
+      "mtime": 1473785043,
       "name": "Macbook air alexh",
       "status": 1,
       "keys": [
