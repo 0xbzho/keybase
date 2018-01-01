@@ -4,10 +4,11 @@
     "username": "acoburn",
     "ctime": 1418153278,
     "mtime": 1418153278,
-    "id_version": 16,
+    "id_version": 22,
     "track_version": 11,
-    "last_id_change": 1462315619,
-    "username_cased": "acoburn"
+    "last_id_change": 1506026344,
+    "username_cased": "acoburn",
+    "status": 0
   },
   "profile": {
     "mtime": 1418153342,
@@ -39,16 +40,20 @@
       "012178f5c4aa3a1cdf22e00a9706795c8e809dc6e4058a6dc9cb76c59fdcbd6cab5a0a",
       "01204114705d17712703ef61f6252b14683dd82db697d83bd6bf557962171782d6eb0a",
       "0120a69776add09787c2d6b2e258cc53d0fb3d749d659986017271d9d6ba40f94b560a",
-      "012113f906cc62e6cf519112f338d099d52a7fac3bddeb106070355982b21aba20590a"
+      "012113f906cc62e6cf519112f338d099d52a7fac3bddeb106070355982b21aba20590a",
+      "0120c628614a765d3c326c5b8e3a360390a6d77a91fc0ff640139533fd7dd782b1dd0a",
+      "012104845fedb24614ee12fe7dfabc27d9c6b73ede279c47652586ebebaf964ddd720a"
     ],
     "subkeys": [
       "012178f5c4aa3a1cdf22e00a9706795c8e809dc6e4058a6dc9cb76c59fdcbd6cab5a0a",
-      "012113f906cc62e6cf519112f338d099d52a7fac3bddeb106070355982b21aba20590a"
+      "012113f906cc62e6cf519112f338d099d52a7fac3bddeb106070355982b21aba20590a",
+      "012104845fedb24614ee12fe7dfabc27d9c6b73ede279c47652586ebebaf964ddd720a"
     ],
     "sibkeys": [
       "0101848c123ad958d95bf060ed17a68d97f6632ab7418f22c15410f3b88076d8faf10a",
       "01204114705d17712703ef61f6252b14683dd82db697d83bd6bf557962171782d6eb0a",
-      "0120a69776add09787c2d6b2e258cc53d0fb3d749d659986017271d9d6ba40f94b560a"
+      "0120a69776add09787c2d6b2e258cc53d0fb3d749d659986017271d9d6ba40f94b560a",
+      "0120c628614a765d3c326c5b8e3a360390a6d77a91fc0ff640139533fd7dd782b1dd0a"
     ],
     "families": {
       "0101848c123ad958d95bf060ed17a68d97f6632ab7418f22c15410f3b88076d8faf10a": [
@@ -57,7 +62,9 @@
         "012178f5c4aa3a1cdf22e00a9706795c8e809dc6e4058a6dc9cb76c59fdcbd6cab5a0a",
         "01204114705d17712703ef61f6252b14683dd82db697d83bd6bf557962171782d6eb0a",
         "0120a69776add09787c2d6b2e258cc53d0fb3d749d659986017271d9d6ba40f94b560a",
-        "012113f906cc62e6cf519112f338d099d52a7fac3bddeb106070355982b21aba20590a"
+        "012113f906cc62e6cf519112f338d099d52a7fac3bddeb106070355982b21aba20590a",
+        "0120c628614a765d3c326c5b8e3a360390a6d77a91fc0ff640139533fd7dd782b1dd0a",
+        "012104845fedb24614ee12fe7dfabc27d9c6b73ede279c47652586ebebaf964ddd720a"
       ]
     },
     "eldest_kid": "0101848c123ad958d95bf060ed17a68d97f6632ab7418f22c15410f3b88076d8faf10a",
@@ -95,6 +102,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.trellisldp.org",
+          "state": 1,
+          "proof_url": "http://www.trellisldp.org/.well-known/keybase.txt",
+          "sig_id": "d3742f4ffc5932e361cb21be06982aaa15e5e6191cdcc5849df5793876623a220f",
+          "proof_id": "d821543573e2cdead6cc9810",
+          "human_url": "http://www.trellisldp.org/.well-known/keybase.txt",
+          "service_url": "http://www.trellisldp.org",
+          "presentation_group": "www.trellisldp.org",
+          "presentation_tag": "http"
+        }
       ]
     },
     "by_presentation_group": {
@@ -125,6 +146,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "www.trellisldp.org": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.trellisldp.org",
+          "state": 1,
+          "proof_url": "http://www.trellisldp.org/.well-known/keybase.txt",
+          "sig_id": "d3742f4ffc5932e361cb21be06982aaa15e5e6191cdcc5849df5793876623a220f",
+          "proof_id": "d821543573e2cdead6cc9810",
+          "human_url": "http://www.trellisldp.org/.well-known/keybase.txt",
+          "service_url": "http://www.trellisldp.org",
+          "presentation_group": "www.trellisldp.org",
+          "presentation_tag": "http"
+        }
       ]
     },
     "all": [
@@ -151,13 +186,25 @@
         "service_url": "https://github.com/acoburn",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "www.trellisldp.org",
+        "state": 1,
+        "proof_url": "http://www.trellisldp.org/.well-known/keybase.txt",
+        "sig_id": "d3742f4ffc5932e361cb21be06982aaa15e5e6191cdcc5849df5793876623a220f",
+        "proof_id": "d821543573e2cdead6cc9810",
+        "human_url": "http://www.trellisldp.org/.well-known/keybase.txt",
+        "service_url": "http://www.trellisldp.org",
+        "presentation_group": "www.trellisldp.org",
+        "presentation_tag": "http"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2d57b68fa88cac1c60e7f7c463e66005_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/84a11e33b33c58afce1c67e9fd564d05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -165,16 +212,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "aae9871d76909b883ccd83a6849f17819de574be1bf2b1ecccfc664bf86cb61b0f",
-      "seqno": 19,
-      "payload_hash": "fdb412b35d5f45252e896ec9fd15be0c080572573fa154f107de97a681b81426"
+      "sig_id": "d3742f4ffc5932e361cb21be06982aaa15e5e6191cdcc5849df5793876623a220f",
+      "seqno": 23,
+      "payload_hash": "167a6abf1b8ee92cd7930095ba1e8a16d3d3bc22b82f1d2b71fe927364b6aa4e"
     }
   },
   "devices": {
     "0c2c97f54dfc54e69857c87cddeb2d18": {
       "type": "backup",
-      "ctime": 1462315619,
-      "mtime": 1462315619,
+      "ctime": 1462319219,
+      "mtime": 1462319219,
       "name": "virus dog",
       "status": 1,
       "keys": [
@@ -192,8 +239,8 @@
     },
     "975da15fdfc43b09b2966f36a488cc18": {
       "type": "desktop",
-      "ctime": 1462315619,
-      "mtime": 1462315619,
+      "ctime": 1462319219,
+      "mtime": 1462319219,
       "name": "macbook",
       "status": 1,
       "keys": [
@@ -206,6 +253,25 @@
           "kid": "012178f5c4aa3a1cdf22e00a9706795c8e809dc6e4058a6dc9cb76c59fdcbd6cab5a0a",
           "key_role": 2,
           "sig_id": "ab5c12fae559d47fccc1b89fbeb975d4c46632103bfac5a13f0e088d4ded24000f"
+        }
+      ]
+    },
+    "fa18b4cba120d4a179aa203f63bd2b18": {
+      "type": "desktop",
+      "ctime": 1506026152,
+      "mtime": 1506026152,
+      "name": "locksley",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120c628614a765d3c326c5b8e3a360390a6d77a91fc0ff640139533fd7dd782b1dd0a",
+          "key_role": 1,
+          "sig_id": "9d48aabf83ee02f169e7970be9025adc65f7a9ce8a7d59e5b477167adf10fe7f0f"
+        },
+        {
+          "kid": "012104845fedb24614ee12fe7dfabc27d9c6b73ede279c47652586ebebaf964ddd720a",
+          "key_role": 2,
+          "sig_id": "a10e36e308325dc38112f568707c354e41d567ac5e144325abe53b516a67ad1a0f"
         }
       ]
     }
