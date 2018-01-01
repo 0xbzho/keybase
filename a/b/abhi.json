@@ -2,18 +2,19 @@
   "id": "1def5413c109a2b031837df3f8d7ca00",
   "basics": {
     "username": "abhi",
-    "ctime": 1395669887,
-    "mtime": 1395669887,
-    "id_version": 24,
+    "ctime": 1395673487,
+    "mtime": 1395673487,
+    "id_version": 26,
     "track_version": 7,
-    "last_id_change": 1455549607,
-    "username_cased": "abhi"
+    "last_id_change": 1507575871,
+    "username_cased": "abhi",
+    "status": 0
   },
   "profile": {
-    "mtime": 1408522214,
+    "mtime": 1507575667,
     "full_name": "abhi shelat",
-    "location": "On sabbatical in NYC for 2014-5",
-    "bio": "Associate professor of computer science at U. Virginia, co-founder Arqball, cryptography researcher."
+    "location": "Boston",
+    "bio": "Assoc prof of CS at Northeastern , co-founder Arqball, cryptography researcher."
   },
   "public_keys": {
     "primary": {
@@ -41,18 +42,26 @@
       "0121c1b137dcf6b8cb9ffc703d2d0a5f1b404689212b328f9b5f9efd82343c9c49150a",
       "01207bb03a9120b06a851d704b524be5d08a95b56e022c7f2295b5c0a20adee1828f0a",
       "01200c94ea705762821c850d763ad2d3a4849fe288e5fca8370d6d02d493fcd0337e0a",
-      "0121ecc46feeccb7120786d1eea7c2037802577abb9d5e378b4e72b6d6b1c1a3ec1f0a"
+      "0121ecc46feeccb7120786d1eea7c2037802577abb9d5e378b4e72b6d6b1c1a3ec1f0a",
+      "0121d7d31b53af7cc4daf971aaec80aa5c845e42fafd24de5f13630d262e7cd863160a",
+      "012026239166f871633ae754821f9d99546b76a3f58e47b36484ee6a020f95b73cc50a",
+      "0120afa4579ba7db2a5d5f2586b4e7c50b67dfdc735146c3a8ded8bfe932406962140a",
+      "01219a71835d9215690849bc04c1bebdba51ceca933b8d0dd70c913956f858a9fa610a"
     ],
     "subkeys": [
       "0121a7c14adc0cca35542950154f32509271c479acde092dffb6dae4a388d05fd1050a",
       "0121c1b137dcf6b8cb9ffc703d2d0a5f1b404689212b328f9b5f9efd82343c9c49150a",
-      "0121ecc46feeccb7120786d1eea7c2037802577abb9d5e378b4e72b6d6b1c1a3ec1f0a"
+      "0121ecc46feeccb7120786d1eea7c2037802577abb9d5e378b4e72b6d6b1c1a3ec1f0a",
+      "0121d7d31b53af7cc4daf971aaec80aa5c845e42fafd24de5f13630d262e7cd863160a",
+      "01219a71835d9215690849bc04c1bebdba51ceca933b8d0dd70c913956f858a9fa610a"
     ],
     "sibkeys": [
       "0101a7cd76bafa6cbb14c47adf487c66633336b5af996d81be57f2740af4fb1b311c0a",
       "012081bb33b2fbe00ab2f56f8832c62e3266d32f3601a162daff8ee24a1d57b2a9870a",
       "01207bb03a9120b06a851d704b524be5d08a95b56e022c7f2295b5c0a20adee1828f0a",
-      "01200c94ea705762821c850d763ad2d3a4849fe288e5fca8370d6d02d493fcd0337e0a"
+      "01200c94ea705762821c850d763ad2d3a4849fe288e5fca8370d6d02d493fcd0337e0a",
+      "012026239166f871633ae754821f9d99546b76a3f58e47b36484ee6a020f95b73cc50a",
+      "0120afa4579ba7db2a5d5f2586b4e7c50b67dfdc735146c3a8ded8bfe932406962140a"
     ],
     "families": {
       "010100a0331d6743344b33376564a3e3b1d94058e061ccae3a06dd42f66dd6b8da960a": [
@@ -65,7 +74,11 @@
         "0121c1b137dcf6b8cb9ffc703d2d0a5f1b404689212b328f9b5f9efd82343c9c49150a",
         "01207bb03a9120b06a851d704b524be5d08a95b56e022c7f2295b5c0a20adee1828f0a",
         "01200c94ea705762821c850d763ad2d3a4849fe288e5fca8370d6d02d493fcd0337e0a",
-        "0121ecc46feeccb7120786d1eea7c2037802577abb9d5e378b4e72b6d6b1c1a3ec1f0a"
+        "0121ecc46feeccb7120786d1eea7c2037802577abb9d5e378b4e72b6d6b1c1a3ec1f0a",
+        "0121d7d31b53af7cc4daf971aaec80aa5c845e42fafd24de5f13630d262e7cd863160a",
+        "012026239166f871633ae754821f9d99546b76a3f58e47b36484ee6a020f95b73cc50a",
+        "0120afa4579ba7db2a5d5f2586b4e7c50b67dfdc735146c3a8ded8bfe932406962140a",
+        "01219a71835d9215690849bc04c1bebdba51ceca933b8d0dd70c913956f858a9fa610a"
       ]
     },
     "eldest_kid": "0101a7cd76bafa6cbb14c47adf487c66633336b5af996d81be57f2740af4fb1b311c0a",
@@ -173,12 +186,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b451e649a008cdd9f984600f9d5c84aaa5291a1e65b88f0b4fbcaea7251569620f",
-      "seqno": 20,
-      "payload_hash": "c604ec7a53e9f87e1f108707e3d429aff5748a02686c42f649464df493854eb8"
+      "sig_id": "f281c1a06d51b7bf0ff859ffa3ede15855818d39648c4cf540d368b0501b061d0f",
+      "seqno": 25,
+      "payload_hash": "12cb657211b81f0b39f62af045a450cb288490f564a507d4a15514da04396762"
     }
   },
   "devices": {
+    "54d15628d9118c4bb32f96a693e72a18": {
+      "type": "desktop",
+      "ctime": 1507575591,
+      "mtime": 1507575591,
+      "name": "mac17",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012026239166f871633ae754821f9d99546b76a3f58e47b36484ee6a020f95b73cc50a",
+          "key_role": 1,
+          "sig_id": "2884b006b1a8d5c0b659c35f9af5b03daaac046aba85929ad43f13bceff1cb240f"
+        },
+        {
+          "kid": "0121d7d31b53af7cc4daf971aaec80aa5c845e42fafd24de5f13630d262e7cd863160a",
+          "key_role": 2,
+          "sig_id": "a00722e59ccfae9c8cadb15bca849551949edb3608a514f149176e471fb00bfb0f"
+        }
+      ]
+    },
     "5abc3e88ed4a6eb5d6f287bd8435fe18": {
       "type": "backup",
       "ctime": 1454995719,
@@ -195,6 +227,25 @@
           "kid": "0121c1b137dcf6b8cb9ffc703d2d0a5f1b404689212b328f9b5f9efd82343c9c49150a",
           "key_role": 2,
           "sig_id": "5e26708439c84116f8aa26c277302782be5937d6706f2b4308050fd662f604530f"
+        }
+      ]
+    },
+    "6c0eb5cc35da02da1c4b268205591118": {
+      "type": "mobile",
+      "ctime": 1507575871,
+      "mtime": 1507575871,
+      "name": "ph6",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120afa4579ba7db2a5d5f2586b4e7c50b67dfdc735146c3a8ded8bfe932406962140a",
+          "key_role": 1,
+          "sig_id": "ab02793dec3c6903d0de1a9447179c09cc8d8369d9520fc235b8c725a29b6b7e0f"
+        },
+        {
+          "kid": "01219a71835d9215690849bc04c1bebdba51ceca933b8d0dd70c913956f858a9fa610a",
+          "key_role": 2,
+          "sig_id": "f281c1a06d51b7bf0ff859ffa3ede15855818d39648c4cf540d368b0501b061d0f"
         }
       ]
     },
