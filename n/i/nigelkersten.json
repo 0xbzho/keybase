@@ -4,10 +4,11 @@
     "username": "nigelkersten",
     "ctime": 1424977124,
     "mtime": 1424977124,
-    "id_version": 37,
-    "track_version": 10,
-    "last_id_change": 1468973368,
-    "username_cased": "nigelkersten"
+    "id_version": 42,
+    "track_version": 11,
+    "last_id_change": 1505746039,
+    "username_cased": "nigelkersten",
+    "status": 0
   },
   "public_keys": {
     "primary": {
@@ -32,14 +33,16 @@
       "0121dd9fa7c29699e4e374054be9f44fb6ca07f3d7789cc0c10d43b304d71cb7035d0a",
       "012026ef33f0f7a37f677e334f9de3f6bda5398188c6e7ea7c526852e2c46211ea3c0a",
       "012048ff0dc155b2661175787dfea37593eacc29abbb5afdb52ba3b49a4081a86b6a0a",
-      "01213a245c27b4c845294f937d27062b8412e02a28a57ae53d704f8c250d2f2bd2590a"
+      "01213a245c27b4c845294f937d27062b8412e02a28a57ae53d704f8c250d2f2bd2590a",
+      "0120741b0f9ef59ead50e8d7b2daf095a53f81c51b497d5f8cac95cfd12220d34fb00a",
+      "01210254665b57caa98ebb2f4a19f81442186c702df98a45448b59c83e206ab6c7550a"
     ],
     "subkeys": [
-      "0121dd9fa7c29699e4e374054be9f44fb6ca07f3d7789cc0c10d43b304d71cb7035d0a"
+      "01210254665b57caa98ebb2f4a19f81442186c702df98a45448b59c83e206ab6c7550a"
     ],
     "sibkeys": [
       "0101288a677fa9aa5c2b6465442aece5118662893ff1889f7382d14dacdcc197ef940a",
-      "012026ef33f0f7a37f677e334f9de3f6bda5398188c6e7ea7c526852e2c46211ea3c0a"
+      "0120741b0f9ef59ead50e8d7b2daf095a53f81c51b497d5f8cac95cfd12220d34fb00a"
     ],
     "families": {
       "0101288a677fa9aa5c2b6465442aece5118662893ff1889f7382d14dacdcc197ef940a": [
@@ -47,7 +50,9 @@
         "0121dd9fa7c29699e4e374054be9f44fb6ca07f3d7789cc0c10d43b304d71cb7035d0a",
         "012026ef33f0f7a37f677e334f9de3f6bda5398188c6e7ea7c526852e2c46211ea3c0a",
         "012048ff0dc155b2661175787dfea37593eacc29abbb5afdb52ba3b49a4081a86b6a0a",
-        "01213a245c27b4c845294f937d27062b8412e02a28a57ae53d704f8c250d2f2bd2590a"
+        "01213a245c27b4c845294f937d27062b8412e02a28a57ae53d704f8c250d2f2bd2590a",
+        "0120741b0f9ef59ead50e8d7b2daf095a53f81c51b497d5f8cac95cfd12220d34fb00a",
+        "01210254665b57caa98ebb2f4a19f81442186c702df98a45448b59c83e206ab6c7550a"
       ]
     },
     "eldest_kid": "0101288a677fa9aa5c2b6465442aece5118662893ff1889f7382d14dacdcc197ef940a",
@@ -227,7 +232,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/fd6df4c17c5853fa76e908690da24d05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/82a3a9796f1f516868dfae6c87a75f05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -235,28 +240,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "a410100caa272af017fb691a1f0a57196d458ca6db45b464e3c249ce622afe830f",
-      "seqno": 28,
-      "payload_hash": "71bd3e78aa20204094617863b0859856d3d81c0dabfa393e6229bf27cab19fda"
+      "sig_id": "2dc8fb886ff8b8a0b051b99600a080273366b7fb4af100b7209c5e897fe9ece10f",
+      "seqno": 34,
+      "payload_hash": "1de019f53a2290ae3e802fb990d5280838ff0a3bc63383b6e040716a1e3a5fa5"
     }
   },
   "devices": {
-    "5b37ff8d250115645a19832767513718": {
+    "ca37bd4fdaab5ac7655501b77c874518": {
       "type": "desktop",
-      "ctime": 1455400529,
-      "mtime": 1455400529,
-      "name": "p-zombie",
+      "ctime": 1505746039,
+      "mtime": 1505746039,
+      "name": "megalith",
       "status": 1,
       "keys": [
         {
-          "kid": "012026ef33f0f7a37f677e334f9de3f6bda5398188c6e7ea7c526852e2c46211ea3c0a",
+          "kid": "0120741b0f9ef59ead50e8d7b2daf095a53f81c51b497d5f8cac95cfd12220d34fb00a",
           "key_role": 1,
-          "sig_id": "b44c6f19074c4f36c271bdd8a7d7fc789a95bf579fd42b271c112e2920c25b3d0f"
+          "sig_id": "3df9f6d92a5e6a98c70c7171656cac14f3cc52a66a00b2128f9308699cfdf28c0f"
         },
         {
-          "kid": "0121dd9fa7c29699e4e374054be9f44fb6ca07f3d7789cc0c10d43b304d71cb7035d0a",
+          "kid": "01210254665b57caa98ebb2f4a19f81442186c702df98a45448b59c83e206ab6c7550a",
           "key_role": 2,
-          "sig_id": "1d86eb9b9fa73e173e47da46a8022e9c23d0cc8e576916efb3923d47943d2d3a0f"
+          "sig_id": "81ccaf0b5aaf78fafc6746391a8108792b06f417e34a9d4679525c27a19959e30f"
         }
       ]
     }
