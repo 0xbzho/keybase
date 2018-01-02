@@ -4,10 +4,11 @@
     "username": "randytenhave",
     "ctime": 1453453477,
     "mtime": 1453453477,
-    "id_version": 9,
+    "id_version": 15,
     "track_version": 0,
-    "last_id_change": 1455119799,
-    "username_cased": "randytenhave"
+    "last_id_change": 1508435189,
+    "username_cased": "randytenhave",
+    "status": 0
   },
   "profile": {
     "mtime": 1453453490,
@@ -45,12 +46,10 @@
       "01217fbaf9cabd642f05dc161292d4f5a4bc5c758d0a7c80c12a8866bf3ed51a6c3a0a"
     ],
     "subkeys": [
-      "0121068d3c44b653d377e837a390736418cf329b6ad7c0856c2ff63a4e8db86635470a",
       "012161aceef9c70035b8e960072c7ae243aaa0059d38a6c9b550bdeb64b5a26cb3350a",
       "01217fbaf9cabd642f05dc161292d4f5a4bc5c758d0a7c80c12a8866bf3ed51a6c3a0a"
     ],
     "sibkeys": [
-      "012081ec16a0086f9d044cb448ff676913037d8a4f55865854a8c1066bab7e99be060a",
       "010151c9eb047405f94d27fc34ed05a46990279aa9a6e961e899ce3877d24f5f0ca30a",
       "01208746b6f0815410f8112b11ffa45909b32b1dc9167eb85add7cee77ab3167c7ce0a",
       "0120417ccbfcccec1ae9ecdb26dc01bd935469b58f0ca5ed117ac5b6d4c5aa7bf5430a"
@@ -76,20 +75,6 @@
   },
   "proofs_summary": {
     "by_proof_type": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "randytenhave",
-          "state": 1,
-          "proof_url": "https://twitter.com/randytenhave/status/692242271832543232",
-          "sig_id": "0fd831cf36a56e72fe01db72d43e945381c7d0fc12bf8b9b07b80a53c8437a650f",
-          "proof_id": "53e4d437758f3008014ebc10",
-          "human_url": "https://twitter.com/randytenhave/status/692242271832543232",
-          "service_url": "https://twitter.com/randytenhave",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "dns": [
         {
           "proof_type": "dns",
@@ -106,20 +91,6 @@
       ]
     },
     "by_presentation_group": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "randytenhave",
-          "state": 1,
-          "proof_url": "https://twitter.com/randytenhave/status/692242271832543232",
-          "sig_id": "0fd831cf36a56e72fe01db72d43e945381c7d0fc12bf8b9b07b80a53c8437a650f",
-          "proof_id": "53e4d437758f3008014ebc10",
-          "human_url": "https://twitter.com/randytenhave/status/692242271832543232",
-          "service_url": "https://twitter.com/randytenhave",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "aklmedia.nl": [
         {
           "proof_type": "dns",
@@ -137,18 +108,6 @@
     },
     "all": [
       {
-        "proof_type": "twitter",
-        "nametag": "randytenhave",
-        "state": 1,
-        "proof_url": "https://twitter.com/randytenhave/status/692242271832543232",
-        "sig_id": "0fd831cf36a56e72fe01db72d43e945381c7d0fc12bf8b9b07b80a53c8437a650f",
-        "proof_id": "53e4d437758f3008014ebc10",
-        "human_url": "https://twitter.com/randytenhave/status/692242271832543232",
-        "service_url": "https://twitter.com/randytenhave",
-        "presentation_group": "twitter",
-        "presentation_tag": "tweet"
-      },
-      {
         "proof_type": "dns",
         "nametag": "aklmedia.nl",
         "state": 1,
@@ -163,19 +122,11 @@
     ]
   },
   "cryptocurrency_addresses": {},
-  "pictures": {
-    "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/bca1726d6c71ae43df9ed751b36b9905_360_360_square_360.jpeg",
-      "width": 360,
-      "height": 360,
-      "source": "twitter"
-    }
-  },
   "sigs": {
     "last": {
-      "sig_id": "b275b0e6cee00de3cb6f0b9bebb71e813f759e468acefd993ac696aa7245f12f0f",
-      "seqno": 12,
-      "payload_hash": "8a9cf43868b6b037d6b0542c8fc2b2763277cd3d6785db4fa43053fa6572deec"
+      "sig_id": "a17ca9f05bc93b05583effbc10e697d36334559e7a7bfa11fe810c662ba02b950f",
+      "seqno": 17,
+      "payload_hash": "8d6fc00b4fbccb1a01d5d770f41e7ead1277daeaabfeeafa5864de1ba816d7ef"
     }
   },
   "devices": {
@@ -195,25 +146,6 @@
           "kid": "01217fbaf9cabd642f05dc161292d4f5a4bc5c758d0a7c80c12a8866bf3ed51a6c3a0a",
           "key_role": 2,
           "sig_id": "a2234c7d513c6c6be17374425187498592836925981e7537789fed54ee0a763b0f"
-        }
-      ]
-    },
-    "4f7b56c473491352dce155332dfe0f18": {
-      "type": "backup",
-      "ctime": 1453878184,
-      "mtime": 1453878184,
-      "name": "energy network",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012081ec16a0086f9d044cb448ff676913037d8a4f55865854a8c1066bab7e99be060a",
-          "key_role": 1,
-          "sig_id": "032540ecec4cf306ed1c86d05108c3063fe21ea89b5bb2d49cd07b7632c9fe780f"
-        },
-        {
-          "kid": "0121068d3c44b653d377e837a390736418cf329b6ad7c0856c2ff63a4e8db86635470a",
-          "key_role": 2,
-          "sig_id": "5e2116a476c6226004ae7ef4db24953b2f8fe01466fe408202bb6cedfed15b8b0f"
         }
       ]
     },
