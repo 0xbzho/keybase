@@ -4,10 +4,11 @@
     "username": "aristote",
     "ctime": 1423308501,
     "mtime": 1423308501,
-    "id_version": 65,
+    "id_version": 73,
     "track_version": 0,
-    "last_id_change": 1470679383,
-    "username_cased": "aristote"
+    "last_id_change": 1513262696,
+    "username_cased": "aristote",
+    "status": 0
   },
   "profile": {
     "mtime": 1423310074,
@@ -38,16 +39,20 @@
       "0121d589b5da27ca081eabc20a0bf81366b29013884b9dd56d60e171d16e2b930a3a0a",
       "0120d926735680e0c18a4de728f927ab0d385163e3635f45a4e5665b01a714f55cfe0a",
       "0121f282e15af386830d2fd94d1c8e8bf295610dc397d99fcba66bf1d12da783bb2b0a",
-      "0120e7532b96e017cad308fccb9f08473ba66b7a84413ccd4b8a20ab26431e18f1a30a"
+      "0120e7532b96e017cad308fccb9f08473ba66b7a84413ccd4b8a20ab26431e18f1a30a",
+      "01210d1b91a81112b04245e7527b88ca57588df8adcd49f0f4153dc1723595a9110b0a",
+      "0120bd3e7fa90a78e6daa7dfb85d26061c61294a572bbbddcd0d39b813f9b5e40b240a",
+      "0121807e445a96de496017de77e0d52bc8502539c7e3824538988200beaf6a6fd7360a",
+      "01208a82136f5ea2e554ac4f2d6dd162334b1d68f68f58b96e272c459ef9d534c8f10a"
     ],
     "subkeys": [
-      "0121d589b5da27ca081eabc20a0bf81366b29013884b9dd56d60e171d16e2b930a3a0a",
-      "0121f282e15af386830d2fd94d1c8e8bf295610dc397d99fcba66bf1d12da783bb2b0a"
+      "0121f282e15af386830d2fd94d1c8e8bf295610dc397d99fcba66bf1d12da783bb2b0a",
+      "0121807e445a96de496017de77e0d52bc8502539c7e3824538988200beaf6a6fd7360a"
     ],
     "sibkeys": [
       "010198d01338576ae0aab5a982927844f842f2eaca9740e977fbf73ef725a795c04d0a",
-      "0120d926735680e0c18a4de728f927ab0d385163e3635f45a4e5665b01a714f55cfe0a",
-      "0120e7532b96e017cad308fccb9f08473ba66b7a84413ccd4b8a20ab26431e18f1a30a"
+      "0120e7532b96e017cad308fccb9f08473ba66b7a84413ccd4b8a20ab26431e18f1a30a",
+      "01208a82136f5ea2e554ac4f2d6dd162334b1d68f68f58b96e272c459ef9d534c8f10a"
     ],
     "families": {
       "010198d01338576ae0aab5a982927844f842f2eaca9740e977fbf73ef725a795c04d0a": [
@@ -55,7 +60,11 @@
         "0121d589b5da27ca081eabc20a0bf81366b29013884b9dd56d60e171d16e2b930a3a0a",
         "0120d926735680e0c18a4de728f927ab0d385163e3635f45a4e5665b01a714f55cfe0a",
         "0121f282e15af386830d2fd94d1c8e8bf295610dc397d99fcba66bf1d12da783bb2b0a",
-        "0120e7532b96e017cad308fccb9f08473ba66b7a84413ccd4b8a20ab26431e18f1a30a"
+        "0120e7532b96e017cad308fccb9f08473ba66b7a84413ccd4b8a20ab26431e18f1a30a",
+        "01210d1b91a81112b04245e7527b88ca57588df8adcd49f0f4153dc1723595a9110b0a",
+        "0120bd3e7fa90a78e6daa7dfb85d26061c61294a572bbbddcd0d39b813f9b5e40b240a",
+        "0121807e445a96de496017de77e0d52bc8502539c7e3824538988200beaf6a6fd7360a",
+        "01208a82136f5ea2e554ac4f2d6dd162334b1d68f68f58b96e272c459ef9d534c8f10a"
       ]
     },
     "eldest_kid": "010198d01338576ae0aab5a982927844f842f2eaca9740e977fbf73ef725a795c04d0a",
@@ -93,20 +102,6 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
-      ],
-      "generic_web_site": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "opium.io",
-          "state": 1,
-          "proof_url": "https://opium.io/keybase.txt",
-          "sig_id": "abfd8580e9dfd0fdf9dc27a805ae75e0406f85e4823feffdced4614ae9747e530f",
-          "proof_id": "5320e4d7f4ba759335221f10",
-          "human_url": "https://opium.io/keybase.txt",
-          "service_url": "https://opium.io",
-          "presentation_group": "opium.io",
-          "presentation_tag": "https"
-        }
       ]
     },
     "by_presentation_group": {
@@ -137,20 +132,6 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
-      ],
-      "opium.io": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "opium.io",
-          "state": 1,
-          "proof_url": "https://opium.io/keybase.txt",
-          "sig_id": "abfd8580e9dfd0fdf9dc27a805ae75e0406f85e4823feffdced4614ae9747e530f",
-          "proof_id": "5320e4d7f4ba759335221f10",
-          "human_url": "https://opium.io/keybase.txt",
-          "service_url": "https://opium.io",
-          "presentation_group": "opium.io",
-          "presentation_tag": "https"
-        }
       ]
     },
     "all": [
@@ -177,18 +158,6 @@
         "service_url": "https://github.com/aristote",
         "presentation_group": "github",
         "presentation_tag": "gist"
-      },
-      {
-        "proof_type": "generic_web_site",
-        "nametag": "opium.io",
-        "state": 1,
-        "proof_url": "https://opium.io/keybase.txt",
-        "sig_id": "abfd8580e9dfd0fdf9dc27a805ae75e0406f85e4823feffdced4614ae9747e530f",
-        "proof_id": "5320e4d7f4ba759335221f10",
-        "human_url": "https://opium.io/keybase.txt",
-        "service_url": "https://opium.io",
-        "presentation_group": "opium.io",
-        "presentation_tag": "https"
       }
     ]
   },
@@ -203,28 +172,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "e7d1b23ab4107ca501de20e81dbcecdb2a6773f7fd42b9ba99be7cb2c707b0f10f",
-      "seqno": 9,
-      "payload_hash": "659584e9a7a6c36926813ccf5dc49e6cff490777d8b90ff78fa2adfa2471ad80"
+      "sig_id": "03ab37eed27e18c2f58e52f545ed86bfbf9e0d713f0bb3b657861108236e48ef0f",
+      "seqno": 16,
+      "payload_hash": "6c1aa0b3e9bf8cc8d54552297985caf3f7cae65072916162bee5aa36ae19ef72"
     }
   },
   "devices": {
-    "401d6e48073b9320582d2071e53c6b18": {
+    "2a286ea2203da9b0d0a6a94b74abfb18": {
       "type": "desktop",
-      "ctime": 1457361865,
-      "mtime": 1457361865,
-      "name": "Dodo",
+      "ctime": 1495787865,
+      "mtime": 1495787865,
+      "name": "Dodo-20170526",
       "status": 1,
       "keys": [
         {
-          "kid": "0120d926735680e0c18a4de728f927ab0d385163e3635f45a4e5665b01a714f55cfe0a",
+          "kid": "01208a82136f5ea2e554ac4f2d6dd162334b1d68f68f58b96e272c459ef9d534c8f10a",
           "key_role": 1,
-          "sig_id": "0915f89c3c9591967416ad0c07abc5b6a86707c4eebe4a9f2f16703e89249e4f0f"
+          "sig_id": "247068775bc9f7b8c5c2eb7d3e1451205e0506c0eeda0edf407f95b35dc51b1f0f"
         },
         {
-          "kid": "0121d589b5da27ca081eabc20a0bf81366b29013884b9dd56d60e171d16e2b930a3a0a",
+          "kid": "0121807e445a96de496017de77e0d52bc8502539c7e3824538988200beaf6a6fd7360a",
           "key_role": 2,
-          "sig_id": "927b79642140615c9006fc12d6c63de9026171cecd9002e9abb5cd29ca0c90340f"
+          "sig_id": "f3f5daf6cbc132a3ce95421ff3e84beb6021678959413a18945e8d49dbc79a2e0f"
         }
       ]
     },
