@@ -2,18 +2,19 @@
   "id": "9904aecadee0ad870d274b43c3ee7800",
   "basics": {
     "username": "holcomb",
-    "ctime": 1397679183,
-    "mtime": 1397679183,
-    "id_version": 21,
-    "track_version": 11,
-    "last_id_change": 1457391501,
-    "username_cased": "holcomb"
+    "ctime": 1397682783,
+    "mtime": 1397682783,
+    "id_version": 35,
+    "track_version": 27,
+    "last_id_change": 1500500971,
+    "username_cased": "holcomb",
+    "status": 0
   },
   "profile": {
-    "mtime": 1457391299,
+    "mtime": 1487288993,
     "full_name": "Brian Holcomb",
-    "location": "the internet",
-    "bio": "red headed step child"
+    "location": "Earth",
+    "bio": "I am a real person."
   },
   "public_keys": {
     "primary": {
@@ -39,16 +40,20 @@
       "0121d0641a77615c42140d0a1aa1e9cfe7d1890b4dbf5d84cb8c0051ee0f7a2135620a",
       "0120820cdd44d0dda9d41850d0105434c48fdb07f8e37f416d92879e85159faa68ed0a",
       "01211431a404583f630a2ed7e6fc0164cd92e218eb6359e472676f15bd11fdbb7a450a",
-      "012077ae899a61201d096539df513d3f1581ae803f2d7d4d036419aa762ba166b1fd0a"
+      "012077ae899a61201d096539df513d3f1581ae803f2d7d4d036419aa762ba166b1fd0a",
+      "0120f71335bf10c8eb7a27d4868ecf5f2ee24b4ad4b3fec3210219be7a1e0adc74910a",
+      "0121bd17e127f597b094ab802473fe2fdfbb11081adb18432cb4ed56106a2ba8f3000a"
     ],
     "subkeys": [
       "0121d0641a77615c42140d0a1aa1e9cfe7d1890b4dbf5d84cb8c0051ee0f7a2135620a",
-      "01211431a404583f630a2ed7e6fc0164cd92e218eb6359e472676f15bd11fdbb7a450a"
+      "01211431a404583f630a2ed7e6fc0164cd92e218eb6359e472676f15bd11fdbb7a450a",
+      "0121bd17e127f597b094ab802473fe2fdfbb11081adb18432cb4ed56106a2ba8f3000a"
     ],
     "sibkeys": [
       "0101b000b06a4a9fc3d06e4fdb17c7284c2b49a40036cef0c9089dddaf4961fd0d020a",
       "0120820cdd44d0dda9d41850d0105434c48fdb07f8e37f416d92879e85159faa68ed0a",
-      "012077ae899a61201d096539df513d3f1581ae803f2d7d4d036419aa762ba166b1fd0a"
+      "012077ae899a61201d096539df513d3f1581ae803f2d7d4d036419aa762ba166b1fd0a",
+      "0120f71335bf10c8eb7a27d4868ecf5f2ee24b4ad4b3fec3210219be7a1e0adc74910a"
     ],
     "families": {
       "0101321232b879cfcc45cf6586e361fff7a6fad785b92d55afbea5a53482f45cb3220a": [
@@ -59,7 +64,9 @@
         "0121d0641a77615c42140d0a1aa1e9cfe7d1890b4dbf5d84cb8c0051ee0f7a2135620a",
         "0120820cdd44d0dda9d41850d0105434c48fdb07f8e37f416d92879e85159faa68ed0a",
         "01211431a404583f630a2ed7e6fc0164cd92e218eb6359e472676f15bd11fdbb7a450a",
-        "012077ae899a61201d096539df513d3f1581ae803f2d7d4d036419aa762ba166b1fd0a"
+        "012077ae899a61201d096539df513d3f1581ae803f2d7d4d036419aa762ba166b1fd0a",
+        "0120f71335bf10c8eb7a27d4868ecf5f2ee24b4ad4b3fec3210219be7a1e0adc74910a",
+        "0121bd17e127f597b094ab802473fe2fdfbb11081adb18432cb4ed56106a2ba8f3000a"
       ]
     },
     "eldest_kid": "0101b000b06a4a9fc3d06e4fdb17c7284c2b49a40036cef0c9089dddaf4961fd0d020a",
@@ -83,6 +90,34 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "hipsterte.ch",
+          "state": 1,
+          "proof_url": "https://hipsterte.ch/.well-known/keybase.txt",
+          "sig_id": "5d257b9174031e430486d86a78ada1252a877e5c03e47288ab82528e35cacafb0f",
+          "proof_id": "96251afe24ae04166db11510",
+          "human_url": "https://hipsterte.ch/.well-known/keybase.txt",
+          "service_url": "https://hipsterte.ch",
+          "presentation_group": "hipsterte.ch",
+          "presentation_tag": "https"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "hipsterte.ch",
+          "state": 1,
+          "proof_url": "https://keybase.io/holcomb/sigchain#7f363c54896b55eef191870f1ce3aeffc3e226114b87dbbe94cfbe45e9ed3f2b0f",
+          "sig_id": "7f363c54896b55eef191870f1ce3aeffc3e226114b87dbbe94cfbe45e9ed3f2b0f",
+          "proof_id": "4c041049811199471a40d110",
+          "human_url": "dns://hipsterte.ch",
+          "service_url": "http://hipsterte.ch",
+          "presentation_group": "hipsterte.ch",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -99,6 +134,32 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "hipsterte.ch": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "hipsterte.ch",
+          "state": 1,
+          "proof_url": "https://hipsterte.ch/.well-known/keybase.txt",
+          "sig_id": "5d257b9174031e430486d86a78ada1252a877e5c03e47288ab82528e35cacafb0f",
+          "proof_id": "96251afe24ae04166db11510",
+          "human_url": "https://hipsterte.ch/.well-known/keybase.txt",
+          "service_url": "https://hipsterte.ch",
+          "presentation_group": "hipsterte.ch",
+          "presentation_tag": "https"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "hipsterte.ch",
+          "state": 1,
+          "proof_url": "https://keybase.io/holcomb/sigchain#7f363c54896b55eef191870f1ce3aeffc3e226114b87dbbe94cfbe45e9ed3f2b0f",
+          "sig_id": "7f363c54896b55eef191870f1ce3aeffc3e226114b87dbbe94cfbe45e9ed3f2b0f",
+          "proof_id": "4c041049811199471a40d110",
+          "human_url": "dns://hipsterte.ch",
+          "service_url": "http://hipsterte.ch",
+          "presentation_group": "hipsterte.ch",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -113,13 +174,37 @@
         "service_url": "https://github.com/brianholcomb",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "hipsterte.ch",
+        "state": 1,
+        "proof_url": "https://keybase.io/holcomb/sigchain#7f363c54896b55eef191870f1ce3aeffc3e226114b87dbbe94cfbe45e9ed3f2b0f",
+        "sig_id": "7f363c54896b55eef191870f1ce3aeffc3e226114b87dbbe94cfbe45e9ed3f2b0f",
+        "proof_id": "4c041049811199471a40d110",
+        "human_url": "dns://hipsterte.ch",
+        "service_url": "http://hipsterte.ch",
+        "presentation_group": "hipsterte.ch",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "hipsterte.ch",
+        "state": 1,
+        "proof_url": "https://hipsterte.ch/.well-known/keybase.txt",
+        "sig_id": "5d257b9174031e430486d86a78ada1252a877e5c03e47288ab82528e35cacafb0f",
+        "proof_id": "96251afe24ae04166db11510",
+        "human_url": "https://hipsterte.ch/.well-known/keybase.txt",
+        "service_url": "https://hipsterte.ch",
+        "presentation_group": "hipsterte.ch",
+        "presentation_tag": "https"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e821f25c472458f94814d3f0d723cd05_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/56c0dc9919d7c81d86fcfd7df2f3ac05_360_360.png",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -127,12 +212,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "cf8f83687f125f5e2e82003f6756e65b4648f764c7d822d76a241e7836d3a3aa0f",
-      "seqno": 19,
-      "payload_hash": "e346c8a911cf74890451351421419db7c0a50da1f293fc1670e5e448070e9253"
+      "sig_id": "d824c063549f7d53335b648d3a6545a9739712ca058e449a07b762bb379733c40f",
+      "seqno": 42,
+      "payload_hash": "dba36e246fa1d256dd38170f831d0611cd4190e923cbbe16bf14717e1c9e9362"
     }
   },
   "devices": {
+    "2a3bc3ba4a192630d7fca9dcd2a76c18": {
+      "type": "desktop",
+      "ctime": 1500500618,
+      "mtime": 1500500619,
+      "name": "elmo",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120f71335bf10c8eb7a27d4868ecf5f2ee24b4ad4b3fec3210219be7a1e0adc74910a",
+          "key_role": 1,
+          "sig_id": "8ae0bb6e478f3dedc789574eb18f80b09f6393a3d30d648832d1ac4d622622d00f"
+        },
+        {
+          "kid": "0121bd17e127f597b094ab802473fe2fdfbb11081adb18432cb4ed56106a2ba8f3000a",
+          "key_role": 2,
+          "sig_id": "9a7b8f948a6698df2dd01dfba64cb16f3cfbe7960a3eccccb8e2e184aaa8699a0f"
+        }
+      ]
+    },
     "63f55059748c5824a6b115046f038f18": {
       "type": "backup",
       "ctime": 1457391371,
