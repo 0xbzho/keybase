@@ -4,10 +4,11 @@
     "username": "dberkom",
     "ctime": 1423326162,
     "mtime": 1423326162,
-    "id_version": 56,
-    "track_version": 8,
-    "last_id_change": 1473805916,
-    "username_cased": "dberkom"
+    "id_version": 65,
+    "track_version": 10,
+    "last_id_change": 1496003235,
+    "username_cased": "dberkom",
+    "status": 0
   },
   "profile": {
     "mtime": 1423329686,
@@ -38,16 +39,20 @@
       "01209f029519b8a30f3c01deaab555457372e6eeda1a9d2a987bf14e13fd314466cf0a",
       "01216765743835b774ec676d2018917f35728a2dbcbd5be1af384b0424c39742060c0a",
       "0120d120d2c2894aaf16a27a55a3445ea3c2a182b167d1d4439121bd1dbd857670de0a",
-      "0121feddd694f09f5859ec8f28de4e189607d812618e2709f8859ff10c462e0cdf190a"
+      "0121feddd694f09f5859ec8f28de4e189607d812618e2709f8859ff10c462e0cdf190a",
+      "01214c91365076baeccc69e4ef069671eaa293148c226b065752812c279a29ca70640a",
+      "012003108260b95942a64559b61d565c2432e881c4b626021a0b6c1876f72a81c1c50a"
     ],
     "subkeys": [
       "01216765743835b774ec676d2018917f35728a2dbcbd5be1af384b0424c39742060c0a",
-      "0121feddd694f09f5859ec8f28de4e189607d812618e2709f8859ff10c462e0cdf190a"
+      "0121feddd694f09f5859ec8f28de4e189607d812618e2709f8859ff10c462e0cdf190a",
+      "01214c91365076baeccc69e4ef069671eaa293148c226b065752812c279a29ca70640a"
     ],
     "sibkeys": [
       "010178357e943db8e096430cb4e76b6f7213656376df62d071c820f0bbf921cf59f30a",
       "01209f029519b8a30f3c01deaab555457372e6eeda1a9d2a987bf14e13fd314466cf0a",
-      "0120d120d2c2894aaf16a27a55a3445ea3c2a182b167d1d4439121bd1dbd857670de0a"
+      "0120d120d2c2894aaf16a27a55a3445ea3c2a182b167d1d4439121bd1dbd857670de0a",
+      "012003108260b95942a64559b61d565c2432e881c4b626021a0b6c1876f72a81c1c50a"
     ],
     "families": {
       "010178357e943db8e096430cb4e76b6f7213656376df62d071c820f0bbf921cf59f30a": [
@@ -55,7 +60,9 @@
         "01209f029519b8a30f3c01deaab555457372e6eeda1a9d2a987bf14e13fd314466cf0a",
         "01216765743835b774ec676d2018917f35728a2dbcbd5be1af384b0424c39742060c0a",
         "0120d120d2c2894aaf16a27a55a3445ea3c2a182b167d1d4439121bd1dbd857670de0a",
-        "0121feddd694f09f5859ec8f28de4e189607d812618e2709f8859ff10c462e0cdf190a"
+        "0121feddd694f09f5859ec8f28de4e189607d812618e2709f8859ff10c462e0cdf190a",
+        "01214c91365076baeccc69e4ef069671eaa293148c226b065752812c279a29ca70640a",
+        "012003108260b95942a64559b61d565c2432e881c4b626021a0b6c1876f72a81c1c50a"
       ]
     },
     "eldest_kid": "010178357e943db8e096430cb4e76b6f7213656376df62d071c820f0bbf921cf59f30a",
@@ -241,16 +248,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "19b448ca1f73b834cc44ab4ff1ccadb5cd15deb8c5b0343347d575d8987a6a1a0f",
-      "seqno": 19,
-      "payload_hash": "09913b7087f1ee02ab60ba6420ee62b767d50a4a8a3c3fd707dd79bb1201b901"
+      "sig_id": "c526ecf6770600d042b78525ad1736750bcb25885c6c87d0c237c6857d20f2bb0f",
+      "seqno": 24,
+      "payload_hash": "32041f59916e0f18de7c351909119c77d5a9e2c16a472aed50198ee4caec808c"
     }
   },
   "devices": {
+    "4693814c13d84a87668ba58e8a791318": {
+      "type": "desktop",
+      "ctime": 1479436919,
+      "mtime": 1479436919,
+      "name": "Rothbard",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012003108260b95942a64559b61d565c2432e881c4b626021a0b6c1876f72a81c1c50a",
+          "key_role": 1,
+          "sig_id": "2e6c276dc56dc376a9e663062945f39e9aa40ecc70c9bb4271fa89c04237dd000f"
+        },
+        {
+          "kid": "01214c91365076baeccc69e4ef069671eaa293148c226b065752812c279a29ca70640a",
+          "key_role": 2,
+          "sig_id": "dd37ec7ad5ed4653e0b66686432923bb7f006de0979b7794d8319cace0e94f190f"
+        }
+      ]
+    },
     "518bb0c39dd3ba11f6ea559b53a7f218": {
       "type": "desktop",
-      "ctime": 1471149083,
-      "mtime": 1471149083,
+      "ctime": 1471152683,
+      "mtime": 1471152683,
       "name": "Bastiat",
       "status": 1,
       "keys": [
@@ -268,8 +294,8 @@
     },
     "d4a97b842908c1170574f464d7ba1618": {
       "type": "backup",
-      "ctime": 1471149084,
-      "mtime": 1471149084,
+      "ctime": 1471152684,
+      "mtime": 1471152684,
       "name": "plug cradle",
       "status": 1,
       "keys": [
