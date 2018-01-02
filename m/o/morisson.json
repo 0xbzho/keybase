@@ -4,16 +4,17 @@
     "username": "morisson",
     "ctime": 1454758584,
     "mtime": 1454758584,
-    "id_version": 9,
-    "track_version": 25,
-    "last_id_change": 1454785949,
-    "username_cased": "morisson"
+    "id_version": 12,
+    "track_version": 31,
+    "last_id_change": 1505948373,
+    "username_cased": "morisson",
+    "status": 0
   },
   "profile": {
-    "mtime": 1454759095,
+    "mtime": 1505948536,
     "full_name": "Bruno Morisson",
     "location": "E_TOOMUCHINFO",
-    "bio": "Breaker of bits. @BSidesLisbon organizer. Not a fan of the word cyber. I once split a bit in two."
+    "bio": "Breaker of bits. @BSidesLisbon organizer. Not a fan of the word cyber. I like my IVs random."
   },
   "public_keys": {
     "primary": {
@@ -38,16 +39,24 @@
       "0120296ce5899abd3145a013aeb601fc5d5cbf46a3081d2747a324e9f56cd47e28780a",
       "012183d114555b51345018d18bf8b025d3848fd58098bca8d8bcc6b27c648a8ac25b0a",
       "0120db628d03685714ec4fc58835203b0b18876abe52c59cd7749ba2a2a630c5e9610a",
-      "012135809738a8f8386c4e14a4bd0845d1c0d70670f1aebc1440934db09b7b3d13390a"
+      "012135809738a8f8386c4e14a4bd0845d1c0d70670f1aebc1440934db09b7b3d13390a",
+      "01207b86198ec7395f6a94227f4271974f4c0e4e497dedf1bdddc24dc0d9dcd9363d0a",
+      "0121900b0eba4ea3cde75c5504e3088b819e8505669ba07d83bd49a78784a79221240a",
+      "01202421e94c61270ca19bc9200f8b0738a5941e6fc9de33341b077efa6b96dadd510a",
+      "012168374ead343e83ea577f64ba4585f5f1556e6279d001c006d1f1d5c4609a7c030a",
+      "0120d8c90f99c863a8457ebdad65218c4bf2b4663f2d56b561e925753bd9fb6469cb0a",
+      "012174a277221bfc430cc250600c6549a24613ea0beb8b1a0bf65e8ffd118ac1ed400a"
     ],
     "subkeys": [
       "012183d114555b51345018d18bf8b025d3848fd58098bca8d8bcc6b27c648a8ac25b0a",
-      "012135809738a8f8386c4e14a4bd0845d1c0d70670f1aebc1440934db09b7b3d13390a"
+      "0121900b0eba4ea3cde75c5504e3088b819e8505669ba07d83bd49a78784a79221240a",
+      "012168374ead343e83ea577f64ba4585f5f1556e6279d001c006d1f1d5c4609a7c030a"
     ],
     "sibkeys": [
       "0101bff48da96efafacda07574365ea53d916e1107c949bb3711d6c88c86eea37baa0a",
       "0120296ce5899abd3145a013aeb601fc5d5cbf46a3081d2747a324e9f56cd47e28780a",
-      "0120db628d03685714ec4fc58835203b0b18876abe52c59cd7749ba2a2a630c5e9610a"
+      "01207b86198ec7395f6a94227f4271974f4c0e4e497dedf1bdddc24dc0d9dcd9363d0a",
+      "01202421e94c61270ca19bc9200f8b0738a5941e6fc9de33341b077efa6b96dadd510a"
     ],
     "families": {
       "0101bff48da96efafacda07574365ea53d916e1107c949bb3711d6c88c86eea37baa0a": [
@@ -55,7 +64,13 @@
         "0120296ce5899abd3145a013aeb601fc5d5cbf46a3081d2747a324e9f56cd47e28780a",
         "012183d114555b51345018d18bf8b025d3848fd58098bca8d8bcc6b27c648a8ac25b0a",
         "0120db628d03685714ec4fc58835203b0b18876abe52c59cd7749ba2a2a630c5e9610a",
-        "012135809738a8f8386c4e14a4bd0845d1c0d70670f1aebc1440934db09b7b3d13390a"
+        "012135809738a8f8386c4e14a4bd0845d1c0d70670f1aebc1440934db09b7b3d13390a",
+        "01207b86198ec7395f6a94227f4271974f4c0e4e497dedf1bdddc24dc0d9dcd9363d0a",
+        "0121900b0eba4ea3cde75c5504e3088b819e8505669ba07d83bd49a78784a79221240a",
+        "01202421e94c61270ca19bc9200f8b0738a5941e6fc9de33341b077efa6b96dadd510a",
+        "012168374ead343e83ea577f64ba4585f5f1556e6279d001c006d1f1d5c4609a7c030a",
+        "0120d8c90f99c863a8457ebdad65218c4bf2b4663f2d56b561e925753bd9fb6469cb0a",
+        "012174a277221bfc430cc250600c6549a24613ea0beb8b1a0bf65e8ffd118ac1ed400a"
       ]
     },
     "eldest_kid": "0101bff48da96efafacda07574365ea53d916e1107c949bb3711d6c88c86eea37baa0a",
@@ -163,31 +178,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d9f47ddedc6b7e30ae89ddba919548904b9f3a727b1f538079f56f5cd7e8d45e0f",
-      "seqno": 32,
-      "payload_hash": "cd83e4494868f1d9a6fa5c9698a6c1cf8dc585c4d9c5df3e7d7e60b27408c54a"
+      "sig_id": "1a3a9d3bf5d6b15c0f616a9cfe9ecbcff7461a6a05f81ff6edbbfc0715954c8f0f",
+      "seqno": 49,
+      "payload_hash": "83348f3305f827094fb8965aab6476396fdc6978f47bb6ca35ba9d7e80d4d640"
     }
   },
   "devices": {
-    "179469eb4ec6007399b44b9ecd289e18": {
-      "type": "backup",
-      "ctime": 1454785446,
-      "mtime": 1454785446,
-      "name": "idea parent",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120db628d03685714ec4fc58835203b0b18876abe52c59cd7749ba2a2a630c5e9610a",
-          "key_role": 1,
-          "sig_id": "5025e4005d2c9b0474473fe2ae86295e99c1e0f074e92256dc00d9e7efdba8430f"
-        },
-        {
-          "kid": "012135809738a8f8386c4e14a4bd0845d1c0d70670f1aebc1440934db09b7b3d13390a",
-          "key_role": 2,
-          "sig_id": "0dda2240ff72dcd30bb1902225eabd4c24ce839e082fd297de4ebd8892e13bde0f"
-        }
-      ]
-    },
     "50a79cd965265988b5017f283c841d18": {
       "type": "desktop",
       "ctime": 1454785445,
@@ -204,6 +200,44 @@
           "kid": "012183d114555b51345018d18bf8b025d3848fd58098bca8d8bcc6b27c648a8ac25b0a",
           "key_role": 2,
           "sig_id": "c5f4cb6f0d92682d5ecae35223e88899295437de5c0a5b4f80885bfc246cf24d0f"
+        }
+      ]
+    },
+    "ac42c0d3632321d483d218083de15518": {
+      "type": "mobile",
+      "ctime": 1497430458,
+      "mtime": 1497430458,
+      "name": "iphone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01207b86198ec7395f6a94227f4271974f4c0e4e497dedf1bdddc24dc0d9dcd9363d0a",
+          "key_role": 1,
+          "sig_id": "856ad5721a3e666102e3b5557b1a9576da49fd7d0e24a0fa81b6c24bbaec0d2e0f"
+        },
+        {
+          "kid": "0121900b0eba4ea3cde75c5504e3088b819e8505669ba07d83bd49a78784a79221240a",
+          "key_role": 2,
+          "sig_id": "fd10af1ade93cb7b888780dfe6d51019f038e6c4a5106d4015b7f0b8938ca9c60f"
+        }
+      ]
+    },
+    "e634b0cf6eaf4a558bf6de3b5eaead18": {
+      "type": "backup",
+      "ctime": 1505948322,
+      "mtime": 1505948322,
+      "name": "arm great",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01202421e94c61270ca19bc9200f8b0738a5941e6fc9de33341b077efa6b96dadd510a",
+          "key_role": 1,
+          "sig_id": "75e52e8d65991ca146603d50cee52cea1cb57989ad3f7d182a3f19e89d832bb50f"
+        },
+        {
+          "kid": "012168374ead343e83ea577f64ba4585f5f1556e6279d001c006d1f1d5c4609a7c030a",
+          "key_role": 2,
+          "sig_id": "a987fe1ca5ca0e74b41e7b2c598d5aa8b205b17a31a542aec53cc7883737d9e00f"
         }
       ]
     }
