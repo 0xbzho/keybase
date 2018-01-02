@@ -4,13 +4,14 @@
     "username": "jroggeman",
     "ctime": 1454689732,
     "mtime": 1454689732,
-    "id_version": 7,
-    "track_version": 2,
-    "last_id_change": 1454690627,
-    "username_cased": "jroggeman"
+    "id_version": 9,
+    "track_version": 4,
+    "last_id_change": 1507223847,
+    "username_cased": "jroggeman",
+    "status": 0
   },
   "profile": {
-    "mtime": 1476313026,
+    "mtime": 1506629364,
     "full_name": "Joel Roggeman",
     "location": "Bellevue",
     "bio": "Engineer @Microsoft.  I like compilers, baking, and cats."
@@ -38,16 +39,22 @@
       "0120e38dd973fa7a9abda5c9e0f7672ba343a98f89f6599c928fadcc2e32e2a183660a",
       "01212cae2e993d51e72e8d5308e7d32370b6752c5296128fcb17bdd85daeb964b5590a",
       "0120375f7a16d0d9a949e6fab265cd51fe53992d792b4a6d3b953b87a6ffbe6589860a",
-      "012158a294f017a7324db220b547a60ccb061d35c711666b402fc274a6b92d2db2090a"
+      "012158a294f017a7324db220b547a60ccb061d35c711666b402fc274a6b92d2db2090a",
+      "0121bf648dd72325adf919dc26ec9bc9501ca71c3354736f66ef3251b4800ea0342f0a",
+      "0120b52f22b729d2099d338ba49e86ded27cd50d9ff850e09ac83d3b5d6f8aeff5290a",
+      "012132ef82ad7b435dbecbd1052faa853f316fe38ac3ed83f73a602535b847350a400a",
+      "01201b0642ff704c1d7f9aa885eddad23f6fd330520f585ddda1bdae8758a44a79dd0a"
     ],
     "subkeys": [
       "01212cae2e993d51e72e8d5308e7d32370b6752c5296128fcb17bdd85daeb964b5590a",
-      "012158a294f017a7324db220b547a60ccb061d35c711666b402fc274a6b92d2db2090a"
+      "0121bf648dd72325adf919dc26ec9bc9501ca71c3354736f66ef3251b4800ea0342f0a",
+      "012132ef82ad7b435dbecbd1052faa853f316fe38ac3ed83f73a602535b847350a400a"
     ],
     "sibkeys": [
       "0101de982e0167b3602c59e601fe858844577008a583bbfd2c1d1336a402e2726ec70a",
-      "0120e38dd973fa7a9abda5c9e0f7672ba343a98f89f6599c928fadcc2e32e2a183660a",
-      "0120375f7a16d0d9a949e6fab265cd51fe53992d792b4a6d3b953b87a6ffbe6589860a"
+      "0120375f7a16d0d9a949e6fab265cd51fe53992d792b4a6d3b953b87a6ffbe6589860a",
+      "0120b52f22b729d2099d338ba49e86ded27cd50d9ff850e09ac83d3b5d6f8aeff5290a",
+      "01201b0642ff704c1d7f9aa885eddad23f6fd330520f585ddda1bdae8758a44a79dd0a"
     ],
     "families": {
       "0101de982e0167b3602c59e601fe858844577008a583bbfd2c1d1336a402e2726ec70a": [
@@ -55,7 +62,11 @@
         "0120e38dd973fa7a9abda5c9e0f7672ba343a98f89f6599c928fadcc2e32e2a183660a",
         "01212cae2e993d51e72e8d5308e7d32370b6752c5296128fcb17bdd85daeb964b5590a",
         "0120375f7a16d0d9a949e6fab265cd51fe53992d792b4a6d3b953b87a6ffbe6589860a",
-        "012158a294f017a7324db220b547a60ccb061d35c711666b402fc274a6b92d2db2090a"
+        "012158a294f017a7324db220b547a60ccb061d35c711666b402fc274a6b92d2db2090a",
+        "0121bf648dd72325adf919dc26ec9bc9501ca71c3354736f66ef3251b4800ea0342f0a",
+        "0120b52f22b729d2099d338ba49e86ded27cd50d9ff850e09ac83d3b5d6f8aeff5290a",
+        "012132ef82ad7b435dbecbd1052faa853f316fe38ac3ed83f73a602535b847350a400a",
+        "01201b0642ff704c1d7f9aa885eddad23f6fd330520f585ddda1bdae8758a44a79dd0a"
       ]
     },
     "eldest_kid": "0101de982e0167b3602c59e601fe858844577008a583bbfd2c1d1336a402e2726ec70a",
@@ -170,12 +181,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "940edd7e5d4718ffcbefea6fa67f2a7f9caf734aa90fb00a7020346ad7b277390f",
-      "seqno": 10,
-      "payload_hash": "be8b0fb6f7cd86fc526b3f8e9a99f218588bd01da7b1a24e2816a5b0b21e7845"
+      "sig_id": "2d8b97fefbbcee2f63884b71ed651ffd824a939115d3b50af87ac048dc4b920d0f",
+      "seqno": 19,
+      "payload_hash": "6cfbbd5d7933f3c49ddf5285c3cf07bde1f5931235536158bfb5bc18c488471b"
     }
   },
   "devices": {
+    "18b2793abd79188cd9119c787bdc8f18": {
+      "type": "backup",
+      "ctime": 1507223847,
+      "mtime": 1507223847,
+      "name": "blossom orchard",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201b0642ff704c1d7f9aa885eddad23f6fd330520f585ddda1bdae8758a44a79dd0a",
+          "key_role": 1,
+          "sig_id": "c9291757e7c8b57124d71db2419155b861df9a33103262b0462cd0487cb9528b0f"
+        },
+        {
+          "kid": "012132ef82ad7b435dbecbd1052faa853f316fe38ac3ed83f73a602535b847350a400a",
+          "key_role": 2,
+          "sig_id": "8436fafa65bf20b082fd621bdb8f8bf61ef3705ec834ca7595dc3ba734d814a80f"
+        }
+      ]
+    },
     "374d83901847604c2c12ec6e2250b018": {
       "type": "desktop",
       "ctime": 1454690627,
@@ -195,22 +225,22 @@
         }
       ]
     },
-    "c29deb43e03dfa27b7083eead5f3a918": {
-      "type": "backup",
-      "ctime": 1454690627,
-      "mtime": 1454690627,
-      "name": "chest tag",
+    "78deea599979ea33471112b3a8281018": {
+      "type": "desktop",
+      "ctime": 1507223689,
+      "mtime": 1507223689,
+      "name": "Work Desktop",
       "status": 1,
       "keys": [
         {
-          "kid": "0120e38dd973fa7a9abda5c9e0f7672ba343a98f89f6599c928fadcc2e32e2a183660a",
+          "kid": "0120b52f22b729d2099d338ba49e86ded27cd50d9ff850e09ac83d3b5d6f8aeff5290a",
           "key_role": 1,
-          "sig_id": "27b6fff138e98e8fda60050e6721073e282cb92e4f216a013f78e475253b2d1e0f"
+          "sig_id": "e9b95ab8bb24f954bde95b4b89610aa714a8da1f6b7cdc576b537e56c4c444070f"
         },
         {
-          "kid": "012158a294f017a7324db220b547a60ccb061d35c711666b402fc274a6b92d2db2090a",
+          "kid": "0121bf648dd72325adf919dc26ec9bc9501ca71c3354736f66ef3251b4800ea0342f0a",
           "key_role": 2,
-          "sig_id": "ffb85a838847be7e1bd2c34492260441e1a0257e26d3f18675850a73ae5e62c20f"
+          "sig_id": "d9364e6c0d357f4a27742cbd00a749af66cb057c0c9d871f70c260f536d42d980f"
         }
       ]
     }
