@@ -4,13 +4,14 @@
     "username": "shinmera",
     "ctime": 1417793576,
     "mtime": 1417793576,
-    "id_version": 88,
+    "id_version": 98,
     "track_version": 5,
-    "last_id_change": 1474529796,
-    "username_cased": "shinmera"
+    "last_id_change": 1511352048,
+    "username_cased": "shinmera",
+    "status": 0
   },
   "profile": {
-    "mtime": 1469098553,
+    "mtime": 1469102153,
     "full_name": "Nicolas Hafner",
     "location": "Zürich, Switzerland",
     "bio": "Open Source Common Lisp programmer, ETHZ Student, artist."
@@ -34,15 +35,34 @@
       "self_signed": true
     },
     "all_bundles": [
-      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v2\n\nmQENBFR9iA8BCACcJeQoYw8XRekE7heQD6ZCLz93K6f5r8vpELRgAMgoS8jVURBE\nhMDWi0/JMyKjo/hvspDDCanp6ZLgHo+sCpF8ue1K8UdVpQEvruAX/6uHhhSe3wtd\nkme6TNd2OjwCS1A5fmkp6tHiMsVq0FZwkAP+wEm5feuL+wiJRB3YTPBv3lbw3mxi\nnVLmcX1ZCyulerL8mDEhFWXU/iqbUe5vxnHMgGKa3ukrLg7AmWwWlfE06GDRbHPm\n9ciT+5RTV+DnWSvhR1zvbnkDHjWnrqn6PXoWTZQjvXI2BUJ7lQ7WGrPuNI9qyrpr\n/MHNkQ8y0oS2vWfYl+bbrA5HCVQyxia0f6xNABEBAAG0I05pY29sYXMgSGFmbmVy\nIDxzaGlubWVyYUB0eW1vb24uZXU+iQE3BBMBCAAhBQJUfYgPAhsDBQsJCAcCBhUI\nCQoLAgQWAgMBAh4BAheAAAoJEOErFEeL5MkizhkH/1No+WYZ0Xa8A3qX42jXZPve\nflFEYyM5Fqd/947qRnqur80seVbZkb0ga76WvIa1bv7yaV4QeyALeExMqoP8jivH\nj2Eu35cb8UE3xVW+c/C9PICNqmNcEt9LGa3WGdGrazEoJ/NqZy9cNjJC4WVf3+wy\nlMBYCWa41JbXvtmqy6Dq3heQf8SKnwi/GCfTtMbAA9gIi45//n8LVGOxHxIMdEjO\nk29d89VAMDqSvXL/T3SkeAjVrSP+MYDoRKe2Aq5sYLx0r2YPnkEcCecqJjaer6vC\n1RxaqTZJpgluNleyvnJDDM4hqWk33JE0vvyH7CJcMvnuzfg6H/Ob4fEQwrh3DN25\nAQ0EVH2IDwEIAOHU6MebF4ZykIv+szWzYVfg5w0ktkCZBHdSK+aNyfBPVl87IDOC\nX+zZ1/2KTqEYnrCltUUkegOJvJ4axsI1tibBxdTEq0d1uBFgoh/e6jvX7Bv/2fMS\nRGthXDY+tVlkmlThm+Dt/13xOmlDv3DYZKnVCrY6hVK2kuDBLddDLIzzq3iGxM/x\nIg3Nr5knpEcyRvmQ+IAO/2VUFGl7uMiqP+58O54D0DHjJeFTnl1EYoN5MGujzqlL\nJubAQAIZUaNpgWeVh8s49J6tCXkvM/RV1FDJRWU772W4kRyaghvrccreWdNcmdsI\n8T2yw9f/EqtxwAqOyVLDkiwLIPpDa4pzQ4sAEQEAAYkBHwQYAQgACQUCVH2IDwIb\nDAAKCRDhKxRHi+TJIh6tB/9QaZhCcFcRvBgvSmI8Xfk54dm5Dzf0Y5kttu923i6R\nepebSfRjE6A/NIU/E4qDYJISn/BYB/g/yVt2qfGCAxDejhcepRA6yF50zOXwnMBZ\nuCSKaPjT3AgAdVgFluN+UhgOdaibo9vHIAJUGpuLLwbOBHjnrR1DenPo6gobODF7\noaQ53Qy3BXNBGQlS1kyYaF5wMrtD3S3VP2tkMCclqZszBCl4atyMLxM5mVv/jgrR\nqxOhbmOXPy5sQPc5SIanGrGpHxk8jLaa1n2wjLerk4T5p9hOfbSkJT3pb6pl7wOe\nOmn8LSAuYlmYKIQOCmETVO7DujH5Yyysshd5c9BJweo0\n=4r7e\n-----END PGP PUBLIC KEY BLOCK-----"
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v2\n\nmQENBFR9iA8BCACcJeQoYw8XRekE7heQD6ZCLz93K6f5r8vpELRgAMgoS8jVURBE\nhMDWi0/JMyKjo/hvspDDCanp6ZLgHo+sCpF8ue1K8UdVpQEvruAX/6uHhhSe3wtd\nkme6TNd2OjwCS1A5fmkp6tHiMsVq0FZwkAP+wEm5feuL+wiJRB3YTPBv3lbw3mxi\nnVLmcX1ZCyulerL8mDEhFWXU/iqbUe5vxnHMgGKa3ukrLg7AmWwWlfE06GDRbHPm\n9ciT+5RTV+DnWSvhR1zvbnkDHjWnrqn6PXoWTZQjvXI2BUJ7lQ7WGrPuNI9qyrpr\n/MHNkQ8y0oS2vWfYl+bbrA5HCVQyxia0f6xNABEBAAG0I05pY29sYXMgSGFmbmVy\nIDxzaGlubWVyYUB0eW1vb24uZXU+iQE3BBMBCAAhBQJUfYgPAhsDBQsJCAcCBhUI\nCQoLAgQWAgMBAh4BAheAAAoJEOErFEeL5MkizhkH/1No+WYZ0Xa8A3qX42jXZPve\nflFEYyM5Fqd/947qRnqur80seVbZkb0ga76WvIa1bv7yaV4QeyALeExMqoP8jivH\nj2Eu35cb8UE3xVW+c/C9PICNqmNcEt9LGa3WGdGrazEoJ/NqZy9cNjJC4WVf3+wy\nlMBYCWa41JbXvtmqy6Dq3heQf8SKnwi/GCfTtMbAA9gIi45//n8LVGOxHxIMdEjO\nk29d89VAMDqSvXL/T3SkeAjVrSP+MYDoRKe2Aq5sYLx0r2YPnkEcCecqJjaer6vC\n1RxaqTZJpgluNleyvnJDDM4hqWk33JE0vvyH7CJcMvnuzfg6H/Ob4fEQwrh3DN25\nAQ0EVH2IDwEIAOHU6MebF4ZykIv+szWzYVfg5w0ktkCZBHdSK+aNyfBPVl87IDOC\nX+zZ1/2KTqEYnrCltUUkegOJvJ4axsI1tibBxdTEq0d1uBFgoh/e6jvX7Bv/2fMS\nRGthXDY+tVlkmlThm+Dt/13xOmlDv3DYZKnVCrY6hVK2kuDBLddDLIzzq3iGxM/x\nIg3Nr5knpEcyRvmQ+IAO/2VUFGl7uMiqP+58O54D0DHjJeFTnl1EYoN5MGujzqlL\nJubAQAIZUaNpgWeVh8s49J6tCXkvM/RV1FDJRWU772W4kRyaghvrccreWdNcmdsI\n8T2yw9f/EqtxwAqOyVLDkiwLIPpDa4pzQ4sAEQEAAYkBHwQYAQgACQUCVH2IDwIb\nDAAKCRDhKxRHi+TJIh6tB/9QaZhCcFcRvBgvSmI8Xfk54dm5Dzf0Y5kttu923i6R\nepebSfRjE6A/NIU/E4qDYJISn/BYB/g/yVt2qfGCAxDejhcepRA6yF50zOXwnMBZ\nuCSKaPjT3AgAdVgFluN+UhgOdaibo9vHIAJUGpuLLwbOBHjnrR1DenPo6gobODF7\noaQ53Qy3BXNBGQlS1kyYaF5wMrtD3S3VP2tkMCclqZszBCl4atyMLxM5mVv/jgrR\nqxOhbmOXPy5sQPc5SIanGrGpHxk8jLaa1n2wjLerk4T5p9hOfbSkJT3pb6pl7wOe\nOmn8LSAuYlmYKIQOCmETVO7DujH5Yyysshd5c9BJweo0\n=4r7e\n-----END PGP PUBLIC KEY BLOCK-----",
+      "01210269a29aa12a64d21e90b26dade32a4b28f9f8ba84b7ec6b7677ca223682694a0a",
+      "01208bbd670ad1efec1797a2c80059a4e3382218c7d0f4179d1f04a57c0e1e3b37f80a",
+      "0121c2f821aa6153488b7a3275170289f73e520b01db5c0041945ec07a3f5c3f951d0a",
+      "012026801d3ee40e3fbfc75780984917ccff4e747763a917a973ec390b5811d8f3970a",
+      "0121552f496995851df3d16e20a92acfc7c0ca24cb2d673a7ca010b41026877f412b0a",
+      "0120727128b6bea5add7c24cc77952a01e6fa8ed663e1829e51c8c994250a37682550a"
     ],
-    "subkeys": [],
+    "subkeys": [
+      "01210269a29aa12a64d21e90b26dade32a4b28f9f8ba84b7ec6b7677ca223682694a0a",
+      "0121c2f821aa6153488b7a3275170289f73e520b01db5c0041945ec07a3f5c3f951d0a",
+      "0121552f496995851df3d16e20a92acfc7c0ca24cb2d673a7ca010b41026877f412b0a"
+    ],
     "sibkeys": [
-      "01014054af38ef780dd9d45c0df322baa2cee27b97d8f461d728f0bf7c4286c0bb920a"
+      "01014054af38ef780dd9d45c0df322baa2cee27b97d8f461d728f0bf7c4286c0bb920a",
+      "01208bbd670ad1efec1797a2c80059a4e3382218c7d0f4179d1f04a57c0e1e3b37f80a",
+      "012026801d3ee40e3fbfc75780984917ccff4e747763a917a973ec390b5811d8f3970a",
+      "0120727128b6bea5add7c24cc77952a01e6fa8ed663e1829e51c8c994250a37682550a"
     ],
     "families": {
       "01014054af38ef780dd9d45c0df322baa2cee27b97d8f461d728f0bf7c4286c0bb920a": [
-        "01014054af38ef780dd9d45c0df322baa2cee27b97d8f461d728f0bf7c4286c0bb920a"
+        "01014054af38ef780dd9d45c0df322baa2cee27b97d8f461d728f0bf7c4286c0bb920a",
+        "01210269a29aa12a64d21e90b26dade32a4b28f9f8ba84b7ec6b7677ca223682694a0a",
+        "01208bbd670ad1efec1797a2c80059a4e3382218c7d0f4179d1f04a57c0e1e3b37f80a",
+        "0121c2f821aa6153488b7a3275170289f73e520b01db5c0041945ec07a3f5c3f951d0a",
+        "012026801d3ee40e3fbfc75780984917ccff4e747763a917a973ec390b5811d8f3970a",
+        "0121552f496995851df3d16e20a92acfc7c0ca24cb2d673a7ca010b41026877f412b0a",
+        "0120727128b6bea5add7c24cc77952a01e6fa8ed663e1829e51c8c994250a37682550a"
       ]
     },
     "eldest_kid": "01014054af38ef780dd9d45c0df322baa2cee27b97d8f461d728f0bf7c4286c0bb920a",
@@ -95,20 +115,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "shinmera",
-          "state": 1,
-          "proof_url": "https://coinbase.com/Shinmera/public-key",
-          "sig_id": "667e99dd116bbbe9388915b726bcf1109e220699eb8dac41210fc2d6330d93d20f",
-          "proof_id": "21d93e11b99a65f85439b010",
-          "human_url": "https://coinbase.com/Shinmera/public-key",
-          "service_url": "https://coinbase.com/Shinmera",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "dns": [
         {
           "proof_type": "dns",
@@ -156,18 +162,6 @@
           "human_url": "dns://tymoon.eu",
           "service_url": "http://tymoon.eu",
           "presentation_group": "tymoon.eu",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "chen.bike",
-          "state": 1,
-          "proof_url": "https://keybase.io/shinmera/sigchain#97d4fe952a420b2bf9a7eb020c8784f6df71922ea65807bc30447afe2219727b0f",
-          "sig_id": "97d4fe952a420b2bf9a7eb020c8784f6df71922ea65807bc30447afe2219727b0f",
-          "proof_id": "d8cc813fcd75556af8a39410",
-          "human_url": "dns://chen.bike",
-          "service_url": "http://chen.bike",
-          "presentation_group": "chen.bike",
           "presentation_tag": "dns"
         },
         {
@@ -227,20 +221,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "shinmera",
-          "state": 1,
-          "proof_url": "https://coinbase.com/Shinmera/public-key",
-          "sig_id": "667e99dd116bbbe9388915b726bcf1109e220699eb8dac41210fc2d6330d93d20f",
-          "proof_id": "21d93e11b99a65f85439b010",
-          "human_url": "https://coinbase.com/Shinmera/public-key",
-          "service_url": "https://coinbase.com/Shinmera",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "shinmera.com": [
         {
           "proof_type": "dns",
@@ -297,20 +277,6 @@
           "presentation_tag": "dns"
         }
       ],
-      "chen.bike": [
-        {
-          "proof_type": "dns",
-          "nametag": "chen.bike",
-          "state": 1,
-          "proof_url": "https://keybase.io/shinmera/sigchain#97d4fe952a420b2bf9a7eb020c8784f6df71922ea65807bc30447afe2219727b0f",
-          "sig_id": "97d4fe952a420b2bf9a7eb020c8784f6df71922ea65807bc30447afe2219727b0f",
-          "proof_id": "d8cc813fcd75556af8a39410",
-          "human_url": "dns://chen.bike",
-          "service_url": "http://chen.bike",
-          "presentation_group": "chen.bike",
-          "presentation_tag": "dns"
-        }
-      ],
       "shirakumo.org": [
         {
           "proof_type": "dns",
@@ -364,18 +330,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "shinmera",
-        "state": 1,
-        "proof_url": "https://coinbase.com/Shinmera/public-key",
-        "sig_id": "667e99dd116bbbe9388915b726bcf1109e220699eb8dac41210fc2d6330d93d20f",
-        "proof_id": "21d93e11b99a65f85439b010",
-        "human_url": "https://coinbase.com/Shinmera/public-key",
-        "service_url": "https://coinbase.com/Shinmera",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "dns",
         "nametag": "shinmera.com",
         "state": 1,
@@ -425,18 +379,6 @@
       },
       {
         "proof_type": "dns",
-        "nametag": "chen.bike",
-        "state": 1,
-        "proof_url": "https://keybase.io/shinmera/sigchain#97d4fe952a420b2bf9a7eb020c8784f6df71922ea65807bc30447afe2219727b0f",
-        "sig_id": "97d4fe952a420b2bf9a7eb020c8784f6df71922ea65807bc30447afe2219727b0f",
-        "proof_id": "d8cc813fcd75556af8a39410",
-        "human_url": "dns://chen.bike",
-        "service_url": "http://chen.bike",
-        "presentation_group": "chen.bike",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
         "nametag": "shirakumo.org",
         "state": 1,
         "proof_url": "https://keybase.io/shinmera/sigchain#04c57367ffc15f78ce556145a50d20717a3e230706ea51fae0ec1f2b1a43b29c0f",
@@ -459,7 +401,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2d96f53e38db4601dab10439065d9f05_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/8ec8d474c42e2ba99c703530efc56905_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -467,10 +409,68 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "ed2c1d6961ce9b2630c9c9245488f8027cec243dcd0a8d55b5c194a82ddf3ac80f",
-      "seqno": 30,
-      "payload_hash": "80e6525729ae57c91d03e60198a1a5f2f821d75e13da86468571374f5260b2f5"
+      "sig_id": "cdfb63bf4b5fa6960418cd7fb2ea14da6f61e447920753aceb06a7635c7cf41a0f",
+      "seqno": 38,
+      "payload_hash": "6084f30a913adb567b128e9cb616be4b5af02cc0d421bc51720ab8ef298f4b85"
     }
   },
-  "devices": {}
+  "devices": {
+    "0ff9e1db5572cc5019bc9e7881113e18": {
+      "type": "backup",
+      "ctime": 1492251651,
+      "mtime": 1492251651,
+      "name": "cereal task",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012026801d3ee40e3fbfc75780984917ccff4e747763a917a973ec390b5811d8f3970a",
+          "key_role": 1,
+          "sig_id": "12ccdac878797cef75bb3938df70f3d141d95831898182b5049f0557e313e0130f"
+        },
+        {
+          "kid": "0121c2f821aa6153488b7a3275170289f73e520b01db5c0041945ec07a3f5c3f951d0a",
+          "key_role": 2,
+          "sig_id": "82601c33f4777ef2621f7a8a1dbfd8a208e309abfb3e4f9567711ff9a947bcfe0f"
+        }
+      ]
+    },
+    "73027f380a7860a15309c5f7aadce518": {
+      "type": "desktop",
+      "ctime": 1511352048,
+      "mtime": 1511352048,
+      "name": "linuy",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120727128b6bea5add7c24cc77952a01e6fa8ed663e1829e51c8c994250a37682550a",
+          "key_role": 1,
+          "sig_id": "3e19f7384e74db81f63cdf897d2d4c86d2d7623c82d773360c01be16998a94780f"
+        },
+        {
+          "kid": "0121552f496995851df3d16e20a92acfc7c0ca24cb2d673a7ca010b41026877f412b0a",
+          "key_role": 2,
+          "sig_id": "bfa772deba11ff6ffe57e7133f2c2a432dfc339772aa65bf09c17c7bdab2ebc70f"
+        }
+      ]
+    },
+    "8ba4a34fe6fcd0d369df0c8a58878a18": {
+      "type": "desktop",
+      "ctime": 1492251650,
+      "mtime": 1492251650,
+      "name": "linuz",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01208bbd670ad1efec1797a2c80059a4e3382218c7d0f4179d1f04a57c0e1e3b37f80a",
+          "key_role": 1,
+          "sig_id": "4b96a192a7d0e80dc3ac5f525707ad87d46a1d744f80610052677b5f532754aa0f"
+        },
+        {
+          "kid": "01210269a29aa12a64d21e90b26dade32a4b28f9f8ba84b7ec6b7677ca223682694a0a",
+          "key_role": 2,
+          "sig_id": "e7b2acfdba3422f174ab7595f6e632b62b69405a97b03b82576147021cd60d410f"
+        }
+      ]
+    }
+  }
 }
