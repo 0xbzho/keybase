@@ -4,10 +4,11 @@
     "username": "dsolsona_bc",
     "ctime": 1421122925,
     "mtime": 1421122925,
-    "id_version": 3,
+    "id_version": 6,
     "track_version": 9,
-    "last_id_change": 1464568626,
-    "username_cased": "dsolsona_bc"
+    "last_id_change": 1502852910,
+    "username_cased": "dsolsona_bc",
+    "status": 0
   },
   "profile": {
     "mtime": 1421122979,
@@ -38,16 +39,18 @@
       "012147c50da8dbd38903a5aa8b99a9a1183a7d4b497f1eb1f75504911cd15e3d28120a",
       "0120b2b0013260fae4a1f38cc9072bb4ba70a17804aa8771b850193f2e51880039b40a",
       "0121a5ec21f44c2a9aa8c63a58b93e98e19d353c6c7a61c9b5dcc3a286e9a83a456b0a",
-      "0120d47c98f9a7ab8b9904e6a5df88c0358aa48745ed4fe9016ce63585f45b2ea79d0a"
+      "0120d47c98f9a7ab8b9904e6a5df88c0358aa48745ed4fe9016ce63585f45b2ea79d0a",
+      "0121e0d6bd903a523d13e97d8a948257d4498dc5476502e9c6920b81ba70cadeb04b0a",
+      "0120ba58d9cb9c9f2be1084c162f2f6ceb6f12e6b1718f88a809155e981c81bf52130a"
     ],
     "subkeys": [
       "012147c50da8dbd38903a5aa8b99a9a1183a7d4b497f1eb1f75504911cd15e3d28120a",
-      "0121a5ec21f44c2a9aa8c63a58b93e98e19d353c6c7a61c9b5dcc3a286e9a83a456b0a"
+      "0121e0d6bd903a523d13e97d8a948257d4498dc5476502e9c6920b81ba70cadeb04b0a"
     ],
     "sibkeys": [
       "0101b19d53d022668a9b400fbe4eb8c239c53c0cd4100fab0d608a339abe1f702cbc0a",
       "0120b2b0013260fae4a1f38cc9072bb4ba70a17804aa8771b850193f2e51880039b40a",
-      "0120d47c98f9a7ab8b9904e6a5df88c0358aa48745ed4fe9016ce63585f45b2ea79d0a"
+      "0120ba58d9cb9c9f2be1084c162f2f6ceb6f12e6b1718f88a809155e981c81bf52130a"
     ],
     "families": {
       "0101b19d53d022668a9b400fbe4eb8c239c53c0cd4100fab0d608a339abe1f702cbc0a": [
@@ -55,7 +58,9 @@
         "012147c50da8dbd38903a5aa8b99a9a1183a7d4b497f1eb1f75504911cd15e3d28120a",
         "0120b2b0013260fae4a1f38cc9072bb4ba70a17804aa8771b850193f2e51880039b40a",
         "0121a5ec21f44c2a9aa8c63a58b93e98e19d353c6c7a61c9b5dcc3a286e9a83a456b0a",
-        "0120d47c98f9a7ab8b9904e6a5df88c0358aa48745ed4fe9016ce63585f45b2ea79d0a"
+        "0120d47c98f9a7ab8b9904e6a5df88c0358aa48745ed4fe9016ce63585f45b2ea79d0a",
+        "0121e0d6bd903a523d13e97d8a948257d4498dc5476502e9c6920b81ba70cadeb04b0a",
+        "0120ba58d9cb9c9f2be1084c162f2f6ceb6f12e6b1718f88a809155e981c81bf52130a"
       ]
     },
     "eldest_kid": "0101b19d53d022668a9b400fbe4eb8c239c53c0cd4100fab0d608a339abe1f702cbc0a",
@@ -65,23 +70,74 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "dsolsona",
+          "state": 1,
+          "proof_url": "https://gist.github.com/f258f93e750459249c77",
+          "sig_id": "8d3e2803a382b3a9dfcb1b69f0f1b55185bd39bbfcee790fd6a926a26bf9b1610f",
+          "proof_id": "b1e389282dc107f1c85eba10",
+          "human_url": "https://gist.github.com/f258f93e750459249c77",
+          "service_url": "https://github.com/dsolsona",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "dsolsona",
+          "state": 1,
+          "proof_url": "https://gist.github.com/f258f93e750459249c77",
+          "sig_id": "8d3e2803a382b3a9dfcb1b69f0f1b55185bd39bbfcee790fd6a926a26bf9b1610f",
+          "proof_id": "b1e389282dc107f1c85eba10",
+          "human_url": "https://gist.github.com/f258f93e750459249c77",
+          "service_url": "https://github.com/dsolsona",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "github",
+        "nametag": "dsolsona",
+        "state": 1,
+        "proof_url": "https://gist.github.com/f258f93e750459249c77",
+        "sig_id": "8d3e2803a382b3a9dfcb1b69f0f1b55185bd39bbfcee790fd6a926a26bf9b1610f",
+        "proof_id": "b1e389282dc107f1c85eba10",
+        "human_url": "https://gist.github.com/f258f93e750459249c77",
+        "service_url": "https://github.com/dsolsona",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      }
+    ]
   },
   "cryptocurrency_addresses": {},
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/cf50be70718462b09294a42d072ebd05_360_360_square_360.jpeg",
+      "width": 360,
+      "height": 360,
+      "source": "github"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "5b020c17a50804958993b86a386810b610c7978fa794b7a63f624c26af256b7d0f",
-      "seqno": 13,
-      "payload_hash": "e001b07c8024263bec70a2f51eb64b488a0debd98a9e7f3c7da3ab4bd2a3cca8"
+      "sig_id": "a21001e8e9393a573a1bdb98063cd5f1938058e5ba4423983a9f6f86fc8eb5bf0f",
+      "seqno": 19,
+      "payload_hash": "5331a978e7af60f74a3bd9599e4e48fba9e3dd4e7d9ff8b5eea84f4cc2802c66"
     }
   },
   "devices": {
     "037a2d00c0ce7576be5a5f992395e818": {
       "type": "desktop",
-      "ctime": 1464568624,
-      "mtime": 1464568624,
+      "ctime": 1464572224,
+      "mtime": 1464572224,
       "name": "SadKoala",
       "status": 1,
       "keys": [
@@ -97,22 +153,22 @@
         }
       ]
     },
-    "a7fa8798a3befcbc7ab16dfc1fa1fa18": {
+    "8939e137447c2b386e2bcc81deb16218": {
       "type": "backup",
-      "ctime": 1464568626,
-      "mtime": 1464568626,
-      "name": "future crouch",
+      "ctime": 1502852910,
+      "mtime": 1502852910,
+      "name": "false good",
       "status": 1,
       "keys": [
         {
-          "kid": "0120d47c98f9a7ab8b9904e6a5df88c0358aa48745ed4fe9016ce63585f45b2ea79d0a",
+          "kid": "0120ba58d9cb9c9f2be1084c162f2f6ceb6f12e6b1718f88a809155e981c81bf52130a",
           "key_role": 1,
-          "sig_id": "795405607fa0a0b0f78c726bd1fdf72c6d65776fc52e31b263017bf8d916eeff0f"
+          "sig_id": "b31f33335e67d5b1f973643887657dc8e8c8e9af2cb4ce04e2866aff19029e740f"
         },
         {
-          "kid": "0121a5ec21f44c2a9aa8c63a58b93e98e19d353c6c7a61c9b5dcc3a286e9a83a456b0a",
+          "kid": "0121e0d6bd903a523d13e97d8a948257d4498dc5476502e9c6920b81ba70cadeb04b0a",
           "key_role": 2,
-          "sig_id": "5b020c17a50804958993b86a386810b610c7978fa794b7a63f624c26af256b7d0f"
+          "sig_id": "a21001e8e9393a573a1bdb98063cd5f1938058e5ba4423983a9f6f86fc8eb5bf0f"
         }
       ]
     }
