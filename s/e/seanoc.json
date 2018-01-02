@@ -4,10 +4,11 @@
     "username": "seanoc",
     "ctime": 1394146317,
     "mtime": 1394146317,
-    "id_version": 10,
+    "id_version": 14,
     "track_version": 0,
-    "last_id_change": 1453210242,
-    "username_cased": "seanoc"
+    "last_id_change": 1495201115,
+    "username_cased": "seanoc",
+    "status": 0
   },
   "profile": {
     "mtime": 1394147904,
@@ -34,15 +35,28 @@
       "self_signed": true
     },
     "all_bundles": [
-      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1.4.15 (Darwin)\n\nmQENBFMY/KsBCACmY723sr+cUHw3KPi8XXKF7Ix9Z2FqNMpLMEh5Gr4kWTW2jno9\nOM3dbphNQvsPsLVzV7lZi8J+rhDgdb/5FxGIgwswQZPsmBGd797cjugobTFRwC6a\n8KuR/c1dKn54BguZIjOvxzysfJy7GFdSXNsl/LHwHzZU4I/5byyR591uVAbnMh1b\nqpD+tv5puQK/DEmA2N1rorGJrGH7X9adPYglLiWfpsbEsMQYx18gbRzVVmrocNeK\nj5f4OUzTUEszEys83j8d1yh0iDJozhwsh+sqPQxVQ1eVvXMGfRiRT9XVi37aUTrQ\nou0HmNFM7KWa3XZwq5mI4wVceST1EjQAGosDABEBAAG0H1NlYW4gTydDb25ub3Ig\nPHNlYW5Ac2Vhbm9jLmNvbT6JATgEEwECACIFAlMY/KsCGwMGCwkIBwMCBhUIAgkK\nCwQWAgMBAh4BAheAAAoJEF7r7liAoZXy1kkH/Avm775pD09lOEFw7bEdT/PwIf6A\nJlmgGazNRXaTbay4H9S7kcXKuRwY7OtVcWBtFxI5i0nDP/kUUCGAVwaHz4OIZlUP\nFTZOPBA7fHSGwNzWFefxRSdBmecORj4Oahd/T/Hdbay+BINVKajwc1cuz5j3jnun\nqCc8bGlBNQQwrIX6rP+WnmR7kmcwWP1x60qZSloAv4eCbFmuoq0e4uRJnnuGU5/9\nQELS2I7eMlcMs1MxApc9LSAC+CVnmyg4oAD2SEoOHRfwUo1cTf7y3QJSjWQT94Ze\nOJxUfeqeWhm+wTORmzaN0uscHuLCiBlryPL2upyJ7YDuLd1UfxkhphuwjYC5AQ0E\nUxj8qwEIAKu0n/ZW2lWVVpiQ0EiTQyILn2kO1TZV5nE7UyIskKIBL/nQncniXWwK\nnRSWb6VQ9/pSbBNTQxjsbAPB4I2yzXrsDH/p13pSKp5PcIVFejnA9mYumY4/xSZ1\nDpRFx8kKPdh6kpytxYj/t+SirxScdsIFjNJ6UTyoZylss2TYl5ytMk26duFyPiGh\nChBHiPicQn8R2n5/7lOC8jjhcbPY48uHDjyBQEXMC/rfMZiSev/MmUytWAj89IpY\nDzetWpEeDRrCsyKWv1rHCs5FQpBOs4thSXKejw3TFYnwk+OGoJrBhD39RakYMBBU\nUIzc59zuZfnucTbrSvLkcqsvJOi5Db8AEQEAAYkBHwQYAQIACQUCUxj8qwIbDAAK\nCRBe6+5YgKGV8pM9B/4mKBYbMYGAcbETedlVuwx7peObOFD+4I7IiCEdN8O+Dz8u\nvFQPgnknidvGdFF5TUezLz1X2Z857A+BFMiRuxIleJ799M4eMiQ2SyCzR6mqX5HB\noQb2t9lURnyV/mPdI9OjQVTgEQ+/xzOiqPnuev6F8AKijJEVWJXuPAdY626r+k8q\nvaj6CcXTismL1k1KMYsLo4LDQhnSOMhwNCZM/PodyngUmq47mDQI+m6+TKiXKfAr\nLxBEDAVgLXlv8YOWbIKu0NC0LtrgvyHupVugwDH5R8j6DqwpmkSAvVmiNZzR0Hr4\nt8DhT9um8PIMfbvte7xLcbcvvLwGot+AL0Lvt9+3\n=GDks\n-----END PGP PUBLIC KEY BLOCK-----"
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1.4.15 (Darwin)\n\nmQENBFMY/KsBCACmY723sr+cUHw3KPi8XXKF7Ix9Z2FqNMpLMEh5Gr4kWTW2jno9\nOM3dbphNQvsPsLVzV7lZi8J+rhDgdb/5FxGIgwswQZPsmBGd797cjugobTFRwC6a\n8KuR/c1dKn54BguZIjOvxzysfJy7GFdSXNsl/LHwHzZU4I/5byyR591uVAbnMh1b\nqpD+tv5puQK/DEmA2N1rorGJrGH7X9adPYglLiWfpsbEsMQYx18gbRzVVmrocNeK\nj5f4OUzTUEszEys83j8d1yh0iDJozhwsh+sqPQxVQ1eVvXMGfRiRT9XVi37aUTrQ\nou0HmNFM7KWa3XZwq5mI4wVceST1EjQAGosDABEBAAG0H1NlYW4gTydDb25ub3Ig\nPHNlYW5Ac2Vhbm9jLmNvbT6JATgEEwECACIFAlMY/KsCGwMGCwkIBwMCBhUIAgkK\nCwQWAgMBAh4BAheAAAoJEF7r7liAoZXy1kkH/Avm775pD09lOEFw7bEdT/PwIf6A\nJlmgGazNRXaTbay4H9S7kcXKuRwY7OtVcWBtFxI5i0nDP/kUUCGAVwaHz4OIZlUP\nFTZOPBA7fHSGwNzWFefxRSdBmecORj4Oahd/T/Hdbay+BINVKajwc1cuz5j3jnun\nqCc8bGlBNQQwrIX6rP+WnmR7kmcwWP1x60qZSloAv4eCbFmuoq0e4uRJnnuGU5/9\nQELS2I7eMlcMs1MxApc9LSAC+CVnmyg4oAD2SEoOHRfwUo1cTf7y3QJSjWQT94Ze\nOJxUfeqeWhm+wTORmzaN0uscHuLCiBlryPL2upyJ7YDuLd1UfxkhphuwjYC5AQ0E\nUxj8qwEIAKu0n/ZW2lWVVpiQ0EiTQyILn2kO1TZV5nE7UyIskKIBL/nQncniXWwK\nnRSWb6VQ9/pSbBNTQxjsbAPB4I2yzXrsDH/p13pSKp5PcIVFejnA9mYumY4/xSZ1\nDpRFx8kKPdh6kpytxYj/t+SirxScdsIFjNJ6UTyoZylss2TYl5ytMk26duFyPiGh\nChBHiPicQn8R2n5/7lOC8jjhcbPY48uHDjyBQEXMC/rfMZiSev/MmUytWAj89IpY\nDzetWpEeDRrCsyKWv1rHCs5FQpBOs4thSXKejw3TFYnwk+OGoJrBhD39RakYMBBU\nUIzc59zuZfnucTbrSvLkcqsvJOi5Db8AEQEAAYkBHwQYAQIACQUCUxj8qwIbDAAK\nCRBe6+5YgKGV8pM9B/4mKBYbMYGAcbETedlVuwx7peObOFD+4I7IiCEdN8O+Dz8u\nvFQPgnknidvGdFF5TUezLz1X2Z857A+BFMiRuxIleJ799M4eMiQ2SyCzR6mqX5HB\noQb2t9lURnyV/mPdI9OjQVTgEQ+/xzOiqPnuev6F8AKijJEVWJXuPAdY626r+k8q\nvaj6CcXTismL1k1KMYsLo4LDQhnSOMhwNCZM/PodyngUmq47mDQI+m6+TKiXKfAr\nLxBEDAVgLXlv8YOWbIKu0NC0LtrgvyHupVugwDH5R8j6DqwpmkSAvVmiNZzR0Hr4\nt8DhT9um8PIMfbvte7xLcbcvvLwGot+AL0Lvt9+3\n=GDks\n-----END PGP PUBLIC KEY BLOCK-----",
+      "0120a1320529be5f44d29f53ada101725135a8ebb392eeaa0818e6dff346a6c938740a",
+      "0121fdaf4749af33bb131a590d693a457f8cafdde519e13b174919ef99150a150e480a",
+      "01208a683afa61527eeb684ff0bf690c2703a1580aabf4f8ce4d6fc30ba01406718d0a",
+      "0121b1a330271153ba2af82391a28364558bf4379ac4f036918f3320014b866338450a"
     ],
-    "subkeys": [],
+    "subkeys": [
+      "0121fdaf4749af33bb131a590d693a457f8cafdde519e13b174919ef99150a150e480a",
+      "0121b1a330271153ba2af82391a28364558bf4379ac4f036918f3320014b866338450a"
+    ],
     "sibkeys": [
-      "01014a7408b4c94644354704e74d8239a5f3fe6c6883143c84e244dc1220c8adcf9c0a"
+      "01014a7408b4c94644354704e74d8239a5f3fe6c6883143c84e244dc1220c8adcf9c0a",
+      "0120a1320529be5f44d29f53ada101725135a8ebb392eeaa0818e6dff346a6c938740a",
+      "01208a683afa61527eeb684ff0bf690c2703a1580aabf4f8ce4d6fc30ba01406718d0a"
     ],
     "families": {
       "01014a7408b4c94644354704e74d8239a5f3fe6c6883143c84e244dc1220c8adcf9c0a": [
-        "01014a7408b4c94644354704e74d8239a5f3fe6c6883143c84e244dc1220c8adcf9c0a"
+        "01014a7408b4c94644354704e74d8239a5f3fe6c6883143c84e244dc1220c8adcf9c0a",
+        "0120a1320529be5f44d29f53ada101725135a8ebb392eeaa0818e6dff346a6c938740a",
+        "0121fdaf4749af33bb131a590d693a457f8cafdde519e13b174919ef99150a150e480a",
+        "01208a683afa61527eeb684ff0bf690c2703a1580aabf4f8ce4d6fc30ba01406718d0a",
+        "0121b1a330271153ba2af82391a28364558bf4379ac4f036918f3320014b866338450a"
       ]
     },
     "eldest_kid": "01014a7408b4c94644354704e74d8239a5f3fe6c6883143c84e244dc1220c8adcf9c0a",
@@ -142,7 +156,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/72a02261c6030174f3e50953dc659905_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/661ef05118a9e019d833f8d9357ca705_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -150,10 +164,49 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "856a648ee7d95a465f7af2c0ca26043c15d5026e45b5241bdb68d367dc34adf40f",
-      "seqno": 3,
-      "payload_hash": "21ad5be9a090bb86e31d40997e04aa8d976abe32c3ff612d7fc01319382af37f"
+      "sig_id": "22e5ab627db20bb87cb2f988dfef09cf0733336b223fd4b065a9f017294675aa0f",
+      "seqno": 8,
+      "payload_hash": "7923afc2334f3112675e65ae68db541ac530f94d2c1218fb9907c5e1cf0fb0c9"
     }
   },
-  "devices": {}
+  "devices": {
+    "1837fc3463e837fef7a669b8bb145718": {
+      "type": "desktop",
+      "ctime": 1486653286,
+      "mtime": 1486653286,
+      "name": "Sean's Bitly MacBook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a1320529be5f44d29f53ada101725135a8ebb392eeaa0818e6dff346a6c938740a",
+          "key_role": 1,
+          "sig_id": "178cfc6fcff7506af579dc13d2eda4de4beff6d995d1152fa2302c9c14b4c5970f"
+        },
+        {
+          "kid": "0121fdaf4749af33bb131a590d693a457f8cafdde519e13b174919ef99150a150e480a",
+          "key_role": 2,
+          "sig_id": "1fe6eb118dfd17d89feac9657d8dff827cfa1db60ed141b1e9d5cd6d6f6105b90f"
+        }
+      ]
+    },
+    "96e56961dc0ce3ef05c08b37f14f4918": {
+      "type": "backup",
+      "ctime": 1486653286,
+      "mtime": 1486653286,
+      "name": "little finger",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01208a683afa61527eeb684ff0bf690c2703a1580aabf4f8ce4d6fc30ba01406718d0a",
+          "key_role": 1,
+          "sig_id": "c646e5bf67b4d303116a94cdb6ff984f950321fe44fdfa22fb5bb86354f19c2e0f"
+        },
+        {
+          "kid": "0121b1a330271153ba2af82391a28364558bf4379ac4f036918f3320014b866338450a",
+          "key_role": 2,
+          "sig_id": "01b9aad9d3532e2f6a142a1f9013bd72230ea13dc6f1b6a5001b62113e5e342d0f"
+        }
+      ]
+    }
+  }
 }
