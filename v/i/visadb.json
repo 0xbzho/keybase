@@ -4,10 +4,11 @@
     "username": "visadb",
     "ctime": 1446589058,
     "mtime": 1446589058,
-    "id_version": 13,
-    "track_version": 0,
-    "last_id_change": 1465376655,
-    "username_cased": "visadb"
+    "id_version": 20,
+    "track_version": 74,
+    "last_id_change": 1505920046,
+    "username_cased": "visadb",
+    "status": 0
   },
   "public_keys": {
     "primary": {
@@ -32,16 +33,20 @@
       "012027041800e8edd1ef47495a3272d910ea603e57a3dfd6b9f44286e3caa79389bb0a",
       "01215166fc7f96430da73fb99b39ef14fb5bbf09a2312d653959350b2560b5ca1e450a",
       "01216dbd64844c0d0dc6be3d72392cd17d220ed1304b0c6833cdc2710ab93b1ad2620a",
-      "01204e485a99d7aac1506a05e256762b6c7a6bf131705e7cd81a56b03b96fafc29660a"
+      "01204e485a99d7aac1506a05e256762b6c7a6bf131705e7cd81a56b03b96fafc29660a",
+      "01218a754a24199327cc86aa908756c9922cd7b5b80731d6e87f547e2a5b70c514000a",
+      "0120fa588939c43cae977242ae5a17a1b87941873a029afcaf943d44ed4c134ebd990a"
     ],
     "subkeys": [
       "01215166fc7f96430da73fb99b39ef14fb5bbf09a2312d653959350b2560b5ca1e450a",
-      "01216dbd64844c0d0dc6be3d72392cd17d220ed1304b0c6833cdc2710ab93b1ad2620a"
+      "01216dbd64844c0d0dc6be3d72392cd17d220ed1304b0c6833cdc2710ab93b1ad2620a",
+      "01218a754a24199327cc86aa908756c9922cd7b5b80731d6e87f547e2a5b70c514000a"
     ],
     "sibkeys": [
       "0101a7cba076ed4395001749c1d5f46195346cc6db83d6df8e9d1d35a1ce9163d7160a",
       "012027041800e8edd1ef47495a3272d910ea603e57a3dfd6b9f44286e3caa79389bb0a",
-      "01204e485a99d7aac1506a05e256762b6c7a6bf131705e7cd81a56b03b96fafc29660a"
+      "01204e485a99d7aac1506a05e256762b6c7a6bf131705e7cd81a56b03b96fafc29660a",
+      "0120fa588939c43cae977242ae5a17a1b87941873a029afcaf943d44ed4c134ebd990a"
     ],
     "families": {
       "0101a7cba076ed4395001749c1d5f46195346cc6db83d6df8e9d1d35a1ce9163d7160a": [
@@ -49,7 +54,9 @@
         "012027041800e8edd1ef47495a3272d910ea603e57a3dfd6b9f44286e3caa79389bb0a",
         "01215166fc7f96430da73fb99b39ef14fb5bbf09a2312d653959350b2560b5ca1e450a",
         "01216dbd64844c0d0dc6be3d72392cd17d220ed1304b0c6833cdc2710ab93b1ad2620a",
-        "01204e485a99d7aac1506a05e256762b6c7a6bf131705e7cd81a56b03b96fafc29660a"
+        "01204e485a99d7aac1506a05e256762b6c7a6bf131705e7cd81a56b03b96fafc29660a",
+        "01218a754a24199327cc86aa908756c9922cd7b5b80731d6e87f547e2a5b70c514000a",
+        "0120fa588939c43cae977242ae5a17a1b87941873a029afcaf943d44ed4c134ebd990a"
       ]
     },
     "eldest_kid": "0101a7cba076ed4395001749c1d5f46195346cc6db83d6df8e9d1d35a1ce9163d7160a",
@@ -91,6 +98,18 @@
       "dns": [
         {
           "proof_type": "dns",
+          "nametag": "vdb.re",
+          "state": 1,
+          "proof_url": "https://keybase.io/visadb/sigchain#8dec041ebc8b2ab38972b5a58a397d0cf9e410b80c85e072f4754213c935b17f0f",
+          "sig_id": "8dec041ebc8b2ab38972b5a58a397d0cf9e410b80c85e072f4754213c935b17f0f",
+          "proof_id": "591f36304615367f39c6c610",
+          "human_url": "dns://vdb.re",
+          "service_url": "http://vdb.re",
+          "presentation_group": "vdb.re",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "vpu.me",
           "state": 1,
           "proof_url": "https://keybase.io/visadb/sigchain#1ad8ebac0621d668d45888055a5aa6d4ad8be442b39ea6eeb5a16cce9a4b19640f",
@@ -130,6 +149,20 @@
           "service_url": "https://github.com/visadb",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "vdb.re": [
+        {
+          "proof_type": "dns",
+          "nametag": "vdb.re",
+          "state": 1,
+          "proof_url": "https://keybase.io/visadb/sigchain#8dec041ebc8b2ab38972b5a58a397d0cf9e410b80c85e072f4754213c935b17f0f",
+          "sig_id": "8dec041ebc8b2ab38972b5a58a397d0cf9e410b80c85e072f4754213c935b17f0f",
+          "proof_id": "591f36304615367f39c6c610",
+          "human_url": "dns://vdb.re",
+          "service_url": "http://vdb.re",
+          "presentation_group": "vdb.re",
+          "presentation_tag": "dns"
         }
       ],
       "vpu.me": [
@@ -174,6 +207,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "vdb.re",
+        "state": 1,
+        "proof_url": "https://keybase.io/visadb/sigchain#8dec041ebc8b2ab38972b5a58a397d0cf9e410b80c85e072f4754213c935b17f0f",
+        "sig_id": "8dec041ebc8b2ab38972b5a58a397d0cf9e410b80c85e072f4754213c935b17f0f",
+        "proof_id": "591f36304615367f39c6c610",
+        "human_url": "dns://vdb.re",
+        "service_url": "http://vdb.re",
+        "presentation_group": "vdb.re",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "vpu.me",
         "state": 1,
         "proof_url": "https://keybase.io/visadb/sigchain#1ad8ebac0621d668d45888055a5aa6d4ad8be442b39ea6eeb5a16cce9a4b19640f",
@@ -189,24 +234,24 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/cba8827e2e90a0cc4048842990aa0a05_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/137fc477cd981dfa96866f2c64461905_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "7d0460b614070e21a9f2d1620208ad47fde08ec7642491f80800ed06b6771ee80f",
-      "seqno": 8,
-      "payload_hash": "c9e4616a0acf45b912781950b7f153ad01f5a5ca60755d31428284c906b89929"
+      "sig_id": "018f95c82e9853074c8706d8090d773b1373d511666d9410a11165dbc5bdd95a0f",
+      "seqno": 87,
+      "payload_hash": "5b38af83d49b18f3131d874dbbb79e734fb292717d29ab610b868446093be1de"
     }
   },
   "devices": {
     "3842099f94f851c64dbc54a377466018": {
       "type": "desktop",
-      "ctime": 1465376654,
-      "mtime": 1465376654,
+      "ctime": 1465380254,
+      "mtime": 1465380254,
       "name": "makkonen",
       "status": 1,
       "keys": [
@@ -224,8 +269,8 @@
     },
     "aa55ceac33157fb69fc1b2f78f1bb618": {
       "type": "backup",
-      "ctime": 1465376655,
-      "mtime": 1465376655,
+      "ctime": 1465380255,
+      "mtime": 1465380255,
       "name": "used sustain",
       "status": 1,
       "keys": [
@@ -238,6 +283,25 @@
           "kid": "01216dbd64844c0d0dc6be3d72392cd17d220ed1304b0c6833cdc2710ab93b1ad2620a",
           "key_role": 2,
           "sig_id": "7d0460b614070e21a9f2d1620208ad47fde08ec7642491f80800ed06b6771ee80f"
+        }
+      ]
+    },
+    "d8bdde63a237efa23e2d0cc10e02a418": {
+      "type": "desktop",
+      "ctime": 1505920046,
+      "mtime": 1505920046,
+      "name": "puhveli",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120fa588939c43cae977242ae5a17a1b87941873a029afcaf943d44ed4c134ebd990a",
+          "key_role": 1,
+          "sig_id": "39cdbca847bfea30b499ed86046a610892abdae5edc6a20d25d11b74557071660f"
+        },
+        {
+          "kid": "01218a754a24199327cc86aa908756c9922cd7b5b80731d6e87f547e2a5b70c514000a",
+          "key_role": 2,
+          "sig_id": "bb062c1162817642e0bfe408240375cb926193c47b808a42dd5e3700579bb99f0f"
         }
       ]
     }
