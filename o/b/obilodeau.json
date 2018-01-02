@@ -4,13 +4,14 @@
     "username": "obilodeau",
     "ctime": 1454726423,
     "mtime": 1454726423,
-    "id_version": 11,
-    "track_version": 5,
-    "last_id_change": 1471627768,
-    "username_cased": "obilodeau"
+    "id_version": 14,
+    "track_version": 17,
+    "last_id_change": 1505842067,
+    "username_cased": "obilodeau",
+    "status": 0
   },
   "profile": {
-    "mtime": 1464198423,
+    "mtime": 1464202023,
     "full_name": "Olivier Bilodeau",
     "location": "Montreal",
     "bio": "Security Researcher @gosecure_inc. Father of two. DIY home {owner,brewer}. Cofounder @montrehack. VP Training and Hacker Jeopardy @northsec_io. Love to teach."
@@ -38,16 +39,20 @@
       "01210290c7009bc32eac34e23514ad57d5419ea6fda5304f51e671815344860106770a",
       "01204d702ac5d13e4c909c7721df00844c8758ad71880e53ec647a90d85fc7ec52210a",
       "01218bfe0a417c250f14aec6c44031ba33ae7e0e869f3ad0d30da1887fc7a2ffbf270a",
-      "0120f3b961423ad9fedcd5085eaa45823de777b8eb86d92d7f88e731b3a5ce327df90a"
+      "0120f3b961423ad9fedcd5085eaa45823de777b8eb86d92d7f88e731b3a5ce327df90a",
+      "0121443b4fc1c16a80d4600e21e599535e37038fc86514fa381753d0e900a168ff2b0a",
+      "0120c4e6fdefa2c13c1c31415d44fba713fa627f69eccb52afec23a61e5e02017ad90a"
     ],
     "subkeys": [
       "01210290c7009bc32eac34e23514ad57d5419ea6fda5304f51e671815344860106770a",
-      "01218bfe0a417c250f14aec6c44031ba33ae7e0e869f3ad0d30da1887fc7a2ffbf270a"
+      "01218bfe0a417c250f14aec6c44031ba33ae7e0e869f3ad0d30da1887fc7a2ffbf270a",
+      "0121443b4fc1c16a80d4600e21e599535e37038fc86514fa381753d0e900a168ff2b0a"
     ],
     "sibkeys": [
       "01014237ab62338fd36bea43ffab4d442f47e471dd431097fa6214a30d2b2fbc7c5d0a",
       "01204d702ac5d13e4c909c7721df00844c8758ad71880e53ec647a90d85fc7ec52210a",
-      "0120f3b961423ad9fedcd5085eaa45823de777b8eb86d92d7f88e731b3a5ce327df90a"
+      "0120f3b961423ad9fedcd5085eaa45823de777b8eb86d92d7f88e731b3a5ce327df90a",
+      "0120c4e6fdefa2c13c1c31415d44fba713fa627f69eccb52afec23a61e5e02017ad90a"
     ],
     "families": {
       "01014237ab62338fd36bea43ffab4d442f47e471dd431097fa6214a30d2b2fbc7c5d0a": [
@@ -55,7 +60,9 @@
         "01210290c7009bc32eac34e23514ad57d5419ea6fda5304f51e671815344860106770a",
         "01204d702ac5d13e4c909c7721df00844c8758ad71880e53ec647a90d85fc7ec52210a",
         "01218bfe0a417c250f14aec6c44031ba33ae7e0e869f3ad0d30da1887fc7a2ffbf270a",
-        "0120f3b961423ad9fedcd5085eaa45823de777b8eb86d92d7f88e731b3a5ce327df90a"
+        "0120f3b961423ad9fedcd5085eaa45823de777b8eb86d92d7f88e731b3a5ce327df90a",
+        "0121443b4fc1c16a80d4600e21e599535e37038fc86514fa381753d0e900a168ff2b0a",
+        "0120c4e6fdefa2c13c1c31415d44fba713fa627f69eccb52afec23a61e5e02017ad90a"
       ]
     },
     "eldest_kid": "01014237ab62338fd36bea43ffab4d442f47e471dd431097fa6214a30d2b2fbc7c5d0a",
@@ -203,16 +210,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "f2cef6001e996c37f7b75d4c9d71618eb550d79250e5cdec1c31702882f7f2450f",
-      "seqno": 14,
-      "payload_hash": "e8dfbc44484592e2d5c8c7e8b554a04122aab5b8edd1c33357e4d1a2f09ff068"
+      "sig_id": "cda5dd3f3c2c2287e748449066ba30297e1d62f07a778face8c042e67f6f49cb0f",
+      "seqno": 29,
+      "payload_hash": "46c2c6e828dd92bb651a29cecf666d021a902ca02599047faa855b335b5e1763"
     }
   },
   "devices": {
+    "0783abe76c7c2a4f362238f713cf8918": {
+      "type": "mobile",
+      "ctime": 1505842067,
+      "mtime": 1505842067,
+      "name": "samsung-s6",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120c4e6fdefa2c13c1c31415d44fba713fa627f69eccb52afec23a61e5e02017ad90a",
+          "key_role": 1,
+          "sig_id": "bf9af738b4db491c5bba90e9f9a5d2cf7719bd9b6fd5e94b3d40558f3061e8400f"
+        },
+        {
+          "kid": "0121443b4fc1c16a80d4600e21e599535e37038fc86514fa381753d0e900a168ff2b0a",
+          "key_role": 2,
+          "sig_id": "e6b98362663dc72c9ec9eb507d1abb6bf2ef1544f8806cd35a49d1d031343f9a0f"
+        }
+      ]
+    },
     "af5e345aa031163d5e157a439c656a18": {
       "type": "backup",
-      "ctime": 1467476747,
-      "mtime": 1467476747,
+      "ctime": 1467480347,
+      "mtime": 1467480347,
       "name": "pig possible",
       "status": 1,
       "keys": [
@@ -230,8 +256,8 @@
     },
     "c540737710500188fc570fda7c101418": {
       "type": "desktop",
-      "ctime": 1467476746,
-      "mtime": 1467476746,
+      "ctime": 1467480346,
+      "mtime": 1467480346,
       "name": "lafindumonde",
       "status": 1,
       "keys": [
