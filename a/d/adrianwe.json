@@ -4,10 +4,11 @@
     "username": "adrianwe",
     "ctime": 1452089542,
     "mtime": 1452089542,
-    "id_version": 18,
-    "track_version": 3,
-    "last_id_change": 1470658527,
-    "username_cased": "adrianwe"
+    "id_version": 26,
+    "track_version": 4,
+    "last_id_change": 1501095059,
+    "username_cased": "adrianwe",
+    "status": 0
   },
   "profile": {
     "mtime": 1452090723,
@@ -40,16 +41,20 @@
       "012179dc493eb8092aa1adc824a46ebb269e904768cacd1065faa82e25661eefb2380a",
       "0120ab877d0630bf3f30c01595e091bdd092c2feeab43e03de17afc47bc2a80be9e30a",
       "01212d6a8940563baa7bf5aac7aedb3409be1a8eef9751b40392a3c426f59f4c7e570a",
-      "0120b7fa153d1c61027f6e83ac7f5c409f5b3210425f87d262049a50ad01908f31d60a"
+      "0120b7fa153d1c61027f6e83ac7f5c409f5b3210425f87d262049a50ad01908f31d60a",
+      "0121b7aac3ebd53c3c8a027e552c438a4bb0a37911b99f060719f9d01f5790755d7b0a",
+      "012051726feac81f51f1f819d7172675512962e4bdb17cb9949cb41e9227cc5b62290a"
     ],
     "subkeys": [
       "0121405d4ccbd30ddbf39080e45ab04780a96793a84f5202e2fa68e7eecf8fad8a310a",
-      "01212d6a8940563baa7bf5aac7aedb3409be1a8eef9751b40392a3c426f59f4c7e570a"
+      "01212d6a8940563baa7bf5aac7aedb3409be1a8eef9751b40392a3c426f59f4c7e570a",
+      "0121b7aac3ebd53c3c8a027e552c438a4bb0a37911b99f060719f9d01f5790755d7b0a"
     ],
     "sibkeys": [
       "01019e30565cad14ec08df15a46aad7fa6608c2e13e3dbb3650be89547141c63a38e0a",
       "0120ab877d0630bf3f30c01595e091bdd092c2feeab43e03de17afc47bc2a80be9e30a",
-      "0120b7fa153d1c61027f6e83ac7f5c409f5b3210425f87d262049a50ad01908f31d60a"
+      "0120b7fa153d1c61027f6e83ac7f5c409f5b3210425f87d262049a50ad01908f31d60a",
+      "012051726feac81f51f1f819d7172675512962e4bdb17cb9949cb41e9227cc5b62290a"
     ],
     "families": {
       "01019e30565cad14ec08df15a46aad7fa6608c2e13e3dbb3650be89547141c63a38e0a": [
@@ -59,7 +64,9 @@
         "012179dc493eb8092aa1adc824a46ebb269e904768cacd1065faa82e25661eefb2380a",
         "0120ab877d0630bf3f30c01595e091bdd092c2feeab43e03de17afc47bc2a80be9e30a",
         "01212d6a8940563baa7bf5aac7aedb3409be1a8eef9751b40392a3c426f59f4c7e570a",
-        "0120b7fa153d1c61027f6e83ac7f5c409f5b3210425f87d262049a50ad01908f31d60a"
+        "0120b7fa153d1c61027f6e83ac7f5c409f5b3210425f87d262049a50ad01908f31d60a",
+        "0121b7aac3ebd53c3c8a027e552c438a4bb0a37911b99f060719f9d01f5790755d7b0a",
+        "012051726feac81f51f1f819d7172675512962e4bdb17cb9949cb41e9227cc5b62290a"
       ]
     },
     "eldest_kid": "01019e30565cad14ec08df15a46aad7fa6608c2e13e3dbb3650be89547141c63a38e0a",
@@ -196,17 +203,10 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {
-    "bitcoin": [
-      {
-        "address": "16279KHHdiQryvhzJSogYfbuPHZCGjYFkx",
-        "sig_id": "e068784c1ca0f6abd253c59d1ebd9c8f82e69f67a0be95f7b3483b89b1d27a310f"
-      }
-    ]
-  },
+  "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e99012df006f22419b9783ca623cfa05_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/fba7dc53c10213a73d4c4e98df091505_360_360_square_360.png",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -214,16 +214,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "e068784c1ca0f6abd253c59d1ebd9c8f82e69f67a0be95f7b3483b89b1d27a310f",
-      "seqno": 15,
-      "payload_hash": "f683b13bdd725ae6a345d3c8ef6eb7e315914129a95e0849a7475a0bd96d291e"
+      "sig_id": "39a7be2c24e7865c9427d4047fde88123f462e7439cfb458080a7a7968a447650f",
+      "seqno": 20,
+      "payload_hash": "67edc5926e19d644b8d7855cb704c62cc94faf4047f3906decc8792a9eed9800"
     }
   },
   "devices": {
+    "4649a43eb5bf46d8c3d6ad7d61312018": {
+      "type": "mobile",
+      "ctime": 1500014969,
+      "mtime": 1500014969,
+      "name": "iPhone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012051726feac81f51f1f819d7172675512962e4bdb17cb9949cb41e9227cc5b62290a",
+          "key_role": 1,
+          "sig_id": "6fe2f78a4a2ae4fe8537bb2b84d271ecc4527830388d1cc06c28cec531bd193d0f"
+        },
+        {
+          "kid": "0121b7aac3ebd53c3c8a027e552c438a4bb0a37911b99f060719f9d01f5790755d7b0a",
+          "key_role": 2,
+          "sig_id": "466068885ca5c62fb38a38515ac18db1ae3e08900a0fded1fb0c02b1897a3cbb0f"
+        }
+      ]
+    },
     "48d851aba03a0f7ebfd68edc2d1dab18": {
       "type": "backup",
-      "ctime": 1469189152,
-      "mtime": 1469189152,
+      "ctime": 1469192752,
+      "mtime": 1469192752,
       "name": "you stand",
       "status": 1,
       "keys": [
