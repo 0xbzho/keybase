@@ -2,61 +2,335 @@
   "id": "28be60c3149dc9d9478cace896a0bb00",
   "basics": {
     "username": "gold",
-    "ctime": 1401110056,
-    "mtime": 1401110056,
-    "id_version": 10,
-    "track_version": 0,
-    "last_id_change": 1410760822,
-    "username_cased": "gold"
+    "ctime": 1401113656,
+    "mtime": 1401113656,
+    "id_version": 29,
+    "track_version": 4,
+    "last_id_change": 1495838235,
+    "username_cased": "gold",
+    "status": 0
+  },
+  "profile": {
+    "mtime": 1487707394,
+    "full_name": "Jon Gold",
+    "location": "San Francisco",
+    "bio": null
   },
   "public_keys": {
     "primary": {
-      "kid": "0101af9cd6acb6ac312a3a42eaf7b821c417bca1da98067e351dc1c5dc9fc2da1f4d0a",
+      "kid": "010137820bcab9caa8ff4c8d3b4e3221234d3aaef04e10489240c2a700de402c99410a",
       "key_type": 1,
-      "bundle": "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1.4.13 (Darwin)\n\n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\n=uPxZ\n-----END PGP PUBLIC KEY BLOCK-----",
-      "mtime": 1401110284,
-      "ctime": 1401110284,
-      "ukbid": "84f7ddb3fc588756e7a639ea0f09d511",
-      "key_fingerprint": "af6eb47d5443f36cbefe1061d8dfb4c5134c6d44",
-      "key_bits": 2048,
+      "bundle": "-----BEGIN PGP PUBLIC KEY BLOCK-----\nComment: https://keybase.io/download\nVersion: Keybase Go 1.0.18 (darwin)\n\nxsFNBFiso1MBEACZoRQ9pNYYIjGASzLAbnB+TDYId+Ywsm5Pk8feOzv1Hbu3AF4o\nX0X18TUWDZo05tNbMEBh9lyoshXTkLZs44xSJsbb+BQfbwi8U3u8DNklcC5Z619n\n9dHOMYCclPxC9AIi2fJ+qsSnkRoKxnxFiHVhcVLpeKAYLLWNSNt2zSy7eLUPKbrs\n75C5N9WJYhEZ37sATCkFvJfapbXXX8JYg6Yz9fCRVPiz5Rf+0WT9Rlluuv0YJfEp\nSxSTYWuX+SDLQGoSaptxsca1uOdOX3zxDrpoQEEo6cIIebWEof/te2dhQNRhegGG\nbLCFpXYKyGxpw4UKRvv4EAprQAXDU6KELJ9TUTmHLWF0xZFyXdQPzidea4t5vKhm\nDUVVHH0h5gLwaO5NhN0iusbX4SfaqgLbdZet/nemeDE1wIxpMhV9I5efza0F92Hx\nXbd3R6t5muyczm0s7VAff1VTU6NqmRUgo0ZQ67raaNUaPUs30/79Ff8D2S1CHjqu\nsMMj6uU6JXUZjWZLoRKR6ZP2D9UVITz3W02lbq0z2w/j9JC9PjXNreEcnVTTYZYT\n06CfEPsIuET66Els/14hGlA4PrOEaWVmRJbnYhJgiH2SirCJZ0YXyZTIXPV0fuGF\nMjNtBPYQSbGnebZ524/nGxb3vQpedG4b1lnHwb4zodUoqTqYP7NrQN7SuwARAQAB\nzSNKb24gR29sZCA8aGVsbG9AZGVzaWduZWRieWdvbGQuY29tPsLBeAQTAQgALAUC\nWKyjUwkQhogsBsAzgvwCGwMFCR4TOAACGQEECwcJAwUVCAoCAwQWAAECAABxXhAA\nFfGmSYTTekXlRHx5vo76WWxafPtB6XicdQOJ9xM9MVnfpRrf0Xz7mUC6SGZ40Roj\nvvaLPrULeVbYXonxsoKmsrNqzw5WEu8Ne9XWs6MH4c2/AjZDXzRzkukF3VKyddgZ\nb5lmxZIJS9F5G1KpU+F7LTFOBF4Si0eBE2vS7QdbBVP/qTLSPWDYq64qOtEno3Dk\n/vshZuElaFNvURItSlW/FhCXiCKgUbmRt1JYUH6B+6KW8/a+At8GZEAm66nwyrjt\nAt4SrXnbeMbHFnHIp9+gxtMTWPtSyWztpog+qsi0QF7aGcHO2t/gCLttDbg165pW\nJj3FtrDg1/hRRlJro+wmTMRo3gU0IMDFxPuPlotv9SM87ub1813nIE29Pejzl5I5\nOZN4abSnq+1XDngJ9Vfx5/M82OC5WnK2eyTok0oTHP6RbSXCY+eXTIQQD1t6l3Gg\nMACrv7eS6Bf6VKllAKItnzLY2uTtR1C5drYiA1HzG8vQkdeT0l4w+Xsxjjmiymtw\nRcpRM/37ISugNehkTrFr4yslOR/RguQtj6ZhL1OgBtQndGDSxKv0VTmmt540HCo1\nOWsdCJ28uzOPIBjNym0J+sdffueW4pwF4j/XEa3+RlzwNyBIc8Uz5z27FpmxbX2q\ne3wH6+7/wUKkDMunpMLPEht0ZPkqOR/uqmGKnnFNjmzNHkpvbiBHb2xkIDxqb24u\nZ29sZEBhaXJibmIuY29tPsLBdQQTAQgAKQUCWKyjUwkQhogsBsAzgvwCGwMFCR4T\nOAAECwcJAwUVCAoCAwQWAAECAAB/HxAABpJk8C6IahV0RPxQi1kU6pDMj4eW+wgB\nVMqZtW/+3XW7LdlRNe/WtjjxS7tlruwjfFfwo4VuVDlexMOlZh6+PLx/enEqMsfg\nYed+pBjQWiEfcJyCnDEsMY554zopALB9RAPqpmRu8Khl70Nw+LosBVX0AVnVK5Iy\nTZOjG5v5xZT12B6gmYHqkZBpncU4w7U5eO4hWoaztNsq2vkJEazH+E4jJPucmkur\n2wwFofI2fL2C378eWeE6onkwHcZNgBbvlsj+92c1W3QW4CsBg6CBCmIPevN9XwWE\n3P9q2gIVjC5N08dwKPYmyFQxG1u0kfZf+LVucySv37KLEXtfcvkOHjIJyKYYPI2/\nx/f2Q732a6sIMvy2dLb/bsDXMOONjcfp9aLVduAIzgipSx8S1OqIs162uLCnIitY\nQVSM35gU/xbGHWjMaMaimDTfJjIHmKwEqPhzUC+yhPuY6kGc7ahLtUICRgSUkm8Z\n3bFDTTReTjvKfkT0+n+OIUvINcpp6Dr7BpGauv0/NGCniF/No/WCDiC4ga9HNEOx\nE9/uAWq/UYdlzbkfb+XwxIxMzuy5oH6it82yeZ67FIzTq3oL6WSGsRTAjk0kqNbB\n6YtOCrkta6e4JxhH4k+mG8osQsDxgSMTGSeER6un8Fb8rWSvmPcxqBD9cVdznWDf\nQ362MkBMHlLOwU0EWKyjUwEQANt2rur7Mmy+RbB9WPHZVo4cRFcsUpbv3b7PPCur\ngbFYEeTrCGW8Agkvwx+6ZFM+ATYKxnpFqnrqRD9WqtgAeF7wNv+iO/pUmFBtoGBY\nE/TA2PQ4v0borLsDqI1oAlbpd/m6n166Vg32MiF2629ly7YOFVhZ6jJTsioDAS87\nfSv8C5e8cANZSpry5uIk9U58aYnQSdB4P/PFb+JIMkdasifU03WMtxbGHMqnbnXd\n2sSlvulT0Bwuwvd0Q8vvkqni+0YiD4/7YKJlYcDeqboHV8dbWvAOM57BG/pwCwqu\n/QuuPVnS+y6I6ShuqZ9lwq4h31xvBYGHcplJUzPnG95lsgquJuMaegLmHnry0P9i\nE7I388PvMxTJtnjPUH5avYTtes+DoducbDniDE/H2YV3Igc2022ySK9yAY6EOEHA\nAmYeTcsmzAlkU3iOm1AjscZXucBKrLIDgpGN9jaZm2/zryuJjF7avJbfJ8ye23QI\nB895lPrs4vGiWLoDPlQhRVEdO+OHXYQ4IdMhUPZMpoOGUPi7cFZr8Tcm8Iw8i7Cd\n2/ncr9J3avcwS3E3SDydyAxw3gbx+6elNAPjNtp4iz8l7W0XgvZjnJOuB5nG5zFP\nFu1rvBWj/hWQj4IPoETGY1aEIeGZhlh4Ij9cMi34tac1lqza+618m/ALqJKB8eZO\nENEXABEBAAHCwXUEGAEIACkFAliso1MJEIaILAbAM4L8AhsMBQkeEzgABAsHCQMF\nFQgKAgMEFgABAgAAZfkQAAHzH4gVU4UAalxUj8DFIaBohBrQOW/O3cnCNGvt6QSE\nOh6yMTZeJPsyrJfOVwaKpNBZKPVRjEsU6myS4sw1/cNRHn7O20PPgoM8nvI/CniS\nkp+TQ+mUrc9NVjqKV5dJoVs6pqwjAVG0YgwQkOsPacKsVxpbSvG7Uvqr+c5eNb2Y\nCrKI1qsx8lWQB7BkAoexhI1u+/P0PrvbfePRLW2MU8cowxbQC6QlN0QAjzDA2T8N\nfVPykE2IAwMLu1Gn6fK8Mdc+sLYMh3A7r7xPQRjfWVpbuLU6STgTC3Xm3WYIN0Ya\n6+9JJTFwpPQcdjR03DPLLRwUT/DAthM3wj7KqHSEYietg0PtRTS+qTWGYFdnLAH6\n0vY1qdoK6VWrblutZ6MWxU+l6x0AjIBYc4wf2jBiwmjSjbnTWzhLk+OEpsEFH0l2\nJyhD4oc7XlOuWvzU5cXeZ4m2fPfDG3IzCYYkTDf6WFpFJJ4R/BJ0GR6SqMfP/DnZ\nrloPLZQOEgX4+FtFrk0MGegpO7cY6mEYou7K39RyYG/H2cqRtU7hCyfC8XRQ1s5e\nz+yQvF766JyEdvduaH0Gz1NHnq9qnhA1YaXshUXVeA7cfavjFSfgon+0klQ2E89I\nrEZ89zcO3iDo+zHM5dPewWG9wqVuoeUeOvbA9OsR6BC/ge5OZLkMgcuC5J2gsom7\n=vfYt\n-----END PGP PUBLIC KEY BLOCK-----",
+      "mtime": 1487709027,
+      "ctime": 1487709027,
+      "ukbid": "17cea9350eb8a0f2bbc1961b3f0a4111",
+      "key_fingerprint": "956578a3514a73f9cfc04d3786882c06c03382fc",
+      "key_bits": 4096,
       "key_algo": 1,
-      "signing_kid": null,
-      "key_level": 0,
-      "etime": null,
-      "eldest_kid": null,
+      "signing_kid": "0120d53b6697ba424794f15fad3d8effe1911dfc0b3c755e46a863ed418bb30aec160a",
+      "key_level": 1,
+      "etime": 1992285026,
+      "eldest_kid": "0120d53b6697ba424794f15fad3d8effe1911dfc0b3c755e46a863ed418bb30aec160a",
       "status": 0,
       "self_signed": true
     },
     "all_bundles": [
-      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1.4.13 (Darwin)\n\n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\n=uPxZ\n-----END PGP PUBLIC KEY BLOCK-----"
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1.4.13 (Darwin)\n\n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\n=uPxZ\n-----END PGP PUBLIC KEY BLOCK-----",
+      "0120ec6a15624db5c26d1ddf382f8670d7a585f4d1163cff0d32713a2ac0ebe27da30a",
+      "0121b24b5b97da6e8724ac7383dbae71b4324fb5adc3316f9c9cf347bab43d300c740a",
+      "0120d53b6697ba424794f15fad3d8effe1911dfc0b3c755e46a863ed418bb30aec160a",
+      "0121b987bf694666bbeadea0e8f4c22a26592ef6c4697a3d8b156c17ccdd8bb59d5f0a",
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nComment: https://keybase.io/download\nVersion: Keybase Go 1.0.18 (darwin)\n\n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\n=vfYt\n-----END PGP PUBLIC KEY BLOCK-----"
     ],
-    "subkeys": [],
+    "subkeys": [
+      "0121b24b5b97da6e8724ac7383dbae71b4324fb5adc3316f9c9cf347bab43d300c740a",
+      "0121b987bf694666bbeadea0e8f4c22a26592ef6c4697a3d8b156c17ccdd8bb59d5f0a"
+    ],
     "sibkeys": [
-      "0101af9cd6acb6ac312a3a42eaf7b821c417bca1da98067e351dc1c5dc9fc2da1f4d0a"
+      "0120ec6a15624db5c26d1ddf382f8670d7a585f4d1163cff0d32713a2ac0ebe27da30a",
+      "0120d53b6697ba424794f15fad3d8effe1911dfc0b3c755e46a863ed418bb30aec160a",
+      "010137820bcab9caa8ff4c8d3b4e3221234d3aaef04e10489240c2a700de402c99410a"
     ],
     "families": {
       "0101af9cd6acb6ac312a3a42eaf7b821c417bca1da98067e351dc1c5dc9fc2da1f4d0a": [
         "0101af9cd6acb6ac312a3a42eaf7b821c417bca1da98067e351dc1c5dc9fc2da1f4d0a"
+      ],
+      "0120d53b6697ba424794f15fad3d8effe1911dfc0b3c755e46a863ed418bb30aec160a": [
+        "0120ec6a15624db5c26d1ddf382f8670d7a585f4d1163cff0d32713a2ac0ebe27da30a",
+        "0121b24b5b97da6e8724ac7383dbae71b4324fb5adc3316f9c9cf347bab43d300c740a",
+        "0120d53b6697ba424794f15fad3d8effe1911dfc0b3c755e46a863ed418bb30aec160a",
+        "0121b987bf694666bbeadea0e8f4c22a26592ef6c4697a3d8b156c17ccdd8bb59d5f0a",
+        "010137820bcab9caa8ff4c8d3b4e3221234d3aaef04e10489240c2a700de402c99410a"
       ]
     },
-    "eldest_kid": "0101af9cd6acb6ac312a3a42eaf7b821c417bca1da98067e351dc1c5dc9fc2da1f4d0a",
-    "eldest_key_fingerprint": "af6eb47d5443f36cbefe1061d8dfb4c5134c6d44",
+    "eldest_kid": "0120d53b6697ba424794f15fad3d8effe1911dfc0b3c755e46a863ed418bb30aec160a",
+    "eldest_key_fingerprint": "",
     "pgp_public_keys": [
-      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1.4.13 (Darwin)\n\n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\n=uPxZ\n-----END PGP PUBLIC KEY BLOCK-----"
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nComment: https://keybase.io/download\nVersion: Keybase Go 1.0.18 (darwin)\n\n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\n=vfYt\n-----END PGP PUBLIC KEY BLOCK-----"
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "jongold",
+          "state": 1,
+          "proof_url": "https://twitter.com/jongold/status/834132635324600320",
+          "sig_id": "675625d02118617cf555b02bd51dd8ed61e909a41977abaea68edd0a0e75ad350f",
+          "proof_id": "2635224da22eb859bd2db410",
+          "human_url": "https://twitter.com/jongold/status/834132635324600320",
+          "service_url": "https://twitter.com/jongold",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "jongold",
+          "state": 1,
+          "proof_url": "https://gist.github.com/01aa6e6ffc2b4a9039acb3713635293a",
+          "sig_id": "def21d2b14a6a406c8708366095266e46b825bed25297cec65572e5f620965900f",
+          "proof_id": "4cbf2f6870877976b3797a10",
+          "human_url": "https://gist.github.com/01aa6e6ffc2b4a9039acb3713635293a",
+          "service_url": "https://github.com/jongold",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "jongold",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=jongold",
+          "sig_id": "0ed134a7e43b657114455d71e490ef855c446c54902e24d73a41d96e0c0979270f",
+          "proof_id": "0d1fea98ea7cd91fecb30110",
+          "human_url": "https://news.ycombinator.com/user?id=jongold",
+          "service_url": "https://news.ycombinator.com/user?id=jongold",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "jonvetica",
+          "state": 1,
+          "proof_url": "https://facebook.com/10158131577900618_10158131578280618",
+          "sig_id": "10b59a4166d9afecd1f8e581a6157e3ad9a935b35e711f92f39c9be40f412caf0f",
+          "proof_id": "3825280b620f91730184f810",
+          "human_url": "https://facebook.com/10158131577900618_10158131578280618",
+          "service_url": "https://www.facebook.com/jonvetica",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "jon.gold",
+          "state": 1,
+          "proof_url": "https://keybase.io/gold/sigchain#5274897fe95a752dc975e2b918d5df8559a865fa5daa50402fc7cff9f60c2b530f",
+          "sig_id": "5274897fe95a752dc975e2b918d5df8559a865fa5daa50402fc7cff9f60c2b530f",
+          "proof_id": "d71c24d92cda35baae496410",
+          "human_url": "dns://jon.gold",
+          "service_url": "http://jon.gold",
+          "presentation_group": "jon.gold",
+          "presentation_tag": "dns"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "jongold",
+          "state": 1,
+          "proof_url": "https://twitter.com/jongold/status/834132635324600320",
+          "sig_id": "675625d02118617cf555b02bd51dd8ed61e909a41977abaea68edd0a0e75ad350f",
+          "proof_id": "2635224da22eb859bd2db410",
+          "human_url": "https://twitter.com/jongold/status/834132635324600320",
+          "service_url": "https://twitter.com/jongold",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "jongold",
+          "state": 1,
+          "proof_url": "https://gist.github.com/01aa6e6ffc2b4a9039acb3713635293a",
+          "sig_id": "def21d2b14a6a406c8708366095266e46b825bed25297cec65572e5f620965900f",
+          "proof_id": "4cbf2f6870877976b3797a10",
+          "human_url": "https://gist.github.com/01aa6e6ffc2b4a9039acb3713635293a",
+          "service_url": "https://github.com/jongold",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "jongold",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=jongold",
+          "sig_id": "0ed134a7e43b657114455d71e490ef855c446c54902e24d73a41d96e0c0979270f",
+          "proof_id": "0d1fea98ea7cd91fecb30110",
+          "human_url": "https://news.ycombinator.com/user?id=jongold",
+          "service_url": "https://news.ycombinator.com/user?id=jongold",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "jonvetica",
+          "state": 1,
+          "proof_url": "https://facebook.com/10158131577900618_10158131578280618",
+          "sig_id": "10b59a4166d9afecd1f8e581a6157e3ad9a935b35e711f92f39c9be40f412caf0f",
+          "proof_id": "3825280b620f91730184f810",
+          "human_url": "https://facebook.com/10158131577900618_10158131578280618",
+          "service_url": "https://www.facebook.com/jonvetica",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
+        }
+      ],
+      "jon.gold": [
+        {
+          "proof_type": "dns",
+          "nametag": "jon.gold",
+          "state": 1,
+          "proof_url": "https://keybase.io/gold/sigchain#5274897fe95a752dc975e2b918d5df8559a865fa5daa50402fc7cff9f60c2b530f",
+          "sig_id": "5274897fe95a752dc975e2b918d5df8559a865fa5daa50402fc7cff9f60c2b530f",
+          "proof_id": "d71c24d92cda35baae496410",
+          "human_url": "dns://jon.gold",
+          "service_url": "http://jon.gold",
+          "presentation_group": "jon.gold",
+          "presentation_tag": "dns"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "jongold",
+        "state": 1,
+        "proof_url": "https://twitter.com/jongold/status/834132635324600320",
+        "sig_id": "675625d02118617cf555b02bd51dd8ed61e909a41977abaea68edd0a0e75ad350f",
+        "proof_id": "2635224da22eb859bd2db410",
+        "human_url": "https://twitter.com/jongold/status/834132635324600320",
+        "service_url": "https://twitter.com/jongold",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
+      {
+        "proof_type": "github",
+        "nametag": "jongold",
+        "state": 1,
+        "proof_url": "https://gist.github.com/01aa6e6ffc2b4a9039acb3713635293a",
+        "sig_id": "def21d2b14a6a406c8708366095266e46b825bed25297cec65572e5f620965900f",
+        "proof_id": "4cbf2f6870877976b3797a10",
+        "human_url": "https://gist.github.com/01aa6e6ffc2b4a9039acb3713635293a",
+        "service_url": "https://github.com/jongold",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "hackernews",
+        "nametag": "jongold",
+        "state": 1,
+        "proof_url": "https://news.ycombinator.com/user?id=jongold",
+        "sig_id": "0ed134a7e43b657114455d71e490ef855c446c54902e24d73a41d96e0c0979270f",
+        "proof_id": "0d1fea98ea7cd91fecb30110",
+        "human_url": "https://news.ycombinator.com/user?id=jongold",
+        "service_url": "https://news.ycombinator.com/user?id=jongold",
+        "presentation_group": "hackernews",
+        "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "jonvetica",
+        "state": 1,
+        "proof_url": "https://facebook.com/10158131577900618_10158131578280618",
+        "sig_id": "10b59a4166d9afecd1f8e581a6157e3ad9a935b35e711f92f39c9be40f412caf0f",
+        "proof_id": "3825280b620f91730184f810",
+        "human_url": "https://facebook.com/10158131577900618_10158131578280618",
+        "service_url": "https://www.facebook.com/jonvetica",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "jon.gold",
+        "state": 1,
+        "proof_url": "https://keybase.io/gold/sigchain#5274897fe95a752dc975e2b918d5df8559a865fa5daa50402fc7cff9f60c2b530f",
+        "sig_id": "5274897fe95a752dc975e2b918d5df8559a865fa5daa50402fc7cff9f60c2b530f",
+        "proof_id": "d71c24d92cda35baae496410",
+        "human_url": "dns://jon.gold",
+        "service_url": "http://jon.gold",
+        "presentation_group": "jon.gold",
+        "presentation_tag": "dns"
+      }
+    ]
   },
   "cryptocurrency_addresses": {},
-  "sigs": {
-    "last": {
-      "sig_id": "58bdf285558e05d3dbb1b35a9f8bd5471d4ab9ee0b8fbe18bab777bf3d319e620f",
-      "seqno": 2,
-      "payload_hash": "dcb6c63a0c031a34126e62bccc84d13e728c9713c353b8a54ec0ece45df4ef85"
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/3233f10a64a241f36092fbb7ddc92305_360_360.jpg",
+      "width": 360,
+      "height": 360,
+      "source": "twitter"
     }
   },
-  "devices": {}
+  "sigs": {
+    "last": {
+      "sig_id": "d12085a4d6c70ea045697fc1975134b35e9affa05ad915f93cac3c63f495350e0f",
+      "seqno": 17,
+      "payload_hash": "726e50d8ecd6d2f3815c3b795ee1e4983cd2854123927aadb9f90f1d5bccaf58"
+    }
+  },
+  "devices": {
+    "a80a43006b81a3ae975ca37eec3ab118": {
+      "type": "desktop",
+      "ctime": 1487707618,
+      "mtime": 1487707618,
+      "name": "Airbnb MacBook Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d53b6697ba424794f15fad3d8effe1911dfc0b3c755e46a863ed418bb30aec160a",
+          "key_role": 1,
+          "sig_id": "e068fc19947461917e2c0a86eb8ca5827cbd1d4bba97d37b37a8263777e76c620f"
+        },
+        {
+          "kid": "0121b24b5b97da6e8724ac7383dbae71b4324fb5adc3316f9c9cf347bab43d300c740a",
+          "key_role": 2,
+          "sig_id": "ffcc9756c3306e27b7323c080b1106d3a5bbaee49d732acc71f5a759ab1e473b0f"
+        }
+      ]
+    },
+    "b02ca5013a82273075937069adccb718": {
+      "type": "backup",
+      "ctime": 1487707618,
+      "mtime": 1487707618,
+      "name": "quality adapt",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ec6a15624db5c26d1ddf382f8670d7a585f4d1163cff0d32713a2ac0ebe27da30a",
+          "key_role": 1,
+          "sig_id": "aa4f72b1dee7a71e61486dc6966383f039fd1a069a6776cee752a8671bf5c2250f"
+        },
+        {
+          "kid": "0121b987bf694666bbeadea0e8f4c22a26592ef6c4697a3d8b156c17ccdd8bb59d5f0a",
+          "key_role": 2,
+          "sig_id": "326fff0165f6e7a6dcfb142be3f78968da37fce217e1ad07d0768da3cd2afbb10f"
+        }
+      ]
+    }
+  }
 }
