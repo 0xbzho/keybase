@@ -4,10 +4,11 @@
     "username": "shoghicp",
     "ctime": 1418223485,
     "mtime": 1418223485,
-    "id_version": 54,
-    "track_version": 0,
-    "last_id_change": 1471653796,
-    "username_cased": "shoghicp"
+    "id_version": 61,
+    "track_version": 1,
+    "last_id_change": 1512737668,
+    "username_cased": "shoghicp",
+    "status": 0
   },
   "profile": {
     "mtime": 1418223517,
@@ -39,16 +40,24 @@
       "0120fc8c2aa3d48fc1eefb8849a9bd658c163f9c2df98506c7e8f815bc443e7e41e20a",
       "0121d42d9ef573fef700ed80e59d2aa8efc7208676923c78c5c82f2a35e2119ae24a0a",
       "0120aa7d4f2ad9f9b96e7157913ec98ab0083a76a1f0001e086867784bfe3e6ac6ce0a",
-      "012134ce0f8843d9ab21e3dc7c975f5c92e90e415dcc2ed2ab79283bf37805a94a760a"
+      "012134ce0f8843d9ab21e3dc7c975f5c92e90e415dcc2ed2ab79283bf37805a94a760a",
+      "01211d57b371ca05d6530a4b13306c3ffe3445375c750cfab71bcc81b3d9a7ab4d3f0a",
+      "01209a186da39dc163ab90bde57139002ec17fee8b53e3b15136735736d572cdf9fb0a",
+      "01200f569d9402a17b8947f0492e51c72229570867aaa700e4e59e468a3d06cdd0990a",
+      "012107d6e62e4b9b8a74759bd0baf32ffb0f1b58ca41ec3fc9a02059a7574031c5240a"
     ],
     "subkeys": [
       "0121d42d9ef573fef700ed80e59d2aa8efc7208676923c78c5c82f2a35e2119ae24a0a",
-      "012134ce0f8843d9ab21e3dc7c975f5c92e90e415dcc2ed2ab79283bf37805a94a760a"
+      "012134ce0f8843d9ab21e3dc7c975f5c92e90e415dcc2ed2ab79283bf37805a94a760a",
+      "01211d57b371ca05d6530a4b13306c3ffe3445375c750cfab71bcc81b3d9a7ab4d3f0a",
+      "012107d6e62e4b9b8a74759bd0baf32ffb0f1b58ca41ec3fc9a02059a7574031c5240a"
     ],
     "sibkeys": [
       "0101763c02a250b09c395ce34949cf0e08ec4da8b689661b7e4d76c3c8ee60892cef0a",
       "0120fc8c2aa3d48fc1eefb8849a9bd658c163f9c2df98506c7e8f815bc443e7e41e20a",
-      "0120aa7d4f2ad9f9b96e7157913ec98ab0083a76a1f0001e086867784bfe3e6ac6ce0a"
+      "0120aa7d4f2ad9f9b96e7157913ec98ab0083a76a1f0001e086867784bfe3e6ac6ce0a",
+      "01209a186da39dc163ab90bde57139002ec17fee8b53e3b15136735736d572cdf9fb0a",
+      "01200f569d9402a17b8947f0492e51c72229570867aaa700e4e59e468a3d06cdd0990a"
     ],
     "families": {
       "0101763c02a250b09c395ce34949cf0e08ec4da8b689661b7e4d76c3c8ee60892cef0a": [
@@ -57,7 +66,11 @@
         "0120fc8c2aa3d48fc1eefb8849a9bd658c163f9c2df98506c7e8f815bc443e7e41e20a",
         "0121d42d9ef573fef700ed80e59d2aa8efc7208676923c78c5c82f2a35e2119ae24a0a",
         "0120aa7d4f2ad9f9b96e7157913ec98ab0083a76a1f0001e086867784bfe3e6ac6ce0a",
-        "012134ce0f8843d9ab21e3dc7c975f5c92e90e415dcc2ed2ab79283bf37805a94a760a"
+        "012134ce0f8843d9ab21e3dc7c975f5c92e90e415dcc2ed2ab79283bf37805a94a760a",
+        "01211d57b371ca05d6530a4b13306c3ffe3445375c750cfab71bcc81b3d9a7ab4d3f0a",
+        "01209a186da39dc163ab90bde57139002ec17fee8b53e3b15136735736d572cdf9fb0a",
+        "01200f569d9402a17b8947f0492e51c72229570867aaa700e4e59e468a3d06cdd0990a",
+        "012107d6e62e4b9b8a74759bd0baf32ffb0f1b58ca41ec3fc9a02059a7574031c5240a"
       ]
     },
     "eldest_kid": "0101763c02a250b09c395ce34949cf0e08ec4da8b689661b7e4d76c3c8ee60892cef0a",
@@ -127,6 +140,18 @@
       "dns": [
         {
           "proof_type": "dns",
+          "nametag": "shoghi.rocks",
+          "state": 1,
+          "proof_url": "https://keybase.io/shoghicp/sigchain#4e753d5473f586f1581adfbb7606ba8705623c42e6965bebc59290e5fd3a63010f",
+          "sig_id": "4e753d5473f586f1581adfbb7606ba8705623c42e6965bebc59290e5fd3a63010f",
+          "proof_id": "0ee3996669a3716e9afc9610",
+          "human_url": "dns://shoghi.rocks",
+          "service_url": "http://shoghi.rocks",
+          "presentation_group": "shoghi.rocks",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "pocketmine.net",
           "state": 1,
           "proof_url": "https://keybase.io/shoghicp/sigchain#2e2f35623c3391758a31a0d54f53e7fb9bc37e8441779e9214f6428a1d03bec30f",
@@ -135,6 +160,18 @@
           "human_url": "dns://pocketmine.net",
           "service_url": "http://pocketmine.net",
           "presentation_group": "pocketmine.net",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "shoghi.services",
+          "state": 1,
+          "proof_url": "https://keybase.io/shoghicp/sigchain#87699371a02ded53e8d643cbb64716540c8974ff7b4f62eed572647e8b912d0d0f",
+          "sig_id": "87699371a02ded53e8d643cbb64716540c8974ff7b4f62eed572647e8b912d0d0f",
+          "proof_id": "660b5c062c7bc9b8ae206310",
+          "human_url": "dns://shoghi.services",
+          "service_url": "http://shoghi.services",
+          "presentation_group": "shoghi.services",
           "presentation_tag": "dns"
         }
       ]
@@ -196,6 +233,20 @@
           "presentation_tag": "profile"
         }
       ],
+      "shoghi.rocks": [
+        {
+          "proof_type": "dns",
+          "nametag": "shoghi.rocks",
+          "state": 1,
+          "proof_url": "https://keybase.io/shoghicp/sigchain#4e753d5473f586f1581adfbb7606ba8705623c42e6965bebc59290e5fd3a63010f",
+          "sig_id": "4e753d5473f586f1581adfbb7606ba8705623c42e6965bebc59290e5fd3a63010f",
+          "proof_id": "0ee3996669a3716e9afc9610",
+          "human_url": "dns://shoghi.rocks",
+          "service_url": "http://shoghi.rocks",
+          "presentation_group": "shoghi.rocks",
+          "presentation_tag": "dns"
+        }
+      ],
       "pocketmine.net": [
         {
           "proof_type": "dns",
@@ -207,6 +258,20 @@
           "human_url": "dns://pocketmine.net",
           "service_url": "http://pocketmine.net",
           "presentation_group": "pocketmine.net",
+          "presentation_tag": "dns"
+        }
+      ],
+      "shoghi.services": [
+        {
+          "proof_type": "dns",
+          "nametag": "shoghi.services",
+          "state": 1,
+          "proof_url": "https://keybase.io/shoghicp/sigchain#87699371a02ded53e8d643cbb64716540c8974ff7b4f62eed572647e8b912d0d0f",
+          "sig_id": "87699371a02ded53e8d643cbb64716540c8974ff7b4f62eed572647e8b912d0d0f",
+          "proof_id": "660b5c062c7bc9b8ae206310",
+          "human_url": "dns://shoghi.services",
+          "service_url": "http://shoghi.services",
+          "presentation_group": "shoghi.services",
           "presentation_tag": "dns"
         }
       ]
@@ -262,6 +327,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "shoghi.rocks",
+        "state": 1,
+        "proof_url": "https://keybase.io/shoghicp/sigchain#4e753d5473f586f1581adfbb7606ba8705623c42e6965bebc59290e5fd3a63010f",
+        "sig_id": "4e753d5473f586f1581adfbb7606ba8705623c42e6965bebc59290e5fd3a63010f",
+        "proof_id": "0ee3996669a3716e9afc9610",
+        "human_url": "dns://shoghi.rocks",
+        "service_url": "http://shoghi.rocks",
+        "presentation_group": "shoghi.rocks",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "pocketmine.net",
         "state": 1,
         "proof_url": "https://keybase.io/shoghicp/sigchain#2e2f35623c3391758a31a0d54f53e7fb9bc37e8441779e9214f6428a1d03bec30f",
@@ -270,6 +347,18 @@
         "human_url": "dns://pocketmine.net",
         "service_url": "http://pocketmine.net",
         "presentation_group": "pocketmine.net",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "shoghi.services",
+        "state": 1,
+        "proof_url": "https://keybase.io/shoghicp/sigchain#87699371a02ded53e8d643cbb64716540c8974ff7b4f62eed572647e8b912d0d0f",
+        "sig_id": "87699371a02ded53e8d643cbb64716540c8974ff7b4f62eed572647e8b912d0d0f",
+        "proof_id": "660b5c062c7bc9b8ae206310",
+        "human_url": "dns://shoghi.services",
+        "service_url": "http://shoghi.services",
+        "presentation_group": "shoghi.services",
         "presentation_tag": "dns"
       }
     ]
@@ -292,12 +381,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7e2258852ec3cc28f811155d61f516f137165aed72ca241fdb6a9e1c8c12e47c0f",
-      "seqno": 25,
-      "payload_hash": "83aa38c982ce5e174b0ec961ad112c070588820a7a024d1f50ef8be32154a649"
+      "sig_id": "921ea1e519e67da01e8a98b3a3a9a1d19604a5f8f60ed0804adfcb64bd6b2cf00f",
+      "seqno": 33,
+      "payload_hash": "56766555f5a2680f4187f42a9d4a2f82d7fe0e21c6f89e6f6d18d67a9921c0e8"
     }
   },
   "devices": {
+    "180ed0924d1236a7bb4ed26e60361318": {
+      "type": "mobile",
+      "ctime": 1494539463,
+      "mtime": 1494539463,
+      "name": "shogship",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209a186da39dc163ab90bde57139002ec17fee8b53e3b15136735736d572cdf9fb0a",
+          "key_role": 1,
+          "sig_id": "aed860d4ef50895341a932aaebf5b9a711d534ac8a63a9c58eeeedd129230fdc0f"
+        },
+        {
+          "kid": "01211d57b371ca05d6530a4b13306c3ffe3445375c750cfab71bcc81b3d9a7ab4d3f0a",
+          "key_role": 2,
+          "sig_id": "6859a86f0086bbf7dc053bd367492031431f1391cd6d1d2c0f4d1c54572d12250f"
+        }
+      ]
+    },
     "6ecc42d232c91c7adf0a4e250d4f1618": {
       "type": "backup",
       "ctime": 1448821429,
@@ -333,6 +441,25 @@
           "kid": "0121d42d9ef573fef700ed80e59d2aa8efc7208676923c78c5c82f2a35e2119ae24a0a",
           "key_role": 2,
           "sig_id": "41797d750a477f4936bd429a628b59984aeb8f2e6f15f66a0e8be5d2ea33b7750f"
+        }
+      ]
+    },
+    "b2010f1c654a94cb1329b0c9863a3018": {
+      "type": "desktop",
+      "ctime": 1512737668,
+      "mtime": 1512737668,
+      "name": "shogmac",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01200f569d9402a17b8947f0492e51c72229570867aaa700e4e59e468a3d06cdd0990a",
+          "key_role": 1,
+          "sig_id": "31f890da1738b3336316921bc332296e42f311fc86f173d3ae4eaad2aaff55270f"
+        },
+        {
+          "kid": "012107d6e62e4b9b8a74759bd0baf32ffb0f1b58ca41ec3fc9a02059a7574031c5240a",
+          "key_role": 2,
+          "sig_id": "921ea1e519e67da01e8a98b3a3a9a1d19604a5f8f60ed0804adfcb64bd6b2cf00f"
         }
       ]
     }
