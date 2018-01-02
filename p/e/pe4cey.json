@@ -4,10 +4,11 @@
     "username": "pe4cey",
     "ctime": 1452697438,
     "mtime": 1452697438,
-    "id_version": 3,
-    "track_version": 2,
-    "last_id_change": 1452697628,
-    "username_cased": "pe4cey"
+    "id_version": 4,
+    "track_version": 3,
+    "last_id_change": 1496220974,
+    "username_cased": "pe4cey",
+    "status": 0
   },
   "profile": {
     "mtime": 1452697523,
@@ -38,16 +39,20 @@
       "0121457afac9bbbf6111fa76a751ab3301da70a1ab54ee9c481f5a73d68aa1776d600a",
       "01202fe295de209b559179dbd687a13533946968f44f5be54ca4138f0feb5296211b0a",
       "0120ce50d2e4af5ec09b87bc1cfddef28895ddfb6ee5f4d23b2a61c6fd23587249ea0a",
-      "0121cea9293dd9fdaf806fd83815c0be8e3fde03881feffecc06e97604ed19c89a7a0a"
+      "0121cea9293dd9fdaf806fd83815c0be8e3fde03881feffecc06e97604ed19c89a7a0a",
+      "012066643f9feab903ba5d72a75d695be171cf6f9ef4de887c0afd234fec8a88eb3b0a",
+      "0121ba41157cceb9ca80b6392020fafce46c9df7e40ffb6fd025e9d02e5c242bbf670a"
     ],
     "subkeys": [
       "0121457afac9bbbf6111fa76a751ab3301da70a1ab54ee9c481f5a73d68aa1776d600a",
-      "0121cea9293dd9fdaf806fd83815c0be8e3fde03881feffecc06e97604ed19c89a7a0a"
+      "0121cea9293dd9fdaf806fd83815c0be8e3fde03881feffecc06e97604ed19c89a7a0a",
+      "0121ba41157cceb9ca80b6392020fafce46c9df7e40ffb6fd025e9d02e5c242bbf670a"
     ],
     "sibkeys": [
       "0101719a43d9cadb451439fa865375b4df9134acbf84e149e12f6b63ea72f4792d900a",
       "01202fe295de209b559179dbd687a13533946968f44f5be54ca4138f0feb5296211b0a",
-      "0120ce50d2e4af5ec09b87bc1cfddef28895ddfb6ee5f4d23b2a61c6fd23587249ea0a"
+      "0120ce50d2e4af5ec09b87bc1cfddef28895ddfb6ee5f4d23b2a61c6fd23587249ea0a",
+      "012066643f9feab903ba5d72a75d695be171cf6f9ef4de887c0afd234fec8a88eb3b0a"
     ],
     "families": {
       "0101719a43d9cadb451439fa865375b4df9134acbf84e149e12f6b63ea72f4792d900a": [
@@ -55,7 +60,9 @@
         "0121457afac9bbbf6111fa76a751ab3301da70a1ab54ee9c481f5a73d68aa1776d600a",
         "01202fe295de209b559179dbd687a13533946968f44f5be54ca4138f0feb5296211b0a",
         "0120ce50d2e4af5ec09b87bc1cfddef28895ddfb6ee5f4d23b2a61c6fd23587249ea0a",
-        "0121cea9293dd9fdaf806fd83815c0be8e3fde03881feffecc06e97604ed19c89a7a0a"
+        "0121cea9293dd9fdaf806fd83815c0be8e3fde03881feffecc06e97604ed19c89a7a0a",
+        "012066643f9feab903ba5d72a75d695be171cf6f9ef4de887c0afd234fec8a88eb3b0a",
+        "0121ba41157cceb9ca80b6392020fafce46c9df7e40ffb6fd025e9d02e5c242bbf670a"
       ]
     },
     "eldest_kid": "0101719a43d9cadb451439fa865375b4df9134acbf84e149e12f6b63ea72f4792d900a",
@@ -72,12 +79,31 @@
   "cryptocurrency_addresses": {},
   "sigs": {
     "last": {
-      "sig_id": "71af79a8bcec68c3eb73b42c60fe2a06b9d0a33d9ea80c1b5d63141005bf35110f",
-      "seqno": 7,
-      "payload_hash": "2b8deef961dd1f073e425ac39cede49ea70019f8f3b3ea781fb55680da75040a"
+      "sig_id": "d0bc8e87367b4812537cff1c83c9d0a1b082cf95048fe0a3db8befea9c3ce0520f",
+      "seqno": 11,
+      "payload_hash": "3ff61d77aef008643218b7ddc64e27f67c3159ff5b7eebd6ee8b1dfd074eed38"
     }
   },
   "devices": {
+    "7fb7a4c32a2b01c223b91c46accf6818": {
+      "type": "desktop",
+      "ctime": 1496220974,
+      "mtime": 1496220974,
+      "name": "Neo laptop app",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012066643f9feab903ba5d72a75d695be171cf6f9ef4de887c0afd234fec8a88eb3b0a",
+          "key_role": 1,
+          "sig_id": "eb66accfc545f91316138ad2b404976394c00879d190ab38fee74643e21f4b110f"
+        },
+        {
+          "kid": "0121ba41157cceb9ca80b6392020fafce46c9df7e40ffb6fd025e9d02e5c242bbf670a",
+          "key_role": 2,
+          "sig_id": "e40d2c763d674e3cc4a42caea0535c9af71874e09bbf9b51f6d4a83a5a2dad920f"
+        }
+      ]
+    },
     "e3846e3d8a0f5642da3a61b6ba60dd18": {
       "type": "backup",
       "ctime": 1452697628,
