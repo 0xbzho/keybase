@@ -1,0 +1,93 @@
+{
+  "id": "2d5a066f4c408973a019c305759b3619",
+  "basics": {
+    "username": "geoffschaefer",
+    "ctime": 1508267559,
+    "mtime": 1508267559,
+    "id_version": 5,
+    "track_version": 2,
+    "last_id_change": 1508267905,
+    "username_cased": "geoffschaefer",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "01212be7c0b55c588de39bcb8e2f4f34635478a13ab5ef377eb0ce0455e7e51265430a",
+      "0120101f42610ff7747d9352a966734ca64a15313541e1e89c5bd2c94705a75dc0cb0a",
+      "0120004648715ea3c98209c93ccb9b8cb6db12274ad60dde3c0b3e7090a21236bda80a",
+      "01212fd9932e032fc5b22e1216f0c1aadb96448a6cf0637d61f579662d42cceac7400a"
+    ],
+    "subkeys": [
+      "01212be7c0b55c588de39bcb8e2f4f34635478a13ab5ef377eb0ce0455e7e51265430a",
+      "01212fd9932e032fc5b22e1216f0c1aadb96448a6cf0637d61f579662d42cceac7400a"
+    ],
+    "sibkeys": [
+      "0120101f42610ff7747d9352a966734ca64a15313541e1e89c5bd2c94705a75dc0cb0a",
+      "0120004648715ea3c98209c93ccb9b8cb6db12274ad60dde3c0b3e7090a21236bda80a"
+    ],
+    "families": {
+      "0120101f42610ff7747d9352a966734ca64a15313541e1e89c5bd2c94705a75dc0cb0a": [
+        "01212be7c0b55c588de39bcb8e2f4f34635478a13ab5ef377eb0ce0455e7e51265430a",
+        "0120101f42610ff7747d9352a966734ca64a15313541e1e89c5bd2c94705a75dc0cb0a",
+        "0120004648715ea3c98209c93ccb9b8cb6db12274ad60dde3c0b3e7090a21236bda80a",
+        "01212fd9932e032fc5b22e1216f0c1aadb96448a6cf0637d61f579662d42cceac7400a"
+      ]
+    },
+    "eldest_kid": "0120101f42610ff7747d9352a966734ca64a15313541e1e89c5bd2c94705a75dc0cb0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "68e2265d353a944ed3cb4dc981ac7a6684d5df3d0131e5bf0f821e80b470c9c30f",
+      "seqno": 9,
+      "payload_hash": "059d1c32200223af73ef8d9185edac34c85cce2a2d61712e4f5d0e5cf992af43"
+    }
+  },
+  "devices": {
+    "44c9bf67adbe69e3202d485ba5bf3d18": {
+      "type": "mobile",
+      "ctime": 1508267905,
+      "mtime": 1508267905,
+      "name": "Cell",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120004648715ea3c98209c93ccb9b8cb6db12274ad60dde3c0b3e7090a21236bda80a",
+          "key_role": 1,
+          "sig_id": "7bf421b5fe55bfea55177d75ca28a69cce4d6049b3f86301106e27ae30a09a4a0f"
+        },
+        {
+          "kid": "01212fd9932e032fc5b22e1216f0c1aadb96448a6cf0637d61f579662d42cceac7400a",
+          "key_role": 2,
+          "sig_id": "d5843562db2724de122a2d32e7329b1021ed21bba7559ee9e3c6948fb3956d8e0f"
+        }
+      ]
+    },
+    "d32b6aee753c1a32664ab7098a360318": {
+      "type": "desktop",
+      "ctime": 1508267560,
+      "mtime": 1508267560,
+      "name": "Home Computer",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120101f42610ff7747d9352a966734ca64a15313541e1e89c5bd2c94705a75dc0cb0a",
+          "key_role": 1,
+          "sig_id": "4d8de5fd1c3974c05c7490d69770e4779e429e19c81b2e975a547d385eba449c0f"
+        },
+        {
+          "kid": "01212be7c0b55c588de39bcb8e2f4f34635478a13ab5ef377eb0ce0455e7e51265430a",
+          "key_role": 2,
+          "sig_id": "fd2a82423666f67816d0ccdb638e9f4cade470c2121965f007a0626399f3e0700f"
+        }
+      ]
+    }
+  }
+}
