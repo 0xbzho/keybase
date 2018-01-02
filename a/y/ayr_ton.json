@@ -4,15 +4,16 @@
     "username": "ayr_ton",
     "ctime": 1423314400,
     "mtime": 1423314400,
-    "id_version": 69,
-    "track_version": 1,
-    "last_id_change": 1472254868,
-    "username_cased": "ayr_ton"
+    "id_version": 101,
+    "track_version": 23,
+    "last_id_change": 1503946402,
+    "username_cased": "ayr_ton",
+    "status": 0
   },
   "profile": {
-    "mtime": 1423315153,
+    "mtime": 1500341343,
     "full_name": "Ayrton Araújo",
-    "location": "Manaus, AM, Brazil",
+    "location": "Brazil",
     "bio": "NULL"
   },
   "public_keys": {
@@ -41,16 +42,24 @@
       "0121635c01df86d493fc63f36e99b743bbfb7efb680b603f108fd5c58cb87f5746740a",
       "01201713143b6a567bbe32f3916ef22932fa1caa9a8940aeb11d85efbb2be46b1bac0a",
       "01212e7856bff627e15ad86fb0d54795b74edd4da3e087f7a95e59a2e26dc56e835d0a",
-      "0120eb490e3ae845c68d33c3b0b0bea37e1bf755fd2c42ee42378808c4467b6bc2210a"
+      "0120eb490e3ae845c68d33c3b0b0bea37e1bf755fd2c42ee42378808c4467b6bc2210a",
+      "0121684be2847ee17bdc012432f676beccbf79f9b57527228a42c860806c02ca942c0a",
+      "0120f3cfb2cee824272db14e303df298070738c6d494f4330cadd8711ff1d1b293380a",
+      "0121ae9d4f7bd1295b633aa7ed7b95e5f93af626e58805b59023ce6a623780de261d0a",
+      "0120ec61b02a71e40ffa1ed2bd3b5c32b7b2375587b7c360aeddbfb7d77da960db880a",
+      "0121c7b19b9029948f1cc0783b7eb6ea4a139474e501371d623b29713b0762841c370a",
+      "0120bd657deb53f7b555962653080178eda218121c12726648156ff238d392450a260a"
     ],
     "subkeys": [
-      "01218ace4cb8b74dcbe269310ece2a00d735dedf7844b75b5ee0e8218245b679fc050a",
-      "01212e7856bff627e15ad86fb0d54795b74edd4da3e087f7a95e59a2e26dc56e835d0a"
+      "0121684be2847ee17bdc012432f676beccbf79f9b57527228a42c860806c02ca942c0a",
+      "0121ae9d4f7bd1295b633aa7ed7b95e5f93af626e58805b59023ce6a623780de261d0a",
+      "0121c7b19b9029948f1cc0783b7eb6ea4a139474e501371d623b29713b0762841c370a"
     ],
     "sibkeys": [
       "0101ff945e2afacea09d266277475854492ed5d4e1035ba7408dd4d32c2395fcb1710a",
-      "01200830dcf208185b6c0a20367530eea70cb0ef77f3019fe09c2e0a82f8726335d00a",
-      "0120eb490e3ae845c68d33c3b0b0bea37e1bf755fd2c42ee42378808c4467b6bc2210a"
+      "0120f3cfb2cee824272db14e303df298070738c6d494f4330cadd8711ff1d1b293380a",
+      "0120ec61b02a71e40ffa1ed2bd3b5c32b7b2375587b7c360aeddbfb7d77da960db880a",
+      "0120bd657deb53f7b555962653080178eda218121c12726648156ff238d392450a260a"
     ],
     "families": {
       "0101ff945e2afacea09d266277475854492ed5d4e1035ba7408dd4d32c2395fcb1710a": [
@@ -61,7 +70,13 @@
         "0121635c01df86d493fc63f36e99b743bbfb7efb680b603f108fd5c58cb87f5746740a",
         "01201713143b6a567bbe32f3916ef22932fa1caa9a8940aeb11d85efbb2be46b1bac0a",
         "01212e7856bff627e15ad86fb0d54795b74edd4da3e087f7a95e59a2e26dc56e835d0a",
-        "0120eb490e3ae845c68d33c3b0b0bea37e1bf755fd2c42ee42378808c4467b6bc2210a"
+        "0120eb490e3ae845c68d33c3b0b0bea37e1bf755fd2c42ee42378808c4467b6bc2210a",
+        "0121684be2847ee17bdc012432f676beccbf79f9b57527228a42c860806c02ca942c0a",
+        "0120f3cfb2cee824272db14e303df298070738c6d494f4330cadd8711ff1d1b293380a",
+        "0121ae9d4f7bd1295b633aa7ed7b95e5f93af626e58805b59023ce6a623780de261d0a",
+        "0120ec61b02a71e40ffa1ed2bd3b5c32b7b2375587b7c360aeddbfb7d77da960db880a",
+        "0121c7b19b9029948f1cc0783b7eb6ea4a139474e501371d623b29713b0762841c370a",
+        "0120bd657deb53f7b555962653080178eda218121c12726648156ff238d392450a260a"
       ]
     },
     "eldest_kid": "0101ff945e2afacea09d266277475854492ed5d4e1035ba7408dd4d32c2395fcb1710a",
@@ -114,43 +129,43 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
-          "nametag": "ayrton",
+          "proof_type": "facebook",
+          "nametag": "ping.ayrton",
           "state": 1,
-          "proof_url": "https://coinbase.com/ayrton/public-key",
-          "sig_id": "4081e14d4809d96cf92f4fdfacaa0cf77e17779f9578c41a159059e7585dbf740f",
-          "proof_id": "8b27ac87604a971e423b0a10",
-          "human_url": "https://coinbase.com/ayrton/public-key",
-          "service_url": "https://coinbase.com/ayrton",
-          "presentation_group": "coinbase",
+          "proof_url": "https://facebook.com/1431197713588208_1431198716921441",
+          "sig_id": "b9061ea59424834ff51ecd27d81f3f25fa98f2bf897600372c9c29578140a1c40f",
+          "proof_id": "d30d3e4d2e2039d7b9b06c10",
+          "human_url": "https://facebook.com/1431197713588208_1431198716921441",
+          "service_url": "https://www.facebook.com/ping.ayrton",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
         }
       ],
       "dns": [
         {
           "proof_type": "dns",
-          "nametag": "ayrtonaraujo.net",
+          "nametag": "ayr-ton.net",
           "state": 1,
-          "proof_url": "https://keybase.io/ayr_ton/sigchain#2ec7184b85ada12d30c3594b7cec56a8c3c9d41577729f3d396d0c01bcc6ca5f0f",
-          "sig_id": "2ec7184b85ada12d30c3594b7cec56a8c3c9d41577729f3d396d0c01bcc6ca5f0f",
-          "proof_id": "46d0a929c28473f7e8af6f10",
-          "human_url": "dns://ayrtonaraujo.net",
-          "service_url": "http://ayrtonaraujo.net",
-          "presentation_group": "ayrtonaraujo.net",
+          "proof_url": "https://keybase.io/ayr_ton/sigchain#1ae671862e2f168858ad92cdb77e0d861ccf3dfc41b3810e2090500f1018f3470f",
+          "sig_id": "1ae671862e2f168858ad92cdb77e0d861ccf3dfc41b3810e2090500f1018f3470f",
+          "proof_id": "a421e9277b80be2509db2110",
+          "human_url": "dns://ayr-ton.net",
+          "service_url": "http://ayr-ton.net",
+          "presentation_group": "ayr-ton.net",
           "presentation_tag": "dns"
         },
         {
           "proof_type": "dns",
-          "nametag": "ayr-ton.net",
+          "nametag": "ayrtonaraujo.net",
           "state": 1,
-          "proof_url": "https://keybase.io/ayr_ton/sigchain#ad1e3cc95c71283e748adf54fe2a9456f2162b83caaac11858c1851b0673b7580f",
-          "sig_id": "ad1e3cc95c71283e748adf54fe2a9456f2162b83caaac11858c1851b0673b7580f",
-          "proof_id": "df0d7cd0e21b148c05a6c910",
-          "human_url": "dns://ayr-ton.net",
-          "service_url": "http://ayr-ton.net",
-          "presentation_group": "ayr-ton.net",
+          "proof_url": "https://keybase.io/ayr_ton/sigchain#76f55f86f4d7d3daa3243c6b07fa8f0d575eb76a002896412f2187d94c505adf0f",
+          "sig_id": "76f55f86f4d7d3daa3243c6b07fa8f0d575eb76a002896412f2187d94c505adf0f",
+          "proof_id": "a19550b102acc80a73e19910",
+          "human_url": "dns://ayrtonaraujo.net",
+          "service_url": "http://ayrtonaraujo.net",
+          "presentation_group": "ayrtonaraujo.net",
           "presentation_tag": "dns"
         }
       ]
@@ -198,32 +213,18 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
-          "nametag": "ayrton",
+          "proof_type": "facebook",
+          "nametag": "ping.ayrton",
           "state": 1,
-          "proof_url": "https://coinbase.com/ayrton/public-key",
-          "sig_id": "4081e14d4809d96cf92f4fdfacaa0cf77e17779f9578c41a159059e7585dbf740f",
-          "proof_id": "8b27ac87604a971e423b0a10",
-          "human_url": "https://coinbase.com/ayrton/public-key",
-          "service_url": "https://coinbase.com/ayrton",
-          "presentation_group": "coinbase",
+          "proof_url": "https://facebook.com/1431197713588208_1431198716921441",
+          "sig_id": "b9061ea59424834ff51ecd27d81f3f25fa98f2bf897600372c9c29578140a1c40f",
+          "proof_id": "d30d3e4d2e2039d7b9b06c10",
+          "human_url": "https://facebook.com/1431197713588208_1431198716921441",
+          "service_url": "https://www.facebook.com/ping.ayrton",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
-        }
-      ],
-      "ayrtonaraujo.net": [
-        {
-          "proof_type": "dns",
-          "nametag": "ayrtonaraujo.net",
-          "state": 1,
-          "proof_url": "https://keybase.io/ayr_ton/sigchain#2ec7184b85ada12d30c3594b7cec56a8c3c9d41577729f3d396d0c01bcc6ca5f0f",
-          "sig_id": "2ec7184b85ada12d30c3594b7cec56a8c3c9d41577729f3d396d0c01bcc6ca5f0f",
-          "proof_id": "46d0a929c28473f7e8af6f10",
-          "human_url": "dns://ayrtonaraujo.net",
-          "service_url": "http://ayrtonaraujo.net",
-          "presentation_group": "ayrtonaraujo.net",
-          "presentation_tag": "dns"
         }
       ],
       "ayr-ton.net": [
@@ -231,12 +232,26 @@
           "proof_type": "dns",
           "nametag": "ayr-ton.net",
           "state": 1,
-          "proof_url": "https://keybase.io/ayr_ton/sigchain#ad1e3cc95c71283e748adf54fe2a9456f2162b83caaac11858c1851b0673b7580f",
-          "sig_id": "ad1e3cc95c71283e748adf54fe2a9456f2162b83caaac11858c1851b0673b7580f",
-          "proof_id": "df0d7cd0e21b148c05a6c910",
+          "proof_url": "https://keybase.io/ayr_ton/sigchain#1ae671862e2f168858ad92cdb77e0d861ccf3dfc41b3810e2090500f1018f3470f",
+          "sig_id": "1ae671862e2f168858ad92cdb77e0d861ccf3dfc41b3810e2090500f1018f3470f",
+          "proof_id": "a421e9277b80be2509db2110",
           "human_url": "dns://ayr-ton.net",
           "service_url": "http://ayr-ton.net",
           "presentation_group": "ayr-ton.net",
+          "presentation_tag": "dns"
+        }
+      ],
+      "ayrtonaraujo.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "ayrtonaraujo.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/ayr_ton/sigchain#76f55f86f4d7d3daa3243c6b07fa8f0d575eb76a002896412f2187d94c505adf0f",
+          "sig_id": "76f55f86f4d7d3daa3243c6b07fa8f0d575eb76a002896412f2187d94c505adf0f",
+          "proof_id": "a19550b102acc80a73e19910",
+          "human_url": "dns://ayrtonaraujo.net",
+          "service_url": "http://ayrtonaraujo.net",
+          "presentation_group": "ayrtonaraujo.net",
           "presentation_tag": "dns"
         }
       ]
@@ -279,39 +294,39 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "ayrton",
+        "proof_type": "facebook",
+        "nametag": "ping.ayrton",
         "state": 1,
-        "proof_url": "https://coinbase.com/ayrton/public-key",
-        "sig_id": "4081e14d4809d96cf92f4fdfacaa0cf77e17779f9578c41a159059e7585dbf740f",
-        "proof_id": "8b27ac87604a971e423b0a10",
-        "human_url": "https://coinbase.com/ayrton/public-key",
-        "service_url": "https://coinbase.com/ayrton",
-        "presentation_group": "coinbase",
+        "proof_url": "https://facebook.com/1431197713588208_1431198716921441",
+        "sig_id": "b9061ea59424834ff51ecd27d81f3f25fa98f2bf897600372c9c29578140a1c40f",
+        "proof_id": "d30d3e4d2e2039d7b9b06c10",
+        "human_url": "https://facebook.com/1431197713588208_1431198716921441",
+        "service_url": "https://www.facebook.com/ping.ayrton",
+        "presentation_group": "facebook",
         "presentation_tag": "post"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "ayrtonaraujo.net",
-        "state": 1,
-        "proof_url": "https://keybase.io/ayr_ton/sigchain#2ec7184b85ada12d30c3594b7cec56a8c3c9d41577729f3d396d0c01bcc6ca5f0f",
-        "sig_id": "2ec7184b85ada12d30c3594b7cec56a8c3c9d41577729f3d396d0c01bcc6ca5f0f",
-        "proof_id": "46d0a929c28473f7e8af6f10",
-        "human_url": "dns://ayrtonaraujo.net",
-        "service_url": "http://ayrtonaraujo.net",
-        "presentation_group": "ayrtonaraujo.net",
-        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
         "nametag": "ayr-ton.net",
         "state": 1,
-        "proof_url": "https://keybase.io/ayr_ton/sigchain#ad1e3cc95c71283e748adf54fe2a9456f2162b83caaac11858c1851b0673b7580f",
-        "sig_id": "ad1e3cc95c71283e748adf54fe2a9456f2162b83caaac11858c1851b0673b7580f",
-        "proof_id": "df0d7cd0e21b148c05a6c910",
+        "proof_url": "https://keybase.io/ayr_ton/sigchain#1ae671862e2f168858ad92cdb77e0d861ccf3dfc41b3810e2090500f1018f3470f",
+        "sig_id": "1ae671862e2f168858ad92cdb77e0d861ccf3dfc41b3810e2090500f1018f3470f",
+        "proof_id": "a421e9277b80be2509db2110",
         "human_url": "dns://ayr-ton.net",
         "service_url": "http://ayr-ton.net",
         "presentation_group": "ayr-ton.net",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "ayrtonaraujo.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/ayr_ton/sigchain#76f55f86f4d7d3daa3243c6b07fa8f0d575eb76a002896412f2187d94c505adf0f",
+        "sig_id": "76f55f86f4d7d3daa3243c6b07fa8f0d575eb76a002896412f2187d94c505adf0f",
+        "proof_id": "a19550b102acc80a73e19910",
+        "human_url": "dns://ayrtonaraujo.net",
+        "service_url": "http://ayrtonaraujo.net",
+        "presentation_group": "ayrtonaraujo.net",
         "presentation_tag": "dns"
       }
     ]
@@ -334,47 +349,66 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "bcfd3da60d6717e05e0b1d027f83a03d393d99c2be5d62773c11c18aa8f9fd120f",
-      "seqno": 22,
-      "payload_hash": "412eaf3a9dcd96c1c6f57030b0bd9aab0b3913e49c201d947d28966514d03632"
+      "sig_id": "e8694bcf21e4cdc597a85bcc5fe3ccdc9c1e75639deac4d0860c35a3bd2796790f",
+      "seqno": 60,
+      "payload_hash": "730f9026692c23c7efbb296388859b0ccacf370cb523d8e35c61b7caf0c7e38b"
     }
   },
   "devices": {
-    "31d0115a50a6b0eeae9db0e613d28318": {
+    "1deb878fc934278476afa40e3d68d118": {
       "type": "desktop",
-      "ctime": 1466445080,
-      "mtime": 1466445080,
-      "name": "Macbook Pro TW",
+      "ctime": 1503686520,
+      "mtime": 1503686520,
+      "name": "LAAaraujo",
       "status": 1,
       "keys": [
         {
-          "kid": "0120eb490e3ae845c68d33c3b0b0bea37e1bf755fd2c42ee42378808c4467b6bc2210a",
+          "kid": "0120bd657deb53f7b555962653080178eda218121c12726648156ff238d392450a260a",
           "key_role": 1,
-          "sig_id": "693f1ef4089dca0781a21e346937344107ef9afe4cff91fb2b1d0379a0c40b330f"
+          "sig_id": "20e4c72c76eb111069ee7e9d3d6611ea525d0b6f7400a841ef318fc004d090670f"
         },
         {
-          "kid": "01212e7856bff627e15ad86fb0d54795b74edd4da3e087f7a95e59a2e26dc56e835d0a",
+          "kid": "0121c7b19b9029948f1cc0783b7eb6ea4a139474e501371d623b29713b0762841c370a",
           "key_role": 2,
-          "sig_id": "624ee2181dbe24250b8b22eb4639e507c4bb15af60d2305697a213b6fb87b4c60f"
+          "sig_id": "feadd860b0053ed698ebe41d0faa2163700fa65dc18cddf7c7835393525774ab0f"
         }
       ]
     },
-    "47b2c7d06054d2eaf3943484fe1e5118": {
-      "type": "desktop",
-      "ctime": 1458590649,
-      "mtime": 1458590649,
-      "name": "companion-cube",
+    "4b5b8ce4cbe6aa89c8d3d5c1c12bfc18": {
+      "type": "mobile",
+      "ctime": 1500340269,
+      "mtime": 1500340269,
+      "name": "Ayrton's iPhone SE",
       "status": 1,
       "keys": [
         {
-          "kid": "01200830dcf208185b6c0a20367530eea70cb0ef77f3019fe09c2e0a82f8726335d00a",
+          "kid": "0120ec61b02a71e40ffa1ed2bd3b5c32b7b2375587b7c360aeddbfb7d77da960db880a",
           "key_role": 1,
-          "sig_id": "56782c8e1d020b49fba69826f0eaeb5d9b187c544a8334d3b7bd46a29902e08a0f"
+          "sig_id": "b47ca5571a91d3801acf0e88432d652fe52692124b9d5711d92f698ac3bcf1b90f"
         },
         {
-          "kid": "01218ace4cb8b74dcbe269310ece2a00d735dedf7844b75b5ee0e8218245b679fc050a",
+          "kid": "0121ae9d4f7bd1295b633aa7ed7b95e5f93af626e58805b59023ce6a623780de261d0a",
           "key_role": 2,
-          "sig_id": "3e3b82b7ae1d44595578750992b2238eaad25bad297e31ca05798ff5cfd3fa990f"
+          "sig_id": "5401044a8eed1d2ce2a1edc4dca61e28556ab23ef60173eeb430b8f2cf682a700f"
+        }
+      ]
+    },
+    "5b92ab834a09ad54f143be485bf15918": {
+      "type": "desktop",
+      "ctime": 1500340070,
+      "mtime": 1500340070,
+      "name": "Ayrton's MacBook Pro 2017",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120f3cfb2cee824272db14e303df298070738c6d494f4330cadd8711ff1d1b293380a",
+          "key_role": 1,
+          "sig_id": "faa2b1362be598ceb77ade14d7ec6133d6f3577b84c8ce5d313d6e587be17bde0f"
+        },
+        {
+          "kid": "0121684be2847ee17bdc012432f676beccbf79f9b57527228a42c860806c02ca942c0a",
+          "key_role": 2,
+          "sig_id": "eb49698a91d6c3e83a1ac55930821ee986db6a489db32f9fc988cdc36a76c5270f"
         }
       ]
     }
