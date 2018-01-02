@@ -4,16 +4,17 @@
     "username": "plusreed",
     "ctime": 1448218470,
     "mtime": 1448218470,
-    "id_version": 44,
-    "track_version": 4,
-    "last_id_change": 1469315247,
-    "username_cased": "plusreed"
+    "id_version": 58,
+    "track_version": 5,
+    "last_id_change": 1511569242,
+    "username_cased": "plusreed",
+    "status": 0
   },
   "profile": {
-    "mtime": 1469316149,
+    "mtime": 1485359109,
     "full_name": "Reed Davenport",
     "location": "United States",
-    "bio": "Folf with paws that sits around doing nothing."
+    "bio": "I make stuff"
   },
   "public_keys": {
     "primary": {
@@ -42,20 +43,28 @@
       "012012ecd1acbfa949ad3901a7b64843cc7f0dd89543c3d3c8a6554130750c8352d30a",
       "012110488e2b24936c78055d35579b04e88dd858a20cf9378d4a166350dedee5fe020a",
       "01201f4fa0de08b7c0bdf0dd03bc91d524a0f16e91784b06bcde2072ff76796d84f20a",
-      "012103fb23d070036007b46e83577e624dc78cda0ab6b5c0b178d0cf52e9bbc21b5c0a"
+      "012103fb23d070036007b46e83577e624dc78cda0ab6b5c0b178d0cf52e9bbc21b5c0a",
+      "0121b722d2dda74b110fda802e6489831b8faa240941dd633279058b6bef401de00c0a",
+      "012052cc6338204163065442d53a9659622ff2a6c35b99937f3c4e4cb433566acbdc0a",
+      "012117167c4ed7d0500d5d7ce47105a56fa6a121c19353f0d5851b35b53bb70a6f410a",
+      "012062439d80e93a217c915f3ee186c3dafade2305621b4ecf6c2b1fecde04cdd6e10a"
     ],
     "subkeys": [
       "01216a310b188837ed52054e068cc096ccd31f757699ce98a7b095f440f1745460220a",
       "0121af3505728593dd23aee35ea4a57d4f953791d9836eb0a6adc7d003b715b3c1770a",
       "012110488e2b24936c78055d35579b04e88dd858a20cf9378d4a166350dedee5fe020a",
-      "012103fb23d070036007b46e83577e624dc78cda0ab6b5c0b178d0cf52e9bbc21b5c0a"
+      "012103fb23d070036007b46e83577e624dc78cda0ab6b5c0b178d0cf52e9bbc21b5c0a",
+      "0121b722d2dda74b110fda802e6489831b8faa240941dd633279058b6bef401de00c0a",
+      "012117167c4ed7d0500d5d7ce47105a56fa6a121c19353f0d5851b35b53bb70a6f410a"
     ],
     "sibkeys": [
       "01019152d00ad993e992744ce5761ddbf29adb25d8a3bc003eb45ebe8ca71d2147fb0a",
       "01207b7fd02d7c3e0c9ffe8083aad4cc46067f2ecac5dee8895201ee36f6ba3235f20a",
       "012026f59114f58e3f8b518d9ce1c5ed9c7bc0d0b7eaf1544c2e3ab7514a60a27f0b0a",
       "012012ecd1acbfa949ad3901a7b64843cc7f0dd89543c3d3c8a6554130750c8352d30a",
-      "01201f4fa0de08b7c0bdf0dd03bc91d524a0f16e91784b06bcde2072ff76796d84f20a"
+      "01201f4fa0de08b7c0bdf0dd03bc91d524a0f16e91784b06bcde2072ff76796d84f20a",
+      "012052cc6338204163065442d53a9659622ff2a6c35b99937f3c4e4cb433566acbdc0a",
+      "012062439d80e93a217c915f3ee186c3dafade2305621b4ecf6c2b1fecde04cdd6e10a"
     ],
     "families": {
       "01019152d00ad993e992744ce5761ddbf29adb25d8a3bc003eb45ebe8ca71d2147fb0a": [
@@ -67,7 +76,11 @@
         "012012ecd1acbfa949ad3901a7b64843cc7f0dd89543c3d3c8a6554130750c8352d30a",
         "012110488e2b24936c78055d35579b04e88dd858a20cf9378d4a166350dedee5fe020a",
         "01201f4fa0de08b7c0bdf0dd03bc91d524a0f16e91784b06bcde2072ff76796d84f20a",
-        "012103fb23d070036007b46e83577e624dc78cda0ab6b5c0b178d0cf52e9bbc21b5c0a"
+        "012103fb23d070036007b46e83577e624dc78cda0ab6b5c0b178d0cf52e9bbc21b5c0a",
+        "0121b722d2dda74b110fda802e6489831b8faa240941dd633279058b6bef401de00c0a",
+        "012052cc6338204163065442d53a9659622ff2a6c35b99937f3c4e4cb433566acbdc0a",
+        "012117167c4ed7d0500d5d7ce47105a56fa6a121c19353f0d5851b35b53bb70a6f410a",
+        "012062439d80e93a217c915f3ee186c3dafade2305621b4ecf6c2b1fecde04cdd6e10a"
       ]
     },
     "eldest_kid": "01019152d00ad993e992744ce5761ddbf29adb25d8a3bc003eb45ebe8ca71d2147fb0a",
@@ -106,18 +119,18 @@
           "presentation_tag": "post"
         }
       ],
-      "generic_web_site": [
+      "dns": [
         {
-          "proof_type": "generic_web_site",
+          "proof_type": "dns",
           "nametag": "plusreed.com",
           "state": 1,
-          "proof_url": "http://plusreed.com/keybase.txt",
-          "sig_id": "1803a860b9a24777648affc1e6defec52225f8bc3ae39e9b96ebf31be7bfeaa60f",
-          "proof_id": "886e76a79d1fde6feacc1a10",
-          "human_url": "http://plusreed.com/keybase.txt",
+          "proof_url": "https://keybase.io/plusreed/sigchain#e005ed88023714fdea7079ffd6328c71ae653331b11902eeed8da4bc766fa7fb0f",
+          "sig_id": "e005ed88023714fdea7079ffd6328c71ae653331b11902eeed8da4bc766fa7fb0f",
+          "proof_id": "d1bbf1901e05f69a747dd510",
+          "human_url": "dns://plusreed.com",
           "service_url": "http://plusreed.com",
           "presentation_group": "plusreed.com",
-          "presentation_tag": "http"
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -152,16 +165,16 @@
       ],
       "plusreed.com": [
         {
-          "proof_type": "generic_web_site",
+          "proof_type": "dns",
           "nametag": "plusreed.com",
           "state": 1,
-          "proof_url": "http://plusreed.com/keybase.txt",
-          "sig_id": "1803a860b9a24777648affc1e6defec52225f8bc3ae39e9b96ebf31be7bfeaa60f",
-          "proof_id": "886e76a79d1fde6feacc1a10",
-          "human_url": "http://plusreed.com/keybase.txt",
+          "proof_url": "https://keybase.io/plusreed/sigchain#e005ed88023714fdea7079ffd6328c71ae653331b11902eeed8da4bc766fa7fb0f",
+          "sig_id": "e005ed88023714fdea7079ffd6328c71ae653331b11902eeed8da4bc766fa7fb0f",
+          "proof_id": "d1bbf1901e05f69a747dd510",
+          "human_url": "dns://plusreed.com",
           "service_url": "http://plusreed.com",
           "presentation_group": "plusreed.com",
-          "presentation_tag": "http"
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -191,23 +204,23 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "generic_web_site",
+        "proof_type": "dns",
         "nametag": "plusreed.com",
         "state": 1,
-        "proof_url": "http://plusreed.com/keybase.txt",
-        "sig_id": "1803a860b9a24777648affc1e6defec52225f8bc3ae39e9b96ebf31be7bfeaa60f",
-        "proof_id": "886e76a79d1fde6feacc1a10",
-        "human_url": "http://plusreed.com/keybase.txt",
+        "proof_url": "https://keybase.io/plusreed/sigchain#e005ed88023714fdea7079ffd6328c71ae653331b11902eeed8da4bc766fa7fb0f",
+        "sig_id": "e005ed88023714fdea7079ffd6328c71ae653331b11902eeed8da4bc766fa7fb0f",
+        "proof_id": "d1bbf1901e05f69a747dd510",
+        "human_url": "dns://plusreed.com",
         "service_url": "http://plusreed.com",
         "presentation_group": "plusreed.com",
-        "presentation_tag": "http"
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/8ce1219231cae2de476371f34d857505_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/c17a715465840ec31849978735a9cf05_360_360_square_360.png",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -215,9 +228,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "cefcaeb2585a45a9417a5068416aef8a9a08f2711d408518612309bcee6e43650f",
-      "seqno": 21,
-      "payload_hash": "b73099bfd5c8918e21737db5bb7c3e520c41b67689cddd1db7fa06d68c059de5"
+      "sig_id": "53b613a2b0f975097d96ee588cc3a7045d561b24e9359c757cc894d8ad5929090f",
+      "seqno": 29,
+      "payload_hash": "014305b738666c4759bdeeb39df2c5713a668d6996a8057a363f414670f54bbb"
     }
   },
   "devices": {
@@ -237,6 +250,44 @@
           "kid": "0121af3505728593dd23aee35ea4a57d4f953791d9836eb0a6adc7d003b715b3c1770a",
           "key_role": 2,
           "sig_id": "b0e5bd88fff745b3a21cb1c2a6bb1b7ba630aa00ff5c27ca6637ccff9f053e380f"
+        }
+      ]
+    },
+    "51b47fe79304e966bd5ae932b226d018": {
+      "type": "mobile",
+      "ctime": 1511567924,
+      "mtime": 1511567924,
+      "name": "8 Plus",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012062439d80e93a217c915f3ee186c3dafade2305621b4ecf6c2b1fecde04cdd6e10a",
+          "key_role": 1,
+          "sig_id": "ad9c3b709283a110150a37c2caf70a0fa217c36607dca913294033b97df1608c0f"
+        },
+        {
+          "kid": "012117167c4ed7d0500d5d7ce47105a56fa6a121c19353f0d5851b35b53bb70a6f410a",
+          "key_role": 2,
+          "sig_id": "c1fe74ccfe73ba38a0fe03c7f36f34c754335bb6c997a0b4e1fe79974abe026e0f"
+        }
+      ]
+    },
+    "5d1e64b317296b7c9a8136cd26602318": {
+      "type": "mobile",
+      "ctime": 1494953773,
+      "mtime": 1494953773,
+      "name": "Phone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012052cc6338204163065442d53a9659622ff2a6c35b99937f3c4e4cb433566acbdc0a",
+          "key_role": 1,
+          "sig_id": "1f9e1fd00f164e7626c901a70ab5185c0023c63c9b82178c0244a12d11b42fbf0f"
+        },
+        {
+          "kid": "0121b722d2dda74b110fda802e6489831b8faa240941dd633279058b6bef401de00c0a",
+          "key_role": 2,
+          "sig_id": "308535daa7d50fc20be978c4c7c03059d11d66faf010a3f5c76d98574046eb750f"
         }
       ]
     },
@@ -280,8 +331,8 @@
     },
     "cb5650a2fae19f4be90690e712ff0218": {
       "type": "desktop",
-      "ctime": 1469315247,
-      "mtime": 1469315247,
+      "ctime": 1469318847,
+      "mtime": 1469318847,
       "name": "Main-Win10",
       "status": 1,
       "keys": [
