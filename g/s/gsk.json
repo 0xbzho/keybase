@@ -4,10 +4,11 @@
     "username": "gsk",
     "ctime": 1424743308,
     "mtime": 1424743308,
-    "id_version": 16,
-    "track_version": 7,
-    "last_id_change": 1448830276,
-    "username_cased": "gsk"
+    "id_version": 18,
+    "track_version": 8,
+    "last_id_change": 1498169865,
+    "username_cased": "gsk",
+    "status": 0
   },
   "profile": {
     "mtime": 1449037102,
@@ -38,16 +39,24 @@
       "0121ba64eb59b27f4004cc23c7c91ef6b40c96d17bc856931e6be3162fdbc58f94690a",
       "0120b35fa4a6866350d91be71fd1a72aa594b58fbf84b5f35ed9217e489050075a5b0a",
       "012006ce791ce1635bc1a907fc7bb465de0a5ab79861f8a1f9e64477cd64f821a5160a",
-      "012174042176a51220e5e7ea38ec70a581a043c1e70b70851131d64cb5ad632f6e410a"
+      "012174042176a51220e5e7ea38ec70a581a043c1e70b70851131d64cb5ad632f6e410a",
+      "012106ec611a845fa4721388ff877cc13ef184413d76e3e35bc79c211aa13893a4010a",
+      "012024d2292a65fccd85310af06ff07959c660e61100ca394a0df48d0d0ac248a01b0a",
+      "01202d0fb978113a84e2796a9e40ec23925157593f26b085e0fd2235c693d95fc4070a",
+      "012109099fe1e33ce9b45ecc93d75b280ccc311b1f617454f925a284340c6e532e620a"
     ],
     "subkeys": [
       "0121ba64eb59b27f4004cc23c7c91ef6b40c96d17bc856931e6be3162fdbc58f94690a",
-      "012174042176a51220e5e7ea38ec70a581a043c1e70b70851131d64cb5ad632f6e410a"
+      "012174042176a51220e5e7ea38ec70a581a043c1e70b70851131d64cb5ad632f6e410a",
+      "012106ec611a845fa4721388ff877cc13ef184413d76e3e35bc79c211aa13893a4010a",
+      "012109099fe1e33ce9b45ecc93d75b280ccc311b1f617454f925a284340c6e532e620a"
     ],
     "sibkeys": [
       "0101725adeb8ae7326269aaa79888bdde7ce10167770974bbc80e7b8faca383360c50a",
       "0120b35fa4a6866350d91be71fd1a72aa594b58fbf84b5f35ed9217e489050075a5b0a",
-      "012006ce791ce1635bc1a907fc7bb465de0a5ab79861f8a1f9e64477cd64f821a5160a"
+      "012006ce791ce1635bc1a907fc7bb465de0a5ab79861f8a1f9e64477cd64f821a5160a",
+      "012024d2292a65fccd85310af06ff07959c660e61100ca394a0df48d0d0ac248a01b0a",
+      "01202d0fb978113a84e2796a9e40ec23925157593f26b085e0fd2235c693d95fc4070a"
     ],
     "families": {
       "0101725adeb8ae7326269aaa79888bdde7ce10167770974bbc80e7b8faca383360c50a": [
@@ -55,7 +64,11 @@
         "0121ba64eb59b27f4004cc23c7c91ef6b40c96d17bc856931e6be3162fdbc58f94690a",
         "0120b35fa4a6866350d91be71fd1a72aa594b58fbf84b5f35ed9217e489050075a5b0a",
         "012006ce791ce1635bc1a907fc7bb465de0a5ab79861f8a1f9e64477cd64f821a5160a",
-        "012174042176a51220e5e7ea38ec70a581a043c1e70b70851131d64cb5ad632f6e410a"
+        "012174042176a51220e5e7ea38ec70a581a043c1e70b70851131d64cb5ad632f6e410a",
+        "012106ec611a845fa4721388ff877cc13ef184413d76e3e35bc79c211aa13893a4010a",
+        "012024d2292a65fccd85310af06ff07959c660e61100ca394a0df48d0d0ac248a01b0a",
+        "01202d0fb978113a84e2796a9e40ec23925157593f26b085e0fd2235c693d95fc4070a",
+        "012109099fe1e33ce9b45ecc93d75b280ccc311b1f617454f925a284340c6e532e620a"
       ]
     },
     "eldest_kid": "0101725adeb8ae7326269aaa79888bdde7ce10167770974bbc80e7b8faca383360c50a",
@@ -203,9 +216,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3234d9f5ad5a5c5dc18f2156e314d71df18048ba2e13cc3a37400a7276cab5f10f",
-      "seqno": 15,
-      "payload_hash": "2f8d29b22561043cce5750f8da04288ea7bbc13432ff7e704534285a2fea6b16"
+      "sig_id": "dcfa9cf409d3c02f9560f0ac7f562e28640ee039cf1e860293a9de72e3bb153d0f",
+      "seqno": 21,
+      "payload_hash": "2ba68364978eafa4462475c0da420ebd7aa96b30d42436d542ab3dab33b000ee"
     }
   },
   "devices": {
@@ -225,6 +238,44 @@
           "kid": "0121ba64eb59b27f4004cc23c7c91ef6b40c96d17bc856931e6be3162fdbc58f94690a",
           "key_role": 2,
           "sig_id": "a2fedf86048804e7146cf12203e2d077f54ce425ea116dde5000defccccc15a90f"
+        }
+      ]
+    },
+    "65ff833535e77734844232b3487e4518": {
+      "type": "desktop",
+      "ctime": 1478301333,
+      "mtime": 1478301333,
+      "name": "Thinkpad-X250",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012024d2292a65fccd85310af06ff07959c660e61100ca394a0df48d0d0ac248a01b0a",
+          "key_role": 1,
+          "sig_id": "9325857fa38f32dcca04ac687306163082d5827d4e7b9b6b375457c867f0abd90f"
+        },
+        {
+          "kid": "012106ec611a845fa4721388ff877cc13ef184413d76e3e35bc79c211aa13893a4010a",
+          "key_role": 2,
+          "sig_id": "9af9aac9e14eaf92b13a84d5975c9a0db1922b92f2946f5d1bed5d626e5e1b5b0f"
+        }
+      ]
+    },
+    "90649e0e889a348d22199e392a658c18": {
+      "type": "desktop",
+      "ctime": 1498169865,
+      "mtime": 1498169865,
+      "name": "normandy-gce",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01202d0fb978113a84e2796a9e40ec23925157593f26b085e0fd2235c693d95fc4070a",
+          "key_role": 1,
+          "sig_id": "f67d8d0ae0ea3a55614053430eaf415b191aa2763faea782147143a087456c730f"
+        },
+        {
+          "kid": "012109099fe1e33ce9b45ecc93d75b280ccc311b1f617454f925a284340c6e532e620a",
+          "key_role": 2,
+          "sig_id": "e00e9ecce48e722360ba0585b186ca716436f47ebb77f54201f4ddc6206a5b7f0f"
         }
       ]
     },
