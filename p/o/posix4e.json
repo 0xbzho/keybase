@@ -2,112 +2,475 @@
   "id": "73ccbd4a6fd198c2ea432c6686651f00",
   "basics": {
     "username": "posix4e",
-    "ctime": 1394853594,
-    "mtime": 1394853594,
-    "id_version": 10,
-    "track_version": 0,
-    "last_id_change": 1403017125,
-    "username_cased": "posix4e"
+    "ctime": 1394857194,
+    "mtime": 1394857194,
+    "id_version": 30,
+    "track_version": 4,
+    "last_id_change": 1514707764,
+    "username_cased": "posix4e",
+    "status": 0
   },
   "public_keys": {
     "primary": {
-      "kid": "0101cf3b6ba8951e058e998ed08e853a9930395150d6471e43b09f78363e04f39e320a",
+      "kid": "0101bcff4988b3d5ad51cff1083bb410eeb1eab2bf4ae0961984e019ff108b841cc70a",
       "key_type": 1,
-      "bundle": "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1\n\n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\n=tXaF\n-----END PGP PUBLIC KEY BLOCK-----",
-      "mtime": 1394853725,
-      "ctime": 1394853725,
-      "ukbid": "a248251672055fdf8b05cd3da2fe9f11",
-      "key_fingerprint": "88aa3d610b01165ff93f53fca0fa404b1723f63f",
-      "key_bits": 4096,
+      "bundle": "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1\n\n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\nwzKvz7YZt0ui0IqzfaElsHpX2nsKuwCikhydCA==\n=67Br\n-----END PGP PUBLIC KEY BLOCK-----",
+      "mtime": 1507241383,
+      "ctime": 1507241383,
+      "ukbid": "73ba940e99ec6f5f563d9c57ee46f211",
+      "key_fingerprint": "d7df3216d58d34a8ef37f82ee52f374e82351036",
+      "key_bits": 2048,
       "key_algo": 1,
-      "signing_kid": null,
-      "key_level": 0,
-      "etime": null,
-      "eldest_kid": null,
+      "signing_kid": "012012464f4e669621a545480f8918a24d368ea732d0c44388ef275bb4b0aacdf18f0a",
+      "key_level": 1,
+      "etime": 2011817383,
+      "eldest_kid": "012012464f4e669621a545480f8918a24d368ea732d0c44388ef275bb4b0aacdf18f0a",
       "status": 0,
       "self_signed": true
     },
     "all_bundles": [
-      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1\n\n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\n=tXaF\n-----END PGP PUBLIC KEY BLOCK-----"
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1\n\n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\n=tXaF\n-----END PGP PUBLIC KEY BLOCK-----",
+      "0121e6edbee0a5fdb7ee92ff60774b7c625f013e377bc6a6c0d5e248537c5e83701e0a",
+      "012012464f4e669621a545480f8918a24d368ea732d0c44388ef275bb4b0aacdf18f0a",
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1\n\n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\nwzKvz7YZt0ui0IqzfaElsHpX2nsKuwCikhydCA==\n=67Br\n-----END PGP PUBLIC KEY BLOCK-----",
+      "0120267ff727c937efbfddcda821d8288922f0cc6c349e300dfb902cc1e38e9cdd4f0a",
+      "0121a2d054fecaea123b74c67c5fa5004458164bc0f063eb9ba0d4ccd45b487c7d700a",
+      "0120a00e7923e441bae9bfe2bf5c1b8744d37276bcb86378121a08f9cc1c439b22520a",
+      "0121587ad6b61c436a8b109c4dbc683f70af632b4d08425e42dc72efe5f0628c81560a",
+      "012182d6a60c738cf3f78260543295652a32757dfb7cf851de7101bb0de238c4476f0a",
+      "01205414332a159c555967a3f4ce3a632587f219210e2da859e5e0b817e3cadfebcb0a",
+      "0120efd4266de1bc68878ed3d4d862ef0958ac69bc5a3f93213b7d44d7e0b5fa591e0a",
+      "012165f72e2711182ae2c3b9660ac724bfbde8b3f92dc4cddec166b7931202db25420a",
+      "0121d99f0e4f3c7bd5b0ab6c25fec3b5f8e89c3c8b7ddd495b5dbcbf345b2636703e0a",
+      "01201856864753586a6ca85cd288a9d99c09ab49b4885c77514dbe09c0170ea790db0a",
+      "01211081414a1fb52b6be5943b5c094bd25bec4f6fa67933884f1725117ee9d956690a",
+      "0120943cf288a33a6a09ca057f1be5f557e1554ca529352569371c001a59efb1d4860a",
+      "01215c9fd9243726703606e8e3fabacd87ae09989d8b072a946fe059a1172cb24f250a",
+      "01208d8b977198cb7649bc84a68f2f8ff026b36c4a85673108740b3ecf37c4c1692b0a",
+      "01210788c30c5d048d7e0c64abd04009b27297c6d9251b4b9f2e4b6bd82ce086184a0a",
+      "01200c02d7756b53dd7ac283484e98631bd576647756349a9f9c72d32033155328760a",
+      "0120bc9196d4f668d4d2b1381af7f60eae63f90ad51c00f5653e589affe55a6e223f0a",
+      "012102a8fe2234c4bfc17fe314678bc38c33487060c56f89c1e16102b6733b4a5b3c0a"
     ],
-    "subkeys": [],
+    "subkeys": [
+      "0121e6edbee0a5fdb7ee92ff60774b7c625f013e377bc6a6c0d5e248537c5e83701e0a",
+      "0121a2d054fecaea123b74c67c5fa5004458164bc0f063eb9ba0d4ccd45b487c7d700a",
+      "0121587ad6b61c436a8b109c4dbc683f70af632b4d08425e42dc72efe5f0628c81560a",
+      "012165f72e2711182ae2c3b9660ac724bfbde8b3f92dc4cddec166b7931202db25420a",
+      "0121d99f0e4f3c7bd5b0ab6c25fec3b5f8e89c3c8b7ddd495b5dbcbf345b2636703e0a",
+      "01211081414a1fb52b6be5943b5c094bd25bec4f6fa67933884f1725117ee9d956690a",
+      "01215c9fd9243726703606e8e3fabacd87ae09989d8b072a946fe059a1172cb24f250a",
+      "01210788c30c5d048d7e0c64abd04009b27297c6d9251b4b9f2e4b6bd82ce086184a0a",
+      "012102a8fe2234c4bfc17fe314678bc38c33487060c56f89c1e16102b6733b4a5b3c0a"
+    ],
     "sibkeys": [
-      "0101cf3b6ba8951e058e998ed08e853a9930395150d6471e43b09f78363e04f39e320a"
+      "012012464f4e669621a545480f8918a24d368ea732d0c44388ef275bb4b0aacdf18f0a",
+      "0101bcff4988b3d5ad51cff1083bb410eeb1eab2bf4ae0961984e019ff108b841cc70a",
+      "0120267ff727c937efbfddcda821d8288922f0cc6c349e300dfb902cc1e38e9cdd4f0a",
+      "0120a00e7923e441bae9bfe2bf5c1b8744d37276bcb86378121a08f9cc1c439b22520a",
+      "0120efd4266de1bc68878ed3d4d862ef0958ac69bc5a3f93213b7d44d7e0b5fa591e0a",
+      "01201856864753586a6ca85cd288a9d99c09ab49b4885c77514dbe09c0170ea790db0a",
+      "0120943cf288a33a6a09ca057f1be5f557e1554ca529352569371c001a59efb1d4860a",
+      "01208d8b977198cb7649bc84a68f2f8ff026b36c4a85673108740b3ecf37c4c1692b0a",
+      "01200c02d7756b53dd7ac283484e98631bd576647756349a9f9c72d32033155328760a",
+      "0120bc9196d4f668d4d2b1381af7f60eae63f90ad51c00f5653e589affe55a6e223f0a"
     ],
     "families": {
       "0101cf3b6ba8951e058e998ed08e853a9930395150d6471e43b09f78363e04f39e320a": [
         "0101cf3b6ba8951e058e998ed08e853a9930395150d6471e43b09f78363e04f39e320a"
+      ],
+      "012012464f4e669621a545480f8918a24d368ea732d0c44388ef275bb4b0aacdf18f0a": [
+        "0121e6edbee0a5fdb7ee92ff60774b7c625f013e377bc6a6c0d5e248537c5e83701e0a",
+        "012012464f4e669621a545480f8918a24d368ea732d0c44388ef275bb4b0aacdf18f0a",
+        "0101bcff4988b3d5ad51cff1083bb410eeb1eab2bf4ae0961984e019ff108b841cc70a",
+        "0120267ff727c937efbfddcda821d8288922f0cc6c349e300dfb902cc1e38e9cdd4f0a",
+        "0121a2d054fecaea123b74c67c5fa5004458164bc0f063eb9ba0d4ccd45b487c7d700a",
+        "0120a00e7923e441bae9bfe2bf5c1b8744d37276bcb86378121a08f9cc1c439b22520a",
+        "0121587ad6b61c436a8b109c4dbc683f70af632b4d08425e42dc72efe5f0628c81560a",
+        "012182d6a60c738cf3f78260543295652a32757dfb7cf851de7101bb0de238c4476f0a",
+        "01205414332a159c555967a3f4ce3a632587f219210e2da859e5e0b817e3cadfebcb0a",
+        "0120efd4266de1bc68878ed3d4d862ef0958ac69bc5a3f93213b7d44d7e0b5fa591e0a",
+        "012165f72e2711182ae2c3b9660ac724bfbde8b3f92dc4cddec166b7931202db25420a",
+        "0121d99f0e4f3c7bd5b0ab6c25fec3b5f8e89c3c8b7ddd495b5dbcbf345b2636703e0a",
+        "01201856864753586a6ca85cd288a9d99c09ab49b4885c77514dbe09c0170ea790db0a",
+        "01211081414a1fb52b6be5943b5c094bd25bec4f6fa67933884f1725117ee9d956690a",
+        "0120943cf288a33a6a09ca057f1be5f557e1554ca529352569371c001a59efb1d4860a",
+        "01215c9fd9243726703606e8e3fabacd87ae09989d8b072a946fe059a1172cb24f250a",
+        "01208d8b977198cb7649bc84a68f2f8ff026b36c4a85673108740b3ecf37c4c1692b0a",
+        "01210788c30c5d048d7e0c64abd04009b27297c6d9251b4b9f2e4b6bd82ce086184a0a",
+        "01200c02d7756b53dd7ac283484e98631bd576647756349a9f9c72d32033155328760a",
+        "0120bc9196d4f668d4d2b1381af7f60eae63f90ad51c00f5653e589affe55a6e223f0a",
+        "012102a8fe2234c4bfc17fe314678bc38c33487060c56f89c1e16102b6733b4a5b3c0a"
       ]
     },
-    "eldest_kid": "0101cf3b6ba8951e058e998ed08e853a9930395150d6471e43b09f78363e04f39e320a",
-    "eldest_key_fingerprint": "88aa3d610b01165ff93f53fca0fa404b1723f63f",
+    "eldest_kid": "012012464f4e669621a545480f8918a24d368ea732d0c44388ef275bb4b0aacdf18f0a",
+    "eldest_key_fingerprint": "",
     "pgp_public_keys": [
-      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1\n\n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\n=tXaF\n-----END PGP PUBLIC KEY BLOCK-----"
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1\n\n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\nwzKvz7YZt0ui0IqzfaElsHpX2nsKuwCikhydCA==\n=67Br\n-----END PGP PUBLIC KEY BLOCK-----"
     ]
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "posix4e",
+          "state": 1,
+          "proof_url": "https://twitter.com/posix4e/status/916063055573745665",
+          "sig_id": "56a20c5e245dbee36f7ad7d9ff787de7d769a759a35c40e09104cc7b4bbda4590f",
+          "proof_id": "c7cf5158d3bc15acbd663410",
+          "human_url": "https://twitter.com/posix4e/status/916063055573745665",
+          "service_url": "https://twitter.com/posix4e",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
           "nametag": "posix4e",
           "state": 1,
-          "proof_url": "https://gist.github.com/9561451",
-          "sig_id": "4e6c3af3c41a858606818dfef47c19e3bc48ff66bc79a35275d750d1bc6290e00f",
-          "proof_id": "795c5ec3798fbd077d0b1d10",
-          "human_url": "https://gist.github.com/9561451",
+          "proof_url": "https://gist.github.com/9f665ac32cc0e2978a55a2976057393c",
+          "sig_id": "6bb4b102668e61eda9dd333c49dd1490f9cf56b638ab729c2fe1ec98fbaafa0c0f",
+          "proof_id": "9003cdb6ceeb1e0ec89e6610",
+          "human_url": "https://gist.github.com/9f665ac32cc0e2978a55a2976057393c",
           "service_url": "https://github.com/posix4e",
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "posix4e",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/74jdzd/my_keybase_proof_redditposix4e_keybaseposix4e/",
+          "sig_id": "227ce6b023b03817483f5033465e029231a502cd90b512e2f47f0f71ca4be0570f",
+          "proof_id": "5703b989468ac36e57110110",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/74jdzd/my_keybase_proof_redditposix4e_keybaseposix4e/",
+          "service_url": "https://reddit.com/user/posix4e",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "alexnewman",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=alexnewman",
+          "sig_id": "09df7fe322fbd83a14088a6c1363f34a7ae43294e3453c317aeda8317b1cc29a0f",
+          "proof_id": "3e8731d5af60fe74dc7d3a10",
+          "human_url": "https://news.ycombinator.com/user?id=alexnewman",
+          "service_url": "https://news.ycombinator.com/user?id=alexnewman",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
+        }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "posix4e",
+          "state": 1,
+          "proof_url": "https://twitter.com/posix4e/status/916063055573745665",
+          "sig_id": "56a20c5e245dbee36f7ad7d9ff787de7d769a759a35c40e09104cc7b4bbda4590f",
+          "proof_id": "c7cf5158d3bc15acbd663410",
+          "human_url": "https://twitter.com/posix4e/status/916063055573745665",
+          "service_url": "https://twitter.com/posix4e",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
           "nametag": "posix4e",
           "state": 1,
-          "proof_url": "https://gist.github.com/9561451",
-          "sig_id": "4e6c3af3c41a858606818dfef47c19e3bc48ff66bc79a35275d750d1bc6290e00f",
-          "proof_id": "795c5ec3798fbd077d0b1d10",
-          "human_url": "https://gist.github.com/9561451",
+          "proof_url": "https://gist.github.com/9f665ac32cc0e2978a55a2976057393c",
+          "sig_id": "6bb4b102668e61eda9dd333c49dd1490f9cf56b638ab729c2fe1ec98fbaafa0c0f",
+          "proof_id": "9003cdb6ceeb1e0ec89e6610",
+          "human_url": "https://gist.github.com/9f665ac32cc0e2978a55a2976057393c",
           "service_url": "https://github.com/posix4e",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "posix4e",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/74jdzd/my_keybase_proof_redditposix4e_keybaseposix4e/",
+          "sig_id": "227ce6b023b03817483f5033465e029231a502cd90b512e2f47f0f71ca4be0570f",
+          "proof_id": "5703b989468ac36e57110110",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/74jdzd/my_keybase_proof_redditposix4e_keybaseposix4e/",
+          "service_url": "https://reddit.com/user/posix4e",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "hackernews": [
+        {
+          "proof_type": "hackernews",
+          "nametag": "alexnewman",
+          "state": 1,
+          "proof_url": "https://news.ycombinator.com/user?id=alexnewman",
+          "sig_id": "09df7fe322fbd83a14088a6c1363f34a7ae43294e3453c317aeda8317b1cc29a0f",
+          "proof_id": "3e8731d5af60fe74dc7d3a10",
+          "human_url": "https://news.ycombinator.com/user?id=alexnewman",
+          "service_url": "https://news.ycombinator.com/user?id=alexnewman",
+          "presentation_group": "hackernews",
+          "presentation_tag": "profile"
         }
       ]
     },
     "all": [
       {
+        "proof_type": "twitter",
+        "nametag": "posix4e",
+        "state": 1,
+        "proof_url": "https://twitter.com/posix4e/status/916063055573745665",
+        "sig_id": "56a20c5e245dbee36f7ad7d9ff787de7d769a759a35c40e09104cc7b4bbda4590f",
+        "proof_id": "c7cf5158d3bc15acbd663410",
+        "human_url": "https://twitter.com/posix4e/status/916063055573745665",
+        "service_url": "https://twitter.com/posix4e",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
+      {
         "proof_type": "github",
         "nametag": "posix4e",
         "state": 1,
-        "proof_url": "https://gist.github.com/9561451",
-        "sig_id": "4e6c3af3c41a858606818dfef47c19e3bc48ff66bc79a35275d750d1bc6290e00f",
-        "proof_id": "795c5ec3798fbd077d0b1d10",
-        "human_url": "https://gist.github.com/9561451",
+        "proof_url": "https://gist.github.com/9f665ac32cc0e2978a55a2976057393c",
+        "sig_id": "6bb4b102668e61eda9dd333c49dd1490f9cf56b638ab729c2fe1ec98fbaafa0c0f",
+        "proof_id": "9003cdb6ceeb1e0ec89e6610",
+        "human_url": "https://gist.github.com/9f665ac32cc0e2978a55a2976057393c",
         "service_url": "https://github.com/posix4e",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "reddit",
+        "nametag": "posix4e",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/74jdzd/my_keybase_proof_redditposix4e_keybaseposix4e/",
+        "sig_id": "227ce6b023b03817483f5033465e029231a502cd90b512e2f47f0f71ca4be0570f",
+        "proof_id": "5703b989468ac36e57110110",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/74jdzd/my_keybase_proof_redditposix4e_keybaseposix4e/",
+        "service_url": "https://reddit.com/user/posix4e",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "hackernews",
+        "nametag": "alexnewman",
+        "state": 1,
+        "proof_url": "https://news.ycombinator.com/user?id=alexnewman",
+        "sig_id": "09df7fe322fbd83a14088a6c1363f34a7ae43294e3453c317aeda8317b1cc29a0f",
+        "proof_id": "3e8731d5af60fe74dc7d3a10",
+        "human_url": "https://news.ycombinator.com/user?id=alexnewman",
+        "service_url": "https://news.ycombinator.com/user?id=alexnewman",
+        "presentation_group": "hackernews",
+        "presentation_tag": "profile"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1LRosEZuUnV4iugFEevz4jFja6dwYdWRRW",
+        "sig_id": "dac86d68052041824d24f770910055ac56341965daaac129272a1e809d9567b40f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/41c3cf89c6403fefb60a52e02e42d705_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/fac15995b330f11feaacee9f6d58a405_360_360.jpg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "4e6c3af3c41a858606818dfef47c19e3bc48ff66bc79a35275d750d1bc6290e00f",
-      "seqno": 2,
-      "payload_hash": "125de7d25f9a8da19750ff64526bea2012d86a270ee521183354cda997e6f0e5"
+      "sig_id": "c491f23ff206580f56e8f17077e33ea6ab512984f2d9f428d92c1fbf20eca94d0f",
+      "seqno": 35,
+      "payload_hash": "8e2cef5fff63029e738084f236071748529cab2614a9ef2025ffd483950b8c3b"
     }
   },
-  "devices": {}
+  "devices": {
+    "2decd0b27781b67ae15d0970b5b8a018": {
+      "type": "mobile",
+      "ctime": 1514707763,
+      "mtime": 1514707763,
+      "name": "ios3",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120bc9196d4f668d4d2b1381af7f60eae63f90ad51c00f5653e589affe55a6e223f0a",
+          "key_role": 1,
+          "sig_id": "6919a25b6733b196564145eda160ea690a8f640595fc7ab5f1124ba36df1fcb20f"
+        },
+        {
+          "kid": "012102a8fe2234c4bfc17fe314678bc38c33487060c56f89c1e16102b6733b4a5b3c0a",
+          "key_role": 2,
+          "sig_id": "c491f23ff206580f56e8f17077e33ea6ab512984f2d9f428d92c1fbf20eca94d0f"
+        }
+      ]
+    },
+    "3b188776c0453242fb3c6f9addaee418": {
+      "type": "mobile",
+      "ctime": 1508818573,
+      "mtime": 1508818573,
+      "name": "samsung45",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201856864753586a6ca85cd288a9d99c09ab49b4885c77514dbe09c0170ea790db0a",
+          "key_role": 1,
+          "sig_id": "848c8e881aa2fe353153cafff49ef8c76c63b3c4c41244cdd066a454d27cbf290f"
+        },
+        {
+          "kid": "0121d99f0e4f3c7bd5b0ab6c25fec3b5f8e89c3c8b7ddd495b5dbcbf345b2636703e0a",
+          "key_role": 2,
+          "sig_id": "deea2d8caaa1bc9dbb4204317513d1581d84c188af987b5a1ea2aba4c910c17c0f"
+        }
+      ]
+    },
+    "6abe8b88f715e0f63f7dcfc4c0bda018": {
+      "type": "desktop",
+      "ctime": 1512936464,
+      "mtime": 1512936464,
+      "name": "acer-swift-1",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01200c02d7756b53dd7ac283484e98631bd576647756349a9f9c72d32033155328760a",
+          "key_role": 1,
+          "sig_id": "d2104af9c4ad369ab503f8c8313708c7aaf3a445ad48de706075f72bf28df2150f"
+        },
+        {
+          "kid": "01210788c30c5d048d7e0c64abd04009b27297c6d9251b4b9f2e4b6bd82ce086184a0a",
+          "key_role": 2,
+          "sig_id": "e7dce2d6947421902f93014a44adbf6f40173927c84b304fa38a147b5aacd13e0f"
+        }
+      ]
+    },
+    "85087b8486deeeeeff4b8ae1ce783418": {
+      "type": "mobile",
+      "ctime": 1511978827,
+      "mtime": 1511978828,
+      "name": "hp chromebook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120943cf288a33a6a09ca057f1be5f557e1554ca529352569371c001a59efb1d4860a",
+          "key_role": 1,
+          "sig_id": "3c3c8cc0d08c060f0956cfc264d3aee203d7c7ad97122761017d923cf5512d7e0f"
+        },
+        {
+          "kid": "01211081414a1fb52b6be5943b5c094bd25bec4f6fa67933884f1725117ee9d956690a",
+          "key_role": 2,
+          "sig_id": "bbe1bce8e3cd971800dfcfb5d9dafa4b4dd25780987a99ad66a73a3776b59df50f"
+        }
+      ]
+    },
+    "af7a497ccc32f03a863e8c7a5e853e18": {
+      "type": "mobile",
+      "ctime": 1507241741,
+      "mtime": 1507241741,
+      "name": "chromebook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a00e7923e441bae9bfe2bf5c1b8744d37276bcb86378121a08f9cc1c439b22520a",
+          "key_role": 1,
+          "sig_id": "0fde312daa6671caed7e2c2a8564953916efab98c75ba0f948577514a51d8bd70f"
+        },
+        {
+          "kid": "0121587ad6b61c436a8b109c4dbc683f70af632b4d08425e42dc72efe5f0628c81560a",
+          "key_role": 2,
+          "sig_id": "a32e3950532b3edf04d4ceecc564a162cc5e6b0c96410e0fd506f233ca0944d90f"
+        }
+      ]
+    },
+    "cc9febd9e7a94141715d47f5c1913018": {
+      "type": "mobile",
+      "ctime": 1507241686,
+      "mtime": 1507241686,
+      "name": "ios",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120267ff727c937efbfddcda821d8288922f0cc6c349e300dfb902cc1e38e9cdd4f0a",
+          "key_role": 1,
+          "sig_id": "e010a76314120c09e109e541d9092aa2fe0eb2f783e03b69f2850ade127b09900f"
+        },
+        {
+          "kid": "0121a2d054fecaea123b74c67c5fa5004458164bc0f063eb9ba0d4ccd45b487c7d700a",
+          "key_role": 2,
+          "sig_id": "5ccf2802d1c988347fd2798c19d548d8668ee435cce94760ce3b1b3a876835c90f"
+        }
+      ]
+    },
+    "ce9c5c9150a7426284229f2ed0ea1718": {
+      "type": "mobile",
+      "ctime": 1508307980,
+      "mtime": 1508307980,
+      "name": "asus chromebook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120efd4266de1bc68878ed3d4d862ef0958ac69bc5a3f93213b7d44d7e0b5fa591e0a",
+          "key_role": 1,
+          "sig_id": "79d67aa565d4106af384336e2414b0a44e8f8bb1df3aaced997ddb4a2759df010f"
+        },
+        {
+          "kid": "012165f72e2711182ae2c3b9660ac724bfbde8b3f92dc4cddec166b7931202db25420a",
+          "key_role": 2,
+          "sig_id": "e0ae3c75c12f47d929a019d2b8b9f60736a4f980d708d13a3131017d4549c94d0f"
+        }
+      ]
+    },
+    "cf6e9f51a02941c4303661a46ce41418": {
+      "type": "desktop",
+      "ctime": 1507241308,
+      "mtime": 1507241308,
+      "name": "gcloud",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012012464f4e669621a545480f8918a24d368ea732d0c44388ef275bb4b0aacdf18f0a",
+          "key_role": 1,
+          "sig_id": "63bc93ef22c170f21923f79c6b3b014e19e8e6b34bf56bba0e6c8cc72351a2230f"
+        },
+        {
+          "kid": "0121e6edbee0a5fdb7ee92ff60774b7c625f013e377bc6a6c0d5e248537c5e83701e0a",
+          "key_role": 2,
+          "sig_id": "6c9fde34a9c16a4d05b3b7d3210208f6dd799e320f3e6ec3749ab762c5fb45e20f"
+        }
+      ]
+    },
+    "fda27981091158d90a92a44c7a397d18": {
+      "type": "mobile",
+      "ctime": 1512277179,
+      "mtime": 1512277179,
+      "name": "ios2",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01208d8b977198cb7649bc84a68f2f8ff026b36c4a85673108740b3ecf37c4c1692b0a",
+          "key_role": 1,
+          "sig_id": "f3647172f6335169367c12961ebe0026dd6ee03de823d6b4ad1ccff90cc938d40f"
+        },
+        {
+          "kid": "01215c9fd9243726703606e8e3fabacd87ae09989d8b072a946fe059a1172cb24f250a",
+          "key_role": 2,
+          "sig_id": "8e315ff983a0ac21571f4712ca24d8a98e60692fff6c37852cb81430c9fbc5f20f"
+        }
+      ]
+    }
+  }
 }

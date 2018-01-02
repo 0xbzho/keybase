@@ -4,10 +4,11 @@
     "username": "jsorchik",
     "ctime": 1415325115,
     "mtime": 1415325115,
-    "id_version": 42,
+    "id_version": 47,
     "track_version": 5,
-    "last_id_change": 1473558477,
-    "username_cased": "jsorchik"
+    "last_id_change": 1498263297,
+    "username_cased": "jsorchik",
+    "status": 0
   },
   "profile": {
     "mtime": 1415336644,
@@ -40,16 +41,20 @@
       "01212bc16043b7dd4ac16213118dddd4e96b3cee96b5fc9520cd7556f71732f0c7760a",
       "0120d924080aca7f26274992b8732e9d6148eb6221d22da643f2c7596df5b55bbcbc0a",
       "01201aa83c04e968e5afd2facdc70c3052ef71b990b794a64f41c0116744660cd2560a",
-      "01211f0b189e6fdca38fc28a278ead410d59a6fad491ebb486c9eb98e71b026982090a"
+      "01211f0b189e6fdca38fc28a278ead410d59a6fad491ebb486c9eb98e71b026982090a",
+      "01212c1430ee1258ce113ea7a5f0cd03372b30b14680dba24825f00c9c10e82922390a",
+      "0120a7c70d4d762144b83a862db4dbf3a63c171ff4afd481c8c89016b18878e606d80a"
     ],
     "subkeys": [
       "01212bc16043b7dd4ac16213118dddd4e96b3cee96b5fc9520cd7556f71732f0c7760a",
-      "01211f0b189e6fdca38fc28a278ead410d59a6fad491ebb486c9eb98e71b026982090a"
+      "01211f0b189e6fdca38fc28a278ead410d59a6fad491ebb486c9eb98e71b026982090a",
+      "01212c1430ee1258ce113ea7a5f0cd03372b30b14680dba24825f00c9c10e82922390a"
     ],
     "sibkeys": [
       "01017fcdb25e324ce79c0a98f767bb0b53581ea14b2b3f7270d69b783478b0ee45440a",
       "0120d924080aca7f26274992b8732e9d6148eb6221d22da643f2c7596df5b55bbcbc0a",
-      "01201aa83c04e968e5afd2facdc70c3052ef71b990b794a64f41c0116744660cd2560a"
+      "01201aa83c04e968e5afd2facdc70c3052ef71b990b794a64f41c0116744660cd2560a",
+      "0120a7c70d4d762144b83a862db4dbf3a63c171ff4afd481c8c89016b18878e606d80a"
     ],
     "families": {
       "01017fcdb25e324ce79c0a98f767bb0b53581ea14b2b3f7270d69b783478b0ee45440a": [
@@ -59,7 +64,9 @@
         "01212bc16043b7dd4ac16213118dddd4e96b3cee96b5fc9520cd7556f71732f0c7760a",
         "0120d924080aca7f26274992b8732e9d6148eb6221d22da643f2c7596df5b55bbcbc0a",
         "01201aa83c04e968e5afd2facdc70c3052ef71b990b794a64f41c0116744660cd2560a",
-        "01211f0b189e6fdca38fc28a278ead410d59a6fad491ebb486c9eb98e71b026982090a"
+        "01211f0b189e6fdca38fc28a278ead410d59a6fad491ebb486c9eb98e71b026982090a",
+        "01212c1430ee1258ce113ea7a5f0cd03372b30b14680dba24825f00c9c10e82922390a",
+        "0120a7c70d4d762144b83a862db4dbf3a63c171ff4afd481c8c89016b18878e606d80a"
       ]
     },
     "eldest_kid": "01017fcdb25e324ce79c0a98f767bb0b53581ea14b2b3f7270d69b783478b0ee45440a",
@@ -96,20 +103,6 @@
           "service_url": "https://github.com/jsorchik",
           "presentation_group": "github",
           "presentation_tag": "gist"
-        }
-      ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "josh",
-          "state": 1,
-          "proof_url": "https://coinbase.com/josh/public-key",
-          "sig_id": "64eede583698862d54db58ef8c850aca88304a91747767654d2306f1f501c70f0f",
-          "proof_id": "bfb061bbd266a3d92fb74610",
-          "human_url": "https://coinbase.com/josh/public-key",
-          "service_url": "https://coinbase.com/josh",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
         }
       ],
       "generic_web_site": [
@@ -156,20 +149,6 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "josh",
-          "state": 1,
-          "proof_url": "https://coinbase.com/josh/public-key",
-          "sig_id": "64eede583698862d54db58ef8c850aca88304a91747767654d2306f1f501c70f0f",
-          "proof_id": "bfb061bbd266a3d92fb74610",
-          "human_url": "https://coinbase.com/josh/public-key",
-          "service_url": "https://coinbase.com/josh",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "sorchik.org": [
         {
           "proof_type": "generic_web_site",
@@ -211,18 +190,6 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "josh",
-        "state": 1,
-        "proof_url": "https://coinbase.com/josh/public-key",
-        "sig_id": "64eede583698862d54db58ef8c850aca88304a91747767654d2306f1f501c70f0f",
-        "proof_id": "bfb061bbd266a3d92fb74610",
-        "human_url": "https://coinbase.com/josh/public-key",
-        "service_url": "https://coinbase.com/josh",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "generic_web_site",
         "nametag": "sorchik.org",
         "state": 1,
@@ -246,7 +213,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/6f2e83f5588b58415784abe8a73a7005_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/75f297211c2e7a14ee75898e20040d05_360_360.png",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -254,9 +221,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "a0c3b9b477a7139191152a31f6d86e2eb2216f2f5c1e479c9a77a67694d07d8f0f",
-      "seqno": 26,
-      "payload_hash": "e6a16f18acf50e441d971cfb610a489007e39c1bfcd5ac88ee38a3e5fbacf5d5"
+      "sig_id": "0704bf4bf19c202a7a56e173acda4099bd43a2ce9050ec39048122a054a051760f",
+      "seqno": 28,
+      "payload_hash": "c6b50a08a1c17ba9b0048e17b37814cd077486999ad222b98e6479e84bc00b36"
     }
   },
   "devices": {
@@ -281,8 +248,8 @@
     },
     "e775ac404185827b2a9bd6cfbaebb818": {
       "type": "desktop",
-      "ctime": 1463508208,
-      "mtime": 1463508208,
+      "ctime": 1463511808,
+      "mtime": 1463511808,
       "name": "mbpro",
       "status": 1,
       "keys": [
@@ -295,6 +262,25 @@
           "kid": "01211f0b189e6fdca38fc28a278ead410d59a6fad491ebb486c9eb98e71b026982090a",
           "key_role": 2,
           "sig_id": "2edd1e98d3c4c798c2724d5720f9ee035d07f6c1a0e845787b5603865b12364a0f"
+        }
+      ]
+    },
+    "f26f0e5f59b0734a9ba77c8a449abc18": {
+      "type": "mobile",
+      "ctime": 1498263297,
+      "mtime": 1498263297,
+      "name": "phine",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a7c70d4d762144b83a862db4dbf3a63c171ff4afd481c8c89016b18878e606d80a",
+          "key_role": 1,
+          "sig_id": "7340c010d158a3d889d3e4b77a427d2e310651ac8a64121945bec28b4a9c553b0f"
+        },
+        {
+          "kid": "01212c1430ee1258ce113ea7a5f0cd03372b30b14680dba24825f00c9c10e82922390a",
+          "key_role": 2,
+          "sig_id": "0704bf4bf19c202a7a56e173acda4099bd43a2ce9050ec39048122a054a051760f"
         }
       ]
     }
