@@ -4,10 +4,17 @@
     "username": "alexgleith",
     "ctime": 1455083662,
     "mtime": 1455083662,
-    "id_version": 18,
-    "track_version": 6,
-    "last_id_change": 1459958221,
-    "username_cased": "alexgleith"
+    "id_version": 29,
+    "track_version": 8,
+    "last_id_change": 1500373817,
+    "username_cased": "alexgleith",
+    "status": 0
+  },
+  "profile": {
+    "mtime": 1496701497,
+    "full_name": "Alex Leith",
+    "location": "Tasmania, Australia",
+    "bio": "FullStack GeoDeveloper"
   },
   "public_keys": {
     "primary": {
@@ -32,16 +39,20 @@
       "012060024bf194e2712928dc07afafa2a6f8e90a4ed2c03d9b2ac88a00e85e2a358b0a",
       "0121050e712e5ac44bf9a8f10934e30588dd92d18eaeffc1c466446c3ef580f36b540a",
       "0120d8bb96ac951f826f853e89c4442d44f79daec9a05e07fc99a0790311f1b3dee00a",
-      "0121928721f57e5940ac6ea55ad6273ae9e69f382c588170876866d41034e59100290a"
+      "0121928721f57e5940ac6ea55ad6273ae9e69f382c588170876866d41034e59100290a",
+      "012152484994b05cdc409b4c948a9c6630a3d61364c1a5cfa80201b7b457052825360a",
+      "0120e3726672dbf4b880f96ab59af04db67ac14711d3cdac0fff4b8a8f32ff1261a70a"
     ],
     "subkeys": [
       "0121050e712e5ac44bf9a8f10934e30588dd92d18eaeffc1c466446c3ef580f36b540a",
-      "0121928721f57e5940ac6ea55ad6273ae9e69f382c588170876866d41034e59100290a"
+      "0121928721f57e5940ac6ea55ad6273ae9e69f382c588170876866d41034e59100290a",
+      "012152484994b05cdc409b4c948a9c6630a3d61364c1a5cfa80201b7b457052825360a"
     ],
     "sibkeys": [
       "010178ab972f931e7f26e03bd8e8d848da9d0ae201a57b32125500336a226e7a03140a",
       "012060024bf194e2712928dc07afafa2a6f8e90a4ed2c03d9b2ac88a00e85e2a358b0a",
-      "0120d8bb96ac951f826f853e89c4442d44f79daec9a05e07fc99a0790311f1b3dee00a"
+      "0120d8bb96ac951f826f853e89c4442d44f79daec9a05e07fc99a0790311f1b3dee00a",
+      "0120e3726672dbf4b880f96ab59af04db67ac14711d3cdac0fff4b8a8f32ff1261a70a"
     ],
     "families": {
       "010178ab972f931e7f26e03bd8e8d848da9d0ae201a57b32125500336a226e7a03140a": [
@@ -49,7 +60,9 @@
         "012060024bf194e2712928dc07afafa2a6f8e90a4ed2c03d9b2ac88a00e85e2a358b0a",
         "0121050e712e5ac44bf9a8f10934e30588dd92d18eaeffc1c466446c3ef580f36b540a",
         "0120d8bb96ac951f826f853e89c4442d44f79daec9a05e07fc99a0790311f1b3dee00a",
-        "0121928721f57e5940ac6ea55ad6273ae9e69f382c588170876866d41034e59100290a"
+        "0121928721f57e5940ac6ea55ad6273ae9e69f382c588170876866d41034e59100290a",
+        "012152484994b05cdc409b4c948a9c6630a3d61364c1a5cfa80201b7b457052825360a",
+        "0120e3726672dbf4b880f96ab59af04db67ac14711d3cdac0fff4b8a8f32ff1261a70a"
       ]
     },
     "eldest_kid": "010178ab972f931e7f26e03bd8e8d848da9d0ae201a57b32125500336a226e7a03140a",
@@ -101,6 +114,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "auspatious.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/alexgleith/sigchain#7eaa1f36419cb384017ed3ab97bff74b96be00ecacaa2b7a9a19a5d4365e8e350f",
+          "sig_id": "7eaa1f36419cb384017ed3ab97bff74b96be00ecacaa2b7a9a19a5d4365e8e350f",
+          "proof_id": "d2532839761375030a06a210",
+          "human_url": "dns://auspatious.com",
+          "service_url": "http://auspatious.com",
+          "presentation_group": "auspatious.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -145,6 +172,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "auspatious.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "auspatious.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/alexgleith/sigchain#7eaa1f36419cb384017ed3ab97bff74b96be00ecacaa2b7a9a19a5d4365e8e350f",
+          "sig_id": "7eaa1f36419cb384017ed3ab97bff74b96be00ecacaa2b7a9a19a5d4365e8e350f",
+          "proof_id": "d2532839761375030a06a210",
+          "human_url": "dns://auspatious.com",
+          "service_url": "http://auspatious.com",
+          "presentation_group": "auspatious.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -183,13 +224,25 @@
         "service_url": "https://reddit.com/user/alexgleith",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "auspatious.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/alexgleith/sigchain#7eaa1f36419cb384017ed3ab97bff74b96be00ecacaa2b7a9a19a5d4365e8e350f",
+        "sig_id": "7eaa1f36419cb384017ed3ab97bff74b96be00ecacaa2b7a9a19a5d4365e8e350f",
+        "proof_id": "d2532839761375030a06a210",
+        "human_url": "dns://auspatious.com",
+        "service_url": "http://auspatious.com",
+        "presentation_group": "auspatious.com",
+        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/b36f7f5b007ecce58793fc8ea384e805_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/5ebddf2ef949d1e0809bc6553bbebe05_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -197,12 +250,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "76e4110d452570b3dfc3dd8b13dabad821b9a62e9375c48af13f5cfe4be3dd8f0f",
-      "seqno": 13,
-      "payload_hash": "2cdca05d163afc0bb30fabaecc9fbe0fd95be4cdc01dedb88394a7758cc2be28"
+      "sig_id": "e18762cfe212da23c4233029f89570969eed79e584c30d4ffb3f4dbe65be11f90f",
+      "seqno": 19,
+      "payload_hash": "89fab34e157ec60798f43769c9d9685c2d6dbd5186273642eb05a9d3872bd75e"
     }
   },
   "devices": {
+    "b9782a2ada7116b9a90e00a648cf5d18": {
+      "type": "mobile",
+      "ctime": 1499758775,
+      "mtime": 1499758775,
+      "name": "iphone 7",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120e3726672dbf4b880f96ab59af04db67ac14711d3cdac0fff4b8a8f32ff1261a70a",
+          "key_role": 1,
+          "sig_id": "a8240a3b283173af6c93046bbd2b06fb8190068bd0de3bdb85230233f9041f220f"
+        },
+        {
+          "kid": "012152484994b05cdc409b4c948a9c6630a3d61364c1a5cfa80201b7b457052825360a",
+          "key_role": 2,
+          "sig_id": "c8c3692304db7f52b2d53694844766ed589d5f3f5db73793193714e7e5d557430f"
+        }
+      ]
+    },
     "bba6793e6e3fd57af982e644f74f9218": {
       "type": "desktop",
       "ctime": 1456874967,
