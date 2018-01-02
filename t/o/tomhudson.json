@@ -4,10 +4,11 @@
     "username": "tomhudson",
     "ctime": 1451258408,
     "mtime": 1451258408,
-    "id_version": 67,
-    "track_version": 29,
-    "last_id_change": 1475106575,
-    "username_cased": "tomhudson"
+    "id_version": 104,
+    "track_version": 38,
+    "last_id_change": 1506573502,
+    "username_cased": "tomhudson",
+    "status": 0
   },
   "profile": {
     "mtime": 1457043541,
@@ -42,16 +43,26 @@
       "01213db8e288f587d5b0cc6fce1fdb362f90e44908f14fef4e193ed50a5837bcdc7e0a",
       "01208d6870f1bf0386dec17ae2b4c926612a53b0507bd778baa9ea40876494e245da0a",
       "01208f514206ea9ee61423b3881b17b4f35372277729347e2db199b8ce158d3bfb9b0a",
-      "0121b8663c32f780774421cb0faa684e823a6994c2664ba4cc606699525d75bee92d0a"
+      "0121b8663c32f780774421cb0faa684e823a6994c2664ba4cc606699525d75bee92d0a",
+      "0120145ac4002177e7bc7760ba48f0fa4ee8de4af80bfae4373904dee40732e9d5550a",
+      "0121ce24bbf41555990d2e424e1414f56de5de2d0190ed99b91ddf4c6ff5e75d40730a",
+      "01209b72e7488aaa7f9e067014f13f7c35ef7f492746c80b134c575bd2fd8e1fc9ad0a",
+      "0121e826ba1a7b3176e31c3c81d4b680c100b1fe042ac394d5ca7cfcf2516062d1780a",
+      "0120d81d213971b6d8306b64a3745674a623edfa1abe7c7c665740d8d2c21eef86990a",
+      "0121d0c4f387023e12dfff7858a493d21d247e79428fae6ae8541610a95980d2d7330a",
+      "01205c13e192b5c8542c7cfe70e735435cbc699953a802eebd067c8cbc22f254eaa70a",
+      "0121b578eb47ca6130bddd7da85dec7dd80ce2bb6781d797667ace3f8a20bbdd486b0a"
     ],
     "subkeys": [
       "0121f8bdf26cdd439b1d1d8cd900500c55444d950ee9d5c88aefdf4136b9a03984080a",
-      "0121b8663c32f780774421cb0faa684e823a6994c2664ba4cc606699525d75bee92d0a"
+      "0121e826ba1a7b3176e31c3c81d4b680c100b1fe042ac394d5ca7cfcf2516062d1780a",
+      "0121b578eb47ca6130bddd7da85dec7dd80ce2bb6781d797667ace3f8a20bbdd486b0a"
     ],
     "sibkeys": [
       "010162250f95f80e12a22b19ff813478f76111297f5965261e902773dde383659cd90a",
       "0120c0c0b13224e6fb488daf8e208759feb4ab3b0a4fa4952b8f2f8b9ad04aea792d0a",
-      "01208f514206ea9ee61423b3881b17b4f35372277729347e2db199b8ce158d3bfb9b0a"
+      "01209b72e7488aaa7f9e067014f13f7c35ef7f492746c80b134c575bd2fd8e1fc9ad0a",
+      "01205c13e192b5c8542c7cfe70e735435cbc699953a802eebd067c8cbc22f254eaa70a"
     ],
     "families": {
       "010162250f95f80e12a22b19ff813478f76111297f5965261e902773dde383659cd90a": [
@@ -63,7 +74,15 @@
         "01213db8e288f587d5b0cc6fce1fdb362f90e44908f14fef4e193ed50a5837bcdc7e0a",
         "01208d6870f1bf0386dec17ae2b4c926612a53b0507bd778baa9ea40876494e245da0a",
         "01208f514206ea9ee61423b3881b17b4f35372277729347e2db199b8ce158d3bfb9b0a",
-        "0121b8663c32f780774421cb0faa684e823a6994c2664ba4cc606699525d75bee92d0a"
+        "0121b8663c32f780774421cb0faa684e823a6994c2664ba4cc606699525d75bee92d0a",
+        "0120145ac4002177e7bc7760ba48f0fa4ee8de4af80bfae4373904dee40732e9d5550a",
+        "0121ce24bbf41555990d2e424e1414f56de5de2d0190ed99b91ddf4c6ff5e75d40730a",
+        "01209b72e7488aaa7f9e067014f13f7c35ef7f492746c80b134c575bd2fd8e1fc9ad0a",
+        "0121e826ba1a7b3176e31c3c81d4b680c100b1fe042ac394d5ca7cfcf2516062d1780a",
+        "0120d81d213971b6d8306b64a3745674a623edfa1abe7c7c665740d8d2c21eef86990a",
+        "0121d0c4f387023e12dfff7858a493d21d247e79428fae6ae8541610a95980d2d7330a",
+        "01205c13e192b5c8542c7cfe70e735435cbc699953a802eebd067c8cbc22f254eaa70a",
+        "0121b578eb47ca6130bddd7da85dec7dd80ce2bb6781d797667ace3f8a20bbdd486b0a"
       ]
     },
     "eldest_kid": "010162250f95f80e12a22b19ff813478f76111297f5965261e902773dde383659cd90a",
@@ -116,20 +135,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "raggnar",
-          "state": 1,
-          "proof_url": "https://coinbase.com/raggnar/public-key",
-          "sig_id": "3d26593a9916d5b210ebf90e56cb43b740a15d8d1d25fcfdd8cd034ae351f5cd0f",
-          "proof_id": "1374d6b6f4dd0ebdb396d410",
-          "human_url": "https://coinbase.com/raggnar/public-key",
-          "service_url": "https://coinbase.com/raggnar",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -142,6 +147,20 @@
           "service_url": "https://news.ycombinator.com/user?id=raggnar",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "raggnar",
+          "state": 1,
+          "proof_url": "https://facebook.com/10154820799076869_10154820799466869",
+          "sig_id": "ffcb27c5a25c0ca1c92a5ee3935e4a59a5530e851fcd7f20d8da35619675c26e0f",
+          "proof_id": "b43623f5a1065bd4351c7410",
+          "human_url": "https://facebook.com/10154820799076869_10154820799466869",
+          "service_url": "https://www.facebook.com/raggnar",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "generic_web_site": [
@@ -181,6 +200,18 @@
           "human_url": "dns://tomhudson.me",
           "service_url": "http://tomhudson.me",
           "presentation_group": "tomhudson.me",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "uprev.ninja",
+          "state": 1,
+          "proof_url": "https://keybase.io/tomhudson/sigchain#42203d88fe60ed65de2f45ce1351194b6f3cf0e4ccf0435e964e12c54544eca70f",
+          "sig_id": "42203d88fe60ed65de2f45ce1351194b6f3cf0e4ccf0435e964e12c54544eca70f",
+          "proof_id": "7d0fca77d588839142b01910",
+          "human_url": "dns://uprev.ninja",
+          "service_url": "http://uprev.ninja",
+          "presentation_group": "uprev.ninja",
           "presentation_tag": "dns"
         }
       ]
@@ -228,20 +259,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "raggnar",
-          "state": 1,
-          "proof_url": "https://coinbase.com/raggnar/public-key",
-          "sig_id": "3d26593a9916d5b210ebf90e56cb43b740a15d8d1d25fcfdd8cd034ae351f5cd0f",
-          "proof_id": "1374d6b6f4dd0ebdb396d410",
-          "human_url": "https://coinbase.com/raggnar/public-key",
-          "service_url": "https://coinbase.com/raggnar",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -254,6 +271,20 @@
           "service_url": "https://news.ycombinator.com/user?id=raggnar",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "raggnar",
+          "state": 1,
+          "proof_url": "https://facebook.com/10154820799076869_10154820799466869",
+          "sig_id": "ffcb27c5a25c0ca1c92a5ee3935e4a59a5530e851fcd7f20d8da35619675c26e0f",
+          "proof_id": "b43623f5a1065bd4351c7410",
+          "human_url": "https://facebook.com/10154820799076869_10154820799466869",
+          "service_url": "https://www.facebook.com/raggnar",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "tomhudson.is": [
@@ -297,6 +328,20 @@
           "presentation_group": "tomhudson.me",
           "presentation_tag": "dns"
         }
+      ],
+      "uprev.ninja": [
+        {
+          "proof_type": "dns",
+          "nametag": "uprev.ninja",
+          "state": 1,
+          "proof_url": "https://keybase.io/tomhudson/sigchain#42203d88fe60ed65de2f45ce1351194b6f3cf0e4ccf0435e964e12c54544eca70f",
+          "sig_id": "42203d88fe60ed65de2f45ce1351194b6f3cf0e4ccf0435e964e12c54544eca70f",
+          "proof_id": "7d0fca77d588839142b01910",
+          "human_url": "dns://uprev.ninja",
+          "service_url": "http://uprev.ninja",
+          "presentation_group": "uprev.ninja",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -337,18 +382,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "raggnar",
-        "state": 1,
-        "proof_url": "https://coinbase.com/raggnar/public-key",
-        "sig_id": "3d26593a9916d5b210ebf90e56cb43b740a15d8d1d25fcfdd8cd034ae351f5cd0f",
-        "proof_id": "1374d6b6f4dd0ebdb396d410",
-        "human_url": "https://coinbase.com/raggnar/public-key",
-        "service_url": "https://coinbase.com/raggnar",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "raggnar",
         "state": 1,
@@ -359,6 +392,18 @@
         "service_url": "https://news.ycombinator.com/user?id=raggnar",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "raggnar",
+        "state": 1,
+        "proof_url": "https://facebook.com/10154820799076869_10154820799466869",
+        "sig_id": "ffcb27c5a25c0ca1c92a5ee3935e4a59a5530e851fcd7f20d8da35619675c26e0f",
+        "proof_id": "b43623f5a1065bd4351c7410",
+        "human_url": "https://facebook.com/10154820799076869_10154820799466869",
+        "service_url": "https://www.facebook.com/raggnar",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -385,6 +430,18 @@
         "presentation_tag": "dns"
       },
       {
+        "proof_type": "dns",
+        "nametag": "uprev.ninja",
+        "state": 1,
+        "proof_url": "https://keybase.io/tomhudson/sigchain#42203d88fe60ed65de2f45ce1351194b6f3cf0e4ccf0435e964e12c54544eca70f",
+        "sig_id": "42203d88fe60ed65de2f45ce1351194b6f3cf0e4ccf0435e964e12c54544eca70f",
+        "proof_id": "7d0fca77d588839142b01910",
+        "human_url": "dns://uprev.ninja",
+        "service_url": "http://uprev.ninja",
+        "presentation_group": "uprev.ninja",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "tomhudson.is",
         "state": 1,
@@ -399,6 +456,12 @@
     ]
   },
   "cryptocurrency_addresses": {
+    "zcash": [
+      {
+        "address": "t1ef8gvvNLtAu3MXdxCNvfbWaqBE8Y1VXq6",
+        "sig_id": "62063699f4b3cb9a110964ecfd475ee980e2151bd279aabf6c5084b0014826c60f"
+      }
+    ],
     "bitcoin": [
       {
         "address": "19xgrZ3KrbV5aXat1SEHuhjCJBNhttfQnN",
@@ -408,7 +471,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/d4052b8e96aa0fc69132b960c319fd05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/c3587a134a003e6cb3b18a7224ff6905_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -416,28 +479,47 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "9f006e348c961411be53bc97a0cc802d44a6b206cd4326712a683d9b940acbd60f",
-      "seqno": 52,
-      "payload_hash": "5bf4bb31d5f51e6f6161676b459d3d7238f8960ed0db0a28e1094c2fb47ef8a3"
+      "sig_id": "5d7d8ac1c7b66c2c800cd9f666ddc9573d908958e802751d40d8871f3421e0150f",
+      "seqno": 77,
+      "payload_hash": "fec56f8117292edb3283792ce7aea6c60c372e7c288ead774237b362901d5dc8"
     }
   },
   "devices": {
-    "0f70c0cffca150969e7db6073ced3c18": {
-      "type": "desktop",
-      "ctime": 1468883762,
-      "mtime": 1468883762,
-      "name": "MB1",
+    "46fa6831f04296e87134f6b472c64e18": {
+      "type": "mobile",
+      "ctime": 1496405883,
+      "mtime": 1496405883,
+      "name": "iPhone",
       "status": 1,
       "keys": [
         {
-          "kid": "01208f514206ea9ee61423b3881b17b4f35372277729347e2db199b8ce158d3bfb9b0a",
+          "kid": "01209b72e7488aaa7f9e067014f13f7c35ef7f492746c80b134c575bd2fd8e1fc9ad0a",
           "key_role": 1,
-          "sig_id": "65f7372c6bd4e8ba116faf373cef8b9d899bb5a85728b43407f0378cc36db1e60f"
+          "sig_id": "0d7ae5f245a97c37c18c23e78912a5027215f3c15808e288c5f9c4efcabacd440f"
         },
         {
-          "kid": "0121b8663c32f780774421cb0faa684e823a6994c2664ba4cc606699525d75bee92d0a",
+          "kid": "0121e826ba1a7b3176e31c3c81d4b680c100b1fe042ac394d5ca7cfcf2516062d1780a",
           "key_role": 2,
-          "sig_id": "f08346aac6375250ac44d26d2f3c6ca89824375a64cd6a409462720153df17060f"
+          "sig_id": "3087f3c72a40915f1d9fa0ec4c672342425804a4d5d134a077d36963721c144e0f"
+        }
+      ]
+    },
+    "72952026e6b988629712b6908e7b9c18": {
+      "type": "desktop",
+      "ctime": 1498192687,
+      "mtime": 1498192687,
+      "name": "MBP2017",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01205c13e192b5c8542c7cfe70e735435cbc699953a802eebd067c8cbc22f254eaa70a",
+          "key_role": 1,
+          "sig_id": "89ffce4ff2d96eb0324e7f3791f460d9cd7a3b191461d5d59d82447e0876d4130f"
+        },
+        {
+          "kid": "0121b578eb47ca6130bddd7da85dec7dd80ce2bb6781d797667ace3f8a20bbdd486b0a",
+          "key_role": 2,
+          "sig_id": "d75be8c18fccde94cb325eed5e5937f8cf8dc16f77bd34c1ba33c50aad0a78640f"
         }
       ]
     },
