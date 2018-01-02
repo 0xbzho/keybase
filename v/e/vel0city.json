@@ -2,15 +2,16 @@
   "id": "9a07f8ab35d75185d4cc155d01086a00",
   "basics": {
     "username": "vel0city",
-    "ctime": 1405891328,
-    "mtime": 1405891328,
-    "id_version": 40,
-    "track_version": 15,
-    "last_id_change": 1467075332,
-    "username_cased": "vel0city"
+    "ctime": 1405894928,
+    "mtime": 1405894928,
+    "id_version": 47,
+    "track_version": 22,
+    "last_id_change": 1503887143,
+    "username_cased": "vel0city",
+    "status": 0
   },
   "profile": {
-    "mtime": 1405982486,
+    "mtime": 1405986086,
     "full_name": "Michael Schneider",
     "location": "Texas",
     "bio": "Hello! I'm a software engineer. I spend my days working on code and servers.  When I'm not doing that, I'm drinking good beer, playing video games, riding motorcycles, or sailing."
@@ -39,16 +40,20 @@
       "0120e2530be8d0d5a6dcc925d5c970a4c7779a686440f1cbe580f3875ae63595214c0a",
       "0121c8ff7a018c30f876f263607f44cb8b623f3dd687a41f8f1f5c070ea14d3e993e0a",
       "012189f9e508bd04b35b40cdbf08c1fbcd17cfda33b8e758d68c2985add1be42340b0a",
-      "0120d4b0e09cab93172539c02e77daea488de9382a220c39b420d9d33b776050cdb60a"
+      "0120d4b0e09cab93172539c02e77daea488de9382a220c39b420d9d33b776050cdb60a",
+      "01203322d347b6dab4aee28c0606f6381f2cfa1838ea08c5fd49415bde7db125215e0a",
+      "0121393701d76494759e0e547f3dbf93bd6a5a3b7ef5b300e35f42870e460b06f57a0a"
     ],
     "subkeys": [
       "0121c8ff7a018c30f876f263607f44cb8b623f3dd687a41f8f1f5c070ea14d3e993e0a",
-      "012189f9e508bd04b35b40cdbf08c1fbcd17cfda33b8e758d68c2985add1be42340b0a"
+      "012189f9e508bd04b35b40cdbf08c1fbcd17cfda33b8e758d68c2985add1be42340b0a",
+      "0121393701d76494759e0e547f3dbf93bd6a5a3b7ef5b300e35f42870e460b06f57a0a"
     ],
     "sibkeys": [
       "01011fcf23c50e2ca35dbbdca68b8379f94b83c7993e1bf85506a5625de307ec9b690a",
       "0120e2530be8d0d5a6dcc925d5c970a4c7779a686440f1cbe580f3875ae63595214c0a",
-      "0120d4b0e09cab93172539c02e77daea488de9382a220c39b420d9d33b776050cdb60a"
+      "0120d4b0e09cab93172539c02e77daea488de9382a220c39b420d9d33b776050cdb60a",
+      "01203322d347b6dab4aee28c0606f6381f2cfa1838ea08c5fd49415bde7db125215e0a"
     ],
     "families": {
       "01011fcf23c50e2ca35dbbdca68b8379f94b83c7993e1bf85506a5625de307ec9b690a": [
@@ -57,7 +62,9 @@
         "0120e2530be8d0d5a6dcc925d5c970a4c7779a686440f1cbe580f3875ae63595214c0a",
         "0121c8ff7a018c30f876f263607f44cb8b623f3dd687a41f8f1f5c070ea14d3e993e0a",
         "012189f9e508bd04b35b40cdbf08c1fbcd17cfda33b8e758d68c2985add1be42340b0a",
-        "0120d4b0e09cab93172539c02e77daea488de9382a220c39b420d9d33b776050cdb60a"
+        "0120d4b0e09cab93172539c02e77daea488de9382a220c39b420d9d33b776050cdb60a",
+        "01203322d347b6dab4aee28c0606f6381f2cfa1838ea08c5fd49415bde7db125215e0a",
+        "0121393701d76494759e0e547f3dbf93bd6a5a3b7ef5b300e35f42870e460b06f57a0a"
       ]
     },
     "eldest_kid": "01011fcf23c50e2ca35dbbdca68b8379f94b83c7993e1bf85506a5625de307ec9b690a",
@@ -245,16 +252,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7a9586ca2b0c716039b136407713d4e86d1e66ef20139f53e7846a07b1527fef0f",
-      "seqno": 31,
-      "payload_hash": "7f0713dcef45d2bbe2b53e480c545d84f3757bed08b41db7196ba8481004c092"
+      "sig_id": "32b85fc31d416221dcaea87624c8b49f72643727a95d38b883c3a7bda81518430f",
+      "seqno": 41,
+      "payload_hash": "00d1b98b705aaace409cd56ff2104203ba6ea9780ba5aa93e142beb8827580e2"
     }
   },
   "devices": {
+    "a14bcf7c4574a9b803907ed663233918": {
+      "type": "desktop",
+      "ctime": 1486607028,
+      "mtime": 1486607028,
+      "name": "split",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01203322d347b6dab4aee28c0606f6381f2cfa1838ea08c5fd49415bde7db125215e0a",
+          "key_role": 1,
+          "sig_id": "9ed2648e3beed8ee466feb9d5e5df1fdb09bd8819fb87cb01633bb279b633c040f"
+        },
+        {
+          "kid": "0121393701d76494759e0e547f3dbf93bd6a5a3b7ef5b300e35f42870e460b06f57a0a",
+          "key_role": 2,
+          "sig_id": "f3500579497691bb04fe9c9476005c4400c1d42bda91ae5e5e51894ffeba01dc0f"
+        }
+      ]
+    },
     "a41a575b5b569fdf509ca9796068a718": {
       "type": "desktop",
-      "ctime": 1467075331,
-      "mtime": 1467075331,
+      "ctime": 1467078931,
+      "mtime": 1467078931,
       "name": "DavyJones",
       "status": 1,
       "keys": [
@@ -272,8 +298,8 @@
     },
     "c35d6be456d8ff1f2c4348f67b301218": {
       "type": "backup",
-      "ctime": 1467075332,
-      "mtime": 1467075332,
+      "ctime": 1467078932,
+      "mtime": 1467078932,
       "name": "ribbon address",
       "status": 1,
       "keys": [
