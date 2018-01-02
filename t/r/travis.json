@@ -2,12 +2,13 @@
   "id": "7e39b721ab7d651d769ffc611c178700",
   "basics": {
     "username": "travis",
-    "ctime": 1395000626,
-    "mtime": 1395000626,
-    "id_version": 26,
+    "ctime": 1395004226,
+    "mtime": 1395004226,
+    "id_version": 52,
     "track_version": 0,
-    "last_id_change": 1467233157,
-    "username_cased": "travis"
+    "last_id_change": 1508618075,
+    "username_cased": "travis",
+    "status": 0
   },
   "profile": {
     "mtime": 1454630125,
@@ -108,20 +109,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "travisbrown",
-          "state": 1,
-          "proof_url": "https://coinbase.com/travisbrown/public-key",
-          "sig_id": "20697e00d8abcef05bee1203a5e17c39f18dc71c7d386d6e43b11ab25e44b2320f",
-          "proof_id": "34fceb3b6c88bbe8c5aa0610",
-          "human_url": "https://coinbase.com/travisbrown/public-key",
-          "service_url": "https://coinbase.com/travisbrown",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "generic_web_site": [
         {
           "proof_type": "generic_web_site",
@@ -180,20 +167,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "travisbrown",
-          "state": 1,
-          "proof_url": "https://coinbase.com/travisbrown/public-key",
-          "sig_id": "20697e00d8abcef05bee1203a5e17c39f18dc71c7d386d6e43b11ab25e44b2320f",
-          "proof_id": "34fceb3b6c88bbe8c5aa0610",
-          "human_url": "https://coinbase.com/travisbrown/public-key",
-          "service_url": "https://coinbase.com/travisbrown",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "meta.plasm.us": [
         {
           "proof_type": "generic_web_site",
@@ -247,18 +220,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "travisbrown",
-        "state": 1,
-        "proof_url": "https://coinbase.com/travisbrown/public-key",
-        "sig_id": "20697e00d8abcef05bee1203a5e17c39f18dc71c7d386d6e43b11ab25e44b2320f",
-        "proof_id": "34fceb3b6c88bbe8c5aa0610",
-        "human_url": "https://coinbase.com/travisbrown/public-key",
-        "service_url": "https://coinbase.com/travisbrown",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "generic_web_site",
         "nametag": "meta.plasm.us",
         "state": 1,
@@ -282,7 +243,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2a1b5141abd1636c667c68598825e405_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f5dfef6c069b755f0ebeb66890a07005_360_360_square_360.png",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -296,29 +257,10 @@
     }
   },
   "devices": {
-    "104d92a6e37ada2967c710f5b0353c18": {
-      "type": "backup",
-      "ctime": 1462368804,
-      "mtime": 1462368804,
-      "name": "extend stone",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012027626af5c9e2e4d48f0d5b6d1d93196bdf2bf7f71bbef92f1c6390e846218cd00a",
-          "key_role": 1,
-          "sig_id": "885ef48ae7c26dba59d851535ade8f2db27b42c3a40bf130440d1e729366d0ed0f"
-        },
-        {
-          "kid": "01216cd05709efa30ad6ba49b591c3d1357f3dff939f6dd2b5e24d653089418215070a",
-          "key_role": 2,
-          "sig_id": "b6d7fbbbd308588c53cf971b4c5c6b69647bf5c7a019c97526ecedcc6bf766b80f"
-        }
-      ]
-    },
     "405b561560b5107be86275cb1c65f318": {
       "type": "desktop",
-      "ctime": 1462368803,
-      "mtime": 1462368803,
+      "ctime": 1462372403,
+      "mtime": 1462372403,
       "name": "cratylus",
       "status": 1,
       "keys": [
@@ -331,6 +273,25 @@
           "kid": "01214d77b7aea9577c56779baa41a64dbd2d70d16c175437bddc640198af0fd920700a",
           "key_role": 2,
           "sig_id": "51a470bdb71910490cedc7df80c55c2fcad1a801a0cb90577f5afa872b48a8010f"
+        }
+      ]
+    },
+    "104d92a6e37ada2967c710f5b0353c18": {
+      "type": "backup",
+      "ctime": 1462372404,
+      "mtime": 1462372404,
+      "name": "extend stone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012027626af5c9e2e4d48f0d5b6d1d93196bdf2bf7f71bbef92f1c6390e846218cd00a",
+          "key_role": 1,
+          "sig_id": "885ef48ae7c26dba59d851535ade8f2db27b42c3a40bf130440d1e729366d0ed0f"
+        },
+        {
+          "kid": "01216cd05709efa30ad6ba49b591c3d1357f3dff939f6dd2b5e24d653089418215070a",
+          "key_role": 2,
+          "sig_id": "b6d7fbbbd308588c53cf971b4c5c6b69647bf5c7a019c97526ecedcc6bf766b80f"
         }
       ]
     }
