@@ -4,10 +4,11 @@
     "username": "lgnap",
     "ctime": 1449760205,
     "mtime": 1449760205,
-    "id_version": 11,
-    "track_version": 7,
-    "last_id_change": 1451235678,
-    "username_cased": "lgnap"
+    "id_version": 23,
+    "track_version": 24,
+    "last_id_change": 1507563514,
+    "username_cased": "lgnap",
+    "status": 0
   },
   "profile": {
     "mtime": 1449760310,
@@ -38,16 +39,22 @@
       "012157cf5bcaa51ea965b94957d9864ca647780e6a0807367d6b43ce78917fef6a6f0a",
       "0120becfef27d73ab72c9804697a8eef7cba67d9b391c9af134e1b88f468c0415bcd0a",
       "0120fd4a7df714324e4eb38c4b1a5d0a937602b2afa1c05250bb20b1f514c56d7dd80a",
-      "01215dafbee396275d2bb127c2fb624f3aea84fbb67086908086a88077c586af6d640a"
+      "01215dafbee396275d2bb127c2fb624f3aea84fbb67086908086a88077c586af6d640a",
+      "0121ff33b99b13a1029ce1a8fa8cf651b449668c8243eee7e04c1966718b1db3e3250a",
+      "012014aef7ce514e5ab9c596fcf7b1345577159b81860c4b6352970c9befc673e26c0a",
+      "0120a03efa305e55bee71403c52e256283b1c4855dd2216a7cbb7101bdeacc14e85b0a",
+      "0121e42005b3ba1dca9897f7c4db0013dab4400f63b2647042c67f5c32e485f98a540a"
     ],
     "subkeys": [
-      "012157cf5bcaa51ea965b94957d9864ca647780e6a0807367d6b43ce78917fef6a6f0a",
-      "01215dafbee396275d2bb127c2fb624f3aea84fbb67086908086a88077c586af6d640a"
+      "01215dafbee396275d2bb127c2fb624f3aea84fbb67086908086a88077c586af6d640a",
+      "0121ff33b99b13a1029ce1a8fa8cf651b449668c8243eee7e04c1966718b1db3e3250a",
+      "0121e42005b3ba1dca9897f7c4db0013dab4400f63b2647042c67f5c32e485f98a540a"
     ],
     "sibkeys": [
       "01015421f4656fa631efe247c0564a02831cfb0faf18d458b678edcd273d861a8dba0a",
-      "0120becfef27d73ab72c9804697a8eef7cba67d9b391c9af134e1b88f468c0415bcd0a",
-      "0120fd4a7df714324e4eb38c4b1a5d0a937602b2afa1c05250bb20b1f514c56d7dd80a"
+      "0120fd4a7df714324e4eb38c4b1a5d0a937602b2afa1c05250bb20b1f514c56d7dd80a",
+      "012014aef7ce514e5ab9c596fcf7b1345577159b81860c4b6352970c9befc673e26c0a",
+      "0120a03efa305e55bee71403c52e256283b1c4855dd2216a7cbb7101bdeacc14e85b0a"
     ],
     "families": {
       "01015421f4656fa631efe247c0564a02831cfb0faf18d458b678edcd273d861a8dba0a": [
@@ -55,7 +62,11 @@
         "012157cf5bcaa51ea965b94957d9864ca647780e6a0807367d6b43ce78917fef6a6f0a",
         "0120becfef27d73ab72c9804697a8eef7cba67d9b391c9af134e1b88f468c0415bcd0a",
         "0120fd4a7df714324e4eb38c4b1a5d0a937602b2afa1c05250bb20b1f514c56d7dd80a",
-        "01215dafbee396275d2bb127c2fb624f3aea84fbb67086908086a88077c586af6d640a"
+        "01215dafbee396275d2bb127c2fb624f3aea84fbb67086908086a88077c586af6d640a",
+        "0121ff33b99b13a1029ce1a8fa8cf651b449668c8243eee7e04c1966718b1db3e3250a",
+        "012014aef7ce514e5ab9c596fcf7b1345577159b81860c4b6352970c9befc673e26c0a",
+        "0120a03efa305e55bee71403c52e256283b1c4855dd2216a7cbb7101bdeacc14e85b0a",
+        "0121e42005b3ba1dca9897f7c4db0013dab4400f63b2647042c67f5c32e485f98a540a"
       ]
     },
     "eldest_kid": "01015421f4656fa631efe247c0564a02831cfb0faf18d458b678edcd273d861a8dba0a",
@@ -107,6 +118,20 @@
           "presentation_group": "lgnap.helpcomputer.org",
           "presentation_tag": "http"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "helpcomputer.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/lgnap/sigchain#974b68b07b2a354f37b1e983aafda00406087e94b004a561223b4e299f6f79070f",
+          "sig_id": "974b68b07b2a354f37b1e983aafda00406087e94b004a561223b4e299f6f79070f",
+          "proof_id": "301260e6f529b809993da810",
+          "human_url": "dns://helpcomputer.org",
+          "service_url": "http://helpcomputer.org",
+          "presentation_group": "helpcomputer.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -151,6 +176,20 @@
           "presentation_group": "lgnap.helpcomputer.org",
           "presentation_tag": "http"
         }
+      ],
+      "helpcomputer.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "helpcomputer.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/lgnap/sigchain#974b68b07b2a354f37b1e983aafda00406087e94b004a561223b4e299f6f79070f",
+          "sig_id": "974b68b07b2a354f37b1e983aafda00406087e94b004a561223b4e299f6f79070f",
+          "proof_id": "301260e6f529b809993da810",
+          "human_url": "dns://helpcomputer.org",
+          "service_url": "http://helpcomputer.org",
+          "presentation_group": "helpcomputer.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -179,6 +218,18 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "dns",
+        "nametag": "helpcomputer.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/lgnap/sigchain#974b68b07b2a354f37b1e983aafda00406087e94b004a561223b4e299f6f79070f",
+        "sig_id": "974b68b07b2a354f37b1e983aafda00406087e94b004a561223b4e299f6f79070f",
+        "proof_id": "301260e6f529b809993da810",
+        "human_url": "dns://helpcomputer.org",
+        "service_url": "http://helpcomputer.org",
+        "presentation_group": "helpcomputer.org",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "lgnap.helpcomputer.org",
         "state": 1,
@@ -195,7 +246,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e16246991a0b688828399df5f30a7405_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/296a2463d0ed2eb888fe8a2e248d5905_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -203,28 +254,47 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c99a9fd993e413ebbce41d8b2c109696a78184332fd75661538dcb5de2614aa70f",
-      "seqno": 15,
-      "payload_hash": "e561a27d23e4b15138fd5c4eee2449d44fd4e55583a41a37c917aaa2569c5f5b"
+      "sig_id": "763a300e24ccc5e09fe4d88607c1abb871edeb503a307c32675fe0987c0b47960f",
+      "seqno": 40,
+      "payload_hash": "85522d5d08b1fe6e832dec7fcafd6dd4f89d3949226a4f58808aaca3d657b317"
     }
   },
   "devices": {
-    "10e53e4ac5840efcd4f9b0712ec03b18": {
+    "1f72ab66f23d0693e9af072bb60bbf18": {
       "type": "desktop",
-      "ctime": 1449761342,
-      "mtime": 1449761342,
-      "name": "desktop",
+      "ctime": 1480200606,
+      "mtime": 1480200606,
+      "name": "krokmou",
       "status": 1,
       "keys": [
         {
-          "kid": "0120becfef27d73ab72c9804697a8eef7cba67d9b391c9af134e1b88f468c0415bcd0a",
+          "kid": "012014aef7ce514e5ab9c596fcf7b1345577159b81860c4b6352970c9befc673e26c0a",
           "key_role": 1,
-          "sig_id": "153091f402f93e0a5b4ff6286ab2e78c7ab26ba3ef5ebd8053f5556d3e81d5ad0f"
+          "sig_id": "03bcc8aac3716fb1ebf9d1a6f142dea2c49f581b7019c3c7068af9f580b3349f0f"
         },
         {
-          "kid": "012157cf5bcaa51ea965b94957d9864ca647780e6a0807367d6b43ce78917fef6a6f0a",
+          "kid": "0121ff33b99b13a1029ce1a8fa8cf651b449668c8243eee7e04c1966718b1db3e3250a",
           "key_role": 2,
-          "sig_id": "c081af901978c1f08725bd5f7b90f2b54700163162e19c4c3e0cb78aa9c9e62a0f"
+          "sig_id": "b5624f5a292141695cab6bd13e355561728ae865010ea28d5ada9e5c5968a7050f"
+        }
+      ]
+    },
+    "c54628b769079cc4e2eeba4c15790918": {
+      "type": "desktop",
+      "ctime": 1486902039,
+      "mtime": 1486902039,
+      "name": "CoolerMaster",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a03efa305e55bee71403c52e256283b1c4855dd2216a7cbb7101bdeacc14e85b0a",
+          "key_role": 1,
+          "sig_id": "26c025deaee7369a72c9983ed944a7b23ae5558cb11651501abcf7cf4f6fa5d60f"
+        },
+        {
+          "kid": "0121e42005b3ba1dca9897f7c4db0013dab4400f63b2647042c67f5c32e485f98a540a",
+          "key_role": 2,
+          "sig_id": "680daedd90280dfbb3e1aa7e712aba231211963d1c189dc23c2cdec44bf0888b0f"
         }
       ]
     },
