@@ -2,15 +2,16 @@
   "id": "56477cf7cc7f04b276687a8a4e3c0d19",
   "basics": {
     "username": "nikz",
-    "ctime": 1429018676,
-    "mtime": 1429018676,
-    "id_version": 22,
-    "track_version": 7,
-    "last_id_change": 1468631730,
-    "username_cased": "nikz"
+    "ctime": 1429022276,
+    "mtime": 1429022276,
+    "id_version": 23,
+    "track_version": 14,
+    "last_id_change": 1482358691,
+    "username_cased": "nikz",
+    "status": 0
   },
   "profile": {
-    "mtime": 1429019141,
+    "mtime": 1429022741,
     "full_name": "Nik Wakelin",
     "location": "London, UK",
     "bio": null
@@ -39,16 +40,20 @@
       "0121358d116578aefc2549e33f09592d40f006388d06abda56df0064576886ced96a0a",
       "0120921fd300f33f4d1aaf748641f04778d346c74841e2a3b9a7115fc83b45773a880a",
       "0121473859f06a12423223dab7a5ac7e6420b7637f8eef11d45f9f750dc87b6fae310a",
-      "0120fceabe86b978bc61c23e4fa30cf82337b829fbf8dd62acf00a939bc47c1583d80a"
+      "0120fceabe86b978bc61c23e4fa30cf82337b829fbf8dd62acf00a939bc47c1583d80a",
+      "012117801adc34d528569482bba3cbb811ee892184399a6cacc101d8adb66a5c605c0a",
+      "0120b4fb4b03b715c1303af4fea184fa46bb300c9ff0d7d060721ab3203cd950dbc70a"
     ],
     "subkeys": [
       "0121358d116578aefc2549e33f09592d40f006388d06abda56df0064576886ced96a0a",
-      "0121473859f06a12423223dab7a5ac7e6420b7637f8eef11d45f9f750dc87b6fae310a"
+      "0121473859f06a12423223dab7a5ac7e6420b7637f8eef11d45f9f750dc87b6fae310a",
+      "012117801adc34d528569482bba3cbb811ee892184399a6cacc101d8adb66a5c605c0a"
     ],
     "sibkeys": [
       "01019db7d6a6e031ace8ffb1d536aebc09ad2f6f8c63f836fc18d3e481764b9b8de90a",
       "0120921fd300f33f4d1aaf748641f04778d346c74841e2a3b9a7115fc83b45773a880a",
-      "0120fceabe86b978bc61c23e4fa30cf82337b829fbf8dd62acf00a939bc47c1583d80a"
+      "0120fceabe86b978bc61c23e4fa30cf82337b829fbf8dd62acf00a939bc47c1583d80a",
+      "0120b4fb4b03b715c1303af4fea184fa46bb300c9ff0d7d060721ab3203cd950dbc70a"
     ],
     "families": {
       "010107fc01559d3b6158fb20db96b20a5e15f673eef35a8f07effcc690b67875adba0a": [
@@ -59,7 +64,9 @@
         "0121358d116578aefc2549e33f09592d40f006388d06abda56df0064576886ced96a0a",
         "0120921fd300f33f4d1aaf748641f04778d346c74841e2a3b9a7115fc83b45773a880a",
         "0121473859f06a12423223dab7a5ac7e6420b7637f8eef11d45f9f750dc87b6fae310a",
-        "0120fceabe86b978bc61c23e4fa30cf82337b829fbf8dd62acf00a939bc47c1583d80a"
+        "0120fceabe86b978bc61c23e4fa30cf82337b829fbf8dd62acf00a939bc47c1583d80a",
+        "012117801adc34d528569482bba3cbb811ee892184399a6cacc101d8adb66a5c605c0a",
+        "0120b4fb4b03b715c1303af4fea184fa46bb300c9ff0d7d060721ab3203cd950dbc70a"
       ]
     },
     "eldest_kid": "01019db7d6a6e031ace8ffb1d536aebc09ad2f6f8c63f836fc18d3e481764b9b8de90a",
@@ -167,16 +174,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b8f996b670df9690e129cabe42745822dd23418365c87ae024e9dabef4bbaf5f0f",
-      "seqno": 17,
-      "payload_hash": "1188e662738ee89c8b7649a93c0151997101cb9d4cd3049ea26c0b7ff5fd6321"
+      "sig_id": "38f09edba587eeab09322f2ee2642a5f9772b64f2f683470f671b488f8533ca20f",
+      "seqno": 26,
+      "payload_hash": "20e46cd6c661284f687c34db8fc6ca9559af638718e84fbacaa5cb91823117a3"
     }
   },
   "devices": {
+    "03eb2c4d5e6c6e82efd784f05bed3c18": {
+      "type": "desktop",
+      "ctime": 1482358691,
+      "mtime": 1482358691,
+      "name": "Touch Bar MBP",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b4fb4b03b715c1303af4fea184fa46bb300c9ff0d7d060721ab3203cd950dbc70a",
+          "key_role": 1,
+          "sig_id": "81d0cca414b20d096b0a702ce3f9c0974932fa2da6822cde72128b6aa967ea7c0f"
+        },
+        {
+          "kid": "012117801adc34d528569482bba3cbb811ee892184399a6cacc101d8adb66a5c605c0a",
+          "key_role": 2,
+          "sig_id": "8723f85117276e7d024e02c763901dcc8062474a68557f384c415994b46747eb0f"
+        }
+      ]
+    },
     "c5dda69facf10642456a225242dbc318": {
       "type": "desktop",
-      "ctime": 1465813169,
-      "mtime": 1465813169,
+      "ctime": 1465816769,
+      "mtime": 1465816769,
       "name": "Nik's MBP",
       "status": 1,
       "keys": [
@@ -194,8 +220,8 @@
     },
     "d8b75ccc7858af7c4d797c97c3038d18": {
       "type": "backup",
-      "ctime": 1465813170,
-      "mtime": 1465813170,
+      "ctime": 1465816770,
+      "mtime": 1465816770,
       "name": "turn mouse",
       "status": 1,
       "keys": [
