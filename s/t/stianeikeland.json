@@ -4,10 +4,11 @@
     "username": "stianeikeland",
     "ctime": 1417729350,
     "mtime": 1417729350,
-    "id_version": 21,
-    "track_version": 5,
-    "last_id_change": 1459341801,
-    "username_cased": "stianeikeland"
+    "id_version": 28,
+    "track_version": 10,
+    "last_id_change": 1508340200,
+    "username_cased": "stianeikeland",
+    "status": 0
   },
   "public_keys": {
     "primary": {
@@ -32,16 +33,20 @@
       "0121faa9ca441147629a27a0b4f37ef75c40f8e544922c961aaa1332ae09e294063b0a",
       "01209eaf5ea3d1a8cbd015eb76a45fc03d4285bb40d782c0c0bf25238be9c2b1e0e90a",
       "01208636d432f013989ec1df809cad0980fbe1b14b711d653621e029e635422262bc0a",
-      "0121b44dc585da5a2ec7d00c4eead11fa364dfa6c7887cfab667a3669f480ad420260a"
+      "0121b44dc585da5a2ec7d00c4eead11fa364dfa6c7887cfab667a3669f480ad420260a",
+      "0121423c777b0dd8ba443f0e1f76059f53f168ea9591e97654a51a47ee44f48d32650a",
+      "012033a34b033721330c658b885abd57fcbf3445e5e44d6a9b1169fa24337dd96b0f0a"
     ],
     "subkeys": [
       "0121faa9ca441147629a27a0b4f37ef75c40f8e544922c961aaa1332ae09e294063b0a",
-      "0121b44dc585da5a2ec7d00c4eead11fa364dfa6c7887cfab667a3669f480ad420260a"
+      "0121b44dc585da5a2ec7d00c4eead11fa364dfa6c7887cfab667a3669f480ad420260a",
+      "0121423c777b0dd8ba443f0e1f76059f53f168ea9591e97654a51a47ee44f48d32650a"
     ],
     "sibkeys": [
       "01011aecb63f412a165725ef5f6461a8cbe8e379189aba20adb0499e77edb7eec07d0a",
       "01209eaf5ea3d1a8cbd015eb76a45fc03d4285bb40d782c0c0bf25238be9c2b1e0e90a",
-      "01208636d432f013989ec1df809cad0980fbe1b14b711d653621e029e635422262bc0a"
+      "01208636d432f013989ec1df809cad0980fbe1b14b711d653621e029e635422262bc0a",
+      "012033a34b033721330c658b885abd57fcbf3445e5e44d6a9b1169fa24337dd96b0f0a"
     ],
     "families": {
       "01011aecb63f412a165725ef5f6461a8cbe8e379189aba20adb0499e77edb7eec07d0a": [
@@ -49,7 +54,9 @@
         "0121faa9ca441147629a27a0b4f37ef75c40f8e544922c961aaa1332ae09e294063b0a",
         "01209eaf5ea3d1a8cbd015eb76a45fc03d4285bb40d782c0c0bf25238be9c2b1e0e90a",
         "01208636d432f013989ec1df809cad0980fbe1b14b711d653621e029e635422262bc0a",
-        "0121b44dc585da5a2ec7d00c4eead11fa364dfa6c7887cfab667a3669f480ad420260a"
+        "0121b44dc585da5a2ec7d00c4eead11fa364dfa6c7887cfab667a3669f480ad420260a",
+        "0121423c777b0dd8ba443f0e1f76059f53f168ea9591e97654a51a47ee44f48d32650a",
+        "012033a34b033721330c658b885abd57fcbf3445e5e44d6a9b1169fa24337dd96b0f0a"
       ]
     },
     "eldest_kid": "01011aecb63f412a165725ef5f6461a8cbe8e379189aba20adb0499e77edb7eec07d0a",
@@ -197,16 +204,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "47ec8df45c763d45f06f1c76b71687b52818be05de0217f1fc50cb5cc6573bab0f",
-      "seqno": 20,
-      "payload_hash": "f7bd7a57214064e4b2e022c41cb990b173aabc64b5a138b2d713db2692052354"
+      "sig_id": "a78c9ca7565a85347a91d1ed82d1a31fc162b33b339d428ddcba37ace411f1ad0f",
+      "seqno": 28,
+      "payload_hash": "8c965776c05d4c6c17998e191f07921fad1bbe81fa8062cb32fa8e8c867b4471"
     }
   },
   "devices": {
     "afe7d6cc56de28317d9e1a9342562618": {
       "type": "desktop",
-      "ctime": 1459341800,
-      "mtime": 1459341800,
+      "ctime": 1459345400,
+      "mtime": 1459345400,
       "name": "macbook-retina",
       "status": 1,
       "keys": [
@@ -222,10 +229,29 @@
         }
       ]
     },
+    "c5b3795ff0f26cb7ad6ec032e1196c18": {
+      "type": "mobile",
+      "ctime": 1508340200,
+      "mtime": 1508340200,
+      "name": "eplofon6",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012033a34b033721330c658b885abd57fcbf3445e5e44d6a9b1169fa24337dd96b0f0a",
+          "key_role": 1,
+          "sig_id": "04d80d5f8a8191748e928371336de6ca75fb6cceb34f6d602bbbcc0d0587e8310f"
+        },
+        {
+          "kid": "0121423c777b0dd8ba443f0e1f76059f53f168ea9591e97654a51a47ee44f48d32650a",
+          "key_role": 2,
+          "sig_id": "a78c9ca7565a85347a91d1ed82d1a31fc162b33b339d428ddcba37ace411f1ad0f"
+        }
+      ]
+    },
     "d25c13d728a30c9d2276c6057adc2118": {
       "type": "backup",
-      "ctime": 1459341801,
-      "mtime": 1459341801,
+      "ctime": 1459345401,
+      "mtime": 1459345401,
       "name": "tumble swap",
       "status": 1,
       "keys": [
