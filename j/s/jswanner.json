@@ -4,10 +4,11 @@
     "username": "jswanner",
     "ctime": 1425230913,
     "mtime": 1425230913,
-    "id_version": 16,
-    "track_version": 1,
-    "last_id_change": 1470320068,
-    "username_cased": "jswanner"
+    "id_version": 18,
+    "track_version": 4,
+    "last_id_change": 1504302089,
+    "username_cased": "jswanner",
+    "status": 0
   },
   "profile": {
     "mtime": 1425232077,
@@ -46,14 +47,12 @@
     ],
     "subkeys": [
       "012149da9c7cc0dc410bb8bb9fb4db95295e2184c45104ad03717a11eedee2580e3a0a",
-      "01218ad77ae44002a8491d1f6106bafd322dbcdccfd3a11391bdbae120f2c948204b0a",
-      "012103b4e4dffff4f05102ab58e931c0194e67b0809d5b43b36420c84e3c9d04ea2b0a"
+      "01218ad77ae44002a8491d1f6106bafd322dbcdccfd3a11391bdbae120f2c948204b0a"
     ],
     "sibkeys": [
       "01013564bd9c8556944829c4304b00807dbb3ebeda0b0377e0b700dc8ec046a86f620a",
       "01200dad1fbcb3d4aa9dc4db4c7dd12a539a9c7c32d06a170ca55c52ff7ce84223eb0a",
-      "01200f27f38ecd6e14927d1ee59235dd47c07c40a31d61a235fb511fce0a8b54288a0a",
-      "012029f32f3857c8d31c8cf0375cb6232cd0a5da1f43fd8512f714a6e78043a100230a"
+      "01200f27f38ecd6e14927d1ee59235dd47c07c40a31d61a235fb511fce0a8b54288a0a"
     ],
     "families": {
       "01013564bd9c8556944829c4304b00807dbb3ebeda0b0377e0b700dc8ec046a86f620a": [
@@ -104,6 +103,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "jswanner",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/6xhov2/my_keybase_proof_redditjswanner_keybasejswanner/",
+          "sig_id": "10bdceb239e93225183cc84e0f195abe17ba74f31fabea7b7a1b4494c48d12160f",
+          "proof_id": "bbc1f4e59ee7ffbd98373010",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/6xhov2/my_keybase_proof_redditjswanner_keybasejswanner/",
+          "service_url": "https://reddit.com/user/jswanner",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
       "dns": [
         {
           "proof_type": "dns",
@@ -148,6 +161,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "jswanner",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/6xhov2/my_keybase_proof_redditjswanner_keybasejswanner/",
+          "sig_id": "10bdceb239e93225183cc84e0f195abe17ba74f31fabea7b7a1b4494c48d12160f",
+          "proof_id": "bbc1f4e59ee7ffbd98373010",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/6xhov2/my_keybase_proof_redditjswanner_keybasejswanner/",
+          "service_url": "https://reddit.com/user/jswanner",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
       "jacobswanner.com": [
         {
           "proof_type": "dns",
@@ -189,6 +216,18 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "reddit",
+        "nametag": "jswanner",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/6xhov2/my_keybase_proof_redditjswanner_keybasejswanner/",
+        "sig_id": "10bdceb239e93225183cc84e0f195abe17ba74f31fabea7b7a1b4494c48d12160f",
+        "proof_id": "bbc1f4e59ee7ffbd98373010",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/6xhov2/my_keybase_proof_redditjswanner_keybasejswanner/",
+        "service_url": "https://reddit.com/user/jswanner",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "dns",
         "nametag": "jacobswanner.com",
         "state": 1,
@@ -213,9 +252,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "a5df8dac4b6a4baec87c00b99a064ac54cf02770b398671b8d5cfa29a98540880f",
-      "seqno": 17,
-      "payload_hash": "0e5834956bea9451635c2eebfb425aaa12446559415deffb1e7ea60da4bd0b87"
+      "sig_id": "b31eabc1b264df30e37154282cc86015c36791b2e9b1c86f934515c4195235030f",
+      "seqno": 23,
+      "payload_hash": "931591ce999c4c6503cc4fcdd813e74508dc991d89748c5d6f7d080a8ce8f244"
     }
   },
   "devices": {
@@ -240,8 +279,8 @@
     },
     "f4bda7f4eef222ce3c2463d785b08718": {
       "type": "backup",
-      "ctime": 1470320005,
-      "mtime": 1470320005,
+      "ctime": 1470323605,
+      "mtime": 1470323605,
       "name": "decade repair",
       "status": 1,
       "keys": [
@@ -254,25 +293,6 @@
           "kid": "01218ad77ae44002a8491d1f6106bafd322dbcdccfd3a11391bdbae120f2c948204b0a",
           "key_role": 2,
           "sig_id": "c92ec8d53579c4b6db8a4eb7f8dec080df67e0ac01b7a80d351a7f4031fc7b790f"
-        }
-      ]
-    },
-    "fb8aec3a09002ff3f901a9d0089e8f18": {
-      "type": "backup",
-      "ctime": 1470320068,
-      "mtime": 1470320068,
-      "name": "connect embrace",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012029f32f3857c8d31c8cf0375cb6232cd0a5da1f43fd8512f714a6e78043a100230a",
-          "key_role": 1,
-          "sig_id": "6497d8cf60d97d70c90332dd0e2dad6c6a1262ca9a65aed48e9f778ab6e94d1e0f"
-        },
-        {
-          "kid": "012103b4e4dffff4f05102ab58e931c0194e67b0809d5b43b36420c84e3c9d04ea2b0a",
-          "key_role": 2,
-          "sig_id": "a5df8dac4b6a4baec87c00b99a064ac54cf02770b398671b8d5cfa29a98540880f"
         }
       ]
     }
