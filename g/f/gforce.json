@@ -4,9 +4,9 @@
     "username": "gforce",
     "ctime": 1480554471,
     "mtime": 1480554471,
-    "id_version": 12,
+    "id_version": 13,
     "track_version": 30,
-    "last_id_change": 1500009437,
+    "last_id_change": 1514915086,
     "username_cased": "gforce",
     "status": 0
   },
@@ -41,18 +41,22 @@
       "012175ace9ae2004c376e1dba1ed75d2b3e9e3a3cded0b5b2a9b7af293baddc483240a",
       "012033d0885bd0549e99b33dbeca9f5aae7f6d9c0cc2093af5ed4c53c149d12f3c9c0a",
       "0120ca188868934241109f69d044bad195a3170608a0e6f91c2ff04524cad0bcb3970a",
-      "0121270ec79920f7a7b5a52dc1b54fe96b0de88d9d9842122cabd2038c0071f18a7c0a"
+      "0121270ec79920f7a7b5a52dc1b54fe96b0de88d9d9842122cabd2038c0071f18a7c0a",
+      "0121e65f4c6a7e58733090c945e2bf76ee9437ad12b8106e7e6062a8c173cc1c111c0a",
+      "0120246301924d1e2864a41ba3c37bc2cab6e5adb96366a4f1412ef003060d4b6ba70a"
     ],
     "subkeys": [
       "0121bedf7e2fe9f6530d447be960879e299345ab2df82a1eab0bc6532d43960819340a",
       "012175ace9ae2004c376e1dba1ed75d2b3e9e3a3cded0b5b2a9b7af293baddc483240a",
-      "0121270ec79920f7a7b5a52dc1b54fe96b0de88d9d9842122cabd2038c0071f18a7c0a"
+      "0121270ec79920f7a7b5a52dc1b54fe96b0de88d9d9842122cabd2038c0071f18a7c0a",
+      "0121e65f4c6a7e58733090c945e2bf76ee9437ad12b8106e7e6062a8c173cc1c111c0a"
     ],
     "sibkeys": [
       "010198c7358e068439c1f2f79d73f1ed239fa7def7bf858ecdf6f6a83fcefb7885960a",
       "0120d7efde5393ebee5836d383e1413d3f1c63c228922a3dce74e4ab4d576aa49da40a",
       "012033d0885bd0549e99b33dbeca9f5aae7f6d9c0cc2093af5ed4c53c149d12f3c9c0a",
-      "0120ca188868934241109f69d044bad195a3170608a0e6f91c2ff04524cad0bcb3970a"
+      "0120ca188868934241109f69d044bad195a3170608a0e6f91c2ff04524cad0bcb3970a",
+      "0120246301924d1e2864a41ba3c37bc2cab6e5adb96366a4f1412ef003060d4b6ba70a"
     ],
     "families": {
       "010198c7358e068439c1f2f79d73f1ed239fa7def7bf858ecdf6f6a83fcefb7885960a": [
@@ -62,7 +66,9 @@
         "012175ace9ae2004c376e1dba1ed75d2b3e9e3a3cded0b5b2a9b7af293baddc483240a",
         "012033d0885bd0549e99b33dbeca9f5aae7f6d9c0cc2093af5ed4c53c149d12f3c9c0a",
         "0120ca188868934241109f69d044bad195a3170608a0e6f91c2ff04524cad0bcb3970a",
-        "0121270ec79920f7a7b5a52dc1b54fe96b0de88d9d9842122cabd2038c0071f18a7c0a"
+        "0121270ec79920f7a7b5a52dc1b54fe96b0de88d9d9842122cabd2038c0071f18a7c0a",
+        "0121e65f4c6a7e58733090c945e2bf76ee9437ad12b8106e7e6062a8c173cc1c111c0a",
+        "0120246301924d1e2864a41ba3c37bc2cab6e5adb96366a4f1412ef003060d4b6ba70a"
       ]
     },
     "eldest_kid": "010198c7358e068439c1f2f79d73f1ed239fa7def7bf858ecdf6f6a83fcefb7885960a",
@@ -170,12 +176,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d8aa188e0d497557dde8ba0c88a7ec4833be6017227bdd0e7c319f88fb8c5bf90f",
-      "seqno": 40,
-      "payload_hash": "70e7d93adf4cd1978eaa4821220224c8a922b664f0767ff508b7cf237352e265"
+      "sig_id": "01451003f5129eb127a6ecae083b755520605a56481a7d76c5604326892073f30f",
+      "seqno": 42,
+      "payload_hash": "1edb7617813979f51f012252ddb9150cb72aab8094f660626b8244aea2d17894"
     }
   },
   "devices": {
+    "1c0fcd226981a39aa457f8da41a0a318": {
+      "type": "desktop",
+      "ctime": 1514915086,
+      "mtime": 1514915086,
+      "name": "Intuit MBP",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120246301924d1e2864a41ba3c37bc2cab6e5adb96366a4f1412ef003060d4b6ba70a",
+          "key_role": 1,
+          "sig_id": "ff4f89575bd80428bdf7434b01c7a91d29bf9391be949802bb7aa3e07b6a2adf0f"
+        },
+        {
+          "kid": "0121e65f4c6a7e58733090c945e2bf76ee9437ad12b8106e7e6062a8c173cc1c111c0a",
+          "key_role": 2,
+          "sig_id": "01451003f5129eb127a6ecae083b755520605a56481a7d76c5604326892073f30f"
+        }
+      ]
+    },
     "66c3e21276e47e60748932546e62f018": {
       "type": "desktop",
       "ctime": 1487179857,
