@@ -4,10 +4,11 @@
     "username": "benoithiller",
     "ctime": 1452190555,
     "mtime": 1452190555,
-    "id_version": 15,
+    "id_version": 19,
     "track_version": 4,
-    "last_id_change": 1474393272,
-    "username_cased": "benoithiller"
+    "last_id_change": 1495579562,
+    "username_cased": "benoithiller",
+    "status": 0
   },
   "profile": {
     "mtime": 1452190834,
@@ -38,16 +39,20 @@
       "01205fe7d522b10258e272c296f3d6df2ef7b571635dfc10d4aa416548c8b707c5220a",
       "012136096f5c7b8186e5dbd17d3d845eacbcc65b4a748eef62c07ad44dd93d19b5340a",
       "0120f36547040793f9680108538bbafc1697b2348cbfbbc1835ca53bf4fca32611ba0a",
-      "01213ed7ae642989ebc5669a18e6dcae18d2065e5cd80d8ae0b8b65c94f499ff75090a"
+      "01213ed7ae642989ebc5669a18e6dcae18d2065e5cd80d8ae0b8b65c94f499ff75090a",
+      "0121559a81b06208a7641c18f20687214610ec0db2ed057fc104a54be00672edb2130a",
+      "01204251de583701c62756c698fd022603f6573128b908122c774e2fda6c7999b9f80a"
     ],
     "subkeys": [
       "012136096f5c7b8186e5dbd17d3d845eacbcc65b4a748eef62c07ad44dd93d19b5340a",
-      "01213ed7ae642989ebc5669a18e6dcae18d2065e5cd80d8ae0b8b65c94f499ff75090a"
+      "01213ed7ae642989ebc5669a18e6dcae18d2065e5cd80d8ae0b8b65c94f499ff75090a",
+      "0121559a81b06208a7641c18f20687214610ec0db2ed057fc104a54be00672edb2130a"
     ],
     "sibkeys": [
       "010181fa42912b9b769b1ebff4ab68a39f5585ae42f97f4a0c2edaa790532f7ad7690a",
       "01205fe7d522b10258e272c296f3d6df2ef7b571635dfc10d4aa416548c8b707c5220a",
-      "0120f36547040793f9680108538bbafc1697b2348cbfbbc1835ca53bf4fca32611ba0a"
+      "0120f36547040793f9680108538bbafc1697b2348cbfbbc1835ca53bf4fca32611ba0a",
+      "01204251de583701c62756c698fd022603f6573128b908122c774e2fda6c7999b9f80a"
     ],
     "families": {
       "010181fa42912b9b769b1ebff4ab68a39f5585ae42f97f4a0c2edaa790532f7ad7690a": [
@@ -55,7 +60,9 @@
         "01205fe7d522b10258e272c296f3d6df2ef7b571635dfc10d4aa416548c8b707c5220a",
         "012136096f5c7b8186e5dbd17d3d845eacbcc65b4a748eef62c07ad44dd93d19b5340a",
         "0120f36547040793f9680108538bbafc1697b2348cbfbbc1835ca53bf4fca32611ba0a",
-        "01213ed7ae642989ebc5669a18e6dcae18d2065e5cd80d8ae0b8b65c94f499ff75090a"
+        "01213ed7ae642989ebc5669a18e6dcae18d2065e5cd80d8ae0b8b65c94f499ff75090a",
+        "0121559a81b06208a7641c18f20687214610ec0db2ed057fc104a54be00672edb2130a",
+        "01204251de583701c62756c698fd022603f6573128b908122c774e2fda6c7999b9f80a"
       ]
     },
     "eldest_kid": "010181fa42912b9b769b1ebff4ab68a39f5585ae42f97f4a0c2edaa790532f7ad7690a",
@@ -195,7 +202,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f25facdab042fcfa81a6713149f01c05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/0ccbdce67f1665edf57c96296a2b0505_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -203,12 +210,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d743968d9acf29c2bb90f1408c028a2553a137349cbb9afc79397711181dd8120f",
-      "seqno": 13,
-      "payload_hash": "11715be71e1c8ea0e8e2480d37a9705273b68aa8859d9fc3a44f7d2d0d473427"
+      "sig_id": "c362ddf8e76ae9c5ef8527dd667a6fccbb7c6349e5b9895714b949881f3f72490f",
+      "seqno": 16,
+      "payload_hash": "7ff2468a4bd86540c0c921bb4f2a2dfe5de520ba6e9b84afdc12209b58bb40c1"
     }
   },
   "devices": {
+    "7cbc951366343a15994865fa5b9cd918": {
+      "type": "mobile",
+      "ctime": 1494557218,
+      "mtime": 1494557218,
+      "name": "benoit-g4",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204251de583701c62756c698fd022603f6573128b908122c774e2fda6c7999b9f80a",
+          "key_role": 1,
+          "sig_id": "507ef3af0afe597d3e97f322d5c8263864b6b1c945197203263da0bfec7a0c2f0f"
+        },
+        {
+          "kid": "0121559a81b06208a7641c18f20687214610ec0db2ed057fc104a54be00672edb2130a",
+          "key_role": 2,
+          "sig_id": "ff4a65eb7e2890a4f8707694d7e29a94161e26e3ecee174be1f3e30939de72f70f"
+        }
+      ]
+    },
     "8413dd02b1d290d7f643acafaab08018": {
       "type": "desktop",
       "ctime": 1452998272,
