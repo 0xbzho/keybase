@@ -1,0 +1,100 @@
+{
+  "id": "1c86a59ea72b3bce180b97dcf3462f19",
+  "basics": {
+    "username": "eduardop",
+    "ctime": 1510928661,
+    "mtime": 1510928661,
+    "id_version": 2,
+    "track_version": 3,
+    "last_id_change": 1510928839,
+    "username_cased": "eduardop",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "012100537cb3f2cf2f18b266e3dae00769cc106949076729f1c669ba258d6d022f340a",
+      "0120595b418afaf46c0064198e8c9f159b7aca75bed27a33532cc25161f451a97a100a",
+      "01213f8cde10f18be96ba0a6c0e09afa99f5b2d5f83fb3072ff6406562f3f900a13d0a",
+      "0120a34d6fe6887a77fbfff87c720edd1a569c08beb8a2824a11cc4bdcf6e5eaf3da0a"
+    ],
+    "subkeys": [
+      "012100537cb3f2cf2f18b266e3dae00769cc106949076729f1c669ba258d6d022f340a",
+      "01213f8cde10f18be96ba0a6c0e09afa99f5b2d5f83fb3072ff6406562f3f900a13d0a"
+    ],
+    "sibkeys": [
+      "0120595b418afaf46c0064198e8c9f159b7aca75bed27a33532cc25161f451a97a100a",
+      "0120a34d6fe6887a77fbfff87c720edd1a569c08beb8a2824a11cc4bdcf6e5eaf3da0a"
+    ],
+    "families": {
+      "0120595b418afaf46c0064198e8c9f159b7aca75bed27a33532cc25161f451a97a100a": [
+        "012100537cb3f2cf2f18b266e3dae00769cc106949076729f1c669ba258d6d022f340a",
+        "0120595b418afaf46c0064198e8c9f159b7aca75bed27a33532cc25161f451a97a100a",
+        "01213f8cde10f18be96ba0a6c0e09afa99f5b2d5f83fb3072ff6406562f3f900a13d0a",
+        "0120a34d6fe6887a77fbfff87c720edd1a569c08beb8a2824a11cc4bdcf6e5eaf3da0a"
+      ]
+    },
+    "eldest_kid": "0120595b418afaf46c0064198e8c9f159b7aca75bed27a33532cc25161f451a97a100a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "15mKU4Hgx1dNsPxWXNEeGV82muLxLKxHZP",
+        "sig_id": "8c9ac8c78aefd656d8ad1017dcad52f58cf12479ec81f8581391bee1650fcaa90f"
+      }
+    ]
+  },
+  "sigs": {
+    "last": {
+      "sig_id": "34f2844ada0460bfb4a99d9653a095c562693ea5381700d305250b6818aede880f",
+      "seqno": 9,
+      "payload_hash": "16b0a022a78c090b6d4175880e3a99ff0c43e42c107eb0bcb0abd9a413ee376e"
+    }
+  },
+  "devices": {
+    "798808c0396ebbe30c77d7fddfe49c18": {
+      "type": "desktop",
+      "ctime": 1510928663,
+      "mtime": 1510928663,
+      "name": "Home Computer",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120595b418afaf46c0064198e8c9f159b7aca75bed27a33532cc25161f451a97a100a",
+          "key_role": 1,
+          "sig_id": "1257f87526d6377fc0cd398ce5837e20378079e18a80b075f17f84e28fbdee740f"
+        },
+        {
+          "kid": "012100537cb3f2cf2f18b266e3dae00769cc106949076729f1c669ba258d6d022f340a",
+          "key_role": 2,
+          "sig_id": "8691e3c0cf6b56ac91d2fc98caf1969c4a3ce79d8982f7c4fe4365db0dea5eb40f"
+        }
+      ]
+    },
+    "d6d1c2bdff479845eab9f5bcf4c9bc18": {
+      "type": "mobile",
+      "ctime": 1510928839,
+      "mtime": 1510928839,
+      "name": "android",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a34d6fe6887a77fbfff87c720edd1a569c08beb8a2824a11cc4bdcf6e5eaf3da0a",
+          "key_role": 1,
+          "sig_id": "57a2002addcfa9920d1f2b8e4d041fcbc316838892e216dcd40d3d712f81d6800f"
+        },
+        {
+          "kid": "01213f8cde10f18be96ba0a6c0e09afa99f5b2d5f83fb3072ff6406562f3f900a13d0a",
+          "key_role": 2,
+          "sig_id": "f371b1a06fb2e025cf19e2ab4fce9d610f5143151b6136735cdebf3bafa779b50f"
+        }
+      ]
+    }
+  }
+}
