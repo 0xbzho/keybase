@@ -2,12 +2,13 @@
   "id": "271b48b59c824ca2c1841e4e89eeec00",
   "basics": {
     "username": "borjaburgos",
-    "ctime": 1405436765,
-    "mtime": 1405436765,
-    "id_version": 63,
-    "track_version": 8,
-    "last_id_change": 1473443639,
-    "username_cased": "borjaburgos"
+    "ctime": 1405440365,
+    "mtime": 1405440365,
+    "id_version": 68,
+    "track_version": 10,
+    "last_id_change": 1493716568,
+    "username_cased": "borjaburgos",
+    "status": 0
   },
   "profile": {
     "mtime": 1415734462,
@@ -38,16 +39,20 @@
       "01201c289a584fdb0f8fac1ab020f0a5ee4c049318386aeb62e1fa2201b6966979180a",
       "01214a6d3091fc0e18b41390d578f4aa6db3e43fafe9cb957e9608248b75ba0f0f610a",
       "01204def6c0a8c0a4d10d1f3d0b53b569f65e41882444d37f9b11fea1de49c09763d0a",
-      "0121403fddeff97687a92ae87fefc5fe711138ef0a9ff91ffdd2c9f1380e151375660a"
+      "0121403fddeff97687a92ae87fefc5fe711138ef0a9ff91ffdd2c9f1380e151375660a",
+      "0120b7ff75da4981fc55f1d159b7025747bac114a591828efde044c0bc7295f01a590a",
+      "012107cda505d13c121d82d88ec67a2134fe516c5be51296f70af1520ca1182a812c0a"
     ],
     "subkeys": [
       "01214a6d3091fc0e18b41390d578f4aa6db3e43fafe9cb957e9608248b75ba0f0f610a",
-      "0121403fddeff97687a92ae87fefc5fe711138ef0a9ff91ffdd2c9f1380e151375660a"
+      "0121403fddeff97687a92ae87fefc5fe711138ef0a9ff91ffdd2c9f1380e151375660a",
+      "012107cda505d13c121d82d88ec67a2134fe516c5be51296f70af1520ca1182a812c0a"
     ],
     "sibkeys": [
       "0101b4484f5710fea24fdf662769bdd93a2a588955fd38395d14f6ac5570e08c1c190a",
       "01201c289a584fdb0f8fac1ab020f0a5ee4c049318386aeb62e1fa2201b6966979180a",
-      "01204def6c0a8c0a4d10d1f3d0b53b569f65e41882444d37f9b11fea1de49c09763d0a"
+      "01204def6c0a8c0a4d10d1f3d0b53b569f65e41882444d37f9b11fea1de49c09763d0a",
+      "0120b7ff75da4981fc55f1d159b7025747bac114a591828efde044c0bc7295f01a590a"
     ],
     "families": {
       "0101b4484f5710fea24fdf662769bdd93a2a588955fd38395d14f6ac5570e08c1c190a": [
@@ -55,7 +60,9 @@
         "01201c289a584fdb0f8fac1ab020f0a5ee4c049318386aeb62e1fa2201b6966979180a",
         "01214a6d3091fc0e18b41390d578f4aa6db3e43fafe9cb957e9608248b75ba0f0f610a",
         "01204def6c0a8c0a4d10d1f3d0b53b569f65e41882444d37f9b11fea1de49c09763d0a",
-        "0121403fddeff97687a92ae87fefc5fe711138ef0a9ff91ffdd2c9f1380e151375660a"
+        "0121403fddeff97687a92ae87fefc5fe711138ef0a9ff91ffdd2c9f1380e151375660a",
+        "0120b7ff75da4981fc55f1d159b7025747bac114a591828efde044c0bc7295f01a590a",
+        "012107cda505d13c121d82d88ec67a2134fe516c5be51296f70af1520ca1182a812c0a"
       ]
     },
     "eldest_kid": "0101b4484f5710fea24fdf662769bdd93a2a588955fd38395d14f6ac5570e08c1c190a",
@@ -243,16 +250,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "b3487032186569befd5a940c1ac5087f338e9a5675591a08ba3963ce9d86c00c0f",
-      "seqno": 29,
-      "payload_hash": "11d5f913aa854d40957bd25b4f174158fff6c869f626abd4f7b48a74c8601787"
+      "sig_id": "104669fcffb4c59b8f223189e71f76286cb2593eb4912d9b59f08756631798790f",
+      "seqno": 34,
+      "payload_hash": "be14d7d58b872301e194094cc3766447c019a517d2660d909ba2d97fe228f60f"
     }
   },
   "devices": {
     "0a358648d7b05c8fde8f3e55d99f4b18": {
       "type": "desktop",
-      "ctime": 1473443638,
-      "mtime": 1473443638,
+      "ctime": 1473447238,
+      "mtime": 1473447238,
       "name": "borja-macbook-pro",
       "status": 1,
       "keys": [
@@ -270,8 +277,8 @@
     },
     "1e42acf752606ea7d35564d4a4381918": {
       "type": "backup",
-      "ctime": 1473443639,
-      "mtime": 1473443639,
+      "ctime": 1473447239,
+      "mtime": 1473447239,
       "name": "brisk amateur",
       "status": 1,
       "keys": [
@@ -284,6 +291,25 @@
           "kid": "0121403fddeff97687a92ae87fefc5fe711138ef0a9ff91ffdd2c9f1380e151375660a",
           "key_role": 2,
           "sig_id": "a9e2c158018a258de027f7dd9261cc8a714cb001fb304c04d946d83a8405bdcf0f"
+        }
+      ]
+    },
+    "4f00239d7310e5a2edbab64c66bbd818": {
+      "type": "desktop",
+      "ctime": 1486506106,
+      "mtime": 1486506106,
+      "name": "Borja's MacBook Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b7ff75da4981fc55f1d159b7025747bac114a591828efde044c0bc7295f01a590a",
+          "key_role": 1,
+          "sig_id": "d73f63f30e82caed74170ea9834a4d9e92e51431ede6354fe7c3dd00a0ebfb510f"
+        },
+        {
+          "kid": "012107cda505d13c121d82d88ec67a2134fe516c5be51296f70af1520ca1182a812c0a",
+          "key_role": 2,
+          "sig_id": "28eb58cdb24773ff120cfd2b32758cafd10db6a844323dfd86df0125f691c6e40f"
         }
       ]
     }
