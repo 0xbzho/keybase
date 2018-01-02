@@ -4,10 +4,11 @@
     "username": "jmorgan",
     "ctime": 1424795229,
     "mtime": 1424795229,
-    "id_version": 15,
+    "id_version": 16,
     "track_version": 0,
-    "last_id_change": 1471313185,
-    "username_cased": "jmorgan"
+    "last_id_change": 1501607212,
+    "username_cased": "jmorgan",
+    "status": 0
   },
   "profile": {
     "mtime": 1424795245,
@@ -38,16 +39,16 @@
       "012041a07b48e935fd9733fee12ae5429a3b9cc45dcb80a41debda80483eac202e1b0a",
       "0121d5a30ff32537d6f6ace02be9c542236995b0523daa1b653cd1054d0da91189080a",
       "0120984bf99b41d224712251c92bb1d500f18152ee89aa9b742e6f8c3a65cc85fb750a",
-      "012183154390917cf5f485d549f250cd49a97d53fb5a7de4a67e9be7f9334b8b764a0a"
+      "012183154390917cf5f485d549f250cd49a97d53fb5a7de4a67e9be7f9334b8b764a0a",
+      "012077cc0ed31c8c0fada3a9b50c86014676c565d3e6fb1d572992fdf358a820ef6c0a",
+      "0121f5876b644e206017f3b3f856862a54ae90766e2615fdb22d6faaffd14a517c280a"
     ],
     "subkeys": [
-      "0121d5a30ff32537d6f6ace02be9c542236995b0523daa1b653cd1054d0da91189080a",
-      "012183154390917cf5f485d549f250cd49a97d53fb5a7de4a67e9be7f9334b8b764a0a"
+      "0121f5876b644e206017f3b3f856862a54ae90766e2615fdb22d6faaffd14a517c280a"
     ],
     "sibkeys": [
       "0101145c119f52e6102e76cb59010c8ecd620c7074a39736fc51abe619a848c241f20a",
-      "012041a07b48e935fd9733fee12ae5429a3b9cc45dcb80a41debda80483eac202e1b0a",
-      "0120984bf99b41d224712251c92bb1d500f18152ee89aa9b742e6f8c3a65cc85fb750a"
+      "012077cc0ed31c8c0fada3a9b50c86014676c565d3e6fb1d572992fdf358a820ef6c0a"
     ],
     "families": {
       "0101145c119f52e6102e76cb59010c8ecd620c7074a39736fc51abe619a848c241f20a": [
@@ -55,7 +56,9 @@
         "012041a07b48e935fd9733fee12ae5429a3b9cc45dcb80a41debda80483eac202e1b0a",
         "0121d5a30ff32537d6f6ace02be9c542236995b0523daa1b653cd1054d0da91189080a",
         "0120984bf99b41d224712251c92bb1d500f18152ee89aa9b742e6f8c3a65cc85fb750a",
-        "012183154390917cf5f485d549f250cd49a97d53fb5a7de4a67e9be7f9334b8b764a0a"
+        "012183154390917cf5f485d549f250cd49a97d53fb5a7de4a67e9be7f9334b8b764a0a",
+        "012077cc0ed31c8c0fada3a9b50c86014676c565d3e6fb1d572992fdf358a820ef6c0a",
+        "0121f5876b644e206017f3b3f856862a54ae90766e2615fdb22d6faaffd14a517c280a"
       ]
     },
     "eldest_kid": "0101145c119f52e6102e76cb59010c8ecd620c7074a39736fc51abe619a848c241f20a",
@@ -155,7 +158,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/b3c732206bef1500474d5ecc9e20b705_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/b10dee01623ced804c02fee7cdbe3805_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -163,47 +166,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "c3a490c16b36ce2967d4baf0a84c5c92936119cc639d525d282439cb78c33d070f",
-      "seqno": 7,
-      "payload_hash": "0f5675731a3f7b882cfa33422937e07a4a54a28e7b80df2adf7d7d3b88944a9f"
+      "sig_id": "761a56c6f7e0a974582bea288a4da215acced66fbf2a6245b26b5fd7628d35ae0f",
+      "seqno": 14,
+      "payload_hash": "a26db3a5cabb7272afb6cdb47b299530d57723b3293e7c8e828d2554ab1c957f"
     }
   },
   "devices": {
-    "2c471607c60287907fd72f20c9732f18": {
-      "type": "backup",
-      "ctime": 1454553881,
-      "mtime": 1454553881,
-      "name": "avoid ancient",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120984bf99b41d224712251c92bb1d500f18152ee89aa9b742e6f8c3a65cc85fb750a",
-          "key_role": 1,
-          "sig_id": "1d57c240d7e0fc87e3e9f821bf9eff8067cde8312d8a893c3fc0a1aab8e11d480f"
-        },
-        {
-          "kid": "012183154390917cf5f485d549f250cd49a97d53fb5a7de4a67e9be7f9334b8b764a0a",
-          "key_role": 2,
-          "sig_id": "c3a490c16b36ce2967d4baf0a84c5c92936119cc639d525d282439cb78c33d070f"
-        }
-      ]
-    },
-    "8e2ae877c45edc7a6cb2d466141a3218": {
+    "7b2b13f5c3155156fcdbff9f2c285018": {
       "type": "desktop",
-      "ctime": 1454553880,
-      "mtime": 1454553880,
-      "name": "mba",
+      "ctime": 1501607212,
+      "mtime": 1501607212,
+      "name": "mbp",
       "status": 1,
       "keys": [
         {
-          "kid": "012041a07b48e935fd9733fee12ae5429a3b9cc45dcb80a41debda80483eac202e1b0a",
+          "kid": "012077cc0ed31c8c0fada3a9b50c86014676c565d3e6fb1d572992fdf358a820ef6c0a",
           "key_role": 1,
-          "sig_id": "fcd01c8b66beb712c0a261ea1457e08dae91e87e3d950b1a5f0a9d3d07dd27190f"
+          "sig_id": "6c971fd39293620c91e877907d4964bbf0a232f566e2b1be706f9bcc5e458bf50f"
         },
         {
-          "kid": "0121d5a30ff32537d6f6ace02be9c542236995b0523daa1b653cd1054d0da91189080a",
+          "kid": "0121f5876b644e206017f3b3f856862a54ae90766e2615fdb22d6faaffd14a517c280a",
           "key_role": 2,
-          "sig_id": "cdb2c3d207e42b0a889d0b564634437efcf4f7bc76e22d6616090a60f0c863040f"
+          "sig_id": "79cc54e2f7635480ec4d4e56ddcf4b4e0c5a85a1ceb54bc70670b751948afdaf0f"
         }
       ]
     }
