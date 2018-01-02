@@ -4,16 +4,17 @@
     "username": "bretterer",
     "ctime": 1454697563,
     "mtime": 1454697563,
-    "id_version": 32,
-    "track_version": 1,
-    "last_id_change": 1473726592,
-    "username_cased": "bretterer"
+    "id_version": 45,
+    "track_version": 4,
+    "last_id_change": 1504643971,
+    "username_cased": "bretterer",
+    "status": 0
   },
   "profile": {
-    "mtime": 1454699467,
+    "mtime": 1504643848,
     "full_name": "Brian Retterer",
     "location": "Dayton, Ohio",
-    "bio": "PHP Developer Evangelist @ Stormpath"
+    "bio": "PHP Developer Advocate @ Okta"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +39,18 @@
       "012014b7611cdd606dc68f1dfd156fc0effef5c004498e754fe14369b0e210cef1a80a",
       "01210085c00b47a194831e3ea12e82ea38a6cff2447b8dfab0ca5efc4778b6f09a710a",
       "0120d1b5483a836e07fa7ad72f1210e8b9b66aa16be487e500bdf0de8a6586f289080a",
-      "01211ce72ad8654faade0ca84deb02969222c9cf25475e0111d10de6f15831e0da7e0a"
+      "01211ce72ad8654faade0ca84deb02969222c9cf25475e0111d10de6f15831e0da7e0a",
+      "012000ba029eb9660a85f73eb91ffa5b8dac47e6288c6655f3b1583e462b662c38f50a",
+      "0121da4bbb21bafc58bb77bdcfb5298af3b22e570ba1ea32558b80159bb1c16c0e7e0a"
     ],
     "subkeys": [
-      "01210085c00b47a194831e3ea12e82ea38a6cff2447b8dfab0ca5efc4778b6f09a710a",
-      "01211ce72ad8654faade0ca84deb02969222c9cf25475e0111d10de6f15831e0da7e0a"
+      "01211ce72ad8654faade0ca84deb02969222c9cf25475e0111d10de6f15831e0da7e0a",
+      "0121da4bbb21bafc58bb77bdcfb5298af3b22e570ba1ea32558b80159bb1c16c0e7e0a"
     ],
     "sibkeys": [
       "010108e362667c32baaa251940aa601c353ca446405dc122e9b065e65a2ad4de57910a",
-      "012014b7611cdd606dc68f1dfd156fc0effef5c004498e754fe14369b0e210cef1a80a",
-      "0120d1b5483a836e07fa7ad72f1210e8b9b66aa16be487e500bdf0de8a6586f289080a"
+      "0120d1b5483a836e07fa7ad72f1210e8b9b66aa16be487e500bdf0de8a6586f289080a",
+      "012000ba029eb9660a85f73eb91ffa5b8dac47e6288c6655f3b1583e462b662c38f50a"
     ],
     "families": {
       "010108e362667c32baaa251940aa601c353ca446405dc122e9b065e65a2ad4de57910a": [
@@ -55,7 +58,9 @@
         "012014b7611cdd606dc68f1dfd156fc0effef5c004498e754fe14369b0e210cef1a80a",
         "01210085c00b47a194831e3ea12e82ea38a6cff2447b8dfab0ca5efc4778b6f09a710a",
         "0120d1b5483a836e07fa7ad72f1210e8b9b66aa16be487e500bdf0de8a6586f289080a",
-        "01211ce72ad8654faade0ca84deb02969222c9cf25475e0111d10de6f15831e0da7e0a"
+        "01211ce72ad8654faade0ca84deb02969222c9cf25475e0111d10de6f15831e0da7e0a",
+        "012000ba029eb9660a85f73eb91ffa5b8dac47e6288c6655f3b1583e462b662c38f50a",
+        "0121da4bbb21bafc58bb77bdcfb5298af3b22e570ba1ea32558b80159bb1c16c0e7e0a"
       ]
     },
     "eldest_kid": "010108e362667c32baaa251940aa601c353ca446405dc122e9b065e65a2ad4de57910a",
@@ -108,20 +113,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "bretterer",
-          "state": 1,
-          "proof_url": "https://coinbase.com/bretterer/public-key",
-          "sig_id": "5b3ebd947860102abab38d94b69e822cdedfb1ec214bcf2e7322607a8347695a0f",
-          "proof_id": "ee7aa2edf6edf70478631c10",
-          "human_url": "https://coinbase.com/bretterer/public-key",
-          "service_url": "https://coinbase.com/bretterer",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -134,6 +125,20 @@
           "service_url": "https://news.ycombinator.com/user?id=lamarus",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "bretterer",
+          "state": 1,
+          "proof_url": "https://www.facebook.com/bretterer/posts/10100387855207211",
+          "sig_id": "4a38142efe2d054e671d81da65855adcf27671b0e3a0578e52e12f08adb9d89a0f",
+          "proof_id": "973954c86344fd03051e0f10",
+          "human_url": "https://www.facebook.com/bretterer/posts/10100387855207211",
+          "service_url": "https://www.facebook.com/bretterer",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "dns": [
@@ -194,20 +199,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "bretterer",
-          "state": 1,
-          "proof_url": "https://coinbase.com/bretterer/public-key",
-          "sig_id": "5b3ebd947860102abab38d94b69e822cdedfb1ec214bcf2e7322607a8347695a0f",
-          "proof_id": "ee7aa2edf6edf70478631c10",
-          "human_url": "https://coinbase.com/bretterer/public-key",
-          "service_url": "https://coinbase.com/bretterer",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -220,6 +211,20 @@
           "service_url": "https://news.ycombinator.com/user?id=lamarus",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "bretterer",
+          "state": 1,
+          "proof_url": "https://www.facebook.com/bretterer/posts/10100387855207211",
+          "sig_id": "4a38142efe2d054e671d81da65855adcf27671b0e3a0578e52e12f08adb9d89a0f",
+          "proof_id": "973954c86344fd03051e0f10",
+          "human_url": "https://www.facebook.com/bretterer/posts/10100387855207211",
+          "service_url": "https://www.facebook.com/bretterer",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "brianretterer.com": [
@@ -275,18 +280,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "bretterer",
-        "state": 1,
-        "proof_url": "https://coinbase.com/bretterer/public-key",
-        "sig_id": "5b3ebd947860102abab38d94b69e822cdedfb1ec214bcf2e7322607a8347695a0f",
-        "proof_id": "ee7aa2edf6edf70478631c10",
-        "human_url": "https://coinbase.com/bretterer/public-key",
-        "service_url": "https://coinbase.com/bretterer",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "lamarus",
         "state": 1,
@@ -297,6 +290,18 @@
         "service_url": "https://news.ycombinator.com/user?id=lamarus",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "bretterer",
+        "state": 1,
+        "proof_url": "https://www.facebook.com/bretterer/posts/10100387855207211",
+        "sig_id": "4a38142efe2d054e671d81da65855adcf27671b0e3a0578e52e12f08adb9d89a0f",
+        "proof_id": "973954c86344fd03051e0f10",
+        "human_url": "https://www.facebook.com/bretterer/posts/10100387855207211",
+        "service_url": "https://www.facebook.com/bretterer",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -322,7 +327,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f4868a87a4b867035a98f542122a6705_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/5df07c43b5c5b348c459a8ebed97c505_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -330,28 +335,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "9fd713087e05ea270f42db5585993c1e5bd0c944f7e971e34034035fe60b93250f",
-      "seqno": 15,
-      "payload_hash": "37cbb45c609ce9ee8161f18a77831b541ec3a3e8dbec2d5e660cf22403d9a0c0"
+      "sig_id": "875cdc4fd1a7b60cf0b31fd9e8388f0d73e358ef1c34446fa4e0ddf3618e72870f",
+      "seqno": 23,
+      "payload_hash": "a8d0acab5f961e572eadfae1733509fb0e3d13d211a29f0361a1232c84c72c7e"
     }
   },
   "devices": {
-    "9f035c7e2d21bc105934a06220a0d718": {
+    "15eddd35b71f083d3a7ea2aecfb0e818": {
       "type": "desktop",
-      "ctime": 1454697820,
-      "mtime": 1454697820,
-      "name": "MacBook Pro",
+      "ctime": 1504643796,
+      "mtime": 1504643796,
+      "name": "Okta Macbook Pro",
       "status": 1,
       "keys": [
         {
-          "kid": "012014b7611cdd606dc68f1dfd156fc0effef5c004498e754fe14369b0e210cef1a80a",
+          "kid": "012000ba029eb9660a85f73eb91ffa5b8dac47e6288c6655f3b1583e462b662c38f50a",
           "key_role": 1,
-          "sig_id": "6844ecc0cbf50c69f163223665ef5608898026b5878a01bd5cd648f3444a2a100f"
+          "sig_id": "816c61647b44fa75cc86e2d594642944b481442887d014561b1353d5b70e39c80f"
         },
         {
-          "kid": "01210085c00b47a194831e3ea12e82ea38a6cff2447b8dfab0ca5efc4778b6f09a710a",
+          "kid": "0121da4bbb21bafc58bb77bdcfb5298af3b22e570ba1ea32558b80159bb1c16c0e7e0a",
           "key_role": 2,
-          "sig_id": "f9bd43c97e14333c0355f71f3feeb2ef3f426b1ff959122ed67f4a24374957560f"
+          "sig_id": "7d4d063782e5c379ff58825755df0e0ffdc871e158dd80ae80a0c60664fc8f0f0f"
         }
       ]
     },
