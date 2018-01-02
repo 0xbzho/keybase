@@ -1,0 +1,93 @@
+{
+  "id": "b085e14fd7ff4b4153e24f50211bf519",
+  "basics": {
+    "username": "podgod",
+    "ctime": 1504005992,
+    "mtime": 1504005992,
+    "id_version": 2,
+    "track_version": 10,
+    "last_id_change": 1504570095,
+    "username_cased": "podgod",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "01213a77fd24f4d5f04b4119afcfcebb88dc517a71679c033c8d0306995636b7d3790a",
+      "01201526ecf74f9ad16121f4c4ddc284bebb0b2e9b6ed521c5b272a14b761b092ad60a",
+      "0120f13a01ac3cbb7591eb70b2eb9bae68f2fe9e36df17a5850066738d032f19cbb30a",
+      "0121450c888d80144af2f2883fa7e5aa6b543a7d0fe20e3fe9ac0f60b446ef87a9510a"
+    ],
+    "subkeys": [
+      "01213a77fd24f4d5f04b4119afcfcebb88dc517a71679c033c8d0306995636b7d3790a",
+      "0121450c888d80144af2f2883fa7e5aa6b543a7d0fe20e3fe9ac0f60b446ef87a9510a"
+    ],
+    "sibkeys": [
+      "01201526ecf74f9ad16121f4c4ddc284bebb0b2e9b6ed521c5b272a14b761b092ad60a",
+      "0120f13a01ac3cbb7591eb70b2eb9bae68f2fe9e36df17a5850066738d032f19cbb30a"
+    ],
+    "families": {
+      "01201526ecf74f9ad16121f4c4ddc284bebb0b2e9b6ed521c5b272a14b761b092ad60a": [
+        "01213a77fd24f4d5f04b4119afcfcebb88dc517a71679c033c8d0306995636b7d3790a",
+        "01201526ecf74f9ad16121f4c4ddc284bebb0b2e9b6ed521c5b272a14b761b092ad60a",
+        "0120f13a01ac3cbb7591eb70b2eb9bae68f2fe9e36df17a5850066738d032f19cbb30a",
+        "0121450c888d80144af2f2883fa7e5aa6b543a7d0fe20e3fe9ac0f60b446ef87a9510a"
+      ]
+    },
+    "eldest_kid": "01201526ecf74f9ad16121f4c4ddc284bebb0b2e9b6ed521c5b272a14b761b092ad60a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "b1cbe7858fcaccd9928536353e5a2ce426559fe9f39438061053657dc923f8430f",
+      "seqno": 15,
+      "payload_hash": "ad2790724ff5b3ce9f4144615ec6648ca4bd3e26cb17b0f70d0ab96ec37b9ec9"
+    }
+  },
+  "devices": {
+    "88868fd89830a21c86f520859defee18": {
+      "type": "mobile",
+      "ctime": 1504005993,
+      "mtime": 1504005993,
+      "name": "Mobile Device",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201526ecf74f9ad16121f4c4ddc284bebb0b2e9b6ed521c5b272a14b761b092ad60a",
+          "key_role": 1,
+          "sig_id": "e91cbebc04468e812ea7a038fe9c6330bf982ecfaf135ab375fcd4624107b4d20f"
+        },
+        {
+          "kid": "01213a77fd24f4d5f04b4119afcfcebb88dc517a71679c033c8d0306995636b7d3790a",
+          "key_role": 2,
+          "sig_id": "2e901ac6f6190e324739e4e37930e74c20334ded02969106b7c448d1222088a90f"
+        }
+      ]
+    },
+    "f581b10874af4615dbde523518821618": {
+      "type": "desktop",
+      "ctime": 1504570095,
+      "mtime": 1504570095,
+      "name": "Laptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120f13a01ac3cbb7591eb70b2eb9bae68f2fe9e36df17a5850066738d032f19cbb30a",
+          "key_role": 1,
+          "sig_id": "afa09c42ce3a5b0ce6f46ccfeb1a6eced605f7b7fb933a20cc2059a69576248e0f"
+        },
+        {
+          "kid": "0121450c888d80144af2f2883fa7e5aa6b543a7d0fe20e3fe9ac0f60b446ef87a9510a",
+          "key_role": 2,
+          "sig_id": "b1cbe7858fcaccd9928536353e5a2ce426559fe9f39438061053657dc923f8430f"
+        }
+      ]
+    }
+  }
+}
