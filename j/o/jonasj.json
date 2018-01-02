@@ -4,10 +4,11 @@
     "username": "jonasj",
     "ctime": 1423489557,
     "mtime": 1423489557,
-    "id_version": 39,
+    "id_version": 44,
     "track_version": 10,
-    "last_id_change": 1470961647,
-    "username_cased": "jonasj"
+    "last_id_change": 1506858531,
+    "username_cased": "jonasj",
+    "status": 0
   },
   "profile": {
     "mtime": 1423500878,
@@ -38,16 +39,18 @@
       "01214a0f4304cadcc51136bdd20d79b54f2456f67ab02e7049a4ffef5559dd95490e0a",
       "012071ffad3914fa815dafb94e30abc398127a73a4beb09d38e858961c304eba1fcd0a",
       "0121f6fc80c02ce031cefe57c02892a18a1db8914c47b8d08577c14a369ee9d590600a",
-      "01206264b239da1649f8c60cfa161cf2244439d13c756cf41e32ae8dbcfe578cb3540a"
+      "01206264b239da1649f8c60cfa161cf2244439d13c756cf41e32ae8dbcfe578cb3540a",
+      "012154d8c07e77c8b185a813fca051932bfa4c4c9dbfda0c0bfb585dbbea832dbb0b0a",
+      "01204617b3d8c129f593261ae90280c83650bd634c854f260b49e1630066acd8ff0b0a"
     ],
     "subkeys": [
-      "01214a0f4304cadcc51136bdd20d79b54f2456f67ab02e7049a4ffef5559dd95490e0a",
-      "0121f6fc80c02ce031cefe57c02892a18a1db8914c47b8d08577c14a369ee9d590600a"
+      "0121f6fc80c02ce031cefe57c02892a18a1db8914c47b8d08577c14a369ee9d590600a",
+      "012154d8c07e77c8b185a813fca051932bfa4c4c9dbfda0c0bfb585dbbea832dbb0b0a"
     ],
     "sibkeys": [
       "0101338b6d33034e1d5fa02551b717a3026c2f62fefad40db8b52d235550a85192460a",
-      "012071ffad3914fa815dafb94e30abc398127a73a4beb09d38e858961c304eba1fcd0a",
-      "01206264b239da1649f8c60cfa161cf2244439d13c756cf41e32ae8dbcfe578cb3540a"
+      "01206264b239da1649f8c60cfa161cf2244439d13c756cf41e32ae8dbcfe578cb3540a",
+      "01204617b3d8c129f593261ae90280c83650bd634c854f260b49e1630066acd8ff0b0a"
     ],
     "families": {
       "0101338b6d33034e1d5fa02551b717a3026c2f62fefad40db8b52d235550a85192460a": [
@@ -55,7 +58,9 @@
         "01214a0f4304cadcc51136bdd20d79b54f2456f67ab02e7049a4ffef5559dd95490e0a",
         "012071ffad3914fa815dafb94e30abc398127a73a4beb09d38e858961c304eba1fcd0a",
         "0121f6fc80c02ce031cefe57c02892a18a1db8914c47b8d08577c14a369ee9d590600a",
-        "01206264b239da1649f8c60cfa161cf2244439d13c756cf41e32ae8dbcfe578cb3540a"
+        "01206264b239da1649f8c60cfa161cf2244439d13c756cf41e32ae8dbcfe578cb3540a",
+        "012154d8c07e77c8b185a813fca051932bfa4c4c9dbfda0c0bfb585dbbea832dbb0b0a",
+        "01204617b3d8c129f593261ae90280c83650bd634c854f260b49e1630066acd8ff0b0a"
       ]
     },
     "eldest_kid": "0101338b6d33034e1d5fa02551b717a3026c2f62fefad40db8b52d235550a85192460a",
@@ -203,9 +208,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "39c063b748686fd33e8664b6fc0901eba85817ab8d23a19f92d495ffce72dc810f",
-      "seqno": 19,
-      "payload_hash": "5cba7179b47170f44930d2eb7900070f2e65481f6c854940bf8de17410a5d1fe"
+      "sig_id": "b2737b10326a8406cb78492da3a46df5c875aaa5eb0f108ace72030d53e5d3eb0f",
+      "seqno": 24,
+      "payload_hash": "5dd55a71c496bf1148865e342b03da7a2a5b2f18be657efc7f418f5bef321ac3"
     }
   },
   "devices": {
@@ -228,22 +233,22 @@
         }
       ]
     },
-    "616d20a836d69822f5b75e649c34b218": {
+    "fc46ee2a82f13c97b82c6f185e490018": {
       "type": "desktop",
-      "ctime": 1454333725,
-      "mtime": 1454333725,
-      "name": "jonas-ThinkPad-T440s",
+      "ctime": 1506858531,
+      "mtime": 1506858531,
+      "name": "MacBook Pro",
       "status": 1,
       "keys": [
         {
-          "kid": "012071ffad3914fa815dafb94e30abc398127a73a4beb09d38e858961c304eba1fcd0a",
+          "kid": "01204617b3d8c129f593261ae90280c83650bd634c854f260b49e1630066acd8ff0b0a",
           "key_role": 1,
-          "sig_id": "f494d4e6b8a562c17907c8d6bb0d67ff96b1b2125771e66e107e8e9f19e92c600f"
+          "sig_id": "842ae7ee9872f2cdc9969336c0f0d0d41a2c49d90b75f583534b51d871f968770f"
         },
         {
-          "kid": "01214a0f4304cadcc51136bdd20d79b54f2456f67ab02e7049a4ffef5559dd95490e0a",
+          "kid": "012154d8c07e77c8b185a813fca051932bfa4c4c9dbfda0c0bfb585dbbea832dbb0b0a",
           "key_role": 2,
-          "sig_id": "59d373e3ff45af1413c7f846b5a79dc5535cc59314f8b7e1e7ddb38d9256f9390f"
+          "sig_id": "0732c1c535a122d4e16314e43de13d12f9ef7684434584db87a338d7d4acc43f0f"
         }
       ]
     }
