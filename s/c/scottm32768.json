@@ -4,10 +4,11 @@
     "username": "scottm32768",
     "ctime": 1447882611,
     "mtime": 1447882611,
-    "id_version": 19,
-    "track_version": 23,
-    "last_id_change": 1469474682,
-    "username_cased": "scottm32768"
+    "id_version": 30,
+    "track_version": 24,
+    "last_id_change": 1509444625,
+    "username_cased": "scottm32768",
+    "status": 0
   },
   "profile": {
     "mtime": 1455742124,
@@ -40,18 +41,22 @@
       "012151fe33329231c1e1e0893a728628d261260324f0b81c79bc75e14925f1bfb1270a",
       "0120ecf08cf15521b5d047c54df238a54203807df5bee2744f35b8e1f8abbd9b75e10a",
       "012153e4e61ca60d98543c5c7cc1f116b30eb08a931be233e36b583e3bec2cd0b8340a",
-      "0120dda20f92d82205faab35985e474398dcf1d622aa50c06e747b40ba62d7679bab0a"
+      "0120dda20f92d82205faab35985e474398dcf1d622aa50c06e747b40ba62d7679bab0a",
+      "012017f88bb834dab75dbf33534b43b494233c0c723bc73960158f48e14cb135435a0a",
+      "0121ed7ce433e67f3750263600ca81111f585dad2098406643305ca366855512582f0a"
     ],
     "subkeys": [
       "012162fbcd31f143db3d266dd0876a23fc783d77ec3c306471094a85161d86d6212d0a",
       "012151fe33329231c1e1e0893a728628d261260324f0b81c79bc75e14925f1bfb1270a",
-      "012153e4e61ca60d98543c5c7cc1f116b30eb08a931be233e36b583e3bec2cd0b8340a"
+      "012153e4e61ca60d98543c5c7cc1f116b30eb08a931be233e36b583e3bec2cd0b8340a",
+      "0121ed7ce433e67f3750263600ca81111f585dad2098406643305ca366855512582f0a"
     ],
     "sibkeys": [
       "0101e1c2b8d43828f3d09dcbd841e038484bc5bebe66e691ff19a739f888030f3c180a",
       "0120ae94cdffa48a268eecfa868853dd1ce24ede8cb5fa0c2153d14128d9dc90f0070a",
       "0120ecf08cf15521b5d047c54df238a54203807df5bee2744f35b8e1f8abbd9b75e10a",
-      "0120dda20f92d82205faab35985e474398dcf1d622aa50c06e747b40ba62d7679bab0a"
+      "0120dda20f92d82205faab35985e474398dcf1d622aa50c06e747b40ba62d7679bab0a",
+      "012017f88bb834dab75dbf33534b43b494233c0c723bc73960158f48e14cb135435a0a"
     ],
     "families": {
       "0101e1c2b8d43828f3d09dcbd841e038484bc5bebe66e691ff19a739f888030f3c180a": [
@@ -61,7 +66,9 @@
         "012151fe33329231c1e1e0893a728628d261260324f0b81c79bc75e14925f1bfb1270a",
         "0120ecf08cf15521b5d047c54df238a54203807df5bee2744f35b8e1f8abbd9b75e10a",
         "012153e4e61ca60d98543c5c7cc1f116b30eb08a931be233e36b583e3bec2cd0b8340a",
-        "0120dda20f92d82205faab35985e474398dcf1d622aa50c06e747b40ba62d7679bab0a"
+        "0120dda20f92d82205faab35985e474398dcf1d622aa50c06e747b40ba62d7679bab0a",
+        "012017f88bb834dab75dbf33534b43b494233c0c723bc73960158f48e14cb135435a0a",
+        "0121ed7ce433e67f3750263600ca81111f585dad2098406643305ca366855512582f0a"
       ]
     },
     "eldest_kid": "0101e1c2b8d43828f3d09dcbd841e038484bc5bebe66e691ff19a739f888030f3c180a",
@@ -248,7 +255,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/1c195cb73392817c137eed4c081c5c05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e68ab0639c104efb4f888cee21a76305_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -256,12 +263,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "fbab3094b51585164c91354b5bfce847b0d331650f0bb9a30b2000706b0ba0170f",
-      "seqno": 37,
-      "payload_hash": "61525f7b91a341c68a3aeb69259a32e0d5dbd890e1d7400efdf06bddaf39d55e"
+      "sig_id": "300fe49bd12cd6d35799a5a4c543ec32b03323df316e1a60dd395fbda6ab180a0f",
+      "seqno": 41,
+      "payload_hash": "671448fe64a4b0d853ea45bff93591f9c44abbe590de9f84940979e16dfb10fe"
     }
   },
   "devices": {
+    "8024b3312993014075ab6c8aba2eb918": {
+      "type": "desktop",
+      "ctime": 1505755985,
+      "mtime": 1505755985,
+      "name": "2015rMBP",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012017f88bb834dab75dbf33534b43b494233c0c723bc73960158f48e14cb135435a0a",
+          "key_role": 1,
+          "sig_id": "e54938068fd249e824372d5ebee4664e3a2fef1f280df947e8282b70708405110f"
+        },
+        {
+          "kid": "0121ed7ce433e67f3750263600ca81111f585dad2098406643305ca366855512582f0a",
+          "key_role": 2,
+          "sig_id": "d4c5a10296d717e0fd94f362dd218e6e5c85a18952d1bba03efd578141aa30ad0f"
+        }
+      ]
+    },
     "b75b30067b5b0ead763f031010f20718": {
       "type": "desktop",
       "ctime": 1455764461,
@@ -302,8 +328,8 @@
     },
     "ecbf745a29dddd1d042ed9d538bed618": {
       "type": "desktop",
-      "ctime": 1469474682,
-      "mtime": 1469474682,
+      "ctime": 1469478282,
+      "mtime": 1469478282,
       "name": "Scott's Mac Mini",
       "status": 1,
       "keys": [
