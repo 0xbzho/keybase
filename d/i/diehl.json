@@ -4,15 +4,16 @@
     "username": "diehl",
     "ctime": 1425011848,
     "mtime": 1425011848,
-    "id_version": 8,
-    "track_version": 7,
-    "last_id_change": 1464772072,
-    "username_cased": "diehl"
+    "id_version": 10,
+    "track_version": 20,
+    "last_id_change": 1496507456,
+    "username_cased": "diehl",
+    "status": 0
   },
   "profile": {
-    "mtime": 1425012058,
+    "mtime": 1487784966,
     "full_name": "Chris Diehl",
-    "location": "Menlo Park, CA",
+    "location": "San Francisco Bay Area",
     "bio": "principal and co-founder @DataGuild. adventure seeker, world traveler. broadly interested in human-machine systems to enhance resilience in an uncertain world."
   },
   "public_keys": {
@@ -38,16 +39,22 @@
       "0120835dadae816d9bd63e5e2d584c2d3e7fdafd68fc0d07be6a296709af3b947b330a",
       "0121dbc4ac0827435e722dbe15d0ccda1cabf96c59055023a75960e4840744aa28770a",
       "01214a893a672701450b8a5827f2b3c114dedef66700a6afc38c6094fa16893070530a",
-      "01209ceb3a7a8e420f924015611f0d65d71feff216e715860ed9475ea81276c08f6e0a"
+      "01209ceb3a7a8e420f924015611f0d65d71feff216e715860ed9475ea81276c08f6e0a",
+      "0120b910af18cbe40ebe573be9190e647fa3d083c207bed4dc8c71a77cf62790a0df0a",
+      "01213f22486a0db75d43b2717b5744bad80734b03aec4ce119679152117d221f5c5f0a",
+      "01211b46c3f2766801b73f5d0f93f28f5fe09fb47c7cf4d0fcdd4704f8553957730a0a",
+      "0120e3d81f988812af361a3eefffc906027ff9b2689efff8410f3ef7e68b8a582c860a"
     ],
     "subkeys": [
-      "0121dbc4ac0827435e722dbe15d0ccda1cabf96c59055023a75960e4840744aa28770a",
-      "01214a893a672701450b8a5827f2b3c114dedef66700a6afc38c6094fa16893070530a"
+      "01214a893a672701450b8a5827f2b3c114dedef66700a6afc38c6094fa16893070530a",
+      "01213f22486a0db75d43b2717b5744bad80734b03aec4ce119679152117d221f5c5f0a",
+      "01211b46c3f2766801b73f5d0f93f28f5fe09fb47c7cf4d0fcdd4704f8553957730a0a"
     ],
     "sibkeys": [
       "01012f027813d6912bf9b3b2a55dfeb4f8b9a1c213edba852a25dc1f92ced26598190a",
-      "0120835dadae816d9bd63e5e2d584c2d3e7fdafd68fc0d07be6a296709af3b947b330a",
-      "01209ceb3a7a8e420f924015611f0d65d71feff216e715860ed9475ea81276c08f6e0a"
+      "01209ceb3a7a8e420f924015611f0d65d71feff216e715860ed9475ea81276c08f6e0a",
+      "0120b910af18cbe40ebe573be9190e647fa3d083c207bed4dc8c71a77cf62790a0df0a",
+      "0120e3d81f988812af361a3eefffc906027ff9b2689efff8410f3ef7e68b8a582c860a"
     ],
     "families": {
       "01012f027813d6912bf9b3b2a55dfeb4f8b9a1c213edba852a25dc1f92ced26598190a": [
@@ -55,7 +62,11 @@
         "0120835dadae816d9bd63e5e2d584c2d3e7fdafd68fc0d07be6a296709af3b947b330a",
         "0121dbc4ac0827435e722dbe15d0ccda1cabf96c59055023a75960e4840744aa28770a",
         "01214a893a672701450b8a5827f2b3c114dedef66700a6afc38c6094fa16893070530a",
-        "01209ceb3a7a8e420f924015611f0d65d71feff216e715860ed9475ea81276c08f6e0a"
+        "01209ceb3a7a8e420f924015611f0d65d71feff216e715860ed9475ea81276c08f6e0a",
+        "0120b910af18cbe40ebe573be9190e647fa3d083c207bed4dc8c71a77cf62790a0df0a",
+        "01213f22486a0db75d43b2717b5744bad80734b03aec4ce119679152117d221f5c5f0a",
+        "01211b46c3f2766801b73f5d0f93f28f5fe09fb47c7cf4d0fcdd4704f8553957730a0a",
+        "0120e3d81f988812af361a3eefffc906027ff9b2689efff8410f3ef7e68b8a582c860a"
       ]
     },
     "eldest_kid": "01012f027813d6912bf9b3b2a55dfeb4f8b9a1c213edba852a25dc1f92ced26598190a",
@@ -163,16 +174,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "55b6c87277ae48efb54a5a8c6c4928e38ffd1227f58a2c87519136336ec375480f",
-      "seqno": 13,
-      "payload_hash": "528b63accae9cf4a7dc83ad132571801cf51ef13da89ed0aa5a8debbfd15db3c"
+      "sig_id": "ebfa383317842b445500ed9bb058d5b9f4e1caee26e84b9a9b5b12a0ad4c9d530f",
+      "seqno": 32,
+      "payload_hash": "da4bbd538251a26ba8fd8a50eae9038c118215bea237142a4157e84a29c681f4"
     }
   },
   "devices": {
     "391b1576adab095dda152c513075bf18": {
       "type": "backup",
-      "ctime": 1464772072,
-      "mtime": 1464772072,
+      "ctime": 1464775672,
+      "mtime": 1464775672,
       "name": "cabbage acid",
       "status": 1,
       "keys": [
@@ -188,22 +199,41 @@
         }
       ]
     },
-    "6a9ac3d2d716487416891f5fdd566618": {
-      "type": "desktop",
-      "ctime": 1464772070,
-      "mtime": 1464772070,
-      "name": "macbook-air",
+    "7419595ce9b73dbc751b101f8badec18": {
+      "type": "mobile",
+      "ctime": 1496507456,
+      "mtime": 1496507456,
+      "name": "iPhone",
       "status": 1,
       "keys": [
         {
-          "kid": "0120835dadae816d9bd63e5e2d584c2d3e7fdafd68fc0d07be6a296709af3b947b330a",
+          "kid": "0120e3d81f988812af361a3eefffc906027ff9b2689efff8410f3ef7e68b8a582c860a",
           "key_role": 1,
-          "sig_id": "08ed3655abd702883d81b07463e2921f34b553b92038c29adcd030fb00915e170f"
+          "sig_id": "9fa9da43458923d5ac543a3227d840f096283c9ba2acbb2a426d74207a4ea1f50f"
         },
         {
-          "kid": "0121dbc4ac0827435e722dbe15d0ccda1cabf96c59055023a75960e4840744aa28770a",
+          "kid": "01211b46c3f2766801b73f5d0f93f28f5fe09fb47c7cf4d0fcdd4704f8553957730a0a",
           "key_role": 2,
-          "sig_id": "6ec833b6c2607908c212a4015407d88bcc21b2aa6e67f1236c27c883a989d8d00f"
+          "sig_id": "4b7c5253059c0b5420523b54f5143ae6f1a1e3c6566548b6a00f64d89c8151230f"
+        }
+      ]
+    },
+    "8c0dae5b2ddade1df611f3609d0dab18": {
+      "type": "desktop",
+      "ctime": 1487748153,
+      "mtime": 1487748153,
+      "name": "MacBook Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b910af18cbe40ebe573be9190e647fa3d083c207bed4dc8c71a77cf62790a0df0a",
+          "key_role": 1,
+          "sig_id": "24d1363da0d716583fcf17d646375e4df51fdfa39c00a1faeb5a31ea9cd0afca0f"
+        },
+        {
+          "kid": "01213f22486a0db75d43b2717b5744bad80734b03aec4ce119679152117d221f5c5f0a",
+          "key_role": 2,
+          "sig_id": "ec385ee90e5e30f0c002384d684920918baedfe419549ba5cb5cbab7416efe960f"
         }
       ]
     }
