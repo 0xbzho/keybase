@@ -4,16 +4,17 @@
     "username": "magnethy",
     "ctime": 1421932483,
     "mtime": 1421932483,
-    "id_version": 15,
-    "track_version": 3,
-    "last_id_change": 1472718216,
-    "username_cased": "magnethy"
+    "id_version": 17,
+    "track_version": 5,
+    "last_id_change": 1498634852,
+    "username_cased": "magnethy",
+    "status": 0
   },
   "profile": {
-    "mtime": 1474293661,
+    "mtime": 1498634957,
     "full_name": "Magne Thyrhaug",
-    "location": "Ramberg, Lofoten, Norway",
-    "bio": "Software developer & surfer hippie bum"
+    "location": "Oslo, Norway",
+    "bio": null
   },
   "public_keys": {
     "primary": {
@@ -38,16 +39,20 @@
       "012020089d0ee25a9de1dfe5dc8617e4df29d713aa28824dbdf121f9f4ebaee95c190a",
       "0121d39b6e48f0ff5d41534da3f638ba3a7bd1f6929a849b5887763ba4a519e075000a",
       "01204603ddb34ad06460511e3af78adc06996a58b1b4e42622857eace5631cacd78a0a",
-      "012168a23e809dbc1e393d112fc615656306be32421e773b663e58c5c896ae0f0b670a"
+      "012168a23e809dbc1e393d112fc615656306be32421e773b663e58c5c896ae0f0b670a",
+      "0121f5817f2a950da05987891db588fc4453c3c33da787f6d9c2c1521452b1987e460a",
+      "0120a88362d8b56928dc50d18f000c9da261ea42ff1e0ef7b82ef4c309d56570ba9a0a"
     ],
     "subkeys": [
       "0121d39b6e48f0ff5d41534da3f638ba3a7bd1f6929a849b5887763ba4a519e075000a",
-      "012168a23e809dbc1e393d112fc615656306be32421e773b663e58c5c896ae0f0b670a"
+      "012168a23e809dbc1e393d112fc615656306be32421e773b663e58c5c896ae0f0b670a",
+      "0121f5817f2a950da05987891db588fc4453c3c33da787f6d9c2c1521452b1987e460a"
     ],
     "sibkeys": [
       "0101ab6fb124fc4e83a2a9ab0287d731043d95244a48448c1237b547cee2ac45b67c0a",
       "012020089d0ee25a9de1dfe5dc8617e4df29d713aa28824dbdf121f9f4ebaee95c190a",
-      "01204603ddb34ad06460511e3af78adc06996a58b1b4e42622857eace5631cacd78a0a"
+      "01204603ddb34ad06460511e3af78adc06996a58b1b4e42622857eace5631cacd78a0a",
+      "0120a88362d8b56928dc50d18f000c9da261ea42ff1e0ef7b82ef4c309d56570ba9a0a"
     ],
     "families": {
       "0101ab6fb124fc4e83a2a9ab0287d731043d95244a48448c1237b547cee2ac45b67c0a": [
@@ -55,7 +60,9 @@
         "012020089d0ee25a9de1dfe5dc8617e4df29d713aa28824dbdf121f9f4ebaee95c190a",
         "0121d39b6e48f0ff5d41534da3f638ba3a7bd1f6929a849b5887763ba4a519e075000a",
         "01204603ddb34ad06460511e3af78adc06996a58b1b4e42622857eace5631cacd78a0a",
-        "012168a23e809dbc1e393d112fc615656306be32421e773b663e58c5c896ae0f0b670a"
+        "012168a23e809dbc1e393d112fc615656306be32421e773b663e58c5c896ae0f0b670a",
+        "0121f5817f2a950da05987891db588fc4453c3c33da787f6d9c2c1521452b1987e460a",
+        "0120a88362d8b56928dc50d18f000c9da261ea42ff1e0ef7b82ef4c309d56570ba9a0a"
       ]
     },
     "eldest_kid": "0101ab6fb124fc4e83a2a9ab0287d731043d95244a48448c1237b547cee2ac45b67c0a",
@@ -115,7 +122,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/9ac2ae02730ad84a8576a49e84f9f705_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/b26196dd85eff4925ad291959c259c05_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -123,16 +130,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "47f88c9d3ab810d53a9bc30068760b7aa6f999c955652ed09ae0f714b11327470f",
-      "seqno": 11,
-      "payload_hash": "6a1a0a14c908012891d92bc9528763364fae05d64799f7712451ab953cbcb957"
+      "sig_id": "d4113560c5b8c37a50e527ffc92bc4dcc6ec2bc7e0738f21bcf7935ce9118c940f",
+      "seqno": 17,
+      "payload_hash": "e0389471ed9ac6ed415fec0a6d1383362254f837dcd56e6e905a13c89e3980da"
     }
   },
   "devices": {
     "45b7c05c398a615cdcd364f006eecb18": {
       "type": "backup",
-      "ctime": 1472718216,
-      "mtime": 1472718216,
+      "ctime": 1472721816,
+      "mtime": 1472721816,
       "name": "vintage glimpse",
       "status": 1,
       "keys": [
@@ -148,10 +155,29 @@
         }
       ]
     },
+    "9ea34692fdddc992ee4d8c9f27267918": {
+      "type": "mobile",
+      "ctime": 1498634852,
+      "mtime": 1498634852,
+      "name": "iPhone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a88362d8b56928dc50d18f000c9da261ea42ff1e0ef7b82ef4c309d56570ba9a0a",
+          "key_role": 1,
+          "sig_id": "13bc1957c92cac1fafa5e0b65e20e6dbf6af4876cc24ebe5621c5ec63324c3020f"
+        },
+        {
+          "kid": "0121f5817f2a950da05987891db588fc4453c3c33da787f6d9c2c1521452b1987e460a",
+          "key_role": 2,
+          "sig_id": "2713ceb1e60e62d7c246147c343156de3dd04ae9b69f126dc9166a87e034f65f0f"
+        }
+      ]
+    },
     "f7d9940f495bf7aaf53e93dd35aef018": {
       "type": "desktop",
-      "ctime": 1472718214,
-      "mtime": 1472718214,
+      "ctime": 1472721814,
+      "mtime": 1472721814,
       "name": "macbook air",
       "status": 1,
       "keys": [
