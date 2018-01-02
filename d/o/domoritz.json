@@ -4,10 +4,17 @@
     "username": "domoritz",
     "ctime": 1454651266,
     "mtime": 1454651266,
-    "id_version": 17,
-    "track_version": 14,
-    "last_id_change": 1475881014,
-    "username_cased": "domoritz"
+    "id_version": 41,
+    "track_version": 27,
+    "last_id_change": 1509503320,
+    "username_cased": "domoritz",
+    "status": 0
+  },
+  "profile": {
+    "mtime": 1487656805,
+    "full_name": "Dominik Moritz",
+    "location": "Seattle",
+    "bio": "PhD Student at UW. "
   },
   "public_keys": {
     "primary": {
@@ -32,16 +39,20 @@
       "0121173c282881b65a4dd4807f17d954f425a5416fe98fe07dbfc0bced161e0f94120a",
       "01200b264c11ce4b0cb7431e84f54cacf53eee3796443ee91c29b286bc3b882ac0e00a",
       "012025b247d9292d2ef4a33a819f7d26b6c2436667b28db6824c2f025db06d2ab8c20a",
-      "0121818dd9b5a7f0949e903ac995e77e2154995747b020bf2115e2949b55aca65c640a"
+      "0121818dd9b5a7f0949e903ac995e77e2154995747b020bf2115e2949b55aca65c640a",
+      "0120091b1da39a5eccbdd8ddfb027b1ef614c5be9c44cb40957506ce5d896b4737b40a",
+      "0121316e9edc45c312d04884e09dca903c8e983bb92759e56cb929643dc23dee8f640a",
+      "01219d253c807e608dd45a937ae64bd8492c54300f07c0eb581615c617e2c7bacf220a",
+      "012086ff0d0e624cbf1c8235c3e47de023b533120a0b9218552798fd917fb316ed900a"
     ],
     "subkeys": [
-      "0121173c282881b65a4dd4807f17d954f425a5416fe98fe07dbfc0bced161e0f94120a",
-      "0121818dd9b5a7f0949e903ac995e77e2154995747b020bf2115e2949b55aca65c640a"
+      "0121818dd9b5a7f0949e903ac995e77e2154995747b020bf2115e2949b55aca65c640a",
+      "01219d253c807e608dd45a937ae64bd8492c54300f07c0eb581615c617e2c7bacf220a"
     ],
     "sibkeys": [
       "01018a9f32d3827e89d6d80b90bb6315af3b15bb895cb432852570f144de5cbd92d30a",
-      "01200b264c11ce4b0cb7431e84f54cacf53eee3796443ee91c29b286bc3b882ac0e00a",
-      "012025b247d9292d2ef4a33a819f7d26b6c2436667b28db6824c2f025db06d2ab8c20a"
+      "012025b247d9292d2ef4a33a819f7d26b6c2436667b28db6824c2f025db06d2ab8c20a",
+      "012086ff0d0e624cbf1c8235c3e47de023b533120a0b9218552798fd917fb316ed900a"
     ],
     "families": {
       "01018a9f32d3827e89d6d80b90bb6315af3b15bb895cb432852570f144de5cbd92d30a": [
@@ -49,7 +60,11 @@
         "0121173c282881b65a4dd4807f17d954f425a5416fe98fe07dbfc0bced161e0f94120a",
         "01200b264c11ce4b0cb7431e84f54cacf53eee3796443ee91c29b286bc3b882ac0e00a",
         "012025b247d9292d2ef4a33a819f7d26b6c2436667b28db6824c2f025db06d2ab8c20a",
-        "0121818dd9b5a7f0949e903ac995e77e2154995747b020bf2115e2949b55aca65c640a"
+        "0121818dd9b5a7f0949e903ac995e77e2154995747b020bf2115e2949b55aca65c640a",
+        "0120091b1da39a5eccbdd8ddfb027b1ef614c5be9c44cb40957506ce5d896b4737b40a",
+        "0121316e9edc45c312d04884e09dca903c8e983bb92759e56cb929643dc23dee8f640a",
+        "01219d253c807e608dd45a937ae64bd8492c54300f07c0eb581615c617e2c7bacf220a",
+        "012086ff0d0e624cbf1c8235c3e47de023b533120a0b9218552798fd917fb316ed900a"
       ]
     },
     "eldest_kid": "01018a9f32d3827e89d6d80b90bb6315af3b15bb895cb432852570f144de5cbd92d30a",
@@ -94,12 +109,26 @@
           "nametag": "domoritz",
           "state": 1,
           "proof_url": "https://news.ycombinator.com/user?id=domoritz",
-          "sig_id": "ee00c22a334302d1d99e4ce3eba5a0117227af1be57d6b666f5d4c9909c54c2e0f",
-          "proof_id": "8444d253834c44a18247a010",
+          "sig_id": "d896cb59b0db61838510ea54b2ad29b1a553d8b2f6f5d33acad7cfffebe32c2a0f",
+          "proof_id": "3225f40265120f8b2b304a10",
           "human_url": "https://news.ycombinator.com/user?id=domoritz",
           "service_url": "https://news.ycombinator.com/user?id=domoritz",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.domoritz.de",
+          "state": 1,
+          "proof_url": "https://www.domoritz.de/keybase.txt",
+          "sig_id": "ce32fd5232c7d97501fab1c39c871dc32bde9e5da717ccf6aa3d09df5d55e5700f",
+          "proof_id": "6aaf8db8ba3dd00de9e34c10",
+          "human_url": "https://www.domoritz.de/keybase.txt",
+          "service_url": "https://www.domoritz.de",
+          "presentation_group": "www.domoritz.de",
+          "presentation_tag": "https"
         }
       ]
     },
@@ -138,12 +167,26 @@
           "nametag": "domoritz",
           "state": 1,
           "proof_url": "https://news.ycombinator.com/user?id=domoritz",
-          "sig_id": "ee00c22a334302d1d99e4ce3eba5a0117227af1be57d6b666f5d4c9909c54c2e0f",
-          "proof_id": "8444d253834c44a18247a010",
+          "sig_id": "d896cb59b0db61838510ea54b2ad29b1a553d8b2f6f5d33acad7cfffebe32c2a0f",
+          "proof_id": "3225f40265120f8b2b304a10",
           "human_url": "https://news.ycombinator.com/user?id=domoritz",
           "service_url": "https://news.ycombinator.com/user?id=domoritz",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "www.domoritz.de": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.domoritz.de",
+          "state": 1,
+          "proof_url": "https://www.domoritz.de/keybase.txt",
+          "sig_id": "ce32fd5232c7d97501fab1c39c871dc32bde9e5da717ccf6aa3d09df5d55e5700f",
+          "proof_id": "6aaf8db8ba3dd00de9e34c10",
+          "human_url": "https://www.domoritz.de/keybase.txt",
+          "service_url": "https://www.domoritz.de",
+          "presentation_group": "www.domoritz.de",
+          "presentation_tag": "https"
         }
       ]
     },
@@ -177,12 +220,24 @@
         "nametag": "domoritz",
         "state": 1,
         "proof_url": "https://news.ycombinator.com/user?id=domoritz",
-        "sig_id": "ee00c22a334302d1d99e4ce3eba5a0117227af1be57d6b666f5d4c9909c54c2e0f",
-        "proof_id": "8444d253834c44a18247a010",
+        "sig_id": "d896cb59b0db61838510ea54b2ad29b1a553d8b2f6f5d33acad7cfffebe32c2a0f",
+        "proof_id": "3225f40265120f8b2b304a10",
         "human_url": "https://news.ycombinator.com/user?id=domoritz",
         "service_url": "https://news.ycombinator.com/user?id=domoritz",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "www.domoritz.de",
+        "state": 1,
+        "proof_url": "https://www.domoritz.de/keybase.txt",
+        "sig_id": "ce32fd5232c7d97501fab1c39c871dc32bde9e5da717ccf6aa3d09df5d55e5700f",
+        "proof_id": "6aaf8db8ba3dd00de9e34c10",
+        "human_url": "https://www.domoritz.de/keybase.txt",
+        "service_url": "https://www.domoritz.de",
+        "presentation_group": "www.domoritz.de",
+        "presentation_tag": "https"
       }
     ]
   },
@@ -197,28 +252,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3dc16e581b9fe2ced38cf309adcd58e43d7910b48858daf28ddffa1b4c8464cf0f",
-      "seqno": 23,
-      "payload_hash": "fe850e01f08bea7f18087d0bb5e31089f6c57b1976cfb72e0c3e7127b80df000"
+      "sig_id": "6e4433e6e68175215c10c2cdfd65956e11b7e4d2470ac5f4dbb08bc8bd4cc3d60f",
+      "seqno": 53,
+      "payload_hash": "a74844fafd2474df9f247c9380e055f325bba2ca976cf1a776a03bc0ebefa040"
     }
   },
   "devices": {
-    "0ae27a835ff959cc5a9ea3b7c6f64018": {
+    "53831ace425d2148acb215c03e6dc018": {
       "type": "desktop",
-      "ctime": 1454653778,
-      "mtime": 1454653778,
-      "name": "deepthought",
+      "ctime": 1509503320,
+      "mtime": 1509503320,
+      "name": "mac",
       "status": 1,
       "keys": [
         {
-          "kid": "01200b264c11ce4b0cb7431e84f54cacf53eee3796443ee91c29b286bc3b882ac0e00a",
+          "kid": "012086ff0d0e624cbf1c8235c3e47de023b533120a0b9218552798fd917fb316ed900a",
           "key_role": 1,
-          "sig_id": "c63300c9396d2f5a682c76f0d351afbd56afd25f181fef497a5c7a15028c384f0f"
+          "sig_id": "beafb8c5e96c36fff4d2dc692b24e007284a3f964ad9b2fa2e06b2f583a483170f"
         },
         {
-          "kid": "0121173c282881b65a4dd4807f17d954f425a5416fe98fe07dbfc0bced161e0f94120a",
+          "kid": "01219d253c807e608dd45a937ae64bd8492c54300f07c0eb581615c617e2c7bacf220a",
           "key_role": 2,
-          "sig_id": "d3f4ce03faba4173df7e3500b2b89d690ea4d3fd328a89bff8dd53a0952e95f00f"
+          "sig_id": "b0ae6fb9f5863398e2f2b39d417c569bd960d1b1d81d13e6d66b632e0b5ad4df0f"
         }
       ]
     },
