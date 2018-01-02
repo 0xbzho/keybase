@@ -4,16 +4,17 @@
     "username": "ms",
     "ctime": 1393623050,
     "mtime": 1393623050,
-    "id_version": 11,
-    "track_version": 9,
-    "last_id_change": 1455163097,
-    "username_cased": "ms"
+    "id_version": 12,
+    "track_version": 11,
+    "last_id_change": 1505782460,
+    "username_cased": "ms",
+    "status": 0
   },
   "profile": {
-    "mtime": 1393623082,
+    "mtime": 1505782491,
     "full_name": "Max Shron",
     "location": "New York, NY",
-    "bio": "Founder - Shron & Company. Data Scientist."
+    "bio": "Base human"
   },
   "public_keys": {
     "primary": {
@@ -40,18 +41,16 @@
       "012036a8f6bfd2b548356d4a571581ca911fd770055cfe1b7c448bfef19c325c4a2f0a",
       "0121810f77a38b44cce4260ddcd5bf5369c81e56d865e1fd1e59abd8e40b78e4175d0a",
       "01203c6841bb0b4b33db2232a2084faf87cef8e004edce4910c9e080777ec30fe8420a",
-      "01217f83e8532bb3a5e1469032e2d7a3922d89f51048dff6949a3fa188f040d3653a0a"
+      "01217f83e8532bb3a5e1469032e2d7a3922d89f51048dff6949a3fa188f040d3653a0a",
+      "01206efd97782f44e10518a22e43545995f1057c28222cbf46aa4a1b9280ccc31eba0a",
+      "01211ddda6c843f9966a9e2745fa139377b3607f1496b0400f7f59c5ba4cb6b5a1160a"
     ],
     "subkeys": [
-      "0121c8f43e19b5fbb32c15cbd728e771e72612ead791929f6c7b60550986f787e94a0a",
-      "0121810f77a38b44cce4260ddcd5bf5369c81e56d865e1fd1e59abd8e40b78e4175d0a",
-      "01217f83e8532bb3a5e1469032e2d7a3922d89f51048dff6949a3fa188f040d3653a0a"
+      "01211ddda6c843f9966a9e2745fa139377b3607f1496b0400f7f59c5ba4cb6b5a1160a"
     ],
     "sibkeys": [
       "010198c7981c9b931412782b3fae5898a93179869071f9079fbe48af6bfd8774c52d0a",
-      "01207e012f8f7ab28302f05f02c2505cd5ba711feb699073c8a619b0d10161144f2b0a",
-      "012036a8f6bfd2b548356d4a571581ca911fd770055cfe1b7c448bfef19c325c4a2f0a",
-      "01203c6841bb0b4b33db2232a2084faf87cef8e004edce4910c9e080777ec30fe8420a"
+      "01206efd97782f44e10518a22e43545995f1057c28222cbf46aa4a1b9280ccc31eba0a"
     ],
     "families": {
       "010198c7981c9b931412782b3fae5898a93179869071f9079fbe48af6bfd8774c52d0a": [
@@ -61,7 +60,9 @@
         "012036a8f6bfd2b548356d4a571581ca911fd770055cfe1b7c448bfef19c325c4a2f0a",
         "0121810f77a38b44cce4260ddcd5bf5369c81e56d865e1fd1e59abd8e40b78e4175d0a",
         "01203c6841bb0b4b33db2232a2084faf87cef8e004edce4910c9e080777ec30fe8420a",
-        "01217f83e8532bb3a5e1469032e2d7a3922d89f51048dff6949a3fa188f040d3653a0a"
+        "01217f83e8532bb3a5e1469032e2d7a3922d89f51048dff6949a3fa188f040d3653a0a",
+        "01206efd97782f44e10518a22e43545995f1057c28222cbf46aa4a1b9280ccc31eba0a",
+        "01211ddda6c843f9966a9e2745fa139377b3607f1496b0400f7f59c5ba4cb6b5a1160a"
       ]
     },
     "eldest_kid": "010198c7981c9b931412782b3fae5898a93179869071f9079fbe48af6bfd8774c52d0a",
@@ -169,66 +170,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "925d935d8c5d15a49c6cc8e7cb87758fb29b9664b262a4beb9a088d2975cd07d0f",
-      "seqno": 20,
-      "payload_hash": "5e06d35ea0eb09c3b7a0b99b90d60649afd9a933767c3001a68a492cabbd9242"
+      "sig_id": "856d0ac6322cece4e6ffbbd72f977f9a55e05980eeb5d93e27e846f2ca35be7f0f",
+      "seqno": 31,
+      "payload_hash": "2b64c5780a6f07deddc5f8904b287ac464bcda90c68946b707b92d86cd4a11ab"
     }
   },
   "devices": {
-    "0276b15a25dd8121794a9c6e87961b18": {
+    "fde28971a724b8b3e5d580028565a818": {
       "type": "desktop",
-      "ctime": 1455163097,
-      "mtime": 1455163097,
-      "name": "Max's Linode",
+      "ctime": 1505782460,
+      "mtime": 1505782460,
+      "name": "ms 15 mbp",
       "status": 1,
       "keys": [
         {
-          "kid": "01203c6841bb0b4b33db2232a2084faf87cef8e004edce4910c9e080777ec30fe8420a",
+          "kid": "01206efd97782f44e10518a22e43545995f1057c28222cbf46aa4a1b9280ccc31eba0a",
           "key_role": 1,
-          "sig_id": "a8854e6b91facb19786b6cc7822d23911652e600cc106cc546ca45ba342eb9050f"
+          "sig_id": "849a53db92c3c6020dffd29b1f67e9b32d665816a7bc4eb1edbe9d17b67ffb270f"
         },
         {
-          "kid": "01217f83e8532bb3a5e1469032e2d7a3922d89f51048dff6949a3fa188f040d3653a0a",
+          "kid": "01211ddda6c843f9966a9e2745fa139377b3607f1496b0400f7f59c5ba4cb6b5a1160a",
           "key_role": 2,
-          "sig_id": "925d935d8c5d15a49c6cc8e7cb87758fb29b9664b262a4beb9a088d2975cd07d0f"
-        }
-      ]
-    },
-    "e420e6ea069372a3cdc5b234b0825718": {
-      "type": "backup",
-      "ctime": 1455162975,
-      "mtime": 1455162975,
-      "name": "object barely",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "012036a8f6bfd2b548356d4a571581ca911fd770055cfe1b7c448bfef19c325c4a2f0a",
-          "key_role": 1,
-          "sig_id": "1de3bb3ed1991e455ab3383960b73e3ba4d96a9cd66eada16b835e7d69a6e8290f"
-        },
-        {
-          "kid": "0121810f77a38b44cce4260ddcd5bf5369c81e56d865e1fd1e59abd8e40b78e4175d0a",
-          "key_role": 2,
-          "sig_id": "64a1a8a8bdd7b0c699f35809f7b5ba676788fb7e94403229d909d76ed19aa0960f"
-        }
-      ]
-    },
-    "eb445885715ac36ca4f152b9cf3e3d18": {
-      "type": "desktop",
-      "ctime": 1455162974,
-      "mtime": 1455162974,
-      "name": "Max's Laptop",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01207e012f8f7ab28302f05f02c2505cd5ba711feb699073c8a619b0d10161144f2b0a",
-          "key_role": 1,
-          "sig_id": "432ebf1485e2cf23dd5438481f5b9db741f39b7873a79ae44ec1b56680e06a300f"
-        },
-        {
-          "kid": "0121c8f43e19b5fbb32c15cbd728e771e72612ead791929f6c7b60550986f787e94a0a",
-          "key_role": 2,
-          "sig_id": "55074fb7f430022da0b930e50c63d83b482e148f847e9b25d5cec481bcdb6fb10f"
+          "sig_id": "6128302b72f7cd231587e5ff53ab93e339a934962c7978b53510938b33e4a8250f"
         }
       ]
     }
