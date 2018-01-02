@@ -2,18 +2,19 @@
   "id": "4ac28b770f9cd1199981621a42eac000",
   "basics": {
     "username": "chrislaing",
-    "ctime": 1405147329,
-    "mtime": 1405147329,
-    "id_version": 62,
-    "track_version": 15,
-    "last_id_change": 1471375252,
-    "username_cased": "chrislaing"
+    "ctime": 1405150929,
+    "mtime": 1405150929,
+    "id_version": 77,
+    "track_version": 18,
+    "last_id_change": 1508252496,
+    "username_cased": "chrislaing",
+    "status": 0
   },
   "profile": {
-    "mtime": 1452250747,
+    "mtime": 1497900320,
     "full_name": "Christopher Laing",
     "location": "Munich, Germany",
-    "bio": "Applied Mathematician. Data Scientist. Lover of Single Malt, Coffee, and Weißwurst."
+    "bio": "Applied Mathematician interested in deep learning, geometry, and numerical optimisation. Unapologetic proponent of the anglosphere."
   },
   "public_keys": {
     "primary": {
@@ -51,20 +52,26 @@
       "0121d63d000387026ed93524c6d4d1e6c9295870b0e4ffb80dc4e59d7349573025090a",
       "01206c703813ba11330225cf6c0de7c9950f3ba0ba1a31712d6a71a6f9ec8b9ae69a0a",
       "012092771ee4c3b13e9c1e5f7cd691aee6128e5f3460df748893ef6237ae7f581be60a",
-      "0121b01afc0272ab0263c58cb23428bca15356d5d143112e824266597362021082380a"
+      "0121b01afc0272ab0263c58cb23428bca15356d5d143112e824266597362021082380a",
+      "01219f3472b0ed7ffec35748acf44463a9e731eb84c3ab69fd635c6cc16f08a3dd3d0a",
+      "0120138d1993b07f9d157466af7b5843a8fb46622f2186f11842c96cef9868e4e65e0a",
+      "012129f2079138871d76bc71cfa37dab7fc56c33e6e8459bda95f4ae017e7b111e000a",
+      "0120ff48c4528b1a1257cd8331931da022a288917ff55813e6df6c2203a2aef762830a"
     ],
     "subkeys": [
       "0121307121ad8b623e7e1bd0ede4c71a40025d03f79f8b1f82809ae8fd4103e823370a",
       "01210cc902d000936b81748ba44ebe99f888944d5eca4e685e281d1ad04331b6466f0a",
       "0121d63d000387026ed93524c6d4d1e6c9295870b0e4ffb80dc4e59d7349573025090a",
-      "0121b01afc0272ab0263c58cb23428bca15356d5d143112e824266597362021082380a"
+      "01219f3472b0ed7ffec35748acf44463a9e731eb84c3ab69fd635c6cc16f08a3dd3d0a",
+      "012129f2079138871d76bc71cfa37dab7fc56c33e6e8459bda95f4ae017e7b111e000a"
     ],
     "sibkeys": [
       "0120d945e916db5015ff9e8d5605e822e3808c90602a043fe08aa43b91449a5de6b40a",
       "012066555981a68dcbab990e1c39725208f7a3bae90452fcb25c3dc8df1c9c87a61d0a",
       "0101c0eab8dc42e80f0a754adc7d5504249ca3dc2d6c848407e6e148729c800a25010a",
       "01206c703813ba11330225cf6c0de7c9950f3ba0ba1a31712d6a71a6f9ec8b9ae69a0a",
-      "012092771ee4c3b13e9c1e5f7cd691aee6128e5f3460df748893ef6237ae7f581be60a"
+      "0120138d1993b07f9d157466af7b5843a8fb46622f2186f11842c96cef9868e4e65e0a",
+      "0120ff48c4528b1a1257cd8331931da022a288917ff55813e6df6c2203a2aef762830a"
     ],
     "families": {
       "0101fd0aff1d78aa3902830c620faf6bceb15dcbfb1a546a3d7f111bc7f673743f580a": [
@@ -87,7 +94,11 @@
         "0121d63d000387026ed93524c6d4d1e6c9295870b0e4ffb80dc4e59d7349573025090a",
         "01206c703813ba11330225cf6c0de7c9950f3ba0ba1a31712d6a71a6f9ec8b9ae69a0a",
         "012092771ee4c3b13e9c1e5f7cd691aee6128e5f3460df748893ef6237ae7f581be60a",
-        "0121b01afc0272ab0263c58cb23428bca15356d5d143112e824266597362021082380a"
+        "0121b01afc0272ab0263c58cb23428bca15356d5d143112e824266597362021082380a",
+        "01219f3472b0ed7ffec35748acf44463a9e731eb84c3ab69fd635c6cc16f08a3dd3d0a",
+        "0120138d1993b07f9d157466af7b5843a8fb46622f2186f11842c96cef9868e4e65e0a",
+        "012129f2079138871d76bc71cfa37dab7fc56c33e6e8459bda95f4ae017e7b111e000a",
+        "0120ff48c4528b1a1257cd8331931da022a288917ff55813e6df6c2203a2aef762830a"
       ]
     },
     "eldest_kid": "0101c0eab8dc42e80f0a754adc7d5504249ca3dc2d6c848407e6e148729c800a25010a",
@@ -98,20 +109,6 @@
   },
   "proofs_summary": {
     "by_proof_type": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "cjlaing",
-          "state": 1,
-          "proof_url": "https://twitter.com/CJLaing/status/489728628872077312",
-          "sig_id": "0b7a436ca9f92d9c244c7b55e49786ae9aa5be2e3bde1d4f4b75f0e5ed6f2e1b0f",
-          "proof_id": "63e98a12bea706fe7ef10510",
-          "human_url": "https://twitter.com/CJLaing/status/489728628872077312",
-          "service_url": "https://twitter.com/CJLaing",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -126,6 +123,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "laing_c",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5v3hy8/my_keybase_proof_redditlaing_c_keybasechrislaing/",
+          "sig_id": "3aef4c31a631ea35062091007a41fbf4580d95662512fb938dd14895ac8e46240f",
+          "proof_id": "656493233b699966f98cca10",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5v3hy8/my_keybase_proof_redditlaing_c_keybasechrislaing/",
+          "service_url": "https://reddit.com/user/laing_c",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -138,6 +149,20 @@
           "service_url": "https://news.ycombinator.com/user?id=laingc",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "christopher.laing",
+          "state": 1,
+          "proof_url": "https://facebook.com/611026308407_611026323377",
+          "sig_id": "28658fd17f9fc0010f6363857d42e0829ab96105b179cd177a12c8bca8ddfa7f0f",
+          "proof_id": "91a061ad70410c6d74afab10",
+          "human_url": "https://facebook.com/611026308407_611026323377",
+          "service_url": "https://www.facebook.com/christopher.laing",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "dns": [
@@ -168,20 +193,6 @@
       ]
     },
     "by_presentation_group": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "cjlaing",
-          "state": 1,
-          "proof_url": "https://twitter.com/CJLaing/status/489728628872077312",
-          "sig_id": "0b7a436ca9f92d9c244c7b55e49786ae9aa5be2e3bde1d4f4b75f0e5ed6f2e1b0f",
-          "proof_id": "63e98a12bea706fe7ef10510",
-          "human_url": "https://twitter.com/CJLaing/status/489728628872077312",
-          "service_url": "https://twitter.com/CJLaing",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -196,6 +207,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "laing_c",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5v3hy8/my_keybase_proof_redditlaing_c_keybasechrislaing/",
+          "sig_id": "3aef4c31a631ea35062091007a41fbf4580d95662512fb938dd14895ac8e46240f",
+          "proof_id": "656493233b699966f98cca10",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5v3hy8/my_keybase_proof_redditlaing_c_keybasechrislaing/",
+          "service_url": "https://reddit.com/user/laing_c",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -208,6 +233,20 @@
           "service_url": "https://news.ycombinator.com/user?id=laingc",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "christopher.laing",
+          "state": 1,
+          "proof_url": "https://facebook.com/611026308407_611026323377",
+          "sig_id": "28658fd17f9fc0010f6363857d42e0829ab96105b179cd177a12c8bca8ddfa7f0f",
+          "proof_id": "91a061ad70410c6d74afab10",
+          "human_url": "https://facebook.com/611026308407_611026323377",
+          "service_url": "https://www.facebook.com/christopher.laing",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "chrislaing.net": [
@@ -241,18 +280,6 @@
     },
     "all": [
       {
-        "proof_type": "twitter",
-        "nametag": "cjlaing",
-        "state": 1,
-        "proof_url": "https://twitter.com/CJLaing/status/489728628872077312",
-        "sig_id": "0b7a436ca9f92d9c244c7b55e49786ae9aa5be2e3bde1d4f4b75f0e5ed6f2e1b0f",
-        "proof_id": "63e98a12bea706fe7ef10510",
-        "human_url": "https://twitter.com/CJLaing/status/489728628872077312",
-        "service_url": "https://twitter.com/CJLaing",
-        "presentation_group": "twitter",
-        "presentation_tag": "tweet"
-      },
-      {
         "proof_type": "github",
         "nametag": "chrislaing",
         "state": 1,
@@ -265,6 +292,18 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "reddit",
+        "nametag": "laing_c",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5v3hy8/my_keybase_proof_redditlaing_c_keybasechrislaing/",
+        "sig_id": "3aef4c31a631ea35062091007a41fbf4580d95662512fb938dd14895ac8e46240f",
+        "proof_id": "656493233b699966f98cca10",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5v3hy8/my_keybase_proof_redditlaing_c_keybasechrislaing/",
+        "service_url": "https://reddit.com/user/laing_c",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "hackernews",
         "nametag": "laingc",
         "state": 1,
@@ -275,6 +314,18 @@
         "service_url": "https://news.ycombinator.com/user?id=laingc",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "christopher.laing",
+        "state": 1,
+        "proof_url": "https://facebook.com/611026308407_611026323377",
+        "sig_id": "28658fd17f9fc0010f6363857d42e0829ab96105b179cd177a12c8bca8ddfa7f0f",
+        "proof_id": "91a061ad70410c6d74afab10",
+        "human_url": "https://facebook.com/611026308407_611026323377",
+        "service_url": "https://www.facebook.com/christopher.laing",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -302,27 +353,20 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {
-    "bitcoin": [
-      {
-        "address": "1FAxPoPJP54FLY7zTaf7ySC9MTTibGqiN",
-        "sig_id": "5ef407057f7734c27aaf1f622e5e97bcaee4654e18d5f1b2e4b2ad867a875fd10f"
-      }
-    ]
-  },
+  "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/5ab60a516cb87c14719a499d0f05ff05_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/6f6c0c26869f1630ceea85c0fe9d4d05_360_360.jpg",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "fb6761f564b6b0e4dcda2b76e0024eef8e2ce757b071118b7aa7239c52f6ab010f",
-      "seqno": 40,
-      "payload_hash": "c62df32372592e2a2781e18214fa1885c4869d61bd41256ce24933ea44e19c39"
+      "sig_id": "9bc79be0ca61ad44edb7ba69584f63d2f3ed6c78cf081a1426d2b2ee2dfceda60f",
+      "seqno": 52,
+      "payload_hash": "32999dc598e94c983c4aa0e0410b833582aad825d026f18bf7be8dbb4256b915"
     }
   },
   "devices": {
@@ -383,22 +427,41 @@
         }
       ]
     },
-    "355b8b4d1a597cf7c9a677bb2da08618": {
-      "type": "desktop",
-      "ctime": 1455654981,
-      "mtime": 1455654981,
-      "name": "Mordor",
+    "328b2d0a11307d1bf2c300c836188a18": {
+      "type": "mobile",
+      "ctime": 1494533381,
+      "mtime": 1494533381,
+      "name": "Morgoth",
       "status": 1,
       "keys": [
         {
-          "kid": "012092771ee4c3b13e9c1e5f7cd691aee6128e5f3460df748893ef6237ae7f581be60a",
+          "kid": "0120138d1993b07f9d157466af7b5843a8fb46622f2186f11842c96cef9868e4e65e0a",
           "key_role": 1,
-          "sig_id": "c30140de2fcdb86aa94e117a81fc4fd3a40fcedd0276257c7bc35938ddb482690f"
+          "sig_id": "3fb5b3ebfa5dc10c40118d74fcc57d7223acbb48e0d56fe18e064ed13888057c0f"
         },
         {
-          "kid": "0121b01afc0272ab0263c58cb23428bca15356d5d143112e824266597362021082380a",
+          "kid": "01219f3472b0ed7ffec35748acf44463a9e731eb84c3ab69fd635c6cc16f08a3dd3d0a",
           "key_role": 2,
-          "sig_id": "2a85797f3a7fe5e02a7e580bfb4a95ecf68cebbffbfdb8552a0c5667e9a12de20f"
+          "sig_id": "c231463f9094dc9551e3adc763320ac423145e321a7678ea522c249942aa8ad70f"
+        }
+      ]
+    },
+    "5de32acdde6a0a4b3db4b164fbc2d618": {
+      "type": "desktop",
+      "ctime": 1496244138,
+      "mtime": 1496244138,
+      "name": "Mordor-GUI",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120ff48c4528b1a1257cd8331931da022a288917ff55813e6df6c2203a2aef762830a",
+          "key_role": 1,
+          "sig_id": "e65a6930c4dd5cddaa2010730a76573d440703cc7bbfd871385059aa328c70a40f"
+        },
+        {
+          "kid": "012129f2079138871d76bc71cfa37dab7fc56c33e6e8459bda95f4ae017e7b111e000a",
+          "key_role": 2,
+          "sig_id": "793993263414930c59a1a41ee5703ac202a87bc19a814533ea9b475a4e27e77d0f"
         }
       ]
     }
