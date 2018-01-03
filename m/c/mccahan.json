@@ -4,10 +4,11 @@
     "username": "mccahan",
     "ctime": 1424828387,
     "mtime": 1424828387,
-    "id_version": 41,
-    "track_version": 2,
-    "last_id_change": 1471374770,
-    "username_cased": "mccahan"
+    "id_version": 50,
+    "track_version": 6,
+    "last_id_change": 1502484379,
+    "username_cased": "mccahan",
+    "status": 0
   },
   "profile": {
     "mtime": 1424828736,
@@ -38,16 +39,26 @@
       "01207faa4da283b0e6aaa7f09bcba3354c347c2c984b357e9c85ce6624722da7cde10a",
       "012158e1a510f88b8492f56f8eb37d1497fa04e7ebbeac23252fc7f0c4dea6e83b6e0a",
       "012064b13793a00a4dbe0361f0fabedec7dabed1a7cbaf3e4c97f40b2a6de204e3b00a",
-      "0121e083b3d7634d6782a073f8b26b57641176ca2b2ea511e337a9a2709d9407c85e0a"
+      "0121e083b3d7634d6782a073f8b26b57641176ca2b2ea511e337a9a2709d9407c85e0a",
+      "0121a73b1ea79cc8890547088697efa6ee0e33408b5939c061ebdded07fd5134eb6c0a",
+      "0120ed6fb58a52d379d2428d45ed30b6a26418f557bd9f705115dc2ce005448328ac0a",
+      "01203c42928992a58199e0cf4a2224ad708a09a3215c5ce522caeb75c522b421b94a0a",
+      "012148fa45db154d9de7b5fa095eaa1165adf16c0c4b13ba092f72d015e0ac01231b0a",
+      "0121ded91d423fb09d8b6eff8070a588a2d35a940e7bba034a124ee3c565a7e4ca020a",
+      "01209a1b5eafbff300db2b9e3229a183a3b7fb1da54f16b49184b8d7c5d4cce9b3410a"
     ],
     "subkeys": [
       "012158e1a510f88b8492f56f8eb37d1497fa04e7ebbeac23252fc7f0c4dea6e83b6e0a",
-      "0121e083b3d7634d6782a073f8b26b57641176ca2b2ea511e337a9a2709d9407c85e0a"
+      "0121a73b1ea79cc8890547088697efa6ee0e33408b5939c061ebdded07fd5134eb6c0a",
+      "012148fa45db154d9de7b5fa095eaa1165adf16c0c4b13ba092f72d015e0ac01231b0a",
+      "0121ded91d423fb09d8b6eff8070a588a2d35a940e7bba034a124ee3c565a7e4ca020a"
     ],
     "sibkeys": [
       "010128f5f9f38937201d13970807421badb32fa8275ad75510a2f97b6772ba24fa060a",
-      "01207faa4da283b0e6aaa7f09bcba3354c347c2c984b357e9c85ce6624722da7cde10a",
-      "012064b13793a00a4dbe0361f0fabedec7dabed1a7cbaf3e4c97f40b2a6de204e3b00a"
+      "012064b13793a00a4dbe0361f0fabedec7dabed1a7cbaf3e4c97f40b2a6de204e3b00a",
+      "0120ed6fb58a52d379d2428d45ed30b6a26418f557bd9f705115dc2ce005448328ac0a",
+      "01203c42928992a58199e0cf4a2224ad708a09a3215c5ce522caeb75c522b421b94a0a",
+      "01209a1b5eafbff300db2b9e3229a183a3b7fb1da54f16b49184b8d7c5d4cce9b3410a"
     ],
     "families": {
       "010128f5f9f38937201d13970807421badb32fa8275ad75510a2f97b6772ba24fa060a": [
@@ -55,7 +66,13 @@
         "01207faa4da283b0e6aaa7f09bcba3354c347c2c984b357e9c85ce6624722da7cde10a",
         "012158e1a510f88b8492f56f8eb37d1497fa04e7ebbeac23252fc7f0c4dea6e83b6e0a",
         "012064b13793a00a4dbe0361f0fabedec7dabed1a7cbaf3e4c97f40b2a6de204e3b00a",
-        "0121e083b3d7634d6782a073f8b26b57641176ca2b2ea511e337a9a2709d9407c85e0a"
+        "0121e083b3d7634d6782a073f8b26b57641176ca2b2ea511e337a9a2709d9407c85e0a",
+        "0121a73b1ea79cc8890547088697efa6ee0e33408b5939c061ebdded07fd5134eb6c0a",
+        "0120ed6fb58a52d379d2428d45ed30b6a26418f557bd9f705115dc2ce005448328ac0a",
+        "01203c42928992a58199e0cf4a2224ad708a09a3215c5ce522caeb75c522b421b94a0a",
+        "012148fa45db154d9de7b5fa095eaa1165adf16c0c4b13ba092f72d015e0ac01231b0a",
+        "0121ded91d423fb09d8b6eff8070a588a2d35a940e7bba034a124ee3c565a7e4ca020a",
+        "01209a1b5eafbff300db2b9e3229a183a3b7fb1da54f16b49184b8d7c5d4cce9b3410a"
       ]
     },
     "eldest_kid": "010128f5f9f38937201d13970807421badb32fa8275ad75510a2f97b6772ba24fa060a",
@@ -94,17 +111,17 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
+          "proof_type": "facebook",
           "nametag": "mccahan",
           "state": 1,
-          "proof_url": "https://coinbase.com/mccahan/public-key",
-          "sig_id": "02122604615852150e982ac69565bc1987c7999fa310d1af99c036131c1a563b0f",
-          "proof_id": "e5668a83aa1b877ef2631310",
-          "human_url": "https://coinbase.com/mccahan/public-key",
-          "service_url": "https://coinbase.com/mccahan",
-          "presentation_group": "coinbase",
+          "proof_url": "https://www.facebook.com/mccahan/posts/10211294664937066",
+          "sig_id": "513fdfbdd6658a214f4b9cebe846e8bec27dcf4ea43eb06de85d9c3c3ab415cc0f",
+          "proof_id": "e042e8c167d1b24cd9bfd310",
+          "human_url": "https://www.facebook.com/mccahan/posts/10211294664937066",
+          "service_url": "https://www.facebook.com/mccahan",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
         }
       ],
@@ -120,6 +137,20 @@
           "service_url": "https://ryan.mccahan.net",
           "presentation_group": "ryan.mccahan.net",
           "presentation_tag": "https"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "mccahan.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/mccahan/sigchain#2b6d99547010ea378a4ad1d3dd389377289147ae2b392ca330c0b053918c3d2b0f",
+          "sig_id": "2b6d99547010ea378a4ad1d3dd389377289147ae2b392ca330c0b053918c3d2b0f",
+          "proof_id": "2db128b3d1c0efdc6c9e2710",
+          "human_url": "dns://mccahan.net",
+          "service_url": "http://mccahan.net",
+          "presentation_group": "mccahan.net",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -152,17 +183,17 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
+          "proof_type": "facebook",
           "nametag": "mccahan",
           "state": 1,
-          "proof_url": "https://coinbase.com/mccahan/public-key",
-          "sig_id": "02122604615852150e982ac69565bc1987c7999fa310d1af99c036131c1a563b0f",
-          "proof_id": "e5668a83aa1b877ef2631310",
-          "human_url": "https://coinbase.com/mccahan/public-key",
-          "service_url": "https://coinbase.com/mccahan",
-          "presentation_group": "coinbase",
+          "proof_url": "https://www.facebook.com/mccahan/posts/10211294664937066",
+          "sig_id": "513fdfbdd6658a214f4b9cebe846e8bec27dcf4ea43eb06de85d9c3c3ab415cc0f",
+          "proof_id": "e042e8c167d1b24cd9bfd310",
+          "human_url": "https://www.facebook.com/mccahan/posts/10211294664937066",
+          "service_url": "https://www.facebook.com/mccahan",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
         }
       ],
@@ -178,6 +209,20 @@
           "service_url": "https://ryan.mccahan.net",
           "presentation_group": "ryan.mccahan.net",
           "presentation_tag": "https"
+        }
+      ],
+      "mccahan.net": [
+        {
+          "proof_type": "dns",
+          "nametag": "mccahan.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/mccahan/sigchain#2b6d99547010ea378a4ad1d3dd389377289147ae2b392ca330c0b053918c3d2b0f",
+          "sig_id": "2b6d99547010ea378a4ad1d3dd389377289147ae2b392ca330c0b053918c3d2b0f",
+          "proof_id": "2db128b3d1c0efdc6c9e2710",
+          "human_url": "dns://mccahan.net",
+          "service_url": "http://mccahan.net",
+          "presentation_group": "mccahan.net",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -207,16 +252,28 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
+        "proof_type": "facebook",
         "nametag": "mccahan",
         "state": 1,
-        "proof_url": "https://coinbase.com/mccahan/public-key",
-        "sig_id": "02122604615852150e982ac69565bc1987c7999fa310d1af99c036131c1a563b0f",
-        "proof_id": "e5668a83aa1b877ef2631310",
-        "human_url": "https://coinbase.com/mccahan/public-key",
-        "service_url": "https://coinbase.com/mccahan",
-        "presentation_group": "coinbase",
+        "proof_url": "https://www.facebook.com/mccahan/posts/10211294664937066",
+        "sig_id": "513fdfbdd6658a214f4b9cebe846e8bec27dcf4ea43eb06de85d9c3c3ab415cc0f",
+        "proof_id": "e042e8c167d1b24cd9bfd310",
+        "human_url": "https://www.facebook.com/mccahan/posts/10211294664937066",
+        "service_url": "https://www.facebook.com/mccahan",
+        "presentation_group": "facebook",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "mccahan.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/mccahan/sigchain#2b6d99547010ea378a4ad1d3dd389377289147ae2b392ca330c0b053918c3d2b0f",
+        "sig_id": "2b6d99547010ea378a4ad1d3dd389377289147ae2b392ca330c0b053918c3d2b0f",
+        "proof_id": "2db128b3d1c0efdc6c9e2710",
+        "human_url": "dns://mccahan.net",
+        "service_url": "http://mccahan.net",
+        "presentation_group": "mccahan.net",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "generic_web_site",
@@ -250,35 +307,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "8b939d7a98acba1fd5dccea476b4f3b0f9e89832f0eed07cce15eb25a2b3d4520f",
-      "seqno": 12,
-      "payload_hash": "b6880ae8191624c20ff93bbde05090e89a6921b6416d28025e7693a04c2b1c3e"
+      "sig_id": "4c5eaeb5b573ab411bf38dc968b256c7669acce4c98709dd8120104950ee62ab0f",
+      "seqno": 26,
+      "payload_hash": "ae0ce5654dd29566c4521f4cf40cd06fe37d7eb8510bfd7b4f8603af923f45a2"
     }
   },
   "devices": {
-    "14c30604b25f4a60a9dfb88a890d2e18": {
-      "type": "desktop",
-      "ctime": 1471374530,
-      "mtime": 1471374530,
-      "name": "MBP",
+    "0447f1429e6af3f4e44d27f009ced618": {
+      "type": "backup",
+      "ctime": 1484849941,
+      "mtime": 1484849941,
+      "name": "master cruel",
       "status": 1,
       "keys": [
         {
-          "kid": "01207faa4da283b0e6aaa7f09bcba3354c347c2c984b357e9c85ce6624722da7cde10a",
+          "kid": "0120ed6fb58a52d379d2428d45ed30b6a26418f557bd9f705115dc2ce005448328ac0a",
           "key_role": 1,
-          "sig_id": "4fa9cbf115450376a863dcbae5eaeda9fd544139c6f1adf754cac28209ed620b0f"
+          "sig_id": "f35a3085542dbaee58345e22142c5d13efaf0c8c9df6f6bf72bf7c385cd311760f"
         },
         {
-          "kid": "0121e083b3d7634d6782a073f8b26b57641176ca2b2ea511e337a9a2709d9407c85e0a",
+          "kid": "0121a73b1ea79cc8890547088697efa6ee0e33408b5939c061ebdded07fd5134eb6c0a",
           "key_role": 2,
-          "sig_id": "9bec9cde3f4bd83e0e11ee8dd196a98242995f1aae8c34520bf9304da76d7d840f"
+          "sig_id": "bf94952505828162229273706608d31512db322ee482c5a201844cf2b7d4617a0f"
         }
       ]
     },
     "a6276a351d514ef087a7e42fbc5faf18": {
       "type": "backup",
-      "ctime": 1471374530,
-      "mtime": 1471374530,
+      "ctime": 1471378130,
+      "mtime": 1471378130,
       "name": "hen box",
       "status": 1,
       "keys": [
@@ -291,6 +348,44 @@
           "kid": "012158e1a510f88b8492f56f8eb37d1497fa04e7ebbeac23252fc7f0c4dea6e83b6e0a",
           "key_role": 2,
           "sig_id": "d55368be49a5dcd9a521298868acd9e93c7c98257e4d0555cea5bd55a88a11410f"
+        }
+      ]
+    },
+    "b0bc618617b0f83cd17bc40420e23818": {
+      "type": "desktop",
+      "ctime": 1500246845,
+      "mtime": 1500246845,
+      "name": "MBP Retina Mid-2012",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209a1b5eafbff300db2b9e3229a183a3b7fb1da54f16b49184b8d7c5d4cce9b3410a",
+          "key_role": 1,
+          "sig_id": "ed20b6b279017b10ec0fa1a44585b93700b2116621e87e6d3197e56de2bc3efa0f"
+        },
+        {
+          "kid": "0121ded91d423fb09d8b6eff8070a588a2d35a940e7bba034a124ee3c565a7e4ca020a",
+          "key_role": 2,
+          "sig_id": "f81d945701e90810ea403419aebaf3f7a8aec9f28abfd262024e2081cc17cd610f"
+        }
+      ]
+    },
+    "c09b0f83d7b61ad436177bca16376b18": {
+      "type": "mobile",
+      "ctime": 1498841708,
+      "mtime": 1498841708,
+      "name": "iPhone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01203c42928992a58199e0cf4a2224ad708a09a3215c5ce522caeb75c522b421b94a0a",
+          "key_role": 1,
+          "sig_id": "a690e2c4b685d734130fcb7ea9b827326e3dabd4ed92eafc6b025213b3af05860f"
+        },
+        {
+          "kid": "012148fa45db154d9de7b5fa095eaa1165adf16c0c4b13ba092f72d015e0ac01231b0a",
+          "key_role": 2,
+          "sig_id": "f035c98f5417392a0bcb1023ff6dff20b418944b3eaeb18b6f8a8aa3622ff5f20f"
         }
       ]
     }
