@@ -4,10 +4,11 @@
     "username": "larsla",
     "ctime": 1421065988,
     "mtime": 1421065988,
-    "id_version": 6,
-    "track_version": 0,
-    "last_id_change": 1476711709,
-    "username_cased": "larsla"
+    "id_version": 7,
+    "track_version": 4,
+    "last_id_change": 1504267018,
+    "username_cased": "larsla",
+    "status": 0
   },
   "profile": {
     "mtime": 1421077265,
@@ -21,15 +22,19 @@
       "01208345cb7e5a46778719064fad39326c873323c3a4a89ef0b8e32288e7ee7b662d0a",
       "0121733418dc999a5011829725b8d09df1882c72b52c779d5ad3b245792ff70edc110a",
       "012192ca8295e00a7038960179163f925ccdf7d1275e65059ceaac999fc4b6a5d6730a",
-      "0120bbf7e64181a9729dca166db2f2176393ea88983bf156e1892135c6dcd8c9c2f90a"
+      "0120bbf7e64181a9729dca166db2f2176393ea88983bf156e1892135c6dcd8c9c2f90a",
+      "01203d769374d5272be601785b8f85c68fec01c91a8fecc19dd25555049cd566a97d0a",
+      "0121adfec935c6816eb76dc3bdbba8614e269ecb1a20a1a03225c85bdcf7d31643620a"
     ],
     "subkeys": [
       "0121733418dc999a5011829725b8d09df1882c72b52c779d5ad3b245792ff70edc110a",
-      "012192ca8295e00a7038960179163f925ccdf7d1275e65059ceaac999fc4b6a5d6730a"
+      "012192ca8295e00a7038960179163f925ccdf7d1275e65059ceaac999fc4b6a5d6730a",
+      "0121adfec935c6816eb76dc3bdbba8614e269ecb1a20a1a03225c85bdcf7d31643620a"
     ],
     "sibkeys": [
       "01208345cb7e5a46778719064fad39326c873323c3a4a89ef0b8e32288e7ee7b662d0a",
-      "0120bbf7e64181a9729dca166db2f2176393ea88983bf156e1892135c6dcd8c9c2f90a"
+      "0120bbf7e64181a9729dca166db2f2176393ea88983bf156e1892135c6dcd8c9c2f90a",
+      "01203d769374d5272be601785b8f85c68fec01c91a8fecc19dd25555049cd566a97d0a"
     ],
     "families": {
       "0101613e0afc4b12f97dfc3d695655d0fb4eb01e2bd236d4fc2a6efea4cadc56e2b40a": [
@@ -39,7 +44,9 @@
         "01208345cb7e5a46778719064fad39326c873323c3a4a89ef0b8e32288e7ee7b662d0a",
         "0121733418dc999a5011829725b8d09df1882c72b52c779d5ad3b245792ff70edc110a",
         "012192ca8295e00a7038960179163f925ccdf7d1275e65059ceaac999fc4b6a5d6730a",
-        "0120bbf7e64181a9729dca166db2f2176393ea88983bf156e1892135c6dcd8c9c2f90a"
+        "0120bbf7e64181a9729dca166db2f2176393ea88983bf156e1892135c6dcd8c9c2f90a",
+        "01203d769374d5272be601785b8f85c68fec01c91a8fecc19dd25555049cd566a97d0a",
+        "0121adfec935c6816eb76dc3bdbba8614e269ecb1a20a1a03225c85bdcf7d31643620a"
       ]
     },
     "eldest_kid": "01208345cb7e5a46778719064fad39326c873323c3a4a89ef0b8e32288e7ee7b662d0a",
@@ -52,26 +59,18 @@
     "all": []
   },
   "cryptocurrency_addresses": {},
-  "pictures": {
-    "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/dc5dcbb49ea86b1c62656785636b3b05_360_360_square_360.jpeg",
-      "width": 360,
-      "height": 360,
-      "source": "github"
-    }
-  },
   "sigs": {
     "last": {
-      "sig_id": "0c80f27616873abae7c95aaa0d4724a0712b83ce5a2666c546d381723a4bee500f",
-      "seqno": 7,
-      "payload_hash": "f0ab1aaa3f5127d9cccdf223021af5e6ed2f8be82e52e5c49f9899ca20bb64bf"
+      "sig_id": "1d8cc06e4d3a51d8f1d295ce9effc650e70f85483d6f32cc63e0f779cd5fd7390f",
+      "seqno": 14,
+      "payload_hash": "708a5bbb7677fac9f231932601049c44e852bd930fe493ba01ffe8d31b30889f"
     }
   },
   "devices": {
     "2d049f5b0899b34eac760a2a7a834f18": {
       "type": "backup",
-      "ctime": 1476711709,
-      "mtime": 1476711709,
+      "ctime": 1476715309,
+      "mtime": 1476715309,
       "name": "author snack",
       "status": 1,
       "keys": [
@@ -89,8 +88,8 @@
     },
     "5d8f5d35fc5290149ca32f22f0ed1518": {
       "type": "desktop",
-      "ctime": 1476711708,
-      "mtime": 1476711708,
+      "ctime": 1476715308,
+      "mtime": 1476715308,
       "name": "mbp",
       "status": 1,
       "keys": [
@@ -103,6 +102,25 @@
           "kid": "0121733418dc999a5011829725b8d09df1882c72b52c779d5ad3b245792ff70edc110a",
           "key_role": 2,
           "sig_id": "e2d2feb99e4b18136275b96ccba08f2f4b56a030b0363a6764cc304d28ab4ee50f"
+        }
+      ]
+    },
+    "7b232127b1bfa7c6c8dc776f2a259c18": {
+      "type": "desktop",
+      "ctime": 1504267018,
+      "mtime": 1504267018,
+      "name": "xps",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01203d769374d5272be601785b8f85c68fec01c91a8fecc19dd25555049cd566a97d0a",
+          "key_role": 1,
+          "sig_id": "5ba9c6eeab81bd5baede5cbd5d0fee40f22328da3fece0f2dd7ab646626ba1ec0f"
+        },
+        {
+          "kid": "0121adfec935c6816eb76dc3bdbba8614e269ecb1a20a1a03225c85bdcf7d31643620a",
+          "key_role": 2,
+          "sig_id": "29c15ab152f6533ada100e66d4f84de0d33e7d2c1c09be65282f91f2572dfaf40f"
         }
       ]
     }
