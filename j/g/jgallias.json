@@ -4,10 +4,11 @@
     "username": "jgallias",
     "ctime": 1424900933,
     "mtime": 1424900933,
-    "id_version": 52,
-    "track_version": 5,
-    "last_id_change": 1474000042,
-    "username_cased": "jgallias"
+    "id_version": 66,
+    "track_version": 10,
+    "last_id_change": 1495837195,
+    "username_cased": "jgallias",
+    "status": 0
   },
   "profile": {
     "mtime": 1424901449,
@@ -34,15 +35,44 @@
       "self_signed": true
     },
     "all_bundles": [
-      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: Mailvelope v0.7.0\nComment: Email security by Mailvelope - http://www.mailvelope.com\n\nxsFNBFKZev8BD/9Ou3oRrilvYEOjxTI27aQdcfzlxLlFI5r0iY0kqwF7/RpM\nAMjANgOpGRl+nC3csT239qtOFwpnbfMK3qP9ANNOj3BG/HVTDm/B20Rohsmy\n4fB9yTKV2QNlqXjLktukGpcxNwIwbWNl0M10YKjQEbgi3l1bR4da/loI4PQi\nH/VyGCVvSpj+wv1h5WRgPrAyBm68vBtK7u7EyZEipsUfoZGf5GGlZ7diSIcJ\nXAJETTiQg1IgHDq1h3paHrEhklSbuHV3FBEGg8EI+sfhrdqSVch9q9mwjFkk\nQKfTfaasmdLCNTum8amKgQm0JUKzxBzarZl06RdcnjiTfk1UbJAKAY7Xg2QC\nAquWkkqWjLPf14cDI6r++DzPV3LJBj/lqK4BMRbKtYh0O9UVZKanvpGe7B5S\nXJae23mWzwB6NKnv9Hhw915jkERhVxoM+zAYqPgaZ3eMgdqoyd6Tg43062eI\nFStOLpQDXKVD/cNKD0m/Maly/8fihbu6x0YVZkKVGo98zEhXJoALaWwWqWku\ntAlLJqSSBX55Rn9rDwHFhyuIEu2feFIeZSBey9KZOlpgD7iuZj6EsVewOL1f\nDm31RJlK8VGkhTl9EW797x+d1dg93mAp9lhan3DFl6nrIk6CoOL2ppNechiB\nFGMHEM7uRryXdyCg7b+vot053gf59oHi4NEzswARAQABzSNKb2huIEdhbGxp\nYXMgPGpvaG5Aam9obmdhbGxpYXMuY29tPsLBXAQQAQgAEAUCUpl7CQkQoOnD\nGV3I6GwAAHt6D/40+uwnA63CobiyuRiQwKwRZUVXtnuIJn9t9P/D01sYpORz\nKql15fUYnktP3RD9BspChXSR0i+qqocL9RDinzH/hz/qUSpI5fl2WXW8sVHZ\nqxI/Ik/zVM+qLk2t4CUxoFMZ+zdeoyMXW0ong7KeInVoUcC9K6Dk2v3iSsNa\nnwrbi92Wi9EWbBTq2XC8oUFPKm8Bp1BbXroxeVpW3S2YcVrMAig36uYQaz/G\nYqsgOa5CEyvUVoqVBCPzH3wHfYZY8g+01R4n5MsrAYg4IPPXt1yfdFS8ABNL\n9fkFt5h6RQ72nzmpXcwRpR/ASjUJSCqo/pvK9bPN+etWTtN9vn2HWiUAVaPA\n5deywwihryGYQLzN/L7MWNXvvAuMBRUlwGcNL3s2uze+SBLk3Gxd0BcQtVK7\nVYpZRLvo+099A8/r+p68NDvkVnYHCc9axF8sJJh7hsAFofbMGZEEW/xlCxnM\nFk2GvlelheT+SSiXrjKo+LL+i/O0YWIJ451wFoeNRPM2/yKphViGspcYuVS/\nP3W7hNUxAqa4kUuq3hZZREXrfyG4MQEOKt6xLvptPCUP5bAZYOLmOuEfHBXY\nkrlaIxpBOHuRYh5/YNxNefEPZHCkF083o1h2yths0S/vjtm+ocO7K9dVdZJG\n1Mr94WJ8nuxF/oBDPx6gXMzt30bwnXsGHYkQaQ==\n=lL3S\n-----END PGP PUBLIC KEY BLOCK-----"
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: Mailvelope v0.7.0\nComment: Email security by Mailvelope - http://www.mailvelope.com\n\nxsFNBFKZev8BD/9Ou3oRrilvYEOjxTI27aQdcfzlxLlFI5r0iY0kqwF7/RpM\nAMjANgOpGRl+nC3csT239qtOFwpnbfMK3qP9ANNOj3BG/HVTDm/B20Rohsmy\n4fB9yTKV2QNlqXjLktukGpcxNwIwbWNl0M10YKjQEbgi3l1bR4da/loI4PQi\nH/VyGCVvSpj+wv1h5WRgPrAyBm68vBtK7u7EyZEipsUfoZGf5GGlZ7diSIcJ\nXAJETTiQg1IgHDq1h3paHrEhklSbuHV3FBEGg8EI+sfhrdqSVch9q9mwjFkk\nQKfTfaasmdLCNTum8amKgQm0JUKzxBzarZl06RdcnjiTfk1UbJAKAY7Xg2QC\nAquWkkqWjLPf14cDI6r++DzPV3LJBj/lqK4BMRbKtYh0O9UVZKanvpGe7B5S\nXJae23mWzwB6NKnv9Hhw915jkERhVxoM+zAYqPgaZ3eMgdqoyd6Tg43062eI\nFStOLpQDXKVD/cNKD0m/Maly/8fihbu6x0YVZkKVGo98zEhXJoALaWwWqWku\ntAlLJqSSBX55Rn9rDwHFhyuIEu2feFIeZSBey9KZOlpgD7iuZj6EsVewOL1f\nDm31RJlK8VGkhTl9EW797x+d1dg93mAp9lhan3DFl6nrIk6CoOL2ppNechiB\nFGMHEM7uRryXdyCg7b+vot053gf59oHi4NEzswARAQABzSNKb2huIEdhbGxp\nYXMgPGpvaG5Aam9obmdhbGxpYXMuY29tPsLBXAQQAQgAEAUCUpl7CQkQoOnD\nGV3I6GwAAHt6D/40+uwnA63CobiyuRiQwKwRZUVXtnuIJn9t9P/D01sYpORz\nKql15fUYnktP3RD9BspChXSR0i+qqocL9RDinzH/hz/qUSpI5fl2WXW8sVHZ\nqxI/Ik/zVM+qLk2t4CUxoFMZ+zdeoyMXW0ong7KeInVoUcC9K6Dk2v3iSsNa\nnwrbi92Wi9EWbBTq2XC8oUFPKm8Bp1BbXroxeVpW3S2YcVrMAig36uYQaz/G\nYqsgOa5CEyvUVoqVBCPzH3wHfYZY8g+01R4n5MsrAYg4IPPXt1yfdFS8ABNL\n9fkFt5h6RQ72nzmpXcwRpR/ASjUJSCqo/pvK9bPN+etWTtN9vn2HWiUAVaPA\n5deywwihryGYQLzN/L7MWNXvvAuMBRUlwGcNL3s2uze+SBLk3Gxd0BcQtVK7\nVYpZRLvo+099A8/r+p68NDvkVnYHCc9axF8sJJh7hsAFofbMGZEEW/xlCxnM\nFk2GvlelheT+SSiXrjKo+LL+i/O0YWIJ451wFoeNRPM2/yKphViGspcYuVS/\nP3W7hNUxAqa4kUuq3hZZREXrfyG4MQEOKt6xLvptPCUP5bAZYOLmOuEfHBXY\nkrlaIxpBOHuRYh5/YNxNefEPZHCkF083o1h2yths0S/vjtm+ocO7K9dVdZJG\n1Mr94WJ8nuxF/oBDPx6gXMzt30bwnXsGHYkQaQ==\n=lL3S\n-----END PGP PUBLIC KEY BLOCK-----",
+      "0121039c0e502544d53394629a8429d9d200ad92c02672888817048b00c43d250e500a",
+      "0120a11d674eae130a8ba35575e0c20b8d28898ea7acf4c2f07cc2f10e7f935e55670a",
+      "012062cdcb308fa96742df08d172f680d19bb1522bc8e945460483b40b48cb04926b0a",
+      "012184a9f0be53135b69b48583338fc045cf0bcdab1a42fe31cb5f6d5eee25dabc600a",
+      "0120b3c96fe7a1195c57444e6cc02967fc1f569390b1cd89532d195ac00df9642f100a",
+      "0121e6f0976c7f34b9ab937562f927eaf045108f9d23bccfeec8732b922dfe4a01660a",
+      "0120dd0ccce301545b82e1fefb178504b62d3eca1692923617a3f89ef1ebd63b9fd70a",
+      "0121d8fd0db8635cb9d2c114babfe0cea4f99478bd039e99e252f8aa52df6c8da50b0a",
+      "0120d4861a3a10b3827b2f2fae0ba84087e01f71fa290938d1e962ef6efcbec027ab0a",
+      "01213e33add2ee73897d13bd72351e4564867a57ca800ecaf8fc7ce2fe96d091ea7a0a"
     ],
-    "subkeys": [],
+    "subkeys": [
+      "012184a9f0be53135b69b48583338fc045cf0bcdab1a42fe31cb5f6d5eee25dabc600a",
+      "0121e6f0976c7f34b9ab937562f927eaf045108f9d23bccfeec8732b922dfe4a01660a",
+      "0121d8fd0db8635cb9d2c114babfe0cea4f99478bd039e99e252f8aa52df6c8da50b0a",
+      "01213e33add2ee73897d13bd72351e4564867a57ca800ecaf8fc7ce2fe96d091ea7a0a"
+    ],
     "sibkeys": [
-      "010118e25f87f78887ae70769ad467717ab98c66316deb2d1cc14e142c76200f17f80a"
+      "010118e25f87f78887ae70769ad467717ab98c66316deb2d1cc14e142c76200f17f80a",
+      "012062cdcb308fa96742df08d172f680d19bb1522bc8e945460483b40b48cb04926b0a",
+      "0120b3c96fe7a1195c57444e6cc02967fc1f569390b1cd89532d195ac00df9642f100a",
+      "0120dd0ccce301545b82e1fefb178504b62d3eca1692923617a3f89ef1ebd63b9fd70a",
+      "0120d4861a3a10b3827b2f2fae0ba84087e01f71fa290938d1e962ef6efcbec027ab0a"
     ],
     "families": {
       "010118e25f87f78887ae70769ad467717ab98c66316deb2d1cc14e142c76200f17f80a": [
-        "010118e25f87f78887ae70769ad467717ab98c66316deb2d1cc14e142c76200f17f80a"
+        "010118e25f87f78887ae70769ad467717ab98c66316deb2d1cc14e142c76200f17f80a",
+        "0121039c0e502544d53394629a8429d9d200ad92c02672888817048b00c43d250e500a",
+        "0120a11d674eae130a8ba35575e0c20b8d28898ea7acf4c2f07cc2f10e7f935e55670a",
+        "012062cdcb308fa96742df08d172f680d19bb1522bc8e945460483b40b48cb04926b0a",
+        "012184a9f0be53135b69b48583338fc045cf0bcdab1a42fe31cb5f6d5eee25dabc600a",
+        "0120b3c96fe7a1195c57444e6cc02967fc1f569390b1cd89532d195ac00df9642f100a",
+        "0121e6f0976c7f34b9ab937562f927eaf045108f9d23bccfeec8732b922dfe4a01660a",
+        "0120dd0ccce301545b82e1fefb178504b62d3eca1692923617a3f89ef1ebd63b9fd70a",
+        "0121d8fd0db8635cb9d2c114babfe0cea4f99478bd039e99e252f8aa52df6c8da50b0a",
+        "0120d4861a3a10b3827b2f2fae0ba84087e01f71fa290938d1e962ef6efcbec027ab0a",
+        "01213e33add2ee73897d13bd72351e4564867a57ca800ecaf8fc7ce2fe96d091ea7a0a"
       ]
     },
     "eldest_kid": "010118e25f87f78887ae70769ad467717ab98c66316deb2d1cc14e142c76200f17f80a",
@@ -107,6 +137,20 @@
           "service_url": "https://news.ycombinator.com/user?id=jgallias",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "john.gallias",
+          "state": 1,
+          "proof_url": "https://facebook.com/10211123114494643_10211123115174660",
+          "sig_id": "a1d7f595d509b43b747087902a6920acd3a13bf2c17902295e8d920f8b13a1970f",
+          "proof_id": "bece794d56d281640bd45410",
+          "human_url": "https://facebook.com/10211123114494643_10211123115174660",
+          "service_url": "https://www.facebook.com/john.gallias",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "generic_web_site": [
@@ -181,6 +225,20 @@
           "presentation_tag": "profile"
         }
       ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "john.gallias",
+          "state": 1,
+          "proof_url": "https://facebook.com/10211123114494643_10211123115174660",
+          "sig_id": "a1d7f595d509b43b747087902a6920acd3a13bf2c17902295e8d920f8b13a1970f",
+          "proof_id": "bece794d56d281640bd45410",
+          "human_url": "https://facebook.com/10211123114494643_10211123115174660",
+          "service_url": "https://www.facebook.com/john.gallias",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
+        }
+      ],
       "johngallias.com": [
         {
           "proof_type": "generic_web_site",
@@ -246,6 +304,18 @@
         "presentation_tag": "profile"
       },
       {
+        "proof_type": "facebook",
+        "nametag": "john.gallias",
+        "state": 1,
+        "proof_url": "https://facebook.com/10211123114494643_10211123115174660",
+        "sig_id": "a1d7f595d509b43b747087902a6920acd3a13bf2c17902295e8d920f8b13a1970f",
+        "proof_id": "bece794d56d281640bd45410",
+        "human_url": "https://facebook.com/10211123114494643_10211123115174660",
+        "service_url": "https://www.facebook.com/john.gallias",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "johngallias.com",
         "state": 1,
@@ -259,7 +329,14 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "13qRtyEMfJJqMECkdzfsGbDEHhDthJVc2L",
+        "sig_id": "070614985b9b5fcad405aaa779949891e49e7823d1efd22b7cb81c5906b18e4c0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/b09e2e94cf30df7c09aaeeb356cf9a05_360_360_square_360.jpeg",
@@ -270,10 +347,87 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3cf13f0002163f0c288f2ec0d522e0810efd01dc1d5107528b45e2930f9be7480f",
-      "seqno": 12,
-      "payload_hash": "322e0737c92800416e76f6fc139bc49424adb705350dc5d86785a091dfb5c990"
+      "sig_id": "070614985b9b5fcad405aaa779949891e49e7823d1efd22b7cb81c5906b18e4c0f",
+      "seqno": 31,
+      "payload_hash": "db31e753c8a18c8a0b338eb41b25500714b2d7a84c6ae04d5270a99e6d48f919"
     }
   },
-  "devices": {}
+  "devices": {
+    "19767f367c8197ae3b9727ef32d34d18": {
+      "type": "desktop",
+      "ctime": 1495666933,
+      "mtime": 1495666933,
+      "name": "jgallias-xps13-3",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d4861a3a10b3827b2f2fae0ba84087e01f71fa290938d1e962ef6efcbec027ab0a",
+          "key_role": 1,
+          "sig_id": "a43f43e10e62211c675508eac24cfc1e5f01d5b4a6e9c5bdb867b90b9863ac9c0f"
+        },
+        {
+          "kid": "01213e33add2ee73897d13bd72351e4564867a57ca800ecaf8fc7ce2fe96d091ea7a0a",
+          "key_role": 2,
+          "sig_id": "4788e131652913c2adaa04769a58c2f4c22d6d316bd9047879fe248b4e2795fa0f"
+        }
+      ]
+    },
+    "25923ae457cf3cb3351df7a7c0a75c18": {
+      "type": "backup",
+      "ctime": 1489378505,
+      "mtime": 1489378505,
+      "name": "extra boss",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012062cdcb308fa96742df08d172f680d19bb1522bc8e945460483b40b48cb04926b0a",
+          "key_role": 1,
+          "sig_id": "744f24fdb8ad022d0c4d48e3186642bb0dd1b65b9adc03882eb152ae4564f0a40f"
+        },
+        {
+          "kid": "012184a9f0be53135b69b48583338fc045cf0bcdab1a42fe31cb5f6d5eee25dabc600a",
+          "key_role": 2,
+          "sig_id": "28e9ac6c5f4b662f7d5727d79f33cc7abad4b7be208688586fd0f123be1195520f"
+        }
+      ]
+    },
+    "aa296d6a024b14d1466367f153184d18": {
+      "type": "desktop",
+      "ctime": 1495001915,
+      "mtime": 1495001915,
+      "name": "jgallias-xps13-2",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120dd0ccce301545b82e1fefb178504b62d3eca1692923617a3f89ef1ebd63b9fd70a",
+          "key_role": 1,
+          "sig_id": "63a2ec5cc9170a60e3de6b964640976d7537a92849e94c12ee82f8608a6fcd740f"
+        },
+        {
+          "kid": "0121d8fd0db8635cb9d2c114babfe0cea4f99478bd039e99e252f8aa52df6c8da50b0a",
+          "key_role": 2,
+          "sig_id": "14cf6260032e6ebd9d61f331e4a068b2d4d782be14772a35dcd2f2090f9ab9c70f"
+        }
+      ]
+    },
+    "b076fd6d52d156848b4891c7b526fb18": {
+      "type": "mobile",
+      "ctime": 1494556531,
+      "mtime": 1494556531,
+      "name": "JGiPhone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b3c96fe7a1195c57444e6cc02967fc1f569390b1cd89532d195ac00df9642f100a",
+          "key_role": 1,
+          "sig_id": "bb4376914ac2a97d6e0da054963d0fe9a24f92568d7346c839c2909d52ab3eb40f"
+        },
+        {
+          "kid": "0121e6f0976c7f34b9ab937562f927eaf045108f9d23bccfeec8732b922dfe4a01660a",
+          "key_role": 2,
+          "sig_id": "af31bd48fcd087e079aa16a618ee681de9eb7ef926ec00f55c70199ac9abc5820f"
+        }
+      ]
+    }
+  }
 }
