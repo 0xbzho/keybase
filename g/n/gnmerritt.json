@@ -4,10 +4,11 @@
     "username": "gnmerritt",
     "ctime": 1415368755,
     "mtime": 1415368755,
-    "id_version": 58,
-    "track_version": 7,
-    "last_id_change": 1476588164,
-    "username_cased": "gnmerritt"
+    "id_version": 82,
+    "track_version": 21,
+    "last_id_change": 1495839059,
+    "username_cased": "gnmerritt",
+    "status": 0
   },
   "profile": {
     "mtime": 1415400527,
@@ -39,16 +40,20 @@
       "012114a78b92af5d2da5cb67ebe06160a27ff2282301307ac0d859236fe4aa1eda3c0a",
       "01218192e47a1555d79eb716b709c14593c387c557e38338a83b0ae67ac03dfcd8750a",
       "012088c0dd1d110b9d27da8af4519deddfa4bb852d1d471c4f84e0bebd763cae1df30a",
-      "0120bb09acd5271fb2f44c27c2d0f6019d563d356f9052c29ab39ccbe3d1814437a30a"
+      "0120bb09acd5271fb2f44c27c2d0f6019d563d356f9052c29ab39ccbe3d1814437a30a",
+      "0121815fc3c287fa294857f6af4b2976d1f432fe236fe8939a2add9a62eb546df6030a",
+      "0120dbc352a2785289671bbe61320dcf32f0a1179fab15790f0ceea308e6ae6ca1930a"
     ],
     "subkeys": [
       "012114a78b92af5d2da5cb67ebe06160a27ff2282301307ac0d859236fe4aa1eda3c0a",
-      "01218192e47a1555d79eb716b709c14593c387c557e38338a83b0ae67ac03dfcd8750a"
+      "01218192e47a1555d79eb716b709c14593c387c557e38338a83b0ae67ac03dfcd8750a",
+      "0121815fc3c287fa294857f6af4b2976d1f432fe236fe8939a2add9a62eb546df6030a"
     ],
     "sibkeys": [
       "0101df8f275f24ff9a812636db2dc93fda9b93822ff68417741839276e5117d18ba20a",
       "012088c0dd1d110b9d27da8af4519deddfa4bb852d1d471c4f84e0bebd763cae1df30a",
-      "0120bb09acd5271fb2f44c27c2d0f6019d563d356f9052c29ab39ccbe3d1814437a30a"
+      "0120bb09acd5271fb2f44c27c2d0f6019d563d356f9052c29ab39ccbe3d1814437a30a",
+      "0120dbc352a2785289671bbe61320dcf32f0a1179fab15790f0ceea308e6ae6ca1930a"
     ],
     "families": {
       "0101df8f275f24ff9a812636db2dc93fda9b93822ff68417741839276e5117d18ba20a": [
@@ -57,7 +62,9 @@
         "012114a78b92af5d2da5cb67ebe06160a27ff2282301307ac0d859236fe4aa1eda3c0a",
         "01218192e47a1555d79eb716b709c14593c387c557e38338a83b0ae67ac03dfcd8750a",
         "012088c0dd1d110b9d27da8af4519deddfa4bb852d1d471c4f84e0bebd763cae1df30a",
-        "0120bb09acd5271fb2f44c27c2d0f6019d563d356f9052c29ab39ccbe3d1814437a30a"
+        "0120bb09acd5271fb2f44c27c2d0f6019d563d356f9052c29ab39ccbe3d1814437a30a",
+        "0121815fc3c287fa294857f6af4b2976d1f432fe236fe8939a2add9a62eb546df6030a",
+        "0120dbc352a2785289671bbe61320dcf32f0a1179fab15790f0ceea308e6ae6ca1930a"
       ]
     },
     "eldest_kid": "0101df8f275f24ff9a812636db2dc93fda9b93822ff68417741839276e5117d18ba20a",
@@ -96,17 +103,31 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
+      "reddit": [
         {
-          "proof_type": "coinbase",
+          "proof_type": "reddit",
+          "nametag": "sath4n",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5cbxaj/my_keybase_proof_redditsath4n_keybasegnmerritt_j/",
+          "sig_id": "8ff62389977bc3590f6c39e2fc8746c8c8a775bd9f4018de7ad6b3b16e56bff50f",
+          "proof_id": "9b44b9991a40a4d41d02ad10",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5cbxaj/my_keybase_proof_redditsath4n_keybasegnmerritt_j/",
+          "service_url": "https://reddit.com/user/sath4n",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
           "nametag": "gnmerritt",
           "state": 1,
-          "proof_url": "https://coinbase.com/gnmerritt/public-key",
-          "sig_id": "86f64064663a39e2bc845ac16cd1ebad68138f6611deec1631fbed51eb7e238b0f",
-          "proof_id": "09e31f5119d03bf9207e5810",
-          "human_url": "https://coinbase.com/gnmerritt/public-key",
-          "service_url": "https://coinbase.com/gnmerritt",
-          "presentation_group": "coinbase",
+          "proof_url": "https://facebook.com/10207949787002104_10207949799722422",
+          "sig_id": "306096f404d3e79dbdf9967cd0b3a95c735e5890114d5e30a8b66eceaf0251790f",
+          "proof_id": "5ac814ce2518ce913dae1b10",
+          "human_url": "https://facebook.com/10207949787002104_10207949799722422",
+          "service_url": "https://www.facebook.com/gnmerritt",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
         }
       ],
@@ -116,8 +137,8 @@
           "nametag": "gnmerritt.net",
           "state": 1,
           "proof_url": "https://gnmerritt.net/keybase.txt",
-          "sig_id": "356e8188e64571a360f4de8516ffbbf0dcdd78071bc36ce434f8b0d54bf518e00f",
-          "proof_id": "343ecdb76627c5c099acc010",
+          "sig_id": "6883b708a852a3344ab8d4303f0443cbe278dd36b6cfda705754eb3fb08425a50f",
+          "proof_id": "ca40b9c96c7ab71b0a8bb110",
           "human_url": "https://gnmerritt.net/keybase.txt",
           "service_url": "https://gnmerritt.net",
           "presentation_group": "gnmerritt.net",
@@ -154,17 +175,31 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
+      "reddit": [
         {
-          "proof_type": "coinbase",
+          "proof_type": "reddit",
+          "nametag": "sath4n",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5cbxaj/my_keybase_proof_redditsath4n_keybasegnmerritt_j/",
+          "sig_id": "8ff62389977bc3590f6c39e2fc8746c8c8a775bd9f4018de7ad6b3b16e56bff50f",
+          "proof_id": "9b44b9991a40a4d41d02ad10",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5cbxaj/my_keybase_proof_redditsath4n_keybasegnmerritt_j/",
+          "service_url": "https://reddit.com/user/sath4n",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
           "nametag": "gnmerritt",
           "state": 1,
-          "proof_url": "https://coinbase.com/gnmerritt/public-key",
-          "sig_id": "86f64064663a39e2bc845ac16cd1ebad68138f6611deec1631fbed51eb7e238b0f",
-          "proof_id": "09e31f5119d03bf9207e5810",
-          "human_url": "https://coinbase.com/gnmerritt/public-key",
-          "service_url": "https://coinbase.com/gnmerritt",
-          "presentation_group": "coinbase",
+          "proof_url": "https://facebook.com/10207949787002104_10207949799722422",
+          "sig_id": "306096f404d3e79dbdf9967cd0b3a95c735e5890114d5e30a8b66eceaf0251790f",
+          "proof_id": "5ac814ce2518ce913dae1b10",
+          "human_url": "https://facebook.com/10207949787002104_10207949799722422",
+          "service_url": "https://www.facebook.com/gnmerritt",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
         }
       ],
@@ -174,8 +209,8 @@
           "nametag": "gnmerritt.net",
           "state": 1,
           "proof_url": "https://gnmerritt.net/keybase.txt",
-          "sig_id": "356e8188e64571a360f4de8516ffbbf0dcdd78071bc36ce434f8b0d54bf518e00f",
-          "proof_id": "343ecdb76627c5c099acc010",
+          "sig_id": "6883b708a852a3344ab8d4303f0443cbe278dd36b6cfda705754eb3fb08425a50f",
+          "proof_id": "ca40b9c96c7ab71b0a8bb110",
           "human_url": "https://gnmerritt.net/keybase.txt",
           "service_url": "https://gnmerritt.net",
           "presentation_group": "gnmerritt.net",
@@ -209,15 +244,27 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
+        "proof_type": "reddit",
+        "nametag": "sath4n",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5cbxaj/my_keybase_proof_redditsath4n_keybasegnmerritt_j/",
+        "sig_id": "8ff62389977bc3590f6c39e2fc8746c8c8a775bd9f4018de7ad6b3b16e56bff50f",
+        "proof_id": "9b44b9991a40a4d41d02ad10",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5cbxaj/my_keybase_proof_redditsath4n_keybasegnmerritt_j/",
+        "service_url": "https://reddit.com/user/sath4n",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "facebook",
         "nametag": "gnmerritt",
         "state": 1,
-        "proof_url": "https://coinbase.com/gnmerritt/public-key",
-        "sig_id": "86f64064663a39e2bc845ac16cd1ebad68138f6611deec1631fbed51eb7e238b0f",
-        "proof_id": "09e31f5119d03bf9207e5810",
-        "human_url": "https://coinbase.com/gnmerritt/public-key",
-        "service_url": "https://coinbase.com/gnmerritt",
-        "presentation_group": "coinbase",
+        "proof_url": "https://facebook.com/10207949787002104_10207949799722422",
+        "sig_id": "306096f404d3e79dbdf9967cd0b3a95c735e5890114d5e30a8b66eceaf0251790f",
+        "proof_id": "5ac814ce2518ce913dae1b10",
+        "human_url": "https://facebook.com/10207949787002104_10207949799722422",
+        "service_url": "https://www.facebook.com/gnmerritt",
+        "presentation_group": "facebook",
         "presentation_tag": "post"
       },
       {
@@ -225,8 +272,8 @@
         "nametag": "gnmerritt.net",
         "state": 1,
         "proof_url": "https://gnmerritt.net/keybase.txt",
-        "sig_id": "356e8188e64571a360f4de8516ffbbf0dcdd78071bc36ce434f8b0d54bf518e00f",
-        "proof_id": "343ecdb76627c5c099acc010",
+        "sig_id": "6883b708a852a3344ab8d4303f0443cbe278dd36b6cfda705754eb3fb08425a50f",
+        "proof_id": "ca40b9c96c7ab71b0a8bb110",
         "human_url": "https://gnmerritt.net/keybase.txt",
         "service_url": "https://gnmerritt.net",
         "presentation_group": "gnmerritt.net",
@@ -234,10 +281,17 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "zcash": [
+      {
+        "address": "zcP7WQuszRCbq87etWatmrmKKt5R9jwaDcgqfroXPuSt7X8zuNDUNQ9UKu48pCrerZgjxqCdbkjhnAATAhvwcdTyEJQoc7N",
+        "sig_id": "4a62cdb97ea1978211dd2a5671a0bf2f1a4313badc3618782814913abecc201a0f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/d2722d7aa06e020bbde37bb8aacb6a05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f4409746c47056f222b7b8008e16e105_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -245,16 +299,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "fa6831d3faba87baf75d2e1cda6f8fb6843661caa9475aaffc952d3b46087def0f",
-      "seqno": 22,
-      "payload_hash": "5b4f60dde2d7bfebb2b1b869bef024368bb28e41ebaf950b363a574411ee319d"
+      "sig_id": "04553665e270bc6b5c09a34fb0faf530434ec7b9d75ff20e0c979b75d865e66c0f",
+      "seqno": 44,
+      "payload_hash": "5057764929d0011fe3bf1132de12dd4a29f77015bd8dad2ffcd2324bc2a05a32"
     }
   },
   "devices": {
     "60e6c1ecf53db44b1b25fdab2565b218": {
       "type": "backup",
-      "ctime": 1460133280,
-      "mtime": 1460133280,
+      "ctime": 1460136880,
+      "mtime": 1460136880,
       "name": "plunge horse",
       "status": 1,
       "keys": [
@@ -270,10 +324,29 @@
         }
       ]
     },
+    "7d777e27fbf533b53cf5ffb25e72a318": {
+      "type": "mobile",
+      "ctime": 1494816194,
+      "mtime": 1494816194,
+      "name": "nathans phone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120dbc352a2785289671bbe61320dcf32f0a1179fab15790f0ceea308e6ae6ca1930a",
+          "key_role": 1,
+          "sig_id": "aee5f58bc71eebec8231c9460a2ba206232f85eb4b47b5c89568ca0c4c4f8c850f"
+        },
+        {
+          "kid": "0121815fc3c287fa294857f6af4b2976d1f432fe236fe8939a2add9a62eb546df6030a",
+          "key_role": 2,
+          "sig_id": "57e6146e0f576f8f8472828901dd5f901849884e8fc2654aa952ed60778281fe0f"
+        }
+      ]
+    },
     "bdda93e47a3c86f91b6b35bdd7618118": {
       "type": "desktop",
-      "ctime": 1460133280,
-      "mtime": 1460133280,
+      "ctime": 1460136880,
+      "mtime": 1460136880,
       "name": "gaddafi",
       "status": 1,
       "keys": [
