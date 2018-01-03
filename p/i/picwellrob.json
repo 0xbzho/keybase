@@ -1,0 +1,99 @@
+{
+  "id": "55e9ea06cffacee74b4662ca60d20e19",
+  "basics": {
+    "username": "picwellrob",
+    "ctime": 1492708563,
+    "mtime": 1492708563,
+    "id_version": 2,
+    "track_version": 1,
+    "last_id_change": 1492708564,
+    "username_cased": "picwellrob",
+    "status": 0
+  },
+  "profile": {
+    "mtime": 1492708619,
+    "full_name": "Rob Bircher",
+    "location": "Oakland",
+    "bio": null
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121c5ac92a4f0de08b3c33694d768253ed48b8fbb290b95df923f7962420c34b6180a",
+      "01209060a5c8455e24eacf4f46c5fd08fcf106cdbc84f1a118ededfcd03f11dbf3930a",
+      "01215da4850448ed04c71ebe4f197bf8967fbc7c1220ed5ae6bd171dff13188b504b0a",
+      "0120431874857042d79e369bcdb947fd23e691b13d336f62467e7321d30f84b8c49b0a"
+    ],
+    "subkeys": [
+      "0121c5ac92a4f0de08b3c33694d768253ed48b8fbb290b95df923f7962420c34b6180a",
+      "01215da4850448ed04c71ebe4f197bf8967fbc7c1220ed5ae6bd171dff13188b504b0a"
+    ],
+    "sibkeys": [
+      "01209060a5c8455e24eacf4f46c5fd08fcf106cdbc84f1a118ededfcd03f11dbf3930a",
+      "0120431874857042d79e369bcdb947fd23e691b13d336f62467e7321d30f84b8c49b0a"
+    ],
+    "families": {
+      "01209060a5c8455e24eacf4f46c5fd08fcf106cdbc84f1a118ededfcd03f11dbf3930a": [
+        "0121c5ac92a4f0de08b3c33694d768253ed48b8fbb290b95df923f7962420c34b6180a",
+        "01209060a5c8455e24eacf4f46c5fd08fcf106cdbc84f1a118ededfcd03f11dbf3930a",
+        "01215da4850448ed04c71ebe4f197bf8967fbc7c1220ed5ae6bd171dff13188b504b0a",
+        "0120431874857042d79e369bcdb947fd23e691b13d336f62467e7321d30f84b8c49b0a"
+      ]
+    },
+    "eldest_kid": "01209060a5c8455e24eacf4f46c5fd08fcf106cdbc84f1a118ededfcd03f11dbf3930a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "b87f6ec578253641a7c23f8445df60eb0a40f247840a68dc948a165bb448899b0f",
+      "seqno": 5,
+      "payload_hash": "1fd39ffdd47e7edfabd89fd998e41deb405a64cd72e2d85b8eb84167a21f9601"
+    }
+  },
+  "devices": {
+    "7944b56e17608e15099e88ad27e20d18": {
+      "type": "backup",
+      "ctime": 1492708564,
+      "mtime": 1492708564,
+      "name": "fabric gather",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120431874857042d79e369bcdb947fd23e691b13d336f62467e7321d30f84b8c49b0a",
+          "key_role": 1,
+          "sig_id": "389fe234dba1026e4f4bd9b6319e2db9793d0f10fe8a76af76532096fcf19ff20f"
+        },
+        {
+          "kid": "0121c5ac92a4f0de08b3c33694d768253ed48b8fbb290b95df923f7962420c34b6180a",
+          "key_role": 2,
+          "sig_id": "667b877066c6db487485353fdc0a4374904e0cfdb68539e161f14ac0a3eca7e30f"
+        }
+      ]
+    },
+    "ffd86f723a703a23dbaa731bc46dcd18": {
+      "type": "desktop",
+      "ctime": 1492708564,
+      "mtime": 1492708564,
+      "name": "PicwellMac",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209060a5c8455e24eacf4f46c5fd08fcf106cdbc84f1a118ededfcd03f11dbf3930a",
+          "key_role": 1,
+          "sig_id": "0b4b4c86506f42f2837393229ea380a0f54e3dc4c666c084eec0808172155d680f"
+        },
+        {
+          "kid": "01215da4850448ed04c71ebe4f197bf8967fbc7c1220ed5ae6bd171dff13188b504b0a",
+          "key_role": 2,
+          "sig_id": "5180ddc75eae7b7065e7edc9a2ebdae74df3be6b50b0605be6f59692950a802b0f"
+        }
+      ]
+    }
+  }
+}

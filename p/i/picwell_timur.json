@@ -1,0 +1,93 @@
+{
+  "id": "e844833845aa66e11adb27655cc42919",
+  "basics": {
+    "username": "picwell_timur",
+    "ctime": 1488379555,
+    "mtime": 1488379555,
+    "id_version": 2,
+    "track_version": 3,
+    "last_id_change": 1488379556,
+    "username_cased": "picwell_timur",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "01211382845857b4314b4b418cef09a554a0c6ddf7301522c6a7528d9d0270614c6c0a",
+      "012087415b8f8f1c3b454ee9774514523a2b6c1118d3f18875b91747d8b35687966b0a",
+      "0120d14fafbd0039d1cd53d96bf5b7a7cdd2c9d7a162731f1494252a8e40c12ec42b0a",
+      "0121e29f6537747cb2eaab519e204adb67b0f0dacfac1a1b531eb34bc4c01c06001e0a"
+    ],
+    "subkeys": [
+      "01211382845857b4314b4b418cef09a554a0c6ddf7301522c6a7528d9d0270614c6c0a",
+      "0121e29f6537747cb2eaab519e204adb67b0f0dacfac1a1b531eb34bc4c01c06001e0a"
+    ],
+    "sibkeys": [
+      "012087415b8f8f1c3b454ee9774514523a2b6c1118d3f18875b91747d8b35687966b0a",
+      "0120d14fafbd0039d1cd53d96bf5b7a7cdd2c9d7a162731f1494252a8e40c12ec42b0a"
+    ],
+    "families": {
+      "0120d14fafbd0039d1cd53d96bf5b7a7cdd2c9d7a162731f1494252a8e40c12ec42b0a": [
+        "01211382845857b4314b4b418cef09a554a0c6ddf7301522c6a7528d9d0270614c6c0a",
+        "012087415b8f8f1c3b454ee9774514523a2b6c1118d3f18875b91747d8b35687966b0a",
+        "0120d14fafbd0039d1cd53d96bf5b7a7cdd2c9d7a162731f1494252a8e40c12ec42b0a",
+        "0121e29f6537747cb2eaab519e204adb67b0f0dacfac1a1b531eb34bc4c01c06001e0a"
+      ]
+    },
+    "eldest_kid": "0120d14fafbd0039d1cd53d96bf5b7a7cdd2c9d7a162731f1494252a8e40c12ec42b0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "5534ed3dbcaf56545c851fb42c19810547c95c44e1521eea5adec777a9dce9c60f",
+      "seqno": 8,
+      "payload_hash": "a4e1fcfcdaea0a87a288f6e75a5543679d6de3e8f8ce58c08b9156589c6d9d95"
+    }
+  },
+  "devices": {
+    "0b1e655f3a4c8ae55e24045a279ff118": {
+      "type": "backup",
+      "ctime": 1488379556,
+      "mtime": 1488379556,
+      "name": "right wrist",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012087415b8f8f1c3b454ee9774514523a2b6c1118d3f18875b91747d8b35687966b0a",
+          "key_role": 1,
+          "sig_id": "cc306e3d2c0da445aae3b8d053ef7c031072e4dda1ae20154bf69760b3453f5b0f"
+        },
+        {
+          "kid": "01211382845857b4314b4b418cef09a554a0c6ddf7301522c6a7528d9d0270614c6c0a",
+          "key_role": 2,
+          "sig_id": "437537c1176345ad9c99b579cba106afaeea3ba8ee2ae6cd332f84b826ea4ea60f"
+        }
+      ]
+    },
+    "3659ed08139e2137a231cf152edce418": {
+      "type": "desktop",
+      "ctime": 1488379556,
+      "mtime": 1488379556,
+      "name": "Picwell Computer",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d14fafbd0039d1cd53d96bf5b7a7cdd2c9d7a162731f1494252a8e40c12ec42b0a",
+          "key_role": 1,
+          "sig_id": "867052ec43209d343652a31e71174d7c1d23c62c0b579e7ddab20fd56479b96e0f"
+        },
+        {
+          "kid": "0121e29f6537747cb2eaab519e204adb67b0f0dacfac1a1b531eb34bc4c01c06001e0a",
+          "key_role": 2,
+          "sig_id": "2ad2e3699bbe80862b534dbda1ee576b650c4a5a84ffd9d1d57071a1d6a46a450f"
+        }
+      ]
+    }
+  }
+}
