@@ -4,10 +4,11 @@
     "username": "dguenther",
     "ctime": 1454692662,
     "mtime": 1454692662,
-    "id_version": 14,
+    "id_version": 16,
     "track_version": 3,
-    "last_id_change": 1454789012,
-    "username_cased": "dguenther"
+    "last_id_change": 1487849924,
+    "username_cased": "dguenther",
+    "status": 0
   },
   "public_keys": {
     "primary": {
@@ -42,12 +43,10 @@
       "0121dccfc420367ae2326ac1d618900ba7dd1843d552045ac3e095c8096ff10321530a"
     ],
     "subkeys": [
-      "01215056afeb3e9c74c72a4e7889204a763d8b536cf41e06250992bf68b3587bf90b0a",
       "0121e7202b0acf2f5ae739048b179682e65a7e39d9a27bcfbb8688eae264afd7016d0a",
       "0121dccfc420367ae2326ac1d618900ba7dd1843d552045ac3e095c8096ff10321530a"
     ],
     "sibkeys": [
-      "01207377ac38da59d62ab8b933517c9c20e9bb42f2596e9cd25ff55b33c22a8d77800a",
       "012081c667aa3010a7b44bfd1c1dc7fc2c725f4d65701fc3cb698ce42e62f35f2bbd0a",
       "01019ad7afd7661b0f7b833678558614dfc173358d15a63ebee29e1763011bec7f830a",
       "012070646e99f986b5c53c040b1c57b6288c66b645f4bae236e83aabf4a154a6b74b0a"
@@ -175,31 +174,12 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "9c4e2a96d9f64d79cca2ce1eb9e68ac4125d3ce380ad5e36f62eadf8694d92700f",
-      "seqno": 18,
-      "payload_hash": "931d7f922a56d497ad3c4d7d15e72a366155d234f371fd1b27ff3ffb9ca971e2"
+      "sig_id": "717f03ef8a24a97b1840e7578a025af6862c319b6c93e08f6c9155851e95387e0f",
+      "seqno": 20,
+      "payload_hash": "f7283fad3f02713d1de12c429f693f207983c3fc00e19ecc776f133671b45742"
     }
   },
   "devices": {
-    "0fe45b319ec224418a231532f6b5a118": {
-      "type": "desktop",
-      "ctime": 1454694355,
-      "mtime": 1454694355,
-      "name": "new work computer",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01207377ac38da59d62ab8b933517c9c20e9bb42f2596e9cd25ff55b33c22a8d77800a",
-          "key_role": 1,
-          "sig_id": "27b2a674a83757eed0c61c81ba3e9aaf0dbb0acc30c184faae4d64014f74106c0f"
-        },
-        {
-          "kid": "01215056afeb3e9c74c72a4e7889204a763d8b536cf41e06250992bf68b3587bf90b0a",
-          "key_role": 2,
-          "sig_id": "b8c478f7febe06e3de3ab21c2fa0fdc7f6b701e344d54b266f370ab4c59de23f0f"
-        }
-      ]
-    },
     "eda9bbc9a0e6153373087319d9ada618": {
       "type": "desktop",
       "ctime": 1454789012,
