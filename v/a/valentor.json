@@ -1,0 +1,93 @@
+{
+  "id": "b7c97e15ae4241062e715405d47c6119",
+  "basics": {
+    "username": "valentor",
+    "ctime": 1485766208,
+    "mtime": 1485766208,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1485766312,
+    "username_cased": "valentor",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "01212d41a9eeba007bbe633f001fca01aa32efa0966484b6ed01ae50ffc5c0845c770a",
+      "0120413eacf916b3e55b2b0a7168b4fe3921a921bbc410b9279cbed794407606afd00a",
+      "0121eae48335a023e2ea719e4e95fc7d371d40317dd83bceba590c8bbe8f5f106b230a",
+      "012089c9c651a474c6a48160348ebbb1f6810dc35fe067714efa63cbb395575e3c730a"
+    ],
+    "subkeys": [
+      "01212d41a9eeba007bbe633f001fca01aa32efa0966484b6ed01ae50ffc5c0845c770a",
+      "0121eae48335a023e2ea719e4e95fc7d371d40317dd83bceba590c8bbe8f5f106b230a"
+    ],
+    "sibkeys": [
+      "0120413eacf916b3e55b2b0a7168b4fe3921a921bbc410b9279cbed794407606afd00a",
+      "012089c9c651a474c6a48160348ebbb1f6810dc35fe067714efa63cbb395575e3c730a"
+    ],
+    "families": {
+      "012089c9c651a474c6a48160348ebbb1f6810dc35fe067714efa63cbb395575e3c730a": [
+        "01212d41a9eeba007bbe633f001fca01aa32efa0966484b6ed01ae50ffc5c0845c770a",
+        "0120413eacf916b3e55b2b0a7168b4fe3921a921bbc410b9279cbed794407606afd00a",
+        "0121eae48335a023e2ea719e4e95fc7d371d40317dd83bceba590c8bbe8f5f106b230a",
+        "012089c9c651a474c6a48160348ebbb1f6810dc35fe067714efa63cbb395575e3c730a"
+      ]
+    },
+    "eldest_kid": "012089c9c651a474c6a48160348ebbb1f6810dc35fe067714efa63cbb395575e3c730a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "2cb398d0703025666c29408e82eb380eb4b17fa1b563832b8c8e6d5d91a5ff0a0f",
+      "seqno": 4,
+      "payload_hash": "482128b61c29ae0d1b6b6e12150f84aea44861c3deab462d9945fa9fe4ef0345"
+    }
+  },
+  "devices": {
+    "a92d3d70612ac47c92e4cbd07b0c8218": {
+      "type": "backup",
+      "ctime": 1485766312,
+      "mtime": 1485766312,
+      "name": "frog clip",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120413eacf916b3e55b2b0a7168b4fe3921a921bbc410b9279cbed794407606afd00a",
+          "key_role": 1,
+          "sig_id": "dc413b3f23e5d23c10e6ab6c83d1a735da04ee870cde2bd194e39511184891c50f"
+        },
+        {
+          "kid": "0121eae48335a023e2ea719e4e95fc7d371d40317dd83bceba590c8bbe8f5f106b230a",
+          "key_role": 2,
+          "sig_id": "2cb398d0703025666c29408e82eb380eb4b17fa1b563832b8c8e6d5d91a5ff0a0f"
+        }
+      ]
+    },
+    "c8f48be53d5c16cd4dd69f78f0158f18": {
+      "type": "desktop",
+      "ctime": 1485766312,
+      "mtime": 1485766312,
+      "name": "Macbook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012089c9c651a474c6a48160348ebbb1f6810dc35fe067714efa63cbb395575e3c730a",
+          "key_role": 1,
+          "sig_id": "f76f3fb00eecc3d4da120b15734f8e4d8a9913573cc3ca90097802ffac01d5d00f"
+        },
+        {
+          "kid": "01212d41a9eeba007bbe633f001fca01aa32efa0966484b6ed01ae50ffc5c0845c770a",
+          "key_role": 2,
+          "sig_id": "601bc38fd16e909709db31f9d5b85a86d200dc1a65a8645cfdf98f65ce45363d0f"
+        }
+      ]
+    }
+  }
+}
