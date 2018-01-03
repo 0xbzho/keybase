@@ -2,12 +2,13 @@
   "id": "629f1fb018b47e44d93f6b9692878b00",
   "basics": {
     "username": "mcm",
-    "ctime": 1403773466,
-    "mtime": 1403773466,
-    "id_version": 39,
+    "ctime": 1403777066,
+    "mtime": 1403777066,
+    "id_version": 55,
     "track_version": 6,
-    "last_id_change": 1472670911,
-    "username_cased": "mcm"
+    "last_id_change": 1505921016,
+    "username_cased": "mcm",
+    "status": 0
   },
   "profile": {
     "mtime": 1415440836,
@@ -43,20 +44,18 @@
       "0121d095e3e029d9803e7bfbd135cebebb97eae7787906b6ab4b1d61a074751e86030a",
       "0120ffcddd59409f987555fbd8219b269b5bb7cb8fb18e1fff6a90bf1445bc0c82e40a",
       "0121232cca56dca290177dafb4aedb5b934fd43b9acf470eefa00d61b502cdc03f2f0a",
-      "0120fbd22d5b2782b064a7fb13ba20d8053f4d326a7154d5f6b209ca3bbc8a59049d0a"
+      "0120fbd22d5b2782b064a7fb13ba20d8053f4d326a7154d5f6b209ca3bbc8a59049d0a",
+      "01212ac4a96b3c070a34c08b115a5bd630f4547df91a1cd8a975fd9220e25cf347100a",
+      "0120dd38607f47b68fb74ed4baa6061f6553ffcdb9b950577927456dc1ec29e8c4540a"
     ],
     "subkeys": [
       "01215e3f7f6c88d7e8400e5c776fcf28ee07c087805d3f2215f6fcd2f6765be85e410a",
-      "0121962c8544f502b44d99c8e796d543335daed601489a75f0d66c40588c6421f43a0a",
-      "0121d095e3e029d9803e7bfbd135cebebb97eae7787906b6ab4b1d61a074751e86030a",
-      "0121232cca56dca290177dafb4aedb5b934fd43b9acf470eefa00d61b502cdc03f2f0a"
+      "01212ac4a96b3c070a34c08b115a5bd630f4547df91a1cd8a975fd9220e25cf347100a"
     ],
     "sibkeys": [
       "01012f3e66e1ece15cd7a161db39734dcae78d4e12038b231054012c0c52f77f20860a",
-      "0120cdaa979ddc02f97804fbdd62594d67bf7d38f378ff49caf5dfb26cc9b647bc120a",
       "012077cc7cf7af09c4bc86efb8baa925bbcd1c7af52c9d8f39214438951fa706c4ad0a",
-      "0120ffcddd59409f987555fbd8219b269b5bb7cb8fb18e1fff6a90bf1445bc0c82e40a",
-      "0120fbd22d5b2782b064a7fb13ba20d8053f4d326a7154d5f6b209ca3bbc8a59049d0a"
+      "0120dd38607f47b68fb74ed4baa6061f6553ffcdb9b950577927456dc1ec29e8c4540a"
     ],
     "families": {
       "0101385d7aca96f882464b622ca03f0c521de27c98951d9e363adfc8ba05603daf100a": [
@@ -71,7 +70,9 @@
         "0121d095e3e029d9803e7bfbd135cebebb97eae7787906b6ab4b1d61a074751e86030a",
         "0120ffcddd59409f987555fbd8219b269b5bb7cb8fb18e1fff6a90bf1445bc0c82e40a",
         "0121232cca56dca290177dafb4aedb5b934fd43b9acf470eefa00d61b502cdc03f2f0a",
-        "0120fbd22d5b2782b064a7fb13ba20d8053f4d326a7154d5f6b209ca3bbc8a59049d0a"
+        "0120fbd22d5b2782b064a7fb13ba20d8053f4d326a7154d5f6b209ca3bbc8a59049d0a",
+        "01212ac4a96b3c070a34c08b115a5bd630f4547df91a1cd8a975fd9220e25cf347100a",
+        "0120dd38607f47b68fb74ed4baa6061f6553ffcdb9b950577927456dc1ec29e8c4540a"
       ]
     },
     "eldest_kid": "01012f3e66e1ece15cd7a161db39734dcae78d4e12038b231054012c0c52f77f20860a",
@@ -96,19 +97,21 @@
           "presentation_tag": "gist"
         }
       ],
-      "dns": [
+      "reddit": [
         {
-          "proof_type": "dns",
-          "nametag": "mcflux.net",
+          "proof_type": "reddit",
+          "nametag": "geekmatt",
           "state": 1,
-          "proof_url": "https://keybase.io/mcm/sigchain#6fb5dab4cbd23eb626bae12539e6263ce3ecdddc6f266d208b2123ccc231b5620f",
-          "sig_id": "6fb5dab4cbd23eb626bae12539e6263ce3ecdddc6f266d208b2123ccc231b5620f",
-          "proof_id": "0273d9f8b14f018884342510",
-          "human_url": "dns://mcflux.net",
-          "service_url": "http://mcflux.net",
-          "presentation_group": "mcflux.net",
-          "presentation_tag": "dns"
-        },
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/6gm1c5/my_keybase_proof_redditgeekmatt_keybasemcm/",
+          "sig_id": "11fb796a468f2b4dbb238446d197e259303e2f1dd06289fb578bde897899a4cb0f",
+          "proof_id": "551a94ff78f754d9da01ec10",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/6gm1c5/my_keybase_proof_redditgeekmatt_keybasemcm/",
+          "service_url": "https://reddit.com/user/geekmatt",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
         {
           "proof_type": "dns",
           "nametag": "mattm.io",
@@ -132,18 +135,6 @@
           "service_url": "http://upld.cc",
           "presentation_group": "upld.cc",
           "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "mcpaste.com",
-          "state": 1,
-          "proof_url": "https://keybase.io/mcm/sigchain#9c9312a0be836986c38cc042a02838e539e9b88d72d048af7c1a56752e6aa5a10f",
-          "sig_id": "9c9312a0be836986c38cc042a02838e539e9b88d72d048af7c1a56752e6aa5a10f",
-          "proof_id": "c1c0cfd2bed2f3076375ba10",
-          "human_url": "dns://mcpaste.com",
-          "service_url": "http://mcpaste.com",
-          "presentation_group": "mcpaste.com",
-          "presentation_tag": "dns"
         }
       ]
     },
@@ -162,18 +153,18 @@
           "presentation_tag": "gist"
         }
       ],
-      "mcflux.net": [
+      "reddit": [
         {
-          "proof_type": "dns",
-          "nametag": "mcflux.net",
+          "proof_type": "reddit",
+          "nametag": "geekmatt",
           "state": 1,
-          "proof_url": "https://keybase.io/mcm/sigchain#6fb5dab4cbd23eb626bae12539e6263ce3ecdddc6f266d208b2123ccc231b5620f",
-          "sig_id": "6fb5dab4cbd23eb626bae12539e6263ce3ecdddc6f266d208b2123ccc231b5620f",
-          "proof_id": "0273d9f8b14f018884342510",
-          "human_url": "dns://mcflux.net",
-          "service_url": "http://mcflux.net",
-          "presentation_group": "mcflux.net",
-          "presentation_tag": "dns"
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/6gm1c5/my_keybase_proof_redditgeekmatt_keybasemcm/",
+          "sig_id": "11fb796a468f2b4dbb238446d197e259303e2f1dd06289fb578bde897899a4cb0f",
+          "proof_id": "551a94ff78f754d9da01ec10",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/6gm1c5/my_keybase_proof_redditgeekmatt_keybasemcm/",
+          "service_url": "https://reddit.com/user/geekmatt",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
         }
       ],
       "mattm.io": [
@@ -203,20 +194,6 @@
           "presentation_group": "upld.cc",
           "presentation_tag": "dns"
         }
-      ],
-      "mcpaste.com": [
-        {
-          "proof_type": "dns",
-          "nametag": "mcpaste.com",
-          "state": 1,
-          "proof_url": "https://keybase.io/mcm/sigchain#9c9312a0be836986c38cc042a02838e539e9b88d72d048af7c1a56752e6aa5a10f",
-          "sig_id": "9c9312a0be836986c38cc042a02838e539e9b88d72d048af7c1a56752e6aa5a10f",
-          "proof_id": "c1c0cfd2bed2f3076375ba10",
-          "human_url": "dns://mcpaste.com",
-          "service_url": "http://mcpaste.com",
-          "presentation_group": "mcpaste.com",
-          "presentation_tag": "dns"
-        }
       ]
     },
     "all": [
@@ -233,16 +210,16 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "dns",
-        "nametag": "mcflux.net",
+        "proof_type": "reddit",
+        "nametag": "geekmatt",
         "state": 1,
-        "proof_url": "https://keybase.io/mcm/sigchain#6fb5dab4cbd23eb626bae12539e6263ce3ecdddc6f266d208b2123ccc231b5620f",
-        "sig_id": "6fb5dab4cbd23eb626bae12539e6263ce3ecdddc6f266d208b2123ccc231b5620f",
-        "proof_id": "0273d9f8b14f018884342510",
-        "human_url": "dns://mcflux.net",
-        "service_url": "http://mcflux.net",
-        "presentation_group": "mcflux.net",
-        "presentation_tag": "dns"
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/6gm1c5/my_keybase_proof_redditgeekmatt_keybasemcm/",
+        "sig_id": "11fb796a468f2b4dbb238446d197e259303e2f1dd06289fb578bde897899a4cb0f",
+        "proof_id": "551a94ff78f754d9da01ec10",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/6gm1c5/my_keybase_proof_redditgeekmatt_keybasemcm/",
+        "service_url": "https://reddit.com/user/geekmatt",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -267,25 +244,13 @@
         "service_url": "http://upld.cc",
         "presentation_group": "upld.cc",
         "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "mcpaste.com",
-        "state": 1,
-        "proof_url": "https://keybase.io/mcm/sigchain#9c9312a0be836986c38cc042a02838e539e9b88d72d048af7c1a56752e6aa5a10f",
-        "sig_id": "9c9312a0be836986c38cc042a02838e539e9b88d72d048af7c1a56752e6aa5a10f",
-        "proof_id": "c1c0cfd2bed2f3076375ba10",
-        "human_url": "dns://mcpaste.com",
-        "service_url": "http://mcpaste.com",
-        "presentation_group": "mcpaste.com",
-        "presentation_tag": "dns"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/6918a8bbe349842c04e95d7b21274a05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/3d0a4f9491f07ed613975d70abaa7705_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -293,35 +258,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "14de27af272fbcdb6d8769da864d6604c8b7bda03d76f6e120301f05acf1cab30f",
-      "seqno": 23,
-      "payload_hash": "298ceb9ba48728ddeabeae5ff7c639effc7f440173d4cbb370866b4297c5f17b"
+      "sig_id": "5bdbed0bbbd6b9e3dfe962b08fd71738d63bdf2359769b417952fcb4172482380f",
+      "seqno": 33,
+      "payload_hash": "3928f9c95d8ac7f3309c8b19caba14b90e1566a3a793ba18314566327d094aa0"
     }
   },
   "devices": {
-    "8843099b558a43abd476ff4412ae7c18": {
-      "type": "desktop",
-      "ctime": 1460924647,
-      "mtime": 1460924647,
-      "name": "Quake-Mint",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120cdaa979ddc02f97804fbdd62594d67bf7d38f378ff49caf5dfb26cc9b647bc120a",
-          "key_role": 1,
-          "sig_id": "46dad16a7c935a277c649675f1e2ebf2806cc69bb5068769e5c07aabab8e976d0f"
-        },
-        {
-          "kid": "0121962c8544f502b44d99c8e796d543335daed601489a75f0d66c40588c6421f43a0a",
-          "key_role": 2,
-          "sig_id": "c763cfbae5d484ab46457fc212bd930dc942efc05ee10570cab3c6619d97effb0f"
-        }
-      ]
-    },
     "959555a6a8b968728db2910831e0d918": {
       "type": "backup",
-      "ctime": 1460924647,
-      "mtime": 1460924647,
+      "ctime": 1460928247,
+      "mtime": 1460928247,
       "name": "mix response",
       "status": 1,
       "keys": [
@@ -337,41 +283,22 @@
         }
       ]
     },
-    "ac4583b4a3a4d2d7f9735b769dc85c18": {
+    "af5092218f983fef548c7452bd864e18": {
       "type": "desktop",
-      "ctime": 1467436245,
-      "mtime": 1467436245,
-      "name": "Quake-10",
+      "ctime": 1497195812,
+      "mtime": 1497195812,
+      "name": "quake",
       "status": 1,
       "keys": [
         {
-          "kid": "0120fbd22d5b2782b064a7fb13ba20d8053f4d326a7154d5f6b209ca3bbc8a59049d0a",
+          "kid": "0120dd38607f47b68fb74ed4baa6061f6553ffcdb9b950577927456dc1ec29e8c4540a",
           "key_role": 1,
-          "sig_id": "d947b551920572c5daa4c4427b3a1e2d81f8f4ee8122529a9f56625987c785f50f"
+          "sig_id": "fc8fed2bf412ce2952f1d304af02f3dc87fffa61cd67f904e575921919481fdf0f"
         },
         {
-          "kid": "0121232cca56dca290177dafb4aedb5b934fd43b9acf470eefa00d61b502cdc03f2f0a",
+          "kid": "01212ac4a96b3c070a34c08b115a5bd630f4547df91a1cd8a975fd9220e25cf347100a",
           "key_role": 2,
-          "sig_id": "14de27af272fbcdb6d8769da864d6604c8b7bda03d76f6e120301f05acf1cab30f"
-        }
-      ]
-    },
-    "ae33204edc38b5953b338aeba5bbb118": {
-      "type": "desktop",
-      "ctime": 1461118081,
-      "mtime": 1461118081,
-      "name": "quake-ubuntu",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120ffcddd59409f987555fbd8219b269b5bb7cb8fb18e1fff6a90bf1445bc0c82e40a",
-          "key_role": 1,
-          "sig_id": "b2354cd4acf81011ab663222770e20363b07f24530092a071de3b3c49b3c37630f"
-        },
-        {
-          "kid": "0121d095e3e029d9803e7bfbd135cebebb97eae7787906b6ab4b1d61a074751e86030a",
-          "key_role": 2,
-          "sig_id": "5b54ff69cc2a2b3e265206537ee16b7daa9d5017e47191066eccf389f8d06ed30f"
+          "sig_id": "dc735bb84adc482584af846d69804747af58db556c3ebdfcc557be403aa6d0400f"
         }
       ]
     }
