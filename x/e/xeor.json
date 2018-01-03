@@ -2,34 +2,41 @@
   "id": "9c8de2fc3a5278b440c01bf540817a19",
   "basics": {
     "username": "xeor",
-    "ctime": 1471722884,
-    "mtime": 1471722884,
-    "id_version": 10,
+    "ctime": 1471726484,
+    "mtime": 1471726484,
+    "id_version": 15,
     "track_version": 2,
-    "last_id_change": 1471728160,
-    "username_cased": "xeor"
+    "last_id_change": 1507237858,
+    "username_cased": "xeor",
+    "status": 0
   },
   "public_keys": {
     "all_bundles": [
       "0120c41a12e91d2900040e6569f3bbfbd22d32c86f92673f7bdeda792df41e7ff3200a",
       "012134259d0e15809d9a812e727457fbb1a3c21d0a8a14495c8d169bea529e4307000a",
       "01207455dfffa3eb96d2a9c8b7d11400aea392cb27c791ad81051a4c740927d76ba90a",
-      "0121abeda1d8c48e41aef72fd4b5d3aa737c502144e8d5368500836fd95bfc31c93f0a"
+      "0121abeda1d8c48e41aef72fd4b5d3aa737c502144e8d5368500836fd95bfc31c93f0a",
+      "0120b3d26f32d9df2ea09d6d3f6e833cb1818a367702adf5c2871fe7ebd0a20c14320a",
+      "0121ff010ebdcc0dc5fd772238126406cf5aa307fca5a36da7819bbf88143e1161420a"
     ],
     "subkeys": [
       "012134259d0e15809d9a812e727457fbb1a3c21d0a8a14495c8d169bea529e4307000a",
-      "0121abeda1d8c48e41aef72fd4b5d3aa737c502144e8d5368500836fd95bfc31c93f0a"
+      "0121abeda1d8c48e41aef72fd4b5d3aa737c502144e8d5368500836fd95bfc31c93f0a",
+      "0121ff010ebdcc0dc5fd772238126406cf5aa307fca5a36da7819bbf88143e1161420a"
     ],
     "sibkeys": [
       "0120c41a12e91d2900040e6569f3bbfbd22d32c86f92673f7bdeda792df41e7ff3200a",
-      "01207455dfffa3eb96d2a9c8b7d11400aea392cb27c791ad81051a4c740927d76ba90a"
+      "01207455dfffa3eb96d2a9c8b7d11400aea392cb27c791ad81051a4c740927d76ba90a",
+      "0120b3d26f32d9df2ea09d6d3f6e833cb1818a367702adf5c2871fe7ebd0a20c14320a"
     ],
     "families": {
       "01207455dfffa3eb96d2a9c8b7d11400aea392cb27c791ad81051a4c740927d76ba90a": [
         "0120c41a12e91d2900040e6569f3bbfbd22d32c86f92673f7bdeda792df41e7ff3200a",
         "012134259d0e15809d9a812e727457fbb1a3c21d0a8a14495c8d169bea529e4307000a",
         "01207455dfffa3eb96d2a9c8b7d11400aea392cb27c791ad81051a4c740927d76ba90a",
-        "0121abeda1d8c48e41aef72fd4b5d3aa737c502144e8d5368500836fd95bfc31c93f0a"
+        "0121abeda1d8c48e41aef72fd4b5d3aa737c502144e8d5368500836fd95bfc31c93f0a",
+        "0120b3d26f32d9df2ea09d6d3f6e833cb1818a367702adf5c2871fe7ebd0a20c14320a",
+        "0121ff010ebdcc0dc5fd772238126406cf5aa307fca5a36da7819bbf88143e1161420a"
       ]
     },
     "eldest_kid": "01207455dfffa3eb96d2a9c8b7d11400aea392cb27c791ad81051a4c740927d76ba90a",
@@ -207,7 +214,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/a116c2bdbefc2711ed52805475346905_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/47b4b8a52eed188877032968b8d0f905_360_360_square_360.png",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -215,16 +222,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "9aabcb44e5d3d0ff0eac4beb2ac630fa193c629fbc9b8b50db01fd664f25adfe0f",
-      "seqno": 10,
-      "payload_hash": "4d80d1013461f78f87e4d11f8500327cbec0e2bfc62a47130f2d2bb62c342a55"
+      "sig_id": "6f8f3b2b47fe54468c2c3716a48934c93baecbca59cc7615d26d2031c3d4f4280f",
+      "seqno": 13,
+      "payload_hash": "17c08c6ff89c25500528e6100caa6abbe60d4c8b9ceda5d9befb15f93c18e0f5"
     }
   },
   "devices": {
+    "2a741089678df836866360efd427b618": {
+      "type": "desktop",
+      "ctime": 1507237858,
+      "mtime": 1507237858,
+      "name": "nibler",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b3d26f32d9df2ea09d6d3f6e833cb1818a367702adf5c2871fe7ebd0a20c14320a",
+          "key_role": 1,
+          "sig_id": "0b0f107d1d3b1e964c4a1a40758b68308bc9dae416ef87954599d3c585b5e1f50f"
+        },
+        {
+          "kid": "0121ff010ebdcc0dc5fd772238126406cf5aa307fca5a36da7819bbf88143e1161420a",
+          "key_role": 2,
+          "sig_id": "aa59f475023a6f61cda50ca55881037827ed90e69d14c90bb8f318ca94f700bc0f"
+        }
+      ]
+    },
     "35fdd3a69138db2ec7fe2140f397b918": {
       "type": "backup",
-      "ctime": 1471723008,
-      "mtime": 1471723008,
+      "ctime": 1471726608,
+      "mtime": 1471726608,
       "name": "enemy dolphin",
       "status": 1,
       "keys": [
@@ -242,8 +268,8 @@
     },
     "c690231edca3e9cc16f01c4a76472618": {
       "type": "desktop",
-      "ctime": 1471723008,
-      "mtime": 1471723008,
+      "ctime": 1471726608,
+      "mtime": 1471726608,
       "name": "mac",
       "status": 1,
       "keys": [
