@@ -4,10 +4,11 @@
     "username": "jessekerkhoven",
     "ctime": 1454947430,
     "mtime": 1454947430,
-    "id_version": 10,
-    "track_version": 2,
-    "last_id_change": 1464973342,
-    "username_cased": "jessekerkhoven"
+    "id_version": 11,
+    "track_version": 9,
+    "last_id_change": 1494577035,
+    "username_cased": "jessekerkhoven",
+    "status": 0
   },
   "public_keys": {
     "all_bundles": [
@@ -16,15 +17,19 @@
       "01213154504f9efefa7759bf7929ac8e0520c7749eaefb7aa9da276b757041a7195e0a",
       "0120712848b1d9ad82009eab73c39ac5aec5564e949fed995476246a04a33193dc340a",
       "01214340332f4a37433abd02778404caa08073ce8b7f5be7d03e3ab8cd1dd6162a4f0a",
-      "01201766a235bc058425168bf39fe017fe5bc4f045118643d966b999d7c3865eb8480a"
+      "01201766a235bc058425168bf39fe017fe5bc4f045118643d966b999d7c3865eb8480a",
+      "012144561345e2fd7266f13157fe483b5080cf6c0a06c888475a4a2a1d03ed61f8240a",
+      "01204ebf70e65950f05aa826107e2886240874135a8df1581ca6949090f8bce412f90a"
     ],
     "subkeys": [
       "0121bc97d61230f7af7fc594000fab08a6c997d18cf3741f6e7f7236e5aec26eb8330a",
-      "01213154504f9efefa7759bf7929ac8e0520c7749eaefb7aa9da276b757041a7195e0a"
+      "01213154504f9efefa7759bf7929ac8e0520c7749eaefb7aa9da276b757041a7195e0a",
+      "012144561345e2fd7266f13157fe483b5080cf6c0a06c888475a4a2a1d03ed61f8240a"
     ],
     "sibkeys": [
       "0120c194eba519731e76367a262d40a7c63a4eb0be2bd99f1fd5b0e7e1886b10d4ab0a",
-      "0120712848b1d9ad82009eab73c39ac5aec5564e949fed995476246a04a33193dc340a"
+      "0120712848b1d9ad82009eab73c39ac5aec5564e949fed995476246a04a33193dc340a",
+      "01204ebf70e65950f05aa826107e2886240874135a8df1581ca6949090f8bce412f90a"
     ],
     "families": {
       "0120c194eba519731e76367a262d40a7c63a4eb0be2bd99f1fd5b0e7e1886b10d4ab0a": [
@@ -33,7 +38,9 @@
         "01213154504f9efefa7759bf7929ac8e0520c7749eaefb7aa9da276b757041a7195e0a",
         "0120712848b1d9ad82009eab73c39ac5aec5564e949fed995476246a04a33193dc340a",
         "01214340332f4a37433abd02778404caa08073ce8b7f5be7d03e3ab8cd1dd6162a4f0a",
-        "01201766a235bc058425168bf39fe017fe5bc4f045118643d966b999d7c3865eb8480a"
+        "01201766a235bc058425168bf39fe017fe5bc4f045118643d966b999d7c3865eb8480a",
+        "012144561345e2fd7266f13157fe483b5080cf6c0a06c888475a4a2a1d03ed61f8240a",
+        "01204ebf70e65950f05aa826107e2886240874135a8df1581ca6949090f8bce412f90a"
       ]
     },
     "eldest_kid": "0120c194eba519731e76367a262d40a7c63a4eb0be2bd99f1fd5b0e7e1886b10d4ab0a",
@@ -91,7 +98,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/d6ab6264709dccf15d88a95cd29d2605_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/04df711a9c01c2455d23ee8782020705_360_360.png",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -99,16 +106,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5d038f9d0acc42e93cccbeac646f74b5a0aec46f194e26ef794e8dd3ff4937f40f",
-      "seqno": 11,
-      "payload_hash": "fc17b2196bd5dc66cadd0895477773222c07c63132366e7be885332bf9ab3086"
+      "sig_id": "ee9d175ae820eb894a39a946a2c3e05668433dc9b09d9393a6932f4fd311406d0f",
+      "seqno": 21,
+      "payload_hash": "32893be2a2954095f45883bf8503b634f6abb277550c43df0690e12adc0699b8"
     }
   },
   "devices": {
+    "2a03287ee18d864ffdf3dc6e3b795f18": {
+      "type": "desktop",
+      "ctime": 1494577035,
+      "mtime": 1494577035,
+      "name": "Workbook",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204ebf70e65950f05aa826107e2886240874135a8df1581ca6949090f8bce412f90a",
+          "key_role": 1,
+          "sig_id": "c93309b53bd5942dabfe28fcc1d2197dd06ee15b442181777398aaa8d9079c660f"
+        },
+        {
+          "kid": "012144561345e2fd7266f13157fe483b5080cf6c0a06c888475a4a2a1d03ed61f8240a",
+          "key_role": 2,
+          "sig_id": "6c829b7ebbc828d53332ba8129add24fe0bc9f3b0901455abd4f6b19b87acecb0f"
+        }
+      ]
+    },
     "a4ea6a3486822aa48bd60235acad8618": {
       "type": "desktop",
-      "ctime": 1459939405,
-      "mtime": 1459939405,
+      "ctime": 1459943005,
+      "mtime": 1459943005,
       "name": "macbook",
       "status": 1,
       "keys": [
@@ -126,8 +152,8 @@
     },
     "f4af91009bc2294ac4cd4cdb62e5f718": {
       "type": "backup",
-      "ctime": 1459939406,
-      "mtime": 1459939406,
+      "ctime": 1459943006,
+      "mtime": 1459943006,
       "name": "mother attack",
       "status": 1,
       "keys": [
