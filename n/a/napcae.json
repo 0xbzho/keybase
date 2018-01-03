@@ -2,15 +2,16 @@
   "id": "2433ec5b71442b0ec995959c7e7c8400",
   "basics": {
     "username": "napcae",
-    "ctime": 1403082833,
-    "mtime": 1403082833,
-    "id_version": 111,
-    "track_version": 11,
-    "last_id_change": 1475076119,
-    "username_cased": "napcae"
+    "ctime": 1403086433,
+    "mtime": 1403086433,
+    "id_version": 134,
+    "track_version": 16,
+    "last_id_change": 1511040195,
+    "username_cased": "napcae",
+    "status": 0
   },
   "profile": {
-    "mtime": 1403083032,
+    "mtime": 1403086632,
     "full_name": "Chi Trung Nguyen",
     "location": "Germany",
     "bio": null
@@ -39,16 +40,26 @@
       "0120f0f0c464364bd5357684a7ecc9fb806c8a1d0d221f02a0342b8a5e1af11222620a",
       "0121b920a4d7645cc9ce925e4791313e6413cd5a2568f0b7c72ed0948cbd17cb56130a",
       "01215f7ecf9b2fd140e1f320ad638e00cef428f440dddf219266704d3bbbaa8049660a",
-      "0120ab55a61c072292bbccca429b4647be240c457bde4998e8417b965c39350dcf9f0a"
+      "0120ab55a61c072292bbccca429b4647be240c457bde4998e8417b965c39350dcf9f0a",
+      "0121fc28b9e7b7291d6c38bba3dfe272353c719bfe67df17b856306cdc146e03767f0a",
+      "0120abdd62b147ac771bb4031e38cadd043eefdef4b4303f2ae54a0f390bda206cc60a",
+      "012035c822032de6f3031bb1d071a27e456ba878ea37e15f78865be723cda6bbfb4b0a",
+      "01215b6f361e81cf74c0e242efb1fbb9db9490c75970d325a7e6936112e698567e4b0a",
+      "01216a6d283b4eff0c33ad56b5d8be1846997f0276625bf27ebb09ebcc1cd05e187a0a",
+      "01201c88cf71c675be95c653ce1a0dae66ed76292525db35dc63532210d25de667200a"
     ],
     "subkeys": [
       "0121b920a4d7645cc9ce925e4791313e6413cd5a2568f0b7c72ed0948cbd17cb56130a",
-      "01215f7ecf9b2fd140e1f320ad638e00cef428f440dddf219266704d3bbbaa8049660a"
+      "01215f7ecf9b2fd140e1f320ad638e00cef428f440dddf219266704d3bbbaa8049660a",
+      "01215b6f361e81cf74c0e242efb1fbb9db9490c75970d325a7e6936112e698567e4b0a",
+      "01216a6d283b4eff0c33ad56b5d8be1846997f0276625bf27ebb09ebcc1cd05e187a0a"
     ],
     "sibkeys": [
       "01110aea19f4b610aeda4e48a57d5294d3145cdd4465628fa4485d09d51a640aa0490a",
       "0120f0f0c464364bd5357684a7ecc9fb806c8a1d0d221f02a0342b8a5e1af11222620a",
-      "0120ab55a61c072292bbccca429b4647be240c457bde4998e8417b965c39350dcf9f0a"
+      "0120ab55a61c072292bbccca429b4647be240c457bde4998e8417b965c39350dcf9f0a",
+      "012035c822032de6f3031bb1d071a27e456ba878ea37e15f78865be723cda6bbfb4b0a",
+      "01201c88cf71c675be95c653ce1a0dae66ed76292525db35dc63532210d25de667200a"
     ],
     "families": {
       "01110aea19f4b610aeda4e48a57d5294d3145cdd4465628fa4485d09d51a640aa0490a": [
@@ -57,7 +68,13 @@
         "0120f0f0c464364bd5357684a7ecc9fb806c8a1d0d221f02a0342b8a5e1af11222620a",
         "0121b920a4d7645cc9ce925e4791313e6413cd5a2568f0b7c72ed0948cbd17cb56130a",
         "01215f7ecf9b2fd140e1f320ad638e00cef428f440dddf219266704d3bbbaa8049660a",
-        "0120ab55a61c072292bbccca429b4647be240c457bde4998e8417b965c39350dcf9f0a"
+        "0120ab55a61c072292bbccca429b4647be240c457bde4998e8417b965c39350dcf9f0a",
+        "0121fc28b9e7b7291d6c38bba3dfe272353c719bfe67df17b856306cdc146e03767f0a",
+        "0120abdd62b147ac771bb4031e38cadd043eefdef4b4303f2ae54a0f390bda206cc60a",
+        "012035c822032de6f3031bb1d071a27e456ba878ea37e15f78865be723cda6bbfb4b0a",
+        "01215b6f361e81cf74c0e242efb1fbb9db9490c75970d325a7e6936112e698567e4b0a",
+        "01216a6d283b4eff0c33ad56b5d8be1846997f0276625bf27ebb09ebcc1cd05e187a0a",
+        "01201c88cf71c675be95c653ce1a0dae66ed76292525db35dc63532210d25de667200a"
       ]
     },
     "eldest_kid": "01110aea19f4b610aeda4e48a57d5294d3145cdd4465628fa4485d09d51a640aa0490a",
@@ -137,6 +154,44 @@
           "presentation_group": "ctnguyen.net",
           "presentation_tag": "http"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "ctnguyen.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/napcae/sigchain#828bfefe150c4084ab18e61f088f136816093fde3c25fd8e0e103b6a642cc59c0f",
+          "sig_id": "828bfefe150c4084ab18e61f088f136816093fde3c25fd8e0e103b6a642cc59c0f",
+          "proof_id": "207979ff59a404692576b910",
+          "human_url": "dns://ctnguyen.de",
+          "service_url": "http://ctnguyen.de",
+          "presentation_group": "ctnguyen.de",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "napcae.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/napcae/sigchain#d42fb8d0bf3d9b4b56453fb65ec6610db93b3c0137df04c17917afe7915ec18d0f",
+          "sig_id": "d42fb8d0bf3d9b4b56453fb65ec6610db93b3c0137df04c17917afe7915ec18d0f",
+          "proof_id": "9b82378aa06ef8e43f225310",
+          "human_url": "dns://napcae.de",
+          "service_url": "http://napcae.de",
+          "presentation_group": "napcae.de",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "ctnguyen.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/napcae/sigchain#cf482de8a4281a052c081a944f09fac8ee33ef1ed90ddc0e62531319922c70250f",
+          "sig_id": "cf482de8a4281a052c081a944f09fac8ee33ef1ed90ddc0e62531319922c70250f",
+          "proof_id": "9f74d86d2733f6559f09bb10",
+          "human_url": "dns://ctnguyen.net",
+          "service_url": "http://ctnguyen.net",
+          "presentation_group": "ctnguyen.net",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -208,6 +263,46 @@
           "service_url": "http://ctnguyen.net",
           "presentation_group": "ctnguyen.net",
           "presentation_tag": "http"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "ctnguyen.net",
+          "state": 1,
+          "proof_url": "https://keybase.io/napcae/sigchain#cf482de8a4281a052c081a944f09fac8ee33ef1ed90ddc0e62531319922c70250f",
+          "sig_id": "cf482de8a4281a052c081a944f09fac8ee33ef1ed90ddc0e62531319922c70250f",
+          "proof_id": "9f74d86d2733f6559f09bb10",
+          "human_url": "dns://ctnguyen.net",
+          "service_url": "http://ctnguyen.net",
+          "presentation_group": "ctnguyen.net",
+          "presentation_tag": "dns"
+        }
+      ],
+      "ctnguyen.de": [
+        {
+          "proof_type": "dns",
+          "nametag": "ctnguyen.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/napcae/sigchain#828bfefe150c4084ab18e61f088f136816093fde3c25fd8e0e103b6a642cc59c0f",
+          "sig_id": "828bfefe150c4084ab18e61f088f136816093fde3c25fd8e0e103b6a642cc59c0f",
+          "proof_id": "207979ff59a404692576b910",
+          "human_url": "dns://ctnguyen.de",
+          "service_url": "http://ctnguyen.de",
+          "presentation_group": "ctnguyen.de",
+          "presentation_tag": "dns"
+        }
+      ],
+      "napcae.de": [
+        {
+          "proof_type": "dns",
+          "nametag": "napcae.de",
+          "state": 1,
+          "proof_url": "https://keybase.io/napcae/sigchain#d42fb8d0bf3d9b4b56453fb65ec6610db93b3c0137df04c17917afe7915ec18d0f",
+          "sig_id": "d42fb8d0bf3d9b4b56453fb65ec6610db93b3c0137df04c17917afe7915ec18d0f",
+          "proof_id": "9b82378aa06ef8e43f225310",
+          "human_url": "dns://napcae.de",
+          "service_url": "http://napcae.de",
+          "presentation_group": "napcae.de",
+          "presentation_tag": "dns"
         }
       ]
     },
@@ -261,6 +356,42 @@
         "presentation_tag": "profile"
       },
       {
+        "proof_type": "dns",
+        "nametag": "ctnguyen.de",
+        "state": 1,
+        "proof_url": "https://keybase.io/napcae/sigchain#828bfefe150c4084ab18e61f088f136816093fde3c25fd8e0e103b6a642cc59c0f",
+        "sig_id": "828bfefe150c4084ab18e61f088f136816093fde3c25fd8e0e103b6a642cc59c0f",
+        "proof_id": "207979ff59a404692576b910",
+        "human_url": "dns://ctnguyen.de",
+        "service_url": "http://ctnguyen.de",
+        "presentation_group": "ctnguyen.de",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "napcae.de",
+        "state": 1,
+        "proof_url": "https://keybase.io/napcae/sigchain#d42fb8d0bf3d9b4b56453fb65ec6610db93b3c0137df04c17917afe7915ec18d0f",
+        "sig_id": "d42fb8d0bf3d9b4b56453fb65ec6610db93b3c0137df04c17917afe7915ec18d0f",
+        "proof_id": "9b82378aa06ef8e43f225310",
+        "human_url": "dns://napcae.de",
+        "service_url": "http://napcae.de",
+        "presentation_group": "napcae.de",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "ctnguyen.net",
+        "state": 1,
+        "proof_url": "https://keybase.io/napcae/sigchain#cf482de8a4281a052c081a944f09fac8ee33ef1ed90ddc0e62531319922c70250f",
+        "sig_id": "cf482de8a4281a052c081a944f09fac8ee33ef1ed90ddc0e62531319922c70250f",
+        "proof_id": "9f74d86d2733f6559f09bb10",
+        "human_url": "dns://ctnguyen.net",
+        "service_url": "http://ctnguyen.net",
+        "presentation_group": "ctnguyen.net",
+        "presentation_tag": "dns"
+      },
+      {
         "proof_type": "generic_web_site",
         "nametag": "ctnguyen.net",
         "state": 1,
@@ -284,7 +415,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/0ca15ae8dcdaa2efdfc14632f992c705_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/bc8ef43164bf59f2de6dc389a5a0c705_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -292,9 +423,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "aad4612a420e501b3f768a9f8d6096e8175c9dfbb8df15eec02c92738ac043a20f",
-      "seqno": 32,
-      "payload_hash": "82f48eb6771634fee2c6847db21f102a3cc0e3c79392e352f4f219fbaa88b19a"
+      "sig_id": "a8f4723fe1053f6850fce4a0be82b9c7a09e1feb4bb08cd14b54862ed2ac66320f",
+      "seqno": 48,
+      "payload_hash": "3b50208fb82670f16f0c0df8758cd579ee011471702d60456147dcb7d9009c65"
     }
   },
   "devices": {
@@ -314,6 +445,44 @@
           "kid": "01215f7ecf9b2fd140e1f320ad638e00cef428f440dddf219266704d3bbbaa8049660a",
           "key_role": 2,
           "sig_id": "ff77a249d1470e601760c48f845cc97a4cfb584a46b5895ba42b2b1d5c0c01940f"
+        }
+      ]
+    },
+    "b48b1ac92150025d084a32aed0bb4718": {
+      "type": "mobile",
+      "ctime": 1504424601,
+      "mtime": 1504424601,
+      "name": "wonderbar",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01201c88cf71c675be95c653ce1a0dae66ed76292525db35dc63532210d25de667200a",
+          "key_role": 1,
+          "sig_id": "275f0d63a43c88e2848be7070e45c36f0e9d30f42f28a0aeaf52294c5dab4a120f"
+        },
+        {
+          "kid": "01216a6d283b4eff0c33ad56b5d8be1846997f0276625bf27ebb09ebcc1cd05e187a0a",
+          "key_role": 2,
+          "sig_id": "2652b22760911b6700ba68a60dd48f307f67872c99d08a71013ff01081fa48050f"
+        }
+      ]
+    },
+    "c0c779038e20870e50de9ccd1d561118": {
+      "type": "desktop",
+      "ctime": 1504423622,
+      "mtime": 1504423622,
+      "name": "Trungs's MacBook Pro",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012035c822032de6f3031bb1d071a27e456ba878ea37e15f78865be723cda6bbfb4b0a",
+          "key_role": 1,
+          "sig_id": "f81f218242b850640c4a867a503fc8a0ed7aea079814000ff589e4c44cc2dfb70f"
+        },
+        {
+          "kid": "01215b6f361e81cf74c0e242efb1fbb9db9490c75970d325a7e6936112e698567e4b0a",
+          "key_role": 2,
+          "sig_id": "bad21253a0a5db9ff110c8bc655dd0c8fb9629092ad8d3aeaa7bb444abcaf53e0f"
         }
       ]
     },
