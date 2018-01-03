@@ -2,18 +2,19 @@
   "id": "4606743438fbdbcd3b8308b467c12100",
   "basics": {
     "username": "ckruse",
-    "ctime": 1411817250,
-    "mtime": 1411817250,
-    "id_version": 920,
-    "track_version": 20,
-    "last_id_change": 1475680206,
-    "username_cased": "ckruse"
+    "ctime": 1411820850,
+    "mtime": 1411820850,
+    "id_version": 925,
+    "track_version": 23,
+    "last_id_change": 1500411444,
+    "username_cased": "ckruse",
+    "status": 0
   },
   "profile": {
-    "mtime": 1447438629,
+    "mtime": 1487839755,
     "full_name": "Christian Kruse",
     "location": "Steinfurt, Germany, Europe",
-    "bio": "Software developer, Linux fanatic, Jogger, dog owner"
+    "bio": "Software developer, gardener, jogger, dog owner"
   },
   "public_keys": {
     "primary": {
@@ -39,16 +40,20 @@
       "0120ac4d8d694ebb49979a252d52b060481e11374420570f7b1a34cb2810e54c19930a",
       "0121ade2d4ad53d35b58143d95285ca41e26b1161b14855047278671ff255564ed240a",
       "012104dcd310432c7edc1299ecd1887cd9b096ecca17a83f1bcb3c281a4c6f6f5e430a",
-      "0120c3f242498faa975c3732347243c268fd7f52b8c1a17d094ad1937a4acbc1c0a60a"
+      "0120c3f242498faa975c3732347243c268fd7f52b8c1a17d094ad1937a4acbc1c0a60a",
+      "012086d3a497600933f55da1808daff6aefd814747fe8c971a2c987d7e52e83305770a",
+      "0121900c43df6663e179491b0decba241ef77aaf7efaf88c33702df34e18e85d89590a"
     ],
     "subkeys": [
       "0121ade2d4ad53d35b58143d95285ca41e26b1161b14855047278671ff255564ed240a",
-      "012104dcd310432c7edc1299ecd1887cd9b096ecca17a83f1bcb3c281a4c6f6f5e430a"
+      "012104dcd310432c7edc1299ecd1887cd9b096ecca17a83f1bcb3c281a4c6f6f5e430a",
+      "0121900c43df6663e179491b0decba241ef77aaf7efaf88c33702df34e18e85d89590a"
     ],
     "sibkeys": [
       "01014d62957135d7d1b17613168980d5ff2b1f5c5302a29bcf6dc2dd16508682defa0a",
       "0120ac4d8d694ebb49979a252d52b060481e11374420570f7b1a34cb2810e54c19930a",
-      "0120c3f242498faa975c3732347243c268fd7f52b8c1a17d094ad1937a4acbc1c0a60a"
+      "0120c3f242498faa975c3732347243c268fd7f52b8c1a17d094ad1937a4acbc1c0a60a",
+      "012086d3a497600933f55da1808daff6aefd814747fe8c971a2c987d7e52e83305770a"
     ],
     "families": {
       "010147f7d333afcd23f1e8928fb41c8c1013b9587bf6c12acf8513105b99a6651ab80a": [
@@ -59,7 +64,9 @@
         "0120ac4d8d694ebb49979a252d52b060481e11374420570f7b1a34cb2810e54c19930a",
         "0121ade2d4ad53d35b58143d95285ca41e26b1161b14855047278671ff255564ed240a",
         "012104dcd310432c7edc1299ecd1887cd9b096ecca17a83f1bcb3c281a4c6f6f5e430a",
-        "0120c3f242498faa975c3732347243c268fd7f52b8c1a17d094ad1937a4acbc1c0a60a"
+        "0120c3f242498faa975c3732347243c268fd7f52b8c1a17d094ad1937a4acbc1c0a60a",
+        "012086d3a497600933f55da1808daff6aefd814747fe8c971a2c987d7e52e83305770a",
+        "0121900c43df6663e179491b0decba241ef77aaf7efaf88c33702df34e18e85d89590a"
       ]
     },
     "eldest_kid": "01014d62957135d7d1b17613168980d5ff2b1f5c5302a29bcf6dc2dd16508682defa0a",
@@ -287,16 +294,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5a32a73db0b4b4ac027e2968fe5a1ec7364e274c59b35dbb66fb1ef315674c490f",
-      "seqno": 45,
-      "payload_hash": "0c296c4a6edf90a59837d591bf73fa58ef714773dd80535a8f9995a199a76172"
+      "sig_id": "54a57e16f36e6136be1824c482be61dc0fe5eb1be38c0be46f1c9de4c9a251bf0f",
+      "seqno": 50,
+      "payload_hash": "2ec5726a05a28c9c160556688c39ec6eb72d6b2fe5b45994ff08d76e3a9c54d9"
     }
   },
   "devices": {
+    "48fbda2504e00c2e705866e961769118": {
+      "type": "desktop",
+      "ctime": 1486622504,
+      "mtime": 1486622504,
+      "name": "Spinnweb",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012086d3a497600933f55da1808daff6aefd814747fe8c971a2c987d7e52e83305770a",
+          "key_role": 1,
+          "sig_id": "7a69635718347b53c4a56fcadfb5e2342d7a9c54250ae60a73e530ff9fdc5b210f"
+        },
+        {
+          "kid": "0121900c43df6663e179491b0decba241ef77aaf7efaf88c33702df34e18e85d89590a",
+          "key_role": 2,
+          "sig_id": "dd0d594505b856077f471845a3e0a7e290ed8dad3a9cc76e0f067a535050d4c20f"
+        }
+      ]
+    },
     "e400dad60ab4b426eb4050175c392718": {
       "type": "backup",
-      "ctime": 1471518442,
-      "mtime": 1471518442,
+      "ctime": 1471522042,
+      "mtime": 1471522042,
       "name": "pair chaos",
       "status": 1,
       "keys": [
@@ -314,8 +340,8 @@
     },
     "fe97ec6628a29c0806c451e09053df18": {
       "type": "desktop",
-      "ctime": 1471518441,
-      "mtime": 1471518441,
+      "ctime": 1471522041,
+      "mtime": 1471522041,
       "name": "Vali",
       "status": 1,
       "keys": [
