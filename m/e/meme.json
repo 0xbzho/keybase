@@ -4,16 +4,17 @@
     "username": "meme",
     "ctime": 1422184910,
     "mtime": 1422184910,
-    "id_version": 15,
-    "track_version": 0,
-    "last_id_change": 1466781531,
-    "username_cased": "meme"
+    "id_version": 27,
+    "track_version": 3,
+    "last_id_change": 1491657133,
+    "username_cased": "meme",
+    "status": 0
   },
   "profile": {
-    "mtime": 1451395343,
-    "full_name": "joe",
-    "location": "the cloud",
-    "bio": "welcome to meh profile"
+    "mtime": 1483181055,
+    "full_name": "Joe",
+    "location": "127.0.0.1",
+    "bio": "~"
   },
   "public_keys": {
     "primary": {
@@ -71,16 +72,67 @@
     ]
   },
   "proofs_summary": {
-    "by_proof_type": {},
-    "by_presentation_group": {},
-    "all": []
+    "by_proof_type": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "joememe",
+          "state": 1,
+          "proof_url": "https://gist.github.com/db49791c493c2810278da823b01e3936",
+          "sig_id": "40af890b0748c015293167db9659cfa44d6ef44541a8ef0efb001f409a1feeb00f",
+          "proof_id": "adb9d37632bc3d3ad6f21e10",
+          "human_url": "https://gist.github.com/db49791c493c2810278da823b01e3936",
+          "service_url": "https://github.com/joememe",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "by_presentation_group": {
+      "github": [
+        {
+          "proof_type": "github",
+          "nametag": "joememe",
+          "state": 1,
+          "proof_url": "https://gist.github.com/db49791c493c2810278da823b01e3936",
+          "sig_id": "40af890b0748c015293167db9659cfa44d6ef44541a8ef0efb001f409a1feeb00f",
+          "proof_id": "adb9d37632bc3d3ad6f21e10",
+          "human_url": "https://gist.github.com/db49791c493c2810278da823b01e3936",
+          "service_url": "https://github.com/joememe",
+          "presentation_group": "github",
+          "presentation_tag": "gist"
+        }
+      ]
+    },
+    "all": [
+      {
+        "proof_type": "github",
+        "nametag": "joememe",
+        "state": 1,
+        "proof_url": "https://gist.github.com/db49791c493c2810278da823b01e3936",
+        "sig_id": "40af890b0748c015293167db9659cfa44d6ef44541a8ef0efb001f409a1feeb00f",
+        "proof_id": "adb9d37632bc3d3ad6f21e10",
+        "human_url": "https://gist.github.com/db49791c493c2810278da823b01e3936",
+        "service_url": "https://github.com/joememe",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      }
+    ]
   },
   "cryptocurrency_addresses": {},
+  "pictures": {
+    "primary": {
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/836ac97b156acfe5b843015ac34ca805_360_360.png",
+      "width": 360,
+      "height": 360,
+      "source": "github"
+    }
+  },
   "sigs": {
     "last": {
-      "sig_id": "a18d173cc88a85b02e5997a7ba017ba9e522d956689b2d5787b36770360983f60f",
-      "seqno": 9,
-      "payload_hash": "1616017a264725e3d99c120d597fbb800a53293951b0a6de476a68259d867d48"
+      "sig_id": "52f2dc4a7a854b1ee99ec037603c9596b6a5638f95d53ac40fc3b5de5e6bea990f",
+      "seqno": 15,
+      "payload_hash": "6b835970bcc2ec8a0401ec5faba7cee65a46a82842ddfc19d8f4dd7fca299b98"
     }
   },
   "devices": {
@@ -105,8 +157,8 @@
     },
     "4b51be52491d885fb925dd8d13f1aa18": {
       "type": "desktop",
-      "ctime": 1466781531,
-      "mtime": 1466781531,
+      "ctime": 1466785131,
+      "mtime": 1466785131,
       "name": "laptop",
       "status": 1,
       "keys": [
