@@ -4,10 +4,11 @@
     "username": "s_m_i",
     "ctime": 1425328286,
     "mtime": 1425328286,
-    "id_version": 17,
+    "id_version": 44,
     "track_version": 1,
-    "last_id_change": 1472498023,
-    "username_cased": "s_m_i"
+    "last_id_change": 1503886322,
+    "username_cased": "s_m_i",
+    "status": 0
   },
   "profile": {
     "mtime": 1425328747,
@@ -40,14 +41,22 @@
       "01204fb01e3570205752231e133cfb818e1ca23b1463f7cbae10ff4a1719e141a13d0a",
       "01215a03fac968c850ad35a6214aa107df202a882ada88ce0840913093d3b0c601530a",
       "0120ed8b87d07e58d67d673dcf6dfe5d349427588ac1b61d439249004656ab6953e70a",
-      "0121cc193776b5318e6dec60c5f096f03a010c7dabfc25c1ea9826ed6e1489688d590a"
+      "0121cc193776b5318e6dec60c5f096f03a010c7dabfc25c1ea9826ed6e1489688d590a",
+      "0120d06c3a36588860973b96355cb426b9220ebd2d0e7b6679a30148c5af2dff7e7c0a",
+      "01216018b3e89449983d34cb81408e3560fbbda784b9a908fd5f467c405c6eaa7d1e0a",
+      "0121321f17d28669cd3a410593cd596492c7a1e13d4fb308cd4686deef6714705b320a",
+      "0120a58f3d9f32d44051a0595551f92a7339b6cf85e369b9e2ef2973e1e74b0c20320a"
     ],
     "subkeys": [
-      "0121cc193776b5318e6dec60c5f096f03a010c7dabfc25c1ea9826ed6e1489688d590a"
+      "0121cc193776b5318e6dec60c5f096f03a010c7dabfc25c1ea9826ed6e1489688d590a",
+      "01216018b3e89449983d34cb81408e3560fbbda784b9a908fd5f467c405c6eaa7d1e0a",
+      "0121321f17d28669cd3a410593cd596492c7a1e13d4fb308cd4686deef6714705b320a"
     ],
     "sibkeys": [
       "01013f6c19bc2ee4ccd209880a4f24de7211f4ffae2c9f74287241987545baf85da70a",
-      "0120ed8b87d07e58d67d673dcf6dfe5d349427588ac1b61d439249004656ab6953e70a"
+      "0120ed8b87d07e58d67d673dcf6dfe5d349427588ac1b61d439249004656ab6953e70a",
+      "0120d06c3a36588860973b96355cb426b9220ebd2d0e7b6679a30148c5af2dff7e7c0a",
+      "0120a58f3d9f32d44051a0595551f92a7339b6cf85e369b9e2ef2973e1e74b0c20320a"
     ],
     "families": {
       "01013f6c19bc2ee4ccd209880a4f24de7211f4ffae2c9f74287241987545baf85da70a": [
@@ -57,7 +66,11 @@
         "01204fb01e3570205752231e133cfb818e1ca23b1463f7cbae10ff4a1719e141a13d0a",
         "01215a03fac968c850ad35a6214aa107df202a882ada88ce0840913093d3b0c601530a",
         "0120ed8b87d07e58d67d673dcf6dfe5d349427588ac1b61d439249004656ab6953e70a",
-        "0121cc193776b5318e6dec60c5f096f03a010c7dabfc25c1ea9826ed6e1489688d590a"
+        "0121cc193776b5318e6dec60c5f096f03a010c7dabfc25c1ea9826ed6e1489688d590a",
+        "0120d06c3a36588860973b96355cb426b9220ebd2d0e7b6679a30148c5af2dff7e7c0a",
+        "01216018b3e89449983d34cb81408e3560fbbda784b9a908fd5f467c405c6eaa7d1e0a",
+        "0121321f17d28669cd3a410593cd596492c7a1e13d4fb308cd4686deef6714705b320a",
+        "0120a58f3d9f32d44051a0595551f92a7339b6cf85e369b9e2ef2973e1e74b0c20320a"
       ]
     },
     "eldest_kid": "01013f6c19bc2ee4ccd209880a4f24de7211f4ffae2c9f74287241987545baf85da70a",
@@ -68,20 +81,6 @@
   },
   "proofs_summary": {
     "by_proof_type": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "s_m_i",
-          "state": 1,
-          "proof_url": "https://twitter.com/s_m_i/status/747954653158117376",
-          "sig_id": "02fc9ceff03a2e6ebaf998bb2d0d112ba37abb32b245b8a6aa61831981e9bcb50f",
-          "proof_id": "e0e8ec3d0daf2eb092e09110",
-          "human_url": "https://twitter.com/s_m_i/status/747954653158117376",
-          "service_url": "https://twitter.com/s_m_i",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -94,24 +93,24 @@
           "service_url": "https://github.com/stacymarie",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "stacymarieishmael",
+          "state": 1,
+          "proof_url": "https://facebook.com/870986616337094_870986653003757",
+          "sig_id": "5dde3c8260abeedf7673c53dfcc0f135e1107a8a77dc9619b2a7916a7bdf261a0f",
+          "proof_id": "295f9a9dcdc73a635c10f510",
+          "human_url": "https://facebook.com/870986616337094_870986653003757",
+          "service_url": "https://www.facebook.com/stacymarieishmael",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ]
     },
     "by_presentation_group": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "s_m_i",
-          "state": 1,
-          "proof_url": "https://twitter.com/s_m_i/status/747954653158117376",
-          "sig_id": "02fc9ceff03a2e6ebaf998bb2d0d112ba37abb32b245b8a6aa61831981e9bcb50f",
-          "proof_id": "e0e8ec3d0daf2eb092e09110",
-          "human_url": "https://twitter.com/s_m_i/status/747954653158117376",
-          "service_url": "https://twitter.com/s_m_i",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
@@ -125,21 +124,23 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "stacymarieishmael",
+          "state": 1,
+          "proof_url": "https://facebook.com/870986616337094_870986653003757",
+          "sig_id": "5dde3c8260abeedf7673c53dfcc0f135e1107a8a77dc9619b2a7916a7bdf261a0f",
+          "proof_id": "295f9a9dcdc73a635c10f510",
+          "human_url": "https://facebook.com/870986616337094_870986653003757",
+          "service_url": "https://www.facebook.com/stacymarieishmael",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
+        }
       ]
     },
     "all": [
-      {
-        "proof_type": "twitter",
-        "nametag": "s_m_i",
-        "state": 1,
-        "proof_url": "https://twitter.com/s_m_i/status/747954653158117376",
-        "sig_id": "02fc9ceff03a2e6ebaf998bb2d0d112ba37abb32b245b8a6aa61831981e9bcb50f",
-        "proof_id": "e0e8ec3d0daf2eb092e09110",
-        "human_url": "https://twitter.com/s_m_i/status/747954653158117376",
-        "service_url": "https://twitter.com/s_m_i",
-        "presentation_group": "twitter",
-        "presentation_tag": "tweet"
-      },
       {
         "proof_type": "github",
         "nametag": "stacymarie",
@@ -151,13 +152,25 @@
         "service_url": "https://github.com/stacymarie",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "stacymarieishmael",
+        "state": 1,
+        "proof_url": "https://facebook.com/870986616337094_870986653003757",
+        "sig_id": "5dde3c8260abeedf7673c53dfcc0f135e1107a8a77dc9619b2a7916a7bdf261a0f",
+        "proof_id": "295f9a9dcdc73a635c10f510",
+        "human_url": "https://facebook.com/870986616337094_870986653003757",
+        "service_url": "https://www.facebook.com/stacymarieishmael",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/6540f2d74d100b3022387b7caa1dae05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/977c3e0f67ae5167412a206949eb5d05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -165,16 +178,54 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5b913ff1383333969e31e5dae8d8c2baf2448a93b7c152890aee8caa1bdd900d0f",
-      "seqno": 13,
-      "payload_hash": "37f03e2339ce9a1977a97683b04e872a6c92e29839abfb43e8b21083d563a9a4"
+      "sig_id": "a06485a1efc36c35407ac3ec1ba0c01353161d1662b7061a072612ff57e8ae500f",
+      "seqno": 23,
+      "payload_hash": "0b1acfb8c98bb8bf41af2a933097c828f9bffb5e1cbc4a7eae6401f458955bef"
     }
   },
   "devices": {
+    "764a3bc813ec23b604d784d44cd23a18": {
+      "type": "backup",
+      "ctime": 1488326721,
+      "mtime": 1488326721,
+      "name": "adapt keen",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a58f3d9f32d44051a0595551f92a7339b6cf85e369b9e2ef2973e1e74b0c20320a",
+          "key_role": 1,
+          "sig_id": "e28d1d99da28fa38b46ec20033b7a89fdfc980c802ad799d73058d1cd03d1ca30f"
+        },
+        {
+          "kid": "0121321f17d28669cd3a410593cd596492c7a1e13d4fb308cd4686deef6714705b320a",
+          "key_role": 2,
+          "sig_id": "163897caa2eb8e9b0deae26a874da3bf21b04a0899d9cd7da60ddc2866f51d3c0f"
+        }
+      ]
+    },
+    "7c1295e356102cf5127747fad3e39818": {
+      "type": "desktop",
+      "ctime": 1488326720,
+      "mtime": 1488326720,
+      "name": "mbp",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d06c3a36588860973b96355cb426b9220ebd2d0e7b6679a30148c5af2dff7e7c0a",
+          "key_role": 1,
+          "sig_id": "ab35cf9f1d07294f75bbcd3d4f8ee1fdac17fec5ea532b804ad8dcc343ea46a10f"
+        },
+        {
+          "kid": "01216018b3e89449983d34cb81408e3560fbbda784b9a908fd5f467c405c6eaa7d1e0a",
+          "key_role": 2,
+          "sig_id": "b14987b1ea1cf6bdc8669a49b2dc5633379e2508e5304a7970dab6e21cd06d9e0f"
+        }
+      ]
+    },
     "8c3f7d8e12faaa03c58ce991004ed718": {
       "type": "desktop",
-      "ctime": 1472498023,
-      "mtime": 1472498023,
+      "ctime": 1472501623,
+      "mtime": 1472501623,
       "name": "Mini",
       "status": 1,
       "keys": [
