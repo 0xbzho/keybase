@@ -4,16 +4,17 @@
     "username": "ecapuano",
     "ctime": 1447877856,
     "mtime": 1447877856,
-    "id_version": 11,
-    "track_version": 11,
-    "last_id_change": 1475779267,
-    "username_cased": "ecapuano"
+    "id_version": 20,
+    "track_version": 13,
+    "last_id_change": 1512631339,
+    "username_cased": "ecapuano",
+    "status": 0
   },
   "profile": {
-    "mtime": 1447887248,
+    "mtime": 1505319492,
     "full_name": "Eric Capuano",
     "location": "Austin, TX",
-    "bio": null
+    "bio": "https://blog.ecapuano.com"
   },
   "public_keys": {
     "primary": {
@@ -39,16 +40,24 @@
       "0120cb3295dde12994cfd2222b8386f87f88ceabdc7f07d1d2c1f55a23d91fcb40f80a",
       "01216d4bfebe883ac10b7bb59c0f2d0d4b30bbd7ae0f18011ec106dfc5215e229b340a",
       "0121932303b4c6bb56f1ee4474332746518594b39a6d47bc361ac9272ad44d25313f0a",
-      "01203ae240435a26496ecb5d500f513f84974466a85ec8b1fa4c3d5ccdbe987a571e0a"
+      "01203ae240435a26496ecb5d500f513f84974466a85ec8b1fa4c3d5ccdbe987a571e0a",
+      "012024218e4c3625bbd3860928bacd932d24eab237ca490aa54a7ccbe5b67f5f18d00a",
+      "0121d62f9ce761e6cc89cfb3637b2af9fecb40905535352b2aeba154851dd2bcd7230a",
+      "012028ff95feba1f14be5f4bde5fce34a06683802c3ef3fea4c6a33701d648518def0a",
+      "012173ca72a9ea95a69d698b0dbcefc782112dee54cc23ad3e334b2bb2b6b4fb3a210a"
     ],
     "subkeys": [
       "01216d4bfebe883ac10b7bb59c0f2d0d4b30bbd7ae0f18011ec106dfc5215e229b340a",
-      "0121932303b4c6bb56f1ee4474332746518594b39a6d47bc361ac9272ad44d25313f0a"
+      "0121932303b4c6bb56f1ee4474332746518594b39a6d47bc361ac9272ad44d25313f0a",
+      "0121d62f9ce761e6cc89cfb3637b2af9fecb40905535352b2aeba154851dd2bcd7230a",
+      "012173ca72a9ea95a69d698b0dbcefc782112dee54cc23ad3e334b2bb2b6b4fb3a210a"
     ],
     "sibkeys": [
       "0101d2579d5fb84c5c306c3a3ad9c2f578f40eb87fb8900771321d30f8e08f4bb9e70a",
       "0120cb3295dde12994cfd2222b8386f87f88ceabdc7f07d1d2c1f55a23d91fcb40f80a",
-      "01203ae240435a26496ecb5d500f513f84974466a85ec8b1fa4c3d5ccdbe987a571e0a"
+      "01203ae240435a26496ecb5d500f513f84974466a85ec8b1fa4c3d5ccdbe987a571e0a",
+      "012024218e4c3625bbd3860928bacd932d24eab237ca490aa54a7ccbe5b67f5f18d00a",
+      "012028ff95feba1f14be5f4bde5fce34a06683802c3ef3fea4c6a33701d648518def0a"
     ],
     "families": {
       "01017b2684c539019419a67febfacf917a189cc7bb9ca6a8d04a563f2e0f1e6f66130a": [
@@ -59,7 +68,11 @@
         "0120cb3295dde12994cfd2222b8386f87f88ceabdc7f07d1d2c1f55a23d91fcb40f80a",
         "01216d4bfebe883ac10b7bb59c0f2d0d4b30bbd7ae0f18011ec106dfc5215e229b340a",
         "0121932303b4c6bb56f1ee4474332746518594b39a6d47bc361ac9272ad44d25313f0a",
-        "01203ae240435a26496ecb5d500f513f84974466a85ec8b1fa4c3d5ccdbe987a571e0a"
+        "01203ae240435a26496ecb5d500f513f84974466a85ec8b1fa4c3d5ccdbe987a571e0a",
+        "012024218e4c3625bbd3860928bacd932d24eab237ca490aa54a7ccbe5b67f5f18d00a",
+        "0121d62f9ce761e6cc89cfb3637b2af9fecb40905535352b2aeba154851dd2bcd7230a",
+        "012028ff95feba1f14be5f4bde5fce34a06683802c3ef3fea4c6a33701d648518def0a",
+        "012173ca72a9ea95a69d698b0dbcefc782112dee54cc23ad3e334b2bb2b6b4fb3a210a"
       ]
     },
     "eldest_kid": "0101d2579d5fb84c5c306c3a3ad9c2f578f40eb87fb8900771321d30f8e08f4bb9e70a",
@@ -101,6 +114,18 @@
       "dns": [
         {
           "proof_type": "dns",
+          "nametag": "ecapuano.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/ecapuano/sigchain#8d56ffcada5e258263af1c6aa5c85d56a59641f2125704e1d806eb22e53b9d550f",
+          "sig_id": "8d56ffcada5e258263af1c6aa5c85d56a59641f2125704e1d806eb22e53b9d550f",
+          "proof_id": "463763a273ca72d8d6726110",
+          "human_url": "dns://ecapuano.com",
+          "service_url": "http://ecapuano.com",
+          "presentation_group": "ecapuano.com",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
           "nametag": "reconinfosec.com",
           "state": 1,
           "proof_url": "https://keybase.io/ecapuano/sigchain#234c76cf1462c5af1af8e472d252e7356ebd436bea152a6041f9307dbf30c5bb0f",
@@ -140,6 +165,20 @@
           "service_url": "https://github.com/ecapuano",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "ecapuano.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "ecapuano.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/ecapuano/sigchain#8d56ffcada5e258263af1c6aa5c85d56a59641f2125704e1d806eb22e53b9d550f",
+          "sig_id": "8d56ffcada5e258263af1c6aa5c85d56a59641f2125704e1d806eb22e53b9d550f",
+          "proof_id": "463763a273ca72d8d6726110",
+          "human_url": "dns://ecapuano.com",
+          "service_url": "http://ecapuano.com",
+          "presentation_group": "ecapuano.com",
+          "presentation_tag": "dns"
         }
       ],
       "reconinfosec.com": [
@@ -184,6 +223,18 @@
       },
       {
         "proof_type": "dns",
+        "nametag": "ecapuano.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/ecapuano/sigchain#8d56ffcada5e258263af1c6aa5c85d56a59641f2125704e1d806eb22e53b9d550f",
+        "sig_id": "8d56ffcada5e258263af1c6aa5c85d56a59641f2125704e1d806eb22e53b9d550f",
+        "proof_id": "463763a273ca72d8d6726110",
+        "human_url": "dns://ecapuano.com",
+        "service_url": "http://ecapuano.com",
+        "presentation_group": "ecapuano.com",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
         "nametag": "reconinfosec.com",
         "state": 1,
         "proof_url": "https://keybase.io/ecapuano/sigchain#234c76cf1462c5af1af8e472d252e7356ebd436bea152a6041f9307dbf30c5bb0f",
@@ -199,7 +250,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/1c65291e7a40f20a937b39d12158cd05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/5c423087d10b82e32cff66b443d5be05_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -207,16 +258,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "57e96ed063f258111431d3b5656b59ed8d0b5163fc3cd6a99367afa125cdfa6d0f",
-      "seqno": 20,
-      "payload_hash": "43986c624227d0cba00e32b2e2dcea19e52a63aa3d8a082f4defa9aa4533b99f"
+      "sig_id": "8d56ffcada5e258263af1c6aa5c85d56a59641f2125704e1d806eb22e53b9d550f",
+      "seqno": 29,
+      "payload_hash": "6e0dc32f9329ce6c24ec6f90c907fcdee928b8fc73efeb504727cf2b7a61e8de"
     }
   },
   "devices": {
+    "233f3ea2cda6a4f927fd4c1dddb5ed18": {
+      "type": "desktop",
+      "ctime": 1512631085,
+      "mtime": 1512631085,
+      "name": "imac",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012028ff95feba1f14be5f4bde5fce34a06683802c3ef3fea4c6a33701d648518def0a",
+          "key_role": 1,
+          "sig_id": "6ce811285f6b51b39ecf99e7a37ec02dab9e148b6d91c7d95c396308910b1ff20f"
+        },
+        {
+          "kid": "012173ca72a9ea95a69d698b0dbcefc782112dee54cc23ad3e334b2bb2b6b4fb3a210a",
+          "key_role": 2,
+          "sig_id": "ff1ea744a3dc27d8b33151681e83e3b6c6766e992bf2a96848f61f0e328696490f"
+        }
+      ]
+    },
     "2bdf640c9f6788a4c787b80267353918": {
       "type": "backup",
-      "ctime": 1475779267,
-      "mtime": 1475779267,
+      "ctime": 1475782867,
+      "mtime": 1475782867,
       "name": "there fall",
       "status": 1,
       "keys": [
@@ -234,8 +304,8 @@
     },
     "4f0f2b5aead16883b04ae1ac6a33b218": {
       "type": "desktop",
-      "ctime": 1475779266,
-      "mtime": 1475779266,
+      "ctime": 1475782866,
+      "mtime": 1475782866,
       "name": "DPS MBP",
       "status": 1,
       "keys": [
@@ -248,6 +318,25 @@
           "kid": "01216d4bfebe883ac10b7bb59c0f2d0d4b30bbd7ae0f18011ec106dfc5215e229b340a",
           "key_role": 2,
           "sig_id": "085c8b48c91700e5d287f491a318d8ff5d3a982f485ed2e7857ff03a9b0790b10f"
+        }
+      ]
+    },
+    "860032fce842d8c8a5334c486053f718": {
+      "type": "desktop",
+      "ctime": 1505319181,
+      "mtime": 1505319181,
+      "name": "MBP",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012024218e4c3625bbd3860928bacd932d24eab237ca490aa54a7ccbe5b67f5f18d00a",
+          "key_role": 1,
+          "sig_id": "792998318b9f63c4e828c4cae6b01e1af901258b1373c5e17991967cbf14c9020f"
+        },
+        {
+          "kid": "0121d62f9ce761e6cc89cfb3637b2af9fecb40905535352b2aeba154851dd2bcd7230a",
+          "key_role": 2,
+          "sig_id": "795c2a5a2820c0b4258bbf6fa969f9cc7eeac35b3842e937ff7dfe90c371cc1f0f"
         }
       ]
     }
