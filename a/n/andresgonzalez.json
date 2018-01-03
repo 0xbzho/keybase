@@ -1,0 +1,99 @@
+{
+  "id": "ae4bb8748757301d5b2ed800670f1719",
+  "basics": {
+    "username": "andresgonzalez",
+    "ctime": 1507841954,
+    "mtime": 1507841954,
+    "id_version": 4,
+    "track_version": 2,
+    "last_id_change": 1510431800,
+    "username_cased": "andresgonzalez",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0121265a4e79fae90603b9dd9bd29d4e0cfe44145f7667cc63716918968ec990d8180a",
+      "01200ce0297320d71eaab741c391fbc5b99d914652791c7ede146919ce3373110df80a",
+      "012176cd0d035d4bf675332e198c0a08db4ddd0eeefc044ce7313758aeb86885c61b0a",
+      "0120cc997adeafc77380e5acf0aeb78ea60d90cb9affade71b6529e90307d64cc6050a",
+      "0121082340d237712add867b10b2ae365001e95e70dbcd6ea64358f23b33234ced790a",
+      "01204f0b4ce2e402c90a31ffef259105814575218d2ce4bbbd1ce4228eb517de7dba0a"
+    ],
+    "subkeys": [
+      "012176cd0d035d4bf675332e198c0a08db4ddd0eeefc044ce7313758aeb86885c61b0a",
+      "0121082340d237712add867b10b2ae365001e95e70dbcd6ea64358f23b33234ced790a"
+    ],
+    "sibkeys": [
+      "0120cc997adeafc77380e5acf0aeb78ea60d90cb9affade71b6529e90307d64cc6050a",
+      "01204f0b4ce2e402c90a31ffef259105814575218d2ce4bbbd1ce4228eb517de7dba0a"
+    ],
+    "families": {
+      "01200ce0297320d71eaab741c391fbc5b99d914652791c7ede146919ce3373110df80a": [
+        "0121265a4e79fae90603b9dd9bd29d4e0cfe44145f7667cc63716918968ec990d8180a",
+        "01200ce0297320d71eaab741c391fbc5b99d914652791c7ede146919ce3373110df80a"
+      ],
+      "0120cc997adeafc77380e5acf0aeb78ea60d90cb9affade71b6529e90307d64cc6050a": [
+        "012176cd0d035d4bf675332e198c0a08db4ddd0eeefc044ce7313758aeb86885c61b0a",
+        "0120cc997adeafc77380e5acf0aeb78ea60d90cb9affade71b6529e90307d64cc6050a",
+        "0121082340d237712add867b10b2ae365001e95e70dbcd6ea64358f23b33234ced790a",
+        "01204f0b4ce2e402c90a31ffef259105814575218d2ce4bbbd1ce4228eb517de7dba0a"
+      ]
+    },
+    "eldest_kid": "0120cc997adeafc77380e5acf0aeb78ea60d90cb9affade71b6529e90307d64cc6050a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "744fef445a37227142df295a3584b55d525ea73b4ef7820e826811a4a7b8a9940f",
+      "seqno": 10,
+      "payload_hash": "1292abe00fc42ec822c2fac9fb75ae7d5a1c34f02efd8ab3677d56b8b30d375b"
+    }
+  },
+  "devices": {
+    "6d3e8d489233b388ad5d12dc3a80b818": {
+      "type": "desktop",
+      "ctime": 1510430309,
+      "mtime": 1510430309,
+      "name": "AndresLaptop",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120cc997adeafc77380e5acf0aeb78ea60d90cb9affade71b6529e90307d64cc6050a",
+          "key_role": 1,
+          "sig_id": "e9895aff44b7154d71b4713b0b2dd7af9b4144230ffe99e61310b28ef99c30bb0f"
+        },
+        {
+          "kid": "012176cd0d035d4bf675332e198c0a08db4ddd0eeefc044ce7313758aeb86885c61b0a",
+          "key_role": 2,
+          "sig_id": "a1ffc35f7292090ebed6296709c25771965145834295a73b53f2ca9d66d3afd10f"
+        }
+      ]
+    },
+    "9ace1fb31dc1f6327591fe4e76af3018": {
+      "type": "backup",
+      "ctime": 1510431800,
+      "mtime": 1510431800,
+      "name": "release tortoise",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01204f0b4ce2e402c90a31ffef259105814575218d2ce4bbbd1ce4228eb517de7dba0a",
+          "key_role": 1,
+          "sig_id": "1b47b762864116ef52feba9a937c78cf4852c43d870f39cc9ac5468720645fa20f"
+        },
+        {
+          "kid": "0121082340d237712add867b10b2ae365001e95e70dbcd6ea64358f23b33234ced790a",
+          "key_role": 2,
+          "sig_id": "4f1ba32034c24b390aa0568a6ecddc0c5ab304dd9af344e2593a3dfe3a2a031f0f"
+        }
+      ]
+    }
+  }
+}
