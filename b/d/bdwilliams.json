@@ -2,12 +2,13 @@
   "id": "4ae6df6f3130f310a3cd1e9b2e13e400",
   "basics": {
     "username": "bdwilliams",
-    "ctime": 1403626230,
-    "mtime": 1403626230,
-    "id_version": 14,
+    "ctime": 1403629830,
+    "mtime": 1403629830,
+    "id_version": 18,
     "track_version": 6,
-    "last_id_change": 1472652959,
-    "username_cased": "bdwilliams"
+    "last_id_change": 1508777576,
+    "username_cased": "bdwilliams",
+    "status": 0
   },
   "profile": {
     "mtime": 1447436947,
@@ -38,16 +39,20 @@
       "0120188209ca420a2dcd7697c7736decc495eccdde3a8d91432d49fa40a0d893740a0a",
       "0121bfc52430b84cb3298a16045e4c476df92507b409ce6a428bdf2f1dd717ec64040a",
       "0120188ccd470f526be48c76b75a658ce8cf762f21dcc381871c24e4fb8a45523ad70a",
-      "0121331a853eeda0b7ddd72a8c79767350f79961dc24f0d8c70bc4a0730a671dc7540a"
+      "0121331a853eeda0b7ddd72a8c79767350f79961dc24f0d8c70bc4a0730a671dc7540a",
+      "0120e830b1133dad7bb7f2cc13df2889c626d87170152bd4f685cb77122e16d04e040a",
+      "012118ad4d1f9a66f06f0f71c22d16976c0f54b9a0df23ae2e35839161ad509732340a"
     ],
     "subkeys": [
       "0121bfc52430b84cb3298a16045e4c476df92507b409ce6a428bdf2f1dd717ec64040a",
-      "0121331a853eeda0b7ddd72a8c79767350f79961dc24f0d8c70bc4a0730a671dc7540a"
+      "0121331a853eeda0b7ddd72a8c79767350f79961dc24f0d8c70bc4a0730a671dc7540a",
+      "012118ad4d1f9a66f06f0f71c22d16976c0f54b9a0df23ae2e35839161ad509732340a"
     ],
     "sibkeys": [
       "01019901b1a52f3feb759c0437ebedf6d5f2cf41733b248a81c24a9f50e2c0abd9050a",
       "0120188209ca420a2dcd7697c7736decc495eccdde3a8d91432d49fa40a0d893740a0a",
-      "0120188ccd470f526be48c76b75a658ce8cf762f21dcc381871c24e4fb8a45523ad70a"
+      "0120188ccd470f526be48c76b75a658ce8cf762f21dcc381871c24e4fb8a45523ad70a",
+      "0120e830b1133dad7bb7f2cc13df2889c626d87170152bd4f685cb77122e16d04e040a"
     ],
     "families": {
       "01019901b1a52f3feb759c0437ebedf6d5f2cf41733b248a81c24a9f50e2c0abd9050a": [
@@ -55,7 +60,9 @@
         "0120188209ca420a2dcd7697c7736decc495eccdde3a8d91432d49fa40a0d893740a0a",
         "0121bfc52430b84cb3298a16045e4c476df92507b409ce6a428bdf2f1dd717ec64040a",
         "0120188ccd470f526be48c76b75a658ce8cf762f21dcc381871c24e4fb8a45523ad70a",
-        "0121331a853eeda0b7ddd72a8c79767350f79961dc24f0d8c70bc4a0730a671dc7540a"
+        "0121331a853eeda0b7ddd72a8c79767350f79961dc24f0d8c70bc4a0730a671dc7540a",
+        "0120e830b1133dad7bb7f2cc13df2889c626d87170152bd4f685cb77122e16d04e040a",
+        "012118ad4d1f9a66f06f0f71c22d16976c0f54b9a0df23ae2e35839161ad509732340a"
       ]
     },
     "eldest_kid": "01019901b1a52f3feb759c0437ebedf6d5f2cf41733b248a81c24a9f50e2c0abd9050a",
@@ -163,16 +170,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "d55620ab2a19b5849b4a709c899cb62114cec21fe8c59fff93b1b298c01d710b0f",
-      "seqno": 13,
-      "payload_hash": "4158f4e6407e25d8634692e33a9589820f09793c18c5db0bb735c236745138f5"
+      "sig_id": "3bd796cfd4bb2a2371d7ef1c9fc389b3955858e4fbcc47cd54b49e8ad4580c5c0f",
+      "seqno": 17,
+      "payload_hash": "bda45bd862def5febab7c6c9b2666af66a3981bf4495c9bd919aa8646a31976a"
     }
   },
   "devices": {
     "193e718fea4e75b4856619628c4f2218": {
       "type": "backup",
-      "ctime": 1472652959,
-      "mtime": 1472652959,
+      "ctime": 1472656559,
+      "mtime": 1472656559,
       "name": "burden brand",
       "status": 1,
       "keys": [
@@ -190,8 +197,8 @@
     },
     "82d1c784e5e8a838196e9d2d68996018": {
       "type": "desktop",
-      "ctime": 1472652959,
-      "mtime": 1472652959,
+      "ctime": 1472656559,
+      "mtime": 1472656559,
       "name": "brian-work-mbp",
       "status": 1,
       "keys": [
@@ -204,6 +211,25 @@
           "kid": "0121331a853eeda0b7ddd72a8c79767350f79961dc24f0d8c70bc4a0730a671dc7540a",
           "key_role": 2,
           "sig_id": "635f3bfbeae6e6cd8b18288370c0d87a0dba919f20823521392b7053a5e2f8170f"
+        }
+      ]
+    },
+    "b3b1a43a8f84d47add671bc457dfbf18": {
+      "type": "desktop",
+      "ctime": 1508771126,
+      "mtime": 1508771126,
+      "name": "brians-home-mbp",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120e830b1133dad7bb7f2cc13df2889c626d87170152bd4f685cb77122e16d04e040a",
+          "key_role": 1,
+          "sig_id": "a3403e823ea407061355b165163110c5bd2654cdac8d87c91671bc21071d01f70f"
+        },
+        {
+          "kid": "012118ad4d1f9a66f06f0f71c22d16976c0f54b9a0df23ae2e35839161ad509732340a",
+          "key_role": 2,
+          "sig_id": "1d0e4323383680aca5b4eead8867ae8877ccfdb0c540da699a122210f045d1500f"
         }
       ]
     }
