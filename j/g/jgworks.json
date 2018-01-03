@@ -2,15 +2,16 @@
   "id": "2d098be8a175e1c0b110988e3705e800",
   "basics": {
     "username": "jgworks",
-    "ctime": 1397829052,
-    "mtime": 1397829052,
-    "id_version": 47,
-    "track_version": 3,
-    "last_id_change": 1469540554,
-    "username_cased": "jgworks"
+    "ctime": 1397832652,
+    "mtime": 1397832652,
+    "id_version": 50,
+    "track_version": 7,
+    "last_id_change": 1512528884,
+    "username_cased": "jgworks",
+    "status": 0
   },
   "profile": {
-    "mtime": 1397843015,
+    "mtime": 1397846615,
     "full_name": "Jonathan G. Works",
     "location": "Florida",
     "bio": null
@@ -54,16 +55,18 @@
       "0120a08d4a27e0cab858fa9b64598594c961cb99fa62a4c9af7f5e754cb7139916c10a",
       "01215685cbeec4d252f739b34db916b1e53cbf6ded1287505b73c6a21ebbb48712720a",
       "0120780416cf1f43aaefe571475cbf675d18ad312e9744874ad1bf67a2adca9138e50a",
-      "0121db6e506338721441a6c684a397e18e5c3bbf914b74c8ab6ca70a9cf0a0d4483f0a"
+      "0121db6e506338721441a6c684a397e18e5c3bbf914b74c8ab6ca70a9cf0a0d4483f0a",
+      "0120283dbded6436cee6516f984b7e0ef816815d64c1ab1c2f0c0dc20c52ed7c18540a",
+      "0121ab44e0c6679c4ac1a325cb2b06c5ef03171faf24807ea29572ba759af81a74210a"
     ],
     "subkeys": [
-      "01212c226fc3648766436f78ba3b40a20ce797a0ec4ac9b38ee5ba8110ed570022710a",
-      "0121033533e1b8ced05ef1d1d37404f6d0e28032dadaf762134c86ac23e62e17a2670a"
+      "0121033533e1b8ced05ef1d1d37404f6d0e28032dadaf762134c86ac23e62e17a2670a",
+      "0121ab44e0c6679c4ac1a325cb2b06c5ef03171faf24807ea29572ba759af81a74210a"
     ],
     "sibkeys": [
       "0101d953ce01aafc4948abab842942301da7b5dea51f03458398f251c448587ec8180a",
-      "01201e3d8c8f7bdd80f8531376cf4396e9a1e587bc1ff4c55ab80084795e8b2282a10a",
-      "0120b6c8c08c92d969979d764d6aec647fe3ae3635547f4fbf8f133174d785aaeafc0a"
+      "0120b6c8c08c92d969979d764d6aec647fe3ae3635547f4fbf8f133174d785aaeafc0a",
+      "0120283dbded6436cee6516f984b7e0ef816815d64c1ab1c2f0c0dc20c52ed7c18540a"
     ],
     "families": {
       "0111245e14cff87ac9ace0b0e70c15d31270ca462c5c583bd1b5d4988006240024930a": [
@@ -89,7 +92,9 @@
         "0120a08d4a27e0cab858fa9b64598594c961cb99fa62a4c9af7f5e754cb7139916c10a",
         "01215685cbeec4d252f739b34db916b1e53cbf6ded1287505b73c6a21ebbb48712720a",
         "0120780416cf1f43aaefe571475cbf675d18ad312e9744874ad1bf67a2adca9138e50a",
-        "0121db6e506338721441a6c684a397e18e5c3bbf914b74c8ab6ca70a9cf0a0d4483f0a"
+        "0121db6e506338721441a6c684a397e18e5c3bbf914b74c8ab6ca70a9cf0a0d4483f0a",
+        "0120283dbded6436cee6516f984b7e0ef816815d64c1ab1c2f0c0dc20c52ed7c18540a",
+        "0121ab44e0c6679c4ac1a325cb2b06c5ef03171faf24807ea29572ba759af81a74210a"
       ]
     },
     "eldest_kid": "0101d953ce01aafc4948abab842942301da7b5dea51f03458398f251c448587ec8180a",
@@ -237,12 +242,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "3d98b36643b9d2315a891ea13fb5974857c076e419e0c4dc9a94dd723cee5a7a0f",
-      "seqno": 24,
-      "payload_hash": "8a9f3c9d9e169f29cbd33dccfe3a00089960fe3624b86b40e4ef6823238c5be9"
+      "sig_id": "44f64d52fef5841ecae198f87979ebe7d0f261eccdfaedccf71abf996f5463590f",
+      "seqno": 34,
+      "payload_hash": "d0656897cd6bea0c6741192d209661f0e477a14818cb219de36be0152e0c5f58"
     }
   },
   "devices": {
+    "16e9e163a7d4a7765b7c7d05bbb8cc18": {
+      "type": "mobile",
+      "ctime": 1512528884,
+      "mtime": 1512528884,
+      "name": "Pixel 2 XL",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120283dbded6436cee6516f984b7e0ef816815d64c1ab1c2f0c0dc20c52ed7c18540a",
+          "key_role": 1,
+          "sig_id": "efa692e6ec3617c2e97eca0fe81c50537cc2b7e922f0e8c8d1f8057fb97cabfe0f"
+        },
+        {
+          "kid": "0121ab44e0c6679c4ac1a325cb2b06c5ef03171faf24807ea29572ba759af81a74210a",
+          "key_role": 2,
+          "sig_id": "94d7d89bbe7bf10ea3e4d7ce1632f1c7fb935ad92b3699d8d9d1799e1299784f0f"
+        }
+      ]
+    },
     "6902d9c18fdeb4e4639f39cacc7e4a18": {
       "type": "backup",
       "ctime": 1454639819,
@@ -259,25 +283,6 @@
           "kid": "0121033533e1b8ced05ef1d1d37404f6d0e28032dadaf762134c86ac23e62e17a2670a",
           "key_role": 2,
           "sig_id": "7b6ae8dd4e26d9a922daa09b7f84e5f7b3770d4b79f1253290fd662cb7622ffa0f"
-        }
-      ]
-    },
-    "b90c06f60de15319c76c0e5cf4011118": {
-      "type": "desktop",
-      "ctime": 1454639818,
-      "mtime": 1454639818,
-      "name": "jgworks-tts-mbp",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01201e3d8c8f7bdd80f8531376cf4396e9a1e587bc1ff4c55ab80084795e8b2282a10a",
-          "key_role": 1,
-          "sig_id": "a46a7858d163d7fa4cf55e2012fefe206071171a15bda67cc6f88afed236fe400f"
-        },
-        {
-          "kid": "01212c226fc3648766436f78ba3b40a20ce797a0ec4ac9b38ee5ba8110ed570022710a",
-          "key_role": 2,
-          "sig_id": "beae4c43170f050e60d62a32b6b8885d24cff19ff83bb5dbaf7280881f42e45c0f"
         }
       ]
     }
