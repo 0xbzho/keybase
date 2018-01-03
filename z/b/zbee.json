@@ -2,18 +2,19 @@
   "id": "d28ff53743766bafa4d1a66fc16baf19",
   "basics": {
     "username": "zbee",
-    "ctime": 1429030985,
-    "mtime": 1429030985,
-    "id_version": 155,
+    "ctime": 1429034585,
+    "mtime": 1429034585,
+    "id_version": 176,
     "track_version": 8,
-    "last_id_change": 1472014173,
-    "username_cased": "zbee"
+    "last_id_change": 1514559461,
+    "username_cased": "zbee",
+    "status": 0
   },
   "profile": {
-    "mtime": 1471540501,
+    "mtime": 1491517267,
     "full_name": "Ethan Henderson",
     "location": "Colorado, USA",
-    "bio": "Full-stack Developer formerly contracting for the DoD, now making pizzas for Domino's, about to be a manager."
+    "bio": "Full-stack Developer formerly contracting for the DoD, now freelancing."
   },
   "public_keys": {
     "primary": {
@@ -43,16 +44,18 @@
       "0121a352824d3b5118830c135dcdeeb7daca18c85b89bc1fa49875a7aaf6109b5e350a",
       "012073c261f6e39e21a4479812561e8bcd3b0e60671ce4d7cbdbb7602516d8c9971e0a",
       "01218234fe867ddc4db4bb50d8ec6a9d965784fa76daa2fdbee60a6db74ea0956e120a",
-      "01206c543f9b07620a99033dd6864301097e0e0dfa2acebc2bb091a15ae5723ad56e0a"
+      "01206c543f9b07620a99033dd6864301097e0e0dfa2acebc2bb091a15ae5723ad56e0a",
+      "0121e22e867518150b92e929bd40f79a1b2cfef70ab978fb35e8dbe00065eeb88e1a0a",
+      "01204e1eeab2df2caa4b820deb87ecd81edb737be358e34b83ad69a91825d991c2640a"
     ],
     "subkeys": [
-      "0121a352824d3b5118830c135dcdeeb7daca18c85b89bc1fa49875a7aaf6109b5e350a",
-      "01218234fe867ddc4db4bb50d8ec6a9d965784fa76daa2fdbee60a6db74ea0956e120a"
+      "01218234fe867ddc4db4bb50d8ec6a9d965784fa76daa2fdbee60a6db74ea0956e120a",
+      "0121e22e867518150b92e929bd40f79a1b2cfef70ab978fb35e8dbe00065eeb88e1a0a"
     ],
     "sibkeys": [
       "0101025c0e8413165412eccb0880380cddcbcf13367cfb3d137981892824b40399880a",
-      "012073c261f6e39e21a4479812561e8bcd3b0e60671ce4d7cbdbb7602516d8c9971e0a",
-      "01206c543f9b07620a99033dd6864301097e0e0dfa2acebc2bb091a15ae5723ad56e0a"
+      "01206c543f9b07620a99033dd6864301097e0e0dfa2acebc2bb091a15ae5723ad56e0a",
+      "01204e1eeab2df2caa4b820deb87ecd81edb737be358e34b83ad69a91825d991c2640a"
     ],
     "families": {
       "0101025c0e8413165412eccb0880380cddcbcf13367cfb3d137981892824b40399880a": [
@@ -65,7 +68,9 @@
         "0121a352824d3b5118830c135dcdeeb7daca18c85b89bc1fa49875a7aaf6109b5e350a",
         "012073c261f6e39e21a4479812561e8bcd3b0e60671ce4d7cbdbb7602516d8c9971e0a",
         "01218234fe867ddc4db4bb50d8ec6a9d965784fa76daa2fdbee60a6db74ea0956e120a",
-        "01206c543f9b07620a99033dd6864301097e0e0dfa2acebc2bb091a15ae5723ad56e0a"
+        "01206c543f9b07620a99033dd6864301097e0e0dfa2acebc2bb091a15ae5723ad56e0a",
+        "0121e22e867518150b92e929bd40f79a1b2cfef70ab978fb35e8dbe00065eeb88e1a0a",
+        "01204e1eeab2df2caa4b820deb87ecd81edb737be358e34b83ad69a91825d991c2640a"
       ]
     },
     "eldest_kid": "0101025c0e8413165412eccb0880380cddcbcf13367cfb3d137981892824b40399880a",
@@ -118,57 +123,21 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
-          "nametag": "zbee",
+          "proof_type": "facebook",
+          "nametag": "zbee0",
           "state": 1,
-          "proof_url": "https://coinbase.com/zbee/public-key",
-          "sig_id": "5b797b89463c1ed9a62a80a72ef662b01a943488f9548b19e776d4b0dd651d270f",
-          "proof_id": "d9787dc83d92767f1a743a10",
-          "human_url": "https://coinbase.com/zbee/public-key",
-          "service_url": "https://coinbase.com/zbee",
-          "presentation_group": "coinbase",
+          "proof_url": "https://facebook.com/1456879514325753_1456879767659061",
+          "sig_id": "be9963fb0b71090fe027e87ac831652f7825fe9003d127af5d5e574593e7bf7d0f",
+          "proof_id": "af236db96915a79aa0bc7a10",
+          "human_url": "https://facebook.com/1456879514325753_1456879767659061",
+          "service_url": "https://www.facebook.com/zbee0",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
         }
       ],
       "dns": [
-        {
-          "proof_type": "dns",
-          "nametag": "oeuvre.audio",
-          "state": 1,
-          "proof_url": "https://keybase.io/zbee/sigchain#54888ec0a2ed453f8f2835aa54231a0fdf4ee37269720db722f21d822ea235bf0f",
-          "sig_id": "54888ec0a2ed453f8f2835aa54231a0fdf4ee37269720db722f21d822ea235bf0f",
-          "proof_id": "08924401c121737c78f5fa10",
-          "human_url": "dns://oeuvre.audio",
-          "service_url": "http://oeuvre.audio",
-          "presentation_group": "oeuvre.audio",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "bloom.audio",
-          "state": 1,
-          "proof_url": "https://keybase.io/zbee/sigchain#95ed6ccff706dbe3febd3ab466fadd64ac1a9112310decc6dfffa4d265b5e5250f",
-          "sig_id": "95ed6ccff706dbe3febd3ab466fadd64ac1a9112310decc6dfffa4d265b5e5250f",
-          "proof_id": "492999af16101866eca06e10",
-          "human_url": "dns://bloom.audio",
-          "service_url": "http://bloom.audio",
-          "presentation_group": "bloom.audio",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "coffeecouriers.co",
-          "state": 1,
-          "proof_url": "https://keybase.io/zbee/sigchain#dcfab3c2d197af1db2e707574a57c454422b722790d4a92f18da1c9dc99e1e290f",
-          "sig_id": "dcfab3c2d197af1db2e707574a57c454422b722790d4a92f18da1c9dc99e1e290f",
-          "proof_id": "8bb54fc9d5bd1a25ca3da910",
-          "human_url": "dns://coffeecouriers.co",
-          "service_url": "http://coffeecouriers.co",
-          "presentation_group": "coffeecouriers.co",
-          "presentation_tag": "dns"
-        },
         {
           "proof_type": "dns",
           "nametag": "zbee.me",
@@ -226,60 +195,18 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
+      "facebook": [
         {
-          "proof_type": "coinbase",
-          "nametag": "zbee",
+          "proof_type": "facebook",
+          "nametag": "zbee0",
           "state": 1,
-          "proof_url": "https://coinbase.com/zbee/public-key",
-          "sig_id": "5b797b89463c1ed9a62a80a72ef662b01a943488f9548b19e776d4b0dd651d270f",
-          "proof_id": "d9787dc83d92767f1a743a10",
-          "human_url": "https://coinbase.com/zbee/public-key",
-          "service_url": "https://coinbase.com/zbee",
-          "presentation_group": "coinbase",
+          "proof_url": "https://facebook.com/1456879514325753_1456879767659061",
+          "sig_id": "be9963fb0b71090fe027e87ac831652f7825fe9003d127af5d5e574593e7bf7d0f",
+          "proof_id": "af236db96915a79aa0bc7a10",
+          "human_url": "https://facebook.com/1456879514325753_1456879767659061",
+          "service_url": "https://www.facebook.com/zbee0",
+          "presentation_group": "facebook",
           "presentation_tag": "post"
-        }
-      ],
-      "oeuvre.audio": [
-        {
-          "proof_type": "dns",
-          "nametag": "oeuvre.audio",
-          "state": 1,
-          "proof_url": "https://keybase.io/zbee/sigchain#54888ec0a2ed453f8f2835aa54231a0fdf4ee37269720db722f21d822ea235bf0f",
-          "sig_id": "54888ec0a2ed453f8f2835aa54231a0fdf4ee37269720db722f21d822ea235bf0f",
-          "proof_id": "08924401c121737c78f5fa10",
-          "human_url": "dns://oeuvre.audio",
-          "service_url": "http://oeuvre.audio",
-          "presentation_group": "oeuvre.audio",
-          "presentation_tag": "dns"
-        }
-      ],
-      "bloom.audio": [
-        {
-          "proof_type": "dns",
-          "nametag": "bloom.audio",
-          "state": 1,
-          "proof_url": "https://keybase.io/zbee/sigchain#95ed6ccff706dbe3febd3ab466fadd64ac1a9112310decc6dfffa4d265b5e5250f",
-          "sig_id": "95ed6ccff706dbe3febd3ab466fadd64ac1a9112310decc6dfffa4d265b5e5250f",
-          "proof_id": "492999af16101866eca06e10",
-          "human_url": "dns://bloom.audio",
-          "service_url": "http://bloom.audio",
-          "presentation_group": "bloom.audio",
-          "presentation_tag": "dns"
-        }
-      ],
-      "coffeecouriers.co": [
-        {
-          "proof_type": "dns",
-          "nametag": "coffeecouriers.co",
-          "state": 1,
-          "proof_url": "https://keybase.io/zbee/sigchain#dcfab3c2d197af1db2e707574a57c454422b722790d4a92f18da1c9dc99e1e290f",
-          "sig_id": "dcfab3c2d197af1db2e707574a57c454422b722790d4a92f18da1c9dc99e1e290f",
-          "proof_id": "8bb54fc9d5bd1a25ca3da910",
-          "human_url": "dns://coffeecouriers.co",
-          "service_url": "http://coffeecouriers.co",
-          "presentation_group": "coffeecouriers.co",
-          "presentation_tag": "dns"
         }
       ],
       "zbee.me": [
@@ -335,52 +262,16 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "zbee",
+        "proof_type": "facebook",
+        "nametag": "zbee0",
         "state": 1,
-        "proof_url": "https://coinbase.com/zbee/public-key",
-        "sig_id": "5b797b89463c1ed9a62a80a72ef662b01a943488f9548b19e776d4b0dd651d270f",
-        "proof_id": "d9787dc83d92767f1a743a10",
-        "human_url": "https://coinbase.com/zbee/public-key",
-        "service_url": "https://coinbase.com/zbee",
-        "presentation_group": "coinbase",
+        "proof_url": "https://facebook.com/1456879514325753_1456879767659061",
+        "sig_id": "be9963fb0b71090fe027e87ac831652f7825fe9003d127af5d5e574593e7bf7d0f",
+        "proof_id": "af236db96915a79aa0bc7a10",
+        "human_url": "https://facebook.com/1456879514325753_1456879767659061",
+        "service_url": "https://www.facebook.com/zbee0",
+        "presentation_group": "facebook",
         "presentation_tag": "post"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "oeuvre.audio",
-        "state": 1,
-        "proof_url": "https://keybase.io/zbee/sigchain#54888ec0a2ed453f8f2835aa54231a0fdf4ee37269720db722f21d822ea235bf0f",
-        "sig_id": "54888ec0a2ed453f8f2835aa54231a0fdf4ee37269720db722f21d822ea235bf0f",
-        "proof_id": "08924401c121737c78f5fa10",
-        "human_url": "dns://oeuvre.audio",
-        "service_url": "http://oeuvre.audio",
-        "presentation_group": "oeuvre.audio",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "bloom.audio",
-        "state": 1,
-        "proof_url": "https://keybase.io/zbee/sigchain#95ed6ccff706dbe3febd3ab466fadd64ac1a9112310decc6dfffa4d265b5e5250f",
-        "sig_id": "95ed6ccff706dbe3febd3ab466fadd64ac1a9112310decc6dfffa4d265b5e5250f",
-        "proof_id": "492999af16101866eca06e10",
-        "human_url": "dns://bloom.audio",
-        "service_url": "http://bloom.audio",
-        "presentation_group": "bloom.audio",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "coffeecouriers.co",
-        "state": 1,
-        "proof_url": "https://keybase.io/zbee/sigchain#dcfab3c2d197af1db2e707574a57c454422b722790d4a92f18da1c9dc99e1e290f",
-        "sig_id": "dcfab3c2d197af1db2e707574a57c454422b722790d4a92f18da1c9dc99e1e290f",
-        "proof_id": "8bb54fc9d5bd1a25ca3da910",
-        "human_url": "dns://coffeecouriers.co",
-        "service_url": "http://coffeecouriers.co",
-        "presentation_group": "coffeecouriers.co",
-        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -406,7 +297,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/d12dbd63552675e063a438f7ce437f05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/328d9600d04911ddff66bd56befa5205_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -414,35 +305,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "9c4e8598ce18e396e79683633caf0280139d685dee8c3d9443ed23ec9c0e3cf40f",
-      "seqno": 49,
-      "payload_hash": "369b5893df60bea4669fa05521059c545069a3232b7a030359343baa5959467a"
+      "sig_id": "c897978111b51d5dea2e78668f81cf61d096d0f238e26b68d7c1975b1fc537ea0f",
+      "seqno": 54,
+      "payload_hash": "41757b0d70a2425feb7b9808e4d496a15cfe94ed613ce3d245dd1990230724e2"
     }
   },
   "devices": {
-    "51c94ce51cad41b4358f7345a8e6b518": {
-      "type": "desktop",
-      "ctime": 1471539191,
-      "mtime": 1471539191,
-      "name": "macbook 5'1 - ubuntu",
+    "423ab3417a87ca0a89b02bdc2a623718": {
+      "type": "mobile",
+      "ctime": 1498747821,
+      "mtime": 1498747821,
+      "name": "iPhone SE",
       "status": 1,
       "keys": [
         {
-          "kid": "012073c261f6e39e21a4479812561e8bcd3b0e60671ce4d7cbdbb7602516d8c9971e0a",
+          "kid": "01204e1eeab2df2caa4b820deb87ecd81edb737be358e34b83ad69a91825d991c2640a",
           "key_role": 1,
-          "sig_id": "94dd8f6595ad6a59fd1cf225ab7641f560d8d11f32eb3b7a7252f49e579e2fbb0f"
+          "sig_id": "515a82d74b49ef2e61132ea3afa397bd3ccccae1413a89e6a874c57536aef8cc0f"
         },
         {
-          "kid": "0121a352824d3b5118830c135dcdeeb7daca18c85b89bc1fa49875a7aaf6109b5e350a",
+          "kid": "0121e22e867518150b92e929bd40f79a1b2cfef70ab978fb35e8dbe00065eeb88e1a0a",
           "key_role": 2,
-          "sig_id": "b6c569a08e5ba9dac798d4fe1701cb4e14b4bd45fea0bf2271b0dde8e129c5980f"
+          "sig_id": "469b8f87e6661e86df6f9bc643e6d916004ae88de24e42e3a0993d81f7a7cda80f"
         }
       ]
     },
     "fe9fe11ca71b076f58af367e8a102418": {
       "type": "backup",
-      "ctime": 1471539192,
-      "mtime": 1471539193,
+      "ctime": 1471542792,
+      "mtime": 1471542793,
       "name": "give they",
       "status": 1,
       "keys": [
