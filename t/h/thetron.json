@@ -2,12 +2,13 @@
   "id": "c1e7b9958c0d140c64c7e312b8748d00",
   "basics": {
     "username": "thetron",
-    "ctime": 1405401041,
-    "mtime": 1405401041,
-    "id_version": 33,
-    "track_version": 5,
-    "last_id_change": 1460428265,
-    "username_cased": "thetron"
+    "ctime": 1405404641,
+    "mtime": 1405404641,
+    "id_version": 43,
+    "track_version": 9,
+    "last_id_change": 1511815796,
+    "username_cased": "thetron",
+    "status": 0
   },
   "profile": {
     "mtime": 1454627941,
@@ -38,16 +39,20 @@
       "0120c468d60e3c35a8bffc73ba8b2e5207a73a0e7c98121868d8ad1d4ce3f6ec39aa0a",
       "0121875d20d7dc38843994b061fb0d7cad38ecc1caa855f7fa6470db842ca714834f0a",
       "01203b170f84e84ac8f111aa0f45beefb8fb74c276828cccaa55d66e6b2c38c690fc0a",
-      "0121f322dea476545d1222ea6d612ec6a0d075941c9ad452f228a440afa2cb16930d0a"
+      "0121f322dea476545d1222ea6d612ec6a0d075941c9ad452f228a440afa2cb16930d0a",
+      "01214e7ff0fd2f06bf2d0ab4c8a318de4dc348cdb6f371b38e739c51af226ba839060a",
+      "01206f0a5c25bf80b3e5a6877e258ca65aa5c32bb48c33dd776bcf6aa555c02565730a"
     ],
     "subkeys": [
       "0121875d20d7dc38843994b061fb0d7cad38ecc1caa855f7fa6470db842ca714834f0a",
-      "0121f322dea476545d1222ea6d612ec6a0d075941c9ad452f228a440afa2cb16930d0a"
+      "0121f322dea476545d1222ea6d612ec6a0d075941c9ad452f228a440afa2cb16930d0a",
+      "01214e7ff0fd2f06bf2d0ab4c8a318de4dc348cdb6f371b38e739c51af226ba839060a"
     ],
     "sibkeys": [
       "010127ccbb529a3d599a0524f99bf44006ec6ddfc7375a3f191f14fa28acc11bba650a",
       "0120c468d60e3c35a8bffc73ba8b2e5207a73a0e7c98121868d8ad1d4ce3f6ec39aa0a",
-      "01203b170f84e84ac8f111aa0f45beefb8fb74c276828cccaa55d66e6b2c38c690fc0a"
+      "01203b170f84e84ac8f111aa0f45beefb8fb74c276828cccaa55d66e6b2c38c690fc0a",
+      "01206f0a5c25bf80b3e5a6877e258ca65aa5c32bb48c33dd776bcf6aa555c02565730a"
     ],
     "families": {
       "010127ccbb529a3d599a0524f99bf44006ec6ddfc7375a3f191f14fa28acc11bba650a": [
@@ -55,7 +60,9 @@
         "0120c468d60e3c35a8bffc73ba8b2e5207a73a0e7c98121868d8ad1d4ce3f6ec39aa0a",
         "0121875d20d7dc38843994b061fb0d7cad38ecc1caa855f7fa6470db842ca714834f0a",
         "01203b170f84e84ac8f111aa0f45beefb8fb74c276828cccaa55d66e6b2c38c690fc0a",
-        "0121f322dea476545d1222ea6d612ec6a0d075941c9ad452f228a440afa2cb16930d0a"
+        "0121f322dea476545d1222ea6d612ec6a0d075941c9ad452f228a440afa2cb16930d0a",
+        "01214e7ff0fd2f06bf2d0ab4c8a318de4dc348cdb6f371b38e739c51af226ba839060a",
+        "01206f0a5c25bf80b3e5a6877e258ca65aa5c32bb48c33dd776bcf6aa555c02565730a"
       ]
     },
     "eldest_kid": "010127ccbb529a3d599a0524f99bf44006ec6ddfc7375a3f191f14fa28acc11bba650a",
@@ -94,20 +101,6 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "thetron",
-          "state": 1,
-          "proof_url": "https://coinbase.com/thetron/public-key",
-          "sig_id": "36bc32f45dcfd3dad119df604141197d9c4552bd2c6b80988b31d94f33c9e00e0f",
-          "proof_id": "7d4830f22972611a94af9610",
-          "human_url": "https://coinbase.com/thetron/public-key",
-          "service_url": "https://coinbase.com/thetron",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -120,6 +113,20 @@
           "service_url": "https://news.ycombinator.com/user?id=thetron",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "nicholas.bruning",
+          "state": 1,
+          "proof_url": "https://www.facebook.com/nicholas.bruning/posts/10154723574357685",
+          "sig_id": "17e8d26d1b14beb75d921028ea4cb7ce65f84372dcb4ff4f57de51ecc6b186550f",
+          "proof_id": "efb1c3099fd079768b860b10",
+          "human_url": "https://www.facebook.com/nicholas.bruning/posts/10154723574357685",
+          "service_url": "https://www.facebook.com/nicholas.bruning",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "dns": [
@@ -166,20 +173,6 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "thetron",
-          "state": 1,
-          "proof_url": "https://coinbase.com/thetron/public-key",
-          "sig_id": "36bc32f45dcfd3dad119df604141197d9c4552bd2c6b80988b31d94f33c9e00e0f",
-          "proof_id": "7d4830f22972611a94af9610",
-          "human_url": "https://coinbase.com/thetron/public-key",
-          "service_url": "https://coinbase.com/thetron",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -192,6 +185,20 @@
           "service_url": "https://news.ycombinator.com/user?id=thetron",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "nicholas.bruning",
+          "state": 1,
+          "proof_url": "https://www.facebook.com/nicholas.bruning/posts/10154723574357685",
+          "sig_id": "17e8d26d1b14beb75d921028ea4cb7ce65f84372dcb4ff4f57de51ecc6b186550f",
+          "proof_id": "efb1c3099fd079768b860b10",
+          "human_url": "https://www.facebook.com/nicholas.bruning/posts/10154723574357685",
+          "service_url": "https://www.facebook.com/nicholas.bruning",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "bruning.com.au": [
@@ -235,18 +242,6 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "thetron",
-        "state": 1,
-        "proof_url": "https://coinbase.com/thetron/public-key",
-        "sig_id": "36bc32f45dcfd3dad119df604141197d9c4552bd2c6b80988b31d94f33c9e00e0f",
-        "proof_id": "7d4830f22972611a94af9610",
-        "human_url": "https://coinbase.com/thetron/public-key",
-        "service_url": "https://coinbase.com/thetron",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "thetron",
         "state": 1,
@@ -257,6 +252,18 @@
         "service_url": "https://news.ycombinator.com/user?id=thetron",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "nicholas.bruning",
+        "state": 1,
+        "proof_url": "https://www.facebook.com/nicholas.bruning/posts/10154723574357685",
+        "sig_id": "17e8d26d1b14beb75d921028ea4cb7ce65f84372dcb4ff4f57de51ecc6b186550f",
+        "proof_id": "efb1c3099fd079768b860b10",
+        "human_url": "https://www.facebook.com/nicholas.bruning/posts/10154723574357685",
+        "service_url": "https://www.facebook.com/nicholas.bruning",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -272,14 +279,7 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {
-    "bitcoin": [
-      {
-        "address": "1H9VueAnRFnNndFPdfH9jncSR7LcyBnmix",
-        "sig_id": "ebf0eb4cd419d2435c7ff0dbf2067cd6b419b74ad1cc0331b7e36705ead0c1140f"
-      }
-    ]
-  },
+  "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
       "url": "https://s3.amazonaws.com/keybase_processed_uploads/73281fd880f9dcbe8c6b650732f65905_360_360_square_360.jpeg",
@@ -290,12 +290,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5aadd96fe4f037254a41c9635552c33ece4f20bb8911b16c32e3cf4657b1a0550f",
-      "seqno": 20,
-      "payload_hash": "1ffef5336635a5aede0f0fd5103b372ea8ea520406fb998c9d3d7dfe8c4f1a36"
+      "sig_id": "3e009ab18c80cd357601a689ede4fcd52a1fe7200ca3e6c669fff41dec1e84b60f",
+      "seqno": 31,
+      "payload_hash": "dd1df1866734591f2841dce94ad8fd533cd205add043873540d9444daaab99ac"
     }
   },
   "devices": {
+    "0a6427ecb8d477a7cd878a4cdec09518": {
+      "type": "mobile",
+      "ctime": 1496983936,
+      "mtime": 1496983936,
+      "name": "iPhone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01206f0a5c25bf80b3e5a6877e258ca65aa5c32bb48c33dd776bcf6aa555c02565730a",
+          "key_role": 1,
+          "sig_id": "8754ffe27a25dc53edcf3d77e43463d19c81625cbc72618b47046fea2f698f960f"
+        },
+        {
+          "kid": "01214e7ff0fd2f06bf2d0ab4c8a318de4dc348cdb6f371b38e739c51af226ba839060a",
+          "key_role": 2,
+          "sig_id": "44c0f6eff1d10e3a5eb57faa58b242ba94f0306849732c37deb4baa8de4a24d00f"
+        }
+      ]
+    },
     "0f18d09455190dbfc586574e7752ef18": {
       "type": "desktop",
       "ctime": 1454626816,
