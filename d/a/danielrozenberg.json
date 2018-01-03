@@ -4,15 +4,16 @@
     "username": "danielrozenberg",
     "ctime": 1415502538,
     "mtime": 1415502538,
-    "id_version": 14,
-    "track_version": 4,
-    "last_id_change": 1452279459,
-    "username_cased": "danielrozenberg"
+    "id_version": 28,
+    "track_version": 8,
+    "last_id_change": 1512099563,
+    "username_cased": "danielrozenberg",
+    "status": 0
   },
   "profile": {
-    "mtime": 1415502930,
+    "mtime": 1483406013,
     "full_name": "Daniel Rozenberg",
-    "location": "Vancouver",
+    "location": "San Francisco",
     "bio": null
   },
   "public_keys": {
@@ -39,16 +40,24 @@
       "01202e6d6d8a0889ecd3aab6b243efe5ef2592f147149faa2e1fc4b8bbe1eb45690a0a",
       "01210debab6b512de7b88ed48af120bd31c771069b1f1e401002a8491ecdb81bb23d0a",
       "0120551439c7adee943e16eaf2ba5bfc59b913b8efa79d8d0ab24c7f7bd780369a410a",
-      "0121901ba13684f8f20dcad2d44fdbf634e14f927905bae7bef0d6b04c4bcb3101710a"
+      "0121901ba13684f8f20dcad2d44fdbf634e14f927905bae7bef0d6b04c4bcb3101710a",
+      "0120cfc51db53e2a14d43bab5fe4b8d707c37cbd66447bc7ed02c48527241df38a250a",
+      "0121349ad4e86500b5d59ff137f1c421f58ad175ae0ad2f3f6287ef3608effe7e93c0a",
+      "012040935220cf7473ae8a7608e9d4235ef6d58eaf62aa6ecf58af46ee57986793250a",
+      "0121d13d0b84ab53dace9b29089128c4cbf368b917fefedd829a3f79324e3c58f64f0a",
+      "01208200d1daa115f214ac98463f34ea651ad00cbccb6adb5199bf720923ea2cdc5b0a",
+      "01210e8fc322e57603704a383cd64db81ff507136a94b8c01ddeee7506ad99db38340a"
     ],
     "subkeys": [
-      "01210debab6b512de7b88ed48af120bd31c771069b1f1e401002a8491ecdb81bb23d0a",
-      "0121901ba13684f8f20dcad2d44fdbf634e14f927905bae7bef0d6b04c4bcb3101710a"
+      "0121901ba13684f8f20dcad2d44fdbf634e14f927905bae7bef0d6b04c4bcb3101710a",
+      "0121349ad4e86500b5d59ff137f1c421f58ad175ae0ad2f3f6287ef3608effe7e93c0a",
+      "01210e8fc322e57603704a383cd64db81ff507136a94b8c01ddeee7506ad99db38340a"
     ],
     "sibkeys": [
       "0101c60c1fa64b09cb11881cbfc6f198390b37fe1385fd8d8e7f3081aa46564d518a0a",
-      "01202e6d6d8a0889ecd3aab6b243efe5ef2592f147149faa2e1fc4b8bbe1eb45690a0a",
-      "0120551439c7adee943e16eaf2ba5bfc59b913b8efa79d8d0ab24c7f7bd780369a410a"
+      "0120551439c7adee943e16eaf2ba5bfc59b913b8efa79d8d0ab24c7f7bd780369a410a",
+      "0120cfc51db53e2a14d43bab5fe4b8d707c37cbd66447bc7ed02c48527241df38a250a",
+      "01208200d1daa115f214ac98463f34ea651ad00cbccb6adb5199bf720923ea2cdc5b0a"
     ],
     "families": {
       "0101c60c1fa64b09cb11881cbfc6f198390b37fe1385fd8d8e7f3081aa46564d518a0a": [
@@ -57,7 +66,13 @@
         "01202e6d6d8a0889ecd3aab6b243efe5ef2592f147149faa2e1fc4b8bbe1eb45690a0a",
         "01210debab6b512de7b88ed48af120bd31c771069b1f1e401002a8491ecdb81bb23d0a",
         "0120551439c7adee943e16eaf2ba5bfc59b913b8efa79d8d0ab24c7f7bd780369a410a",
-        "0121901ba13684f8f20dcad2d44fdbf634e14f927905bae7bef0d6b04c4bcb3101710a"
+        "0121901ba13684f8f20dcad2d44fdbf634e14f927905bae7bef0d6b04c4bcb3101710a",
+        "0120cfc51db53e2a14d43bab5fe4b8d707c37cbd66447bc7ed02c48527241df38a250a",
+        "0121349ad4e86500b5d59ff137f1c421f58ad175ae0ad2f3f6287ef3608effe7e93c0a",
+        "012040935220cf7473ae8a7608e9d4235ef6d58eaf62aa6ecf58af46ee57986793250a",
+        "0121d13d0b84ab53dace9b29089128c4cbf368b917fefedd829a3f79324e3c58f64f0a",
+        "01208200d1daa115f214ac98463f34ea651ad00cbccb6adb5199bf720923ea2cdc5b0a",
+        "01210e8fc322e57603704a383cd64db81ff507136a94b8c01ddeee7506ad99db38340a"
       ]
     },
     "eldest_kid": "0101c60c1fa64b09cb11881cbfc6f198390b37fe1385fd8d8e7f3081aa46564d518a0a",
@@ -85,15 +100,29 @@
       "github": [
         {
           "proof_type": "github",
-          "nametag": "daniboy",
+          "nametag": "danielrozenberg",
           "state": 1,
           "proof_url": "https://gist.github.com/40e1e218fc5d89f57094",
-          "sig_id": "f302b08793a298dd3bf2f7bfc31a086b6c37a153c21decc931e5638cb930a6570f",
-          "proof_id": "2a92bfada36a04df67552c10",
+          "sig_id": "26c9ab520f33d7d1dc86cc97048ef29328f404115e160970449a003b98b77c7e0f",
+          "proof_id": "117147d8afc7d28465741410",
           "human_url": "https://gist.github.com/40e1e218fc5d89f57094",
-          "service_url": "https://github.com/daniboy",
+          "service_url": "https://github.com/danielrozenberg",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "danielrozenberg",
+          "state": 1,
+          "proof_url": "https://facebook.com/10154403285970345_10154403286800345",
+          "sig_id": "2b23764e578f6c71bf0649157c805fb8e52a0a2058ba789cb4358e0b10d477300f",
+          "proof_id": "721e5b2f9598583495bb2110",
+          "human_url": "https://facebook.com/10154403285970345_10154403286800345",
+          "service_url": "https://www.facebook.com/danielrozenberg",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "dns": [
@@ -129,15 +158,29 @@
       "github": [
         {
           "proof_type": "github",
-          "nametag": "daniboy",
+          "nametag": "danielrozenberg",
           "state": 1,
           "proof_url": "https://gist.github.com/40e1e218fc5d89f57094",
-          "sig_id": "f302b08793a298dd3bf2f7bfc31a086b6c37a153c21decc931e5638cb930a6570f",
-          "proof_id": "2a92bfada36a04df67552c10",
+          "sig_id": "26c9ab520f33d7d1dc86cc97048ef29328f404115e160970449a003b98b77c7e0f",
+          "proof_id": "117147d8afc7d28465741410",
           "human_url": "https://gist.github.com/40e1e218fc5d89f57094",
-          "service_url": "https://github.com/daniboy",
+          "service_url": "https://github.com/danielrozenberg",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "danielrozenberg",
+          "state": 1,
+          "proof_url": "https://facebook.com/10154403285970345_10154403286800345",
+          "sig_id": "2b23764e578f6c71bf0649157c805fb8e52a0a2058ba789cb4358e0b10d477300f",
+          "proof_id": "721e5b2f9598583495bb2110",
+          "human_url": "https://facebook.com/10154403285970345_10154403286800345",
+          "service_url": "https://www.facebook.com/danielrozenberg",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "danielrozenberg.com": [
@@ -170,15 +213,27 @@
       },
       {
         "proof_type": "github",
-        "nametag": "daniboy",
+        "nametag": "danielrozenberg",
         "state": 1,
         "proof_url": "https://gist.github.com/40e1e218fc5d89f57094",
-        "sig_id": "f302b08793a298dd3bf2f7bfc31a086b6c37a153c21decc931e5638cb930a6570f",
-        "proof_id": "2a92bfada36a04df67552c10",
+        "sig_id": "26c9ab520f33d7d1dc86cc97048ef29328f404115e160970449a003b98b77c7e0f",
+        "proof_id": "117147d8afc7d28465741410",
         "human_url": "https://gist.github.com/40e1e218fc5d89f57094",
-        "service_url": "https://github.com/daniboy",
+        "service_url": "https://github.com/danielrozenberg",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "danielrozenberg",
+        "state": 1,
+        "proof_url": "https://facebook.com/10154403285970345_10154403286800345",
+        "sig_id": "2b23764e578f6c71bf0649157c805fb8e52a0a2058ba789cb4358e0b10d477300f",
+        "proof_id": "721e5b2f9598583495bb2110",
+        "human_url": "https://facebook.com/10154403285970345_10154403286800345",
+        "service_url": "https://www.facebook.com/danielrozenberg",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -205,28 +260,28 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "8b3a7c575f9d6b9cf48861188c296fe7241559e1eb0e713878de46df38af8eea0f",
-      "seqno": 12,
-      "payload_hash": "34fea46b32760a1e72f6e1a385a32d3f04f586ef503194a0e0149c1af16e9da5"
+      "sig_id": "40bd4cf7362539b2c093fd7cac28820672420990998acfbbd412cc5f90de34fd0f",
+      "seqno": 28,
+      "payload_hash": "03eb74e8eda879c3e93a789cc31a499178d0631cead4d573dd7ec50fb2f4237f"
     }
   },
   "devices": {
-    "839a16eabd6247f20e75704a99f11b18": {
+    "7b63c924b63925b09bffcd19892e1218": {
       "type": "desktop",
-      "ctime": 1452279458,
-      "mtime": 1452279458,
-      "name": "Anders",
+      "ctime": 1483764677,
+      "mtime": 1483764677,
+      "name": "Zhaan",
       "status": 1,
       "keys": [
         {
-          "kid": "01202e6d6d8a0889ecd3aab6b243efe5ef2592f147149faa2e1fc4b8bbe1eb45690a0a",
+          "kid": "0120cfc51db53e2a14d43bab5fe4b8d707c37cbd66447bc7ed02c48527241df38a250a",
           "key_role": 1,
-          "sig_id": "36c2579628729f189cfb1afafdce995021269aa1beb32d09f3082d8ab7cb2a160f"
+          "sig_id": "ffd48f31e1ef534785273354cd4267043fa162b8ea6cba23ef2dda3a6debbac90f"
         },
         {
-          "kid": "01210debab6b512de7b88ed48af120bd31c771069b1f1e401002a8491ecdb81bb23d0a",
+          "kid": "0121349ad4e86500b5d59ff137f1c421f58ad175ae0ad2f3f6287ef3608effe7e93c0a",
           "key_role": 2,
-          "sig_id": "d295a6e9fd18346d221b1c7134ccfea8541955086f57bc37d42d9572f550da070f"
+          "sig_id": "f12065ac516a6d80636ab6cdb09488575062bf08a34bb63a3e04134e0ba64d040f"
         }
       ]
     },
@@ -246,6 +301,25 @@
           "kid": "0121901ba13684f8f20dcad2d44fdbf634e14f927905bae7bef0d6b04c4bcb3101710a",
           "key_role": 2,
           "sig_id": "f15f24060eb46f23361e6d4172f34b86e7ddf7f7e92fc6ebe3fabc223758a3040f"
+        }
+      ]
+    },
+    "cd4d4534def835dfa28fef1c0e798518": {
+      "type": "mobile",
+      "ctime": 1512099563,
+      "mtime": 1512099563,
+      "name": "Pixel XL Android",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01208200d1daa115f214ac98463f34ea651ad00cbccb6adb5199bf720923ea2cdc5b0a",
+          "key_role": 1,
+          "sig_id": "9c4cd72eabf1a3d5e65157da99e67efec3587a960ed65e87709cc23c747626fe0f"
+        },
+        {
+          "kid": "01210e8fc322e57603704a383cd64db81ff507136a94b8c01ddeee7506ad99db38340a",
+          "key_role": 2,
+          "sig_id": "40bd4cf7362539b2c093fd7cac28820672420990998acfbbd412cc5f90de34fd0f"
         }
       ]
     }
