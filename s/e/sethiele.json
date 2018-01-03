@@ -4,10 +4,11 @@
     "username": "sethiele",
     "ctime": 1424854738,
     "mtime": 1424854738,
-    "id_version": 54,
+    "id_version": 63,
     "track_version": 5,
-    "last_id_change": 1475195202,
-    "username_cased": "sethiele"
+    "last_id_change": 1507054455,
+    "username_cased": "sethiele",
+    "status": 0
   },
   "profile": {
     "mtime": 1424854832,
@@ -39,16 +40,18 @@
       "01218bd5582116202195f749210f81ad92f2ee386c55ebe4472bc73eda0e8989a8430a",
       "01203859e4599dd3c66a535de33d71b54213223c316479fc8c0735204de1ef706c0b0a",
       "01212fe0ce35b42dd071a686e327ca1bf1bb017c59233892745a6a5f026fd32b272b0a",
-      "0120ceac279d68b4cb77f50f31a5e640e69631f655764c4a610d904f43c2f7c0b1530a"
+      "0120ceac279d68b4cb77f50f31a5e640e69631f655764c4a610d904f43c2f7c0b1530a",
+      "0120bc8809addcf0e67a886e3b92119fb451b05fc8c1b23d3b3ffddce6f1546d9b490a",
+      "012144786636d4d825c38c18455b0f81b30d16da114c2709c090226a6d3d1a2087070a"
     ],
     "subkeys": [
-      "01218bd5582116202195f749210f81ad92f2ee386c55ebe4472bc73eda0e8989a8430a",
-      "01212fe0ce35b42dd071a686e327ca1bf1bb017c59233892745a6a5f026fd32b272b0a"
+      "01212fe0ce35b42dd071a686e327ca1bf1bb017c59233892745a6a5f026fd32b272b0a",
+      "012144786636d4d825c38c18455b0f81b30d16da114c2709c090226a6d3d1a2087070a"
     ],
     "sibkeys": [
       "010197782468fd90aaa9fd7bcd4bc94a49a87c542e8853bfdc01d3ecada9af7106080a",
-      "01203859e4599dd3c66a535de33d71b54213223c316479fc8c0735204de1ef706c0b0a",
-      "0120ceac279d68b4cb77f50f31a5e640e69631f655764c4a610d904f43c2f7c0b1530a"
+      "0120ceac279d68b4cb77f50f31a5e640e69631f655764c4a610d904f43c2f7c0b1530a",
+      "0120bc8809addcf0e67a886e3b92119fb451b05fc8c1b23d3b3ffddce6f1546d9b490a"
     ],
     "families": {
       "010197782468fd90aaa9fd7bcd4bc94a49a87c542e8853bfdc01d3ecada9af7106080a": [
@@ -57,7 +60,9 @@
         "01218bd5582116202195f749210f81ad92f2ee386c55ebe4472bc73eda0e8989a8430a",
         "01203859e4599dd3c66a535de33d71b54213223c316479fc8c0735204de1ef706c0b0a",
         "01212fe0ce35b42dd071a686e327ca1bf1bb017c59233892745a6a5f026fd32b272b0a",
-        "0120ceac279d68b4cb77f50f31a5e640e69631f655764c4a610d904f43c2f7c0b1530a"
+        "0120ceac279d68b4cb77f50f31a5e640e69631f655764c4a610d904f43c2f7c0b1530a",
+        "0120bc8809addcf0e67a886e3b92119fb451b05fc8c1b23d3b3ffddce6f1546d9b490a",
+        "012144786636d4d825c38c18455b0f81b30d16da114c2709c090226a6d3d1a2087070a"
       ]
     },
     "eldest_kid": "010197782468fd90aaa9fd7bcd4bc94a49a87c542e8853bfdc01d3ecada9af7106080a",
@@ -94,46 +99,6 @@
           "service_url": "https://github.com/sethiele",
           "presentation_group": "github",
           "presentation_tag": "gist"
-        }
-      ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "sethiele",
-          "state": 1,
-          "proof_url": "https://coinbase.com/sethiele/public-key",
-          "sig_id": "dfd807871b6a7c8f975ff813e9ab3e426eea2eda99585fd020516dc3f464243e0f",
-          "proof_id": "b0e6fd3a5ca79aa5033adb10",
-          "human_url": "https://coinbase.com/sethiele/public-key",
-          "service_url": "https://coinbase.com/sethiele",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
-      "generic_web_site": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "home.sethiele.de",
-          "state": 1,
-          "proof_url": "https://home.sethiele.de/keybase.txt",
-          "sig_id": "e1999dd3b8e8db00e32e1ea0bad68485e6cc03d1b2663499227c55d6f0cd61c50f",
-          "proof_id": "e5a85a511fcd5caa91b11c10",
-          "human_url": "https://home.sethiele.de/keybase.txt",
-          "service_url": "https://home.sethiele.de",
-          "presentation_group": "home.sethiele.de",
-          "presentation_tag": "https"
-        },
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "sebastian-thiele.net",
-          "state": 1,
-          "proof_url": "http://sebastian-thiele.net/keybase.txt",
-          "sig_id": "7f6cc60d35d87e1411817253eefbe84701e12ac95edb1ab559be9f1db5b19e6a0f",
-          "proof_id": "8a6ae4d13b1bc1a2f583b310",
-          "human_url": "http://sebastian-thiele.net/keybase.txt",
-          "service_url": "http://sebastian-thiele.net",
-          "presentation_group": "sebastian-thiele.net",
-          "presentation_tag": "http"
         }
       ],
       "dns": [
@@ -180,48 +145,6 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "sethiele",
-          "state": 1,
-          "proof_url": "https://coinbase.com/sethiele/public-key",
-          "sig_id": "dfd807871b6a7c8f975ff813e9ab3e426eea2eda99585fd020516dc3f464243e0f",
-          "proof_id": "b0e6fd3a5ca79aa5033adb10",
-          "human_url": "https://coinbase.com/sethiele/public-key",
-          "service_url": "https://coinbase.com/sethiele",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
-      "sebastian-thiele.net": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "sebastian-thiele.net",
-          "state": 1,
-          "proof_url": "http://sebastian-thiele.net/keybase.txt",
-          "sig_id": "7f6cc60d35d87e1411817253eefbe84701e12ac95edb1ab559be9f1db5b19e6a0f",
-          "proof_id": "8a6ae4d13b1bc1a2f583b310",
-          "human_url": "http://sebastian-thiele.net/keybase.txt",
-          "service_url": "http://sebastian-thiele.net",
-          "presentation_group": "sebastian-thiele.net",
-          "presentation_tag": "http"
-        }
-      ],
-      "home.sethiele.de": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "home.sethiele.de",
-          "state": 1,
-          "proof_url": "https://home.sethiele.de/keybase.txt",
-          "sig_id": "e1999dd3b8e8db00e32e1ea0bad68485e6cc03d1b2663499227c55d6f0cd61c50f",
-          "proof_id": "e5a85a511fcd5caa91b11c10",
-          "human_url": "https://home.sethiele.de/keybase.txt",
-          "service_url": "https://home.sethiele.de",
-          "presentation_group": "home.sethiele.de",
-          "presentation_tag": "https"
-        }
-      ],
       "thiele.me": [
         {
           "proof_type": "dns",
@@ -263,18 +186,6 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "sethiele",
-        "state": 1,
-        "proof_url": "https://coinbase.com/sethiele/public-key",
-        "sig_id": "dfd807871b6a7c8f975ff813e9ab3e426eea2eda99585fd020516dc3f464243e0f",
-        "proof_id": "b0e6fd3a5ca79aa5033adb10",
-        "human_url": "https://coinbase.com/sethiele/public-key",
-        "service_url": "https://coinbase.com/sethiele",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "dns",
         "nametag": "thiele.me",
         "state": 1,
@@ -285,30 +196,6 @@
         "service_url": "http://thiele.me",
         "presentation_group": "thiele.me",
         "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "generic_web_site",
-        "nametag": "sebastian-thiele.net",
-        "state": 1,
-        "proof_url": "http://sebastian-thiele.net/keybase.txt",
-        "sig_id": "7f6cc60d35d87e1411817253eefbe84701e12ac95edb1ab559be9f1db5b19e6a0f",
-        "proof_id": "8a6ae4d13b1bc1a2f583b310",
-        "human_url": "http://sebastian-thiele.net/keybase.txt",
-        "service_url": "http://sebastian-thiele.net",
-        "presentation_group": "sebastian-thiele.net",
-        "presentation_tag": "http"
-      },
-      {
-        "proof_type": "generic_web_site",
-        "nametag": "home.sethiele.de",
-        "state": 1,
-        "proof_url": "https://home.sethiele.de/keybase.txt",
-        "sig_id": "e1999dd3b8e8db00e32e1ea0bad68485e6cc03d1b2663499227c55d6f0cd61c50f",
-        "proof_id": "e5a85a511fcd5caa91b11c10",
-        "human_url": "https://home.sethiele.de/keybase.txt",
-        "service_url": "https://home.sethiele.de",
-        "presentation_group": "home.sethiele.de",
-        "presentation_tag": "https"
       }
     ]
   },
@@ -330,35 +217,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "7ecc0e079776406296cf6f461201d9ff765798401d547772cd4ff49252068a530f",
-      "seqno": 22,
-      "payload_hash": "02b287df480cee12840f0768f4eaceee24120b7143ad8035c3a4dc079edfd8e8"
+      "sig_id": "19453542aa919f4887069b4de2dbcd51370a2a19691e4a8d86001f38a4942b900f",
+      "seqno": 26,
+      "payload_hash": "20bc5a8608baf2192473ff5481e62fee7fc7b2f67b5eb0a69b9b009c7899531c"
     }
   },
   "devices": {
-    "60246ac79d8f6b287c3629cee56a1718": {
+    "922bd86382eee64b342934eecaab5918": {
       "type": "desktop",
-      "ctime": 1460024926,
-      "mtime": 1460024926,
-      "name": "MacBookIP",
+      "ctime": 1484567419,
+      "mtime": 1484567419,
+      "name": "MacSys11",
       "status": 1,
       "keys": [
         {
-          "kid": "01203859e4599dd3c66a535de33d71b54213223c316479fc8c0735204de1ef706c0b0a",
+          "kid": "0120bc8809addcf0e67a886e3b92119fb451b05fc8c1b23d3b3ffddce6f1546d9b490a",
           "key_role": 1,
-          "sig_id": "a7a40e46d957401946d38ab82ed81db050f2f6afb4aa2efc1c959608676e3dd30f"
+          "sig_id": "90a4651fbb942fee0976dfd775d4a3fb6ffa82c6398b522a5eac9df13f740b500f"
         },
         {
-          "kid": "01218bd5582116202195f749210f81ad92f2ee386c55ebe4472bc73eda0e8989a8430a",
+          "kid": "012144786636d4d825c38c18455b0f81b30d16da114c2709c090226a6d3d1a2087070a",
           "key_role": 2,
-          "sig_id": "e6f0f18b6b1ef607debec00c6a0e76f632a35a69bf805734717d2589668fae470f"
+          "sig_id": "992f584072de880dfbad5e838ce98b8a6b5d0301969502c9147c965a8a756aea0f"
         }
       ]
     },
     "c53897da53f9b1ed53be33d8751d5a18": {
       "type": "backup",
-      "ctime": 1460024927,
-      "mtime": 1460024927,
+      "ctime": 1460028527,
+      "mtime": 1460028527,
       "name": "whisper treat",
       "status": 1,
       "keys": [
