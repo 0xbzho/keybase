@@ -2,18 +2,19 @@
   "id": "b29787ae923d25228571cece94f2b000",
   "basics": {
     "username": "cz",
-    "ctime": 1394676407,
-    "mtime": 1394676407,
-    "id_version": 26,
-    "track_version": 8,
-    "last_id_change": 1457104643,
-    "username_cased": "cz"
+    "ctime": 1394680007,
+    "mtime": 1394680007,
+    "id_version": 43,
+    "track_version": 9,
+    "last_id_change": 1495837160,
+    "username_cased": "cz",
+    "status": 0
   },
   "profile": {
-    "mtime": 1394678909,
+    "mtime": 1489088058,
     "full_name": "Chris Zacharias",
     "location": "San Francisco",
-    "bio": "Web developer, founder of imgix"
+    "bio": "Founder of imgix, ex-Googler"
   },
   "public_keys": {
     "primary": {
@@ -39,16 +40,22 @@
       "0120e5d8eaafb380795a8288c9b05d69eca69f11bfe6546c0c14470c69d8b4127b380a",
       "012113dc4f90f810fa3a65b35a506cc89b67bc4e050ef3b8890ebaba856010659b7d0a",
       "01217118e091d614349a588411d658ba157d4050b92986cdf4ae1d91415c311105490a",
-      "01206c9803b0a944fd442c552a7788015201a8144093a36e004f371b37a4eb564dc90a"
+      "01206c9803b0a944fd442c552a7788015201a8144093a36e004f371b37a4eb564dc90a",
+      "01218f18cd5dde46b6a7a7ec14e591f6b4a7825f2168665f79464142100df41142560a",
+      "0120b8d1ee7adfc247d811b87e577303206bc931ea98cc06265f7217b5bfd45692df0a",
+      "0121d9b259ab0b4879705c562c2f86ee990229cb611a7a6b6fefbec7600c82e0ca320a",
+      "01205cb0c9f3015a3e0ced05743195372398440430f615b2065bf6626d8717a793aa0a"
     ],
     "subkeys": [
-      "012113dc4f90f810fa3a65b35a506cc89b67bc4e050ef3b8890ebaba856010659b7d0a",
-      "01217118e091d614349a588411d658ba157d4050b92986cdf4ae1d91415c311105490a"
+      "01217118e091d614349a588411d658ba157d4050b92986cdf4ae1d91415c311105490a",
+      "01218f18cd5dde46b6a7a7ec14e591f6b4a7825f2168665f79464142100df41142560a",
+      "0121d9b259ab0b4879705c562c2f86ee990229cb611a7a6b6fefbec7600c82e0ca320a"
     ],
     "sibkeys": [
       "010120359f282c50a3a29c424f9301c9deb74423c48329fef69867747068d7dd6e6f0a",
-      "0120e5d8eaafb380795a8288c9b05d69eca69f11bfe6546c0c14470c69d8b4127b380a",
-      "01206c9803b0a944fd442c552a7788015201a8144093a36e004f371b37a4eb564dc90a"
+      "01206c9803b0a944fd442c552a7788015201a8144093a36e004f371b37a4eb564dc90a",
+      "0120b8d1ee7adfc247d811b87e577303206bc931ea98cc06265f7217b5bfd45692df0a",
+      "01205cb0c9f3015a3e0ced05743195372398440430f615b2065bf6626d8717a793aa0a"
     ],
     "families": {
       "0101c2b81581f2d92471721825551292043bc3889107f43e701091aee48ffa0063220a": [
@@ -59,7 +66,11 @@
         "0120e5d8eaafb380795a8288c9b05d69eca69f11bfe6546c0c14470c69d8b4127b380a",
         "012113dc4f90f810fa3a65b35a506cc89b67bc4e050ef3b8890ebaba856010659b7d0a",
         "01217118e091d614349a588411d658ba157d4050b92986cdf4ae1d91415c311105490a",
-        "01206c9803b0a944fd442c552a7788015201a8144093a36e004f371b37a4eb564dc90a"
+        "01206c9803b0a944fd442c552a7788015201a8144093a36e004f371b37a4eb564dc90a",
+        "01218f18cd5dde46b6a7a7ec14e591f6b4a7825f2168665f79464142100df41142560a",
+        "0120b8d1ee7adfc247d811b87e577303206bc931ea98cc06265f7217b5bfd45692df0a",
+        "0121d9b259ab0b4879705c562c2f86ee990229cb611a7a6b6fefbec7600c82e0ca320a",
+        "01205cb0c9f3015a3e0ced05743195372398440430f615b2065bf6626d8717a793aa0a"
       ]
     },
     "eldest_kid": "010120359f282c50a3a29c424f9301c9deb74423c48329fef69867747068d7dd6e6f0a",
@@ -70,6 +81,20 @@
   },
   "proofs_summary": {
     "by_proof_type": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "zacman85",
+          "state": 1,
+          "proof_url": "https://twitter.com/zacman85/status/839922397482405888",
+          "sig_id": "5c1cce13aabdb0e8996dcd85023537acc5cd227a06343ac75f9d7fdce9642d430f",
+          "proof_id": "c7160e29f4bd4fe23d0dd910",
+          "human_url": "https://twitter.com/zacman85/status/839922397482405888",
+          "service_url": "https://twitter.com/zacman85",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -84,6 +109,20 @@
           "presentation_tag": "gist"
         }
       ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "zacman85",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5yh8x4/my_keybase_proof_redditzacman85_keybasecz/",
+          "sig_id": "3f068b9b88341cfc16e02c95fda5aef303680dc8e54b399ce9613e61f8e7d7420f",
+          "proof_id": "86a151dc1486514b4bef4d10",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5yh8x4/my_keybase_proof_redditzacman85_keybasecz/",
+          "service_url": "https://reddit.com/user/zacman85",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
+        }
+      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -96,10 +135,52 @@
           "service_url": "https://news.ycombinator.com/user?id=zacman85",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "czacharias",
+          "state": 1,
+          "proof_url": "https://facebook.com/10102152813850825_10102152814549425",
+          "sig_id": "4957ab5170b26a5ec6b4cfd06d1634e0f51297dfcbb155186cfa00a9c4f1a0610f",
+          "proof_id": "7eed1eeb37b398c720282810",
+          "human_url": "https://facebook.com/10102152813850825_10102152814549425",
+          "service_url": "https://www.facebook.com/czacharias",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.chriszacharias.com",
+          "state": 1,
+          "proof_url": "http://www.chriszacharias.com/keybase.txt",
+          "sig_id": "041d5e31d59679e426363626f0a7b2d7299cbb77964ff57406e0ac3377af52140f",
+          "proof_id": "d167529fb917725750348310",
+          "human_url": "http://www.chriszacharias.com/keybase.txt",
+          "service_url": "http://www.chriszacharias.com",
+          "presentation_group": "www.chriszacharias.com",
+          "presentation_tag": "http"
         }
       ]
     },
     "by_presentation_group": {
+      "twitter": [
+        {
+          "proof_type": "twitter",
+          "nametag": "zacman85",
+          "state": 1,
+          "proof_url": "https://twitter.com/zacman85/status/839922397482405888",
+          "sig_id": "5c1cce13aabdb0e8996dcd85023537acc5cd227a06343ac75f9d7fdce9642d430f",
+          "proof_id": "c7160e29f4bd4fe23d0dd910",
+          "human_url": "https://twitter.com/zacman85/status/839922397482405888",
+          "service_url": "https://twitter.com/zacman85",
+          "presentation_group": "twitter",
+          "presentation_tag": "tweet"
+        }
+      ],
       "github": [
         {
           "proof_type": "github",
@@ -112,6 +193,20 @@
           "service_url": "https://github.com/zacman85",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "reddit": [
+        {
+          "proof_type": "reddit",
+          "nametag": "zacman85",
+          "state": 1,
+          "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5yh8x4/my_keybase_proof_redditzacman85_keybasecz/",
+          "sig_id": "3f068b9b88341cfc16e02c95fda5aef303680dc8e54b399ce9613e61f8e7d7420f",
+          "proof_id": "86a151dc1486514b4bef4d10",
+          "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5yh8x4/my_keybase_proof_redditzacman85_keybasecz/",
+          "service_url": "https://reddit.com/user/zacman85",
+          "presentation_group": "reddit",
+          "presentation_tag": "post"
         }
       ],
       "hackernews": [
@@ -127,9 +222,49 @@
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
         }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "czacharias",
+          "state": 1,
+          "proof_url": "https://facebook.com/10102152813850825_10102152814549425",
+          "sig_id": "4957ab5170b26a5ec6b4cfd06d1634e0f51297dfcbb155186cfa00a9c4f1a0610f",
+          "proof_id": "7eed1eeb37b398c720282810",
+          "human_url": "https://facebook.com/10102152813850825_10102152814549425",
+          "service_url": "https://www.facebook.com/czacharias",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
+        }
+      ],
+      "www.chriszacharias.com": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "www.chriszacharias.com",
+          "state": 1,
+          "proof_url": "http://www.chriszacharias.com/keybase.txt",
+          "sig_id": "041d5e31d59679e426363626f0a7b2d7299cbb77964ff57406e0ac3377af52140f",
+          "proof_id": "d167529fb917725750348310",
+          "human_url": "http://www.chriszacharias.com/keybase.txt",
+          "service_url": "http://www.chriszacharias.com",
+          "presentation_group": "www.chriszacharias.com",
+          "presentation_tag": "http"
+        }
       ]
     },
     "all": [
+      {
+        "proof_type": "twitter",
+        "nametag": "zacman85",
+        "state": 1,
+        "proof_url": "https://twitter.com/zacman85/status/839922397482405888",
+        "sig_id": "5c1cce13aabdb0e8996dcd85023537acc5cd227a06343ac75f9d7fdce9642d430f",
+        "proof_id": "c7160e29f4bd4fe23d0dd910",
+        "human_url": "https://twitter.com/zacman85/status/839922397482405888",
+        "service_url": "https://twitter.com/zacman85",
+        "presentation_group": "twitter",
+        "presentation_tag": "tweet"
+      },
       {
         "proof_type": "github",
         "nametag": "zacman85",
@@ -143,6 +278,18 @@
         "presentation_tag": "gist"
       },
       {
+        "proof_type": "reddit",
+        "nametag": "zacman85",
+        "state": 1,
+        "proof_url": "https://www.reddit.com/r/KeybaseProofs/comments/5yh8x4/my_keybase_proof_redditzacman85_keybasecz/",
+        "sig_id": "3f068b9b88341cfc16e02c95fda5aef303680dc8e54b399ce9613e61f8e7d7420f",
+        "proof_id": "86a151dc1486514b4bef4d10",
+        "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/5yh8x4/my_keybase_proof_redditzacman85_keybasecz/",
+        "service_url": "https://reddit.com/user/zacman85",
+        "presentation_group": "reddit",
+        "presentation_tag": "post"
+      },
+      {
         "proof_type": "hackernews",
         "nametag": "zacman85",
         "state": 1,
@@ -153,42 +300,92 @@
         "service_url": "https://news.ycombinator.com/user?id=zacman85",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "czacharias",
+        "state": 1,
+        "proof_url": "https://facebook.com/10102152813850825_10102152814549425",
+        "sig_id": "4957ab5170b26a5ec6b4cfd06d1634e0f51297dfcbb155186cfa00a9c4f1a0610f",
+        "proof_id": "7eed1eeb37b398c720282810",
+        "human_url": "https://facebook.com/10102152813850825_10102152814549425",
+        "service_url": "https://www.facebook.com/czacharias",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "www.chriszacharias.com",
+        "state": 1,
+        "proof_url": "http://www.chriszacharias.com/keybase.txt",
+        "sig_id": "041d5e31d59679e426363626f0a7b2d7299cbb77964ff57406e0ac3377af52140f",
+        "proof_id": "d167529fb917725750348310",
+        "human_url": "http://www.chriszacharias.com/keybase.txt",
+        "service_url": "http://www.chriszacharias.com",
+        "presentation_group": "www.chriszacharias.com",
+        "presentation_tag": "http"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1KaRW5tvsf2w23jyESZPR5cpuJdvwa5bJN",
+        "sig_id": "6a861fdd181388f62b9ea1a83dcf507ee5271807a7efb37c267bc8e1488253b40f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/d062bbfdad3914a5777e48184691e905_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/32be1e812054b8627ae333262bf2b905_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "github"
+      "source": "twitter"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "b24cb8dd7f00cf56fc4e03201811cf89c98f28dceebace6073a6d415d4bbaf340f",
-      "seqno": 21,
-      "payload_hash": "144f01049c1d314b0a46da49a6755b3ff43caa703eebe122f14bc9535a160ce9"
+      "sig_id": "0d891ba80753f73224a668af2e2b313167eec3839618a300e2389090f3d2967c0f",
+      "seqno": 36,
+      "payload_hash": "b27aebb7220f4eab15cded2e5dfc45d3cb16ea5caccd292265bc5b2d3fdde29a"
     }
   },
   "devices": {
-    "3004640ed13f8a65e97c5eb42ee86218": {
+    "bcc1dc2aa36f495c2be73117e0057618": {
       "type": "desktop",
-      "ctime": 1457104642,
-      "mtime": 1457104642,
-      "name": "cz-mbpro-2016",
+      "ctime": 1489084693,
+      "mtime": 1489084693,
+      "name": "cz-mbpro-2017",
       "status": 1,
       "keys": [
         {
-          "kid": "0120e5d8eaafb380795a8288c9b05d69eca69f11bfe6546c0c14470c69d8b4127b380a",
+          "kid": "0120b8d1ee7adfc247d811b87e577303206bc931ea98cc06265f7217b5bfd45692df0a",
           "key_role": 1,
-          "sig_id": "8f9a0a5ec014f75141da4afa672e56b1f3c5712b26a63505d0b62cd20ad14b390f"
+          "sig_id": "178e06a8b562c2d7001474f957d1117beddf8c90489398dc73d93fa4dbd1a8780f"
         },
         {
-          "kid": "012113dc4f90f810fa3a65b35a506cc89b67bc4e050ef3b8890ebaba856010659b7d0a",
+          "kid": "01218f18cd5dde46b6a7a7ec14e591f6b4a7825f2168665f79464142100df41142560a",
           "key_role": 2,
-          "sig_id": "3566a304dc4129e5552b2a6e3b0f5fcf2c3cc8084696f3e48dc79e27030d0c310f"
+          "sig_id": "2038ea8ac86684e84062f094e921f1efafaa9ecc099ade3db18e9e52076cc4c20f"
+        }
+      ]
+    },
+    "f4860986b4df661d2032e8df5ee1c518": {
+      "type": "mobile",
+      "ctime": 1494710464,
+      "mtime": 1494710464,
+      "name": "cz-ios-7p",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01205cb0c9f3015a3e0ced05743195372398440430f615b2065bf6626d8717a793aa0a",
+          "key_role": 1,
+          "sig_id": "a894ae125121907959b85b8117ce95a4109abf9d3c26779cdef5bd1a14f6fa5c0f"
+        },
+        {
+          "kid": "0121d9b259ab0b4879705c562c2f86ee990229cb611a7a6b6fefbec7600c82e0ca320a",
+          "key_role": 2,
+          "sig_id": "502ce78f50778a9c389b86c1b1c8961923cbb72fa09d897547cf809c24c205680f"
         }
       ]
     },
