@@ -4,10 +4,11 @@
     "username": "daviddanielcox",
     "ctime": 1447948407,
     "mtime": 1447948407,
-    "id_version": 7,
-    "track_version": 2,
-    "last_id_change": 1469730116,
-    "username_cased": "daviddanielcox"
+    "id_version": 40,
+    "track_version": 15,
+    "last_id_change": 1498658575,
+    "username_cased": "daviddanielcox",
+    "status": 0
   },
   "profile": {
     "mtime": 1447949322,
@@ -17,143 +18,262 @@
   },
   "public_keys": {
     "primary": {
-      "kid": "0101cdf4696e853d564616c21178787910742abbcb871fd2235f089a6d30f3b06f970a",
+      "kid": "010118ca0a7a0f48cd6f5427b842ee79e9efa47ca0ef4f43012a7ee38d07cfdc7e1d0a",
       "key_type": 1,
-      "bundle": "-----BEGIN PGP PUBLIC KEY BLOCK-----\nComment: GPGTools - https://gpgtools.org\n\n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\n=Y7a2\n-----END PGP PUBLIC KEY BLOCK-----",
-      "mtime": 1447949020,
-      "ctime": 1447949020,
-      "ukbid": "46549ff283964cb308f6805526ff6a11",
-      "key_fingerprint": "04ff9a3dd24ad5b57d7eb920617ed5c3e9b81681",
-      "key_bits": 4096,
+      "bundle": "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1\n\nmQENBFgnvFIBCACtHDE0ZceZkAjbnMnBYQ/Fdr42K9LzAd8D7/2RAIBjxGVAscxI\nbllRrx2fAVpl3R4cgEOOsdgGU2aSaNvpyb2U9Dj9JooGa3aAB9C/BaNq6Lg15pX8\nju2UMpe/4T01fS6Ne1BPcpE+EHp/5xwW4TiKxj3Rf7RId9SsSIk+Ch0XIEMCRnsS\nF2bShAW0PSNAbyi3zrccXL5/NFV6gKNVgVrNQuXYlMOj3RL2Y83mERyBaVvGTgyR\nk2TyJiNw3UdrQ6cioL4am1tnByC/cikbOHBx6MeR0CWRIGl0B+vjLQvmukC3gU48\nFmOqAFpp/qzRnsNzffrADpOTcdk0T2sKuaohABEBAAG0JkRhdmlkIENveCA8ZGF2\naWQuZGFuaWVsLmNveEBnbWFpbC5jb20+iQE4BBMBAgAiBQJYJ7xSAhsDBgsJCAcD\nAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRD9D9ZTEgD0PrBCB/93o5EdhfoWJCUR6dAG\nVekUbgl4+jyGBFWjrldsoTo6qmLJwBM1amT60HbKh9Imy/h3rkem6phLCDviHDom\nnBKSZd0/WWKeSl5SJ899q8DVyuSV60I62gFltXiczgHeigoy85R/KmRoMWZafBqB\ndgWyYTPGet8NxlqEgGFbwI6m4TBE8QpzMUBgBNcZduuJ4OfUnpP+hiTPE/w1yaKn\n52tci5ggNp6mWlv1B2/Ug+vXJIMgBhn0jokEvvnhV/HTbaBwpQpCBYq1RT0WyubF\npkrybxap4Tn66ZIJwYkRiGG25z8teX8fpFe7HhxUPT3dLUjP2U/lAzPVnQIkeZ4f\nPqH2uQENBFgnvFIBCADlHG3ShuqeQ7hIEnai6Iwi+87JGSaiCpa5BHLb/yJnltXR\nQDgkaI/dh4H+jxEIDXmEUc3ecIgNHLzuLbdx4y/CE602rYjzo7Jq+gBB9f4flFEy\nU4FKdwgAfXiwi+U1/pDknSs3HF1pgB9NlKcpryOEbU+0cjiYluxYTE8Ub1f+pHwY\nG8ivgyaGABmo78FxMD6hGSgs0E3YF3ainJy9/46Vb+VoBPcQTISJXCLmIRWDY2tp\n2dGPBpl/A4lKGTjtmbQICx00FawlsfKyTpAuFZlR3lzKm91rj1cAuyBuN+5KHpyv\nizRIeDjxe3QIY2mNH7+2hBW81kdZ6My/Q+wwcpdJABEBAAGJAR8EGAECAAkFAlgn\nvFICGwwACgkQ/Q/WUxIA9D5TkQf/SX9DA++lqdVeIjKmD4qUHqRv4AGC0aOWwlHE\nQ7onQsdb4yyADnta2QCVUTrJAurDlMKHPzy0zfcUGHmrEqPZcOymhs2rarpRaGJj\n+Z0wECKqcz9Ub6riYHZyb8sMeSICanGwOfvADJ1GRCgujRS/6L5PfF3xYtEL/B5v\nelVyrm887eJBSGI3CxtJ4SpSsL0jYKHE4X8D21Skfs0LXvkX+JtNOjDsF3uVRNiE\nwXfvRyJ0WBrd/1Eca5Km75+E0JUnOoDJVhiGjVNwtj0xMswhcCDtWIGloYrpGjR3\nwS8U+JShZeeuExL78WZPgN16HFiN9wt8DFNioomlJkdWxLxG5w==\n=bdG6\n-----END PGP PUBLIC KEY BLOCK-----",
+      "mtime": 1478999757,
+      "ctime": 1478999757,
+      "ukbid": "853fb62f6db4b7f497895b5709af7511",
+      "key_fingerprint": "1fbac64c476261b15c5bcfcffd0fd6531200f43e",
+      "key_bits": 2048,
       "key_algo": 1,
       "signing_kid": null,
       "key_level": 0,
-      "etime": 1605629018,
+      "etime": 1636679752,
       "eldest_kid": null,
       "status": 0,
       "self_signed": true
     },
     "all_bundles": [
-      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nComment: GPGTools - https://gpgtools.org\n\n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\n=Y7a2\n-----END PGP PUBLIC KEY BLOCK-----"
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nComment: GPGTools - https://gpgtools.org\n\n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\n=Y7a2\n-----END PGP PUBLIC KEY BLOCK-----",
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1\n\nmQENBFgnvFIBCACtHDE0ZceZkAjbnMnBYQ/Fdr42K9LzAd8D7/2RAIBjxGVAscxI\nbllRrx2fAVpl3R4cgEOOsdgGU2aSaNvpyb2U9Dj9JooGa3aAB9C/BaNq6Lg15pX8\nju2UMpe/4T01fS6Ne1BPcpE+EHp/5xwW4TiKxj3Rf7RId9SsSIk+Ch0XIEMCRnsS\nF2bShAW0PSNAbyi3zrccXL5/NFV6gKNVgVrNQuXYlMOj3RL2Y83mERyBaVvGTgyR\nk2TyJiNw3UdrQ6cioL4am1tnByC/cikbOHBx6MeR0CWRIGl0B+vjLQvmukC3gU48\nFmOqAFpp/qzRnsNzffrADpOTcdk0T2sKuaohABEBAAG0JkRhdmlkIENveCA8ZGF2\naWQuZGFuaWVsLmNveEBnbWFpbC5jb20+iQE4BBMBAgAiBQJYJ7xSAhsDBgsJCAcD\nAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRD9D9ZTEgD0PrBCB/93o5EdhfoWJCUR6dAG\nVekUbgl4+jyGBFWjrldsoTo6qmLJwBM1amT60HbKh9Imy/h3rkem6phLCDviHDom\nnBKSZd0/WWKeSl5SJ899q8DVyuSV60I62gFltXiczgHeigoy85R/KmRoMWZafBqB\ndgWyYTPGet8NxlqEgGFbwI6m4TBE8QpzMUBgBNcZduuJ4OfUnpP+hiTPE/w1yaKn\n52tci5ggNp6mWlv1B2/Ug+vXJIMgBhn0jokEvvnhV/HTbaBwpQpCBYq1RT0WyubF\npkrybxap4Tn66ZIJwYkRiGG25z8teX8fpFe7HhxUPT3dLUjP2U/lAzPVnQIkeZ4f\nPqH2uQENBFgnvFIBCADlHG3ShuqeQ7hIEnai6Iwi+87JGSaiCpa5BHLb/yJnltXR\nQDgkaI/dh4H+jxEIDXmEUc3ecIgNHLzuLbdx4y/CE602rYjzo7Jq+gBB9f4flFEy\nU4FKdwgAfXiwi+U1/pDknSs3HF1pgB9NlKcpryOEbU+0cjiYluxYTE8Ub1f+pHwY\nG8ivgyaGABmo78FxMD6hGSgs0E3YF3ainJy9/46Vb+VoBPcQTISJXCLmIRWDY2tp\n2dGPBpl/A4lKGTjtmbQICx00FawlsfKyTpAuFZlR3lzKm91rj1cAuyBuN+5KHpyv\nizRIeDjxe3QIY2mNH7+2hBW81kdZ6My/Q+wwcpdJABEBAAGJAR8EGAECAAkFAlgn\nvFICGwwACgkQ/Q/WUxIA9D5TkQf/SX9DA++lqdVeIjKmD4qUHqRv4AGC0aOWwlHE\nQ7onQsdb4yyADnta2QCVUTrJAurDlMKHPzy0zfcUGHmrEqPZcOymhs2rarpRaGJj\n+Z0wECKqcz9Ub6riYHZyb8sMeSICanGwOfvADJ1GRCgujRS/6L5PfF3xYtEL/B5v\nelVyrm887eJBSGI3CxtJ4SpSsL0jYKHE4X8D21Skfs0LXvkX+JtNOjDsF3uVRNiE\nwXfvRyJ0WBrd/1Eca5Km75+E0JUnOoDJVhiGjVNwtj0xMswhcCDtWIGloYrpGjR3\nwS8U+JShZeeuExL78WZPgN16HFiN9wt8DFNioomlJkdWxLxG5w==\n=bdG6\n-----END PGP PUBLIC KEY BLOCK-----",
+      "01209202376e8caae3a968179cfab67ed080d427da73184cff7fe7a85d79849c9ca90a",
+      "0121ed00c1abb30550f70484f99cc5eb3987c84d56ed82506570715e627b793962120a",
+      "01218daa94d526f273ec2f9162213a03df2f00cec991ef488eccf1dd3b9e1633fb330a",
+      "0120dd9d5559a759cb40b40bfd1616f3bef9d8df8efffa043f9a286bcb7e1f3e3c1f0a",
+      "012076bac13dbc6ecb5335ebcf380bd1bb929d3d4f794c6030323302650beda6c7150a",
+      "0121acef61cfa68ef75a9c6e2fb7f2f2c187fc9f7af39b5f26bc51b8a3f709b256630a"
     ],
-    "subkeys": [],
+    "subkeys": [
+      "0121ed00c1abb30550f70484f99cc5eb3987c84d56ed82506570715e627b793962120a",
+      "01218daa94d526f273ec2f9162213a03df2f00cec991ef488eccf1dd3b9e1633fb330a",
+      "0121acef61cfa68ef75a9c6e2fb7f2f2c187fc9f7af39b5f26bc51b8a3f709b256630a"
+    ],
     "sibkeys": [
-      "0101cdf4696e853d564616c21178787910742abbcb871fd2235f089a6d30f3b06f970a"
+      "010118ca0a7a0f48cd6f5427b842ee79e9efa47ca0ef4f43012a7ee38d07cfdc7e1d0a",
+      "01209202376e8caae3a968179cfab67ed080d427da73184cff7fe7a85d79849c9ca90a",
+      "0120dd9d5559a759cb40b40bfd1616f3bef9d8df8efffa043f9a286bcb7e1f3e3c1f0a",
+      "012076bac13dbc6ecb5335ebcf380bd1bb929d3d4f794c6030323302650beda6c7150a"
     ],
     "families": {
       "0101cdf4696e853d564616c21178787910742abbcb871fd2235f089a6d30f3b06f970a": [
         "0101cdf4696e853d564616c21178787910742abbcb871fd2235f089a6d30f3b06f970a"
+      ],
+      "010118ca0a7a0f48cd6f5427b842ee79e9efa47ca0ef4f43012a7ee38d07cfdc7e1d0a": [
+        "010118ca0a7a0f48cd6f5427b842ee79e9efa47ca0ef4f43012a7ee38d07cfdc7e1d0a",
+        "01209202376e8caae3a968179cfab67ed080d427da73184cff7fe7a85d79849c9ca90a",
+        "0121ed00c1abb30550f70484f99cc5eb3987c84d56ed82506570715e627b793962120a",
+        "01218daa94d526f273ec2f9162213a03df2f00cec991ef488eccf1dd3b9e1633fb330a",
+        "0120dd9d5559a759cb40b40bfd1616f3bef9d8df8efffa043f9a286bcb7e1f3e3c1f0a",
+        "012076bac13dbc6ecb5335ebcf380bd1bb929d3d4f794c6030323302650beda6c7150a",
+        "0121acef61cfa68ef75a9c6e2fb7f2f2c187fc9f7af39b5f26bc51b8a3f709b256630a"
       ]
     },
-    "eldest_kid": "0101cdf4696e853d564616c21178787910742abbcb871fd2235f089a6d30f3b06f970a",
-    "eldest_key_fingerprint": "04ff9a3dd24ad5b57d7eb920617ed5c3e9b81681",
+    "eldest_kid": "010118ca0a7a0f48cd6f5427b842ee79e9efa47ca0ef4f43012a7ee38d07cfdc7e1d0a",
+    "eldest_key_fingerprint": "1fbac64c476261b15c5bcfcffd0fd6531200f43e",
     "pgp_public_keys": [
-      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nComment: GPGTools - https://gpgtools.org\n\n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\n=Y7a2\n-----END PGP PUBLIC KEY BLOCK-----"
+      "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v1\n\nmQENBFgnvFIBCACtHDE0ZceZkAjbnMnBYQ/Fdr42K9LzAd8D7/2RAIBjxGVAscxI\nbllRrx2fAVpl3R4cgEOOsdgGU2aSaNvpyb2U9Dj9JooGa3aAB9C/BaNq6Lg15pX8\nju2UMpe/4T01fS6Ne1BPcpE+EHp/5xwW4TiKxj3Rf7RId9SsSIk+Ch0XIEMCRnsS\nF2bShAW0PSNAbyi3zrccXL5/NFV6gKNVgVrNQuXYlMOj3RL2Y83mERyBaVvGTgyR\nk2TyJiNw3UdrQ6cioL4am1tnByC/cikbOHBx6MeR0CWRIGl0B+vjLQvmukC3gU48\nFmOqAFpp/qzRnsNzffrADpOTcdk0T2sKuaohABEBAAG0JkRhdmlkIENveCA8ZGF2\naWQuZGFuaWVsLmNveEBnbWFpbC5jb20+iQE4BBMBAgAiBQJYJ7xSAhsDBgsJCAcD\nAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRD9D9ZTEgD0PrBCB/93o5EdhfoWJCUR6dAG\nVekUbgl4+jyGBFWjrldsoTo6qmLJwBM1amT60HbKh9Imy/h3rkem6phLCDviHDom\nnBKSZd0/WWKeSl5SJ899q8DVyuSV60I62gFltXiczgHeigoy85R/KmRoMWZafBqB\ndgWyYTPGet8NxlqEgGFbwI6m4TBE8QpzMUBgBNcZduuJ4OfUnpP+hiTPE/w1yaKn\n52tci5ggNp6mWlv1B2/Ug+vXJIMgBhn0jokEvvnhV/HTbaBwpQpCBYq1RT0WyubF\npkrybxap4Tn66ZIJwYkRiGG25z8teX8fpFe7HhxUPT3dLUjP2U/lAzPVnQIkeZ4f\nPqH2uQENBFgnvFIBCADlHG3ShuqeQ7hIEnai6Iwi+87JGSaiCpa5BHLb/yJnltXR\nQDgkaI/dh4H+jxEIDXmEUc3ecIgNHLzuLbdx4y/CE602rYjzo7Jq+gBB9f4flFEy\nU4FKdwgAfXiwi+U1/pDknSs3HF1pgB9NlKcpryOEbU+0cjiYluxYTE8Ub1f+pHwY\nG8ivgyaGABmo78FxMD6hGSgs0E3YF3ainJy9/46Vb+VoBPcQTISJXCLmIRWDY2tp\n2dGPBpl/A4lKGTjtmbQICx00FawlsfKyTpAuFZlR3lzKm91rj1cAuyBuN+5KHpyv\nizRIeDjxe3QIY2mNH7+2hBW81kdZ6My/Q+wwcpdJABEBAAGJAR8EGAECAAkFAlgn\nvFICGwwACgkQ/Q/WUxIA9D5TkQf/SX9DA++lqdVeIjKmD4qUHqRv4AGC0aOWwlHE\nQ7onQsdb4yyADnta2QCVUTrJAurDlMKHPzy0zfcUGHmrEqPZcOymhs2rarpRaGJj\n+Z0wECKqcz9Ub6riYHZyb8sMeSICanGwOfvADJ1GRCgujRS/6L5PfF3xYtEL/B5v\nelVyrm887eJBSGI3CxtJ4SpSsL0jYKHE4X8D21Skfs0LXvkX+JtNOjDsF3uVRNiE\nwXfvRyJ0WBrd/1Eca5Km75+E0JUnOoDJVhiGjVNwtj0xMswhcCDtWIGloYrpGjR3\nwS8U+JShZeeuExL78WZPgN16HFiN9wt8DFNioomlJkdWxLxG5w==\n=bdG6\n-----END PGP PUBLIC KEY BLOCK-----"
     ]
   },
   "proofs_summary": {
     "by_proof_type": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "neurobongo",
-          "state": 1,
-          "proof_url": "https://twitter.com/neurobongo/status/667372864258113536",
-          "sig_id": "863de7931d50974fcffe8c3752610c7134a2e2fc60fdb0d40e29e3ddba479d050f",
-          "proof_id": "0cfb8f373557b6086791e010",
-          "human_url": "https://twitter.com/neurobongo/status/667372864258113536",
-          "service_url": "https://twitter.com/neurobongo",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
           "nametag": "davidcox",
           "state": 1,
           "proof_url": "https://gist.github.com/9a70596780bfeed4a112",
-          "sig_id": "1b93f0b766195478f4394da750ddda0204d8b1d0598238f829b92a1dd7ace2500f",
-          "proof_id": "273bbcb399c0f6761b2cd710",
+          "sig_id": "bc51333fc35a20537ea7e2508c2ea14596f15414ab79f58f5d91d7e638b9f34e0f",
+          "proof_id": "884ad11d5dbe2e498409f410",
           "human_url": "https://gist.github.com/9a70596780bfeed4a112",
           "service_url": "https://github.com/davidcox",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "generic_web_site": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "coxlab.org",
+          "state": 1,
+          "proof_url": "http://coxlab.org/keybase.txt",
+          "sig_id": "03ec09c9b1ddf4b948e6a0cfea8ee2087edfc62b1ae8d91bf047f949274237190f",
+          "proof_id": "7d653a48985edf8429a73f10",
+          "human_url": "http://coxlab.org/keybase.txt",
+          "service_url": "http://coxlab.org",
+          "presentation_group": "coxlab.org",
+          "presentation_tag": "http"
+        },
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "davidcox.me",
+          "state": 1,
+          "proof_url": "http://davidcox.me/keybase.txt",
+          "sig_id": "6a415a6f39256b7babafc6aef2a6669b1160e2a4537a5e08de2603c918052bfa0f",
+          "proof_id": "967c4e73b12bc44661bdd210",
+          "human_url": "http://davidcox.me/keybase.txt",
+          "service_url": "http://davidcox.me",
+          "presentation_group": "davidcox.me",
+          "presentation_tag": "http"
         }
       ]
     },
     "by_presentation_group": {
-      "twitter": [
-        {
-          "proof_type": "twitter",
-          "nametag": "neurobongo",
-          "state": 1,
-          "proof_url": "https://twitter.com/neurobongo/status/667372864258113536",
-          "sig_id": "863de7931d50974fcffe8c3752610c7134a2e2fc60fdb0d40e29e3ddba479d050f",
-          "proof_id": "0cfb8f373557b6086791e010",
-          "human_url": "https://twitter.com/neurobongo/status/667372864258113536",
-          "service_url": "https://twitter.com/neurobongo",
-          "presentation_group": "twitter",
-          "presentation_tag": "tweet"
-        }
-      ],
       "github": [
         {
           "proof_type": "github",
           "nametag": "davidcox",
           "state": 1,
           "proof_url": "https://gist.github.com/9a70596780bfeed4a112",
-          "sig_id": "1b93f0b766195478f4394da750ddda0204d8b1d0598238f829b92a1dd7ace2500f",
-          "proof_id": "273bbcb399c0f6761b2cd710",
+          "sig_id": "bc51333fc35a20537ea7e2508c2ea14596f15414ab79f58f5d91d7e638b9f34e0f",
+          "proof_id": "884ad11d5dbe2e498409f410",
           "human_url": "https://gist.github.com/9a70596780bfeed4a112",
           "service_url": "https://github.com/davidcox",
           "presentation_group": "github",
           "presentation_tag": "gist"
+        }
+      ],
+      "coxlab.org": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "coxlab.org",
+          "state": 1,
+          "proof_url": "http://coxlab.org/keybase.txt",
+          "sig_id": "03ec09c9b1ddf4b948e6a0cfea8ee2087edfc62b1ae8d91bf047f949274237190f",
+          "proof_id": "7d653a48985edf8429a73f10",
+          "human_url": "http://coxlab.org/keybase.txt",
+          "service_url": "http://coxlab.org",
+          "presentation_group": "coxlab.org",
+          "presentation_tag": "http"
+        }
+      ],
+      "davidcox.me": [
+        {
+          "proof_type": "generic_web_site",
+          "nametag": "davidcox.me",
+          "state": 1,
+          "proof_url": "http://davidcox.me/keybase.txt",
+          "sig_id": "6a415a6f39256b7babafc6aef2a6669b1160e2a4537a5e08de2603c918052bfa0f",
+          "proof_id": "967c4e73b12bc44661bdd210",
+          "human_url": "http://davidcox.me/keybase.txt",
+          "service_url": "http://davidcox.me",
+          "presentation_group": "davidcox.me",
+          "presentation_tag": "http"
         }
       ]
     },
     "all": [
       {
-        "proof_type": "twitter",
-        "nametag": "neurobongo",
-        "state": 1,
-        "proof_url": "https://twitter.com/neurobongo/status/667372864258113536",
-        "sig_id": "863de7931d50974fcffe8c3752610c7134a2e2fc60fdb0d40e29e3ddba479d050f",
-        "proof_id": "0cfb8f373557b6086791e010",
-        "human_url": "https://twitter.com/neurobongo/status/667372864258113536",
-        "service_url": "https://twitter.com/neurobongo",
-        "presentation_group": "twitter",
-        "presentation_tag": "tweet"
-      },
-      {
         "proof_type": "github",
         "nametag": "davidcox",
         "state": 1,
         "proof_url": "https://gist.github.com/9a70596780bfeed4a112",
-        "sig_id": "1b93f0b766195478f4394da750ddda0204d8b1d0598238f829b92a1dd7ace2500f",
-        "proof_id": "273bbcb399c0f6761b2cd710",
+        "sig_id": "bc51333fc35a20537ea7e2508c2ea14596f15414ab79f58f5d91d7e638b9f34e0f",
+        "proof_id": "884ad11d5dbe2e498409f410",
         "human_url": "https://gist.github.com/9a70596780bfeed4a112",
         "service_url": "https://github.com/davidcox",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "coxlab.org",
+        "state": 1,
+        "proof_url": "http://coxlab.org/keybase.txt",
+        "sig_id": "03ec09c9b1ddf4b948e6a0cfea8ee2087edfc62b1ae8d91bf047f949274237190f",
+        "proof_id": "7d653a48985edf8429a73f10",
+        "human_url": "http://coxlab.org/keybase.txt",
+        "service_url": "http://coxlab.org",
+        "presentation_group": "coxlab.org",
+        "presentation_tag": "http"
+      },
+      {
+        "proof_type": "generic_web_site",
+        "nametag": "davidcox.me",
+        "state": 1,
+        "proof_url": "http://davidcox.me/keybase.txt",
+        "sig_id": "6a415a6f39256b7babafc6aef2a6669b1160e2a4537a5e08de2603c918052bfa0f",
+        "proof_id": "967c4e73b12bc44661bdd210",
+        "human_url": "http://davidcox.me/keybase.txt",
+        "service_url": "http://davidcox.me",
+        "presentation_group": "davidcox.me",
+        "presentation_tag": "http"
       }
     ]
   },
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/546fe49df601fe71872b29ec2bb34905_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/b3fcceb89bd08d5273ccfb1626298f05_360_360.png",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "4278e10c680d776c50c8438cc4806b4d0b3202c8752973d97b1877108c9add260f",
-      "seqno": 5,
-      "payload_hash": "26ae1144cb10d73f5cd4d477f171994b98c5b3f2e250abf8e91d46dc8a05e3fe"
+      "sig_id": "8ecb66eaba9b777d1afceda0cfaa390bfa25caa19215f66548cf938c87859e980f",
+      "seqno": 32,
+      "payload_hash": "a600dd751592786cae6265674b5d31a4abaf3e430f13d0089504e57ad5e98cdf"
     }
   },
-  "devices": {}
+  "devices": {
+    "496ac27bdfe5194102a69ae4a8851818": {
+      "type": "desktop",
+      "ctime": 1479000922,
+      "mtime": 1479000922,
+      "name": "Dave's Dell XPS 13",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01209202376e8caae3a968179cfab67ed080d427da73184cff7fe7a85d79849c9ca90a",
+          "key_role": 1,
+          "sig_id": "88f0ce7e5b610fc2fc49d719b010f9677938aaf13db956b6e8b6643723cc0f340f"
+        },
+        {
+          "kid": "0121ed00c1abb30550f70484f99cc5eb3987c84d56ed82506570715e627b793962120a",
+          "key_role": 2,
+          "sig_id": "bb8fc0b15a32e619cc5600f80489f8fb4cc6eed0b0cc82a0a697d8941ca6b3390f"
+        }
+      ]
+    },
+    "d3537f7de5119781ff29627db6752518": {
+      "type": "backup",
+      "ctime": 1479000923,
+      "mtime": 1479000923,
+      "name": "effort arrange",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120dd9d5559a759cb40b40bfd1616f3bef9d8df8efffa043f9a286bcb7e1f3e3c1f0a",
+          "key_role": 1,
+          "sig_id": "15c6f19162420dde0fa2a67661e01294bd244b07cf54546da45f506935dfa4ac0f"
+        },
+        {
+          "kid": "01218daa94d526f273ec2f9162213a03df2f00cec991ef488eccf1dd3b9e1633fb330a",
+          "key_role": 2,
+          "sig_id": "4c59ee9fef4d77e2ec6400478b15e7b5669fc3200f97277aa2a57b4e41fb9ad60f"
+        }
+      ]
+    },
+    "f3471871f60bf15b82f69c7611e3de18": {
+      "type": "desktop",
+      "ctime": 1479052375,
+      "mtime": 1479052375,
+      "name": "Dave's 2014 MBP",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012076bac13dbc6ecb5335ebcf380bd1bb929d3d4f794c6030323302650beda6c7150a",
+          "key_role": 1,
+          "sig_id": "996ba40551006f04dfe3161d9c418df06d0f8a45dde886d1213be7f7ea3240d40f"
+        },
+        {
+          "kid": "0121acef61cfa68ef75a9c6e2fb7f2f2c187fc9f7af39b5f26bc51b8a3f709b256630a",
+          "key_role": 2,
+          "sig_id": "c018c1cc211b66643851bc9ba757223611b3495ed1c8759081194e56e4c5bdff0f"
+        }
+      ]
+    }
+  }
 }
