@@ -4,17 +4,17 @@
     "username": "torgo",
     "ctime": 1418205338,
     "mtime": 1418205338,
-    "id_version": 21,
+    "id_version": 29,
     "track_version": 7,
-    "last_id_change": 1514933393,
+    "last_id_change": 1514985510,
     "username_cased": "torgo",
     "status": 0
   },
   "profile": {
-    "mtime": 1418206309,
+    "mtime": 1514979421,
     "full_name": "Daniel Appelquist",
     "location": "London, UK",
-    "bio": "Open Web Advocate at Telefónica, W3C TAG co-chair"
+    "bio": "Director of Web Advocacy & Open Source at Samsung Research UK; Co-chair of W3C TAG"
   },
   "public_keys": {
     "primary": {
@@ -102,6 +102,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "torgo.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/torgo/sigchain#7dc36c3b5c6b39bad4f838923ae9bd2eee124855b1c31de960951421c4c0a71a0f",
+          "sig_id": "7dc36c3b5c6b39bad4f838923ae9bd2eee124855b1c31de960951421c4c0a71a0f",
+          "proof_id": "f974c1962b6a19783966e510",
+          "human_url": "dns://torgo.com",
+          "service_url": "http://torgo.com",
+          "presentation_group": "torgo.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -132,6 +146,20 @@
           "presentation_group": "github",
           "presentation_tag": "gist"
         }
+      ],
+      "torgo.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "torgo.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/torgo/sigchain#7dc36c3b5c6b39bad4f838923ae9bd2eee124855b1c31de960951421c4c0a71a0f",
+          "sig_id": "7dc36c3b5c6b39bad4f838923ae9bd2eee124855b1c31de960951421c4c0a71a0f",
+          "proof_id": "f974c1962b6a19783966e510",
+          "human_url": "dns://torgo.com",
+          "service_url": "http://torgo.com",
+          "presentation_group": "torgo.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -158,6 +186,18 @@
         "service_url": "https://github.com/torgo",
         "presentation_group": "github",
         "presentation_tag": "gist"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "torgo.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/torgo/sigchain#7dc36c3b5c6b39bad4f838923ae9bd2eee124855b1c31de960951421c4c0a71a0f",
+        "sig_id": "7dc36c3b5c6b39bad4f838923ae9bd2eee124855b1c31de960951421c4c0a71a0f",
+        "proof_id": "f974c1962b6a19783966e510",
+        "human_url": "dns://torgo.com",
+        "service_url": "http://torgo.com",
+        "presentation_group": "torgo.com",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -172,9 +212,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "12891404310b1afa95100c76503d688603ee351aec64ac694eea799d0f56d7a90f",
-      "seqno": 45,
-      "payload_hash": "5c57d24988e400624dfa2b4e4738275da746c2f26b175444b55ad41e9d009d46"
+      "sig_id": "a5316cfa0792755677306d70a06da8fdcb28800a0be154290ba208ffc5dcf4650f",
+      "seqno": 48,
+      "payload_hash": "81c8da04a4bcf83cfcf1fcca6ae2d2de5cbb169865fa94d460375744c706e799"
     }
   },
   "devices": {
