@@ -1,0 +1,93 @@
+{
+  "id": "5109755efaae2e2de72372f258bca919",
+  "basics": {
+    "username": "f0xr",
+    "ctime": 1495076533,
+    "mtime": 1495076533,
+    "id_version": 2,
+    "track_version": 3,
+    "last_id_change": 1495076536,
+    "username_cased": "f0xr",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0120cef8497eb055b647bb7148ed68cee0a9ef69d06c179259ed3e59aa04f512371a0a",
+      "01219df9a4ed41767fa6e6c4e7a29abf64e241c4ce88453c07f94ca248cc35b6e70b0a",
+      "0120af96c2303e0b69ed7058279e96714e140d0d497ec5291ab0ef5c65e909e3bd3f0a",
+      "012162f1e5fd8784e98f11cf05b7afdf1aba27967bea03cfd20cc1787b84819eca0d0a"
+    ],
+    "subkeys": [
+      "01219df9a4ed41767fa6e6c4e7a29abf64e241c4ce88453c07f94ca248cc35b6e70b0a",
+      "012162f1e5fd8784e98f11cf05b7afdf1aba27967bea03cfd20cc1787b84819eca0d0a"
+    ],
+    "sibkeys": [
+      "0120cef8497eb055b647bb7148ed68cee0a9ef69d06c179259ed3e59aa04f512371a0a",
+      "0120af96c2303e0b69ed7058279e96714e140d0d497ec5291ab0ef5c65e909e3bd3f0a"
+    ],
+    "families": {
+      "0120cef8497eb055b647bb7148ed68cee0a9ef69d06c179259ed3e59aa04f512371a0a": [
+        "0120cef8497eb055b647bb7148ed68cee0a9ef69d06c179259ed3e59aa04f512371a0a",
+        "01219df9a4ed41767fa6e6c4e7a29abf64e241c4ce88453c07f94ca248cc35b6e70b0a",
+        "0120af96c2303e0b69ed7058279e96714e140d0d497ec5291ab0ef5c65e909e3bd3f0a",
+        "012162f1e5fd8784e98f11cf05b7afdf1aba27967bea03cfd20cc1787b84819eca0d0a"
+      ]
+    },
+    "eldest_kid": "0120cef8497eb055b647bb7148ed68cee0a9ef69d06c179259ed3e59aa04f512371a0a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "65f1bb869b257615c234ca4fd7a15614cf9e132e23c657778010dab799ba30450f",
+      "seqno": 7,
+      "payload_hash": "9b6470041fba531a118ae040aa391e562b49691b20517ca27d9e864c43115a71"
+    }
+  },
+  "devices": {
+    "7add4b163a9501c0e149d77b016cf018": {
+      "type": "backup",
+      "ctime": 1495076536,
+      "mtime": 1495076536,
+      "name": "pen pair",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120af96c2303e0b69ed7058279e96714e140d0d497ec5291ab0ef5c65e909e3bd3f0a",
+          "key_role": 1,
+          "sig_id": "311d34c5b1d60686df9641c179e9243041bead21ca09bd9b2de2f1d0f738e5bc0f"
+        },
+        {
+          "kid": "012162f1e5fd8784e98f11cf05b7afdf1aba27967bea03cfd20cc1787b84819eca0d0a",
+          "key_role": 2,
+          "sig_id": "9c9c5741e2f715f42a984e6453ca4ec5711cfbc445211ec0cec41b209ee4da030f"
+        }
+      ]
+    },
+    "7dfd9ad54288affd50674a112ce93118": {
+      "type": "mobile",
+      "ctime": 1495076534,
+      "mtime": 1495076534,
+      "name": "nexus5x",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120cef8497eb055b647bb7148ed68cee0a9ef69d06c179259ed3e59aa04f512371a0a",
+          "key_role": 1,
+          "sig_id": "e424b564951a4b6cd16b8f4d17b1487ad80f91f312f7874adf5d89f4092d0c890f"
+        },
+        {
+          "kid": "01219df9a4ed41767fa6e6c4e7a29abf64e241c4ce88453c07f94ca248cc35b6e70b0a",
+          "key_role": 2,
+          "sig_id": "7746a40047393a2aa788fe45bbb661334ac5a4c485f60d4c0969a52171336de20f"
+        }
+      ]
+    }
+  }
+}
