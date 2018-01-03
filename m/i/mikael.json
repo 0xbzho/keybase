@@ -4,9 +4,9 @@
     "username": "mikael",
     "ctime": 1396476098,
     "mtime": 1396476098,
-    "id_version": 72,
+    "id_version": 73,
     "track_version": 46,
-    "last_id_change": 1507825689,
+    "last_id_change": 1514907605,
     "username_cased": "mikael",
     "status": 0
   },
@@ -52,7 +52,9 @@
       "0120ae43cbf4c3b5957aa92f7a20c8217d833bc8c7ef98c476270843536fb015d4200a",
       "0121e878e66fa3730324372f24ba1d3b82331294f62d86a7523e164818afa18d0c5a0a",
       "0120ed736e9096ad6e488a5ef3bd2e3d84af0cb0f85ee83b46bb3868a1f6b29fd6570a",
-      "012186922a69c165d8964c6504d83ef1fe2a8452ae45851ad4fc2d61fdcb7b2b2e2b0a"
+      "012186922a69c165d8964c6504d83ef1fe2a8452ae45851ad4fc2d61fdcb7b2b2e2b0a",
+      "01215d49574892f06d0d6d7a4b732682b62d1dc914da84f68d8c280a020e0262fb220a",
+      "0120b9febb7c7bfb7dbaf416fd5ef5450f788c7faab82cbb7643c745ffaffcc415940a"
     ],
     "subkeys": [
       "01211cbf128821b26e4e7e3a1959ef188a6c74fc0d42880a46505cac38845f6b3e4f0a",
@@ -60,7 +62,8 @@
       "01212768224a1de20203d89a22e4ebe46127ec93e7609574afaccc66e59d23e47e1c0a",
       "0121a84ea462041cbcdaa3db9aa7be14b9a88f4dff0f6f4f6c91a3d933fe006a04570a",
       "0121e878e66fa3730324372f24ba1d3b82331294f62d86a7523e164818afa18d0c5a0a",
-      "012186922a69c165d8964c6504d83ef1fe2a8452ae45851ad4fc2d61fdcb7b2b2e2b0a"
+      "012186922a69c165d8964c6504d83ef1fe2a8452ae45851ad4fc2d61fdcb7b2b2e2b0a",
+      "01215d49574892f06d0d6d7a4b732682b62d1dc914da84f68d8c280a020e0262fb220a"
     ],
     "sibkeys": [
       "012025f3317da1822961b2a45076dce7819f8b1303281d51d742e5cc1df3d57182440a",
@@ -69,7 +72,8 @@
       "01016aa96927f43fa11f8c029b692a8623ba471de5763d1d3a86b51e0b597d83e7b10a",
       "0120111482bb174c39c18f1d37a5343c545103f031ca2fef4cfafc8f56bc585956a10a",
       "0120ae43cbf4c3b5957aa92f7a20c8217d833bc8c7ef98c476270843536fb015d4200a",
-      "0120ed736e9096ad6e488a5ef3bd2e3d84af0cb0f85ee83b46bb3868a1f6b29fd6570a"
+      "0120ed736e9096ad6e488a5ef3bd2e3d84af0cb0f85ee83b46bb3868a1f6b29fd6570a",
+      "0120b9febb7c7bfb7dbaf416fd5ef5450f788c7faab82cbb7643c745ffaffcc415940a"
     ],
     "families": {
       "01016aa96927f43fa11f8c029b692a8623ba471de5763d1d3a86b51e0b597d83e7b10a": [
@@ -90,7 +94,9 @@
         "0120ae43cbf4c3b5957aa92f7a20c8217d833bc8c7ef98c476270843536fb015d4200a",
         "0121e878e66fa3730324372f24ba1d3b82331294f62d86a7523e164818afa18d0c5a0a",
         "0120ed736e9096ad6e488a5ef3bd2e3d84af0cb0f85ee83b46bb3868a1f6b29fd6570a",
-        "012186922a69c165d8964c6504d83ef1fe2a8452ae45851ad4fc2d61fdcb7b2b2e2b0a"
+        "012186922a69c165d8964c6504d83ef1fe2a8452ae45851ad4fc2d61fdcb7b2b2e2b0a",
+        "01215d49574892f06d0d6d7a4b732682b62d1dc914da84f68d8c280a020e0262fb220a",
+        "0120b9febb7c7bfb7dbaf416fd5ef5450f788c7faab82cbb7643c745ffaffcc415940a"
       ]
     },
     "eldest_kid": "01016aa96927f43fa11f8c029b692a8623ba471de5763d1d3a86b51e0b597d83e7b10a",
@@ -323,12 +329,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "21db27a59e99ef1c1bc4137dc7315feb7c984418d4e1229ea608a0ad2c5b0dbe0f",
-      "seqno": 81,
-      "payload_hash": "2575d2662fb9394ebecc9529a0822cf13b10dca1c7254c2d06bb14c306c91315"
+      "sig_id": "090d7713a5bf84c235c68e9da1d8d899ef1c8b4334c95e1d87b4624f5f6c64900f",
+      "seqno": 83,
+      "payload_hash": "b66a86e9edadc8c5a7d8c063940143ff4c1cc6b3784c0ca917b969d16bc27bdf"
     }
   },
   "devices": {
+    "066fdd110dfab3609788e02851dbd518": {
+      "type": "mobile",
+      "ctime": 1514907605,
+      "mtime": 1514907605,
+      "name": "mikaelf Pixel 2 XL",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120b9febb7c7bfb7dbaf416fd5ef5450f788c7faab82cbb7643c745ffaffcc415940a",
+          "key_role": 1,
+          "sig_id": "95623e64c3481215355ab1c85b59927dc8d3708bf47d21d57dd59acbbe3cec5f0f"
+        },
+        {
+          "kid": "01215d49574892f06d0d6d7a4b732682b62d1dc914da84f68d8c280a020e0262fb220a",
+          "key_role": 2,
+          "sig_id": "090d7713a5bf84c235c68e9da1d8d899ef1c8b4334c95e1d87b4624f5f6c64900f"
+        }
+      ]
+    },
     "1d0827d9e2d27399744cbfeb3d791918": {
       "type": "mobile",
       "ctime": 1494001345,
