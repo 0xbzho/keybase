@@ -4,10 +4,11 @@
     "username": "eleanor",
     "ctime": 1453826468,
     "mtime": 1453826468,
-    "id_version": 8,
-    "track_version": 2,
-    "last_id_change": 1475967196,
-    "username_cased": "eleanor"
+    "id_version": 11,
+    "track_version": 10,
+    "last_id_change": 1499289796,
+    "username_cased": "eleanor",
+    "status": 0
   },
   "public_keys": {
     "all_bundles": [
@@ -16,17 +17,19 @@
       "0121adef2682477c73ceca67c00fbd995c1c6a838c6e460255730d30f81a6b38ea310a",
       "0120c112a9b3500590570c1c55075133b49f4810b3fc7bd3994d9a85d4c59499dc550a",
       "0120dee4c1398b7ff7b95143c94d52db995e8f31da1fb4da7dcc8a844ea9a35648a00a",
-      "0121ca851e22068f0be9b9f8f9b748504cb34dc29ddc8f762834f7cc1fd29a7811180a"
+      "0121ca851e22068f0be9b9f8f9b748504cb34dc29ddc8f762834f7cc1fd29a7811180a",
+      "012005cc2e0ade63f74e05ff641508781815276c49166bdc21bdb5478e17a2e0eda30a",
+      "01210159d60f7bbdc62431ed9407d788906ed35fd298d2195eb1c1faaac196d8241d0a"
     ],
     "subkeys": [
-      "0121f7c8ac56b562331c9802eec440e0b588e05ba221b57298db6e08788dfb6698400a",
       "0121adef2682477c73ceca67c00fbd995c1c6a838c6e460255730d30f81a6b38ea310a",
-      "0121ca851e22068f0be9b9f8f9b748504cb34dc29ddc8f762834f7cc1fd29a7811180a"
+      "0121ca851e22068f0be9b9f8f9b748504cb34dc29ddc8f762834f7cc1fd29a7811180a",
+      "01210159d60f7bbdc62431ed9407d788906ed35fd298d2195eb1c1faaac196d8241d0a"
     ],
     "sibkeys": [
-      "0120e8724c740f1d85685ee69cacc53017670073345344556a12178ea62eb63c9eff0a",
       "0120c112a9b3500590570c1c55075133b49f4810b3fc7bd3994d9a85d4c59499dc550a",
-      "0120dee4c1398b7ff7b95143c94d52db995e8f31da1fb4da7dcc8a844ea9a35648a00a"
+      "0120dee4c1398b7ff7b95143c94d52db995e8f31da1fb4da7dcc8a844ea9a35648a00a",
+      "012005cc2e0ade63f74e05ff641508781815276c49166bdc21bdb5478e17a2e0eda30a"
     ],
     "families": {
       "0120e8724c740f1d85685ee69cacc53017670073345344556a12178ea62eb63c9eff0a": [
@@ -35,7 +38,9 @@
         "0121adef2682477c73ceca67c00fbd995c1c6a838c6e460255730d30f81a6b38ea310a",
         "0120c112a9b3500590570c1c55075133b49f4810b3fc7bd3994d9a85d4c59499dc550a",
         "0120dee4c1398b7ff7b95143c94d52db995e8f31da1fb4da7dcc8a844ea9a35648a00a",
-        "0121ca851e22068f0be9b9f8f9b748504cb34dc29ddc8f762834f7cc1fd29a7811180a"
+        "0121ca851e22068f0be9b9f8f9b748504cb34dc29ddc8f762834f7cc1fd29a7811180a",
+        "012005cc2e0ade63f74e05ff641508781815276c49166bdc21bdb5478e17a2e0eda30a",
+        "01210159d60f7bbdc62431ed9407d788906ed35fd298d2195eb1c1faaac196d8241d0a"
       ]
     },
     "eldest_kid": "0120e8724c740f1d85685ee69cacc53017670073345344556a12178ea62eb63c9eff0a",
@@ -133,7 +138,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/bfa61cd86f05c097f78da0197f9fa805_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/5e30910c8c582072fed954b288da3505_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -141,9 +146,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "8d42c2740941b78ded001cd1b43f739d3773218841b4a22e450f0e0b00b860620f",
-      "seqno": 10,
-      "payload_hash": "0631a4c27e2714381c96115fa0cf3670bae33a826b6a83bd271ffabe90d2af07"
+      "sig_id": "5d894846c8c4708e3950eff7cf62c7464d067c2547db8d2f295232b1833d72bc0f",
+      "seqno": 23,
+      "payload_hash": "cbc454253f14f302eeb7dc8ff1b38d86631f26c8eb5010a4735b4665573d3a88"
     }
   },
   "devices": {
@@ -166,29 +171,10 @@
         }
       ]
     },
-    "44d038f9ac883dfac00d5941592d8e18": {
-      "type": "desktop",
-      "ctime": 1453826472,
-      "mtime": 1453826472,
-      "name": "eleanor_home",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120e8724c740f1d85685ee69cacc53017670073345344556a12178ea62eb63c9eff0a",
-          "key_role": 1,
-          "sig_id": "25768f08c0c43135506216fcb1287531e324e91ea9f9b07497c09dec1f2153430f"
-        },
-        {
-          "kid": "0121f7c8ac56b562331c9802eec440e0b588e05ba221b57298db6e08788dfb6698400a",
-          "key_role": 2,
-          "sig_id": "729dc572be9d14ff10a14c107747a5d1ee17bfc3451b01de77c304b5cd8a38cc0f"
-        }
-      ]
-    },
     "62076816448a8b936bd6157cb06c7718": {
       "type": "desktop",
-      "ctime": 1475966968,
-      "mtime": 1475966968,
+      "ctime": 1475970568,
+      "mtime": 1475970568,
       "name": "estrib's mac",
       "status": 1,
       "keys": [
@@ -201,6 +187,25 @@
           "kid": "0121ca851e22068f0be9b9f8f9b748504cb34dc29ddc8f762834f7cc1fd29a7811180a",
           "key_role": 2,
           "sig_id": "8d42c2740941b78ded001cd1b43f739d3773218841b4a22e450f0e0b00b860620f"
+        }
+      ]
+    },
+    "bbdc0b913cf0a0d4ab561db0e7d15218": {
+      "type": "mobile",
+      "ctime": 1491012828,
+      "mtime": 1491012828,
+      "name": "eleanor's iphone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012005cc2e0ade63f74e05ff641508781815276c49166bdc21bdb5478e17a2e0eda30a",
+          "key_role": 1,
+          "sig_id": "b091f856dbb1526d5a57d86568139b8837de6ed8bd043bc948867429c5c6b89c0f"
+        },
+        {
+          "kid": "01210159d60f7bbdc62431ed9407d788906ed35fd298d2195eb1c1faaac196d8241d0a",
+          "key_role": 2,
+          "sig_id": "6790b4e5f821c53b8ae27ca7e41ae81ac5b3789bbe2fc12379ec8cfbdeb814090f"
         }
       ]
     }
