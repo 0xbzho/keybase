@@ -4,13 +4,14 @@
     "username": "ffailla",
     "ctime": 1423162417,
     "mtime": 1423162417,
-    "id_version": 107,
-    "track_version": 1,
-    "last_id_change": 1476811942,
-    "username_cased": "ffailla"
+    "id_version": 119,
+    "track_version": 9,
+    "last_id_change": 1498246627,
+    "username_cased": "ffailla",
+    "status": 0
   },
   "profile": {
-    "mtime": 1476808082,
+    "mtime": 1476811682,
     "full_name": "Frank Failla",
     "location": "New York, NY",
     "bio": null
@@ -38,16 +39,22 @@
       "012027bfd95b15a6c2b7dd2acd4ed6e97da8810fdbf573a333e4c9eb435b74d7e7e80a",
       "01215a89420ff7ebe3c2c66d6bda76c7b99cc30833ddb98e103dd4df280acb6bf4620a",
       "0120b70e8bcfd1bd66887d39a9c5e2f3f8efcc4d403c867c5bee059feec4fff446e10a",
-      "0121c89c85889d9751a4879626d3ddce7ea406eae86f9357c9cfac6dacc156991e000a"
+      "0121c89c85889d9751a4879626d3ddce7ea406eae86f9357c9cfac6dacc156991e000a",
+      "0120c782f6c9b5b9b4c3e88f2f464798d9bee2764953994be3d9c72f255776a3ad920a",
+      "0121c2d2c82be695b6420570dac8e899502070e872c928324c0b704281b3cafead4f0a",
+      "01209157e660e433135f563a12584830fbdd32d5c3cc535b8601eb8c4f52842e00390a",
+      "01215a13c99b11d0392e37c5a7c71d146027d6f6684d15c578567750fc1787e4217d0a"
     ],
     "subkeys": [
       "01215a89420ff7ebe3c2c66d6bda76c7b99cc30833ddb98e103dd4df280acb6bf4620a",
-      "0121c89c85889d9751a4879626d3ddce7ea406eae86f9357c9cfac6dacc156991e000a"
+      "0121c2d2c82be695b6420570dac8e899502070e872c928324c0b704281b3cafead4f0a",
+      "01215a13c99b11d0392e37c5a7c71d146027d6f6684d15c578567750fc1787e4217d0a"
     ],
     "sibkeys": [
       "010162f6ac025349a3806c180a91a9179ca0998519cab68b62ff862b1a25ebbf965e0a",
       "012027bfd95b15a6c2b7dd2acd4ed6e97da8810fdbf573a333e4c9eb435b74d7e7e80a",
-      "0120b70e8bcfd1bd66887d39a9c5e2f3f8efcc4d403c867c5bee059feec4fff446e10a"
+      "0120c782f6c9b5b9b4c3e88f2f464798d9bee2764953994be3d9c72f255776a3ad920a",
+      "01209157e660e433135f563a12584830fbdd32d5c3cc535b8601eb8c4f52842e00390a"
     ],
     "families": {
       "010162f6ac025349a3806c180a91a9179ca0998519cab68b62ff862b1a25ebbf965e0a": [
@@ -55,7 +62,11 @@
         "012027bfd95b15a6c2b7dd2acd4ed6e97da8810fdbf573a333e4c9eb435b74d7e7e80a",
         "01215a89420ff7ebe3c2c66d6bda76c7b99cc30833ddb98e103dd4df280acb6bf4620a",
         "0120b70e8bcfd1bd66887d39a9c5e2f3f8efcc4d403c867c5bee059feec4fff446e10a",
-        "0121c89c85889d9751a4879626d3ddce7ea406eae86f9357c9cfac6dacc156991e000a"
+        "0121c89c85889d9751a4879626d3ddce7ea406eae86f9357c9cfac6dacc156991e000a",
+        "0120c782f6c9b5b9b4c3e88f2f464798d9bee2764953994be3d9c72f255776a3ad920a",
+        "0121c2d2c82be695b6420570dac8e899502070e872c928324c0b704281b3cafead4f0a",
+        "01209157e660e433135f563a12584830fbdd32d5c3cc535b8601eb8c4f52842e00390a",
+        "01215a13c99b11d0392e37c5a7c71d146027d6f6684d15c578567750fc1787e4217d0a"
       ]
     },
     "eldest_kid": "010162f6ac025349a3806c180a91a9179ca0998519cab68b62ff862b1a25ebbf965e0a",
@@ -108,20 +119,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "ffailla",
-          "state": 1,
-          "proof_url": "https://coinbase.com/ffailla/public-key",
-          "sig_id": "bdda02fbd3f20bc06af0f1780e8cfa87ba2cfdf02a6b8daedae51a98e159695e0f",
-          "proof_id": "3461951a46f2151fbee04010",
-          "human_url": "https://coinbase.com/ffailla/public-key",
-          "service_url": "https://coinbase.com/ffailla",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -134,6 +131,20 @@
           "service_url": "https://news.ycombinator.com/user?id=ffailla",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "ffailla",
+          "state": 1,
+          "proof_url": "https://www.facebook.com/ffailla/posts/10210596483321656",
+          "sig_id": "f4decf8e750e2e70b5168dcd82b991f5e58465436891bb6a35b497e66619626a0f",
+          "proof_id": "bf189b45ac5def5475a11910",
+          "human_url": "https://www.facebook.com/ffailla/posts/10210596483321656",
+          "service_url": "https://www.facebook.com/ffailla",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "dns": [
@@ -194,20 +205,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "ffailla",
-          "state": 1,
-          "proof_url": "https://coinbase.com/ffailla/public-key",
-          "sig_id": "bdda02fbd3f20bc06af0f1780e8cfa87ba2cfdf02a6b8daedae51a98e159695e0f",
-          "proof_id": "3461951a46f2151fbee04010",
-          "human_url": "https://coinbase.com/ffailla/public-key",
-          "service_url": "https://coinbase.com/ffailla",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -220,6 +217,20 @@
           "service_url": "https://news.ycombinator.com/user?id=ffailla",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "ffailla",
+          "state": 1,
+          "proof_url": "https://www.facebook.com/ffailla/posts/10210596483321656",
+          "sig_id": "f4decf8e750e2e70b5168dcd82b991f5e58465436891bb6a35b497e66619626a0f",
+          "proof_id": "bf189b45ac5def5475a11910",
+          "human_url": "https://www.facebook.com/ffailla/posts/10210596483321656",
+          "service_url": "https://www.facebook.com/ffailla",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "frankfailla.com": [
@@ -275,18 +286,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "ffailla",
-        "state": 1,
-        "proof_url": "https://coinbase.com/ffailla/public-key",
-        "sig_id": "bdda02fbd3f20bc06af0f1780e8cfa87ba2cfdf02a6b8daedae51a98e159695e0f",
-        "proof_id": "3461951a46f2151fbee04010",
-        "human_url": "https://coinbase.com/ffailla/public-key",
-        "service_url": "https://coinbase.com/ffailla",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "ffailla",
         "state": 1,
@@ -297,6 +296,18 @@
         "service_url": "https://news.ycombinator.com/user?id=ffailla",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "ffailla",
+        "state": 1,
+        "proof_url": "https://www.facebook.com/ffailla/posts/10210596483321656",
+        "sig_id": "f4decf8e750e2e70b5168dcd82b991f5e58465436891bb6a35b497e66619626a0f",
+        "proof_id": "bf189b45ac5def5475a11910",
+        "human_url": "https://www.facebook.com/ffailla/posts/10210596483321656",
+        "service_url": "https://www.facebook.com/ffailla",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -322,7 +333,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/d65cf2f13050fc262c2c7c272341c005_360_360_square_360.png",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/5293290c255c6dfd3f90470703158305_360_360_square_360.png",
       "width": 360,
       "height": 360,
       "source": "github"
@@ -330,16 +341,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "9d7d2052524d949c394f4e030dc6e04a4fcd32970544592ed5e1ec5b86da6ebe0f",
-      "seqno": 19,
-      "payload_hash": "c8401999e8026dff5a76164e6e56e47e3bdb082e571f9f58dcf8bce0860620dd"
+      "sig_id": "be1cebcda5b97204aae0e47db3d19498ef6ea536957f7914236a05c6e68e7e870f",
+      "seqno": 34,
+      "payload_hash": "ab58dec99f50b407f86c4a498b18ba3146b44f54b3e6ca24a4d8eb337f7277b2"
     }
   },
   "devices": {
     "1ee05227431514f53735193b709b8918": {
       "type": "backup",
-      "ctime": 1476805513,
-      "mtime": 1476805513,
+      "ctime": 1476809113,
+      "mtime": 1476809113,
       "name": "manage daring",
       "status": 1,
       "keys": [
@@ -355,22 +366,41 @@
         }
       ]
     },
-    "fbf5081264db1936411be501b803d918": {
-      "type": "desktop",
-      "ctime": 1476805513,
-      "mtime": 1476805513,
-      "name": "Macbook Pro",
+    "40ad3b30f3c2800e1052eb2603a2ef18": {
+      "type": "mobile",
+      "ctime": 1498246627,
+      "mtime": 1498246627,
+      "name": "iphone 6s",
       "status": 1,
       "keys": [
         {
-          "kid": "0120b70e8bcfd1bd66887d39a9c5e2f3f8efcc4d403c867c5bee059feec4fff446e10a",
+          "kid": "01209157e660e433135f563a12584830fbdd32d5c3cc535b8601eb8c4f52842e00390a",
           "key_role": 1,
-          "sig_id": "9c5baff0a3b78c3a1dc6d0340c1ad99c4db90d17dcbf5856ff6b09f92ea180c50f"
+          "sig_id": "f9e32eb2b97fc76fcc7aad5103a0e76ab789ad80eb1a64fbae84e5c3036e92d30f"
         },
         {
-          "kid": "0121c89c85889d9751a4879626d3ddce7ea406eae86f9357c9cfac6dacc156991e000a",
+          "kid": "01215a13c99b11d0392e37c5a7c71d146027d6f6684d15c578567750fc1787e4217d0a",
           "key_role": 2,
-          "sig_id": "e999b5699e1192e0d724b71b41551ae50f71f7521148021fc8e84afa2325f48e0f"
+          "sig_id": "3f3cd6f9b6377eb57a67729df16a9191f3101ac782f14810da1c266530ccfa350f"
+        }
+      ]
+    },
+    "630513bea23f4feb65678b98d8b24218": {
+      "type": "desktop",
+      "ctime": 1493065240,
+      "mtime": 1493065240,
+      "name": "MacBook Pro - 2017",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120c782f6c9b5b9b4c3e88f2f464798d9bee2764953994be3d9c72f255776a3ad920a",
+          "key_role": 1,
+          "sig_id": "6e40e7641d65d0f0ee7879979f5970772abac0aa3f03e716e1c5282a5a7d63c30f"
+        },
+        {
+          "kid": "0121c2d2c82be695b6420570dac8e899502070e872c928324c0b704281b3cafead4f0a",
+          "key_role": 2,
+          "sig_id": "8c6330ac7325338648c1e2fcff5de1fb412f2eacba3dcb01535404cd6d3f1f960f"
         }
       ]
     }
