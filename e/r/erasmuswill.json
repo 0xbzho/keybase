@@ -2,15 +2,16 @@
   "id": "d69965d0e56f411e28ba44ee066a1819",
   "basics": {
     "username": "erasmuswill",
-    "ctime": 1440672501,
-    "mtime": 1440672501,
-    "id_version": 141,
+    "ctime": 1440676101,
+    "mtime": 1440676101,
+    "id_version": 187,
     "track_version": 12,
-    "last_id_change": 1473791458,
-    "username_cased": "erasmuswill"
+    "last_id_change": 1503887076,
+    "username_cased": "erasmuswill",
+    "status": 0
   },
   "profile": {
-    "mtime": 1440672841,
+    "mtime": 1440676441,
     "full_name": "Wilhelm Erasmus",
     "location": "Johannesburg, South Africa",
     "bio": "Bio? I'm more of a physics guy :)"
@@ -49,16 +50,18 @@
       "0120253565a008aefa60d68e8b43d171f283cb751a235a5a41331a8dcce5747941a60a",
       "012163e6e3e14220b1129070ce6c989b459d8f995a711592179993a8c676470bac620a",
       "0120112ff5b344ae9bf8c91bf40f9393f72360006181abc5386919f023f043f3f47f0a",
-      "0121d5313166d8a8e26d01f1dd35f97050ca11368e71b29fb4fd986a13611618eb260a"
+      "0121d5313166d8a8e26d01f1dd35f97050ca11368e71b29fb4fd986a13611618eb260a",
+      "0120fd38e22be4a63c2324faf8c32aaad10591564c2df0b68af7d14c1f7bfd9afd540a",
+      "0121edcbdee2a9047025901e039fa006a2d98849a2251d90bafa05c3b1f38a6403400a"
     ],
     "subkeys": [
       "01215dce4ea5c161fd8a1f89a960ee63872ed943c4bcbb31fba6823600025958e2510a",
-      "0121d5313166d8a8e26d01f1dd35f97050ca11368e71b29fb4fd986a13611618eb260a"
+      "0121edcbdee2a9047025901e039fa006a2d98849a2251d90bafa05c3b1f38a6403400a"
     ],
     "sibkeys": [
       "0120fe94d8363e38d34ce3308cf9936f9572a513293802a190fa890c6cb70ebd7ba70a",
       "010190c31d8cb7321a08e8d70689606112f1963160dcb15abd52514a59dec17fc5ef0a",
-      "0120112ff5b344ae9bf8c91bf40f9393f72360006181abc5386919f023f043f3f47f0a"
+      "0120fd38e22be4a63c2324faf8c32aaad10591564c2df0b68af7d14c1f7bfd9afd540a"
     ],
     "families": {
       "0101ed884696262370b040896e1050005984ad1b05bb235f34477d265e9e692dde8d0a": [
@@ -79,7 +82,9 @@
         "0120253565a008aefa60d68e8b43d171f283cb751a235a5a41331a8dcce5747941a60a",
         "012163e6e3e14220b1129070ce6c989b459d8f995a711592179993a8c676470bac620a",
         "0120112ff5b344ae9bf8c91bf40f9393f72360006181abc5386919f023f043f3f47f0a",
-        "0121d5313166d8a8e26d01f1dd35f97050ca11368e71b29fb4fd986a13611618eb260a"
+        "0121d5313166d8a8e26d01f1dd35f97050ca11368e71b29fb4fd986a13611618eb260a",
+        "0120fd38e22be4a63c2324faf8c32aaad10591564c2df0b68af7d14c1f7bfd9afd540a",
+        "0121edcbdee2a9047025901e039fa006a2d98849a2251d90bafa05c3b1f38a6403400a"
       ]
     },
     "eldest_kid": "010190c31d8cb7321a08e8d70689606112f1963160dcb15abd52514a59dec17fc5ef0a",
@@ -132,20 +137,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "erasmuswill",
-          "state": 1,
-          "proof_url": "https://coinbase.com/erasmuswill/public-key",
-          "sig_id": "497454422315089bfdbaca831ca1b01c3d92ab75ec7380fd64df820fe4a9fcc60f",
-          "proof_id": "96bd9da19e17bac9faa97310",
-          "human_url": "https://coinbase.com/erasmuswill/public-key",
-          "service_url": "https://coinbase.com/erasmuswill",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -160,90 +151,18 @@
           "presentation_tag": "profile"
         }
       ],
-      "dns": [
+      "facebook": [
         {
-          "proof_type": "dns",
-          "nametag": "wilhelme.xyz",
+          "proof_type": "facebook",
+          "nametag": "erasmuswill",
           "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#fdef31cef1d7a618c34e47a78d135a17cf252ecf90c741b7eeff1449d3d8901a0f",
-          "sig_id": "fdef31cef1d7a618c34e47a78d135a17cf252ecf90c741b7eeff1449d3d8901a0f",
-          "proof_id": "0e58fa4834645eaa78a1dc10",
-          "human_url": "dns://wilhelme.xyz",
-          "service_url": "http://wilhelme.xyz",
-          "presentation_group": "wilhelme.xyz",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "themanpage.xyz",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#8315cfb4ac9f783380cc8429a9fa7ecbcec58b477dc2a31801bf10533cfd4f4b0f",
-          "sig_id": "8315cfb4ac9f783380cc8429a9fa7ecbcec58b477dc2a31801bf10533cfd4f4b0f",
-          "proof_id": "223cd29115999ecef572c910",
-          "human_url": "dns://themanpage.xyz",
-          "service_url": "http://themanpage.xyz",
-          "presentation_group": "themanpage.xyz",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "iamwilhelm.xyz",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#7790d1299d3491636f075682a6ef9b6dd1fcd45da61b77fb029617945f8f240f0f",
-          "sig_id": "7790d1299d3491636f075682a6ef9b6dd1fcd45da61b77fb029617945f8f240f0f",
-          "proof_id": "69630d24326dfaaac80aab10",
-          "human_url": "dns://iamwilhelm.xyz",
-          "service_url": "http://iamwilhelm.xyz",
-          "presentation_group": "iamwilhelm.xyz",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "wilhelmiii.xyz",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#0d777c0160916d885fa687341cdc4141ce764fa3a0dae4afbc956aa6297134b40f",
-          "sig_id": "0d777c0160916d885fa687341cdc4141ce764fa3a0dae4afbc956aa6297134b40f",
-          "proof_id": "6abf4cbd48a5997b22361510",
-          "human_url": "dns://wilhelmiii.xyz",
-          "service_url": "http://wilhelmiii.xyz",
-          "presentation_group": "wilhelmiii.xyz",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "iamwilhelmiii.xyz",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#8eb0b9e511c5ddc4fbcd6112088eb4bfba9322770d2f7a2e1c78102d05fb7a1c0f",
-          "sig_id": "8eb0b9e511c5ddc4fbcd6112088eb4bfba9322770d2f7a2e1c78102d05fb7a1c0f",
-          "proof_id": "850a74e6667f5c92278e8b10",
-          "human_url": "dns://iamwilhelmiii.xyz",
-          "service_url": "http://iamwilhelmiii.xyz",
-          "presentation_group": "iamwilhelmiii.xyz",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "erasmuswill.xyz",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#b75c20d223b5c20b66956cd60b2685fefb1240e29f77d2bfc4fd835d71b31daf0f",
-          "sig_id": "b75c20d223b5c20b66956cd60b2685fefb1240e29f77d2bfc4fd835d71b31daf0f",
-          "proof_id": "b50fb2b0440fe07d11aa7710",
-          "human_url": "dns://erasmuswill.xyz",
-          "service_url": "http://erasmuswill.xyz",
-          "presentation_group": "erasmuswill.xyz",
-          "presentation_tag": "dns"
-        },
-        {
-          "proof_type": "dns",
-          "nametag": "wilhelm.co.za",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#edf020d46e54e201b5854fd1245565482ef93c529a42f94687859373c122d0150f",
-          "sig_id": "edf020d46e54e201b5854fd1245565482ef93c529a42f94687859373c122d0150f",
-          "proof_id": "b7eaed314add90e46a40bd10",
-          "human_url": "dns://wilhelm.co.za",
-          "service_url": "http://wilhelm.co.za",
-          "presentation_group": "wilhelm.co.za",
-          "presentation_tag": "dns"
+          "proof_url": "https://www.facebook.com/erasmuswill/posts/1041550592646939",
+          "sig_id": "f9c76a074c31f1310a9cb828adf7a22dd8b6624f0e6929250e6b6fc92e77124e0f",
+          "proof_id": "0dd812dbf7e586acbe46b010",
+          "human_url": "https://www.facebook.com/erasmuswill/posts/1041550592646939",
+          "service_url": "https://www.facebook.com/erasmuswill",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ]
     },
@@ -290,20 +209,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "erasmuswill",
-          "state": 1,
-          "proof_url": "https://coinbase.com/erasmuswill/public-key",
-          "sig_id": "497454422315089bfdbaca831ca1b01c3d92ab75ec7380fd64df820fe4a9fcc60f",
-          "proof_id": "96bd9da19e17bac9faa97310",
-          "human_url": "https://coinbase.com/erasmuswill/public-key",
-          "service_url": "https://coinbase.com/erasmuswill",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -318,118 +223,22 @@
           "presentation_tag": "profile"
         }
       ],
-      "wilhelme.xyz": [
+      "facebook": [
         {
-          "proof_type": "dns",
-          "nametag": "wilhelme.xyz",
+          "proof_type": "facebook",
+          "nametag": "erasmuswill",
           "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#fdef31cef1d7a618c34e47a78d135a17cf252ecf90c741b7eeff1449d3d8901a0f",
-          "sig_id": "fdef31cef1d7a618c34e47a78d135a17cf252ecf90c741b7eeff1449d3d8901a0f",
-          "proof_id": "0e58fa4834645eaa78a1dc10",
-          "human_url": "dns://wilhelme.xyz",
-          "service_url": "http://wilhelme.xyz",
-          "presentation_group": "wilhelme.xyz",
-          "presentation_tag": "dns"
-        }
-      ],
-      "themanpage.xyz": [
-        {
-          "proof_type": "dns",
-          "nametag": "themanpage.xyz",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#8315cfb4ac9f783380cc8429a9fa7ecbcec58b477dc2a31801bf10533cfd4f4b0f",
-          "sig_id": "8315cfb4ac9f783380cc8429a9fa7ecbcec58b477dc2a31801bf10533cfd4f4b0f",
-          "proof_id": "223cd29115999ecef572c910",
-          "human_url": "dns://themanpage.xyz",
-          "service_url": "http://themanpage.xyz",
-          "presentation_group": "themanpage.xyz",
-          "presentation_tag": "dns"
-        }
-      ],
-      "iamwilhelm.xyz": [
-        {
-          "proof_type": "dns",
-          "nametag": "iamwilhelm.xyz",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#7790d1299d3491636f075682a6ef9b6dd1fcd45da61b77fb029617945f8f240f0f",
-          "sig_id": "7790d1299d3491636f075682a6ef9b6dd1fcd45da61b77fb029617945f8f240f0f",
-          "proof_id": "69630d24326dfaaac80aab10",
-          "human_url": "dns://iamwilhelm.xyz",
-          "service_url": "http://iamwilhelm.xyz",
-          "presentation_group": "iamwilhelm.xyz",
-          "presentation_tag": "dns"
-        }
-      ],
-      "wilhelmiii.xyz": [
-        {
-          "proof_type": "dns",
-          "nametag": "wilhelmiii.xyz",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#0d777c0160916d885fa687341cdc4141ce764fa3a0dae4afbc956aa6297134b40f",
-          "sig_id": "0d777c0160916d885fa687341cdc4141ce764fa3a0dae4afbc956aa6297134b40f",
-          "proof_id": "6abf4cbd48a5997b22361510",
-          "human_url": "dns://wilhelmiii.xyz",
-          "service_url": "http://wilhelmiii.xyz",
-          "presentation_group": "wilhelmiii.xyz",
-          "presentation_tag": "dns"
-        }
-      ],
-      "iamwilhelmiii.xyz": [
-        {
-          "proof_type": "dns",
-          "nametag": "iamwilhelmiii.xyz",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#8eb0b9e511c5ddc4fbcd6112088eb4bfba9322770d2f7a2e1c78102d05fb7a1c0f",
-          "sig_id": "8eb0b9e511c5ddc4fbcd6112088eb4bfba9322770d2f7a2e1c78102d05fb7a1c0f",
-          "proof_id": "850a74e6667f5c92278e8b10",
-          "human_url": "dns://iamwilhelmiii.xyz",
-          "service_url": "http://iamwilhelmiii.xyz",
-          "presentation_group": "iamwilhelmiii.xyz",
-          "presentation_tag": "dns"
-        }
-      ],
-      "erasmuswill.xyz": [
-        {
-          "proof_type": "dns",
-          "nametag": "erasmuswill.xyz",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#b75c20d223b5c20b66956cd60b2685fefb1240e29f77d2bfc4fd835d71b31daf0f",
-          "sig_id": "b75c20d223b5c20b66956cd60b2685fefb1240e29f77d2bfc4fd835d71b31daf0f",
-          "proof_id": "b50fb2b0440fe07d11aa7710",
-          "human_url": "dns://erasmuswill.xyz",
-          "service_url": "http://erasmuswill.xyz",
-          "presentation_group": "erasmuswill.xyz",
-          "presentation_tag": "dns"
-        }
-      ],
-      "wilhelm.co.za": [
-        {
-          "proof_type": "dns",
-          "nametag": "wilhelm.co.za",
-          "state": 1,
-          "proof_url": "https://keybase.io/erasmuswill/sigchain#edf020d46e54e201b5854fd1245565482ef93c529a42f94687859373c122d0150f",
-          "sig_id": "edf020d46e54e201b5854fd1245565482ef93c529a42f94687859373c122d0150f",
-          "proof_id": "b7eaed314add90e46a40bd10",
-          "human_url": "dns://wilhelm.co.za",
-          "service_url": "http://wilhelm.co.za",
-          "presentation_group": "wilhelm.co.za",
-          "presentation_tag": "dns"
+          "proof_url": "https://www.facebook.com/erasmuswill/posts/1041550592646939",
+          "sig_id": "f9c76a074c31f1310a9cb828adf7a22dd8b6624f0e6929250e6b6fc92e77124e0f",
+          "proof_id": "0dd812dbf7e586acbe46b010",
+          "human_url": "https://www.facebook.com/erasmuswill/posts/1041550592646939",
+          "service_url": "https://www.facebook.com/erasmuswill",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ]
     },
     "all": [
-      {
-        "proof_type": "dns",
-        "nametag": "themanpage.xyz",
-        "state": 1,
-        "proof_url": "https://keybase.io/erasmuswill/sigchain#8315cfb4ac9f783380cc8429a9fa7ecbcec58b477dc2a31801bf10533cfd4f4b0f",
-        "sig_id": "8315cfb4ac9f783380cc8429a9fa7ecbcec58b477dc2a31801bf10533cfd4f4b0f",
-        "proof_id": "223cd29115999ecef572c910",
-        "human_url": "dns://themanpage.xyz",
-        "service_url": "http://themanpage.xyz",
-        "presentation_group": "themanpage.xyz",
-        "presentation_tag": "dns"
-      },
       {
         "proof_type": "twitter",
         "nametag": "erasmuswill",
@@ -443,6 +252,18 @@
         "presentation_tag": "tweet"
       },
       {
+        "proof_type": "github",
+        "nametag": "wilhelmerasmus",
+        "state": 1,
+        "proof_url": "https://gist.github.com/7b036af652d47b9ef9b875ea868f32e0",
+        "sig_id": "2e023ca55123a6e67fea1e09abd2f8796a639324a078637f8c819e9288a5b2f80f",
+        "proof_id": "60bc3c77c77852b97df26b10",
+        "human_url": "https://gist.github.com/7b036af652d47b9ef9b875ea868f32e0",
+        "service_url": "https://github.com/WilhelmErasmus",
+        "presentation_group": "github",
+        "presentation_tag": "gist"
+      },
+      {
         "proof_type": "reddit",
         "nametag": "erasmuswill",
         "state": 1,
@@ -452,18 +273,6 @@
         "human_url": "https://www.reddit.com/r/KeybaseProofs/comments/3wpbg3/my_keybase_proof_redditerasmuswill/",
         "service_url": "https://reddit.com/user/erasmuswill",
         "presentation_group": "reddit",
-        "presentation_tag": "post"
-      },
-      {
-        "proof_type": "coinbase",
-        "nametag": "erasmuswill",
-        "state": 1,
-        "proof_url": "https://coinbase.com/erasmuswill/public-key",
-        "sig_id": "497454422315089bfdbaca831ca1b01c3d92ab75ec7380fd64df820fe4a9fcc60f",
-        "proof_id": "96bd9da19e17bac9faa97310",
-        "human_url": "https://coinbase.com/erasmuswill/public-key",
-        "service_url": "https://coinbase.com/erasmuswill",
-        "presentation_group": "coinbase",
         "presentation_tag": "post"
       },
       {
@@ -479,88 +288,16 @@
         "presentation_tag": "profile"
       },
       {
-        "proof_type": "dns",
-        "nametag": "wilhelme.xyz",
+        "proof_type": "facebook",
+        "nametag": "erasmuswill",
         "state": 1,
-        "proof_url": "https://keybase.io/erasmuswill/sigchain#fdef31cef1d7a618c34e47a78d135a17cf252ecf90c741b7eeff1449d3d8901a0f",
-        "sig_id": "fdef31cef1d7a618c34e47a78d135a17cf252ecf90c741b7eeff1449d3d8901a0f",
-        "proof_id": "0e58fa4834645eaa78a1dc10",
-        "human_url": "dns://wilhelme.xyz",
-        "service_url": "http://wilhelme.xyz",
-        "presentation_group": "wilhelme.xyz",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "github",
-        "nametag": "wilhelmerasmus",
-        "state": 1,
-        "proof_url": "https://gist.github.com/7b036af652d47b9ef9b875ea868f32e0",
-        "sig_id": "2e023ca55123a6e67fea1e09abd2f8796a639324a078637f8c819e9288a5b2f80f",
-        "proof_id": "60bc3c77c77852b97df26b10",
-        "human_url": "https://gist.github.com/7b036af652d47b9ef9b875ea868f32e0",
-        "service_url": "https://github.com/WilhelmErasmus",
-        "presentation_group": "github",
-        "presentation_tag": "gist"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "iamwilhelm.xyz",
-        "state": 1,
-        "proof_url": "https://keybase.io/erasmuswill/sigchain#7790d1299d3491636f075682a6ef9b6dd1fcd45da61b77fb029617945f8f240f0f",
-        "sig_id": "7790d1299d3491636f075682a6ef9b6dd1fcd45da61b77fb029617945f8f240f0f",
-        "proof_id": "69630d24326dfaaac80aab10",
-        "human_url": "dns://iamwilhelm.xyz",
-        "service_url": "http://iamwilhelm.xyz",
-        "presentation_group": "iamwilhelm.xyz",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "wilhelmiii.xyz",
-        "state": 1,
-        "proof_url": "https://keybase.io/erasmuswill/sigchain#0d777c0160916d885fa687341cdc4141ce764fa3a0dae4afbc956aa6297134b40f",
-        "sig_id": "0d777c0160916d885fa687341cdc4141ce764fa3a0dae4afbc956aa6297134b40f",
-        "proof_id": "6abf4cbd48a5997b22361510",
-        "human_url": "dns://wilhelmiii.xyz",
-        "service_url": "http://wilhelmiii.xyz",
-        "presentation_group": "wilhelmiii.xyz",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "iamwilhelmiii.xyz",
-        "state": 1,
-        "proof_url": "https://keybase.io/erasmuswill/sigchain#8eb0b9e511c5ddc4fbcd6112088eb4bfba9322770d2f7a2e1c78102d05fb7a1c0f",
-        "sig_id": "8eb0b9e511c5ddc4fbcd6112088eb4bfba9322770d2f7a2e1c78102d05fb7a1c0f",
-        "proof_id": "850a74e6667f5c92278e8b10",
-        "human_url": "dns://iamwilhelmiii.xyz",
-        "service_url": "http://iamwilhelmiii.xyz",
-        "presentation_group": "iamwilhelmiii.xyz",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "erasmuswill.xyz",
-        "state": 1,
-        "proof_url": "https://keybase.io/erasmuswill/sigchain#b75c20d223b5c20b66956cd60b2685fefb1240e29f77d2bfc4fd835d71b31daf0f",
-        "sig_id": "b75c20d223b5c20b66956cd60b2685fefb1240e29f77d2bfc4fd835d71b31daf0f",
-        "proof_id": "b50fb2b0440fe07d11aa7710",
-        "human_url": "dns://erasmuswill.xyz",
-        "service_url": "http://erasmuswill.xyz",
-        "presentation_group": "erasmuswill.xyz",
-        "presentation_tag": "dns"
-      },
-      {
-        "proof_type": "dns",
-        "nametag": "wilhelm.co.za",
-        "state": 1,
-        "proof_url": "https://keybase.io/erasmuswill/sigchain#edf020d46e54e201b5854fd1245565482ef93c529a42f94687859373c122d0150f",
-        "sig_id": "edf020d46e54e201b5854fd1245565482ef93c529a42f94687859373c122d0150f",
-        "proof_id": "b7eaed314add90e46a40bd10",
-        "human_url": "dns://wilhelm.co.za",
-        "service_url": "http://wilhelm.co.za",
-        "presentation_group": "wilhelm.co.za",
-        "presentation_tag": "dns"
+        "proof_url": "https://www.facebook.com/erasmuswill/posts/1041550592646939",
+        "sig_id": "f9c76a074c31f1310a9cb828adf7a22dd8b6624f0e6929250e6b6fc92e77124e0f",
+        "proof_id": "0dd812dbf7e586acbe46b010",
+        "human_url": "https://www.facebook.com/erasmuswill/posts/1041550592646939",
+        "service_url": "https://www.facebook.com/erasmuswill",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       }
     ]
   },
@@ -582,9 +319,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "8409984d66786ca201e3a82a557cd0a7fb838e6378bdca22ce74a84d0100c20d0f",
-      "seqno": 62,
-      "payload_hash": "4cf9367a0504fafb627d389a70bc9e9da49b81c5116e81c6deb1ed5899ee0da8"
+      "sig_id": "3cf360a3b222dcba9a774105bd813b4a16d928323db00bc1b84c1dc331240dd40f",
+      "seqno": 76,
+      "payload_hash": "e1f95c371dce9b5c08e3fc0755813410671223951ed3ea68ae11f5ab0bc3f9fa"
     }
   },
   "devices": {
@@ -607,22 +344,22 @@
         }
       ]
     },
-    "e10823f4d49724287b00825c3879b918": {
+    "e71c72c28fc7a45a4f47dbf5b9d63018": {
       "type": "desktop",
-      "ctime": 1464302295,
-      "mtime": 1464302295,
-      "name": "burtronix",
+      "ctime": 1495488242,
+      "mtime": 1495488242,
+      "name": "burtronix-laptop2",
       "status": 1,
       "keys": [
         {
-          "kid": "0120112ff5b344ae9bf8c91bf40f9393f72360006181abc5386919f023f043f3f47f0a",
+          "kid": "0120fd38e22be4a63c2324faf8c32aaad10591564c2df0b68af7d14c1f7bfd9afd540a",
           "key_role": 1,
-          "sig_id": "30c0ba7dad3d4c3dd068dcfc8aa2cfd194871c661e69acfb0f069477ac53c1250f"
+          "sig_id": "8e12295f23253426612420e81b95b84151aa2a3c7fc770df8d2cbaed997125a20f"
         },
         {
-          "kid": "0121d5313166d8a8e26d01f1dd35f97050ca11368e71b29fb4fd986a13611618eb260a",
+          "kid": "0121edcbdee2a9047025901e039fa006a2d98849a2251d90bafa05c3b1f38a6403400a",
           "key_role": 2,
-          "sig_id": "34742a74aede1bc04f53eb3edc9c167b81baf52d2bc57d55c9dc5c373560a6db0f"
+          "sig_id": "ef132931beaffeb26a925c4afc8d16f4aa4cfb1a0cf05793e1b714670c38ef140f"
         }
       ]
     }
