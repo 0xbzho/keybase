@@ -2,15 +2,16 @@
   "id": "396a65ea60d2388371470bf059178d00",
   "basics": {
     "username": "bpugh",
-    "ctime": 1396671549,
-    "mtime": 1396671549,
-    "id_version": 82,
-    "track_version": 8,
-    "last_id_change": 1468992184,
-    "username_cased": "bpugh"
+    "ctime": 1396675149,
+    "mtime": 1396675149,
+    "id_version": 89,
+    "track_version": 14,
+    "last_id_change": 1494812679,
+    "username_cased": "bpugh",
+    "status": 0
   },
   "profile": {
-    "mtime": 1396894076,
+    "mtime": 1396897676,
     "full_name": "Brian Pugh",
     "location": "Bay Area, CA",
     "bio": "-----BEGIN GEEK CODE BLOCK-----\nVersion: 3.20 : http://www.fecj.org/extra/GC320_decode.php\nGCS d- s+:+ a- C++ L+ M++ W++ H Z+ F+ PS+ PE Y+ PGP++ T++ S J+++ m+ tv- b+ D+ h- r++\n------END GEEK CODE BLOCK------"
@@ -110,21 +111,19 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "bpugh",
-          "state": 1,
-          "proof_url": "https://coinbase.com/bpugh/public-key",
-          "sig_id": "569c21c658958f0298f2e54256c6e1a5e9fcff81e3281995f251a39d7f8fc4660f",
-          "proof_id": "dd1b18b55e663dcb06839810",
-          "human_url": "https://coinbase.com/bpugh/public-key",
-          "service_url": "https://coinbase.com/bpugh",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "idolprocess.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/bpugh/sigchain#38c571c69fb3fbb887201793d88cc0e3b621f5da61c498267cf6450e01a97c380f",
+          "sig_id": "38c571c69fb3fbb887201793d88cc0e3b621f5da61c498267cf6450e01a97c380f",
+          "proof_id": "65e9898193efbc1d0960c910",
+          "human_url": "dns://idolprocess.com",
+          "service_url": "http://idolprocess.com",
+          "presentation_group": "idolprocess.com",
+          "presentation_tag": "dns"
+        },
         {
           "proof_type": "dns",
           "nametag": "idolprocess.org",
@@ -168,18 +167,18 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
+      "idolprocess.com": [
         {
-          "proof_type": "coinbase",
-          "nametag": "bpugh",
+          "proof_type": "dns",
+          "nametag": "idolprocess.com",
           "state": 1,
-          "proof_url": "https://coinbase.com/bpugh/public-key",
-          "sig_id": "569c21c658958f0298f2e54256c6e1a5e9fcff81e3281995f251a39d7f8fc4660f",
-          "proof_id": "dd1b18b55e663dcb06839810",
-          "human_url": "https://coinbase.com/bpugh/public-key",
-          "service_url": "https://coinbase.com/bpugh",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
+          "proof_url": "https://keybase.io/bpugh/sigchain#38c571c69fb3fbb887201793d88cc0e3b621f5da61c498267cf6450e01a97c380f",
+          "sig_id": "38c571c69fb3fbb887201793d88cc0e3b621f5da61c498267cf6450e01a97c380f",
+          "proof_id": "65e9898193efbc1d0960c910",
+          "human_url": "dns://idolprocess.com",
+          "service_url": "http://idolprocess.com",
+          "presentation_group": "idolprocess.com",
+          "presentation_tag": "dns"
         }
       ],
       "idolprocess.org": [
@@ -223,16 +222,16 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "bpugh",
+        "proof_type": "dns",
+        "nametag": "idolprocess.com",
         "state": 1,
-        "proof_url": "https://coinbase.com/bpugh/public-key",
-        "sig_id": "569c21c658958f0298f2e54256c6e1a5e9fcff81e3281995f251a39d7f8fc4660f",
-        "proof_id": "dd1b18b55e663dcb06839810",
-        "human_url": "https://coinbase.com/bpugh/public-key",
-        "service_url": "https://coinbase.com/bpugh",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
+        "proof_url": "https://keybase.io/bpugh/sigchain#38c571c69fb3fbb887201793d88cc0e3b621f5da61c498267cf6450e01a97c380f",
+        "sig_id": "38c571c69fb3fbb887201793d88cc0e3b621f5da61c498267cf6450e01a97c380f",
+        "proof_id": "65e9898193efbc1d0960c910",
+        "human_url": "dns://idolprocess.com",
+        "service_url": "http://idolprocess.com",
+        "presentation_group": "idolprocess.com",
+        "presentation_tag": "dns"
       },
       {
         "proof_type": "dns",
@@ -251,7 +250,7 @@
   "cryptocurrency_addresses": {},
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/f92cc0a531e56e74ef83609fce791005_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/e9e65474cbc6189377e03b6a698fb605_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -259,9 +258,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "8b9a519b17d4ec047182678a7f1634fa45b8c6d547edfa040123de31ca1ab4480f",
-      "seqno": 43,
-      "payload_hash": "e95df1e2e02eecb8797a8b2aa21f537902ad81830665b47d059d766e3fe8b8de"
+      "sig_id": "38c571c69fb3fbb887201793d88cc0e3b621f5da61c498267cf6450e01a97c380f",
+      "seqno": 50,
+      "payload_hash": "48d470247848db688ca81e556d3187af2d93a1f2099d61e6670757c5dd83185f"
     }
   },
   "devices": {
