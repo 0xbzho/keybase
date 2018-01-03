@@ -1,0 +1,93 @@
+{
+  "id": "160b08ff2d952d2b82a498a688930819",
+  "basics": {
+    "username": "winbot",
+    "ctime": 1464909438,
+    "mtime": 1464909438,
+    "id_version": 2,
+    "track_version": 0,
+    "last_id_change": 1464909441,
+    "username_cased": "winbot",
+    "status": 0
+  },
+  "public_keys": {
+    "all_bundles": [
+      "0120deaa8ae7d06ea9aa49cc678ec49f2b1e1dddb63683e384db539a8649c47925f90a",
+      "01213fab8bd234c902f431b1c1bd0c8e7d1b2290c784d359fd555ec360b1a81025060a",
+      "0121e14201ea137c35cc76b4b322d307bab9310d42d5f53212bbaa47fb364b2c0f150a",
+      "01202180092a8aafd015bf6e5af98685a8fe48d65072f0762e0b58394318407667460a"
+    ],
+    "subkeys": [
+      "01213fab8bd234c902f431b1c1bd0c8e7d1b2290c784d359fd555ec360b1a81025060a",
+      "0121e14201ea137c35cc76b4b322d307bab9310d42d5f53212bbaa47fb364b2c0f150a"
+    ],
+    "sibkeys": [
+      "0120deaa8ae7d06ea9aa49cc678ec49f2b1e1dddb63683e384db539a8649c47925f90a",
+      "01202180092a8aafd015bf6e5af98685a8fe48d65072f0762e0b58394318407667460a"
+    ],
+    "families": {
+      "0120deaa8ae7d06ea9aa49cc678ec49f2b1e1dddb63683e384db539a8649c47925f90a": [
+        "0120deaa8ae7d06ea9aa49cc678ec49f2b1e1dddb63683e384db539a8649c47925f90a",
+        "01213fab8bd234c902f431b1c1bd0c8e7d1b2290c784d359fd555ec360b1a81025060a",
+        "0121e14201ea137c35cc76b4b322d307bab9310d42d5f53212bbaa47fb364b2c0f150a",
+        "01202180092a8aafd015bf6e5af98685a8fe48d65072f0762e0b58394318407667460a"
+      ]
+    },
+    "eldest_kid": "0120deaa8ae7d06ea9aa49cc678ec49f2b1e1dddb63683e384db539a8649c47925f90a",
+    "eldest_key_fingerprint": "",
+    "pgp_public_keys": []
+  },
+  "proofs_summary": {
+    "by_proof_type": {},
+    "by_presentation_group": {},
+    "all": []
+  },
+  "cryptocurrency_addresses": {},
+  "sigs": {
+    "last": {
+      "sig_id": "b0902505c1f4a2e7ad98d70ad6715848443d7aa6736ec2a2a9d5d6db74bdb0030f",
+      "seqno": 5,
+      "payload_hash": "944e0d1bdfc595e09ed4f515d4c21e51fef308580bb4152d02a7ba9b68ed2316"
+    }
+  },
+  "devices": {
+    "00b5ddbe91267c54412433e59062cb18": {
+      "type": "desktop",
+      "ctime": 1464909439,
+      "mtime": 1464909439,
+      "name": "Build",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120deaa8ae7d06ea9aa49cc678ec49f2b1e1dddb63683e384db539a8649c47925f90a",
+          "key_role": 1,
+          "sig_id": "a04cd9fc61afabd5e22f9552afb39be1cb991f16a6a82f0dbdd207cc846e63040f"
+        },
+        {
+          "kid": "01213fab8bd234c902f431b1c1bd0c8e7d1b2290c784d359fd555ec360b1a81025060a",
+          "key_role": 2,
+          "sig_id": "515737ae9ae4d893064e6691f4d79d80ea0d4cd542f42c3f832f8e7baa4b5b1f0f"
+        }
+      ]
+    },
+    "e63dc0aa2383d2aaa787f3519ab1af18": {
+      "type": "backup",
+      "ctime": 1464909441,
+      "mtime": 1464909441,
+      "name": "current sister",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01202180092a8aafd015bf6e5af98685a8fe48d65072f0762e0b58394318407667460a",
+          "key_role": 1,
+          "sig_id": "1c6f697b1912ef4bc77c7b2e056dcc8b9ed6689df3f75642b3dcf8b1ef968c5b0f"
+        },
+        {
+          "kid": "0121e14201ea137c35cc76b4b322d307bab9310d42d5f53212bbaa47fb364b2c0f150a",
+          "key_role": 2,
+          "sig_id": "152fbf51372bd9f48b34262eb5f2f653243d1ed16299699d8547997308a58c3a0f"
+        }
+      ]
+    }
+  }
+}
