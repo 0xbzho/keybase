@@ -4,16 +4,17 @@
     "username": "heliostatic",
     "ctime": 1394123118,
     "mtime": 1394123118,
-    "id_version": 35,
-    "track_version": 19,
-    "last_id_change": 1476865586,
-    "username_cased": "heliostatic"
+    "id_version": 51,
+    "track_version": 35,
+    "last_id_change": 1511106207,
+    "username_cased": "heliostatic",
+    "status": 0
   },
   "profile": {
-    "mtime": 1454343959,
+    "mtime": 1511106237,
     "full_name": "Ben Cohen",
     "location": "Williamstown, MA",
-    "bio": "Software developer, user researcher, start up advisor, occasional teacher"
+    "bio": "Professionally Curious"
   },
   "public_keys": {
     "primary": {
@@ -40,18 +41,26 @@
       "0121014fe70ea94520d5c9451510b8ad6335efb80d4ffa9aab763ccca9e08c3e730c0a",
       "01208c944a8ec748605a8e51dbf8ea3d2ac21d94a2c6f5d1341c9fbc0e3c3ceff7f50a",
       "01214a308e1585eabfd33cad5a303948c7297f6d19ecd12e6ca4463c5b1cfd8f8c3f0a",
-      "01201b4c91e8ed3963e3f0eb2cbf621d8e7aebec57264316b21a4c38a33ee290361f0a"
+      "01201b4c91e8ed3963e3f0eb2cbf621d8e7aebec57264316b21a4c38a33ee290361f0a",
+      "0121dd819e81c8238c943cc600d70e7f82139a289f14556c44ddf1cbeb859355193f0a",
+      "0120d40699913794825e84932be4ffed2089150d1cbe1ad4e1fad1d57b858a4814f30a",
+      "012171ed413fba247bc6331839a93b9d231dca3e399d83126ceae4b17af41820ab140a",
+      "0120162035fe7a150816a66e6b9cfcba763a3f23d2d45d58261b5e51f37a8a6817080a"
     ],
     "subkeys": [
       "0121ce249ed933c820db9ec590ce2cc30714ceffa908b3e6abd0ae416b2b2737ff360a",
       "0121014fe70ea94520d5c9451510b8ad6335efb80d4ffa9aab763ccca9e08c3e730c0a",
-      "01214a308e1585eabfd33cad5a303948c7297f6d19ecd12e6ca4463c5b1cfd8f8c3f0a"
+      "01214a308e1585eabfd33cad5a303948c7297f6d19ecd12e6ca4463c5b1cfd8f8c3f0a",
+      "0121dd819e81c8238c943cc600d70e7f82139a289f14556c44ddf1cbeb859355193f0a",
+      "012171ed413fba247bc6331839a93b9d231dca3e399d83126ceae4b17af41820ab140a"
     ],
     "sibkeys": [
       "0101e3385f2f3533d3bce9d48f1d6155609a66ca9f7daea6aa605195037d4f8ea27b0a",
       "01205b1c5f9b273cb25aa803e28c7ef8f3e9de15e0cc8b8b102958754ec5850b9f450a",
       "01208c944a8ec748605a8e51dbf8ea3d2ac21d94a2c6f5d1341c9fbc0e3c3ceff7f50a",
-      "01201b4c91e8ed3963e3f0eb2cbf621d8e7aebec57264316b21a4c38a33ee290361f0a"
+      "01201b4c91e8ed3963e3f0eb2cbf621d8e7aebec57264316b21a4c38a33ee290361f0a",
+      "0120d40699913794825e84932be4ffed2089150d1cbe1ad4e1fad1d57b858a4814f30a",
+      "0120162035fe7a150816a66e6b9cfcba763a3f23d2d45d58261b5e51f37a8a6817080a"
     ],
     "families": {
       "0101e3385f2f3533d3bce9d48f1d6155609a66ca9f7daea6aa605195037d4f8ea27b0a": [
@@ -61,7 +70,11 @@
         "0121014fe70ea94520d5c9451510b8ad6335efb80d4ffa9aab763ccca9e08c3e730c0a",
         "01208c944a8ec748605a8e51dbf8ea3d2ac21d94a2c6f5d1341c9fbc0e3c3ceff7f50a",
         "01214a308e1585eabfd33cad5a303948c7297f6d19ecd12e6ca4463c5b1cfd8f8c3f0a",
-        "01201b4c91e8ed3963e3f0eb2cbf621d8e7aebec57264316b21a4c38a33ee290361f0a"
+        "01201b4c91e8ed3963e3f0eb2cbf621d8e7aebec57264316b21a4c38a33ee290361f0a",
+        "0121dd819e81c8238c943cc600d70e7f82139a289f14556c44ddf1cbeb859355193f0a",
+        "0120d40699913794825e84932be4ffed2089150d1cbe1ad4e1fad1d57b858a4814f30a",
+        "012171ed413fba247bc6331839a93b9d231dca3e399d83126ceae4b17af41820ab140a",
+        "0120162035fe7a150816a66e6b9cfcba763a3f23d2d45d58261b5e51f37a8a6817080a"
       ]
     },
     "eldest_kid": "0101e3385f2f3533d3bce9d48f1d6155609a66ca9f7daea6aa605195037d4f8ea27b0a",
@@ -114,20 +127,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "heliostatic",
-          "state": 1,
-          "proof_url": "https://coinbase.com/heliostatic/public-key",
-          "sig_id": "1fbf0718d3430feba444844b5720c21f191c51c2e9b8cb02ec8cd82d46fdf4ee0f",
-          "proof_id": "ab91676e81d4a48558a34410",
-          "human_url": "https://coinbase.com/heliostatic/public-key",
-          "service_url": "https://coinbase.com/heliostatic",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -140,6 +139,20 @@
           "service_url": "https://news.ycombinator.com/user?id=heliostatic",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "heliostatic",
+          "state": 1,
+          "proof_url": "https://facebook.com/10100106998366250_10100106998381220",
+          "sig_id": "f071831d9fdb454cd555fde216d7dfb0d4a3d4328043e5f9056649b139c857bc0f",
+          "proof_id": "0bc86301bded237162435c10",
+          "human_url": "https://facebook.com/10100106998366250_10100106998381220",
+          "service_url": "https://www.facebook.com/heliostatic",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "dns": [
@@ -200,20 +213,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "heliostatic",
-          "state": 1,
-          "proof_url": "https://coinbase.com/heliostatic/public-key",
-          "sig_id": "1fbf0718d3430feba444844b5720c21f191c51c2e9b8cb02ec8cd82d46fdf4ee0f",
-          "proof_id": "ab91676e81d4a48558a34410",
-          "human_url": "https://coinbase.com/heliostatic/public-key",
-          "service_url": "https://coinbase.com/heliostatic",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -226,6 +225,20 @@
           "service_url": "https://news.ycombinator.com/user?id=heliostatic",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "heliostatic",
+          "state": 1,
+          "proof_url": "https://facebook.com/10100106998366250_10100106998381220",
+          "sig_id": "f071831d9fdb454cd555fde216d7dfb0d4a3d4328043e5f9056649b139c857bc0f",
+          "proof_id": "0bc86301bded237162435c10",
+          "human_url": "https://facebook.com/10100106998366250_10100106998381220",
+          "service_url": "https://www.facebook.com/heliostatic",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "bencohen.net": [
@@ -281,18 +294,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "heliostatic",
-        "state": 1,
-        "proof_url": "https://coinbase.com/heliostatic/public-key",
-        "sig_id": "1fbf0718d3430feba444844b5720c21f191c51c2e9b8cb02ec8cd82d46fdf4ee0f",
-        "proof_id": "ab91676e81d4a48558a34410",
-        "human_url": "https://coinbase.com/heliostatic/public-key",
-        "service_url": "https://coinbase.com/heliostatic",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "heliostatic",
         "state": 1,
@@ -303,6 +304,18 @@
         "service_url": "https://news.ycombinator.com/user?id=heliostatic",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "heliostatic",
+        "state": 1,
+        "proof_url": "https://facebook.com/10100106998366250_10100106998381220",
+        "sig_id": "f071831d9fdb454cd555fde216d7dfb0d4a3d4328043e5f9056649b139c857bc0f",
+        "proof_id": "0bc86301bded237162435c10",
+        "human_url": "https://facebook.com/10100106998366250_10100106998381220",
+        "service_url": "https://www.facebook.com/heliostatic",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -318,10 +331,17 @@
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1LAYpecwzYZGA9JK544ze3xznrkHEPFJz4",
+        "sig_id": "b6e5637eeb68c289123b2c233043aae298bf09690f591ddb4554bae8bf69fe550f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/0c7432e2fe7b7cc50cd4f366ca7cfe05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/7b3f155aea33e41d301c200a0c921c05_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -329,16 +349,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "ea357ddd4c8ceda834c73e0d09f26d962f9380248daa5fd179c1a161959e68ab0f",
-      "seqno": 32,
-      "payload_hash": "5368fb39bf805c71a8344233e4b1ae2919b2a7a104777827d555538ecc74336c"
+      "sig_id": "52dd6f75f1791f0941517a90f74e81113b35866d9d39fbcfff172b5a7f616e1e0f",
+      "seqno": 55,
+      "payload_hash": "cc27fedd23cd1bb233c286e92a0961b1c42bd100c3e6de0cf30c295c7e1417f1"
     }
   },
   "devices": {
     "1250815f51ed51d582afc74ea5661b18": {
       "type": "desktop",
-      "ctime": 1471880745,
-      "mtime": 1471880745,
+      "ctime": 1471884345,
+      "mtime": 1471884345,
       "name": "work",
       "status": 1,
       "keys": [
@@ -351,6 +371,25 @@
           "kid": "01214a308e1585eabfd33cad5a303948c7297f6d19ecd12e6ca4463c5b1cfd8f8c3f0a",
           "key_role": 2,
           "sig_id": "5cf64b80b58abc416f6b9abfd600dc6af6d613842f3cc909292d13c2284936dd0f"
+        }
+      ]
+    },
+    "3559608bde7a9e045327c1418006eb18": {
+      "type": "desktop",
+      "ctime": 1482513562,
+      "mtime": 1482513562,
+      "name": "ego2id",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120d40699913794825e84932be4ffed2089150d1cbe1ad4e1fad1d57b858a4814f30a",
+          "key_role": 1,
+          "sig_id": "7d458d67f301f1d5951bb07ddc4f2074e7f2e77c251cea83ae63b75a279c3ef90f"
+        },
+        {
+          "kid": "0121dd819e81c8238c943cc600d70e7f82139a289f14556c44ddf1cbeb859355193f0a",
+          "key_role": 2,
+          "sig_id": "7d47a35d1d23f6f4fdcced9185f39c6c7e6ad497baef7bb41d5586ee5aa7d7b70f"
         }
       ]
     },
@@ -389,6 +428,25 @@
           "kid": "0121ce249ed933c820db9ec590ce2cc30714ceffa908b3e6abd0ae416b2b2737ff360a",
           "key_role": 2,
           "sig_id": "1959f855c55b7fbab74a2e58b9c2ba7dfa6a57f493c60a33aca4a9991be0812c0f"
+        }
+      ]
+    },
+    "7c756009e4b1b9607ef7bc357f661118": {
+      "type": "mobile",
+      "ctime": 1511106207,
+      "mtime": 1511106207,
+      "name": "ben phone",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120162035fe7a150816a66e6b9cfcba763a3f23d2d45d58261b5e51f37a8a6817080a",
+          "key_role": 1,
+          "sig_id": "656450a1103f1d871157636513e400bfdef7fc00e5bc355c907f4f041e3020b20f"
+        },
+        {
+          "kid": "012171ed413fba247bc6331839a93b9d231dca3e399d83126ceae4b17af41820ab140a",
+          "key_role": 2,
+          "sig_id": "b7c72612ab7a7df5185a255083c02669d08cdb73d715c9a794f5478fdcd53d400f"
         }
       ]
     }
