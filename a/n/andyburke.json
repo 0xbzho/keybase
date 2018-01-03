@@ -4,10 +4,17 @@
     "username": "andyburke",
     "ctime": 1454715669,
     "mtime": 1454715669,
-    "id_version": 18,
-    "track_version": 0,
-    "last_id_change": 1471392239,
-    "username_cased": "andyburke"
+    "id_version": 47,
+    "track_version": 10,
+    "last_id_change": 1506376205,
+    "username_cased": "andyburke",
+    "status": 0
+  },
+  "profile": {
+    "mtime": 1504225506,
+    "full_name": "Andy Burke",
+    "location": "Los Angeles, CA",
+    "bio": "Dad, husband, full-stack engineer and currently CTO @ Float. I'm also a science/tech junky, musician, motorcyclist and a novice woodworker."
   },
   "public_keys": {
     "primary": {
@@ -32,16 +39,20 @@
       "01201aa4e6e40f3a918aa0c0dc345acc93e1fdfd55fe350d781fea9a38f1884bf5710a",
       "01216d819eab702ec652848916855f78f6c2d1c83595f021bc8ef84578213c114c420a",
       "0120f6ca1747ba24f6647bb936f8dd42d8d2c25441958e7aa49cb8b8c5800dc16fdc0a",
-      "0121788dd18ff674a8878c34cd0b4cf1201868f8058dcd52263db6159cc6f1cc2a700a"
+      "0121788dd18ff674a8878c34cd0b4cf1201868f8058dcd52263db6159cc6f1cc2a700a",
+      "0121fd1d4ee568c28685b0d0481edd9a2fe1d4658366264d76ef08db4170d2dd2b580a",
+      "0120fa2fcf644ecbff9bb51e3aa8444eb701272576ad36e255e5b9f067446da4b87d0a"
     ],
     "subkeys": [
       "01216d819eab702ec652848916855f78f6c2d1c83595f021bc8ef84578213c114c420a",
-      "0121788dd18ff674a8878c34cd0b4cf1201868f8058dcd52263db6159cc6f1cc2a700a"
+      "0121788dd18ff674a8878c34cd0b4cf1201868f8058dcd52263db6159cc6f1cc2a700a",
+      "0121fd1d4ee568c28685b0d0481edd9a2fe1d4658366264d76ef08db4170d2dd2b580a"
     ],
     "sibkeys": [
       "01111f908b68fd52f6d81af83af46302f9efd7d74b873ddf51890c018e890e7c96310a",
       "01201aa4e6e40f3a918aa0c0dc345acc93e1fdfd55fe350d781fea9a38f1884bf5710a",
-      "0120f6ca1747ba24f6647bb936f8dd42d8d2c25441958e7aa49cb8b8c5800dc16fdc0a"
+      "0120f6ca1747ba24f6647bb936f8dd42d8d2c25441958e7aa49cb8b8c5800dc16fdc0a",
+      "0120fa2fcf644ecbff9bb51e3aa8444eb701272576ad36e255e5b9f067446da4b87d0a"
     ],
     "families": {
       "01111f908b68fd52f6d81af83af46302f9efd7d74b873ddf51890c018e890e7c96310a": [
@@ -49,7 +60,9 @@
         "01201aa4e6e40f3a918aa0c0dc345acc93e1fdfd55fe350d781fea9a38f1884bf5710a",
         "01216d819eab702ec652848916855f78f6c2d1c83595f021bc8ef84578213c114c420a",
         "0120f6ca1747ba24f6647bb936f8dd42d8d2c25441958e7aa49cb8b8c5800dc16fdc0a",
-        "0121788dd18ff674a8878c34cd0b4cf1201868f8058dcd52263db6159cc6f1cc2a700a"
+        "0121788dd18ff674a8878c34cd0b4cf1201868f8058dcd52263db6159cc6f1cc2a700a",
+        "0121fd1d4ee568c28685b0d0481edd9a2fe1d4658366264d76ef08db4170d2dd2b580a",
+        "0120fa2fcf644ecbff9bb51e3aa8444eb701272576ad36e255e5b9f067446da4b87d0a"
       ]
     },
     "eldest_kid": "01111f908b68fd52f6d81af83af46302f9efd7d74b873ddf51890c018e890e7c96310a",
@@ -115,6 +128,46 @@
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
         }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "andybrk",
+          "state": 1,
+          "proof_url": "https://facebook.com/10154841806246015_10154841806761015",
+          "sig_id": "fb83be550533ace74ef2633db19abaf62c5fd9fc00d476af0831809bcc7e78dc0f",
+          "proof_id": "42bc1851416565cad59a3710",
+          "human_url": "https://facebook.com/10154841806246015_10154841806761015",
+          "service_url": "https://www.facebook.com/andybrk",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
+        }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "mailbox.earth",
+          "state": 1,
+          "proof_url": "https://keybase.io/andyburke/sigchain#5b9a1ece3ba980b952177a2142367681b4b93ca7e60b0aeabdae6411259b5b640f",
+          "sig_id": "5b9a1ece3ba980b952177a2142367681b4b93ca7e60b0aeabdae6411259b5b640f",
+          "proof_id": "31c7e0eb38547da6dd65e910",
+          "human_url": "dns://mailbox.earth",
+          "service_url": "http://mailbox.earth",
+          "presentation_group": "mailbox.earth",
+          "presentation_tag": "dns"
+        },
+        {
+          "proof_type": "dns",
+          "nametag": "bitflood.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/andyburke/sigchain#d9b4ab6f30dd683304c1a10fa34e056ecbf948e7a50a6666b77e2bed069354e80f",
+          "sig_id": "d9b4ab6f30dd683304c1a10fa34e056ecbf948e7a50a6666b77e2bed069354e80f",
+          "proof_id": "ea4922d3f94885ca3b4ee510",
+          "human_url": "dns://bitflood.org",
+          "service_url": "http://bitflood.org",
+          "presentation_group": "bitflood.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -173,6 +226,48 @@
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
         }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "andybrk",
+          "state": 1,
+          "proof_url": "https://facebook.com/10154841806246015_10154841806761015",
+          "sig_id": "fb83be550533ace74ef2633db19abaf62c5fd9fc00d476af0831809bcc7e78dc0f",
+          "proof_id": "42bc1851416565cad59a3710",
+          "human_url": "https://facebook.com/10154841806246015_10154841806761015",
+          "service_url": "https://www.facebook.com/andybrk",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
+        }
+      ],
+      "mailbox.earth": [
+        {
+          "proof_type": "dns",
+          "nametag": "mailbox.earth",
+          "state": 1,
+          "proof_url": "https://keybase.io/andyburke/sigchain#5b9a1ece3ba980b952177a2142367681b4b93ca7e60b0aeabdae6411259b5b640f",
+          "sig_id": "5b9a1ece3ba980b952177a2142367681b4b93ca7e60b0aeabdae6411259b5b640f",
+          "proof_id": "31c7e0eb38547da6dd65e910",
+          "human_url": "dns://mailbox.earth",
+          "service_url": "http://mailbox.earth",
+          "presentation_group": "mailbox.earth",
+          "presentation_tag": "dns"
+        }
+      ],
+      "bitflood.org": [
+        {
+          "proof_type": "dns",
+          "nametag": "bitflood.org",
+          "state": 1,
+          "proof_url": "https://keybase.io/andyburke/sigchain#d9b4ab6f30dd683304c1a10fa34e056ecbf948e7a50a6666b77e2bed069354e80f",
+          "sig_id": "d9b4ab6f30dd683304c1a10fa34e056ecbf948e7a50a6666b77e2bed069354e80f",
+          "proof_id": "ea4922d3f94885ca3b4ee510",
+          "human_url": "dns://bitflood.org",
+          "service_url": "http://bitflood.org",
+          "presentation_group": "bitflood.org",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -223,13 +318,56 @@
         "service_url": "https://news.ycombinator.com/user?id=andyburke",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "andybrk",
+        "state": 1,
+        "proof_url": "https://facebook.com/10154841806246015_10154841806761015",
+        "sig_id": "fb83be550533ace74ef2633db19abaf62c5fd9fc00d476af0831809bcc7e78dc0f",
+        "proof_id": "42bc1851416565cad59a3710",
+        "human_url": "https://facebook.com/10154841806246015_10154841806761015",
+        "service_url": "https://www.facebook.com/andybrk",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "mailbox.earth",
+        "state": 1,
+        "proof_url": "https://keybase.io/andyburke/sigchain#5b9a1ece3ba980b952177a2142367681b4b93ca7e60b0aeabdae6411259b5b640f",
+        "sig_id": "5b9a1ece3ba980b952177a2142367681b4b93ca7e60b0aeabdae6411259b5b640f",
+        "proof_id": "31c7e0eb38547da6dd65e910",
+        "human_url": "dns://mailbox.earth",
+        "service_url": "http://mailbox.earth",
+        "presentation_group": "mailbox.earth",
+        "presentation_tag": "dns"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "bitflood.org",
+        "state": 1,
+        "proof_url": "https://keybase.io/andyburke/sigchain#d9b4ab6f30dd683304c1a10fa34e056ecbf948e7a50a6666b77e2bed069354e80f",
+        "sig_id": "d9b4ab6f30dd683304c1a10fa34e056ecbf948e7a50a6666b77e2bed069354e80f",
+        "proof_id": "ea4922d3f94885ca3b4ee510",
+        "human_url": "dns://bitflood.org",
+        "service_url": "http://bitflood.org",
+        "presentation_group": "bitflood.org",
+        "presentation_tag": "dns"
       }
     ]
   },
-  "cryptocurrency_addresses": {},
+  "cryptocurrency_addresses": {
+    "bitcoin": [
+      {
+        "address": "1HA175fSWFeGgCTH2muMVPmVZ8vspR1yYD",
+        "sig_id": "accb224a562d3d5989c9ee014804609950cf3c8103ac0e9ca32c10c4bbc75b360f"
+      }
+    ]
+  },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/1f71289846d4eba17d14fd938c2dc705_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/2f3ac2d8c85c2e2ec6bb33ff58de1705_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -237,16 +375,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "ec624949658d07003d8f61b908afa44b135216913de9a57d9aeb1d1ba951f5cd0f",
-      "seqno": 9,
-      "payload_hash": "5608419a5b759a2938cee23c1b3b4e07f84c7be7ab82ccb12e06fc3d3e091fc1"
+      "sig_id": "5b9a1ece3ba980b952177a2142367681b4b93ca7e60b0aeabdae6411259b5b640f",
+      "seqno": 27,
+      "payload_hash": "6327cc3df5b5d8aa79bb202452e88750beb6a16f1a632e3173f2b9090decbff2"
     }
   },
   "devices": {
+    "154f609c29fcaea69d98e776ab442318": {
+      "type": "desktop",
+      "ctime": 1496187335,
+      "mtime": 1496187335,
+      "name": "edge",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120fa2fcf644ecbff9bb51e3aa8444eb701272576ad36e255e5b9f067446da4b87d0a",
+          "key_role": 1,
+          "sig_id": "11ef41b3c18852d9c06e5618402485f59c5fd509b8700e3249165e75dfacc1440f"
+        },
+        {
+          "kid": "0121fd1d4ee568c28685b0d0481edd9a2fe1d4658366264d76ef08db4170d2dd2b580a",
+          "key_role": 2,
+          "sig_id": "ef409b3bfb3dcd6f6ce67a2f3ccc0b7096200505b0e2fa8400a63a98c73fabc60f"
+        }
+      ]
+    },
     "24b1ce6962c7d5feeea956ec3d36cd18": {
       "type": "backup",
-      "ctime": 1471392239,
-      "mtime": 1471392239,
+      "ctime": 1471395839,
+      "mtime": 1471395839,
       "name": "scissors machine",
       "status": 1,
       "keys": [
@@ -264,8 +421,8 @@
     },
     "39100dfaa4490fe76932a482441b9b18": {
       "type": "desktop",
-      "ctime": 1471392238,
-      "mtime": 1471392238,
+      "ctime": 1471395838,
+      "mtime": 1471395838,
       "name": "slice",
       "status": 1,
       "keys": [
