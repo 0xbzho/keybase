@@ -4,9 +4,9 @@
     "username": "nielsd",
     "ctime": 1406209242,
     "mtime": 1406209242,
-    "id_version": 56,
+    "id_version": 57,
     "track_version": 12,
-    "last_id_change": 1499757629,
+    "last_id_change": 1514953164,
     "username_cased": "nielsd",
     "status": 0
   },
@@ -44,18 +44,20 @@
       "01203b4d6d7638eafda2baf365dd87d6853c13a86bce0d4ffb9c2d55a23c94e6eace0a",
       "01211cc43208399f815544cdf262855a66d0e51bf68cf711d2c782ed5280f2bc47050a",
       "012105076e238ba848ddf653cf05f00aedd31ba9a6ad593d577f0ad6c3a2bc6cb3190a",
-      "0120c0184e1ecca663eceb1ff11b41eddab3ed54cd4f3d416394c7e2163dee1a06400a"
+      "0120c0184e1ecca663eceb1ff11b41eddab3ed54cd4f3d416394c7e2163dee1a06400a",
+      "01202b4a613fc9cbc19f6e83940672ee01aefb9ea2a27257076a0c84afc97de2df160a",
+      "01217824fb67f9560b6a55fb7cab5d17e677365430ae47a43adf87e1d4cfa81f1b3f0a"
     ],
     "subkeys": [
-      "0121863570b493e1d94b5c30cbfbc8488321f1854921de265afa8adf8ce1e93e927d0a",
       "01211cc43208399f815544cdf262855a66d0e51bf68cf711d2c782ed5280f2bc47050a",
-      "012105076e238ba848ddf653cf05f00aedd31ba9a6ad593d577f0ad6c3a2bc6cb3190a"
+      "012105076e238ba848ddf653cf05f00aedd31ba9a6ad593d577f0ad6c3a2bc6cb3190a",
+      "01217824fb67f9560b6a55fb7cab5d17e677365430ae47a43adf87e1d4cfa81f1b3f0a"
     ],
     "sibkeys": [
       "0101cea402785719a7b6c33644d3b08e1016c5d5f17f6c2a7bb4940cf0d27b2b95f30a",
-      "0120a8db3709613f2db438658b3bd6169124c0dd9eb567fa544e40843b162e9cd2250a",
       "01203b4d6d7638eafda2baf365dd87d6853c13a86bce0d4ffb9c2d55a23c94e6eace0a",
-      "0120c0184e1ecca663eceb1ff11b41eddab3ed54cd4f3d416394c7e2163dee1a06400a"
+      "0120c0184e1ecca663eceb1ff11b41eddab3ed54cd4f3d416394c7e2163dee1a06400a",
+      "01202b4a613fc9cbc19f6e83940672ee01aefb9ea2a27257076a0c84afc97de2df160a"
     ],
     "families": {
       "0101cea402785719a7b6c33644d3b08e1016c5d5f17f6c2a7bb4940cf0d27b2b95f30a": [
@@ -68,7 +70,9 @@
         "01203b4d6d7638eafda2baf365dd87d6853c13a86bce0d4ffb9c2d55a23c94e6eace0a",
         "01211cc43208399f815544cdf262855a66d0e51bf68cf711d2c782ed5280f2bc47050a",
         "012105076e238ba848ddf653cf05f00aedd31ba9a6ad593d577f0ad6c3a2bc6cb3190a",
-        "0120c0184e1ecca663eceb1ff11b41eddab3ed54cd4f3d416394c7e2163dee1a06400a"
+        "0120c0184e1ecca663eceb1ff11b41eddab3ed54cd4f3d416394c7e2163dee1a06400a",
+        "01202b4a613fc9cbc19f6e83940672ee01aefb9ea2a27257076a0c84afc97de2df160a",
+        "01217824fb67f9560b6a55fb7cab5d17e677365430ae47a43adf87e1d4cfa81f1b3f0a"
       ]
     },
     "eldest_kid": "0101cea402785719a7b6c33644d3b08e1016c5d5f17f6c2a7bb4940cf0d27b2b95f30a",
@@ -223,12 +227,31 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5544020f859ba549a74d857e357e84efcad1eccbfe468ac53fe414c6b40f059c0f",
-      "seqno": 25,
-      "payload_hash": "3e86a7196147699a1843af56d1ce82be677bf670fee09c3be95e055e32c8ff92"
+      "sig_id": "2bcf876c207b5a105b770efe7405313982fed7270cd492412370603c057054c50f",
+      "seqno": 29,
+      "payload_hash": "6a788038ac1e29a83e2ed7589f81cfddeac35e953cc9a4aec5d0507c6da86f26"
     }
   },
   "devices": {
+    "24d00b85c652e7b6f4e5ccc589bba518": {
+      "type": "desktop",
+      "ctime": 1514953164,
+      "mtime": 1514953164,
+      "name": "Mini",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01202b4a613fc9cbc19f6e83940672ee01aefb9ea2a27257076a0c84afc97de2df160a",
+          "key_role": 1,
+          "sig_id": "e5f6321d9931b9d69fdb03e665a3b7f3564f293428dc1ec147cc495568c337c10f"
+        },
+        {
+          "kid": "01217824fb67f9560b6a55fb7cab5d17e677365430ae47a43adf87e1d4cfa81f1b3f0a",
+          "key_role": 2,
+          "sig_id": "a1ba1232db31b948897db35d94cc2bab631ae99a658624d9c64707076ea0638f0f"
+        }
+      ]
+    },
     "45ebe5924166e8e576cd39326de1f818": {
       "type": "backup",
       "ctime": 1459315737,
@@ -245,25 +268,6 @@
           "kid": "01211cc43208399f815544cdf262855a66d0e51bf68cf711d2c782ed5280f2bc47050a",
           "key_role": 2,
           "sig_id": "bc9110d4dc3e77bf1a660f480863f9880749b0821af59d36a8e047b76759167c0f"
-        }
-      ]
-    },
-    "595ad698a67ad1cb83053977c7766118": {
-      "type": "desktop",
-      "ctime": 1459315736,
-      "mtime": 1459315736,
-      "name": "Mac",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "0120a8db3709613f2db438658b3bd6169124c0dd9eb567fa544e40843b162e9cd2250a",
-          "key_role": 1,
-          "sig_id": "1036f21e9f8fb5e1e4236d60b734626cb5b9b15ba41a4576869a85a513449edb0f"
-        },
-        {
-          "kid": "0121863570b493e1d94b5c30cbfbc8488321f1854921de265afa8adf8ce1e93e927d0a",
-          "key_role": 2,
-          "sig_id": "9996b90b536df57011d57f212e431d499e9f9d6ccc1e8f8b1d9c634732f581cf0f"
         }
       ]
     },
