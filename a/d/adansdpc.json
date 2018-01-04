@@ -5,7 +5,7 @@
     "ctime": 1486652460,
     "mtime": 1486652460,
     "id_version": 26,
-    "track_version": 22,
+    "track_version": 23,
     "last_id_change": 1513853181,
     "username_cased": "adansdpc",
     "status": 0
@@ -50,13 +50,11 @@
     ],
     "subkeys": [
       "0121756da5be9c1a05912072aacfdf37e882457ab5794972e83ae84c8600b37e1f3b0a",
-      "0121a0146fd4c93c96548f219c27d284db422c856e1c549790a68960a521b76dc6450a",
       "0121548dbccafdb86c1ff611aabdaa649ead8fa357e6ab02c59863f9a5a06b1c54310a",
       "012137ec11adeda49e8c7a799bf3655fc0295bdb764b869e9bdb91a1936349434d5c0a"
     ],
     "sibkeys": [
       "01206f8f54bc7ed98ad1690f97e61af33b3eb5fdf2a4bb2a5fa988ce2c7f704125d50a",
-      "01200465ef1fe03cf2360e053bea65d1ba53e1cc18c91444294825740c411a28e3300a",
       "0120f5f87f689d5c23451beed658ae93695abda8855e6078cb72424fbee9a8ea27000a",
       "0101e763b81ac7c27dd87e29164f59b4b0544fc0d5303e66adc094dc9d347743d2d10a",
       "01201f57fe4462caa1d1ed1abbd96dd84d67a20fa5f653f8daaaa35e817368bb46390a"
@@ -269,9 +267,9 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "cf8ee780eb756dd7ae7687b9f66a353555acf00ebdfbdbe885d9e8221e1c141e0f",
-      "seqno": 51,
-      "payload_hash": "749b5bb40a304f808f2d607743a3111a93e6019a342cf0b7e6b6091ffec9accf"
+      "sig_id": "fee16c329f69564c11d7452a660046506d1d7538a16a464f77962aab64de39a40f",
+      "seqno": 54,
+      "payload_hash": "729fe946ea49457d640d738657e5d4612450b21495dc0fd46da1a9ee33ecb88d"
     }
   },
   "devices": {
@@ -310,25 +308,6 @@
           "kid": "012137ec11adeda49e8c7a799bf3655fc0295bdb764b869e9bdb91a1936349434d5c0a",
           "key_role": 2,
           "sig_id": "4ac7fc0714d14f74ef8eb7df6e9de10ba69114c6cbea42003d970fc80ce28fcc0f"
-        }
-      ]
-    },
-    "5d5b687ebcb9528a7abcd1ed8e41a518": {
-      "type": "mobile",
-      "ctime": 1494920657,
-      "mtime": 1494920657,
-      "name": "Samsung Galaxy Grand Neo II",
-      "status": 1,
-      "keys": [
-        {
-          "kid": "01200465ef1fe03cf2360e053bea65d1ba53e1cc18c91444294825740c411a28e3300a",
-          "key_role": 1,
-          "sig_id": "32e24dac55d0e23c0dfe06b1fffec9e9bfd3847575821d649f8773c03a4e5de40f"
-        },
-        {
-          "kid": "0121a0146fd4c93c96548f219c27d284db422c856e1c549790a68960a521b76dc6450a",
-          "key_role": 2,
-          "sig_id": "1121fe9261a610d783cc199cda2dcfd04816571689c09a0ffe3f8d5e68928f6c0f"
         }
       ]
     },
