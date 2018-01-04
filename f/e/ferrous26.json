@@ -4,10 +4,11 @@
     "username": "ferrous26",
     "ctime": 1419976975,
     "mtime": 1419976975,
-    "id_version": 78,
-    "track_version": 0,
-    "last_id_change": 1471559417,
-    "username_cased": "ferrous26"
+    "id_version": 80,
+    "track_version": 5,
+    "last_id_change": 1502599533,
+    "username_cased": "ferrous26",
+    "status": 0
   },
   "profile": {
     "mtime": 1419978537,
@@ -40,16 +41,18 @@
       "0120ac10c811022087b9dfd46409b419c92d6e43952c58934785e1ed16894d9b61bc0a",
       "0121e459d856797699211deb0f541c1c4a083f272852793787da4c3a291d65cce52b0a",
       "0121ee2f73dbded0ec73ced8b502d021aec4c8499bf5518352302240bbb4268d2f700a",
-      "0120c37f907d1703456a2166903262db65a6a6f79738cbe65bff6ec47407ab3235da0a"
+      "0120c37f907d1703456a2166903262db65a6a6f79738cbe65bff6ec47407ab3235da0a",
+      "01211dfd08b5abeda1da5a0f25c04af35ca3177fd256444c0e4440d179aaadaf46390a",
+      "0120b4e7ef928ddb118e8dc395336ecbfa50d1bf9a28be246f54b85c379704a156bf0a"
     ],
     "subkeys": [
       "0121e459d856797699211deb0f541c1c4a083f272852793787da4c3a291d65cce52b0a",
-      "0121ee2f73dbded0ec73ced8b502d021aec4c8499bf5518352302240bbb4268d2f700a"
+      "01211dfd08b5abeda1da5a0f25c04af35ca3177fd256444c0e4440d179aaadaf46390a"
     ],
     "sibkeys": [
       "010165fa7172e30b6845ffbbc58b8bc901e4d0b8b0edc7a389f3b37dcaa2d581d24b0a",
       "0120ac10c811022087b9dfd46409b419c92d6e43952c58934785e1ed16894d9b61bc0a",
-      "0120c37f907d1703456a2166903262db65a6a6f79738cbe65bff6ec47407ab3235da0a"
+      "0120b4e7ef928ddb118e8dc395336ecbfa50d1bf9a28be246f54b85c379704a156bf0a"
     ],
     "families": {
       "010164f36cfa7ecc0b9c71380637a46466b2d33324282ca7bce3efc04d56ce0557890a": [
@@ -61,7 +64,9 @@
         "0120ac10c811022087b9dfd46409b419c92d6e43952c58934785e1ed16894d9b61bc0a",
         "0121e459d856797699211deb0f541c1c4a083f272852793787da4c3a291d65cce52b0a",
         "0121ee2f73dbded0ec73ced8b502d021aec4c8499bf5518352302240bbb4268d2f700a",
-        "0120c37f907d1703456a2166903262db65a6a6f79738cbe65bff6ec47407ab3235da0a"
+        "0120c37f907d1703456a2166903262db65a6a6f79738cbe65bff6ec47407ab3235da0a",
+        "01211dfd08b5abeda1da5a0f25c04af35ca3177fd256444c0e4440d179aaadaf46390a",
+        "0120b4e7ef928ddb118e8dc395336ecbfa50d1bf9a28be246f54b85c379704a156bf0a"
       ]
     },
     "eldest_kid": "010165fa7172e30b6845ffbbc58b8bc901e4d0b8b0edc7a389f3b37dcaa2d581d24b0a",
@@ -113,6 +118,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "dns": [
+        {
+          "proof_type": "dns",
+          "nametag": "ferrous26.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/ferrous26/sigchain#82ab32a7cc34e945e8fc3c58cdad7738d22d5d7ae1cd8cb06148484783c596860f",
+          "sig_id": "82ab32a7cc34e945e8fc3c58cdad7738d22d5d7ae1cd8cb06148484783c596860f",
+          "proof_id": "c9a1050b9a14210e40001410",
+          "human_url": "dns://ferrous26.com",
+          "service_url": "http://ferrous26.com",
+          "presentation_group": "ferrous26.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "by_presentation_group": {
@@ -157,6 +176,20 @@
           "presentation_group": "reddit",
           "presentation_tag": "post"
         }
+      ],
+      "ferrous26.com": [
+        {
+          "proof_type": "dns",
+          "nametag": "ferrous26.com",
+          "state": 1,
+          "proof_url": "https://keybase.io/ferrous26/sigchain#82ab32a7cc34e945e8fc3c58cdad7738d22d5d7ae1cd8cb06148484783c596860f",
+          "sig_id": "82ab32a7cc34e945e8fc3c58cdad7738d22d5d7ae1cd8cb06148484783c596860f",
+          "proof_id": "c9a1050b9a14210e40001410",
+          "human_url": "dns://ferrous26.com",
+          "service_url": "http://ferrous26.com",
+          "presentation_group": "ferrous26.com",
+          "presentation_tag": "dns"
+        }
       ]
     },
     "all": [
@@ -195,6 +228,18 @@
         "service_url": "https://reddit.com/user/ferrous26",
         "presentation_group": "reddit",
         "presentation_tag": "post"
+      },
+      {
+        "proof_type": "dns",
+        "nametag": "ferrous26.com",
+        "state": 1,
+        "proof_url": "https://keybase.io/ferrous26/sigchain#82ab32a7cc34e945e8fc3c58cdad7738d22d5d7ae1cd8cb06148484783c596860f",
+        "sig_id": "82ab32a7cc34e945e8fc3c58cdad7738d22d5d7ae1cd8cb06148484783c596860f",
+        "proof_id": "c9a1050b9a14210e40001410",
+        "human_url": "dns://ferrous26.com",
+        "service_url": "http://ferrous26.com",
+        "presentation_group": "ferrous26.com",
+        "presentation_tag": "dns"
       }
     ]
   },
@@ -208,7 +253,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/8944a7b3efb35d4999a7830760f17105_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/458bdf11f5385e32e5de34653a832b05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -216,35 +261,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "13837cba5fc01b22f406b09ae7ac0c9bfb95ed849e7f29012b3ead770482f9b30f",
-      "seqno": 21,
-      "payload_hash": "31cf72fb5637f93828a3ce58082284ecd369ea092596021ead81580c0343da41"
+      "sig_id": "85cd29b7664f14cccb73b0572402365c9cd3bf823a37a03b1ce3bb450ddaba0e0f",
+      "seqno": 30,
+      "payload_hash": "e68143439d7439a7ec64cafad53f947e910641e99ed9be31307569e36f67f68a"
     }
   },
   "devices": {
-    "3df616ce325bf7da1d5c59770b6f0f18": {
+    "58f5b4aef193e6f0e763a1a09c3d9118": {
       "type": "desktop",
-      "ctime": 1471463894,
-      "mtime": 1471463894,
-      "name": "ferrous-sierra1",
+      "ctime": 1502599533,
+      "mtime": 1502599533,
+      "name": "high sierra",
       "status": 1,
       "keys": [
         {
-          "kid": "0120c37f907d1703456a2166903262db65a6a6f79738cbe65bff6ec47407ab3235da0a",
+          "kid": "0120b4e7ef928ddb118e8dc395336ecbfa50d1bf9a28be246f54b85c379704a156bf0a",
           "key_role": 1,
-          "sig_id": "00a89a465107dfbe32aeed4d1797492deabd5ff1ece99a4f84319e16abd692de0f"
+          "sig_id": "c84ea8c43b312143313e5a6abaef79ecbc50137a1dc238964b0fbbcea53f0d6b0f"
         },
         {
-          "kid": "0121ee2f73dbded0ec73ced8b502d021aec4c8499bf5518352302240bbb4268d2f700a",
+          "kid": "01211dfd08b5abeda1da5a0f25c04af35ca3177fd256444c0e4440d179aaadaf46390a",
           "key_role": 2,
-          "sig_id": "9b878f11cdcf1a5e5dba7287bb8104064607a7b5196a91b58d0b91ce88b629ed0f"
+          "sig_id": "9bc81712a3ed49c08b6d8ca80548acefab2adc2f98b40dc4a7bb2f1cc669932c0f"
         }
       ]
     },
     "f90a8f05bf5c644f6f1a5cda67870618": {
       "type": "backup",
-      "ctime": 1471463894,
-      "mtime": 1471463894,
+      "ctime": 1471467494,
+      "mtime": 1471467494,
       "name": "skull trial",
       "status": 1,
       "keys": [
