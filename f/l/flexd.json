@@ -4,10 +4,11 @@
     "username": "flexd",
     "ctime": 1421067656,
     "mtime": 1421067656,
-    "id_version": 14,
-    "track_version": 3,
-    "last_id_change": 1461667656,
-    "username_cased": "flexd"
+    "id_version": 15,
+    "track_version": 4,
+    "last_id_change": 1481305217,
+    "username_cased": "flexd",
+    "status": 0
   },
   "profile": {
     "mtime": 1421068433,
@@ -38,16 +39,20 @@
       "0120b8b84c8c9614c5c5941db352384a90c5734c19fd6b6218de3d8c333b3b42011d0a",
       "012153d5dd0393ab82cd11b7ba9bb7b460cb5e5f6ea402ae3717ac173c13bad548750a",
       "0121011732e120ae01da5ab6382ecf04812cdf0c09e01b0489a673beac47aa28346b0a",
-      "012055f9fe5501da45f68efef28c552c8a67c69b893e373ebebc63be81f9b9e097650a"
+      "012055f9fe5501da45f68efef28c552c8a67c69b893e373ebebc63be81f9b9e097650a",
+      "01203f1ffc1fc92b54681a261220a63d8d6d16231658a498950902aaee60492634130a",
+      "012175227f23941a0de88d03a7b7ae0e88c1a76f751e440ddc15cbda65e926b3ef670a"
     ],
     "subkeys": [
       "012153d5dd0393ab82cd11b7ba9bb7b460cb5e5f6ea402ae3717ac173c13bad548750a",
-      "0121011732e120ae01da5ab6382ecf04812cdf0c09e01b0489a673beac47aa28346b0a"
+      "0121011732e120ae01da5ab6382ecf04812cdf0c09e01b0489a673beac47aa28346b0a",
+      "012175227f23941a0de88d03a7b7ae0e88c1a76f751e440ddc15cbda65e926b3ef670a"
     ],
     "sibkeys": [
       "0101f2da807464af33a74ab03ad60098c633a81643d53bfc1adc5479f694aab5e8280a",
       "0120b8b84c8c9614c5c5941db352384a90c5734c19fd6b6218de3d8c333b3b42011d0a",
-      "012055f9fe5501da45f68efef28c552c8a67c69b893e373ebebc63be81f9b9e097650a"
+      "012055f9fe5501da45f68efef28c552c8a67c69b893e373ebebc63be81f9b9e097650a",
+      "01203f1ffc1fc92b54681a261220a63d8d6d16231658a498950902aaee60492634130a"
     ],
     "families": {
       "0101f2da807464af33a74ab03ad60098c633a81643d53bfc1adc5479f694aab5e8280a": [
@@ -55,7 +60,9 @@
         "0120b8b84c8c9614c5c5941db352384a90c5734c19fd6b6218de3d8c333b3b42011d0a",
         "012153d5dd0393ab82cd11b7ba9bb7b460cb5e5f6ea402ae3717ac173c13bad548750a",
         "0121011732e120ae01da5ab6382ecf04812cdf0c09e01b0489a673beac47aa28346b0a",
-        "012055f9fe5501da45f68efef28c552c8a67c69b893e373ebebc63be81f9b9e097650a"
+        "012055f9fe5501da45f68efef28c552c8a67c69b893e373ebebc63be81f9b9e097650a",
+        "01203f1ffc1fc92b54681a261220a63d8d6d16231658a498950902aaee60492634130a",
+        "012175227f23941a0de88d03a7b7ae0e88c1a76f751e440ddc15cbda65e926b3ef670a"
       ]
     },
     "eldest_kid": "0101f2da807464af33a74ab03ad60098c633a81643d53bfc1adc5479f694aab5e8280a",
@@ -203,16 +210,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "5dd65e48e7987e9c01f7cf0be531a5ccb7873fdc072804ceb8e9a526b9ec68d90f",
-      "seqno": 11,
-      "payload_hash": "1426013bb32c785660e29b5a595076b6c8463fd3838efefcbfacdcf142aaec54"
+      "sig_id": "519cd49f33a177154ff233d3799bad1112670f2e005e49e802a6364d1887bc9b0f",
+      "seqno": 14,
+      "payload_hash": "3bc0638c9070b5eaba9f5b938e839427d389da9fb826bc6217227e5d4598c848"
     }
   },
   "devices": {
     "40b0ea6362bde4c845de97bbf1d26118": {
       "type": "backup",
-      "ctime": 1460714278,
-      "mtime": 1460714278,
+      "ctime": 1460717878,
+      "mtime": 1460717878,
       "name": "bunker raven",
       "status": 1,
       "keys": [
@@ -228,10 +235,29 @@
         }
       ]
     },
+    "683c9332ab9c4263685fd8fcc01f9218": {
+      "type": "desktop",
+      "ctime": 1481305217,
+      "mtime": 1481305217,
+      "name": "xps9360",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "01203f1ffc1fc92b54681a261220a63d8d6d16231658a498950902aaee60492634130a",
+          "key_role": 1,
+          "sig_id": "7bb4d3297aacbe74b3276e9db91a6056e7ebd7e6188c3bbb14616cf63114bf7c0f"
+        },
+        {
+          "kid": "012175227f23941a0de88d03a7b7ae0e88c1a76f751e440ddc15cbda65e926b3ef670a",
+          "key_role": 2,
+          "sig_id": "0b9868b46864a8475c25d39ac6aa2c6d21b5799d724dcbee29358b5a75beba450f"
+        }
+      ]
+    },
     "a9610c993710a6417a6275178b0fc718": {
       "type": "desktop",
-      "ctime": 1460714277,
-      "mtime": 1460714277,
+      "ctime": 1460717877,
+      "mtime": 1460717877,
       "name": "sanslaptop",
       "status": 1,
       "keys": [
