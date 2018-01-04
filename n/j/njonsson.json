@@ -4,16 +4,17 @@
     "username": "njonsson",
     "ctime": 1393447124,
     "mtime": 1393447124,
-    "id_version": 111,
-    "track_version": 7,
-    "last_id_change": 1474403607,
-    "username_cased": "njonsson"
+    "id_version": 138,
+    "track_version": 16,
+    "last_id_change": 1508269547,
+    "username_cased": "njonsson",
+    "status": 0
   },
   "profile": {
-    "mtime": 1393447240,
+    "mtime": 1496256253,
     "full_name": "Nils Jonsson",
     "location": "Houston, TX",
-    "bio": "Software builder and musician"
+    "bio": "software development leader"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +39,22 @@
       "012198cf6cf4cf099f22c398c9b642e8878cbb5d770d115280c6cfb4044b4db5d0740a",
       "012047bdb80d4b69f386155b4ac6f33a250b9d93590f76f7bcb65583e2a3600e38180a",
       "0120b5bfc909dfe2f80538f4b6e38ffb5ba81eab8e0abe4183210c266d867ae491760a",
-      "012133c71e52aa9a0d1554f15b944839efbf87ca88758896f49c8abb12a1d61dda740a"
+      "012133c71e52aa9a0d1554f15b944839efbf87ca88758896f49c8abb12a1d61dda740a",
+      "0121d7d5788b1f447fa082a3cd2c07a1f78c58e073c2be91fca9703ed2a99ff6bd020a",
+      "012034791190c86f3b9948b70e1e6a06ab2ab0ff7396ca28ba6ce42c615a7a5bd5e60a",
+      "0120e8397c2d1452ef7a37b9deca0d2a57de4b490e384b42942577cd105c9981cd3c0a",
+      "01217f3f1ef23cc46e5c2916bdb704e095f04b8a17075504315f3b53c5b629c17b680a"
     ],
     "subkeys": [
       "012198cf6cf4cf099f22c398c9b642e8878cbb5d770d115280c6cfb4044b4db5d0740a",
-      "012133c71e52aa9a0d1554f15b944839efbf87ca88758896f49c8abb12a1d61dda740a"
+      "012133c71e52aa9a0d1554f15b944839efbf87ca88758896f49c8abb12a1d61dda740a",
+      "01217f3f1ef23cc46e5c2916bdb704e095f04b8a17075504315f3b53c5b629c17b680a"
     ],
     "sibkeys": [
       "0101c723e0658b65adb14326e0798f63e45c64ebf7a2e8589b235ee43157ac645f920a",
       "012047bdb80d4b69f386155b4ac6f33a250b9d93590f76f7bcb65583e2a3600e38180a",
-      "0120b5bfc909dfe2f80538f4b6e38ffb5ba81eab8e0abe4183210c266d867ae491760a"
+      "0120b5bfc909dfe2f80538f4b6e38ffb5ba81eab8e0abe4183210c266d867ae491760a",
+      "0120e8397c2d1452ef7a37b9deca0d2a57de4b490e384b42942577cd105c9981cd3c0a"
     ],
     "families": {
       "0101c723e0658b65adb14326e0798f63e45c64ebf7a2e8589b235ee43157ac645f920a": [
@@ -55,7 +62,11 @@
         "012198cf6cf4cf099f22c398c9b642e8878cbb5d770d115280c6cfb4044b4db5d0740a",
         "012047bdb80d4b69f386155b4ac6f33a250b9d93590f76f7bcb65583e2a3600e38180a",
         "0120b5bfc909dfe2f80538f4b6e38ffb5ba81eab8e0abe4183210c266d867ae491760a",
-        "012133c71e52aa9a0d1554f15b944839efbf87ca88758896f49c8abb12a1d61dda740a"
+        "012133c71e52aa9a0d1554f15b944839efbf87ca88758896f49c8abb12a1d61dda740a",
+        "0121d7d5788b1f447fa082a3cd2c07a1f78c58e073c2be91fca9703ed2a99ff6bd020a",
+        "012034791190c86f3b9948b70e1e6a06ab2ab0ff7396ca28ba6ce42c615a7a5bd5e60a",
+        "0120e8397c2d1452ef7a37b9deca0d2a57de4b490e384b42942577cd105c9981cd3c0a",
+        "01217f3f1ef23cc46e5c2916bdb704e095f04b8a17075504315f3b53c5b629c17b680a"
       ]
     },
     "eldest_kid": "0101c723e0658b65adb14326e0798f63e45c64ebf7a2e8589b235ee43157ac645f920a",
@@ -108,20 +119,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "njonsson",
-          "state": 1,
-          "proof_url": "https://coinbase.com/njonsson/public-key",
-          "sig_id": "cc6c3d8f217920f6a9a441cfd3755e98f9b9263baadd2d7870997cb1d0371a290f",
-          "proof_id": "dd1b3a5582bafe5b9e68d410",
-          "human_url": "https://coinbase.com/njonsson/public-key",
-          "service_url": "https://coinbase.com/njonsson",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -134,6 +131,20 @@
           "service_url": "https://news.ycombinator.com/user?id=njonsson",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "njonsson",
+          "state": 1,
+          "proof_url": "https://facebook.com/10100575288389281_10100575288853351",
+          "sig_id": "cf831348a8985129537a1b027d5513073f6447778500b4ba93e561e541a6641d0f",
+          "proof_id": "bf8b419c8e61f17a7f9cf010",
+          "human_url": "https://facebook.com/10100575288389281_10100575288853351",
+          "service_url": "https://www.facebook.com/njonsson",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "generic_web_site": [
@@ -208,20 +219,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "njonsson",
-          "state": 1,
-          "proof_url": "https://coinbase.com/njonsson/public-key",
-          "sig_id": "cc6c3d8f217920f6a9a441cfd3755e98f9b9263baadd2d7870997cb1d0371a290f",
-          "proof_id": "dd1b3a5582bafe5b9e68d410",
-          "human_url": "https://coinbase.com/njonsson/public-key",
-          "service_url": "https://coinbase.com/njonsson",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -234,6 +231,20 @@
           "service_url": "https://news.ycombinator.com/user?id=njonsson",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
+        }
+      ],
+      "facebook": [
+        {
+          "proof_type": "facebook",
+          "nametag": "njonsson",
+          "state": 1,
+          "proof_url": "https://facebook.com/10100575288389281_10100575288853351",
+          "sig_id": "cf831348a8985129537a1b027d5513073f6447778500b4ba93e561e541a6641d0f",
+          "proof_id": "bf8b419c8e61f17a7f9cf010",
+          "human_url": "https://facebook.com/10100575288389281_10100575288853351",
+          "service_url": "https://www.facebook.com/njonsson",
+          "presentation_group": "facebook",
+          "presentation_tag": "post"
         }
       ],
       "jonssons.org": [
@@ -303,18 +314,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "njonsson",
-        "state": 1,
-        "proof_url": "https://coinbase.com/njonsson/public-key",
-        "sig_id": "cc6c3d8f217920f6a9a441cfd3755e98f9b9263baadd2d7870997cb1d0371a290f",
-        "proof_id": "dd1b3a5582bafe5b9e68d410",
-        "human_url": "https://coinbase.com/njonsson/public-key",
-        "service_url": "https://coinbase.com/njonsson",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "njonsson",
         "state": 1,
@@ -325,6 +324,18 @@
         "service_url": "https://news.ycombinator.com/user?id=njonsson",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
+      },
+      {
+        "proof_type": "facebook",
+        "nametag": "njonsson",
+        "state": 1,
+        "proof_url": "https://facebook.com/10100575288389281_10100575288853351",
+        "sig_id": "cf831348a8985129537a1b027d5513073f6447778500b4ba93e561e541a6641d0f",
+        "proof_id": "bf8b419c8e61f17a7f9cf010",
+        "human_url": "https://facebook.com/10100575288389281_10100575288853351",
+        "service_url": "https://www.facebook.com/njonsson",
+        "presentation_group": "facebook",
+        "presentation_tag": "post"
       },
       {
         "proof_type": "dns",
@@ -362,24 +373,24 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/9459aa4fb0c25bb6e782e46e3006a205_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/83d97b7d37db64235a9f1da7a3329b05_360_360_square_360.jpeg",
       "width": 360,
       "height": 360,
-      "source": "twitter"
+      "source": "github"
     }
   },
   "sigs": {
     "last": {
-      "sig_id": "b1bda0b4f2ae354ec1874677847e52203d450f5aff1f2f96c98bf32ee31c8e2b0f",
-      "seqno": 21,
-      "payload_hash": "1ada6bab778030f2581d43694ff2997f0fca4d894ddfde5165d07094871369b6"
+      "sig_id": "ba7004aa2b1c9755acda408061d518753e3782f98a1fbe6e640ada3f815739f60f",
+      "seqno": 38,
+      "payload_hash": "bcee51b1ceb484d2fb2588d041a87143e677c5c499563c1d184b604c28ddd714"
     }
   },
   "devices": {
     "31e167f57fef3a9235f16b1edddbbd18": {
       "type": "desktop",
-      "ctime": 1474403606,
-      "mtime": 1474403606,
+      "ctime": 1474407206,
+      "mtime": 1474407206,
       "name": "Nils's late-2013 MacBook Pro",
       "status": 1,
       "keys": [
@@ -397,8 +408,8 @@
     },
     "9841a35d31ac692cc09dfd285c030b18": {
       "type": "backup",
-      "ctime": 1474403607,
-      "mtime": 1474403607,
+      "ctime": 1474407207,
+      "mtime": 1474407207,
       "name": "flavor way",
       "status": 1,
       "keys": [
@@ -411,6 +422,25 @@
           "kid": "012133c71e52aa9a0d1554f15b944839efbf87ca88758896f49c8abb12a1d61dda740a",
           "key_role": 2,
           "sig_id": "09b1887ad82eea8ce286613e527f69103396e2d2ce9944c4cf9488135b30bf930f"
+        }
+      ]
+    },
+    "a605c734250b2678d0d353fea2b35f18": {
+      "type": "mobile",
+      "ctime": 1506544204,
+      "mtime": 1506544204,
+      "name": "Nils's Nexus 6P",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120e8397c2d1452ef7a37b9deca0d2a57de4b490e384b42942577cd105c9981cd3c0a",
+          "key_role": 1,
+          "sig_id": "ee9826033ef3e247bbdf320a976f1c3002af883bd03ca1e5fbde0e2a0a4698ec0f"
+        },
+        {
+          "kid": "01217f3f1ef23cc46e5c2916bdb704e095f04b8a17075504315f3b53c5b629c17b680a",
+          "key_role": 2,
+          "sig_id": "84c214b0caa51a6239693aed936f88afe916ea66578ffcb8eaa49e8065ac40440f"
         }
       ]
     }
