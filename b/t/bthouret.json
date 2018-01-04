@@ -4,10 +4,11 @@
     "username": "bthouret",
     "ctime": 1417731581,
     "mtime": 1417731581,
-    "id_version": 50,
-    "track_version": 3,
-    "last_id_change": 1476631316,
-    "username_cased": "bthouret"
+    "id_version": 53,
+    "track_version": 5,
+    "last_id_change": 1480515528,
+    "username_cased": "bthouret",
+    "status": 0
   },
   "profile": {
     "mtime": 1417732928,
@@ -38,16 +39,20 @@
       "01203b6d76f1521e381c36a24a5883901c5f8b1fe74f579a865330b7ca1af88982fb0a",
       "01208aab8f3d5d473effff7d0b5afc44e5b1e21f83ee1a09e55dd13f3bd9ad1d30760a",
       "01214fad5ff4192edc4a7f867c507c44106da275571930a1dc282118da11ef3aee1c0a",
-      "0121930393571d84ca2170dc6d5ee9f2474f7245c5f787a0a5133cac5f5e6355665b0a"
+      "0121930393571d84ca2170dc6d5ee9f2474f7245c5f787a0a5133cac5f5e6355665b0a",
+      "0120a0d3a4c3a998732b98bbd2b7dbb1b1ce8799a36de58c5045fd1ef521a406a7310a",
+      "0121f6ce57d6066b5bb16f4650e8c1f167ca6c92b1ad998ff0cef1fefe3249b3ee4a0a"
     ],
     "subkeys": [
       "01214fad5ff4192edc4a7f867c507c44106da275571930a1dc282118da11ef3aee1c0a",
-      "0121930393571d84ca2170dc6d5ee9f2474f7245c5f787a0a5133cac5f5e6355665b0a"
+      "0121930393571d84ca2170dc6d5ee9f2474f7245c5f787a0a5133cac5f5e6355665b0a",
+      "0121f6ce57d6066b5bb16f4650e8c1f167ca6c92b1ad998ff0cef1fefe3249b3ee4a0a"
     ],
     "sibkeys": [
       "01016c171becca06d222859827d8d0bae9ebf06f13fa68c40894e7e8ef9cb983b5230a",
       "01203b6d76f1521e381c36a24a5883901c5f8b1fe74f579a865330b7ca1af88982fb0a",
-      "01208aab8f3d5d473effff7d0b5afc44e5b1e21f83ee1a09e55dd13f3bd9ad1d30760a"
+      "01208aab8f3d5d473effff7d0b5afc44e5b1e21f83ee1a09e55dd13f3bd9ad1d30760a",
+      "0120a0d3a4c3a998732b98bbd2b7dbb1b1ce8799a36de58c5045fd1ef521a406a7310a"
     ],
     "families": {
       "01016c171becca06d222859827d8d0bae9ebf06f13fa68c40894e7e8ef9cb983b5230a": [
@@ -55,7 +60,9 @@
         "01203b6d76f1521e381c36a24a5883901c5f8b1fe74f579a865330b7ca1af88982fb0a",
         "01208aab8f3d5d473effff7d0b5afc44e5b1e21f83ee1a09e55dd13f3bd9ad1d30760a",
         "01214fad5ff4192edc4a7f867c507c44106da275571930a1dc282118da11ef3aee1c0a",
-        "0121930393571d84ca2170dc6d5ee9f2474f7245c5f787a0a5133cac5f5e6355665b0a"
+        "0121930393571d84ca2170dc6d5ee9f2474f7245c5f787a0a5133cac5f5e6355665b0a",
+        "0120a0d3a4c3a998732b98bbd2b7dbb1b1ce8799a36de58c5045fd1ef521a406a7310a",
+        "0121f6ce57d6066b5bb16f4650e8c1f167ca6c92b1ad998ff0cef1fefe3249b3ee4a0a"
       ]
     },
     "eldest_kid": "01016c171becca06d222859827d8d0bae9ebf06f13fa68c40894e7e8ef9cb983b5230a",
@@ -92,20 +99,6 @@
           "service_url": "https://github.com/benichu",
           "presentation_group": "github",
           "presentation_tag": "gist"
-        }
-      ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "benichu",
-          "state": 1,
-          "proof_url": "https://coinbase.com/benichu/public-key",
-          "sig_id": "01746861bd80c7287b62e4a55886a67f69b58057fae9a674a55682c9d4e2fa710f",
-          "proof_id": "075ba6fd2020061f6c00be10",
-          "human_url": "https://coinbase.com/benichu/public-key",
-          "service_url": "https://coinbase.com/benichu",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
         }
       ],
       "generic_web_site": [
@@ -166,20 +159,6 @@
           "presentation_tag": "gist"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "benichu",
-          "state": 1,
-          "proof_url": "https://coinbase.com/benichu/public-key",
-          "sig_id": "01746861bd80c7287b62e4a55886a67f69b58057fae9a674a55682c9d4e2fa710f",
-          "proof_id": "075ba6fd2020061f6c00be10",
-          "human_url": "https://coinbase.com/benichu/public-key",
-          "service_url": "https://coinbase.com/benichu",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "benjamin.thouret.com": [
         {
           "proof_type": "generic_web_site",
@@ -235,18 +214,6 @@
         "presentation_tag": "gist"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "benichu",
-        "state": 1,
-        "proof_url": "https://coinbase.com/benichu/public-key",
-        "sig_id": "01746861bd80c7287b62e4a55886a67f69b58057fae9a674a55682c9d4e2fa710f",
-        "proof_id": "075ba6fd2020061f6c00be10",
-        "human_url": "https://coinbase.com/benichu/public-key",
-        "service_url": "https://coinbase.com/benichu",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "dns",
         "nametag": "thouret.com",
         "state": 1,
@@ -290,16 +257,35 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "59dc8cebb719912988c61fd94aa5e00f489f656aca3d0e7527f01a62801893000f",
-      "seqno": 17,
-      "payload_hash": "474eab338a0c2999033d5e006014e4bd692993f756d65e2795de473ec360c725"
+      "sig_id": "41128e8a702af7831a7026da7b610c03fabe545b8c258973c4d3d5b0da774da00f",
+      "seqno": 22,
+      "payload_hash": "7dc07d4094e061f3beecb3e8725b724d88656e05f90461ecb7958012f6f5c845"
     }
   },
   "devices": {
+    "0fb62934939551969e72cee6f105a118": {
+      "type": "desktop",
+      "ctime": 1480515528,
+      "mtime": 1480515528,
+      "name": "ben-mbp13",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a0d3a4c3a998732b98bbd2b7dbb1b1ce8799a36de58c5045fd1ef521a406a7310a",
+          "key_role": 1,
+          "sig_id": "4284fb2ffa9b1608353d52f8bd3d7a94d463501e8573625247e0b5eafcb12d9c0f"
+        },
+        {
+          "kid": "0121f6ce57d6066b5bb16f4650e8c1f167ca6c92b1ad998ff0cef1fefe3249b3ee4a0a",
+          "key_role": 2,
+          "sig_id": "d0bcb4d091af4adbf3fc337f47174578fe0efbb446049c3fa96b0e608c62bf380f"
+        }
+      ]
+    },
     "1fede8502a3c70354c35c825ddbe9f18": {
       "type": "backup",
-      "ctime": 1460020078,
-      "mtime": 1460020078,
+      "ctime": 1460023678,
+      "mtime": 1460023678,
       "name": "cheap fat",
       "status": 1,
       "keys": [
@@ -317,8 +303,8 @@
     },
     "c07b2e4f7474a748b2f1a5b88182d218": {
       "type": "desktop",
-      "ctime": 1460020078,
-      "mtime": 1460020078,
+      "ctime": 1460023678,
+      "mtime": 1460023678,
       "name": "mbp-13",
       "status": 1,
       "keys": [
