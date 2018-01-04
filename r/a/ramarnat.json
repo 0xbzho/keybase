@@ -4,10 +4,11 @@
     "username": "ramarnat",
     "ctime": 1417734218,
     "mtime": 1417734218,
-    "id_version": 13,
+    "id_version": 16,
     "track_version": 5,
-    "last_id_change": 1459267742,
-    "username_cased": "ramarnat"
+    "last_id_change": 1504628843,
+    "username_cased": "ramarnat",
+    "status": 0
   },
   "profile": {
     "mtime": 1417736075,
@@ -38,16 +39,20 @@
       "01203a985f2d46e6f38d33defe521bb219b5182338be41365f0472841c6e1ab8cec60a",
       "012175e6af550554c099089a17ce7ed412f1761d626d815de3a3d4331f61c0d659310a",
       "0120671f7a15be3e07346dd1bdec3ebad90775c1d2cb03f9e5d9fe70ebf5a35ef5ba0a",
-      "01213ce27a73dabd433b4db5fd9797813de7b2728c93151cc9b66f76bb5879da6f740a"
+      "01213ce27a73dabd433b4db5fd9797813de7b2728c93151cc9b66f76bb5879da6f740a",
+      "0120a3d365ffb5ce3fc45511645668f7918856f417fd56034aae59e762953e58e8880a",
+      "012140ff6244cbc8a9f5874d0b7398b632a95bddd5a843578ec20330ab95aeb1c75a0a"
     ],
     "subkeys": [
       "012175e6af550554c099089a17ce7ed412f1761d626d815de3a3d4331f61c0d659310a",
-      "01213ce27a73dabd433b4db5fd9797813de7b2728c93151cc9b66f76bb5879da6f740a"
+      "01213ce27a73dabd433b4db5fd9797813de7b2728c93151cc9b66f76bb5879da6f740a",
+      "012140ff6244cbc8a9f5874d0b7398b632a95bddd5a843578ec20330ab95aeb1c75a0a"
     ],
     "sibkeys": [
       "0101582665cbf60934171dec1dc684ea52be1af225176a861a6473f7962e73d2f9830a",
       "01203a985f2d46e6f38d33defe521bb219b5182338be41365f0472841c6e1ab8cec60a",
-      "0120671f7a15be3e07346dd1bdec3ebad90775c1d2cb03f9e5d9fe70ebf5a35ef5ba0a"
+      "0120671f7a15be3e07346dd1bdec3ebad90775c1d2cb03f9e5d9fe70ebf5a35ef5ba0a",
+      "0120a3d365ffb5ce3fc45511645668f7918856f417fd56034aae59e762953e58e8880a"
     ],
     "families": {
       "0101582665cbf60934171dec1dc684ea52be1af225176a861a6473f7962e73d2f9830a": [
@@ -55,7 +60,9 @@
         "01203a985f2d46e6f38d33defe521bb219b5182338be41365f0472841c6e1ab8cec60a",
         "012175e6af550554c099089a17ce7ed412f1761d626d815de3a3d4331f61c0d659310a",
         "0120671f7a15be3e07346dd1bdec3ebad90775c1d2cb03f9e5d9fe70ebf5a35ef5ba0a",
-        "01213ce27a73dabd433b4db5fd9797813de7b2728c93151cc9b66f76bb5879da6f740a"
+        "01213ce27a73dabd433b4db5fd9797813de7b2728c93151cc9b66f76bb5879da6f740a",
+        "0120a3d365ffb5ce3fc45511645668f7918856f417fd56034aae59e762953e58e8880a",
+        "012140ff6244cbc8a9f5874d0b7398b632a95bddd5a843578ec20330ab95aeb1c75a0a"
       ]
     },
     "eldest_kid": "0101582665cbf60934171dec1dc684ea52be1af225176a861a6473f7962e73d2f9830a",
@@ -163,16 +170,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "dd9fba546609507859f98795b36fcc209886266c5f56219935d061728e0390d20f",
-      "seqno": 11,
-      "payload_hash": "c103b8f26da7e58b4517250660bd8342ed9f09437b087cc41191c0c9b76527ed"
+      "sig_id": "a78b1e476a9cbb2e356f84d5d875ac137d958083a43d0b1e7b081064738f6d8e0f",
+      "seqno": 14,
+      "payload_hash": "c94164cfbf7953db26e30900f8c0487e82c18eae84cd8a6609af1a83b654fa49"
     }
   },
   "devices": {
     "5cc9240a59ed8f230defec603e5c4418": {
       "type": "desktop",
-      "ctime": 1459267741,
-      "mtime": 1459267741,
+      "ctime": 1459271341,
+      "mtime": 1459271341,
       "name": "ro-macbookpro",
       "status": 1,
       "keys": [
@@ -188,10 +195,29 @@
         }
       ]
     },
+    "6768cdcf0976c0ab1b8e300ac0632318": {
+      "type": "desktop",
+      "ctime": 1504628843,
+      "mtime": 1504628843,
+      "name": "ro's mbp 2017",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120a3d365ffb5ce3fc45511645668f7918856f417fd56034aae59e762953e58e8880a",
+          "key_role": 1,
+          "sig_id": "7e9ca82998acb8bc2b7d782e03a795651909667249da850007a116a88e9b2dbe0f"
+        },
+        {
+          "kid": "012140ff6244cbc8a9f5874d0b7398b632a95bddd5a843578ec20330ab95aeb1c75a0a",
+          "key_role": 2,
+          "sig_id": "4292a7fbad59b6b4349219f3d82d27aae5f5ea1781cb78a5ab7f3763c91bf5b70f"
+        }
+      ]
+    },
     "6bba8585d3686d2e2eaf6c9aa87a6218": {
       "type": "backup",
-      "ctime": 1459267742,
-      "mtime": 1459267742,
+      "ctime": 1459271342,
+      "mtime": 1459271342,
       "name": "cram scheme",
       "status": 1,
       "keys": [
