@@ -4,16 +4,17 @@
     "username": "boundsj",
     "ctime": 1416516934,
     "mtime": 1416516934,
-    "id_version": 106,
-    "track_version": 5,
-    "last_id_change": 1469738559,
-    "username_cased": "boundsj"
+    "id_version": 120,
+    "track_version": 8,
+    "last_id_change": 1511796057,
+    "username_cased": "boundsj",
+    "status": 0
   },
   "profile": {
-    "mtime": 1416517244,
+    "mtime": 1507000415,
     "full_name": "Jesse Bounds",
     "location": "San Francisco",
-    "bio": "iOS developer @joinbrigade."
+    "bio": "iOS @mapbox"
   },
   "public_keys": {
     "primary": {
@@ -38,16 +39,26 @@
       "0121fd3227f4e5d52734a4b5ae1d0fc49724301b17521d5d316c46b43673d4ec270c0a",
       "0120040f1280b11ac81d562b219e7ed259611623fa1dd62988c657dd06931fa7089e0a",
       "0121c35732bbd3739af0cdf3c663bd1dcc01392f870eeae906449bfb71c0a7082f130a",
-      "01204417db371dbc2cb5a7c30210c194269a1fc6c6385b436664f41fe5bd71d149270a"
+      "01204417db371dbc2cb5a7c30210c194269a1fc6c6385b436664f41fe5bd71d149270a",
+      "0120b3f81d177081ca3b94414a43ae704bf4c9e6c01b2414b5153642aa9aecc75ac10a",
+      "0121f3c4838510c4a2a3f05bf79a22e96d8ebdf36ff3b316d08dc6c4cb62096eb2110a",
+      "0121b6ef941282fbd32e0e21aa5473fd3dfab8abf354234fe32e9c0ecd53fc90f26e0a",
+      "012033c273f9feb68a2d96f08b7e162351ca60c9a72cb0ded2503ca1ed0e7d81abbc0a",
+      "01215ac90fda81e71dd74909ce3678a245263a9adeb51ee1be3ff43d7a291ea2d67c0a",
+      "0120153284eac5eef2f3f78dc3e07ca81df7c461ef0109826701bdd909693c8b24ce0a"
     ],
     "subkeys": [
       "0121fd3227f4e5d52734a4b5ae1d0fc49724301b17521d5d316c46b43673d4ec270c0a",
-      "0121c35732bbd3739af0cdf3c663bd1dcc01392f870eeae906449bfb71c0a7082f130a"
+      "0121c35732bbd3739af0cdf3c663bd1dcc01392f870eeae906449bfb71c0a7082f130a",
+      "0121b6ef941282fbd32e0e21aa5473fd3dfab8abf354234fe32e9c0ecd53fc90f26e0a",
+      "01215ac90fda81e71dd74909ce3678a245263a9adeb51ee1be3ff43d7a291ea2d67c0a"
     ],
     "sibkeys": [
       "010150c63ea5680f16afd81d10f72b314147d4f339cb7447363878c99522eac3db570a",
       "0120040f1280b11ac81d562b219e7ed259611623fa1dd62988c657dd06931fa7089e0a",
-      "01204417db371dbc2cb5a7c30210c194269a1fc6c6385b436664f41fe5bd71d149270a"
+      "01204417db371dbc2cb5a7c30210c194269a1fc6c6385b436664f41fe5bd71d149270a",
+      "012033c273f9feb68a2d96f08b7e162351ca60c9a72cb0ded2503ca1ed0e7d81abbc0a",
+      "0120153284eac5eef2f3f78dc3e07ca81df7c461ef0109826701bdd909693c8b24ce0a"
     ],
     "families": {
       "010150c63ea5680f16afd81d10f72b314147d4f339cb7447363878c99522eac3db570a": [
@@ -55,7 +66,13 @@
         "0121fd3227f4e5d52734a4b5ae1d0fc49724301b17521d5d316c46b43673d4ec270c0a",
         "0120040f1280b11ac81d562b219e7ed259611623fa1dd62988c657dd06931fa7089e0a",
         "0121c35732bbd3739af0cdf3c663bd1dcc01392f870eeae906449bfb71c0a7082f130a",
-        "01204417db371dbc2cb5a7c30210c194269a1fc6c6385b436664f41fe5bd71d149270a"
+        "01204417db371dbc2cb5a7c30210c194269a1fc6c6385b436664f41fe5bd71d149270a",
+        "0120b3f81d177081ca3b94414a43ae704bf4c9e6c01b2414b5153642aa9aecc75ac10a",
+        "0121f3c4838510c4a2a3f05bf79a22e96d8ebdf36ff3b316d08dc6c4cb62096eb2110a",
+        "0121b6ef941282fbd32e0e21aa5473fd3dfab8abf354234fe32e9c0ecd53fc90f26e0a",
+        "012033c273f9feb68a2d96f08b7e162351ca60c9a72cb0ded2503ca1ed0e7d81abbc0a",
+        "01215ac90fda81e71dd74909ce3678a245263a9adeb51ee1be3ff43d7a291ea2d67c0a",
+        "0120153284eac5eef2f3f78dc3e07ca81df7c461ef0109826701bdd909693c8b24ce0a"
       ]
     },
     "eldest_kid": "010150c63ea5680f16afd81d10f72b314147d4f339cb7447363878c99522eac3db570a",
@@ -108,20 +125,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "boundsj",
-          "state": 1,
-          "proof_url": "https://coinbase.com/boundsj/public-key",
-          "sig_id": "54ff4259926019f476350ac6dc554a520eac63550ad75018c45370e5331bd7c60f",
-          "proof_id": "a6d1d67aba4ae3a4f8478d10",
-          "human_url": "https://coinbase.com/boundsj/public-key",
-          "service_url": "https://coinbase.com/boundsj",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -134,20 +137,6 @@
           "service_url": "https://news.ycombinator.com/user?id=boundsj",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
-        }
-      ],
-      "generic_web_site": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "rebounds.net",
-          "state": 1,
-          "proof_url": "http://rebounds.net/keybase.txt",
-          "sig_id": "95a9236358431ad5b12e8a3f8bd3ca4685adde068c4ac032a0def6b56fd0fbd80f",
-          "proof_id": "1a56288dc6959883dc631610",
-          "human_url": "http://rebounds.net/keybase.txt",
-          "service_url": "http://rebounds.net",
-          "presentation_group": "rebounds.net",
-          "presentation_tag": "http"
         }
       ]
     },
@@ -194,20 +183,6 @@
           "presentation_tag": "post"
         }
       ],
-      "coinbase": [
-        {
-          "proof_type": "coinbase",
-          "nametag": "boundsj",
-          "state": 1,
-          "proof_url": "https://coinbase.com/boundsj/public-key",
-          "sig_id": "54ff4259926019f476350ac6dc554a520eac63550ad75018c45370e5331bd7c60f",
-          "proof_id": "a6d1d67aba4ae3a4f8478d10",
-          "human_url": "https://coinbase.com/boundsj/public-key",
-          "service_url": "https://coinbase.com/boundsj",
-          "presentation_group": "coinbase",
-          "presentation_tag": "post"
-        }
-      ],
       "hackernews": [
         {
           "proof_type": "hackernews",
@@ -220,20 +195,6 @@
           "service_url": "https://news.ycombinator.com/user?id=boundsj",
           "presentation_group": "hackernews",
           "presentation_tag": "profile"
-        }
-      ],
-      "rebounds.net": [
-        {
-          "proof_type": "generic_web_site",
-          "nametag": "rebounds.net",
-          "state": 1,
-          "proof_url": "http://rebounds.net/keybase.txt",
-          "sig_id": "95a9236358431ad5b12e8a3f8bd3ca4685adde068c4ac032a0def6b56fd0fbd80f",
-          "proof_id": "1a56288dc6959883dc631610",
-          "human_url": "http://rebounds.net/keybase.txt",
-          "service_url": "http://rebounds.net",
-          "presentation_group": "rebounds.net",
-          "presentation_tag": "http"
         }
       ]
     },
@@ -275,18 +236,6 @@
         "presentation_tag": "post"
       },
       {
-        "proof_type": "coinbase",
-        "nametag": "boundsj",
-        "state": 1,
-        "proof_url": "https://coinbase.com/boundsj/public-key",
-        "sig_id": "54ff4259926019f476350ac6dc554a520eac63550ad75018c45370e5331bd7c60f",
-        "proof_id": "a6d1d67aba4ae3a4f8478d10",
-        "human_url": "https://coinbase.com/boundsj/public-key",
-        "service_url": "https://coinbase.com/boundsj",
-        "presentation_group": "coinbase",
-        "presentation_tag": "post"
-      },
-      {
         "proof_type": "hackernews",
         "nametag": "boundsj",
         "state": 1,
@@ -297,18 +246,6 @@
         "service_url": "https://news.ycombinator.com/user?id=boundsj",
         "presentation_group": "hackernews",
         "presentation_tag": "profile"
-      },
-      {
-        "proof_type": "generic_web_site",
-        "nametag": "rebounds.net",
-        "state": 1,
-        "proof_url": "http://rebounds.net/keybase.txt",
-        "sig_id": "95a9236358431ad5b12e8a3f8bd3ca4685adde068c4ac032a0def6b56fd0fbd80f",
-        "proof_id": "1a56288dc6959883dc631610",
-        "human_url": "http://rebounds.net/keybase.txt",
-        "service_url": "http://rebounds.net",
-        "presentation_group": "rebounds.net",
-        "presentation_tag": "http"
       }
     ]
   },
@@ -322,7 +259,7 @@
   },
   "pictures": {
     "primary": {
-      "url": "https://s3.amazonaws.com/keybase_processed_uploads/9590aafb7c764976261a1f219937bb05_360_360_square_360.jpeg",
+      "url": "https://s3.amazonaws.com/keybase_processed_uploads/3ef019941c2c411abca3b00c50015405_360_360.jpg",
       "width": 360,
       "height": 360,
       "source": "twitter"
@@ -330,16 +267,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "09fac71c7ef40b2efd054d93c69c4f372e450f9957a2ec1726111f5b2ef0dc070f",
-      "seqno": 23,
-      "payload_hash": "bf7292fa76ce416a4952879d3f1e2360acbbf8b0e976eab4d500930a07c1a15d"
+      "sig_id": "93b9222b79291dd113c15e9288030efcc997c5acf7aba89b25afd0c52444febc0f",
+      "seqno": 37,
+      "payload_hash": "85afd373d4b672500b8e2cb66fba53c6ac9fd93ec63d12fd9e968ced5dcf5b81"
     }
   },
   "devices": {
     "43e6ffa47241d58b5a825d54405f6418": {
       "type": "desktop",
-      "ctime": 1458490156,
-      "mtime": 1458490156,
+      "ctime": 1458493756,
+      "mtime": 1458493756,
       "name": "fsociety",
       "status": 1,
       "keys": [
@@ -355,10 +292,48 @@
         }
       ]
     },
+    "728b14699ddeb1d0bda1bd3dca472518": {
+      "type": "mobile",
+      "ctime": 1511795945,
+      "mtime": 1511795946,
+      "name": "iPhone X",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "012033c273f9feb68a2d96f08b7e162351ca60c9a72cb0ded2503ca1ed0e7d81abbc0a",
+          "key_role": 1,
+          "sig_id": "0435805437bed00dedf32966e7be25002e23eec5d1cdbb45bee7e71788bfd1980f"
+        },
+        {
+          "kid": "0121b6ef941282fbd32e0e21aa5473fd3dfab8abf354234fe32e9c0ecd53fc90f26e0a",
+          "key_role": 2,
+          "sig_id": "0199b9e97ad0d73dba4124e299837f30a87a46f3dffb5bb614b81e53d36996c20f"
+        }
+      ]
+    },
+    "9edd368e885632ae02a1c88dc1bcba18": {
+      "type": "desktop",
+      "ctime": 1511796057,
+      "mtime": 1511796057,
+      "name": "divine-firefly-6968",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120153284eac5eef2f3f78dc3e07ca81df7c461ef0109826701bdd909693c8b24ce0a",
+          "key_role": 1,
+          "sig_id": "8f04483d9e08fc353b29d1104bebc36ea63aeb8f003a2ed3d2256f7a36791eb90f"
+        },
+        {
+          "kid": "01215ac90fda81e71dd74909ce3678a245263a9adeb51ee1be3ff43d7a291ea2d67c0a",
+          "key_role": 2,
+          "sig_id": "93b9222b79291dd113c15e9288030efcc997c5acf7aba89b25afd0c52444febc0f"
+        }
+      ]
+    },
     "fba78e204a55065e1bd08d957faf1418": {
       "type": "backup",
-      "ctime": 1458490157,
-      "mtime": 1458490157,
+      "ctime": 1458493757,
+      "mtime": 1458493757,
       "name": "theme gesture",
       "status": 1,
       "keys": [
