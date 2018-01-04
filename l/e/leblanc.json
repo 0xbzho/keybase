@@ -4,10 +4,11 @@
     "username": "leblanc",
     "ctime": 1424211054,
     "mtime": 1424211054,
-    "id_version": 32,
-    "track_version": 2,
-    "last_id_change": 1474848819,
-    "username_cased": "LeBlanc"
+    "id_version": 45,
+    "track_version": 12,
+    "last_id_change": 1510278368,
+    "username_cased": "LeBlanc",
+    "status": 0
   },
   "profile": {
     "mtime": 1424211093,
@@ -38,16 +39,22 @@
       "0120af60905decedcb7560dc20cc8e6075f39fc4dc2a1d80d040b81e6d75e52bc6a40a",
       "01202e3feed3b6f073e6c80545c45ac450f928337a6034204dd9885fe1507b5ab6d60a",
       "0121c028b9b7cd4012ca678e5613c2c852a3f14468f9202f4cd373af65f01ca864130a",
-      "0121a3ffecf9233ba910011cf93591796c61e285ab4b565ccd9d5d58d0c33d532f3f0a"
+      "0121a3ffecf9233ba910011cf93591796c61e285ab4b565ccd9d5d58d0c33d532f3f0a",
+      "0121a9c796bb7489d26e810628473d194b6c83a889e817cc5cdd9b4abdb384ea3b2f0a",
+      "0120e295698ae105b96846ca020fb8855f00147ee9c0f65dbba818e306cb781a7d370a",
+      "0120980c19ccc381131b8f8aec0a82d6fcefca10eec53dd6843130231913e7bb11760a",
+      "012181b098842f79d913ca40ecd0c9370f98e5e5cd507e2ffce1fe5170a0dc3155100a"
     ],
     "subkeys": [
       "0121c028b9b7cd4012ca678e5613c2c852a3f14468f9202f4cd373af65f01ca864130a",
-      "0121a3ffecf9233ba910011cf93591796c61e285ab4b565ccd9d5d58d0c33d532f3f0a"
+      "0121a3ffecf9233ba910011cf93591796c61e285ab4b565ccd9d5d58d0c33d532f3f0a",
+      "012181b098842f79d913ca40ecd0c9370f98e5e5cd507e2ffce1fe5170a0dc3155100a"
     ],
     "sibkeys": [
       "0101dc43b29232a52d7206e9a5359d5b82b7cecf0cf420a2a3dd026caf0cdaee92ed0a",
       "0120af60905decedcb7560dc20cc8e6075f39fc4dc2a1d80d040b81e6d75e52bc6a40a",
-      "01202e3feed3b6f073e6c80545c45ac450f928337a6034204dd9885fe1507b5ab6d60a"
+      "01202e3feed3b6f073e6c80545c45ac450f928337a6034204dd9885fe1507b5ab6d60a",
+      "0120980c19ccc381131b8f8aec0a82d6fcefca10eec53dd6843130231913e7bb11760a"
     ],
     "families": {
       "0101dc43b29232a52d7206e9a5359d5b82b7cecf0cf420a2a3dd026caf0cdaee92ed0a": [
@@ -55,7 +62,11 @@
         "0120af60905decedcb7560dc20cc8e6075f39fc4dc2a1d80d040b81e6d75e52bc6a40a",
         "01202e3feed3b6f073e6c80545c45ac450f928337a6034204dd9885fe1507b5ab6d60a",
         "0121c028b9b7cd4012ca678e5613c2c852a3f14468f9202f4cd373af65f01ca864130a",
-        "0121a3ffecf9233ba910011cf93591796c61e285ab4b565ccd9d5d58d0c33d532f3f0a"
+        "0121a3ffecf9233ba910011cf93591796c61e285ab4b565ccd9d5d58d0c33d532f3f0a",
+        "0121a9c796bb7489d26e810628473d194b6c83a889e817cc5cdd9b4abdb384ea3b2f0a",
+        "0120e295698ae105b96846ca020fb8855f00147ee9c0f65dbba818e306cb781a7d370a",
+        "0120980c19ccc381131b8f8aec0a82d6fcefca10eec53dd6843130231913e7bb11760a",
+        "012181b098842f79d913ca40ecd0c9370f98e5e5cd507e2ffce1fe5170a0dc3155100a"
       ]
     },
     "eldest_kid": "0101dc43b29232a52d7206e9a5359d5b82b7cecf0cf420a2a3dd026caf0cdaee92ed0a",
@@ -239,16 +250,16 @@
   },
   "sigs": {
     "last": {
-      "sig_id": "cb41a783ffbe55e2166b820adbe4c743da8485b93ec42348950d655f9b99066f0f",
-      "seqno": 12,
-      "payload_hash": "74a61db5346868f8db2d2233e0e857e726e8057ec00257f0cd86880cfdc3e1b9"
+      "sig_id": "c6e0ef958d43ad5cfe57dadef24c6fe87156c0b458cf6d6ac6357a8218a1f7220f",
+      "seqno": 29,
+      "payload_hash": "31090a46899d5f6297efd47bd6ff9dc9e050da655ac6a0cc46845d218ca33d0d"
     }
   },
   "devices": {
     "0530dc2669aee25076b7796444cb3918": {
       "type": "desktop",
-      "ctime": 1474848819,
-      "mtime": 1474848819,
+      "ctime": 1474852419,
+      "mtime": 1474852419,
       "name": "Andrew MBP",
       "status": 1,
       "keys": [
@@ -264,10 +275,29 @@
         }
       ]
     },
+    "127febd8116cb7df495b891cab09fb18": {
+      "type": "mobile",
+      "ctime": 1510278368,
+      "mtime": 1510278368,
+      "name": "andrew phone 2",
+      "status": 1,
+      "keys": [
+        {
+          "kid": "0120980c19ccc381131b8f8aec0a82d6fcefca10eec53dd6843130231913e7bb11760a",
+          "key_role": 1,
+          "sig_id": "ef16e4a83687818883430a502076e3778deed201a46b01373e97f079836765200f"
+        },
+        {
+          "kid": "012181b098842f79d913ca40ecd0c9370f98e5e5cd507e2ffce1fe5170a0dc3155100a",
+          "key_role": 2,
+          "sig_id": "5d4159ff82b8c9a16e82b0bafbea55e8a2e9608ae8ed4359870b76cac518b33b0f"
+        }
+      ]
+    },
     "6ba44e7d81ec4ee58491cc2c7a1ba918": {
       "type": "backup",
-      "ctime": 1474848819,
-      "mtime": 1474848819,
+      "ctime": 1474852419,
+      "mtime": 1474852419,
       "name": "exile used",
       "status": 1,
       "keys": [
